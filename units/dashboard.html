@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<!-- © 2026 Dr Vitor Merissi de Carvalho · Edu.Ai SV Digital — Edu.Ai Ecosystem framework. All rights reserved.
+     Ad Astra class dashboard (teacher page). Sits at the units root, next to index.html and registry.js.
+     Reads anonymous class hand-ins from the Worker named in registry.js → ASTRA_CONFIG.endpoint (see dashboard/worker/DEPLOY.md).
+     No names anywhere: pupils type a class code; this page shows counts. All logic in assets/astra-dashboard.js. -->
+<title>Class dashboard · Ad Astra</title>
+<meta name="description" content="Ad Astra class dashboard — anonymous, class-code-only view of check-in scores, modules, pupil voice and spaced returns, chapter by chapter.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2.5l2.2 6.6 6.8.1-5.5 4.1 2 6.6L12 16l-5.5 3.9 2-6.6L3 9.2l6.8-.1z' fill='%23B8862B'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Work+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/astra.css">
+<style>
+/* ---------- dashboard-only styles; everything else comes from astra.css ---------- */
+:root{--lv-support:#C98500;--lv-core:#2A78D6;--lv-stretch:#1BAF7A;--flag:#A3222E;--flag-soft:#FBE5E7}
+:root[data-theme="dark"]{
+  --body:#141821;--card:#1E2432;--text:#EDE7D9;--muted:#B5AC9A;--rule:rgba(233,221,190,.18);--acc-soft:rgba(255,255,255,.07);
+  --sh:0 6px 24px rgba(0,0,0,.35);--ok:#5FBF7A;--ok-soft:rgba(95,191,122,.16);--no:#F08A93;--no-soft:rgba(240,138,147,.16);
+  --flag:#F08A93;--flag-soft:rgba(240,138,147,.16);--lv-core:#3987E5;--lv-stretch:#199E70;
+  --hl:#5A4A1E;
+}
+:root[data-theme="dark"][data-subject="english"]{--acc:#E08A93}:root[data-theme="dark"][data-subject="englit"]{--acc:#BFA0DE}
+:root[data-theme="dark"][data-subject="maths"]{--acc:#8FAAE8}:root[data-theme="dark"][data-subject="combined"]{--acc:#6CC9C1}:root[data-theme="dark"][data-subject="triple"]{--acc:#9DB0E6}
+body{min-height:100vh;display:flex;flex-direction:column}
+main{flex:1}
+.hero.dash .in{grid-template-columns:1fr;padding-bottom:30px}
+.hero.dash .sub{margin-bottom:18px}
+.dashform{display:grid;grid-template-columns:minmax(0,11em) minmax(0,1fr) auto;gap:10px;align-items:end;max-width:760px}
+.dashform .lbl{display:flex;flex-direction:column;gap:4px;font-weight:600}
+.dashform .inp{width:100%;min-height:44px;text-transform:uppercase;letter-spacing:.08em;font-weight:700;font-family:var(--f-ui);background:var(--card);color:var(--text);border-color:var(--chrome-rule)}
+.dashform .sel{min-height:44px;width:100%;background:var(--card);color:var(--text)}
+.dashform .btn{min-height:44px}
+@media (max-width:640px){.dashform{grid-template-columns:1fr 1fr}.dashform .btn{grid-column:1/-1;justify-content:center}}
+@media (max-width:420px){.dashform{grid-template-columns:1fr}}
+.status{display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;margin-top:16px;font-size:.92rem;max-width:760px}
+.pill{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--chrome-rule);border-radius:999px;padding:3px 12px;font-weight:600;font-size:.82rem;white-space:nowrap}
+.pill .dot{width:9px;height:9px;border-radius:50%;background:var(--glow);flex:none}
+.pill.live .dot{background:#1D6A33;box-shadow:0 0 0 3px rgba(29,106,51,.25)}
+[data-theme="dark"] .pill.live .dot{background:#5FBF7A}
+.status p{margin:0;flex:1;min-width:14em}
+.demo-note{border:1.5px dashed var(--chrome-ink);border-radius:12px;padding:10px 14px;font-size:.9rem;max-width:760px;margin-top:12px}
+.demo-note b{display:block;margin-bottom:2px}
+.sec.tight{padding-top:28px}
+.preteach{background:var(--card);border:1px solid var(--rule);border-left:6px solid var(--flag);border-radius:var(--r);box-shadow:var(--sh);padding:16px 18px}
+.preteach.clear{border-left-color:var(--ok)}
+.preteach.quiet{border-left-color:var(--glow)}
+.preteach ul{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.preteach li{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start}
+.preteach .ch{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--flag);color:#fff;font-weight:700;font-family:var(--f-ui);font-size:.9rem}
+[data-theme="dark"] .preteach .ch{color:#141821}
+.preteach b.t{font-family:var(--f-book);font-size:1.08rem;display:block}
+.preteach p{margin:2px 0 0;color:var(--muted);font-size:.95rem}
+.preteach .lede{margin:0 0 12px;color:var(--muted)}
+.preteach .adv{margin-top:14px;padding-top:12px;border-top:1px solid var(--rule);font-size:.95rem}
+.sum{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px}
+.sum span{font-size:.85rem;border:1px solid var(--rule);background:var(--card);border-radius:999px;padding:3px 12px;color:var(--muted)}
+.sum span b{color:var(--text)}
+.dcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
+@media (max-width:400px){.dcards{grid-template-columns:1fr}}
+.dcard{background:var(--card);border:1px solid var(--rule);border-top:5px solid var(--acc);border-radius:var(--r);box-shadow:var(--sh);padding:14px 16px 16px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.dcard.flagged{border-top-color:var(--flag)}
+.dcard .head{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.dcard .kick{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--acc)}
+.dcard .last{margin-left:auto;font-size:.8rem;color:var(--muted);white-space:nowrap}
+.dcard h3{margin:0;font-size:1.2rem;overflow-wrap:anywhere}
+.flagline{display:flex;gap:8px;align-items:flex-start;background:var(--flag-soft);color:var(--text);border-radius:10px;padding:8px 12px;font-size:.9rem;font-weight:500}
+.flagline .ic{color:var(--flag);margin-top:.15em}
+.metrics{display:grid;grid-template-columns:1fr 1fr;gap:12px 16px}
+@media (max-width:520px){.metrics{grid-template-columns:1fr}}
+.m{display:flex;flex-direction:column;gap:6px;min-width:0}
+.m.wide{grid-column:1/-1}
+.m .k{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;font-weight:600;color:var(--muted);display:flex;gap:6px;align-items:baseline;flex-wrap:wrap}
+.m .k b{color:var(--text);letter-spacing:0;text-transform:none;font-size:.95rem}
+.m .k small{letter-spacing:0;text-transform:none;font-weight:500}
+.hist{width:100%;max-width:200px;height:auto;display:block;overflow:visible;font-family:var(--f-ui)}
+.hist rect.bar{fill:var(--acc)}
+.hist rect.bar.zero{fill:var(--acc-soft);stroke:var(--rule);stroke-width:1}
+.hist text{fill:var(--muted);font-size:8.5px}
+.hist text.cnt{fill:var(--text);font-weight:600}
+.hist line{stroke:var(--rule);stroke-width:1}
+.hist .lbl0{fill:var(--muted)}
+.seg{display:flex;gap:2px;height:14px;border-radius:7px;overflow:hidden;background:var(--acc-soft)}
+.seg i{display:block;height:100%}
+.seg i.support{background:var(--lv-support)}.seg i.core{background:var(--lv-core)}.seg i.stretch{background:var(--lv-stretch)}
+.legend{display:flex;gap:6px 14px;flex-wrap:wrap;font-size:.85rem;color:var(--muted)}
+.legend span{display:inline-flex;gap:6px;align-items:center}
+.legend span b{color:var(--text)}
+.legend .sw{width:10px;height:10px;border-radius:3px;display:inline-block}
+.legend .sw.support{background:var(--lv-support)}.legend .sw.core{background:var(--lv-core)}.legend .sw.stretch{background:var(--lv-stretch)}
+.voice{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.voice div{border:1px solid var(--rule);border-radius:10px;padding:6px 8px;text-align:center;min-width:0}
+.voice .n{font-family:var(--f-display);font-weight:700;font-size:1.6rem;line-height:1;display:block}
+.voice .t{font-size:.76rem;color:var(--muted);display:block;line-height:1.2;margin-top:2px}
+.voice div.hot{border-color:var(--flag);background:var(--flag-soft)}
+.voice div.hot .n{color:var(--flag)}
+.voice .pc{font-size:.74rem;font-weight:700;color:var(--flag);display:block}
+.ret{display:flex;align-items:center;gap:10px}
+.ret .trk{flex:1;height:10px;border-radius:5px;background:var(--acc-soft);overflow:hidden}
+.ret .trk i{display:block;height:100%;background:var(--ok)}
+.ret b{font-size:.95rem;min-width:3.2em;text-align:right}
+.exp{display:flex;align-items:baseline;gap:8px}
+.exp .n{font-family:var(--f-display);font-weight:700;font-size:1.6rem;line-height:1}
+.empty{color:var(--muted);font-style:italic;font-size:.9rem}
+.howto{margin:0}
+.howto ul{margin:6px 0 0;padding-left:1.2em}
+.howto li{margin:2px 0}
+.foot .dp{display:inline-block;margin-top:6px;opacity:.9}
+.themetog{display:inline-flex;align-items:center;gap:8px;background:transparent;border:1px solid var(--chrome-rule);color:var(--chrome-ink);border-radius:999px;padding:5px 12px;font-size:.88rem;cursor:pointer;font-weight:500;min-height:36px}
+.topbar nav{margin-left:auto}
+.loading-inline{display:inline-flex;gap:8px;align-items:center;color:var(--muted)}
+@media print{.dashform .btn,.themetog{display:none!important}.dcards{display:block}.dcard{break-inside:avoid;margin-bottom:12px}}
+</style>
+<script src="registry.js"></script>
+<script src="assets/astra-dashboard.js" defer></script>
+</head>
+<body data-page="dashboard">
+<main id="main"><p class="loading">Loading…</p></main>
+<noscript><p style="padding:20px">This page needs JavaScript switched on.</p></noscript>
+</body>
+</html>
