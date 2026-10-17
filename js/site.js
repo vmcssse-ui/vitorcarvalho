@@ -10,7 +10,7 @@
    ===================================================================== */
 var SITE_CONFIG = {
   linkedin: "https://www.linkedin.com/in/dr-vitor-carvalho-97133163/",
-  email: "EMAIL_ADDRESS"      // TODO
+  email: "vmcssse@gmail.com"
 };
 
 (function () {
@@ -63,6 +63,7 @@ var SITE_CONFIG = {
       a.textContent = SITE_CONFIG.email;
       el.textContent = "";
       el.appendChild(a);
+      el.classList.remove("muted");
     } else {
       el.textContent = "Email address to follow";
       el.classList.add("muted");
