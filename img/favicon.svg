@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .h{fill:none;stroke:#1B2130;stroke-width:3.2;stroke-linejoin:round}
+    .i{fill:none;stroke:#1B2130;stroke-width:1.4;stroke-linejoin:round;opacity:.55}
+    @media (prefers-color-scheme: dark){.h,.i{stroke:#ECE6D6}}
+  </style>
+  <path class="h" d="M32 4 56.2 18v28L32 60 7.8 46V18Z"/>
+  <path class="i" d="M32 11 50.2 21.5v21L32 53 13.8 42.5v-21Z"/>
+  <path d="M32 16 35.2 28.8 48 32 35.2 35.2 32 48 28.8 35.2 16 32 28.8 28.8Z" fill="#B8862B"/>
+</svg>
