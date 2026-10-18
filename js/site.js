@@ -124,6 +124,35 @@ var SITE_CONFIG = {
         units.appendChild(el("article", { class: "unit", "aria-label": u.subject + ": " + u.unit }, [plate, body]));
       });
     }
+    var lib = document.getElementById("library");
+    if (lib && d.library) {
+      lib.textContent = "";
+      d.library.forEach(function (g) {
+        var rows = g.units.map(function (u) {
+          var base = "units/" + u.slug + "/";
+          var links = el("span", { class: "lib-links" }, [
+            el("a", { href: base + "unit.html", text: "Unit" }),
+            el("a", { href: base + "ebook.html", text: "Ebook" }),
+            el("a", { href: base + "modules.html", text: "Modules" }),
+            el("a", { href: base + "arcade.html", text: "Arcade" }),
+            u.decks ? el("a", { href: "decks.html#" + u.slug, text: "Decks" }) : null
+          ]);
+          var meta = u.year + " · " + u.lessons + " lessons · " + u.chapters + " chapters" + (u.l1 ? " · 6 home languages" : "");
+          return el("li", { class: "lib-row" + (u.exemplar ? " exemplar" : "") }, [
+            el("div", null, [
+              el("span", { class: "lib-title", text: u.title }),
+              u.exemplar ? el("span", { class: "lib-badge", text: "exemplar" }) : null,
+              el("span", { class: "lib-meta", text: meta })
+            ]),
+            links
+          ]);
+        });
+        lib.appendChild(el("section", { class: "lib-group", "aria-label": g.subject }, [
+          el("h3", { text: g.subject }),
+          el("ul", null, rows)
+        ]));
+      });
+    }
     var live = document.getElementById("live");
     if (live && d.live) {
       live.textContent = "";

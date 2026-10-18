@@ -1050,16 +1050,26 @@
       h("p", { class: "eyebrow" }, "Ad Astra · core-subject ecosystem"), h("h1", null, "Read it. Check it. Choose your level. Reach the same task."),
       h("p", { class: "sub" }, "One exemplar unit for each core subject: a read-along ebook that turns like a book, and modules that adapt to each pupil — built from the department’s own lessons."),
       h("div", { class: "badges" }, ["Before the lesson", "Check-in", "Support · Core · Stretch", "The same task"].map((t, i) => h("span", { class: "badge" }, (i + 1) + " · " + t)))))));
-    const grid = h("div", { class: "ucards" }); const sec = h("section", { class: "sec" }, h("div", { class: "wrap" }, h("h2", null, "Units"), grid)); main.append(sec);
+    const sec = h("section", { class: "sec" }, h("div", { class: "wrap" })); main.append(sec); const wrap = sec.firstChild;
     const reg = (window.ASTRA_REGISTRY || []).filter((s) => SLUG_RE.test(s));
-    if (!reg.length) { grid.append(h("p", { class: "loading" }, "No units have been built yet.")); A.footer(null); return; }
-    for (const s of reg) {
-      try {
-        const u = await A.loadUnit(s, ""); const m = u.meta; const base = s + "/";
+    if (!reg.length) { wrap.append(h("p", { class: "loading" }, "No units have been built yet.")); A.footer(null); return; }
+    const ORDER = ["english", "englit", "maths", "combined", "triple"], NAMES = { english: "English Language", englit: "English Literature", maths: "Mathematics", combined: "Combined Science", triple: "Triple Science" };
+    const loaded = [];
+    for (const s of reg) { try { loaded.push([s, await A.loadUnit(s, "")]); } catch (e) { loaded.push([s, null, e]); } }
+    const sub = document.querySelector(".hero .sub"); if (sub && loaded.length > 5) sub.textContent = loaded.length + " units across the five core subjects: a read-along ebook that turns like a book, and modules that adapt to each pupil — built from the departments’ own lessons.";
+    const groups = new Map(); for (const k of ORDER) groups.set(k, []);
+    loaded.forEach((r) => { const k = r[1] ? (r[1].meta.subjectKey || "maths") : "maths"; (groups.get(k) || groups.get("maths")).push(r); });
+    for (const [k, rows] of groups) {
+      if (!rows.length) continue;
+      rows.sort((a, b) => (a[1] ? a[1].meta.year : 0) - (b[1] ? b[1].meta.year : 0) || a[0].localeCompare(b[0]));
+      const grid = h("div", { class: "ucards" }); wrap.append(h("h2", { class: "usubject" }, NAMES[k], h("span", { class: "ucount" }, " · " + rows.length + (rows.length === 1 ? " unit" : " units"))), grid);
+      for (const [s, u, e] of rows) {
+        if (!u) { grid.append(h("div", { class: "err" }, h("b", null, s), ": ", e.message)); continue; }
+        const m = u.meta; const base = s + "/";
         grid.append(h("article", { class: "ucard", "aria-labelledby": "uc-" + s }, h("img", { src: A.plateUrl(m), alt: "", loading: "lazy", width: "1600", height: "900" }),
           h("div", { class: "body" }, h("span", { class: "k" }, m.subject + " · Year " + m.year + " · " + m.board + " " + m.spec), h("h3", { id: "uc-" + s }, m.title), h("p", null, m.sub),
-            h("div", { class: "acts" }, h("a", { class: "btn small", href: base + "unit.html" }, I("grid"), "Unit"), h("a", { class: "btn ghost small", href: base + "ebook.html" }, I("book"), "Ebook"), h("a", { class: "btn ghost small", href: base + "modules.html" }, I("layers"), "Modules")))));
-      } catch (e) { grid.append(h("div", { class: "err" }, h("b", null, s), ": ", e.message)); }
+            h("div", { class: "acts" }, h("a", { class: "btn small", href: base + "unit.html" }, I("grid"), "Unit"), h("a", { class: "btn ghost small", href: base + "ebook.html" }, I("book"), "Ebook"), h("a", { class: "btn ghost small", href: base + "modules.html" }, I("layers"), "Modules"), h("a", { class: "btn ghost small", href: base + "arcade.html" }, I("game"), "Arcade")))));
+      }
     }
     A.footer(null);
   };

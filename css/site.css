@@ -659,3 +659,17 @@ blockquote.statement footer { font-family: var(--f-mono); font-size: 0.78rem; co
 
 .try-close { margin: 1.75rem 0 0; padding-top: 1.25rem; border-top: 1px solid var(--rule); font-family: var(--f-display); font-size: 1.05rem; line-height: 1.5; color: var(--ink-2); }
 .try-close a { color: var(--ink); font-weight: 600; white-space: nowrap; }
+
+/* library (samples.html) */
+.library{display:grid;gap:28px}
+.lib-group h3{font-family:var(--f-display);font-weight:500;font-size:1.5rem;margin:0 0 8px;padding-bottom:6px;border-bottom:1px solid var(--rule)}
+.lib-group ul{list-style:none;margin:0;padding:0}
+.lib-row{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 18px;padding:12px 0;border-bottom:1px dashed var(--rule)}
+.lib-row:last-child{border-bottom:0}
+.lib-title{font-weight:600;margin-right:8px}
+.lib-badge{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--gold,#B8862B);border:1px solid currentColor;border-radius:999px;padding:1px 8px;margin-right:8px;vertical-align:middle}
+.lib-meta{display:block;color:var(--ink-3);font-size:.9rem;margin-top:2px}
+.lib-links{display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center}
+.lib-links a{font-size:.95rem;white-space:nowrap}
+.lib-all{margin:22px 0 0}
+@media (max-width:600px){.lib-row{flex-direction:column}}

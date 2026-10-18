@@ -518,3 +518,7 @@ textarea.exin{min-height:3.6em;font-family:var(--f-ui);line-height:1.5;resize:ve
 
 /* ---------- print ---------- */
 @media print{.topbar,.booktools,.bookbar,.vbtn,.btn,.leafwrap,.calmtog{display:none!important}.desk{background:#fff}}
+
+/* index: subject groups */
+.usubject{font-family:var(--f-display,serif);font-weight:500;font-size:1.6rem;margin:26px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--rule,#d8d2c4)}
+.usubject .ucount{font-size:.95rem;font-weight:400;opacity:.7}
