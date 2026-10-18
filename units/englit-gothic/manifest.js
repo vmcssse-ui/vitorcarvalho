@@ -97,8 +97,162 @@ window.ASTRA_UNITS["englit-gothic"] = {
           "In this unit you will spot conventions in famous stories.",
           "Then you will use them in a Gothic story of your own.",
           "In Year 10 you will meet them again in Jekyll and Hyde."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "نوع من القصص له قواعده وأنماطه الخاصة (genre)",
+            "شيء يتضمّنه نوع من القصص عادةً (convention)",
+            "المزاج أو الإحساس الذي يبعثه مكان في القصة (atmosphere)",
+            "أشياء لا يستطيع العلم أن يفسّرها، مثل الأشباح (supernatural)",
+            "أين ومتى تجري أحداث القصة (setting)"
+          ],
+          "passage": [
+            "القصص القوطية (Gothic) تُكتب لتجعلك ترتجف.",
+            "ظهرت أولى هذه القصص في عام 1764.",
+            "كانت «قلعة أوترانتو» (The Castle of Otranto)، للكاتب هوراس والبول.",
+            "كلمة Gothic تأتي من القوط (Goths)، وهم قبيلة قديمة.",
+            "كان الناس يظنّون أن القوط متوحّشون وفظّون.",
+            "لاحقاً، أُعطي الاسم للمباني القديمة ذات الأقواس العالية المدبّبة.",
+            "القصص القوطية تجري غالباً في هذه الأماكن القديمة المظلمة.",
+            "وتستعمل الأشباح، والعواصف، والدم، والأصوات الغريبة.",
+            "الأشياء التي يتضمّنها نوع القصص عادةً تُسمّى أعرافاً (conventions).",
+            "يستعملها الكتّاب لبناء جوّ (atmosphere) من الخوف.",
+            "في هذه الوحدة ستتعرّف على الأعراف في قصص مشهورة.",
+            "ثم ستستعملها في قصة قوطية من تأليفك.",
+            "في السنة 10 ستلتقي بها مرة أخرى في «جيكل وهايد» (Jekyll and Hyde)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "rodzaj opowieści z własnymi zasadami i wzorami (genre)",
+            "coś, co dany rodzaj opowieści zwykle zawiera (convention)",
+            "nastrój lub klimat miejsca w opowieści (atmosphere)",
+            "rzeczy, których nauka nie potrafi wyjaśnić, na przykład duchy (supernatural)",
+            "gdzie i kiedy dzieje się opowieść (setting)"
+          ],
+          "passage": [
+            "Opowieści gotyckie pisze się po to, żebyś się wzdrygnął.",
+            "Pierwsza pojawiła się w 1764 roku.",
+            "Była to powieść The Castle of Otranto (Zamczysko w Otranto), którą napisał Horace Walpole.",
+            "Słowo „gotycki” pochodzi od Gotów, starożytnego plemienia.",
+            "Ludzie uważali, że Goci byli dzicy i nieokrzesani.",
+            "Później tę nazwę nadano starym budowlom z wysokimi, ostrymi łukami.",
+            "Opowieści gotyckie często dzieją się w tych starych, ciemnych miejscach.",
+            "Używają duchów, burz, krwi i dziwnych dźwięków.",
+            "Rzeczy, które dany gatunek zwykle zawiera, nazywamy konwencjami (conventions).",
+            "Pisarze używają ich, żeby zbudować atmosferę strachu.",
+            "W tym rozdziale będziesz wyszukiwać konwencje w słynnych opowieściach.",
+            "Potem użyjesz ich we własnej opowieści gotyckiej.",
+            "W klasie Year 10 spotkasz je znowu w Jekyll and Hyde."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um tipo de história com as suas próprias regras e padrões (genre, género/gênero)",
+            "algo que um tipo de história costuma incluir (convention, convenção)",
+            "o ambiente ou a sensação de um lugar numa história (atmosphere, atmosfera)",
+            "coisas que a ciência não consegue explicar, como fantasmas (supernatural, sobrenatural)",
+            "onde e quando uma história se passa (setting, cenário)"
+          ],
+          "passage": [
+            "As histórias góticas (Gothic) são escritas para fazer você estremecer.",
+            "A primeira apareceu em 1764.",
+            "Foi o livro The Castle of Otranto (O Castelo de Otranto), escrito por Horace Walpole.",
+            "A palavra Gothic vem dos godos, uma tribo antiga.",
+            "As pessoas pensavam que os godos eram selvagens e rudes.",
+            "Mais tarde, o nome foi dado a edifícios antigos com arcos altos e pontiagudos.",
+            "As histórias góticas passam-se muitas vezes nesses lugares antigos e escuros.",
+            "Usam fantasmas, tempestades, sangue e sons estranhos.",
+            "As coisas que um género/gênero costuma incluir chamam-se convenções (conventions).",
+            "Os escritores usam-nas para criar uma atmosfera de medo.",
+            "Nesta unidade você vai identificar convenções em histórias famosas.",
+            "Depois vai usá-las numa história gótica sua.",
+            "No Year 10 você vai encontrá-las de novo em Jekyll and Hyde."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "nooc sheeko oo leh xeerar iyo qaabab u gaar ah (genre)",
+            "wax nooc sheeko inta badan ku jira (convention)",
+            "dareenka ama jawiga meel sheeko ku jirta (atmosphere)",
+            "waxyaabo sayniska aan sharraxi karin, sida rooxaanta (supernatural)",
+            "meesha iyo waqtiga sheekadu ka dhacdo (setting)"
+          ],
+          "passage": [
+            "Sheekooyinka Gothic waxaa loo qoraa si ay kaa gariiriyaan.",
+            "Tii ugu horreysay waxay soo baxday 1764.",
+            "Waxay ahayd The Castle of Otranto, oo uu qoray Horace Walpole.",
+            "Erayga Gothic wuxuu ka yimid Goths, qabiil hore.",
+            "Dadku waxay u malaynayeen in Goths duurjoog iyo qallafsan yihiin.",
+            "Kadib, magaca waxaa la siiyay dhismayaal hore oo leh qaansooyin dhaadheer oo fiiqan.",
+            "Sheekooyinka Gothic inta badan waxay ka dhacaan meelahan hore oo madow.",
+            "Waxay isticmaalaan rooxaan, duufaanno, dhiig iyo dhawaaqyo qariib ah.",
+            "Waxyaabaha genre inta badan ku jiraan waxaa loo yaqaan conventions.",
+            "Qorayaashu waxay u isticmaalaan si ay u dhisaan jawi cabsi (atmosphere).",
+            "Cutubkan waxaad ku garan doontaa conventions sheekooyin caan ah.",
+            "Kadibna waxaad ku isticmaali doontaa sheeko Gothic ah oo adigu qorto.",
+            "Year 10 mar kale ayaad la kulmi doontaa Jekyll and Hyde."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тип історії зі своїми правилами та зразками (genre)",
+            "те, що певний тип історії зазвичай містить (convention)",
+            "настрій або відчуття місця в історії (atmosphere)",
+            "речі, які наука не може пояснити, наприклад привиди (supernatural)",
+            "де і коли відбувається історія (setting)"
+          ],
+          "passage": [
+            "Готичні історії (Gothic stories) написані так, щоб ви здригалися.",
+            "Перша з них з’явилася в 1764 році.",
+            "Це був «Замок Отранто» (The Castle of Otranto) Гораса Волпола.",
+            "Слово «готичний» походить від готів, стародавнього племені.",
+            "Люди вважали готів дикими й грубими.",
+            "Пізніше цю назву дали старим будівлям із високими гострими арками.",
+            "Готичні історії часто відбуваються в таких старих, темних місцях.",
+            "У них є привиди, бурі, кров і дивні звуки.",
+            "Те, що жанр (genre) зазвичай містить, називається умовностями (conventions).",
+            "Автори використовують їх, щоб створити атмосферу (atmosphere) страху.",
+            "У цьому розділі ви будете знаходити умовності у відомих історіях.",
+            "Потім ви використаєте їх у своїй власній готичній історії.",
+            "У 10-му класі (Year 10) ви зустрінете їх знову в «Джекілі і Гайді» (Jekyll and Hyde)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کہانی کی ایک قسم جس کے اپنے اصول اور انداز ہوں (genre)",
+            "ایسی چیز جو کسی قسم کی کہانی میں عموماً شامل ہوتی ہے (convention)",
+            "کہانی میں کسی جگہ کا ماحول یا احساس (atmosphere)",
+            "ایسی چیزیں جن کی سائنس وضاحت نہیں کر سکتی، جیسے بھوت (supernatural)",
+            "کہانی کہاں اور کب ہوتی ہے (setting)"
+          ],
+          "passage": [
+            "گوتھک (Gothic) کہانیاں اس لیے لکھی جاتی ہیں کہ آپ کو کپکپی آ جائے۔",
+            "پہلی کہانی 1764 میں سامنے آئی۔",
+            "یہ ہوریس والپول کی The Castle of Otranto تھی۔",
+            "لفظ Gothic گوتھ (Goths) نامی ایک قدیم قبیلے سے آیا ہے۔",
+            "لوگ سمجھتے تھے کہ گوتھ وحشی اور کھردرے لوگ تھے۔",
+            "بعد میں یہ نام اونچی، نوکدار محرابوں والی پرانی عمارتوں کو دیا گیا۔",
+            "گوتھک کہانیاں اکثر انھی پرانی، اندھیری جگہوں پر ہوتی ہیں۔",
+            "وہ بھوت، طوفان، خون اور عجیب آوازیں استعمال کرتی ہیں۔",
+            "جو چیزیں کسی genre میں عموماً شامل ہوتی ہیں، انھیں conventions کہتے ہیں۔",
+            "مصنف ان سے خوف کا ماحول بناتے ہیں۔",
+            "اس یونٹ میں آپ مشہور کہانیوں میں conventions پہچانیں گے۔",
+            "پھر آپ انھیں اپنی گوتھک کہانی میں استعمال کریں گے۔",
+            "Year 10 میں آپ انھیں Jekyll and Hyde میں دوبارہ دیکھیں گے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A castle, a tribe and a word",
@@ -283,8 +437,162 @@ window.ASTRA_UNITS["englit-gothic"] = {
           "Add an adjective: the rusted gate.",
           "Add a verb and an adverb: the rusted gate groans softly.",
           "Now the reader can see and hear your setting."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "غريب ومخيف بطريقة هادئة (eerie)",
+            "إحساس بأن شيئاً سيّئاً قادم (foreboding)",
+            "بعيد عن الناس الآخرين وعن أي مساعدة (isolated)",
+            "عندما يطابق الطقس مشاعر الشخصية (pathetic fallacy)",
+            "مبنى تهدّم مع مرور الزمن (ruin)"
+          ],
+          "passage": [
+            "القصص القوطية تحتاج إلى المكان المناسب.",
+            "فكّر في قلعة مهدّمة، أو بيت كل أنواره مطفأة.",
+            "فكّر في مقبرة في الليل، أو غابة مظلمة.",
+            "هذه الأماكن قديمة، وباردة، وبعيدة عن أي مساعدة.",
+            "يصفها الكتّاب بعناية لبناء الجوّ (atmosphere).",
+            "يستعملون النور والظلام.",
+            "ويستعملون الطقس ليُظهروا ما تشعر به الشخصية.",
+            "ويلمّحون إلى أن شيئاً ما مخفيّ.",
+            "يمكنك أن تبني وصفاً كلمة بعد كلمة.",
+            "ابدأ باسم، مثل: البوّابة.",
+            "أضف صفة: البوّابة الصدئة.",
+            "أضف فعلاً وظرفاً: البوّابة الصدئة تئنّ بخفوت.",
+            "الآن يستطيع القارئ أن يرى مكانك ويسمعه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "dziwny i przerażający w cichy sposób (eerie)",
+            "przeczucie, że nadchodzi coś złego (foreboding)",
+            "daleko od innych ludzi i od pomocy (isolated)",
+            "kiedy pogoda pasuje do uczuć postaci (pathetic fallacy)",
+            "budynek, który rozpadł się ze starości (ruin)"
+          ],
+          "passage": [
+            "Opowieści gotyckie potrzebują odpowiedniego miejsca.",
+            "Pomyśl o zrujnowanym zamku albo o domu, w którym nie świeci się żadne światło.",
+            "Pomyśl o cmentarzu nocą albo o ciemnym lesie.",
+            "Te miejsca są stare, zimne i daleko od pomocy.",
+            "Pisarze opisują je starannie, żeby zbudować atmosferę.",
+            "Używają światła i ciemności.",
+            "Używają pogody, żeby pokazać, co czuje postać.",
+            "Dają do zrozumienia, że coś jest ukryte.",
+            "Możesz budować opis słowo po słowie.",
+            "Zacznij od rzeczownika, na przykład brama.",
+            "Dodaj przymiotnik: zardzewiała brama.",
+            "Dodaj czasownik i przysłówek: zardzewiała brama cicho skrzypi.",
+            "Teraz czytelnik może zobaczyć i usłyszeć twoje miejsce akcji."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "estranho e assustador de uma maneira silenciosa (eerie, sinistro)",
+            "a sensação de que algo mau está a chegar/está chegando (foreboding, mau presságio)",
+            "longe das outras pessoas e de qualquer ajuda (isolated, isolado)",
+            "quando o tempo combina com os sentimentos de uma personagem (pathetic fallacy)",
+            "um edifício que se desfez com a idade (ruin, ruína)"
+          ],
+          "passage": [
+            "As histórias góticas precisam do lugar certo.",
+            "Pense num castelo em ruínas, ou numa casa com as luzes todas apagadas.",
+            "Pense num cemitério à noite, ou numa floresta escura.",
+            "Esses lugares são antigos, frios e longe de qualquer ajuda.",
+            "Os escritores descrevem-nos com cuidado para criar uma atmosfera.",
+            "Usam a luz e a escuridão.",
+            "Usam o tempo para mostrar como uma personagem se sente.",
+            "Dão a entender que há algo escondido.",
+            "Você pode construir uma descrição uma palavra de cada vez.",
+            "Comece com um substantivo, como the gate (o portão).",
+            "Acrescente um adjetivo: the rusted gate (o portão enferrujado).",
+            "Acrescente um verbo e um advérbio: the rusted gate groans softly (o portão enferrujado range baixinho).",
+            "Agora o leitor consegue ver e ouvir o seu cenário."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qariib iyo cabsi leh si aamusan (eerie)",
+            "dareen ah in wax xun soo socdaan (foreboding)",
+            "ka fog dadka kale iyo caawimaad (isolated)",
+            "marka cimiladu la jaanqaaddo dareenka jile (pathetic fallacy)",
+            "dhisme da' dartii burburay (ruin)"
+          ],
+          "passage": [
+            "Sheekooyinka Gothic waxay u baahan yihiin meesha saxda ah.",
+            "Ka fikir qalcad burburtay, ama guri aan nal shidnayn.",
+            "Ka fikir xabaalo habeenkii, ama kayn madow.",
+            "Meelahan waa kuwo da' weyn, qabow oo caawimaad ka fog.",
+            "Qorayaashu si taxaddar leh ayay u sharraxaan si ay u dhisaan jawi (atmosphere).",
+            "Waxay isticmaalaan iftiin iyo mugdi.",
+            "Waxay isticmaalaan cimilada si ay u muujiyaan sida jile dareemayo.",
+            "Waxay tilmaamaan in wax qarsoon yihiin.",
+            "Sharraxaad waxaad dhisi kartaa eray eray.",
+            "Ku bilow magac (noun), sida the gate.",
+            "Ku dar tilmaan (adjective): the rusted gate.",
+            "Ku dar fal iyo fal-tilmaame (adverb): the rusted gate groans softly.",
+            "Hadda akhristuhu wuu arki karaa oo maqli karaa goobtaada (setting)."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "дивний і моторошний, хоч і тихий (eerie)",
+            "відчуття, що наближається щось погане (foreboding)",
+            "далеко від інших людей і від допомоги (isolated)",
+            "коли погода відповідає почуттям персонажа (pathetic fallacy)",
+            "будівля, яка розвалилася від старості (ruin)"
+          ],
+          "passage": [
+            "Готичним історіям потрібне правильне місце.",
+            "Уявіть зруйнований замок або будинок, у якому не світиться.",
+            "Уявіть кладовище вночі або темний ліс.",
+            "Ці місця старі, холодні й далекі від допомоги.",
+            "Автори описують їх уважно, щоб створити атмосферу.",
+            "Вони використовують світло і темряву.",
+            "Вони використовують погоду, щоб показати, що відчуває персонаж.",
+            "Вони натякають, що щось приховано.",
+            "Ви можете будувати опис по одному слову.",
+            "Почніть з іменника, наприклад «ворота».",
+            "Додайте прикметник: «іржаві ворота».",
+            "Додайте дієслово й прислівник: «іржаві ворота тихо стогнуть».",
+            "Тепер читач може бачити й чути ваше місце дії (setting)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "خاموش طریقے سے عجیب اور ڈراؤنا (eerie)",
+            "یہ احساس کہ کچھ بُرا ہونے والا ہے (foreboding)",
+            "دوسرے لوگوں اور مدد سے دور (isolated)",
+            "جب موسم کردار کے جذبات سے میل کھاتا ہے (pathetic fallacy)",
+            "ایسی عمارت جو پرانی ہو کر ٹوٹ پھوٹ گئی ہو (ruin)"
+          ],
+          "passage": [
+            "گوتھک کہانیوں کو صحیح جگہ چاہیے ہوتی ہے۔",
+            "ایک ٹوٹے پھوٹے قلعے کے بارے میں سوچیں، یا ایسے گھر کے بارے میں جس کی بتیاں بند ہوں۔",
+            "رات کے قبرستان کے بارے میں سوچیں، یا کسی اندھیرے جنگل کے بارے میں۔",
+            "یہ جگہیں پرانی، ٹھنڈی اور مدد سے دور ہیں۔",
+            "مصنف ماحول بنانے کے لیے ان کا بیان بہت دھیان سے کرتے ہیں۔",
+            "وہ روشنی اور اندھیرا استعمال کرتے ہیں۔",
+            "وہ موسم کو استعمال کر کے دکھاتے ہیں کہ کردار کیا محسوس کرتا ہے۔",
+            "وہ اشارہ دیتے ہیں کہ کچھ چھپا ہوا ہے۔",
+            "آپ ایک بیان ایک ایک لفظ جوڑ کر بنا سکتے ہیں۔",
+            "ایک اسم سے شروع کریں، جیسے the gate (پھاٹک)۔",
+            "ایک صفت جوڑیں: the rusted gate (زنگ آلود پھاٹک)۔",
+            "ایک فعل اور ایک متعلق فعل جوڑیں: the rusted gate groans softly (زنگ آلود پھاٹک دھیمے سے کراہتا ہے)۔",
+            "اب قاری آپ کی جگہ کو دیکھ اور سن سکتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where Gothic stories happen",
@@ -509,8 +817,162 @@ window.ASTRA_UNITS["englit-gothic"] = {
           "Something small is wrong: the teeth, the hands, the eyes.",
           "This feeling is called the uncanny.",
           "You will create a Gothic character of your own."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "نوع من الشخصيات يظهر في قصص كثيرة (archetype)",
+            "صفة تجعل الشخصية ما هي عليه (trait)",
+            "يمنح اسمه لعنوان الكتاب (eponymous)",
+            "الشخصية التي تعمل ضدّ البطل (antagonist)",
+            "مألوف، لكنه غريب بطريقة تُقلقك (uncanny)"
+          ],
+          "passage": [
+            "القصص القوطية تستعمل الأنواع نفسها من الشخصيات مرة بعد مرة.",
+            "نسمّي هذه الأنواع من الشخصيات نماذج أصلية (archetypes).",
+            "البطل البايروني (Byronic hero) متكبّر ومتقلّب المزاج ووحيد.",
+            "وهو مسمّى على اسم الشاعر اللورد بايرون (Lord Byron).",
+            "الفتاة في محنة (damsel in distress) شابّة في خطر.",
+            "وغالباً يحبسها رجل قاسٍ في قلعة.",
+            "المرأة الفاتنة القاتلة (femme fatale) ساحرة لكن معرفتها خطرة.",
+            "الخصم (antagonist) هو الشرّير الذي يعمل ضدّ البطل.",
+            "دراكولا (Dracula) ومخلوق فرانكنشتاين (Frankenstein) خصمان مشهوران.",
+            "يجعلهما الكتّاب مخيفَين بأن يجعلاهما شبه بشريَّين.",
+            "شيء صغير ليس في مكانه: الأسنان، أو اليدان، أو العينان.",
+            "هذا الإحساس يُسمّى الغرابة المقلقة (the uncanny).",
+            "ستبتكر شخصية قوطية من تأليفك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "typ postaci, który pojawia się w wielu opowieściach (archetype)",
+            "cecha, która sprawia, że postać jest taka, jaka jest (trait)",
+            "dający swoje imię tytułowi książki (eponymous)",
+            "postać, która działa przeciw bohaterowi (antagonist)",
+            "znajomy, ale dziwny w sposób, który cię niepokoi (uncanny)"
+          ],
+          "passage": [
+            "Opowieści gotyckie używają wciąż tych samych rodzajów postaci.",
+            "Te typy postaci nazywamy archetypami (archetypes).",
+            "Bohater bajroniczny (Byronic hero) jest dumny, posępny i samotny.",
+            "Nazwano go od poety lorda Byrona.",
+            "Dama w opałach (damsel in distress) to młoda kobieta w niebezpieczeństwie.",
+            "Często jest zamknięta w zamku przez okrutnego mężczyznę.",
+            "Femme fatale jest czarująca, ale znajomość z nią jest niebezpieczna.",
+            "Antagonista (antagonist) to złoczyńca, który działa przeciw bohaterowi.",
+            "Drakula i stwór Frankensteina to słynni antagoniści.",
+            "Pisarze czynią ich przerażającymi, czyniąc ich niemal ludzkimi.",
+            "Coś małego jest nie tak: zęby, ręce, oczy.",
+            "To uczucie nazywa się niesamowitością (the uncanny).",
+            "Stworzysz własną postać gotycką."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um tipo de personagem que aparece em muitas histórias (archetype, arquétipo)",
+            "uma qualidade que faz de uma personagem quem ela é (trait, traço)",
+            "que dá o seu nome ao título do livro (eponymous, epónimo/epônimo)",
+            "a personagem que trabalha contra o herói (antagonist, antagonista)",
+            "familiar, mas estranho de uma maneira que perturba (uncanny)"
+          ],
+          "passage": [
+            "As histórias góticas usam os mesmos tipos de personagem vezes sem conta.",
+            "Chamamos a esses tipos de personagem arquétipos (archetypes).",
+            "O herói byroniano (Byronic hero) é orgulhoso, temperamental e solitário.",
+            "Recebe o nome do poeta Lord Byron.",
+            "A donzela em perigo (damsel in distress) é uma jovem mulher em perigo.",
+            "Muitas vezes está fechada num castelo por um homem cruel.",
+            "A femme fatale é encantadora, mas é perigoso conhecê-la.",
+            "O antagonista é o vilão que trabalha contra o herói.",
+            "Dracula e a criatura de Frankenstein são antagonistas famosos.",
+            "Os escritores tornam-nos assustadores ao fazê-los quase humanos.",
+            "Alguma coisa pequena está errada: os dentes, as mãos, os olhos.",
+            "Esta sensação chama-se o uncanny (o estranho familiar).",
+            "Você vai criar uma personagem gótica sua."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "nooc jile oo sheekooyin badan ka soo muuqda (archetype)",
+            "tayo jile ka dhigta qofka uu yahay (trait)",
+            "magaciisa siinaya cinwaanka buugga (eponymous)",
+            "jilaha ka shaqeeya geesiga dhankiisa kale (antagonist)",
+            "la yaqaan, laakiin si qariib ah oo ku dhibta (uncanny)"
+          ],
+          "passage": [
+            "Sheekooyinka Gothic isku noocyo jilayaal ayay isticmaalaan marar badan.",
+            "Noocyadan jilayaasha waxaan ugu yeernaa archetypes.",
+            "Byronic hero waa qof isla weyn, niyad-rogma oo keligiis ah.",
+            "Waxaa loogu magac daray gabayaaga Lord Byron.",
+            "Damsel in distress waa gabar da'yar oo khatar ku jirta.",
+            "Inta badan nin naxariis daran ayaa qalcad ku xiraa.",
+            "Femme fatale waa mid soo jiidasho leh laakiin khatar in la barto.",
+            "Antagonist waa shar-falaha ka shaqeeya geesiga dhankiisa kale.",
+            "Dracula iyo makhluuqii Frankenstein waa antagonists caan ah.",
+            "Qorayaashu cabsi ayay ka dhigaan iyagoo ka dhigaya kuwo ku dhow bini'aadan.",
+            "Wax yar ayaa khaldan: ilkaha, gacmaha, indhaha.",
+            "Dareenkan waxaa loo yaqaan uncanny.",
+            "Adigu jile Gothic ah ayaad abuuri doontaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тип персонажа, який з’являється в багатьох історіях (archetype)",
+            "риса, яка робить персонажа тим, ким він є (trait)",
+            "той, чиє ім’я стоїть у назві книги (eponymous)",
+            "персонаж, який діє проти героя (antagonist)",
+            "знайомий, але дивний так, що це вас тривожить (uncanny)"
+          ],
+          "passage": [
+            "Готичні історії знову і знову використовують ті самі види персонажів.",
+            "Ми називаємо ці типи персонажів архетипами (archetypes).",
+            "Байронічний герой (Byronic hero) гордий, похмурий і самотній.",
+            "Його названо на честь поета лорда Байрона.",
+            "Дівчина в біді (damsel in distress) — це молода жінка в небезпеці.",
+            "Її часто замикає в замку жорстокий чоловік.",
+            "Фатальна жінка (femme fatale) чарівна, але небезпечна для знайомства.",
+            "Антагоніст (antagonist) — це лиходій, який діє проти героя.",
+            "Дракула і створіння Франкенштейна — відомі антагоністи.",
+            "Автори роблять їх страшними, роблячи їх майже людьми.",
+            "Щось маленьке не так: зуби, руки, очі.",
+            "Це відчуття називається моторошним (the uncanny).",
+            "Ви створите власного готичного персонажа."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کردار کی ایک قسم جو بہت سی کہانیوں میں آتی ہے (archetype)",
+            "ایک خاصیت جو کردار کو وہ بناتی ہے جو وہ ہے (trait)",
+            "جس کا نام کتاب کے عنوان کو دیا گیا ہو (eponymous)",
+            "وہ کردار جو ہیرو کے خلاف کام کرتا ہے (antagonist)",
+            "جانا پہچانا، مگر ایسے عجیب کہ آپ بے چین ہو جائیں (uncanny)"
+          ],
+          "passage": [
+            "گوتھک کہانیاں ایک ہی قسم کے کردار بار بار استعمال کرتی ہیں۔",
+            "ہم کردار کی ان قسموں کو archetypes کہتے ہیں۔",
+            "Byronic hero مغرور، موڈی اور اکیلا ہوتا ہے۔",
+            "اس کا نام شاعر لارڈ بائرن کے نام پر ہے۔",
+            "damsel in distress ایک نوجوان عورت ہے جو خطرے میں ہے۔",
+            "اسے اکثر ایک ظالم آدمی قلعے میں بند کر دیتا ہے۔",
+            "femme fatale دلکش ہوتی ہے مگر اسے جاننا خطرناک ہے۔",
+            "antagonist وہ ولن ہے جو ہیرو کے خلاف کام کرتا ہے۔",
+            "ڈریکولا اور فرینکنسٹائن کی مخلوق مشہور antagonists ہیں۔",
+            "مصنف انھیں تقریباً انسان جیسا بنا کر ڈراؤنا بناتے ہیں۔",
+            "کوئی چھوٹی سی چیز غلط ہوتی ہے: دانت، ہاتھ، آنکھیں۔",
+            "اس احساس کو uncanny کہتے ہیں۔",
+            "آپ اپنا ایک گوتھک کردار بنائیں گے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The Byronic hero",
@@ -720,8 +1182,162 @@ window.ASTRA_UNITS["englit-gothic"] = {
           "In Jane Eyre, a girl is locked in a red room.",
           "The red reminds us of blood.",
           "She sees a ghostly figure in the mirror: herself."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "التوتّر الذي تشعر به عندما لا تعرف كيف ستنتهي الأمور (tension)",
+            "القلق في انتظار معرفة ما سيحدث بعد ذلك (suspense)",
+            "فكرة كبيرة تستكشفها القصة (theme)",
+            "أن تكون محاصراً بلا مخرج (entrapment)",
+            "خوف ثقيل من شيء قادم (dread)"
+          ],
+          "passage": [
+            "الكتّاب القوطيون يريدونك أن تشعر بشيئَين.",
+            "الأول هو التوتّر (tension).",
+            "التوتّر هو الضغط، لأنك لا تعرف كيف ستنتهي الأمور.",
+            "والثاني هو التشويق (suspense).",
+            "التشويق هو القلق بشأن ما سيحدث بعد ذلك.",
+            "يبنيهما الكتّاب بالجمل القصيرة والتأخير.",
+            "ويلمّحون إلى الخطر قبل أن يصل.",
+            "القصص القوطية تشترك أيضاً في أفكار كبيرة، تُسمّى موضوعات (themes).",
+            "من هذه الموضوعات الخوف، والموت، والجنون، والعزلة.",
+            "موضوع آخر هو الحصار (entrapment): أن تُحبس في مكان.",
+            "في «جين إير» (Jane Eyre)، تُحبس فتاة في غرفة حمراء.",
+            "اللون الأحمر يذكّرنا بالدم.",
+            "ترى شكلاً شبحياً في المرآة: نفسها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "napięcie, które czujesz, kiedy nie wiesz, jak sprawy się skończą (tension)",
+            "niepokój oczekiwania, żeby dowiedzieć się, co będzie dalej (suspense)",
+            "wielka idea, którą bada opowieść (theme)",
+            "bycie uwięzionym bez wyjścia (entrapment)",
+            "ciężki strach przed czymś, co nadchodzi (dread)"
+          ],
+          "passage": [
+            "Pisarze gotyccy chcą, żebyś poczuł dwie rzeczy.",
+            "Pierwsza to napięcie (tension).",
+            "Napięcie to stres, bo nie wiesz, jak sprawy się skończą.",
+            "Druga to suspens (suspense).",
+            "Suspens to niepokój o to, co będzie dalej.",
+            "Pisarze budują je krótkimi zdaniami i opóźnieniami.",
+            "Dają do zrozumienia, że zbliża się niebezpieczeństwo, zanim ono nadejdzie.",
+            "Opowieści gotyckie mają też wspólne wielkie idee, zwane tematami (themes).",
+            "Tematy obejmują strach, śmierć, szaleństwo i samotność.",
+            "Innym tematem jest uwięzienie (entrapment): bycie zamkniętym.",
+            "W Jane Eyre dziewczynka zostaje zamknięta w czerwonym pokoju.",
+            "Czerwień przypomina nam o krwi.",
+            "Widzi w lustrze upiorną postać: samą siebie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o stress que você sente quando não sabe como as coisas vão acabar (tension, tensão)",
+            "a aflição de esperar para descobrir o que acontece a seguir (suspense)",
+            "uma grande ideia que uma história explora (theme, tema)",
+            "estar preso sem saída (entrapment, aprisionamento)",
+            "um medo pesado de algo que está a chegar/está chegando (dread, pavor)"
+          ],
+          "passage": [
+            "Os escritores góticos querem que você sinta duas coisas.",
+            "A primeira é a tensão (tension).",
+            "Tensão é stress, porque você não sabe como as coisas vão acabar.",
+            "A segunda é o suspense.",
+            "Suspense é a aflição sobre o que acontece a seguir.",
+            "Os escritores constroem-nos com frases curtas e demoras.",
+            "Dão pistas do perigo antes de ele chegar.",
+            "As histórias góticas também partilham/compartilham grandes ideias, chamadas temas (themes).",
+            "Os temas incluem o medo, a morte, a loucura e o isolamento.",
+            "Outro tema é o aprisionamento (entrapment): estar fechado.",
+            "Em Jane Eyre, uma menina é fechada num quarto vermelho.",
+            "O vermelho lembra-nos o sangue.",
+            "Ela vê uma figura fantasmagórica no espelho: ela mesma."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "kacsanaanta aad dareento markaadan garanayn sida ay wax u dhammaan doonaan (tension)",
+            "walwalka sugidda inaad ogaato waxa xiga (suspense)",
+            "fikrad weyn oo sheeko baarto (theme)",
+            "la xiran yahay iyadoon meel laga baxo jirin (entrapment)",
+            "cabsi culus oo ku saabsan wax soo socda (dread)"
+          ],
+          "passage": [
+            "Qorayaasha Gothic waxay doonayaan inaad laba wax dareento.",
+            "Tii hore waa kacsanaan (tension).",
+            "Tension waa walwal, sababtoo ah ma garanaysid sida ay wax u dhammaan doonaan.",
+            "Tii labaad waa suspense.",
+            "Suspense waa walwal ku saabsan waxa xiga.",
+            "Qorayaashu waxay ku dhisaan weedho gaagaaban iyo dib-u-dhigid.",
+            "Khatarta ayay tilmaamaan ka hor intaanay iman.",
+            "Sheekooyinka Gothic sidoo kale waxay wadaagaan fikrado waaweyn, oo loo yaqaan themes.",
+            "Themes-ku waxaa ka mid ah cabsi, dhimasho, waalli iyo gooni-isu-taag.",
+            "Theme kale waa entrapment: in lagu xiro gudaha.",
+            "Jane Eyre, gabar waxaa lagu xiraa qol casaan.",
+            "Casaanku dhiig ayuu ina xasuusiyaa.",
+            "Waxay muraayadda ku aragtaa qof rooxaan u eg: iyada qudheeda."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "напруга, яку ви відчуваєте, коли не знаєте, чим усе закінчиться (tension)",
+            "тривога від очікування того, що станеться далі (suspense)",
+            "велика ідея, яку досліджує історія (theme)",
+            "бути в пастці без виходу (entrapment)",
+            "важкий страх перед тим, що наближається (dread)"
+          ],
+          "passage": [
+            "Готичні автори хочуть, щоб ви відчули дві речі.",
+            "Перша — це напруга (tension).",
+            "Напруга — це стрес, бо ви не знаєте, чим усе закінчиться.",
+            "Друга — це тривожне очікування (suspense).",
+            "Тривожне очікування — це хвилювання про те, що станеться далі.",
+            "Автори створюють їх короткими реченнями та затримками.",
+            "Вони натякають на небезпеку до того, як вона приходить.",
+            "Готичні історії також мають спільні великі ідеї, які називаються темами (themes).",
+            "Серед тем — страх, смерть, безумство та самотність.",
+            "Ще одна тема — пастка (entrapment): бути замкненим.",
+            "У «Джейн Ейр» (Jane Eyre) дівчинку замикають у червоній кімнаті.",
+            "Червоний колір нагадує нам про кров.",
+            "Вона бачить примарну постать у дзеркалі: саму себе."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ دباؤ جو آپ تب محسوس کرتے ہیں جب آپ کو پتا نہ ہو کہ بات کیسے ختم ہو گی (tension)",
+            "یہ جاننے کے انتظار کی پریشانی کہ آگے کیا ہوتا ہے (suspense)",
+            "ایک بڑا خیال جس کو کہانی کھوجتی ہے (theme)",
+            "پھنس جانا، نکلنے کا کوئی راستہ نہ ہونا (entrapment)",
+            "آنے والی کسی چیز کا بھاری خوف (dread)"
+          ],
+          "passage": [
+            "گوتھک مصنف چاہتے ہیں کہ آپ دو چیزیں محسوس کریں۔",
+            "پہلی ہے کھنچاؤ (tension)۔",
+            "Tension دباؤ ہے، کیونکہ آپ کو پتا نہیں کہ بات کیسے ختم ہو گی۔",
+            "دوسری ہے تجسس (suspense)۔",
+            "Suspense اس بات کی پریشانی ہے کہ آگے کیا ہوتا ہے۔",
+            "مصنف انھیں چھوٹے جملوں اور تاخیر سے بناتے ہیں۔",
+            "وہ خطرے کے آنے سے پہلے اس کا اشارہ دیتے ہیں۔",
+            "گوتھک کہانیوں میں مشترک بڑے خیال بھی ہوتے ہیں، جنھیں themes کہتے ہیں۔",
+            "ان themes میں خوف، موت، پاگل پن اور تنہائی شامل ہیں۔",
+            "ایک اور theme ہے entrapment: بند کر دیا جانا۔",
+            "Jane Eyre میں ایک لڑکی کو ایک لال کمرے میں بند کر دیا جاتا ہے۔",
+            "لال رنگ ہمیں خون کی یاد دلاتا ہے۔",
+            "وہ آئینے میں ایک بھوت جیسی شکل دیکھتی ہے: خود کو۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Tension or suspense?",
@@ -922,8 +1538,162 @@ window.ASTRA_UNITS["englit-gothic"] = {
           "You can jump back in time, or forward.",
           "You can change the focus from the sky to a single hand.",
           "Shifts give your story shape."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "افتتاحية تجذب انتباه القارئ (hook)",
+            "البدء في وسط الحدث (in medias res)",
+            "الصوت الذي يروي القصة (narrator)",
+            "لا يُوثَق به (unreliable)",
+            "قفزة إلى وقت سابق في القصة (flashback)"
+          ],
+          "passage": [
+            "السطر الأول في القصة وعد.",
+            "يخبر القارئ بنوع هذه القصة.",
+            "بعض القصص تبدأ في وسط الحدث.",
+            "وبعضها يبدأ من النهاية وينظر إلى الوراء.",
+            "وبعضها يبني التشويق، وبعضها يرسم المشهد.",
+            "بعد ذلك، قرّر من يروي القصة.",
+            "الراوي بضمير المتكلّم يقول «أنا»، فنشاركه خوفه.",
+            "الراوي بضمير الغائب يستطيع أن يرى كل شيء.",
+            "بعض الرواة لا يمكن الوثوق بهم.",
+            "وأخيراً، فكّر في التحوّلات (shifts).",
+            "يمكنك أن تقفز إلى الوراء في الزمن، أو إلى الأمام.",
+            "يمكنك أن تنقل التركيز من السماء إلى يد واحدة.",
+            "التحوّلات تعطي قصتك شكلاً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "początek, który przyciąga uwagę czytelnika (hook)",
+            "zaczynanie w środku akcji (in medias res)",
+            "głos, który opowiada historię (narrator)",
+            "taki, któremu nie można ufać (unreliable)",
+            "skok wstecz do wcześniejszego czasu w opowieści (flashback)"
+          ],
+          "passage": [
+            "Pierwsza linijka opowieści to obietnica.",
+            "Mówi czytelnikowi, jakiego rodzaju jest ta opowieść.",
+            "Niektóre opowieści zaczynają się w środku akcji.",
+            "Niektóre zaczynają się od końca i patrzą wstecz.",
+            "Niektóre budują suspens, a niektóre nakreślają scenę.",
+            "Następnie zdecyduj, kto opowiada historię.",
+            "Narrator w pierwszej osobie mówi „ja” i dzielimy jego strach.",
+            "Narrator w trzeciej osobie może widzieć wszystko.",
+            "Niektórym narratorom nie można ufać.",
+            "Na koniec pomyśl o zmianach (shifts).",
+            "Możesz skoczyć wstecz w czasie albo do przodu.",
+            "Możesz zmienić skupienie z nieba na jedną dłoń.",
+            "Zmiany nadają twojej opowieści kształt."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um início que agarra a atenção do leitor (hook)",
+            "começar no meio da ação (in medias res)",
+            "a voz que conta a história (narrator, narrador)",
+            "em quem não se pode confiar (unreliable, não fiável/não confiável)",
+            "um salto para trás, para um momento anterior da história (flashback)"
+          ],
+          "passage": [
+            "A primeira linha de uma história é uma promessa.",
+            "Diz ao leitor que tipo de história é esta.",
+            "Algumas histórias começam no meio da ação.",
+            "Algumas começam no fim e olham para trás.",
+            "Algumas criam suspense, e outras apresentam a cena.",
+            "A seguir, decida quem conta a história.",
+            "Um narrador na primeira pessoa diz ‘eu’, e nós partilhamos/compartilhamos o seu medo.",
+            "Um narrador na terceira pessoa consegue ver tudo.",
+            "Em alguns narradores não se pode confiar.",
+            "Por fim, pense nas mudanças (shifts).",
+            "Você pode saltar para trás no tempo, ou para a frente.",
+            "Você pode mudar o foco do céu para uma única mão.",
+            "As mudanças dão forma à sua história."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "bilow dareenka akhristaha qabsata (hook)",
+            "ka bilaabid dhexda ficilka (in medias res)",
+            "codka sheekada sheegaya (narrator)",
+            "aan la aamini karin (unreliable)",
+            "dib u boodid waqti hore oo sheekada ah (flashback)"
+          ],
+          "passage": [
+            "Xariiqda ugu horreysa ee sheeko waa ballan.",
+            "Akhristaha ayay u sheegtaa nooca sheekadani tahay.",
+            "Sheekooyin qaar waxay ka bilaabmaan dhexda ficilka.",
+            "Qaar waxay ka bilaabmaan dhammaadka oo dib ayay u eegaan.",
+            "Qaar suspense ayay dhisaan, qaarna goobta ayay sawiraan.",
+            "Kadibna, go'aanso cidda sheekada sheegaysa.",
+            "Sheege qof-koowaad (first-person narrator) wuxuu yiraahdaa I, cabsidiisana waan la wadaagnaa.",
+            "Sheege qof-saddexaad (third-person narrator) wax walba wuu arki karaa.",
+            "Sheegayaasha qaar lama aamini karo.",
+            "Ugu dambayn, ka fikir isbeddellada (shifts).",
+            "Waqti dib ayaad u boodi kartaa, ama hore.",
+            "Diiradda waxaad ka beddeli kartaa cirka una beddeli kartaa hal gacan.",
+            "Shifts-ku sheekadaada qaab ayay siiyaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "початок, який захоплює увагу читача (hook)",
+            "починати із середини дії (in medias res)",
+            "голос, який розповідає історію (narrator)",
+            "такий, якому не можна довіряти (unreliable)",
+            "стрибок назад у раніший час історії (flashback)"
+          ],
+          "passage": [
+            "Перший рядок історії — це обіцянка.",
+            "Він говорить читачеві, яка це історія.",
+            "Деякі історії починаються із середини дії.",
+            "Деякі починаються з кінця і дивляться назад.",
+            "Деякі нарощують тривожне очікування, а деякі описують сцену.",
+            "Далі вирішіть, хто розповідає історію.",
+            "Оповідач (narrator) від першої особи каже «я», і ми поділяємо його страх.",
+            "Оповідач від третьої особи може бачити все.",
+            "Деяким оповідачам не можна довіряти.",
+            "Нарешті, подумайте про переходи (shifts).",
+            "Ви можете стрибнути назад у часі або вперед.",
+            "Ви можете змінити фокус із неба на одну руку.",
+            "Переходи надають вашій історії форму."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسی شروعات جو قاری کی توجہ پکڑ لے (hook)",
+            "ایکشن کے بیچ سے شروع کرنا (in medias res)",
+            "وہ آواز جو کہانی سناتی ہے (narrator)",
+            "جس پر بھروسا نہ کیا جا سکے (unreliable)",
+            "کہانی میں پہلے کے وقت کی طرف واپس چھلانگ (flashback)"
+          ],
+          "passage": [
+            "کہانی کی پہلی سطر ایک وعدہ ہے۔",
+            "یہ قاری کو بتاتی ہے کہ یہ کس قسم کی کہانی ہے۔",
+            "کچھ کہانیاں ایکشن کے بیچ سے شروع ہوتی ہیں۔",
+            "کچھ آخر سے شروع ہو کر پیچھے دیکھتی ہیں۔",
+            "کچھ تجسس بناتی ہیں، اور کچھ منظر قائم کرتی ہیں۔",
+            "اس کے بعد فیصلہ کریں کہ کہانی کون سناتا ہے۔",
+            "پہلے شخص کا راوی (first-person narrator) ‘I’ کہتا ہے، اور ہم اس کے خوف میں شریک ہوتے ہیں۔",
+            "تیسرے شخص کا راوی (third-person narrator) سب کچھ دیکھ سکتا ہے۔",
+            "کچھ راویوں پر بھروسا نہیں کیا جا سکتا۔",
+            "آخر میں تبدیلیوں (shifts) کے بارے میں سوچیں۔",
+            "آپ وقت میں پیچھے چھلانگ لگا سکتے ہیں، یا آگے۔",
+            "آپ توجہ کا رخ آسمان سے ایک اکیلے ہاتھ کی طرف بدل سکتے ہیں۔",
+            "Shifts آپ کی کہانی کو شکل دیتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Hooking the reader",
@@ -1144,8 +1914,162 @@ window.ASTRA_UNITS["englit-gothic"] = {
           "Improve your work with a purple pen.",
           "In the assessment you have 45 minutes to write a Gothic scene.",
           "Spend the first five minutes planning."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تقرّر ما سيحدث قبل أن تكتب (plan)",
+            "اللحظة الأكبر، التي يؤدّي إليها كل شيء (crisis)",
+            "كيف تُحلّ المشكلة في النهاية (resolution)",
+            "نسخة أولى من كتابتك ستحسّنها لاحقاً (draft)",
+            "الوصف القصير على ظهر الكتاب (blurb)"
+          ],
+          "passage": [
+            "لكل قصة شكل.",
+            "نسمّيه جبل القصة (story mountain).",
+            "تبدأ بهدوء، ثم تظهر مشكلة.",
+            "تكبر المشكلة حتى الأزمة (crisis)، وهي اللحظة الأكبر.",
+            "بعد الأزمة يأتي الحلّ (resolution).",
+            "ثم تنتهي القصة.",
+            "خطّط لقصتك بهذا الترتيب، حتى لو بدأت من النهاية.",
+            "ثم اكتب مسوّدتك (draft).",
+            "استعمل جاذباً (hook)، وأعرافاً قوطية، وتحوّلاً في السرد.",
+            "تبادل مع زميل وقدّما لبعضكما ملاحظات.",
+            "حسّن عملك بالقلم البنفسجي.",
+            "في التقييم لديك 45 دقيقة لكتابة مشهد قوطي.",
+            "اقضِ الدقائق الخمس الأولى في التخطيط."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zdecydować, co się wydarzy, zanim zaczniesz pisać (plan)",
+            "najważniejszy moment, do którego wszystko prowadzi (crisis)",
+            "to, jak problem zostaje rozwiązany na końcu (resolution)",
+            "pierwsza wersja twojego tekstu, którą poprawisz (draft)",
+            "krótki opis na tylnej okładce książki (blurb)"
+          ],
+          "passage": [
+            "Każda opowieść ma kształt.",
+            "Nazywamy go górą opowieści (story mountain).",
+            "Zaczyna się spokojnie, potem pojawia się problem.",
+            "Problem rośnie aż do kryzysu (crisis), najważniejszego momentu.",
+            "Po kryzysie przychodzi rozwiązanie (resolution).",
+            "Potem opowieść się kończy.",
+            "Planuj swoją opowieść w tej kolejności, nawet jeśli zaczynasz od końca.",
+            "Potem napisz swój szkic (draft).",
+            "Użyj haczyka, konwencji gotyckich i zmiany narracyjnej.",
+            "Zamień się z partnerem i dajcie sobie uwagi.",
+            "Popraw swoją pracę fioletowym długopisem.",
+            "Na sprawdzianie masz 45 minut na napisanie sceny gotyckiej.",
+            "Poświęć pierwsze pięć minut na planowanie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "decidir o que vai acontecer antes de escrever (plan, planear/planejar)",
+            "o momento mais importante, para onde tudo leva (crisis, crise)",
+            "como o problema se resolve no fim (resolution, resolução)",
+            "uma primeira versão do seu texto, que você vai melhorar (draft, rascunho)",
+            "a descrição curta na contracapa de um livro (blurb, sinopse)"
+          ],
+          "passage": [
+            "Toda história tem uma forma.",
+            "Chamamos-lhe a montanha da história (story mountain).",
+            "Começa com calma, e depois aparece um problema.",
+            "O problema cresce até à crise, o momento mais importante.",
+            "Depois da crise vem a resolução.",
+            "Depois a história acaba.",
+            "Planeie/Planeje a sua história nesta ordem, mesmo que comece pelo fim.",
+            "Depois escreva o seu rascunho.",
+            "Use um hook, convenções góticas e uma mudança narrativa.",
+            "Troque com um colega e deem feedback um ao outro.",
+            "Melhore o seu trabalho com uma caneta roxa.",
+            "Na avaliação você tem 45 minutos para escrever uma cena gótica.",
+            "Use os primeiros cinco minutos para planear/planejar."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "go'aansi waxa dhici doona intaadan qorin (plan)",
+            "daqiiqadda ugu weyn, oo wax walba u horseedaan (crisis)",
+            "sida dhibaatada loo xalliyo dhammaadka (resolution)",
+            "nuqulka koowaad ee qoraalkaaga oo aad hagaajin doonto (draft)",
+            "sharraxaadda gaaban ee buug dhabarkiisa ku qoran (blurb)"
+          ],
+          "passage": [
+            "Sheeko kastaa waxay leedahay qaab.",
+            "Waxaan ugu yeernaa buurta sheekada (story mountain).",
+            "Si deggan ayay u bilaabataa, kadibna dhibaato ayaa soo baxda.",
+            "Dhibaatadu way sii kordhaa ilaa crisis, daqiiqadda ugu weyn.",
+            "Crisis kadib waxaa yimaada xalka (resolution).",
+            "Kadibna sheekadu way dhammaataa.",
+            "Sheekadaada siday u kala horreeyaan u qorshee, xitaa haddii aad dhammaadka ka bilowdo.",
+            "Kadibna qor nuqulkaaga koowaad (draft).",
+            "Isticmaal hook, conventions Gothic ah iyo isbeddel sheeko (narrative shift).",
+            "Saaxiib la beddelo, oo jawaab-celin sii.",
+            "Shaqadaada ku hagaaji qalin guduudan (purple pen).",
+            "Imtixaanka (assessment) waxaad haysataa 45 daqiiqo si aad u qorto muuqaal Gothic ah.",
+            "Shanta daqiiqo ee ugu horreeya qorshayn ku qaado."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вирішити, що станеться, перш ніж писати (plan)",
+            "найбільший момент, до якого все веде (crisis)",
+            "те, як проблему розв’язують наприкінці (resolution)",
+            "перша версія вашого тексту, яку ви покращите (draft)",
+            "короткий опис на задній обкладинці книги (blurb)"
+          ],
+          "passage": [
+            "Кожна історія має форму.",
+            "Ми називаємо її горою історії (story mountain).",
+            "Вона починається спокійно, потім з’являється проблема.",
+            "Проблема зростає аж до кризи (crisis), найбільшого моменту.",
+            "Після кризи настає розв’язка (resolution).",
+            "Потім історія закінчується.",
+            "Плануйте свою історію в цьому порядку, навіть якщо починаєте з кінця.",
+            "Потім напишіть свій чорновий варіант (draft).",
+            "Використайте зачіпку (hook), готичні умовності та перехід у розповіді.",
+            "Обміняйтеся з партнером і дайте один одному відгук.",
+            "Покращте свою роботу фіолетовою ручкою.",
+            "На оцінюванні у вас 45 хвилин, щоб написати готичну сцену.",
+            "Витратьте перші п’ять хвилин на планування."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لکھنے سے پہلے فیصلہ کرنا کہ کیا ہو گا (plan)",
+            "سب سے بڑا لمحہ، جس کی طرف ہر چیز بڑھتی ہے (crisis)",
+            "آخر میں مسئلہ کیسے سلجھتا ہے (resolution)",
+            "آپ کی تحریر کا پہلا نسخہ جسے آپ بہتر بنائیں گے (draft)",
+            "کتاب کے پیچھے لکھا چھوٹا تعارف (blurb)"
+          ],
+          "passage": [
+            "ہر کہانی کی ایک شکل ہوتی ہے۔",
+            "ہم اسے story mountain (کہانی کا پہاڑ) کہتے ہیں۔",
+            "یہ آرام سے شروع ہوتی ہے، پھر ایک مسئلہ سامنے آتا ہے۔",
+            "مسئلہ بڑھتا جاتا ہے یہاں تک کہ crisis آتا ہے، سب سے بڑا لمحہ۔",
+            "Crisis کے بعد حل (resolution) آتا ہے۔",
+            "پھر کہانی ختم ہو جاتی ہے۔",
+            "اپنی کہانی کا منصوبہ اسی ترتیب سے بنائیں، چاہے آپ اسے آخر سے شروع کریں۔",
+            "پھر اپنا draft لکھیں۔",
+            "ایک hook، گوتھک conventions اور ایک narrative shift استعمال کریں۔",
+            "ساتھی سے بدل کر ایک دوسرے کو رائے دیں۔",
+            "جامنی قلم سے اپنا کام بہتر بنائیں۔",
+            "امتحان (assessment) میں آپ کے پاس ایک گوتھک منظر لکھنے کے لیے 45 منٹ ہیں۔",
+            "پہلے پانچ منٹ منصوبہ بنانے میں لگائیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The story mountain",

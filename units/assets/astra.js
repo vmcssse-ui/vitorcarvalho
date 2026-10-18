@@ -923,7 +923,9 @@
     if (l1Codes.length) {
       l1sel = h("select", { class: "sel l1sel", "aria-label": "Home language shown under each sentence" }, h("option", { value: "" }, "English only"), l1Codes.map((k) => h("option", { value: k, lang: k }, L1N[k] || k.toUpperCase())));
       l1sel.addEventListener("change", () => A.l1.apply(l1sel.value));
-      const saved = String(A.store.get("l1", "") || ""); applyL1(l1Codes.indexOf(saved) >= 0 ? saved : ""); l1sel.value = l1Cur; /* the select is not in the document yet, so set it directly */
+      /* ?l1=<code> in the address opens the book with that home language (a link a teacher or parent can share); otherwise the device's saved choice */
+      const qL1 = (new URLSearchParams(location.search).get("l1") || "").toLowerCase();
+      const saved = l1Codes.indexOf(qL1) >= 0 ? qL1 : String(A.store.get("l1", "") || ""); applyL1(l1Codes.indexOf(saved) >= 0 ? saved : ""); l1sel.value = l1Cur; if (l1Codes.indexOf(qL1) >= 0) A.store.set("l1", qL1); /* the select is not in the document yet, so set it directly */
     }
     const tools = h("div", { class: "booktools" }, h("h1", { class: "booktitle" }, h("small", null, m.subject + " · Year " + m.year), m.title), h("span", { class: "grow" }),
       l1sel ? h("label", { class: "lbl l1lbl" }, I("globe"), h("span", { class: "vh" }, "Home language"), l1sel) : null,

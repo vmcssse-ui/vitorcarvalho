@@ -101,8 +101,168 @@ window.ASTRA_UNITS["triple-b5"] = {
           "A long, serious physical illness can lead to depression.",
           "Scientists use graphs to look for links between two things.",
           "If one thing goes up as the other goes up, that is a positive correlation."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حالة من العافية الجسدية والنفسية (health)",
+            "يمكن أن ينتقل من شخص إلى آخر (communicable)",
+            "لا يمكن أن ينتقل من شخص إلى آخر (non-communicable)",
+            "طريقة عيشك: ماذا تأكل، وكيف تتحرّك، وكيف تستريح (lifestyle)",
+            "رابط بين شيئَين، يتغيّر فيه أحدهما مع تغيّر الآخر (correlation)"
+          ],
+          "passage": [
+            "الصحة (health) حالة من العافية الجسدية والنفسية.",
+            "المرض سبب رئيسي لسوء الصحة، لكنه ليس السبب الوحيد.",
+            "بعض الأمراض معدية (communicable).",
+            "تسبّبها الممرضات (pathogens) ويمكن أن تنتقل من شخص إلى آخر.",
+            "الإنفلونزا معدية: تنتشر عندما يسعل الناس ويعطسون.",
+            "أمراض أخرى غير معدية (non-communicable)، فلا يمكن أن تنتقل.",
+            "أمراض القلب والسكّري والتهاب المفاصل غير معدية.",
+            "نمط حياتك (lifestyle) يؤثّر في صحتك أيضاً.",
+            "الغذاء والتوتّر وظروف الحياة كلها يمكن أن تُمرضك.",
+            "الأمراض المختلفة يمكن أن تؤثّر في بعضها.",
+            "بعض الفيروسات التي تعيش في الخلايا يمكن أن تُحدث سرطانات.",
+            "المرض الجسدي الطويل والخطير يمكن أن يؤدّي إلى الاكتئاب.",
+            "يستعمل العلماء الرسوم البيانية للبحث عن روابط بين شيئَين.",
+            "إذا ارتفع شيء مع ارتفاع الآخر، فهذا ارتباط إيجابي (positive correlation)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "stan dobrego samopoczucia fizycznego i psychicznego (health)",
+            "taka, która może przenosić się z jednej osoby na drugą (communicable)",
+            "taka, która nie może przenosić się z jednej osoby na drugą (non-communicable)",
+            "sposób, w jaki żyjesz: co jesz, jak się ruszasz, jak odpoczywasz (lifestyle)",
+            "związek między dwiema rzeczami, w którym jedna zmienia się razem z drugą (correlation)"
+          ],
+          "passage": [
+            "Zdrowie (health) to stan dobrego samopoczucia fizycznego i psychicznego.",
+            "Choroba to główna przyczyna złego zdrowia, ale nie jedyna.",
+            "Niektóre choroby są zakaźne (communicable).",
+            "Wywołują je patogeny i mogą przenosić się z jednej osoby na drugą.",
+            "Grypa jest zakaźna: rozprzestrzenia się, kiedy ludzie kaszlą i kichają.",
+            "Inne choroby są niezakaźne (non-communicable), więc nie można ich przekazać.",
+            "Choroby serca, cukrzyca i zapalenie stawów są niezakaźne.",
+            "Twój styl życia (lifestyle) też wpływa na twoje zdrowie.",
+            "Dieta, stres i sytuacje życiowe mogą sprawić, że zachorujesz.",
+            "Różne choroby mogą wpływać na siebie nawzajem.",
+            "Niektóre wirusy żyjące w komórkach mogą wywołać nowotwory.",
+            "Długa, poważna choroba fizyczna może prowadzić do depresji.",
+            "Naukowcy używają wykresów, żeby szukać związków między dwiema rzeczami.",
+            "Jeśli jedna rzecz rośnie, kiedy rośnie druga, to jest korelacja dodatnia (positive correlation)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o estado de bem-estar físico e mental (health, saúde)",
+            "que pode passar de uma pessoa para outra (communicable, transmissível)",
+            "que não pode passar de uma pessoa para outra (non-communicable, não transmissível)",
+            "a maneira como você vive: o que come, como se mexe, como descansa (lifestyle, estilo de vida)",
+            "uma ligação entre duas coisas, em que uma muda quando a outra muda (correlation, correlação)"
+          ],
+          "passage": [
+            "A saúde é o estado de bem-estar físico e mental.",
+            "A doença é uma causa importante de má saúde, mas não é a única.",
+            "Algumas doenças são transmissíveis (communicable).",
+            "São causadas por patógenos/patogénios (pathogens) e podem passar de uma pessoa para outra.",
+            "A gripe é transmissível: espalha-se quando as pessoas tossem e espirram.",
+            "Outras doenças são não transmissíveis (non-communicable), por isso não podem passar a outros.",
+            "As doenças do coração, a diabetes e a artrite são não transmissíveis.",
+            "O seu estilo de vida também afeta a sua saúde.",
+            "A alimentação, o stress e as situações da vida podem todos fazer você adoecer.",
+            "Doenças diferentes podem afetar-se umas às outras.",
+            "Alguns vírus que vivem nas células podem desencadear cancros/cânceres.",
+            "Uma doença física longa e grave pode levar à depressão.",
+            "Os cientistas usam gráficos para procurar ligações entre duas coisas.",
+            "Se uma coisa sobe quando a outra sobe, isso é uma correlação positiva (positive correlation)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xaaladda fayoobida jirka iyo maskaxda (health)",
+            "laga gudbin karo qof ilaa qof kale (communicable)",
+            "aan laga gudbin karin qof ilaa qof kale (non-communicable)",
+            "sida aad u nooshahay: waxa aad cunto, sida aad u dhaqaaqdo, sida aad u nasato (lifestyle)",
+            "xiriir u dhexeeya laba wax, oo mid is beddelo marka kan kale is beddelo (correlation)"
+          ],
+          "passage": [
+            "Caafimaad (health) waa xaaladda fayoobida jirka iyo maskaxda.",
+            "Cudur waa sabab weyn oo caafimaad darro, laakiin ma aha keligiis.",
+            "Cudurrada qaar waa communicable (la kala qaadi karo).",
+            "Waxaa keena pathogens, qofna qof kale ayuu u gudbin karaa.",
+            "Hargabka (flu) waa communicable: wuxuu faafaa marka dadku qufacaan oo hindhisaan.",
+            "Cudurrada kale waa non-communicable, sidaas darteed lama kala qaadi karo.",
+            "Cudurka wadnaha, sonkorowga (diabetes) iyo xanuunka lafaha (arthritis) waa non-communicable.",
+            "Habnololeedkaagu (lifestyle) sidoo kale caafimaadkaaga ayuu saameeyaa.",
+            "Cuntada, walwalka iyo xaaladaha noloshu dhammaantood way ku jirran karaan.",
+            "Cudurro kala duwan way is saamayn karaan.",
+            "Fayrasyada qaar oo unugyada ku nool waxay kicin karaan kansar.",
+            "Jirro jireed oo dheer oo halis ah waxay keeni kartaa niyad-jab (depression).",
+            "Saynisyahannadu garaafyo ayay u isticmaalaan si ay u raadiyaan xiriir u dhexeeya laba wax.",
+            "Haddii wax uun kor u kaco marka kan kale kor u kaco, taasi waa positive correlation."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "стан фізичного та психічного благополуччя (health)",
+            "такий, що може передаватися від однієї людини до іншої (communicable)",
+            "такий, що не може передаватися від однієї людини до іншої (non-communicable)",
+            "те, як ви живете: що їсте, як рухаєтеся, як відпочиваєте (lifestyle)",
+            "зв’язок між двома речами, коли одна змінюється разом з іншою (correlation)"
+          ],
+          "passage": [
+            "Здоров’я (health) — це стан фізичного та психічного благополуччя.",
+            "Хвороба — головна причина поганого здоров’я, але не єдина.",
+            "Деякі хвороби є заразними (communicable).",
+            "Їх спричиняють патогени (pathogens), і вони можуть передаватися від однієї людини до іншої.",
+            "Грип заразний: він поширюється, коли люди кашляють і чхають.",
+            "Інші хвороби незаразні (non-communicable), тому вони не можуть передаватися.",
+            "Хвороби серця, діабет і артрит — незаразні.",
+            "Ваш спосіб життя (lifestyle) також впливає на ваше здоров’я.",
+            "Харчування, стрес і життєві обставини — усе це може зробити вас хворими.",
+            "Різні хвороби можуть впливати одна на іншу.",
+            "Деякі віруси, що живуть у клітинах, можуть спричиняти рак.",
+            "Тривала серйозна фізична хвороба може призвести до депресії.",
+            "Науковці використовують графіки, щоб шукати зв’язки між двома речами.",
+            "Якщо одна річ зростає разом з іншою, це додатна кореляція (positive correlation)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جسمانی اور ذہنی خیریت کی حالت (health)",
+            "جو ایک شخص سے دوسرے تک پہنچ سکے (communicable)",
+            "جو ایک شخص سے دوسرے تک نہ پہنچ سکے (non-communicable)",
+            "آپ کے رہنے کا طریقہ: آپ کیا کھاتے ہیں، کیسے چلتے پھرتے ہیں، کیسے آرام کرتے ہیں (lifestyle)",
+            "دو چیزوں کے بیچ ایک تعلق، جس میں ایک کے بدلنے سے دوسری بدلتی ہے (correlation)"
+          ],
+          "passage": [
+            "صحت جسمانی اور ذہنی خیریت کی حالت ہے۔",
+            "بیماری خراب صحت کی ایک بڑی وجہ ہے، مگر اکیلی وجہ نہیں۔",
+            "کچھ بیماریاں متعدی (communicable) ہیں۔",
+            "وہ pathogens سے ہوتی ہیں اور ایک شخص سے دوسرے تک پہنچ سکتی ہیں۔",
+            "فلو متعدی ہے: یہ تب پھیلتا ہے جب لوگ کھانستے اور چھینکتے ہیں۔",
+            "دوسری بیماریاں غیر متعدی (non-communicable) ہیں، اس لیے وہ آگے نہیں پہنچتیں۔",
+            "دل کی بیماری، ذیابیطس اور جوڑوں کا درد غیر متعدی ہیں۔",
+            "آپ کا طرزِ زندگی (lifestyle) بھی آپ کی صحت پر اثر کرتا ہے۔",
+            "خوراک، ذہنی دباؤ اور زندگی کے حالات سب آپ کو بیمار کر سکتے ہیں۔",
+            "الگ الگ بیماریاں ایک دوسرے پر اثر کر سکتی ہیں۔",
+            "خلیوں میں رہنے والے کچھ وائرس کینسر کو جنم دے سکتے ہیں۔",
+            "ایک لمبی، سنگین جسمانی بیماری ڈپریشن تک لے جا سکتی ہے۔",
+            "سائنس دان دو چیزوں کے بیچ تعلق ڈھونڈنے کے لیے گراف استعمال کرتے ہیں۔",
+            "اگر ایک چیز دوسری کے بڑھنے کے ساتھ بڑھے تو یہ مثبت تعلق (positive correlation) ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is health?",
@@ -319,8 +479,168 @@ window.ASTRA_UNITS["triple-b5"] = {
           "Dirty water and uncooked food can carry pathogens into your digestive system.",
           "Some insects carry pathogens from one person to another.",
           "An animal that carries a pathogen is called a vector."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كائن دقيق يسبّب المرض (pathogen)",
+            "خلايا حيّة صغيرة جداً؛ بعضها يسبّب المرض، وكثير منها مفيد (bacteria)",
+            "ممرض صغير جداً لا يستطيع التكاثر إلا داخل خلايا حيّة (virus)",
+            "سمّ تصنعه الممرضات (toxin)",
+            "حيوان يحمل ممرضاً من كائن حيّ إلى آخر (vector)",
+            "قطرة صغيرة جداً من السائل تخرج عندما تسعل أو تعطس (droplet)"
+          ],
+          "passage": [
+            "الممرض (pathogen) كائن دقيق يسبّب المرض.",
+            "هناك أربعة أنواع: البكتيريا، والفيروسات، والفطريات، والأوالي (protists).",
+            "يمكن للممرضات أن تُعدي النباتات كما تُعدي الحيوانات.",
+            "البكتيريا خلايا صغيرة جداً تنقسم بسرعة كبيرة داخل الجسم.",
+            "تصنع البكتيريا سموماً (toxins)، وهي موادّ سامّة تُلحق الضرر بخلاياك.",
+            "الفيروسات أصغر بكثير من البكتيريا.",
+            "يدخل الفيروس إلى الخلية، ويصنع نسخاً من نفسه، ويدمّر الخلية.",
+            "تنتشر الممرضات بطرق مختلفة.",
+            "السعال والعطاس يُطلقان قطرات (droplets) تحمل الممرضات عبر الهواء.",
+            "يمكن للممرضات أن تنتشر أيضاً بالتماسّ المباشر، مثل اللمس أو عبر جرح.",
+            "الماء القذر والطعام غير المطبوخ يمكن أن يحملا الممرضات إلى جهازك الهضمي.",
+            "بعض الحشرات تحمل الممرضات من شخص إلى آخر.",
+            "الحيوان الذي يحمل ممرضاً يُسمّى ناقلاً (vector)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "mikroorganizm, który wywołuje chorobę (pathogen)",
+            "maleńkie żywe komórki; niektóre wywołują choroby, wiele jest pożytecznych (bacteria)",
+            "bardzo mały patogen, który może się rozmnażać tylko wewnątrz żywych komórek (virus)",
+            "trucizna wytwarzana przez patogen (toxin)",
+            "zwierzę, które przenosi patogen z jednego organizmu na drugi (vector)",
+            "maleńka kropelka płynu uwalniana, kiedy kaszlesz lub kichasz (droplet)"
+          ],
+          "passage": [
+            "Patogen (pathogen) to mikroorganizm, który wywołuje chorobę.",
+            "Są cztery typy: bakterie, wirusy, grzyby i protisty (protists).",
+            "Patogeny mogą zakażać rośliny, a nie tylko zwierzęta.",
+            "Bakterie to maleńkie komórki, które bardzo szybko dzielą się wewnątrz ciała.",
+            "Bakterie wytwarzają toksyny (toxins), czyli trucizny, które uszkadzają twoje komórki.",
+            "Wirusy są dużo mniejsze niż bakterie.",
+            "Wirus wchodzi do komórki, robi swoje kopie i niszczy komórkę.",
+            "Patogeny rozprzestrzeniają się na różne sposoby.",
+            "Kaszel i kichanie uwalniają kropelki (droplets), które przenoszą patogeny przez powietrze.",
+            "Patogeny mogą też rozprzestrzeniać się przez bezpośredni kontakt, na przykład przez dotyk albo przez ranę.",
+            "Brudna woda i niegotowane jedzenie mogą wprowadzić patogeny do twojego układu pokarmowego.",
+            "Niektóre owady przenoszą patogeny z jednej osoby na drugą.",
+            "Zwierzę, które przenosi patogen, nazywa się wektorem (vector)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um microrganismo que causa doença (pathogen, patógeno/patogénio)",
+            "células vivas minúsculas; algumas causam doença, muitas são úteis (bacteria, bactérias)",
+            "um patógeno muito pequeno que só consegue reproduzir-se dentro de células vivas (virus, vírus)",
+            "um veneno produzido por um patógeno (toxin, toxina)",
+            "um animal que transporta um patógeno de um organismo para outro (vector, vetor)",
+            "uma gota minúscula de líquido libertada/liberada quando você tosse ou espirra (droplet, gotícula)"
+          ],
+          "passage": [
+            "Um patógeno (pathogen) é um microrganismo que causa doença.",
+            "Há quatro tipos: bactérias, vírus, fungos e protistas.",
+            "Os patógenos podem infetar/infectar plantas, além de animais.",
+            "As bactérias são células minúsculas que se dividem muito depressa dentro do corpo.",
+            "As bactérias produzem toxinas (toxins), que são venenos que danificam as suas células.",
+            "Os vírus são muito mais pequenos do que as bactérias.",
+            "Um vírus entra numa célula, faz cópias de si mesmo e destrói a célula.",
+            "Os patógenos espalham-se de maneiras diferentes.",
+            "A tosse e os espirros libertam/liberam gotículas (droplets) que transportam patógenos pelo ar.",
+            "Os patógenos também se podem espalhar por contacto/contato direto, como tocar ou através de um corte.",
+            "A água suja e a comida crua podem levar patógenos para o seu sistema digestivo.",
+            "Alguns insetos transportam patógenos de uma pessoa para outra.",
+            "Um animal que transporta um patógeno chama-se vetor (vector)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "noole yar (microorganism) oo cudur keena (pathogen)",
+            "unugyo nool oo yaryar; qaar cudur ayay keenaan, qaar badanna waa faa'iido leh (bacteria)",
+            "pathogen aad u yar oo keliya ku tarmi kara unugyo nool gudahood (virus)",
+            "sun pathogen sameeyo (toxin)",
+            "xayawaan pathogen ka qaada noole una gaarsiiya mid kale (vector)",
+            "dhibic yar oo dareere ah oo soo baxda markaad qufacdo ama hindhisto (droplet)"
+          ],
+          "passage": [
+            "Pathogen waa noole yar (microorganism) oo cudur keena.",
+            "Waxaa jira afar nooc: bacteria, viruses, fungi iyo protists.",
+            "Pathogens dhirta iyo xayawaanka labadaba way qaadsiin karaan.",
+            "Bakteeriyadu waa unugyo yaryar oo si aad u dhaqso badan jirka gudihiisa isku kala qaybiya.",
+            "Bakteeriyadu waxay samaysaa toxins, oo ah sun unugyadaada dhaawacda.",
+            "Fayrasyadu aad ayay uga yaryar yihiin bakteeriyada.",
+            "Fayras unug ayuu galaa, nuqullo naftiisa ka sameeyaa, unuggana wuu burburiyaa.",
+            "Pathogens siyaabo kala duwan ayay u faafaan.",
+            "Qufac iyo hindhiso waxay sii daayaan dhibco (droplets) pathogens hawada ku dhex qaada.",
+            "Pathogens sidoo kale waxay ku faafi karaan taabasho toos ah, sida gacan-qaad ama nabar dhexdiis.",
+            "Biyo wasakh ah iyo cunto aan la karin pathogens waxay gaarsiin karaan nidaamkaaga dheefshiidka.",
+            "Cayayaanka qaar pathogens qof ilaa qof kale ayay u qaadaan.",
+            "Xayawaan pathogen qaada waxaa la yiraahdaa vector."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мікроорганізм, який спричиняє хворобу (pathogen)",
+            "крихітні живі клітини; деякі спричиняють хвороби, багато з них корисні (bacteria)",
+            "дуже маленький патоген, який може розмножуватися лише всередині живих клітин (virus)",
+            "отрута, яку виробляє патоген (toxin)",
+            "тварина, яка переносить патоген від одного організму до іншого (vector)",
+            "крихітна краплина рідини, яка вилітає, коли ви кашляєте або чхаєте (droplet)"
+          ],
+          "passage": [
+            "Патоген (pathogen) — це мікроорганізм, який спричиняє хворобу.",
+            "Є чотири типи: бактерії, віруси, гриби та протисти.",
+            "Патогени можуть заражати і рослини, і тварин.",
+            "Бактерії — це крихітні клітини, які дуже швидко діляться всередині тіла.",
+            "Бактерії виробляють токсини (toxins) — отрути, які пошкоджують ваші клітини.",
+            "Віруси набагато менші за бактерії.",
+            "Вірус проникає в клітину, створює копії себе і руйнує клітину.",
+            "Патогени поширюються різними шляхами.",
+            "Кашель і чхання випускають краплини (droplets), які переносять патогени через повітря.",
+            "Патогени також можуть поширюватися прямим контактом, наприклад через дотик або через поріз.",
+            "Брудна вода та сира їжа можуть занести патогени у вашу травну систему.",
+            "Деякі комахи переносять патогени від однієї людини до іншої.",
+            "Тварина, яка переносить патоген, називається переносником (vector)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک خرد جاندار جو بیماری پیدا کرتا ہے (pathogen)",
+            "ننھے زندہ خلیے؛ کچھ بیماری پیدا کرتے ہیں، بہت سے فائدہ مند ہیں (bacteria)",
+            "ایک بہت چھوٹا pathogen جو صرف زندہ خلیوں کے اندر اپنی نسل بڑھا سکتا ہے (virus)",
+            "pathogen کا بنایا ہوا زہر (toxin)",
+            "ایک جانور جو pathogen کو ایک جاندار سے دوسرے تک لے جاتا ہے (vector)",
+            "مائع کی ننھی بوند جو کھانسنے یا چھینکنے پر نکلتی ہے (droplet)"
+          ],
+          "passage": [
+            "Pathogen ایک خرد جاندار (microorganism) ہے جو بیماری پیدا کرتا ہے۔",
+            "اس کی چار قسمیں ہیں: بیکٹیریا، وائرس، پھپھوندی (fungi) اور protists۔",
+            "Pathogens جانوروں کے ساتھ پودوں کو بھی بیمار کر سکتے ہیں۔",
+            "بیکٹیریا ننھے خلیے ہیں جو جسم کے اندر بہت تیزی سے تقسیم ہوتے ہیں۔",
+            "بیکٹیریا toxins بناتے ہیں، جو ایسے زہر ہیں جو آپ کے خلیوں کو نقصان پہنچاتے ہیں۔",
+            "وائرس بیکٹیریا سے بہت چھوٹے ہوتے ہیں۔",
+            "وائرس خلیے کے اندر جاتا ہے، اپنی نقلیں بناتا ہے اور خلیے کو تباہ کر دیتا ہے۔",
+            "Pathogens الگ الگ طریقوں سے پھیلتے ہیں۔",
+            "کھانسی اور چھینک سے بوندیں (droplets) نکلتی ہیں جو pathogens کو ہوا میں لے جاتی ہیں۔",
+            "Pathogens براہِ راست چھونے سے بھی پھیل سکتے ہیں، جیسے ہاتھ لگانے سے یا کسی زخم کے ذریعے۔",
+            "گندا پانی اور کچا کھانا pathogens کو آپ کے نظامِ ہضم میں لے جا سکتے ہیں۔",
+            "کچھ کیڑے pathogens کو ایک شخص سے دوسرے تک لے جاتے ہیں۔",
+            "جو جانور pathogen لے جاتا ہے اسے vector کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four kinds of pathogen",
@@ -521,8 +841,174 @@ window.ASTRA_UNITS["triple-b5"] = {
           "A chemical such as an antiseptic can stop bacteria growing.",
           "The clear area around it is called the zone of inhibition.",
           "A bigger clear area means the chemical works better."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مجموعة من الكائنات الدقيقة تُنمّى عن قصد في المختبر (culture)",
+            "مادّة هلامية تحوي كل ما تحتاج إليه البكتيريا لتنمو (nutrient agar)",
+            "طرق حذرة تمنع دخول الكائنات الدقيقة غير المرغوب فيها (aseptic technique)",
+            "أن تضع البكتيريا التي تريد تنميتها على الآغار (inoculate)",
+            "طريقة تكاثر البكتيريا: خلية واحدة تنقسم إلى خليتَين (binary fission)",
+            "الدائرة الصافية حول القرص التي لم تنمُ فيها البكتيريا (zone of inhibition)"
+          ],
+          "passage": [
+            "ينمّي العلماء البكتيريا في المختبر لدراستها.",
+            "تنمية البكتيريا تُسمّى استزراعها (culturing).",
+            "تحتاج البكتيريا إلى الغذاء والدفء، وعادةً إلى الأكسجين، لتنمو.",
+            "تُنمّى على آغار مغذٍّ (nutrient agar) في طبق بتري، أو في مرق مغذٍّ.",
+            "تنقسم البكتيريا إلى اثنتَين بالانشطار الثنائي (binary fission)، فتصبح الخلية الواحدة خليتَين، ثم أربعاً.",
+            "يجب إبعاد الكائنات الدقيقة غير المرغوب فيها عن المزرعة.",
+            "الطرق الحذرة المستعملة لإبعادها تُسمّى التقنية المعقّمة (aseptic technique).",
+            "تُسخَّن الحلقة في اللهب قبل أن تلمس البكتيريا.",
+            "يُثبَّت الغطاء بشريط لاصق، لكن ليس حول الطبق كله.",
+            "يُحفظ الطبق مقلوباً حتى لا تسقط قطرات الماء على الآغار.",
+            "في المدرسة، يُحفظ الطبق عند 25 °C، لا 37 °C، حتى تقلّ احتمالات نموّ البكتيريا الضارّة.",
+            "مادّة كيميائية مثل المطهّر (antiseptic) يمكن أن توقف نموّ البكتيريا.",
+            "المنطقة الصافية حولها تُسمّى منطقة التثبيط (zone of inhibition).",
+            "المنطقة الصافية الأكبر تعني أن المادّة الكيميائية تعمل بشكل أفضل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "populacja mikroorganizmów celowo wyhodowana w laboratorium (culture)",
+            "galaretka zawierająca wszystko, czego bakterie potrzebują do wzrostu (nutrient agar)",
+            "ostrożne metody, które nie dopuszczają niechcianych mikroorganizmów (aseptic technique)",
+            "umieścić bakterie, które chcesz wyhodować, na agarze (inoculate)",
+            "sposób rozmnażania się bakterii: jedna komórka dzieli się na dwie (binary fission)",
+            "czyste kółko wokół krążka, w którym bakterie nie wyrosły (zone of inhibition)"
+          ],
+          "passage": [
+            "Naukowcy hodują bakterie w laboratorium, żeby je badać.",
+            "Hodowanie bakterii nazywa się ich kulturą (culturing).",
+            "Bakterie potrzebują do wzrostu pożywienia, ciepła i zwykle tlenu.",
+            "Hoduje się je na agarze odżywczym (nutrient agar) na szalce Petriego albo w bulionie odżywczym.",
+            "Bakterie dzielą się na dwie przez podział komórki (binary fission), więc jedna komórka staje się dwiema, potem czterema.",
+            "Niechciane mikroorganizmy trzeba trzymać z daleka od hodowli.",
+            "Ostrożne metody, które je powstrzymują, nazywa się techniką aseptyczną (aseptic technique).",
+            "Ezę rozgrzewa się w płomieniu, zanim dotknie bakterii.",
+            "Pokrywkę przykleja się taśmą, ale nie dookoła.",
+            "Szalkę przechowuje się do góry nogami, żeby krople wody nie spadały na agar.",
+            "W szkole szalkę trzyma się w 25 °C, a nie w 37 °C, żeby szkodliwe bakterie miały mniejszą szansę wyrosnąć.",
+            "Substancja chemiczna, taka jak antyseptyk, może powstrzymać wzrost bakterii.",
+            "Czysty obszar wokół niej nazywa się strefą zahamowania (zone of inhibition).",
+            "Większy czysty obszar oznacza, że substancja działa lepiej."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma população de microrganismos cultivada de propósito no laboratório (culture, cultura)",
+            "uma geleia que contém tudo o que as bactérias precisam para crescer (nutrient agar, ágar nutritivo)",
+            "métodos cuidadosos que mantêm fora os microrganismos indesejados (aseptic technique, técnica assética/asséptica)",
+            "pôr no ágar as bactérias que você quer cultivar (inoculate, inocular)",
+            "a maneira como as bactérias se reproduzem: uma célula divide-se em duas (binary fission, fissão binária)",
+            "o círculo limpo à volta de um disco onde as bactérias não cresceram (zone of inhibition, zona de inibição)"
+          ],
+          "passage": [
+            "Os cientistas cultivam bactérias no laboratório para as estudar.",
+            "Fazer crescer bactérias chama-se cultivá-las (culturing).",
+            "As bactérias precisam de alimento, calor e, normalmente, oxigénio/oxigênio para crescer.",
+            "São cultivadas em ágar nutritivo (nutrient agar) numa placa de Petri, ou em caldo nutritivo.",
+            "As bactérias dividem-se em duas por fissão binária (binary fission), por isso uma célula passa a duas, depois a quatro.",
+            "Os microrganismos indesejados têm de ser mantidos fora da cultura.",
+            "Os métodos cuidadosos usados para os manter fora chamam-se técnica assética/asséptica (aseptic technique).",
+            "A ansa/alça é aquecida numa chama antes de tocar nas bactérias.",
+            "A tampa é presa com fita, mas não a toda a volta.",
+            "A placa é guardada virada ao contrário para que as gotas de água não caiam no ágar.",
+            "Na escola, a placa é mantida a 25 °C, e não a 37 °C, para que seja menos provável crescerem bactérias perigosas.",
+            "Um produto químico como um antissético/antisséptico pode impedir as bactérias de crescer.",
+            "A área limpa à volta dele chama-se zona de inibição (zone of inhibition).",
+            "Uma área limpa maior quer dizer que o produto químico funciona melhor."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "koox noolayaal yaryar oo si ula kac ah shaybaarka lagu koriyay (culture)",
+            "jelly ku jira wax walba oo bakteeriyada u baahan tahay si ay u korto (nutrient agar)",
+            "habab taxaddar leh oo noolayaasha yaryar ee aan la rabin ka ilaaliya (aseptic technique)",
+            "bakteeriyada aad rabto inaad koriso agar-ka saarid (inoculate)",
+            "sida bakteeriyadu u tarmo: hal unug ayaa laba u kala qaybsama (binary fission)",
+            "goobaabka cad ee saxan (disc) ku wareegsan oo bakteeriyadu aan ku korin (zone of inhibition)"
+          ],
+          "passage": [
+            "Saynisyahannadu bakteeriya shaybaarka ayay ku koriyaan si ay u bartaan.",
+            "Korinta bakteeriyada waxaa la yiraahdaa culturing.",
+            "Bakteeriyadu waxay u baahan tahay cunto, diirimaad iyo badanaa oxygen si ay u korto.",
+            "Waxaa lagu koriyaa nutrient agar oo ku jira Petri dish, ama nutrient broth.",
+            "Bakteeriyadu laba ayay u kala qaybsantaa binary fission, sidaas darteed hal unug wuxuu noqdaa laba, kadibna afar.",
+            "Noolayaasha yaryar ee aan la rabin waa in culture-ka laga ilaaliyaa.",
+            "Hababka taxaddarka leh ee lagu ilaaliyo waxaa la yiraahdaa aseptic technique.",
+            "Loop-ka olol ayaa lagu kululeeyaa ka hor intuusan bakteeriyada taaban.",
+            "Daboolka cajalad ayaa lagu xiraa, laakiin ma aha hareeraha oo dhan.",
+            "Saxanka waxaa la kaydiyaa isagoo gembiyay si dhibco biyo ah aanay agar-ka ku dhicin.",
+            "Dugsiga, saxanka waxaa lagu hayaa 25 °C, ma aha 37 °C, si bakteeriyada waxyeellada leh aanay u korin.",
+            "Kiimiko sida antiseptic waxay joojin kartaa korriinka bakteeriyada.",
+            "Meesha cad ee ku wareegsan waxaa la yiraahdaa zone of inhibition.",
+            "Meel cad oo ka weyn micnaheedu waa kiimikadu si ka wanaagsan ayay u shaqaysaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "популяція мікроорганізмів, навмисно вирощена в лабораторії (culture)",
+            "желе, що містить усе, що потрібно бактеріям для росту (nutrient agar)",
+            "обережні методи, які не впускають небажаних мікроорганізмів (aseptic technique)",
+            "нанести на агар бактерії, які ви хочете виростити (inoculate)",
+            "спосіб розмноження бактерій: одна клітина ділиться на дві (binary fission)",
+            "чисте коло навколо диска, де бактерії не виросли (zone of inhibition)"
+          ],
+          "passage": [
+            "Науковці вирощують бактерії в лабораторії, щоб вивчати їх.",
+            "Вирощування бактерій називається культивуванням (culturing).",
+            "Бактеріям для росту потрібні їжа, тепло і зазвичай кисень.",
+            "Їх вирощують на поживному агарі (nutrient agar) у чашці Петрі або в поживному бульйоні.",
+            "Бактерії діляться на дві шляхом бінарного поділу (binary fission), тому одна клітина стає двома, потім чотирма.",
+            "Небажаних мікроорганізмів не можна впускати в культуру.",
+            "Обережні методи, які не впускають їх, називаються асептичною технікою (aseptic technique).",
+            "Петлю нагрівають у полум’ї перед тим, як вона торкнеться бактерій.",
+            "Кришку приклеюють стрічкою, але не по всьому колу.",
+            "Чашку зберігають догори дном, щоб краплі води не падали на агар.",
+            "У школі чашку тримають за 25 °C, а не 37 °C, щоб шкідливі бактерії росли з меншою ймовірністю.",
+            "Хімічна речовина, наприклад антисептик, може зупинити ріст бактерій.",
+            "Чиста ділянка навколо неї називається зоною пригнічення (zone of inhibition).",
+            "Більша чиста ділянка означає, що речовина діє краще."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "خرد جانداروں کی ایک آبادی جو لیب میں جان بوجھ کر اگائی جائے (culture)",
+            "ایک جیلی جس میں بیکٹیریا کے بڑھنے کے لیے سب کچھ موجود ہو (nutrient agar)",
+            "احتیاط کے طریقے جو غیر ضروری خرد جانداروں کو باہر رکھتے ہیں (aseptic technique)",
+            "جن بیکٹیریا کو آپ اگانا چاہتے ہیں انھیں agar پر رکھنا (inoculate)",
+            "بیکٹیریا کے نسل بڑھانے کا طریقہ: ایک خلیہ دو میں بٹ جاتا ہے (binary fission)",
+            "ڈسک کے گرد صاف دائرہ جہاں بیکٹیریا نہیں بڑھے (zone of inhibition)"
+          ],
+          "passage": [
+            "سائنس دان بیکٹیریا کا مطالعہ کرنے کے لیے انھیں لیب میں اگاتے ہیں۔",
+            "بیکٹیریا اگانے کو culturing کہتے ہیں۔",
+            "بیکٹیریا کو بڑھنے کے لیے خوراک، گرمی اور عموماً آکسیجن چاہیے۔",
+            "انھیں Petri dish میں nutrient agar پر، یا nutrient broth میں اگایا جاتا ہے۔",
+            "بیکٹیریا binary fission سے دو میں بٹتے ہیں، اس لیے ایک خلیہ دو بنتا ہے، پھر چار۔",
+            "غیر ضروری خرد جانداروں کو culture سے باہر رکھنا ضروری ہے۔",
+            "انھیں باہر رکھنے کے احتیاطی طریقوں کو aseptic technique کہتے ہیں۔",
+            "لوپ کو بیکٹیریا سے چھونے سے پہلے شعلے میں گرم کیا جاتا ہے۔",
+            "ڈھکن کو ٹیپ سے بند کیا جاتا ہے، مگر پورے گھیرے میں نہیں۔",
+            "ڈش کو الٹا رکھا جاتا ہے تا کہ پانی کی بوندیں agar پر نہ گریں۔",
+            "اسکول میں ڈش کو 37 °C پر نہیں بلکہ 25 °C پر رکھا جاتا ہے، تا کہ نقصان دہ بیکٹیریا کے بڑھنے کا امکان کم ہو۔",
+            "antiseptic جیسا کوئی کیمیکل بیکٹیریا کو بڑھنے سے روک سکتا ہے۔",
+            "اس کے گرد صاف جگہ کو zone of inhibition کہتے ہیں۔",
+            "بڑی صاف جگہ کا مطلب ہے کہ کیمیکل بہتر کام کرتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why and how we culture bacteria",
@@ -758,8 +1244,156 @@ window.ASTRA_UNITS["triple-b5"] = {
           "A vaccine gives you a small amount of dead or inactive pathogen.",
           "Then your body can fight the real pathogen quickly if it meets it.",
           "Plants cannot be vaccinated, because they do not have an immune system."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الحفاظ على النظافة حتى لا تنتقل الممرضات (hygiene)",
+            "إبعاد الشخص المصاب عن الآخرين (isolation)",
+            "حيوان يحمل ممرضاً من كائن حيّ إلى آخر (vector)",
+            "إعطاء كمّية صغيرة من ممرض ميت أو غير نشط حتى يستطيع الجسم محاربة الممرض الحقيقي (vaccination)",
+            "مادّة كيميائية تقتل الكائنات الدقيقة على الجلد أو الجروح أو الأسطح (antiseptic)"
+          ],
+          "passage": [
+            "لآلاف السنين، لم يعرف الناس ما الذي يسبّب المرض.",
+            "فقط في السنوات الـ 200 الأخيرة فهم العلماء الممرضات حقاً.",
+            "أظهر إغناتس زيملفايس (Ignaz Semmelweis) أن غسل اليدَين ينقذ الأرواح في المستشفيات.",
+            "استعمل جوزيف ليستر (Joseph Lister) المطهّرات والأدوات النظيفة في الجراحة.",
+            "أظهر لويس باستور (Louis Pasteur) أن الكائنات الدقيقة تسبّب المرض.",
+            "اليوم نعرف عدّة طرق لمنع انتشار الممرضات.",
+            "النظافة الجيدة (hygiene) تعني أن تغسل يدَيك وتُبعد اللحم النيّء عن الطعام المطبوخ.",
+            "يمكن عزل (isolate) المصابين بمرض معدٍ خطير عن الآخرين.",
+            "يمكن القضاء على النواقل (vectors) مثل البعوض أو السيطرة عليها.",
+            "اللقاح (vaccine) يعطيك كمّية صغيرة من ممرض ميت أو غير نشط.",
+            "عندها يستطيع جسمك أن يحارب الممرض الحقيقي بسرعة إذا التقاه.",
+            "لا يمكن تلقيح النباتات، لأنها لا تملك جهازاً مناعياً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "utrzymywanie czystości, żeby nie przekazywać patogenów (hygiene)",
+            "trzymanie zakażonej osoby z daleka od innych (isolation)",
+            "zwierzę, które przenosi patogen z jednego organizmu na drugi (vector)",
+            "podanie małej ilości martwego lub nieaktywnego patogenu, żeby ciało mogło zwalczyć prawdziwy (vaccination)",
+            "substancja chemiczna, która zabija mikroorganizmy na skórze, ranach lub powierzchniach (antiseptic)"
+          ],
+          "passage": [
+            "Przez tysiące lat ludzie nie wiedzieli, co wywołuje choroby.",
+            "Dopiero w ciągu ostatnich 200 lat naukowcy naprawdę zrozumieli patogeny.",
+            "Ignaz Semmelweis pokazał, że mycie rąk ratuje życie w szpitalach.",
+            "Joseph Lister używał antyseptyków i czystego sprzętu podczas operacji.",
+            "Louis Pasteur pokazał, że choroby wywołują mikroorganizmy.",
+            "Dziś znamy kilka sposobów na powstrzymanie rozprzestrzeniania się patogenów.",
+            "Dobra higiena (hygiene) to mycie rąk i trzymanie surowego mięsa z daleka od gotowanego jedzenia.",
+            "Ludzi z poważną chorobą zakaźną można odizolować od innych.",
+            "Wektory, takie jak komary, można niszczyć lub kontrolować.",
+            "Szczepionka (vaccine) daje ci małą ilość martwego lub nieaktywnego patogenu.",
+            "Wtedy twoje ciało może szybko zwalczyć prawdziwy patogen, jeśli go napotka.",
+            "Roślin nie można szczepić, bo nie mają układu odpornościowego."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "manter-se limpo para que os patógenos não passem a outros (hygiene, higiene)",
+            "manter uma pessoa infetada/infectada afastada das outras (isolation, isolamento)",
+            "um animal que transporta um patógeno de um organismo para outro (vector, vetor)",
+            "dar uma pequena quantidade de patógeno morto ou inativo para que o corpo consiga combater o verdadeiro (vaccination, vacinação)",
+            "um produto químico que mata microrganismos na pele, em feridas ou em superfícies (antiseptic, antissético/antisséptico)"
+          ],
+          "passage": [
+            "Durante milhares de anos, as pessoas não sabiam o que causava as doenças.",
+            "Só nos últimos 200 anos é que os cientistas compreenderam realmente os patógenos.",
+            "Ignaz Semmelweis mostrou que lavar as mãos salvava vidas nos hospitais.",
+            "Joseph Lister usou antissético/antisséptico e equipamento limpo nas cirurgias.",
+            "Louis Pasteur mostrou que os microrganismos causam doenças.",
+            "Hoje conhecemos várias maneiras de impedir que os patógenos se espalhem.",
+            "Boa higiene quer dizer lavar as mãos e manter a carne crua longe da comida cozinhada.",
+            "As pessoas com uma doença infeciosa/infecciosa grave podem ser isoladas das outras.",
+            "Os vetores, como os mosquitos, podem ser destruídos ou controlados.",
+            "Uma vacina dá a você uma pequena quantidade de patógeno morto ou inativo.",
+            "Depois o seu corpo consegue combater depressa o patógeno verdadeiro, se o encontrar.",
+            "As plantas não podem ser vacinadas, porque não têm sistema imunitário."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "nadiif ahaansho si pathogens aan loo kala qaadin (hygiene)",
+            "qof cudur qaba dadka kale ka fogayn (isolation)",
+            "xayawaan pathogen ka qaada noole una gaarsiiya mid kale (vector)",
+            "qaddar yar oo pathogen dhintay ama aan firfircoonayn siin si jirku kan dhabta ah ula dagaallamo (vaccination)",
+            "kiimiko disha noolayaasha yaryar ee maqaarka, nabarrada ama dusha walxaha ku jira (antiseptic)"
+          ],
+          "passage": [
+            "Kumanaan sano, dadku ma garanayn waxa cudur keena.",
+            "Keliya 200-kii sano ee ugu dambeeyay ayay saynisyahannadu runtii fahmeen pathogens.",
+            "Ignaz Semmelweis wuxuu muujiyay in gacan-dhaqasho isbitaallada nolol badbaadiso.",
+            "Joseph Lister wuxuu qalliinka ku isticmaalay antiseptic iyo qalab nadiif ah.",
+            "Louis Pasteur wuxuu muujiyay in noolayaasha yaryar cudur keenaan.",
+            "Maanta waxaan naqaannaa dhawr siyaabood oo lagu joojiyo faafitaanka pathogens.",
+            "Nadaafad wanaagsan micnaheedu waa gacmahaaga dhaqid iyo hilib ceeriin cunto la kariyay ka fogayn.",
+            "Dadka qaba cudur faafa oo halis ah dadka kale waa laga gooni yeeli karaa (isolate).",
+            "Vectors sida kaneecada waa la baabi'in karaa ama la xakamayn karaa.",
+            "Tallaal (vaccine) wuxuu ku siiyaa qaddar yar oo pathogen dhintay ama aan firfircoonayn.",
+            "Kadibna jirkaagu si dhaqso leh ayuu ula dagaallami karaa pathogen-ka dhabta ah haddii uu la kulmo.",
+            "Dhirta lama tallaali karo, sababtoo ah ma laha nidaam difaac (immune system)."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "підтримання чистоти, щоб патогени не передавалися (hygiene)",
+            "тримання зараженої людини окремо від інших (isolation)",
+            "тварина, яка переносить патоген від одного організму до іншого (vector)",
+            "введення невеликої кількості мертвого або неактивного патогену, щоб тіло могло боротися зі справжнім (vaccination)",
+            "хімічна речовина, яка вбиває мікроорганізми на шкірі, ранах або поверхнях (antiseptic)"
+          ],
+          "passage": [
+            "Тисячі років люди не знали, що спричиняє хвороби.",
+            "Лише за останні 200 років науковці по-справжньому зрозуміли патогени.",
+            "Ігнац Земмельвайс показав, що миття рук рятує життя в лікарнях.",
+            "Джозеф Лістер використовував антисептик і чисті інструменти під час операцій.",
+            "Луї Пастер показав, що мікроорганізми спричиняють хвороби.",
+            "Сьогодні ми знаємо кілька способів зупинити поширення патогенів.",
+            "Добра гігієна (hygiene) означає мити руки і тримати сире м’ясо окремо від готової їжі.",
+            "Людей із серйозною інфекційною хворобою можна ізолювати (isolate) від інших.",
+            "Переносників (vectors), таких як комарі, можна знищувати або контролювати.",
+            "Вакцина (vaccine) дає вам невелику кількість мертвого або неактивного патогену.",
+            "Тоді ваше тіло може швидко побороти справжній патоген, якщо зустріне його.",
+            "Рослини не можна вакцинувати, бо вони не мають імунної системи."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "صفائی رکھنا تا کہ pathogens آگے نہ پہنچیں (hygiene)",
+            "بیمار شخص کو دوسروں سے دور رکھنا (isolation)",
+            "ایک جانور جو pathogen کو ایک جاندار سے دوسرے تک لے جاتا ہے (vector)",
+            "مُردہ یا بے عمل pathogen کی تھوڑی مقدار دینا تا کہ جسم اصلی سے لڑ سکے (vaccination)",
+            "ایک کیمیکل جو جلد، زخموں یا سطحوں پر خرد جانداروں کو مارتا ہے (antiseptic)"
+          ],
+          "passage": [
+            "ہزاروں سال تک لوگ نہیں جانتے تھے کہ بیماری کس وجہ سے ہوتی ہے۔",
+            "صرف پچھلے 200 سالوں میں سائنس دانوں نے pathogens کو واقعی سمجھا ہے۔",
+            "اگناز زیملوائس (Ignaz Semmelweis) نے دکھایا کہ ہاتھ دھونے سے ہسپتالوں میں جانیں بچتی ہیں۔",
+            "جوزف لسٹر (Joseph Lister) نے سرجری میں antiseptic اور صاف آلات استعمال کیے۔",
+            "لوئی پاسچر (Louis Pasteur) نے دکھایا کہ خرد جاندار بیماری پیدا کرتے ہیں۔",
+            "آج ہم pathogens کو پھیلنے سے روکنے کے کئی طریقے جانتے ہیں۔",
+            "اچھی صفائی (hygiene) کا مطلب ہے ہاتھ دھونا اور کچے گوشت کو پکے کھانے سے دور رکھنا۔",
+            "سنگین متعدی بیماری والے لوگوں کو دوسروں سے الگ (isolated) رکھا جا سکتا ہے۔",
+            "مچھر جیسے vectors کو ختم یا کنٹرول کیا جا سکتا ہے۔",
+            "ویکسین آپ کو مُردہ یا بے عمل pathogen کی تھوڑی مقدار دیتی ہے۔",
+            "پھر اگر آپ کا جسم اصلی pathogen سے ملے تو وہ اس سے جلدی لڑ سکتا ہے۔",
+            "پودوں کو ویکسین نہیں دی جا سکتی، کیونکہ ان کا مدافعتی نظام (immune system) نہیں ہوتا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Learning what causes disease",
@@ -961,8 +1595,168 @@ window.ASTRA_UNITS["triple-b5"] = {
           "Gonorrhoea is a bacterial disease spread by sexual contact.",
           "It is treated with antibiotics, but some strains are now resistant.",
           "Antibiotics kill bacteria, but they do not work on viruses."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مرض فيروسي مع حمّى وطفح جلدي أحمر (measles)",
+            "فيروس يهاجم خلايا المناعة في الجسم (HIV)",
+            "بكتيريا تنتشر في الطعام وتسبّب التسمّم الغذائي (Salmonella)",
+            "مرض بكتيري ينتشر بالاتصال الجنسي (gonorrhoea)",
+            "دواء يقتل البكتيريا (antibiotic)",
+            "دواء يمنع الفيروسات من صنع نسخ من نفسها (antiviral)"
+          ],
+          "passage": [
+            "الحصبة (measles) يسبّبها فيروس.",
+            "وتنتشر في قطرات السعال والعطاس.",
+            "تسبّب حمّى وطفحاً جلدياً أحمر، ويمكن أن تكون قاتلة.",
+            "معظم الأطفال الصغار يُلقَّحون ضدّ الحصبة.",
+            "HIV فيروس ينتشر بالاتصال الجنسي أو بمشاركة الإبر.",
+            "في البداية يسبّب مرضاً يشبه الإنفلونزا، ثم يهاجم الجهاز المناعي.",
+            "الأدوية المضادّة للفيروسات القهقرية (antiretroviral) يمكن أن تسيطر على HIV.",
+            "فيروس تبرقش التبغ (tobacco mosaic virus) يعطي أوراق النبات نمطاً مرقّشاً، فتصنع غذاءً أقلّ.",
+            "بكتيريا السالمونيلا (Salmonella) تنتشر في الطعام وتسبّب الحمّى والتقلّصات والقيء والإسهال.",
+            "في المملكة المتحدة، تُلقَّح الدواجن ضدّ السالمونيلا.",
+            "السيلان (gonorrhoea) مرض بكتيري ينتشر بالاتصال الجنسي.",
+            "يُعالَج بالمضادّات الحيوية (antibiotics)، لكن بعض سلالاته صارت مقاومة الآن.",
+            "المضادّات الحيوية تقتل البكتيريا، لكنها لا تعمل على الفيروسات."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "choroba wirusowa z gorączką i czerwoną wysypką na skórze (measles)",
+            "wirus, który atakuje komórki odpornościowe ciała (HIV)",
+            "bakterie rozprzestrzeniane w jedzeniu, które wywołują zatrucie pokarmowe (Salmonella)",
+            "choroba bakteryjna przenoszona przez kontakt seksualny (gonorrhoea)",
+            "lek, który zabija bakterie (antibiotic)",
+            "lek, który powstrzymuje wirusy przed robieniem swoich kopii (antiviral)"
+          ],
+          "passage": [
+            "Odrę (measles) wywołuje wirus.",
+            "Rozprzestrzenia się w kropelkach z kaszlu i kichania.",
+            "Wywołuje gorączkę i czerwoną wysypkę na skórze i może być śmiertelna.",
+            "Większość małych dzieci jest szczepiona przeciw odrze.",
+            "HIV to wirus przenoszony przez kontakt seksualny lub przez wspólne używanie igieł.",
+            "Na początku wywołuje chorobę podobną do grypy, potem atakuje układ odpornościowy.",
+            "Leki antyretrowirusowe mogą kontrolować HIV.",
+            "Wirus mozaiki tytoniu (tobacco mosaic virus) daje liściom roślin wzór mozaiki, więc wytwarzają mniej pokarmu.",
+            "Bakterie Salmonella rozprzestrzeniają się w jedzeniu i wywołują gorączkę, skurcze, wymioty i biegunkę.",
+            "W Wielkiej Brytanii drób szczepi się przeciw Salmonelli.",
+            "Rzeżączka (gonorrhoea) to choroba bakteryjna przenoszona przez kontakt seksualny.",
+            "Leczy się ją antybiotykami, ale niektóre szczepy są już oporne.",
+            "Antybiotyki zabijają bakterie, ale nie działają na wirusy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma doença viral com febre e manchas vermelhas na pele (measles, sarampo)",
+            "um vírus que ataca as células imunitárias do corpo (HIV, VIH)",
+            "bactérias espalhadas pelos alimentos que causam intoxicação alimentar (Salmonella)",
+            "uma doença bacteriana transmitida por contacto/contato sexual (gonorrhoea, gonorreia)",
+            "um medicamento que mata bactérias (antibiotic, antibiótico)",
+            "um medicamento que impede os vírus de fazer cópias de si mesmos (antiviral)"
+          ],
+          "passage": [
+            "O sarampo (measles) é causado por um vírus.",
+            "Espalha-se em gotículas da tosse e dos espirros.",
+            "Causa febre e manchas vermelhas na pele, e pode ser fatal.",
+            "A maioria das crianças pequenas é vacinada contra o sarampo.",
+            "O HIV é um vírus transmitido por contacto/contato sexual ou pela partilha de agulhas.",
+            "No início causa uma doença parecida com a gripe, e depois ataca o sistema imunitário.",
+            "Os medicamentos antirretrovirais conseguem controlar o HIV.",
+            "O vírus do mosaico do tabaco dá às folhas das plantas um padrão de mosaico, por isso elas produzem menos alimento.",
+            "As bactérias Salmonella espalham-se pelos alimentos e causam febre, cólicas, vómitos/vômitos e diarreia.",
+            "No Reino Unido, as aves de criação são vacinadas contra a Salmonella.",
+            "A gonorreia (gonorrhoea) é uma doença bacteriana transmitida por contacto/contato sexual.",
+            "É tratada com antibióticos, mas algumas estirpes/cepas são agora resistentes.",
+            "Os antibióticos matam bactérias, mas não funcionam contra os vírus."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "cudur fayras oo leh qandho iyo finan casaan oo maqaarka (measles)",
+            "fayras weerara unugyada difaaca jirka (HIV)",
+            "bakteeriya cuntada ku faafta oo keenta sun-cunto (Salmonella)",
+            "cudur bakteeriya oo ku faafa xiriir galmo (gonorrhoea)",
+            "dawo bakteeriya disha (antibiotic)",
+            "daroogo fayrasyada ka joojisa inay nuqullo naftooda ka samaystaan (antiviral)"
+          ],
+          "passage": [
+            "Jadeecada (measles) waxaa keena fayras.",
+            "Waxay ku faaftaa dhibco ka yimaada qufac iyo hindhiso.",
+            "Waxay keentaa qandho iyo finan casaan oo maqaarka, waxayna dili kartaa.",
+            "Carruurta yaryar badankood jadeecada ayaa laga tallaalaa.",
+            "HIV waa fayras ku faafa xiriir galmo ama irbado wadaagid.",
+            "Marka hore wuxuu keenaa jirro hargab u eg, kadibna wuxuu weeraraa nidaamka difaaca.",
+            "Daroogooyinka antiretroviral waxay xakamayn karaan HIV.",
+            "Tobacco mosaic virus caleemaha dhirta wuxuu siiyaa qaab mosaic ah, sidaas darteed cunto yar ayay samaystaan.",
+            "Bakteeriyada Salmonella cuntada ayay ku faaftaa, waxayna keentaa qandho, xanuun calool, matag iyo shuban.",
+            "UK, digaagga Salmonella ayaa laga tallaalaa.",
+            "Gonorrhoea waa cudur bakteeriya oo ku faafa xiriir galmo.",
+            "Waxaa lagu daweeyaa antibiotics, laakiin noocyo qaar hadda way u adkaysanayaan (resistant).",
+            "Antibiotics bakteeriya ayay dilaan, laakiin fayrasyada kuma shaqeeyaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вірусна хвороба з гарячкою та червоною висипкою на шкірі (measles)",
+            "вірус, який атакує імунні клітини тіла (HIV)",
+            "бактерії, що поширюються з їжею і спричиняють харчове отруєння (Salmonella)",
+            "бактеріальна хвороба, яка передається статевим шляхом (gonorrhoea)",
+            "ліки, які вбивають бактерії (antibiotic)",
+            "препарат, який не дає вірусам створювати копії себе (antiviral)"
+          ],
+          "passage": [
+            "Кір (measles) спричиняє вірус.",
+            "Він поширюється краплинами під час кашлю та чхання.",
+            "Він спричиняє гарячку й червону висипку на шкірі і може бути смертельним.",
+            "Більшість маленьких дітей вакцинують проти кору.",
+            "ВІЛ (HIV) — це вірус, який передається статевим шляхом або через спільні голки.",
+            "Спочатку він спричиняє хворобу, схожу на грип, а потім атакує імунну систему.",
+            "Антиретровірусні препарати можуть контролювати ВІЛ.",
+            "Вірус тютюнової мозаїки надає листю рослин мозаїчний візерунок, тому вони виробляють менше їжі.",
+            "Бактерії сальмонели (Salmonella) поширюються з їжею і спричиняють гарячку, спазми, блювання та діарею.",
+            "У Великій Британії домашню птицю вакцинують проти сальмонели.",
+            "Гонорея (gonorrhoea) — це бактеріальна хвороба, яка передається статевим шляхом.",
+            "Її лікують антибіотиками (antibiotics), але деякі штами тепер стійкі до них.",
+            "Антибіотики вбивають бактерії, але не діють на віруси."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک وائرسی بیماری جس میں بخار اور جلد پر لال دانے ہوتے ہیں (measles)",
+            "ایک وائرس جو جسم کے مدافعتی خلیوں پر حملہ کرتا ہے (HIV)",
+            "کھانے میں پھیلنے والے بیکٹیریا جو فوڈ پوائزننگ کرتے ہیں (Salmonella)",
+            "ایک بیکٹیریائی بیماری جو جنسی رابطے سے پھیلتی ہے (gonorrhoea)",
+            "ایک دوا جو بیکٹیریا کو مارتی ہے (antibiotic)",
+            "ایک دوا جو وائرسوں کو اپنی نقلیں بنانے سے روکتی ہے (antiviral)"
+          ],
+          "passage": [
+            "خسرہ (measles) ایک وائرس سے ہوتا ہے۔",
+            "یہ کھانسی اور چھینک کی بوندوں میں پھیلتا ہے۔",
+            "اس سے بخار اور جلد پر لال دانے ہوتے ہیں، اور یہ جان لیوا ہو سکتا ہے۔",
+            "زیادہ تر چھوٹے بچوں کو خسرے کی ویکسین دی جاتی ہے۔",
+            "HIV ایک وائرس ہے جو جنسی رابطے یا سوئیاں بانٹنے سے پھیلتا ہے۔",
+            "پہلے یہ فلو جیسی بیماری کرتا ہے، پھر مدافعتی نظام پر حملہ کرتا ہے۔",
+            "Antiretroviral دوائیں HIV کو کنٹرول کر سکتی ہیں۔",
+            "Tobacco mosaic virus پودوں کے پتوں پر پچی کاری (mosaic) جیسا نقش بنا دیتا ہے، اس لیے وہ کم خوراک بناتے ہیں۔",
+            "Salmonella بیکٹیریا کھانے میں پھیلتے ہیں اور بخار، پیٹ میں مروڑ، قے اور دست کرتے ہیں۔",
+            "برطانیہ میں مرغیوں کو Salmonella کی ویکسین دی جاتی ہے۔",
+            "سوزاک (gonorrhoea) ایک بیکٹیریائی بیماری ہے جو جنسی رابطے سے پھیلتی ہے۔",
+            "اس کا علاج antibiotics سے ہوتا ہے، مگر اب اس کی کچھ قسمیں مزاحم (resistant) ہو گئی ہیں۔",
+            "Antibiotics بیکٹیریا کو مارتے ہیں، مگر وائرسوں پر کام نہیں کرتے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Viral diseases: measles and HIV",
@@ -1171,8 +1965,156 @@ window.ASTRA_UNITS["triple-b5"] = {
           "A mosquito carries the protist from one person to another, so it is a vector.",
           "Malaria causes repeated fevers and can be fatal.",
           "Stopping mosquitoes breeding and sleeping under nets help to stop malaria."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "نوع من الممرضات؛ العفن والخمائر فطريات (fungus)",
+            "كائن حيّ وحيد الخلية؛ بعض الأوالي يسبّب المرض (protist)",
+            "الأوّلي الذي يسبّب الملاريا (Plasmodium)",
+            "مادّة كيميائية تقتل الفطريات (fungicide)",
+            "كيف تصنع النباتات الغذاء باستعمال الضوء في أوراقها (photosynthesis)"
+          ],
+          "passage": [
+            "البقعة السوداء في الورد (rose black spot) مرض نباتي يسبّبه فطر.",
+            "تنمو بقع بنفسجية أو سوداء على الأوراق.",
+            "تصفرّ الأوراق وتتساقط مبكّراً.",
+            "يصنع النبات غذاءً أقلّ، لأن البناء الضوئي (photosynthesis) يقلّ.",
+            "ينتشر الفطر بالماء أو الريح.",
+            "يعالجه البستانيون بمبيدات الفطريات (fungicides) وبإزالة الأوراق المصابة.",
+            "قدم الرياضي (athlete's foot) مرض فطري يصيب الجلد بين أصابع القدم.",
+            "ينتشر حيث تكون الأقدام دافئة ورطبة وعارية.",
+            "الملاريا يسبّبها أوّلي يُسمّى البلازموديوم (Plasmodium).",
+            "تحمل البعوضة هذا الأوّلي من شخص إلى آخر، فهي ناقل (vector).",
+            "تسبّب الملاريا حمّيات متكرّرة ويمكن أن تكون قاتلة.",
+            "منع البعوض من التكاثر والنوم تحت الناموسيات يساعدان على وقف الملاريا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "rodzaj patogenu; pleśnie i drożdże to grzyby (fungus)",
+            "organizm jednokomórkowy; niektóre protisty wywołują choroby (protist)",
+            "protist, który wywołuje malarię (Plasmodium)",
+            "substancja chemiczna, która zabija grzyby (fungicide)",
+            "jak rośliny wytwarzają pokarm, używając światła w swoich liściach (photosynthesis)"
+          ],
+          "passage": [
+            "Czarna plamistość róż (rose black spot) to choroba roślin wywoływana przez grzyb.",
+            "Na liściach rosną fioletowe lub czarne plamy.",
+            "Liście żółkną i wcześnie opadają.",
+            "Roślina wytwarza mniej pokarmu, bo może zachodzić mniej fotosyntezy.",
+            "Grzyb rozprzestrzenia się przez wodę lub wiatr.",
+            "Ogrodnicy leczą ją fungicydami i usuwaniem zakażonych liści.",
+            "Grzybica stóp (athlete's foot) to choroba grzybicza skóry między palcami stóp.",
+            "Rozprzestrzenia się tam, gdzie stopy są ciepłe, wilgotne i bose.",
+            "Malarię wywołuje protist o nazwie Plasmodium (zarodziec).",
+            "Komar przenosi protista z jednej osoby na drugą, więc jest wektorem.",
+            "Malaria wywołuje powtarzające się gorączki i może być śmiertelna.",
+            "Powstrzymywanie rozmnażania komarów i spanie pod moskitierami pomagają zatrzymać malarię."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um tipo de patógeno; os bolores e as leveduras são fungos (fungus, fungo)",
+            "um organismo de uma só célula; alguns protistas causam doença (protist, protista)",
+            "o protista que causa a malária (Plasmodium)",
+            "um produto químico que mata fungos (fungicide, fungicida)",
+            "como as plantas produzem alimento usando a luz nas suas folhas (photosynthesis, fotossíntese)"
+          ],
+          "passage": [
+            "A mancha negra da roseira (rose black spot) é uma doença das plantas causada por um fungo.",
+            "Manchas roxas ou pretas crescem nas folhas.",
+            "As folhas ficam amarelas e caem cedo.",
+            "A planta produz menos alimento, porque pode acontecer menos fotossíntese.",
+            "O fungo espalha-se pela água ou pelo vento.",
+            "Os jardineiros tratam-no com fungicidas e retirando as folhas infetadas/infectadas.",
+            "O pé de atleta (athlete's foot) é uma doença fúngica da pele entre os dedos dos pés.",
+            "Espalha-se onde os pés estão quentes, húmidos/úmidos e descalços.",
+            "A malária é causada por um protista chamado Plasmodium.",
+            "Um mosquito transporta o protista de uma pessoa para outra, por isso é um vetor.",
+            "A malária causa febres repetidas e pode ser fatal.",
+            "Impedir os mosquitos de se reproduzirem e dormir debaixo de redes ajudam a travar a malária."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "nooc pathogen; caaryada iyo khamiirku waa fungi (fungus)",
+            "noole hal unug ah; protists qaar cudur ayay keenaan (protist)",
+            "protist-ka keena duumada (malaria) (Plasmodium)",
+            "kiimiko fungi disha (fungicide)",
+            "sida dhirtu cunto ku samayso iftiin caleemahooda (photosynthesis)"
+          ],
+          "passage": [
+            "Rose black spot waa cudur dhir oo fungus keeno.",
+            "Dhibco guduudan ama madow ayaa caleemaha ka baxa.",
+            "Caleemuhu way jaalloobaan, goor horena way daataan.",
+            "Dhirtu cunto yar ayay samaysaa, sababtoo ah photosynthesis yar ayaa dhici kara.",
+            "Fungus-ku wuxuu ku faafaa biyo ama dabayl.",
+            "Beeralayda waxay ku daweeyaan fungicides iyo iyagoo caleemaha qaadsiiyay ka saaraya.",
+            "Athlete's foot waa cudur fungal ah oo maqaarka faraha lugta dhexdooda.",
+            "Wuxuu ku faafaa meesha caguhu diirran, qoyan oo qaawan yihiin.",
+            "Duumada (malaria) waxaa keena protist la yiraahdo Plasmodium.",
+            "Kaneeco protist-ka qof ilaa qof kale ayay u qaaddaa, sidaas darteed waa vector.",
+            "Duumadu waxay keentaa qandhooyin soo noqnoqda, waxayna dili kartaa.",
+            "Joojinta tarmidda kaneecada iyo shabag hoostii seexasho waxay caawiyaan joojinta duumada."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тип патогену; цвіль і дріжджі — це гриби (fungus)",
+            "одноклітинний організм; деякі протисти спричиняють хвороби (protist)",
+            "протист, який спричиняє малярію (Plasmodium)",
+            "хімічна речовина, яка вбиває гриби (fungicide)",
+            "те, як рослини виробляють їжу за допомогою світла у своєму листі (photosynthesis)"
+          ],
+          "passage": [
+            "Чорна плямистість троянд (rose black spot) — це хвороба рослин, яку спричиняє гриб.",
+            "На листі з’являються фіолетові або чорні плями.",
+            "Листя жовтіє й рано опадає.",
+            "Рослина виробляє менше їжі, бо відбувається менше фотосинтезу (photosynthesis).",
+            "Гриб поширюється водою або вітром.",
+            "Садівники лікують її фунгіцидами (fungicides) і видаляють заражене листя.",
+            "Грибок стопи (athlete's foot) — це грибкова хвороба шкіри між пальцями ніг.",
+            "Він поширюється там, де ноги теплі, вологі й босі.",
+            "Малярію (malaria) спричиняє протист, який називається плазмодій (Plasmodium).",
+            "Комар переносить протиста від однієї людини до іншої, тому він є переносником (vector).",
+            "Малярія спричиняє повторювані гарячки й може бути смертельною.",
+            "Боротьба з розмноженням комарів і сон під сітками допомагають зупинити малярію."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "pathogen کی ایک قسم؛ پھپھوندی اور خمیر fungi ہیں (fungus)",
+            "ایک خلیے والا جاندار؛ کچھ protists بیماری پیدا کرتے ہیں (protist)",
+            "وہ protist جو ملیریا پیدا کرتا ہے (Plasmodium)",
+            "ایک کیمیکل جو fungi کو مارتا ہے (fungicide)",
+            "پودے اپنے پتوں میں روشنی سے خوراک کیسے بناتے ہیں (photosynthesis)"
+          ],
+          "passage": [
+            "Rose black spot پودوں کی ایک بیماری ہے جو ایک fungus سے ہوتی ہے۔",
+            "پتوں پر جامنی یا کالے دھبے بن جاتے ہیں۔",
+            "پتے پیلے ہو جاتے ہیں اور جلدی گر جاتے ہیں۔",
+            "پودا کم خوراک بناتا ہے، کیونکہ کم ضیائی تالیف (photosynthesis) ہو پاتی ہے۔",
+            "Fungus پانی یا ہوا سے پھیلتا ہے۔",
+            "باغبان اس کا علاج fungicides سے اور بیمار پتے ہٹا کر کرتے ہیں۔",
+            "Athlete's foot انگلیوں کے بیچ کی جلد کی ایک fungal بیماری ہے۔",
+            "یہ وہاں پھیلتی ہے جہاں پاؤں گرم، نم اور ننگے ہوں۔",
+            "ملیریا Plasmodium نامی ایک protist سے ہوتا ہے۔",
+            "مچھر اس protist کو ایک شخص سے دوسرے تک لے جاتا ہے، اس لیے وہ ایک vector ہے۔",
+            "ملیریا بار بار بخار کرتا ہے اور جان لیوا ہو سکتا ہے۔",
+            "مچھروں کو نسل بڑھانے سے روکنا اور جالی کے نیچے سونا ملیریا روکنے میں مدد کرتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Rose black spot",

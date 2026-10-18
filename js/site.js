@@ -153,6 +153,20 @@ var SITE_CONFIG = {
         ]));
       });
     }
+    var eal = document.getElementById("eal");
+    if (eal && d.eal) {
+      eal.textContent = "";
+      d.eal.forEach(function (L) {
+        var links = L.units.map(function (u) {
+          return el("a", { href: "units/" + u.slug + "/ebook.html?l1=" + L.code, text: u.title + " (Y" + u.year + ")" });
+        });
+        eal.appendChild(el("article", { class: "eal-card", lang: L.code, dir: L.dir }, [
+          el("h3", { text: L.native }),
+          el("p", { class: "eal-en", lang: "en", dir: "ltr", text: L.english + " · " + L.units.length + (L.units.length === 1 ? " book" : " books") + " · machine translation, awaiting a speaker's check" }),
+          el("div", { class: "eal-links", lang: "en", dir: "ltr" }, links)
+        ]));
+      });
+    }
     var live = document.getElementById("live");
     if (live && d.live) {
       live.textContent = "";

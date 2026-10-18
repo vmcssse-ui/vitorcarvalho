@@ -99,8 +99,162 @@ window.ASTRA_UNITS["maths-sequences"] = {
           "Patterns follow rules too.",
           "Count the shapes in each term to turn a pattern into a number sequence.",
           "Then check your answer by using the rule again."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مجموعة من الأعداد أو الأشكال بترتيب يتبع قاعدة (sequence)",
+            "واحد من الأعداد في المتتابعة (term)",
+            "متتابعة مكوّنة من أشكال أو أشياء (pattern)",
+            "ما تفعله للانتقال من حدّ إلى الحدّ التالي (rule)",
+            "أن تقول ما سيأتي بعد ذلك قبل أن تتحقّق (predict)"
+          ],
+          "passage": [
+            "المتتابعة (sequence) مجموعة من الأعداد بترتيب معيّن.",
+            "كل عدد في المتتابعة يُسمّى حدّاً (term).",
+            "انظر إلى 3، 6، 9، 12.",
+            "الحدّ الأول هو 3.",
+            "الحدّ الثاني هو 6.",
+            "كل حدّ يزيد 3 على الحدّ الذي قبله.",
+            "هذه هي القاعدة (rule).",
+            "إذا عرفت القاعدة، يمكنك أن تتوقّع الحدّ التالي.",
+            "الحدّ التالي هو 15.",
+            "النمط (pattern) متتابعة من الأشكال أو الأشياء.",
+            "الأنماط تتبع قواعد أيضاً.",
+            "عُدّ الأشكال في كل حدّ لتحوّل النمط إلى متتابعة أعداد.",
+            "ثم تحقّق من جوابك باستعمال القاعدة مرة أخرى."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zbiór liczb lub kształtów ułożonych w kolejności według reguły (sequence)",
+            "jedna z liczb w ciągu (term)",
+            "ciąg zbudowany z kształtów lub przedmiotów (pattern)",
+            "to, co robisz, żeby przejść od jednego wyrazu do następnego (rule)",
+            "powiedzieć, co będzie dalej, zanim to sprawdzisz (predict)"
+          ],
+          "passage": [
+            "Ciąg (sequence) to zbiór liczb ułożonych w kolejności.",
+            "Każdą liczbę w ciągu nazywamy wyrazem (term).",
+            "Spójrz na 3, 6, 9, 12.",
+            "Pierwszy wyraz to 3.",
+            "Drugi wyraz to 6.",
+            "Każdy wyraz jest o 3 większy od poprzedniego.",
+            "To jest reguła (rule).",
+            "Jeśli znasz regułę, możesz przewidzieć następny wyraz.",
+            "Następny wyraz to 15.",
+            "Wzór (pattern) to ciąg kształtów lub przedmiotów.",
+            "Wzory też idą według reguł.",
+            "Policz kształty w każdym wyrazie, żeby zamienić wzór na ciąg liczbowy.",
+            "Potem sprawdź swoją odpowiedź, używając reguły jeszcze raz."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um conjunto de números ou de formas numa ordem que segue uma regra (sequence, sequência)",
+            "um dos números de uma sequência (term, termo)",
+            "uma sequência feita de formas ou de objetos (pattern, padrão)",
+            "o que você faz para ir de um termo ao seguinte (rule, regra)",
+            "dizer o que vem a seguir antes de verificar (predict, prever)"
+          ],
+          "passage": [
+            "Uma sequência (sequence) é um conjunto de números por ordem.",
+            "Cada número de uma sequência chama-se termo (term).",
+            "Olhe para 3, 6, 9, 12.",
+            "O primeiro termo é 3.",
+            "O segundo termo é 6.",
+            "Cada termo é 3 a mais do que o anterior.",
+            "Essa é a regra.",
+            "Se você sabe a regra, pode prever o termo seguinte.",
+            "O termo seguinte é 15.",
+            "Um padrão (pattern) é uma sequência de formas ou de objetos.",
+            "Os padrões também seguem regras.",
+            "Conte as formas em cada termo para transformar um padrão numa sequência de números.",
+            "Depois verifique a sua resposta usando a regra outra vez."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tirooyin ama qaabab isku xigxiga oo xeer raaca (sequence)",
+            "mid ka mid ah tirooyinka taxanaha (term)",
+            "taxane ka samaysan qaabab ama walxo (pattern)",
+            "waxa aad samayso si aad xubin uga gudubto tan xigta (rule)",
+            "sheegidda waxa xiga intaadan hubin (predict)"
+          ],
+          "passage": [
+            "Taxane (sequence) waa tirooyin isku xigxiga oo nidaam leh.",
+            "Tiro kasta oo taxane ku jirta waxaa la yiraahdaa xubin (term).",
+            "Fiiri 3, 6, 9, 12.",
+            "Xubinta koowaad waa 3.",
+            "Xubinta labaad waa 6.",
+            "Xubin kastaa waa 3 ka badan tan ka horreysa.",
+            "Taasi waa xeerka (rule).",
+            "Haddii aad xeerka taqaanno, waxaad saadaalin kartaa xubinta xigta.",
+            "Xubinta xigtaa waa 15.",
+            "Qaab (pattern) waa taxane qaabab ama walxo ah.",
+            "Qaababkuna xeerar ayay raacaan.",
+            "Tiri qaababka xubin kasta ku jira si aad qaab u beddesho taxane tirooyin.",
+            "Kadibna jawaabtaada hubi adigoo xeerka mar kale isticmaalaya."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "набір чисел або фігур, розташованих по порядку за правилом (sequence)",
+            "одне з чисел у послідовності (term)",
+            "послідовність із фігур або предметів (pattern)",
+            "те, що ви робите, щоб перейти від одного члена до наступного (rule)",
+            "сказати, що буде далі, ще до того, як перевірити (predict)"
+          ],
+          "passage": [
+            "Послідовність (sequence) — це набір чисел, розташованих по порядку.",
+            "Кожне число в послідовності називається членом (term).",
+            "Подивіться на 3, 6, 9, 12.",
+            "Перший член — 3.",
+            "Другий член — 6.",
+            "Кожний член на 3 більший за попередній.",
+            "Це і є правило (rule).",
+            "Якщо ви знаєте правило, ви можете передбачити наступний член.",
+            "Наступний член — 15.",
+            "Візерунок (pattern) — це послідовність із фігур або предметів.",
+            "Візерунки також підкоряються правилам.",
+            "Порахуйте фігури в кожному члені, щоб перетворити візерунок на числову послідовність.",
+            "Потім перевірте свою відповідь, ще раз застосувавши правило."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اعداد یا شکلوں کا ایک مجموعہ جو ایک ترتیب میں ہو اور کسی قاعدے پر چلے (sequence)",
+            "سلسلے کے اعداد میں سے ایک (term)",
+            "شکلوں یا چیزوں سے بنا ہوا سلسلہ (pattern)",
+            "ایک رکن سے اگلے رکن تک جانے کے لیے آپ کیا کرتے ہیں (rule)",
+            "جانچنے سے پہلے بتانا کہ آگے کیا آئے گا (predict)"
+          ],
+          "passage": [
+            "سلسلہ (sequence) ترتیب میں رکھے اعداد کا ایک مجموعہ ہے۔",
+            "سلسلے کے ہر عدد کو رکن (term) کہتے ہیں۔",
+            "اس سلسلے کو دیکھیں: 3, 6, 9, 12۔",
+            "پہلا رکن 3 ہے۔",
+            "دوسرا رکن 6 ہے۔",
+            "ہر رکن اپنے پچھلے رکن سے 3 زیادہ ہے۔",
+            "یہی قاعدہ (rule) ہے۔",
+            "اگر آپ قاعدہ جانتے ہیں تو آپ اگلے رکن کی پیشین گوئی کر سکتے ہیں۔",
+            "اگلا رکن 15 ہے۔",
+            "پیٹرن (pattern) شکلوں یا چیزوں کا سلسلہ ہے۔",
+            "پیٹرن بھی قاعدوں پر چلتے ہیں۔",
+            "پیٹرن کو اعداد کے سلسلے میں بدلنے کے لیے ہر رکن کی شکلیں گنیں۔",
+            "پھر قاعدے کو دوبارہ استعمال کر کے اپنا جواب جانچیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Terms and rules",
@@ -285,8 +439,162 @@ window.ASTRA_UNITS["maths-sequences"] = {
           "A sequence that goes down is descending.",
           "Linear sequences can be ascending or descending.",
           "If you plot a linear sequence on a graph, the points make a straight line."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "متتابعة تزيد أو تنقص بالمقدار نفسه كل مرة (linear sequence)",
+            "متتابعة لا تزيد أو تنقص بالمقدار نفسه كل مرة (non-linear sequence)",
+            "الفجوة بين حدّ والحدّ التالي (difference)",
+            "يبقى كما هو (constant)",
+            "متزايدة (ascending)",
+            "متناقصة (descending)"
+          ],
+          "passage": [
+            "انظر إلى الفجوات بين حدود المتتابعة.",
+            "الفجوة بين حدَّين متجاورَين تُسمّى الفرق (difference).",
+            "في 4، 7، 10، 13 الفرق دائماً 3.",
+            "الفرق ثابت (constant).",
+            "هذه متتابعة خطية (linear sequence).",
+            "في 1، 2، 4، 8 الفروق هي 1 و2 و4.",
+            "وهي ليست متساوية.",
+            "هذه متتابعة غير خطية (non-linear sequence).",
+            "المتتابعة التي تزيد تُسمّى متزايدة (ascending).",
+            "والمتتابعة التي تنقص تُسمّى متناقصة (descending).",
+            "المتتابعات الخطية يمكن أن تكون متزايدة أو متناقصة.",
+            "إذا رسمت متتابعة خطية على رسم بياني، فإن النقاط تكوّن خطاً مستقيماً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ciąg, który za każdym razem rośnie lub maleje o tę samą wartość (linear sequence)",
+            "ciąg, który nie rośnie ani nie maleje za każdym razem o tę samą wartość (non-linear sequence)",
+            "odstęp między jednym wyrazem a następnym (difference)",
+            "pozostający taki sam (constant)",
+            "rosnący (ascending)",
+            "malejący (descending)"
+          ],
+          "passage": [
+            "Spójrz na odstępy między wyrazami ciągu.",
+            "Odstęp między dwoma sąsiednimi wyrazami nazywamy różnicą (difference).",
+            "W 4, 7, 10, 13 różnica zawsze wynosi 3.",
+            "Różnica jest stała (constant).",
+            "To jest ciąg liniowy (linear sequence).",
+            "W 1, 2, 4, 8 różnice wynoszą 1, 2 i 4.",
+            "Nie są takie same.",
+            "To jest ciąg nieliniowy (non-linear sequence).",
+            "Ciąg, który rośnie, jest rosnący (ascending).",
+            "Ciąg, który maleje, jest malejący (descending).",
+            "Ciągi liniowe mogą być rosnące lub malejące.",
+            "Jeśli naniesiesz ciąg liniowy na wykres, punkty utworzą linię prostą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma sequência que sobe ou desce sempre a mesma quantidade (linear sequence, sequência linear)",
+            "uma sequência que não sobe nem desce sempre a mesma quantidade (non-linear sequence, sequência não linear)",
+            "o intervalo entre um termo e o seguinte (difference, diferença)",
+            "que se mantém igual (constant, constante)",
+            "que vai subindo (ascending, ascendente)",
+            "que vai descendo (descending, descendente)"
+          ],
+          "passage": [
+            "Olhe para os intervalos entre os termos de uma sequência.",
+            "O intervalo entre dois termos vizinhos chama-se diferença (difference).",
+            "Em 4, 7, 10, 13 a diferença é sempre 3.",
+            "A diferença é constante.",
+            "Esta é uma sequência linear (linear sequence).",
+            "Em 1, 2, 4, 8 as diferenças são 1, 2 e 4.",
+            "Não são iguais.",
+            "Esta é uma sequência não linear (non-linear sequence).",
+            "Uma sequência que sobe é ascendente (ascending).",
+            "Uma sequência que desce é descendente (descending).",
+            "As sequências lineares podem ser ascendentes ou descendentes.",
+            "Se você marcar uma sequência linear num gráfico, os pontos formam uma linha reta."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "taxane mar kasta isku qaddar kor u kaca ama hoos u dhaca (linear sequence)",
+            "taxane aan mar kasta isku qaddar kor u kicin ama hoos u dhicin (non-linear sequence)",
+            "farqiga u dhexeeya xubin iyo tan xigta (difference)",
+            "isku mid sii ahaanaya (constant)",
+            "kor u socda (ascending)",
+            "hoos u socda (descending)"
+          ],
+          "passage": [
+            "Fiiri farqiyada u dhexeeya xubnaha taxane.",
+            "Farqiga u dhexeeya laba xubnood oo is ag yaal waxaa la yiraahdaa difference.",
+            "Gudaha 4, 7, 10, 13 farqigu mar walba waa 3.",
+            "Farqigu waa joogto (constant).",
+            "Kani waa taxane toosan (linear sequence).",
+            "Gudaha 1, 2, 4, 8 farqiyadu waa 1, 2 iyo 4.",
+            "Isku mid ma aha.",
+            "Kani waa taxane aan toosnayn (non-linear sequence).",
+            "Taxane kor u socda waa ascending.",
+            "Taxane hoos u socda waa descending.",
+            "Taxanayaasha toosan waxay noqon karaan ascending ama descending.",
+            "Haddii aad taxane toosan garaaf ku sawirto, dhibcuhu waxay samaystaan xariiq toosan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "послідовність, яка кожного разу зростає або спадає на одну й ту саму величину (linear sequence)",
+            "послідовність, яка не зростає і не спадає кожного разу на одну й ту саму величину (non-linear sequence)",
+            "проміжок між одним членом і наступним (difference)",
+            "той, що залишається незмінним (constant)",
+            "той, що зростає (ascending)",
+            "той, що спадає (descending)"
+          ],
+          "passage": [
+            "Подивіться на проміжки між членами послідовності.",
+            "Проміжок між двома сусідніми членами називається різницею (difference).",
+            "У 4, 7, 10, 13 різниця завжди дорівнює 3.",
+            "Різниця стала (constant).",
+            "Це лінійна послідовність (linear sequence).",
+            "У 1, 2, 4, 8 різниці дорівнюють 1, 2 і 4.",
+            "Вони не однакові.",
+            "Це нелінійна послідовність (non-linear sequence).",
+            "Послідовність, яка зростає, називається зростаючою (ascending).",
+            "Послідовність, яка спадає, називається спадною (descending).",
+            "Лінійні послідовності можуть бути зростаючими або спадними.",
+            "Якщо побудувати лінійну послідовність на графіку, точки утворять пряму лінію."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا سلسلہ جو ہر بار ایک ہی مقدار سے اوپر یا نیچے جاتا ہے (linear sequence)",
+            "ایسا سلسلہ جو ہر بار ایک ہی مقدار سے اوپر یا نیچے نہیں جاتا (non-linear sequence)",
+            "ایک رکن اور اگلے رکن کے بیچ کا فاصلہ (difference)",
+            "ایک جیسا رہنے والا (constant)",
+            "اوپر جاتا ہوا (ascending)",
+            "نیچے جاتا ہوا (descending)"
+          ],
+          "passage": [
+            "سلسلے کے ارکان کے بیچ کے فاصلوں کو دیکھیں۔",
+            "ساتھ ساتھ کے دو ارکان کے بیچ کے فاصلے کو فرق (difference) کہتے ہیں۔",
+            "4, 7, 10, 13 میں فرق ہمیشہ 3 ہے۔",
+            "فرق مستقل (constant) ہے۔",
+            "یہ ایک خطی سلسلہ (linear sequence) ہے۔",
+            "سلسلے 1, 2, 4, 8 میں فرق 1، 2 اور 4 ہیں۔",
+            "وہ ایک جیسے نہیں ہیں۔",
+            "یہ ایک غیر خطی سلسلہ (non-linear sequence) ہے۔",
+            "جو سلسلہ اوپر جاتا ہے وہ بڑھتا ہوا (ascending) ہے۔",
+            "جو سلسلہ نیچے جاتا ہے وہ گھٹتا ہوا (descending) ہے۔",
+            "خطی سلسلے بڑھتے ہوئے یا گھٹتے ہوئے ہو سکتے ہیں۔",
+            "اگر آپ خطی سلسلے کو گراف پر لگائیں تو نقطے ایک سیدھی لکیر بناتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Constant difference",
@@ -468,8 +776,162 @@ window.ASTRA_UNITS["maths-sequences"] = {
           "A linear sequence can go below zero.",
           "In 9, 6, 3, 0 the next term is −3.",
           "On a graph, the points of a linear sequence make a straight line."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كيف تنتقل من حدّ إلى الحدّ التالي (term-to-term rule)",
+            "الحدّ الذي قبل مباشرة (previous term)",
+            "المقدار الذي تزيد به أو تنقص به المتتابعة الخطية كل مرة (common difference)",
+            "عدد فيه فاصلة عشرية، مثل 2.5 (decimal)",
+            "الخطّان اللذان يُرسم عليهما الرسم البياني (axes)"
+          ],
+          "passage": [
+            "المتتابعة الخطية تزيد أو تنقص بالمقدار نفسه كل مرة.",
+            "هذا المقدار هو الفرق المشترك (common difference).",
+            "لتجده، اطرح حدّاً من الحدّ الذي يليه.",
+            "في 31، 28، 25 تنقص الحدود بمقدار 3.",
+            "إذن الحدّ التالي هو 22، ثم 19.",
+            "قاعدة الانتقال بين الحدود (term-to-term rule) تقول كيف تنتقل من حدّ إلى الحدّ التالي.",
+            "هنا القاعدة هي: اطرح 3 من الحدّ السابق.",
+            "بعض المتتابعات تستعمل الأعداد العشرية.",
+            "في 1.5، 2.5، 3.5 الفرق المشترك هو 1.",
+            "الحدّ التالي هو 4.5.",
+            "المتتابعة الخطية يمكن أن تنزل تحت الصفر.",
+            "في 9، 6، 3، 0 الحدّ التالي هو −3.",
+            "على الرسم البياني، نقاط المتتابعة الخطية تكوّن خطاً مستقيماً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak przejść od jednego wyrazu do następnego (term-to-term rule)",
+            "wyraz tuż przed (previous term)",
+            "wartość, o którą ciąg liniowy rośnie lub maleje za każdym razem (common difference)",
+            "liczba z przecinkiem dziesiętnym, na przykład 2.5 (decimal)",
+            "dwie linie, na których rysuje się wykres (axes)"
+          ],
+          "passage": [
+            "Ciąg liniowy rośnie lub maleje za każdym razem o tę samą wartość.",
+            "Ta wartość to różnica ciągu (common difference).",
+            "Żeby ją znaleźć, odejmij jeden wyraz od następnego wyrazu.",
+            "W 31, 28, 25 wyrazy maleją o 3.",
+            "Więc następny wyraz to 22, a potem 19.",
+            "Reguła „wyraz do wyrazu” (term-to-term rule) mówi, jak przejść od jednego wyrazu do następnego.",
+            "Tutaj reguła brzmi: odejmij 3 od poprzedniego wyrazu.",
+            "Niektóre ciągi używają liczb dziesiętnych.",
+            "W 1.5, 2.5, 3.5 różnica ciągu wynosi 1.",
+            "Następny wyraz to 4.5.",
+            "Ciąg liniowy może zejść poniżej zera.",
+            "W 9, 6, 3, 0 następny wyraz to −3.",
+            "Na wykresie punkty ciągu liniowego tworzą linię prostą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "como ir de um termo ao seguinte (term-to-term rule)",
+            "o termo logo antes (previous term, termo anterior)",
+            "a quantidade que uma sequência linear sobe ou desce de cada vez (common difference, diferença comum)",
+            "um número com vírgula/ponto decimal, como 2.5 (decimal)",
+            "as duas linhas sobre as quais um gráfico é desenhado (axes, eixos)"
+          ],
+          "passage": [
+            "Uma sequência linear sobe ou desce sempre a mesma quantidade.",
+            "Essa quantidade é a diferença comum (common difference).",
+            "Para a encontrar, tire um termo ao termo seguinte.",
+            "Em 31, 28, 25 os termos descem 3 de cada vez.",
+            "Por isso, o termo seguinte é 22, e depois 19.",
+            "A regra termo a termo (term-to-term rule) diz como ir de um termo ao seguinte.",
+            "Aqui a regra é: subtrair 3 ao termo anterior.",
+            "Algumas sequências usam decimais.",
+            "Em 1.5, 2.5, 3.5 a diferença comum é 1.",
+            "O termo seguinte é 4.5.",
+            "Uma sequência linear pode ir abaixo de zero.",
+            "Em 9, 6, 3, 0 o termo seguinte é −3.",
+            "Num gráfico, os pontos de uma sequência linear formam uma linha reta."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida xubin looga gudbo tan xigta (term-to-term rule)",
+            "xubinta isla ka horreysa (previous term)",
+            "qaddarka taxane toosan mar kasta kor u kaco ama hoos u dhaco (common difference)",
+            "tiro leh dhibic tobanle, sida 2.5 (decimal)",
+            "labada xariiq ee garaaf lagu sawiro (axes)"
+          ],
+          "passage": [
+            "Taxane toosan mar kasta isku qaddar ayuu kor u kacaa ama hoos u dhacaa.",
+            "Qaddarkan waa farqiga guud (common difference).",
+            "Si aad u hesho, hal xubin ka jar xubinta xigta.",
+            "Gudaha 31, 28, 25 xubnuhu 3 ayay hoos u dhacaan.",
+            "Sidaas darteed xubinta xigtaa waa 22, kadibna 19.",
+            "Xeerka xubin-ilaa-xubin (term-to-term rule) wuxuu sheegaa sida xubin looga gudbo tan xigta.",
+            "Halkan xeerku waa: 3 ka jar xubinta ka horreysa.",
+            "Taxanayaasha qaar waxay isticmaalaan jajab tobanle (decimals).",
+            "Gudaha 1.5, 2.5, 3.5 farqiga guud waa 1.",
+            "Xubinta xigtaa waa 4.5.",
+            "Taxane toosan eber ka hoos ayuu mari karaa.",
+            "Gudaha 9, 6, 3, 0 xubinta xigtaa waa −3.",
+            "Garaaf, dhibcaha taxane toosan waxay samaystaan xariiq toosan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "як перейти від одного члена до наступного (term-to-term rule)",
+            "член, що стоїть безпосередньо перед (previous term)",
+            "величина, на яку лінійна послідовність кожного разу зростає або спадає (common difference)",
+            "число з десятковою крапкою, наприклад 2.5 (decimal)",
+            "дві лінії, на яких будують графік (axes)"
+          ],
+          "passage": [
+            "Лінійна послідовність кожного разу зростає або спадає на одну й ту саму величину.",
+            "Ця величина — спільна різниця (common difference).",
+            "Щоб знайти її, відніміть один член від наступного.",
+            "У 31, 28, 25 члени зменшуються на 3.",
+            "Отже, наступний член — 22, а потім 19.",
+            "Правило переходу від члена до члена (term-to-term rule) говорить, як перейти від одного члена до наступного.",
+            "Тут правило таке: відняти 3 від попереднього члена.",
+            "Деякі послідовності використовують десяткові дроби (decimals).",
+            "У 1.5, 2.5, 3.5 спільна різниця дорівнює 1.",
+            "Наступний член — 4.5.",
+            "Лінійна послідовність може опускатися нижче нуля.",
+            "У 9, 6, 3, 0 наступний член — −3.",
+            "На графіку точки лінійної послідовності утворюють пряму лінію."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک رکن سے اگلے رکن تک کیسے جائیں (term-to-term rule)",
+            "بالکل پہلے والا رکن (previous term)",
+            "وہ مقدار جس سے خطی سلسلہ ہر بار اوپر یا نیچے جاتا ہے (common difference)",
+            "اعشاریہ والا عدد، جیسے 2.5 (decimal)",
+            "وہ دو لکیریں جن پر گراف بنایا جاتا ہے (axes)"
+          ],
+          "passage": [
+            "خطی سلسلہ ہر بار ایک ہی مقدار سے اوپر یا نیچے جاتا ہے۔",
+            "یہ مقدار مشترک فرق (common difference) ہے۔",
+            "اسے معلوم کرنے کے لیے اگلے رکن سے ایک رکن کو گھٹائیں۔",
+            "31, 28, 25 میں ارکان 3 کم ہوتے جاتے ہیں۔",
+            "اس لیے اگلا رکن 22 ہے، اور پھر 19۔",
+            "رکن سے رکن کا قاعدہ (term-to-term rule) بتاتا ہے کہ ایک رکن سے اگلے تک کیسے جائیں۔",
+            "یہاں قاعدہ ہے: پچھلے رکن سے 3 گھٹائیں۔",
+            "کچھ سلسلے اعشاریہ استعمال کرتے ہیں۔",
+            "سلسلے 1.5, 2.5, 3.5 میں مشترک فرق 1 ہے۔",
+            "اگلا رکن 4.5 ہے۔",
+            "خطی سلسلہ صفر سے نیچے جا سکتا ہے۔",
+            "9, 6, 3, 0 میں اگلا رکن −3 ہے۔",
+            "گراف پر خطی سلسلے کے نقطے ایک سیدھی لکیر بناتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Finding the common difference",
@@ -659,8 +1121,162 @@ window.ASTRA_UNITS["maths-sequences"] = {
           "Think of a cell that divides every hour.",
           "A single cell becomes 2, then 4, then 8.",
           "That is doubling, and it makes a geometric sequence."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "متتابعة تتغيّر فروقها (non-linear sequence)",
+            "متتابعة تضرب فيها أو تقسم على العدد نفسه كل مرة (geometric sequence)",
+            "اضرب في 2 (double)",
+            "اضرب في 3 (triple)",
+            "اقسم على 2 (halve)"
+          ],
+          "passage": [
+            "ليست كل متتابعة تزيد بالمقدار نفسه.",
+            "انظر إلى 3، 6، 12، 24.",
+            "كل حدّ هو ضِعف الحدّ الذي قبله.",
+            "الفروق هي 3 و6 و12.",
+            "وهي تكبر كل مرة.",
+            "إذن هذه متتابعة غير خطية.",
+            "عندما تضرب في العدد نفسه أو تقسم عليه كل مرة، تكون المتتابعة هندسية (geometric).",
+            "بعض المتتابعات غير الخطية لها فروق تكبر بالمقدار نفسه.",
+            "في 4، 5، 7، 10، 14 الفروق هي 1 و2 و3 و4.",
+            "الفرق التالي هو 5، إذن الحدّ التالي هو 19.",
+            "فكّر في خلية تنقسم كل ساعة.",
+            "الخلية الواحدة تصبح 2، ثم 4، ثم 8.",
+            "هذا هو التضعيف (doubling)، وهو يصنع متتابعة هندسية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ciąg, którego różnice się zmieniają (non-linear sequence)",
+            "ciąg, w którym za każdym razem mnożysz lub dzielisz przez tę samą liczbę (geometric sequence)",
+            "pomnożyć przez 2 (double)",
+            "pomnożyć przez 3 (triple)",
+            "podzielić przez 2 (halve)"
+          ],
+          "passage": [
+            "Nie każdy ciąg rośnie o tę samą wartość.",
+            "Spójrz na 3, 6, 12, 24.",
+            "Każdy wyraz jest dwa razy większy od poprzedniego.",
+            "Różnice wynoszą 3, 6 i 12.",
+            "Za każdym razem są większe.",
+            "Więc to jest ciąg nieliniowy.",
+            "Kiedy za każdym razem mnożysz lub dzielisz przez tę samą liczbę, ciąg jest geometryczny (geometric).",
+            "Niektóre ciągi nieliniowe mają różnice, które rosną o tę samą wartość.",
+            "W 4, 5, 7, 10, 14 różnice wynoszą 1, 2, 3 i 4.",
+            "Następna różnica to 5, więc następny wyraz to 19.",
+            "Pomyśl o komórce, która dzieli się co godzinę.",
+            "Jedna komórka staje się 2, potem 4, potem 8.",
+            "To jest podwajanie i tworzy ono ciąg geometryczny."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma sequência cujas diferenças mudam (non-linear sequence, sequência não linear)",
+            "uma sequência em que você multiplica ou divide sempre pelo mesmo número (geometric sequence, sequência geométrica)",
+            "multiplicar por 2 (double, duplicar)",
+            "multiplicar por 3 (triple, triplicar)",
+            "dividir por 2 (halve, dividir ao meio)"
+          ],
+          "passage": [
+            "Nem toda sequência sobe sempre a mesma quantidade.",
+            "Olhe para 3, 6, 12, 24.",
+            "Cada termo é o dobro do anterior.",
+            "As diferenças são 3, 6 e 12.",
+            "Ficam maiores de cada vez.",
+            "Por isso, esta é uma sequência não linear.",
+            "Quando você multiplica ou divide sempre pelo mesmo número, a sequência é geométrica (geometric).",
+            "Algumas sequências não lineares têm diferenças que crescem sempre a mesma quantidade.",
+            "Em 4, 5, 7, 10, 14 as diferenças são 1, 2, 3 e 4.",
+            "A diferença seguinte é 5, por isso o termo seguinte é 19.",
+            "Pense numa célula que se divide a cada hora.",
+            "Uma só célula passa a 2, depois 4, depois 8.",
+            "Isso é duplicar, e dá uma sequência geométrica."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "taxane farqiyadiisu is beddelaan (non-linear sequence)",
+            "taxane aad mar kasta isku tiro ku dhufato ama u qaybiso (geometric sequence)",
+            "2 ku dhufo (double)",
+            "3 ku dhufo (triple)",
+            "2 u qaybi (halve)"
+          ],
+          "passage": [
+            "Taxane kasta isku qaddar kor uma kaco.",
+            "Fiiri 3, 6, 12, 24.",
+            "Xubin kastaa waa laba jibbaar tan ka horreysa.",
+            "Farqiyadu waa 3, 6 iyo 12.",
+            "Mar kasta way sii weynaadaan.",
+            "Sidaas darteed kani waa taxane aan toosnayn (non-linear sequence).",
+            "Markaad mar kasta isku tiro ku dhufato ama u qaybiso, taxanuhu waa geometric.",
+            "Taxanayaasha aan toosnayn qaarkood waxay leeyihiin farqiyo isku qaddar u kordha.",
+            "Gudaha 4, 5, 7, 10, 14 farqiyadu waa 1, 2, 3 iyo 4.",
+            "Farqiga xigaa waa 5, sidaas darteed xubinta xigtaa waa 19.",
+            "Ka fikir unug (cell) saacad kasta kala qaybsama.",
+            "Hal unug wuxuu noqdaa 2, kadibna 4, kadibna 8.",
+            "Taasi waa laba-jibbaarid (doubling), waxayna samaysaa taxane geometric ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "послідовність, різниці якої змінюються (non-linear sequence)",
+            "послідовність, у якій кожного разу множать або ділять на одне й те саме число (geometric sequence)",
+            "помножити на 2 (double)",
+            "помножити на 3 (triple)",
+            "поділити на 2 (halve)"
+          ],
+          "passage": [
+            "Не кожна послідовність зростає на одну й ту саму величину.",
+            "Подивіться на 3, 6, 12, 24.",
+            "Кожний член удвічі більший за попередній.",
+            "Різниці дорівнюють 3, 6 і 12.",
+            "Вони кожного разу стають більшими.",
+            "Отже, це нелінійна послідовність.",
+            "Коли кожного разу множать або ділять на одне й те саме число, послідовність називається геометричною (geometric).",
+            "У деяких нелінійних послідовностях різниці зростають на одну й ту саму величину.",
+            "У 4, 5, 7, 10, 14 різниці дорівнюють 1, 2, 3 і 4.",
+            "Наступна різниця — 5, тому наступний член — 19.",
+            "Уявіть клітину, яка ділиться щогодини.",
+            "Одна клітина стає 2, потім 4, потім 8.",
+            "Це подвоєння (doubling), і воно утворює геометричну послідовність."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا سلسلہ جس کے فرق بدلتے رہتے ہیں (non-linear sequence)",
+            "ایسا سلسلہ جس میں آپ ہر بار ایک ہی عدد سے ضرب یا تقسیم کرتے ہیں (geometric sequence)",
+            "2 سے ضرب دینا (double)",
+            "3 سے ضرب دینا (triple)",
+            "2 سے تقسیم کرنا (halve)"
+          ],
+          "passage": [
+            "ہر سلسلہ ایک ہی مقدار سے اوپر نہیں جاتا۔",
+            "اس سلسلے کو دیکھیں: 3, 6, 12, 24۔",
+            "ہر رکن اپنے پچھلے رکن کا دگنا ہے۔",
+            "فرق 3، 6 اور 12 ہیں۔",
+            "وہ ہر بار بڑے ہوتے جاتے ہیں۔",
+            "اس لیے یہ ایک غیر خطی سلسلہ ہے۔",
+            "جب آپ ہر بار ایک ہی عدد سے ضرب یا تقسیم کرتے ہیں تو سلسلہ ہندسی (geometric) ہوتا ہے۔",
+            "کچھ غیر خطی سلسلوں کے فرق ایک ہی مقدار سے بڑھتے ہیں۔",
+            "سلسلے 4, 5, 7, 10, 14 میں ارکان کے بیچ فرق یہ ہیں: 1، 2، 3 اور 4۔",
+            "اگلا فرق 5 ہے، اس لیے اگلا رکن 19 ہے۔",
+            "ایک ایسے خلیے (cell) کے بارے میں سوچیں جو ہر گھنٹے تقسیم ہوتا ہے۔",
+            "ایک خلیہ 2 بن جاتا ہے، پھر 4، پھر 8۔",
+            "یہ دگنا ہونا ہے، اور اس سے ہندسی سلسلہ بنتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Doubling and tripling",
@@ -848,8 +1464,156 @@ window.ASTRA_UNITS["maths-sequences"] = {
           "If you know the first term and the rule, you can write the whole sequence.",
           "Start at 7 and add 6 each time.",
           "You get 7, 13, 19, 25, 31."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كيف تنتقل من حدّ إلى الحدّ التالي (term-to-term rule)",
+            "الحدّ الذي قبل مباشرة (previous term)",
+            "الحدّ في بداية المتتابعة (first term)",
+            "أن تقول بالكلمات (describe)",
+            "أن تكوّن حدود متتابعة من قاعدة (generate)"
+          ],
+          "passage": [
+            "قاعدة الانتقال بين الحدود (term-to-term rule) تخبرك كيف تنتقل من حدّ إلى الحدّ التالي.",
+            "انظر إلى 15، 21، 27، 33.",
+            "القاعدة هي: أضف 6 إلى الحدّ السابق.",
+            "قل دائماً إلى أي شيء تضيف.",
+            "«أضف 6» وحدها ليست قاعدة كاملة.",
+            "انظر إلى 29، 24، 19، 14.",
+            "القاعدة هي: اطرح 5 من الحدّ السابق.",
+            "بعض القواعد تضرب أو تقسم.",
+            "في 4، 8، 16، 32 القاعدة هي: اضرب الحدّ السابق في 2.",
+            "إذا عرفت الحدّ الأول والقاعدة، يمكنك أن تكتب المتتابعة كلها.",
+            "ابدأ من 7 وأضف 6 كل مرة.",
+            "تحصل على 7، 13، 19، 25، 31."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak przejść od jednego wyrazu do następnego (term-to-term rule)",
+            "wyraz tuż przed (previous term)",
+            "wyraz na początku ciągu (first term)",
+            "powiedzieć słowami (describe)",
+            "utworzyć wyrazy ciągu z reguły (generate)"
+          ],
+          "passage": [
+            "Reguła „wyraz do wyrazu” mówi ci, jak przejść od jednego wyrazu do następnego.",
+            "Spójrz na 15, 21, 27, 33.",
+            "Reguła brzmi: dodaj 6 do poprzedniego wyrazu.",
+            "Zawsze mów, do czego dodajesz.",
+            "Samo „dodaj 6” nie jest pełną regułą.",
+            "Spójrz na 29, 24, 19, 14.",
+            "Reguła brzmi: odejmij 5 od poprzedniego wyrazu.",
+            "Niektóre reguły mnożą lub dzielą.",
+            "W 4, 8, 16, 32 reguła brzmi: pomnóż poprzedni wyraz przez 2.",
+            "Jeśli znasz pierwszy wyraz i regułę, możesz zapisać cały ciąg.",
+            "Zacznij od 7 i za każdym razem dodawaj 6.",
+            "Otrzymasz 7, 13, 19, 25, 31."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "como ir de um termo ao seguinte (term-to-term rule)",
+            "o termo logo antes (previous term, termo anterior)",
+            "o termo no início da sequência (first term, primeiro termo)",
+            "dizer em palavras (describe, descrever)",
+            "criar os termos de uma sequência a partir de uma regra (generate, gerar)"
+          ],
+          "passage": [
+            "Uma regra termo a termo (term-to-term rule) diz como ir de um termo ao seguinte.",
+            "Olhe para 15, 21, 27, 33.",
+            "A regra é: somar 6 ao termo anterior.",
+            "Diga sempre a que é que você está a somar/está somando.",
+            "Só ‘somar 6’ não é uma regra completa.",
+            "Olhe para 29, 24, 19, 14.",
+            "A regra é: subtrair 5 ao termo anterior.",
+            "Algumas regras multiplicam ou dividem.",
+            "Em 4, 8, 16, 32 a regra é: multiplicar o termo anterior por 2.",
+            "Se você sabe o primeiro termo e a regra, pode escrever a sequência inteira.",
+            "Comece em 7 e some 6 de cada vez.",
+            "Você obtém 7, 13, 19, 25, 31."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida xubin looga gudbo tan xigta (term-to-term rule)",
+            "xubinta isla ka horreysa (previous term)",
+            "xubinta ku taal bilowga taxanaha (first term)",
+            "erayo ku sheegid (describe)",
+            "xubnaha taxane ka samayn xeer (generate)"
+          ],
+          "passage": [
+            "Xeerka xubin-ilaa-xubin wuxuu kuu sheegaa sida xubin looga gudbo tan xigta.",
+            "Fiiri 15, 21, 27, 33.",
+            "Xeerku waa: 6 ku dar xubinta ka horreysa.",
+            "Mar walba sheeg waxa aad ku darayso.",
+            "'6 ku dar' keligeed xeer buuxa ma aha.",
+            "Fiiri 29, 24, 19, 14.",
+            "Xeerku waa: 5 ka jar xubinta ka horreysa.",
+            "Xeerarka qaar way ku dhufsadaan ama u qaybiyaan.",
+            "Gudaha 4, 8, 16, 32 xeerku waa: xubinta ka horreysa 2 ku dhufo.",
+            "Haddii aad taqaanno xubinta koowaad iyo xeerka, waxaad qori kartaa taxanaha oo dhan.",
+            "Ka bilow 7 oo mar kasta 6 ku dar.",
+            "Waxaad heshaa 7, 13, 19, 25, 31."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "як перейти від одного члена до наступного (term-to-term rule)",
+            "член, що стоїть безпосередньо перед (previous term)",
+            "член на початку послідовності (first term)",
+            "сказати словами (describe)",
+            "утворити члени послідовності за правилом (generate)"
+          ],
+          "passage": [
+            "Правило переходу від члена до члена (term-to-term rule) говорить, як перейти від одного члена до наступного.",
+            "Подивіться на 15, 21, 27, 33.",
+            "Правило таке: додати 6 до попереднього члена.",
+            "Завжди кажіть, до чого саме ви додаєте.",
+            "«Додати 6» саме по собі — це не повне правило.",
+            "Подивіться на 29, 24, 19, 14.",
+            "Правило таке: відняти 5 від попереднього члена.",
+            "Деякі правила множать або ділять.",
+            "У 4, 8, 16, 32 правило таке: помножити попередній член на 2.",
+            "Якщо ви знаєте перший член і правило, ви можете записати всю послідовність.",
+            "Почніть із 7 і кожного разу додавайте 6.",
+            "Ви отримаєте 7, 13, 19, 25, 31."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک رکن سے اگلے رکن تک کیسے جائیں (term-to-term rule)",
+            "بالکل پہلے والا رکن (previous term)",
+            "سلسلے کی شروعات کا رکن (first term)",
+            "لفظوں میں بتانا (describe)",
+            "کسی قاعدے سے سلسلے کے ارکان بنانا (generate)"
+          ],
+          "passage": [
+            "رکن سے رکن کا قاعدہ آپ کو بتاتا ہے کہ ایک رکن سے اگلے تک کیسے جائیں۔",
+            "اس سلسلے کو دیکھیں: 15, 21, 27, 33۔",
+            "قاعدہ ہے: پچھلے رکن میں 6 جمع کریں۔",
+            "ہمیشہ بتائیں کہ آپ کس چیز میں جمع کر رہے ہیں۔",
+            "صرف ‘6 جمع کریں’ مکمل قاعدہ نہیں ہے۔",
+            "اس سلسلے کو دیکھیں: 29, 24, 19, 14۔",
+            "قاعدہ ہے: پچھلے رکن سے 5 گھٹائیں۔",
+            "کچھ قاعدے ضرب یا تقسیم کرتے ہیں۔",
+            "4, 8, 16, 32 میں قاعدہ ہے: پچھلے رکن کو 2 سے ضرب دیں۔",
+            "اگر آپ پہلا رکن اور قاعدہ جانتے ہیں تو آپ پورا سلسلہ لکھ سکتے ہیں۔",
+            "7 سے شروع کریں اور ہر بار 6 جمع کریں۔",
+            "آپ کو 7, 13, 19, 25, 31 ملتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Describing the rule in words",
@@ -1038,8 +1802,162 @@ window.ASTRA_UNITS["maths-sequences"] = {
           "From the 1st term to the 4th term is 3 jumps.",
           "From the 1st term to the 10th term is 9 jumps.",
           "A sequence that adds the two previous terms is not linear."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حدّ حُذف من المتتابعة (missing term)",
+            "موقع الحدّ في المتتابعة (position)",
+            "متجاوران (consecutive)",
+            "اسم آخر للمتتابعة الخطية (arithmetic sequence)",
+            "متتابعة تضرب فيها أو تقسم على العدد نفسه كل مرة (geometric sequence)"
+          ],
+          "passage": [
+            "أحياناً يكون حدّ في المتتابعة مفقوداً.",
+            "يمكنك أن تجده باستعمال القاعدة.",
+            "انظر إلى 6، 10، 14، ___، 22.",
+            "الحدود تزيد بمقدار 4 كل مرة.",
+            "إذن الحدّ المفقود هو 18.",
+            "تحقّق: 18 + 4 = 22.",
+            "إذا كان حدّان مفقودَين، فاستعمل الحدود التي لديك.",
+            "جد القاعدة من حدَّين متجاورَين (consecutive).",
+            "لكل حدّ موقع (position).",
+            "الحدّ الأول في الموقع 1.",
+            "من الحدّ 1 إلى الحدّ 4 ثلاث قفزات (3).",
+            "من الحدّ 1 إلى الحدّ 10 تسع قفزات (9).",
+            "المتتابعة التي تجمع الحدَّين السابقَين ليست خطية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wyraz, który został pominięty w ciągu (missing term)",
+            "miejsce, w którym wyraz stoi w ciągu (position)",
+            "stojące obok siebie (consecutive)",
+            "inna nazwa ciągu liniowego (arithmetic sequence)",
+            "ciąg, w którym za każdym razem mnożysz lub dzielisz przez tę samą liczbę (geometric sequence)"
+          ],
+          "passage": [
+            "Czasem w ciągu brakuje jakiegoś wyrazu.",
+            "Możesz go znaleźć za pomocą reguły.",
+            "Spójrz na 6, 10, 14, ___, 22.",
+            "Wyrazy rosną za każdym razem o 4.",
+            "Więc brakujący wyraz to 18.",
+            "Sprawdź: 18 + 4 = 22.",
+            "Jeśli brakuje dwóch wyrazów, użyj tych wyrazów, które masz.",
+            "Znajdź regułę z dwóch sąsiednich wyrazów.",
+            "Każdy wyraz ma swoją pozycję (position).",
+            "Pierwszy wyraz jest na pozycji 1.",
+            "Od 1. wyrazu do 4. wyrazu są 3 skoki.",
+            "Od 1. wyrazu do 10. wyrazu jest 9 skoków.",
+            "Ciąg, który dodaje dwa poprzednie wyrazy, nie jest liniowy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um termo que foi deixado de fora de uma sequência (missing term, termo em falta)",
+            "o lugar onde um termo está na sequência (position, posição)",
+            "um ao lado do outro (consecutive, consecutivos)",
+            "outro nome para uma sequência linear (arithmetic sequence, sequência aritmética)",
+            "uma sequência em que você multiplica ou divide sempre pelo mesmo número (geometric sequence, sequência geométrica)"
+          ],
+          "passage": [
+            "Às vezes falta um termo numa sequência.",
+            "Você pode encontrá-lo com a regra.",
+            "Olhe para 6, 10, 14, ___, 22.",
+            "Os termos sobem 4 de cada vez.",
+            "Por isso, o termo em falta é 18.",
+            "Verifique: 18 + 4 = 22.",
+            "Se faltam dois termos, use os termos que você tem.",
+            "Encontre a regra a partir de dois termos consecutivos.",
+            "Cada termo tem uma posição.",
+            "O primeiro termo está na posição 1.",
+            "Do 1.º termo ao 4.º termo são 3 saltos.",
+            "Do 1.º termo ao 10.º termo são 9 saltos.",
+            "Uma sequência que soma os dois termos anteriores não é linear."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xubin taxane laga saaray (missing term)",
+            "meesha xubin taxanaha ku fadhido (position)",
+            "is ag yaal (consecutive)",
+            "magac kale oo taxane toosan (arithmetic sequence)",
+            "taxane aad mar kasta isku tiro ku dhufato ama u qaybiso (geometric sequence)"
+          ],
+          "passage": [
+            "Mararka qaar xubin taxane ku jirta way maqan tahay.",
+            "Xeerka ayaad ku heli kartaa.",
+            "Fiiri 6, 10, 14, ___, 22.",
+            "Xubnuhu mar kasta 4 ayay kor u kacaan.",
+            "Sidaas darteed xubinta maqan waa 18.",
+            "Hubi: 18 + 4 = 22.",
+            "Haddii laba xubnood maqan yihiin, isticmaal xubnaha aad haysato.",
+            "Xeerka ka hel laba xubnood oo is ag yaal (consecutive).",
+            "Xubin kastaa waxay leedahay meel (position).",
+            "Xubinta koowaad waxay ku taal meesha 1.",
+            "Xubinta 1aad ilaa xubinta 4aad waa 3 bood.",
+            "Xubinta 1aad ilaa xubinta 10aad waa 9 bood.",
+            "Taxane isku dara labada xubnood ee ka horreeya ma aha mid toosan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "член, який пропущено в послідовності (missing term)",
+            "місце, на якому стоїть член у послідовності (position)",
+            "ті, що стоять поруч один з одним (consecutive)",
+            "інша назва лінійної послідовності (arithmetic sequence)",
+            "послідовність, у якій кожного разу множать або ділять на одне й те саме число (geometric sequence)"
+          ],
+          "passage": [
+            "Іноді в послідовності пропущено якийсь член.",
+            "Ви можете знайти його за правилом.",
+            "Подивіться на 6, 10, 14, ___, 22.",
+            "Члени кожного разу зростають на 4.",
+            "Отже, пропущений член — 18.",
+            "Перевірка: 18 + 4 = 22.",
+            "Якщо пропущено два члени, використайте ті члени, які у вас є.",
+            "Знайдіть правило за двома сусідніми (consecutive) членами.",
+            "Кожний член має своє місце — позицію (position).",
+            "Перший член стоїть на позиції 1.",
+            "Від 1-го члена до 4-го — 3 кроки.",
+            "Від 1-го члена до 10-го — 9 кроків.",
+            "Послідовність, у якій додають два попередні члени, не є лінійною."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا رکن جو سلسلے سے چھوڑ دیا گیا ہو (missing term)",
+            "سلسلے میں رکن کی جگہ (position)",
+            "ساتھ ساتھ کے (consecutive)",
+            "خطی سلسلے کا دوسرا نام (arithmetic sequence)",
+            "ایسا سلسلہ جس میں آپ ہر بار ایک ہی عدد سے ضرب یا تقسیم کرتے ہیں (geometric sequence)"
+          ],
+          "passage": [
+            "کبھی کبھی سلسلے کا کوئی رکن غائب ہوتا ہے۔",
+            "آپ اسے قاعدے سے معلوم کر سکتے ہیں۔",
+            "اس سلسلے کو دیکھیں: 6, 10, 14, ___, 22۔",
+            "ارکان ہر بار 4 بڑھتے ہیں۔",
+            "اس لیے غائب رکن 18 ہے۔",
+            "اپنا جواب جانچ کر دیکھیں: 18 + 4 = 22۔",
+            "اگر دو ارکان غائب ہوں تو ان ارکان کو استعمال کریں جو آپ کے پاس ہیں۔",
+            "ساتھ ساتھ کے دو ارکان سے قاعدہ معلوم کریں۔",
+            "ہر رکن کی ایک جگہ (position) ہوتی ہے۔",
+            "پہلا رکن جگہ 1 پر ہے۔",
+            "پہلے رکن سے چوتھے رکن تک 3 چھلانگیں ہیں۔",
+            "پہلے رکن سے دسویں رکن تک 9 چھلانگیں ہیں۔",
+            "جو سلسلہ پچھلے دو ارکان کو جمع کرتا ہے وہ خطی نہیں ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A missing term in the middle",

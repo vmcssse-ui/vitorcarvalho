@@ -104,8 +104,168 @@ window.ASTRA_UNITS["triple-electromagnetism"] = {
           "The space around a magnet where its force acts is its magnetic field.",
           "The field is strongest at the poles and gets weaker further away.",
           "A compass needle is a small magnet that lines up with the Earth's magnetic field."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أحد طرفَي المغناطيس، حيث تكون مغناطيسيته أقوى ما تكون (pole)",
+            "يدفع بعيداً (repel)",
+            "يجذب نحوه (attract)",
+            "مغناطيس يحتفظ بمغناطيسيته طوال الوقت (permanent magnet)",
+            "قطعة من مادّة مغناطيسية تصبح مغناطيساً فقط وهي قريبة من مغناطيس (induced magnet)",
+            "الفضاء حول المغناطيس حيث يمكن الإحساس بقوّته (magnetic field)"
+          ],
+          "passage": [
+            "لكل مغناطيس قطبان (poles): قطب شمالي وقطب جنوبي.",
+            "القطبان المتشابهان يتنافران: الشمالي يدفع الشمالي بعيداً.",
+            "القطبان المختلفان يتجاذبان: الشمالي يجذب الجنوبي نحوه.",
+            "هذا الدفع أو الجذب يعمل من دون تلامس.",
+            "قليل من الفلزّات فقط مغناطيسي: الحديد، والفولاذ، والكوبالت، والنيكل.",
+            "المغناطيس الدائم (permanent magnet) يحتفظ بمغناطيسيته طوال الوقت.",
+            "قطعة الحديد القريبة من مغناطيس تصبح مغناطيساً أيضاً.",
+            "نسمّي هذا مغناطيساً مستحثّاً (induced magnet).",
+            "المغناطيس المستحثّ يُجذب دائماً نحو المغناطيس، ولا يُدفع بعيداً أبداً.",
+            "أبعد المغناطيس، فيفقد الحديد مغناطيسيته بسرعة.",
+            "الفضاء حول المغناطيس حيث تعمل قوّته هو مجاله المغناطيسي (magnetic field).",
+            "المجال أقوى ما يكون عند القطبَين ويضعف كلما ابتعدنا.",
+            "إبرة البوصلة مغناطيس صغير يتّجه مع المجال المغناطيسي للأرض."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jeden z dwóch końców magnesu, gdzie jego magnetyzm jest najsilniejszy (pole)",
+            "odpychać (repel)",
+            "przyciągać (attract)",
+            "magnes, który cały czas zachowuje swój magnetyzm (permanent magnet)",
+            "kawałek materiału magnetycznego, który staje się magnesem tylko wtedy, gdy jest blisko magnesu (induced magnet)",
+            "przestrzeń wokół magnesu, w której można odczuć jego siłę (magnetic field)"
+          ],
+          "passage": [
+            "Każdy magnes ma dwa bieguny (poles): biegun północny i biegun południowy.",
+            "Jednakowe bieguny się odpychają: północny odpycha północny.",
+            "Różne bieguny się przyciągają: północny przyciąga południowy do siebie.",
+            "To odpychanie lub przyciąganie działa bez dotykania.",
+            "Tylko kilka metali jest magnetycznych: żelazo, stal, kobalt i nikiel.",
+            "Magnes trwały (permanent magnet) cały czas zachowuje swój własny magnetyzm.",
+            "Kawałek żelaza blisko magnesu też staje się magnesem.",
+            "Nazywamy to magnesem indukowanym (induced magnet).",
+            "Magnes indukowany jest zawsze przyciągany do magnesu, nigdy odpychany.",
+            "Zabierz magnes, a żelazo szybko straci swój magnetyzm.",
+            "Przestrzeń wokół magnesu, w której działa jego siła, to jego pole magnetyczne (magnetic field).",
+            "Pole jest najsilniejsze przy biegunach i słabnie dalej od nich.",
+            "Igła kompasu to mały magnes, który ustawia się wzdłuż pola magnetycznego Ziemi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma das duas pontas de um ímã/íman, onde o seu magnetismo é mais forte (pole, polo)",
+            "empurrar para longe (repel, repelir)",
+            "puxar para si (attract, atrair)",
+            "um ímã/íman que mantém o seu magnetismo o tempo todo (permanent magnet, ímã/íman permanente)",
+            "um pedaço de material magnético que só é ímã/íman enquanto está perto de um ímã/íman (induced magnet, ímã/íman induzido)",
+            "o espaço à volta de um ímã/íman onde a sua força se faz sentir (magnetic field, campo magnético)"
+          ],
+          "passage": [
+            "Todo ímã/íman tem dois polos: um polo norte e um polo sul.",
+            "Polos iguais repelem-se: o norte empurra o norte para longe.",
+            "Polos diferentes atraem-se: o norte puxa o sul para si.",
+            "Este empurrão ou puxão funciona sem tocar.",
+            "Só alguns metais são magnéticos: o ferro, o aço, o cobalto e o níquel.",
+            "Um ímã/íman permanente (permanent magnet) mantém o seu próprio magnetismo o tempo todo.",
+            "Um pedaço de ferro perto de um ímã/íman também se torna um ímã/íman.",
+            "Chamamos a isto um ímã/íman induzido (induced magnet).",
+            "Um ímã/íman induzido é sempre atraído pelo ímã/íman, nunca repelido.",
+            "Afaste o ímã/íman, e o ferro perde depressa o seu magnetismo.",
+            "O espaço à volta de um ímã/íman onde a sua força atua é o seu campo magnético (magnetic field).",
+            "O campo é mais forte nos polos e fica mais fraco ao afastar-se.",
+            "A agulha de uma bússola é um pequeno ímã/íman que se alinha com o campo magnético da Terra."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mid ka mid ah labada daraf ee bir-lab (magnet), halka xooggeedu ugu badan yahay (pole)",
+            "iska riixid (repel)",
+            "isu soo jiidid (attract)",
+            "bir-lab had iyo jeer magnetism-keeda haysa (permanent magnet)",
+            "gabal walax magnetic ah oo noqda bir-lab keliya inta ay bir-lab u dhow dahay (induced magnet)",
+            "booska bir-lab ku wareegsan oo xooggeeda la dareemi karo (magnetic field)"
+          ],
+          "passage": [
+            "Bir-lab (magnet) kastaa waxay leedahay laba daraf (poles): daraf woqooyi iyo daraf koonfur.",
+            "Darfo isku mid ah way is riixaan (repel): woqooyi woqooyi ayuu riixaa.",
+            "Darfo kala duwan way is soo jiitaan (attract): woqooyi koonfur ayuu soo jiitaa.",
+            "Riixiddan ama jiididdan taabasho la'aan ayay ku shaqaysaa.",
+            "Dhawr bir keliya ayaa magnetic ah: bir (iron), bir-adag (steel), cobalt iyo nickel.",
+            "Permanent magnet had iyo jeer magnetism-keeda ayay haysaa.",
+            "Gabal bir oo bir-lab u dhow isna wuxuu noqdaa bir-lab.",
+            "Tan waxaan ugu yeernaa induced magnet.",
+            "Induced magnet mar walba bir-labta ayay u soo jiidataa, weligeed lama riixo.",
+            "Bir-labta ka fogee, birtuna dhaqso ayay magnetism-keeda u lumisaa.",
+            "Booska bir-lab ku wareegsan oo xooggeedu ku shaqeeyo waa magnetic field-keeda.",
+            "Field-ku darfaha ayuu ugu xoog badan yahay, wuxuuna sii daciifaa markuu sii fogaado.",
+            "Irbadda kombaaska (compass) waa bir-lab yar oo la safta magnetic field-ka Dhulka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "один із двох кінців магніту, де його магнетизм найсильніший (pole)",
+            "відштовхувати (repel)",
+            "притягувати (attract)",
+            "магніт, який зберігає свій магнетизм увесь час (permanent magnet)",
+            "шматок магнітного матеріалу, який стає магнітом лише тоді, коли він поруч із магнітом (induced magnet)",
+            "простір навколо магніту, де відчувається його сила (magnetic field)"
+          ],
+          "passage": [
+            "Кожний магніт має два полюси (poles): північний і південний.",
+            "Однакові полюси відштовхуються (repel): північний відштовхує північний.",
+            "Різні полюси притягуються (attract): північний притягує до себе південний.",
+            "Це відштовхування або притягання діє без дотику.",
+            "Лише кілька металів є магнітними: залізо, сталь, кобальт і нікель.",
+            "Постійний магніт (permanent magnet) зберігає свій магнетизм увесь час.",
+            "Шматок заліза поруч із магнітом також стає магнітом.",
+            "Ми називаємо це наведеним магнітом (induced magnet).",
+            "Наведений магніт завжди притягується до магніту й ніколи не відштовхується.",
+            "Заберіть магніт — і залізо скоро втратить свій магнетизм.",
+            "Простір навколо магніту, де діє його сила, — це його магнітне поле (magnetic field).",
+            "Поле найсильніше біля полюсів і слабшає далі від них.",
+            "Стрілка компаса — це маленький магніт, який вирівнюється за магнітним полем Землі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مقناطیس کے دو سروں میں سے ایک، جہاں اس کی مقناطیسیت سب سے زیادہ ہو (pole)",
+            "دور دھکیلنا (repel)",
+            "اپنی طرف کھینچنا (attract)",
+            "ایسا مقناطیس جو ہر وقت اپنی مقناطیسیت رکھتا ہے (permanent magnet)",
+            "مقناطیسی مادے کا ایک ٹکڑا جو صرف مقناطیس کے قریب ہونے پر مقناطیس بنتا ہے (induced magnet)",
+            "مقناطیس کے گرد وہ جگہ جہاں اس کی قوت محسوس ہو سکتی ہے (magnetic field)"
+          ],
+          "passage": [
+            "ہر مقناطیس کے دو قطب (poles) ہوتے ہیں: ایک شمالی قطب اور ایک جنوبی قطب۔",
+            "ایک جیسے قطب ایک دوسرے کو دھکیلتے (repel) ہیں: شمالی شمالی کو دور کرتا ہے۔",
+            "الگ قطب ایک دوسرے کو کھینچتے (attract) ہیں: شمالی جنوبی کو اپنی طرف کھینچتا ہے۔",
+            "یہ دھکا یا کھنچاؤ بغیر چھوئے کام کرتا ہے۔",
+            "صرف چند دھاتیں مقناطیسی ہیں: لوہا، اسٹیل، کوبالٹ اور نکل۔",
+            "مستقل مقناطیس (permanent magnet) ہر وقت اپنی مقناطیسیت رکھتا ہے۔",
+            "مقناطیس کے قریب لوہے کا ٹکڑا بھی مقناطیس بن جاتا ہے۔",
+            "ہم اسے induced magnet کہتے ہیں۔",
+            "Induced magnet ہمیشہ مقناطیس کی طرف کھنچتا ہے، کبھی دور نہیں ہوتا۔",
+            "مقناطیس ہٹا لیں تو لوہا جلد اپنی مقناطیسیت کھو دیتا ہے۔",
+            "مقناطیس کے گرد وہ جگہ جہاں اس کی قوت کام کرتی ہے اس کا مقناطیسی میدان (magnetic field) ہے۔",
+            "میدان قطبوں پر سب سے مضبوط ہوتا ہے اور دور جاتے جاتے کمزور ہو جاتا ہے۔",
+            "قطب نما (compass) کی سوئی ایک چھوٹا مقناطیس ہے جو زمین کے مقناطیسی میدان کے ساتھ سیدھ میں آ جاتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Poles, forces and magnetic materials",
@@ -312,8 +472,156 @@ window.ASTRA_UNITS["triple-electromagnetism"] = {
           "A solenoid with an iron core is called an electromagnet.",
           "You can switch an electromagnet on and off.",
           "More turns, more current or an iron core all make it stronger."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تدفّق الشحنة الكهربائية في السلك (current)",
+            "ملفّ طويل من سلك معزول (solenoid)",
+            "ملفّ لولبي بداخله قلب من الحديد (electromagnet)",
+            "قضيب من الحديد يوضع داخل الملفّ ليجعل مجاله أقوى (iron core)",
+            "متساوٍ في كل مكان (uniform)"
+          ],
+          "passage": [
+            "السلك الذي يمرّ فيه تيار له مجال مغناطيسي حوله.",
+            "المجال مجموعة من الدوائر حول السلك.",
+            "بوصلة الرسم القريبة من السلك تدور لتتبع الدوائر.",
+            "التيار الأكبر يصنع مجالاً أقوى.",
+            "اعكس التيار فينعكس المجال أيضاً.",
+            "الملفّ اللولبي (solenoid) ملفّ طويل من سلك معزول.",
+            "داخل الملفّ اللولبي يكون المجال قوياً ومنتظماً (uniform).",
+            "وفي الخارج، يبدو مثل مجال مغناطيس قضيبي.",
+            "ضع قلباً من الحديد (iron core) داخل الملفّ فيصبح المجال أقوى بكثير.",
+            "الملفّ اللولبي الذي بداخله قلب من الحديد يُسمّى مغناطيساً كهربائياً (electromagnet).",
+            "يمكنك أن تشغّل المغناطيس الكهربائي وتطفئه.",
+            "لفّات أكثر، أو تيار أكبر، أو قلب من الحديد، كلها تجعله أقوى."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przepływ ładunku elektrycznego przez przewód (current)",
+            "długa zwojnica z izolowanego przewodu (solenoid)",
+            "zwojnica z żelaznym rdzeniem w środku (electromagnet)",
+            "sztabka żelaza umieszczona wewnątrz zwojnicy, żeby wzmocnić jej pole (iron core)",
+            "takie samo wszędzie (uniform)"
+          ],
+          "passage": [
+            "Przewód, przez który płynie prąd, ma wokół siebie pole magnetyczne.",
+            "Pole to zbiór okręgów wokół przewodu.",
+            "Mały kompas blisko przewodu obraca się, żeby podążać za okręgami.",
+            "Większy prąd daje silniejsze pole.",
+            "Odwróć prąd, a pole też się odwróci.",
+            "Solenoid (solenoid) to długa zwojnica z izolowanego przewodu.",
+            "Wewnątrz solenoidu pole jest silne i jednorodne (uniform).",
+            "Na zewnątrz wygląda jak pole magnesu sztabkowego.",
+            "Włóż żelazny rdzeń (iron core) do zwojnicy, a pole stanie się dużo silniejsze.",
+            "Solenoid z żelaznym rdzeniem nazywa się elektromagnesem (electromagnet).",
+            "Elektromagnes możesz włączać i wyłączać.",
+            "Więcej zwojów, większy prąd albo żelazny rdzeń — każde z nich go wzmacnia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o fluxo de carga elétrica através de um fio (current, corrente)",
+            "uma bobina comprida de fio isolado (solenoid, solenoide)",
+            "um solenoide com um núcleo de ferro dentro (electromagnet, eletroímã/eletroíman)",
+            "uma barra de ferro colocada dentro de uma bobina para tornar o seu campo mais forte (iron core, núcleo de ferro)",
+            "igual em todo o lado (uniform, uniforme)"
+          ],
+          "passage": [
+            "Um fio percorrido por uma corrente tem um campo magnético à sua volta.",
+            "O campo é um conjunto de círculos à volta do fio.",
+            "Uma bússola pequena perto do fio roda para seguir os círculos.",
+            "Uma corrente maior faz um campo mais forte.",
+            "Inverta a corrente e o campo também se inverte.",
+            "Um solenoide (solenoid) é uma bobina comprida de fio isolado.",
+            "Dentro de um solenoide o campo é forte e uniforme.",
+            "Por fora, parece o campo de um ímã/íman em barra.",
+            "Ponha um núcleo de ferro dentro da bobina e o campo fica muito mais forte.",
+            "Um solenoide com um núcleo de ferro chama-se eletroímã/eletroíman (electromagnet).",
+            "Você pode ligar e desligar um eletroímã/eletroíman.",
+            "Mais voltas, mais corrente ou um núcleo de ferro tornam-no todos mais forte."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "socodka shixnadda korontada (charge) ee silig dhex mara (current)",
+            "duub dheer oo silig dahaaran (solenoid)",
+            "solenoid leh xudun bir (iron core) gudaheeda ku jirta (electromagnet)",
+            "ul bir oo duub gudihiis la geliyo si field-kiisu u xoogaysto (iron core)",
+            "isku mid meel walba (uniform)"
+          ],
+          "passage": [
+            "Silig current qaada wuxuu leeyahay magnetic field ku wareegsan.",
+            "Field-ku waa goobaabyo siligga ku wareegsan.",
+            "Plotting compass siligga u dhow wuu wareegaa si uu goobaabyada u raaco.",
+            "Current ka weyn wuxuu samaystaa field ka xoog badan.",
+            "Current-ka rogo, field-kuna wuu rogmaa.",
+            "Solenoid waa duub dheer oo silig dahaaran.",
+            "Solenoid gudihiisa field-ku waa xoog badan oo uniform ah.",
+            "Dibadda, wuxuu u eg yahay field-ka bir-lab ul ah (bar magnet).",
+            "Xudun bir (iron core) duubka geli, field-kuna aad ayuu u sii xoogaystaa.",
+            "Solenoid leh iron core waxaa la yiraahdaa electromagnet.",
+            "Electromagnet waad shidi kartaa oo demin kartaa.",
+            "Duubab badan, current badan ama iron core dhammaantood way ka xoog badiyaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "потік електричного заряду через провід (current)",
+            "довга котушка з ізольованого проводу (solenoid)",
+            "соленоїд із залізним осердям усередині (electromagnet)",
+            "залізний брусок, вставлений у котушку, щоб зробити її поле сильнішим (iron core)",
+            "однаковий у кожній точці (uniform)"
+          ],
+          "passage": [
+            "Провід, по якому тече струм (current), має навколо себе магнітне поле.",
+            "Поле — це набір кіл навколо проводу.",
+            "Маленький компас біля проводу повертається вздовж цих кіл.",
+            "Більший струм створює сильніше поле.",
+            "Змініть напрямок струму — і поле також зміниться на протилежне.",
+            "Соленоїд (solenoid) — це довга котушка з ізольованого проводу.",
+            "Усередині соленоїда поле сильне й однорідне (uniform).",
+            "Зовні воно схоже на поле смугового магніту.",
+            "Вставте в котушку залізне осердя (iron core) — і поле стане набагато сильнішим.",
+            "Соленоїд із залізним осердям називається електромагнітом (electromagnet).",
+            "Електромагніт можна вмикати й вимикати.",
+            "Більше витків, більший струм або залізне осердя — усе це робить його сильнішим."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "تار میں برقی چارج کا بہاؤ (current)",
+            "روکی ہوئی (insulated) تار کی ایک لمبی کنڈلی (solenoid)",
+            "ایک solenoid جس کے اندر لوہے کا core ہو (electromagnet)",
+            "لوہے کی ایک سلاخ جو کنڈلی کے اندر رکھی جائے تا کہ اس کا میدان مضبوط ہو (iron core)",
+            "ہر جگہ ایک جیسا (uniform)"
+          ],
+          "passage": [
+            "جس تار میں کرنٹ گزر رہا ہو اس کے گرد ایک مقناطیسی میدان ہوتا ہے۔",
+            "یہ میدان تار کے گرد دائروں کا ایک مجموعہ ہے۔",
+            "تار کے پاس رکھا plotting compass دائروں کے ساتھ گھوم جاتا ہے۔",
+            "زیادہ کرنٹ زیادہ مضبوط میدان بناتا ہے۔",
+            "کرنٹ کا رخ الٹ دیں تو میدان بھی الٹ جاتا ہے۔",
+            "Solenoid روکی ہوئی تار کی ایک لمبی کنڈلی ہے۔",
+            "Solenoid کے اندر میدان مضبوط اور یکساں (uniform) ہوتا ہے۔",
+            "باہر یہ ایک سلاخ مقناطیس (bar magnet) کے میدان جیسا لگتا ہے۔",
+            "کنڈلی کے اندر لوہے کا core رکھ دیں تو میدان بہت زیادہ مضبوط ہو جاتا ہے۔",
+            "لوہے کے core والے solenoid کو electromagnet کہتے ہیں۔",
+            "آپ electromagnet کو چلا اور بند کر سکتے ہیں۔",
+            "زیادہ چکر، زیادہ کرنٹ یا لوہے کا core، سب اسے مضبوط بناتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The field around a wire",
@@ -518,8 +826,156 @@ window.ASTRA_UNITS["triple-electromagnetism"] = {
           "Reverse the current and the force reverses.",
           "Reverse the field and the force reverses too.",
           "More current, a stronger field or a longer wire means a bigger force."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "القوّة على سلك يمرّ فيه تيار داخل مجال مغناطيسي (motor effect)",
+            "مادّة، مثل سلك النحاس، يستطيع التيار أن يسري فيها (conductor)",
+            "بزاوية 90 درجة، مثل ركن المربّع (at right angles)",
+            "قوّة المجال المغناطيسي، تُقاس بالتسلا (magnetic flux density)",
+            "وحدة كثافة التدفّق المغناطيسي، رمزها T (tesla)"
+          ],
+          "passage": [
+            "السلك الذي يمرّ فيه تيار له مجاله المغناطيسي الخاص.",
+            "ضع هذا السلك بين قطبَي مغناطيس.",
+            "الآن هناك مجالان، وهما يدفعان بعضهما.",
+            "يشعر السلك بقوّة. هذا هو تأثير المحرّك (motor effect).",
+            "ويشعر المغناطيس بقوّة مساوية في الاتجاه المعاكس.",
+            "تكون القوّة أكبر ما تكون عندما يكون التيار بزاوية قائمة على المجال.",
+            "لا توجد قوّة عندما يسري التيار على طول خطوط المجال.",
+            "قاعدة اليد اليسرى لفلمنغ (Fleming's left-hand rule) تخبرك باتجاه القوّة.",
+            "الإبهام للقوّة، والسبّابة للمجال، والوسطى للتيار.",
+            "اعكس التيار فتنعكس القوّة.",
+            "اعكس المجال فتنعكس القوّة أيضاً.",
+            "تيار أكبر، أو مجال أقوى، أو سلك أطول، يعني قوّة أكبر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "siła działająca na przewód z prądem w polu magnetycznym (motor effect)",
+            "materiał, taki jak miedziany przewód, przez który może płynąć prąd (conductor)",
+            "pod kątem 90 stopni, jak róg kwadratu (at right angles)",
+            "siła pola magnetycznego, mierzona w teslach (magnetic flux density)",
+            "jednostka indukcji magnetycznej, symbol T (tesla)"
+          ],
+          "passage": [
+            "Przewód, przez który płynie prąd, ma swoje własne pole magnetyczne.",
+            "Umieść ten przewód między biegunami magnesu.",
+            "Teraz są dwa pola i napierają na siebie.",
+            "Przewód odczuwa siłę. To jest efekt silnikowy (motor effect).",
+            "Magnes odczuwa równą siłę w drugą stronę.",
+            "Siła jest największa, kiedy prąd płynie pod kątem prostym do pola.",
+            "Nie ma siły, kiedy prąd płynie wzdłuż linii pola.",
+            "Reguła lewej dłoni Fleminga (Fleming's left-hand rule) mówi ci, w którą stronę działa siła.",
+            "Kciuk dla siły, palec wskazujący dla pola, palec środkowy dla prądu.",
+            "Odwróć prąd, a siła się odwróci.",
+            "Odwróć pole, a siła też się odwróci.",
+            "Większy prąd, silniejsze pole albo dłuższy przewód oznaczają większą siłę."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a força sobre um fio percorrido por uma corrente dentro de um campo magnético (motor effect, efeito motor)",
+            "um material, como um fio de cobre, pelo qual uma corrente pode passar (conductor, condutor)",
+            "a 90 graus, como o canto de um quadrado (at right angles, em ângulo reto)",
+            "a intensidade de um campo magnético, medida em tesla (magnetic flux density, densidade de fluxo magnético)",
+            "a unidade de densidade de fluxo magnético, símbolo T (tesla)"
+          ],
+          "passage": [
+            "Um fio percorrido por uma corrente tem o seu próprio campo magnético.",
+            "Ponha esse fio entre os polos de um ímã/íman.",
+            "Agora há dois campos, e eles empurram-se um ao outro.",
+            "O fio sente uma força. Isto é o efeito motor (motor effect).",
+            "O ímã/íman sente uma força igual no sentido contrário.",
+            "A força é maior quando a corrente está em ângulo reto com o campo.",
+            "Não há força quando a corrente corre ao longo das linhas do campo.",
+            "A regra da mão esquerda de Fleming diz a direção da força.",
+            "Polegar para a força, indicador para o campo, dedo do meio para a corrente.",
+            "Inverta a corrente e a força inverte-se.",
+            "Inverta o campo e a força também se inverte.",
+            "Mais corrente, um campo mais forte ou um fio mais comprido quer dizer uma força maior."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xoogga ku dhaca silig current qaada oo magnetic field ku jira (motor effect)",
+            "walax, sida silig naxaas ah, oo current dhex mari karo (conductor)",
+            "90 digrii, sida geeska afar-gees (at right angles)",
+            "xoogga magnetic field, oo lagu cabbiro tesla (magnetic flux density)",
+            "halbeegga magnetic flux density, calaamaddeedu waa T (tesla)"
+          ],
+          "passage": [
+            "Silig current qaada wuxuu leeyahay magnetic field u gaar ah.",
+            "Siliggaas geli darfaha bir-lab dhexdooda.",
+            "Hadda waxaa jira laba fields, wayna is riixaan.",
+            "Siliggu xoog ayuu dareemaa. Tani waa motor effect.",
+            "Bir-labtu xoog la mid ah ayay dareentaa dhanka kale.",
+            "Xooggu wuxuu ugu weyn yahay marka current-ku xagal qumman la samaysto field-ka.",
+            "Xoog ma jiro marka current-ku ku socdo xariiqyada field-ka.",
+            "Xeerka gacanta bidix ee Fleming (Fleming's left-hand rule) wuxuu kuu sheegaa jihada xoogga.",
+            "Suulka xoogga, farta koowaad field-ka, farta labaad current-ka.",
+            "Current-ka rogo, xooggana wuu rogmaa.",
+            "Field-ka rogo, xooggana sidoo kale wuu rogmaa.",
+            "Current badan, field ka xoog badan ama silig ka dheer micnaheedu waa xoog ka weyn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "сила, що діє на провід зі струмом у магнітному полі (motor effect)",
+            "матеріал, наприклад мідний провід, через який може текти струм (conductor)",
+            "під кутом 90 градусів, як кут квадрата (at right angles)",
+            "сила магнітного поля, вимірюється в теслах (magnetic flux density)",
+            "одиниця густини магнітного потоку, символ T (tesla)"
+          ],
+          "passage": [
+            "Провід, по якому тече струм, має власне магнітне поле.",
+            "Помістіть цей провід між полюсами магніту.",
+            "Тепер є два поля, і вони штовхають одне інше.",
+            "Провід відчуває силу. Це ефект двигуна (motor effect).",
+            "Магніт відчуває таку ж силу в протилежному напрямку.",
+            "Сила найбільша, коли струм тече під прямим кутом до поля.",
+            "Сили немає, коли струм тече вздовж ліній поля.",
+            "Правило лівої руки Флемінга говорить вам напрямок сили.",
+            "Великий палець — сила, вказівний палець — поле, середній палець — струм.",
+            "Змініть напрямок струму — і сила зміниться на протилежну.",
+            "Змініть напрямок поля — і сила також зміниться на протилежну.",
+            "Більший струм, сильніше поле або довший провід означають більшу силу."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مقناطیسی میدان میں کرنٹ والی تار پر لگنے والی قوت (motor effect)",
+            "ایسا مادہ، جیسے تانبے کی تار، جس میں سے کرنٹ گزر سکے (conductor)",
+            "90 درجے پر، جیسے مربع کا کونا (at right angles)",
+            "مقناطیسی میدان کی مضبوطی، جو tesla میں ناپی جاتی ہے (magnetic flux density)",
+            "magnetic flux density کی اکائی، علامت T (tesla)"
+          ],
+          "passage": [
+            "جس تار میں کرنٹ گزر رہا ہو اس کا اپنا مقناطیسی میدان ہوتا ہے۔",
+            "اس تار کو مقناطیس کے قطبوں کے بیچ رکھیں۔",
+            "اب دو میدان ہیں، اور وہ ایک دوسرے کو دھکیلتے ہیں۔",
+            "تار ایک قوت محسوس کرتی ہے۔ یہ motor effect ہے۔",
+            "مقناطیس دوسری طرف برابر قوت محسوس کرتا ہے۔",
+            "قوت تب سب سے بڑی ہوتی ہے جب کرنٹ میدان سے قائمہ زاویے پر ہو۔",
+            "جب کرنٹ میدان کی لکیروں کے ساتھ ساتھ چلے تو کوئی قوت نہیں ہوتی۔",
+            "Fleming کا بائیں ہاتھ کا قاعدہ آپ کو قوت کی سمت بتاتا ہے۔",
+            "انگوٹھا قوت کے لیے، پہلی انگلی میدان کے لیے، دوسری انگلی کرنٹ کے لیے۔",
+            "کرنٹ الٹ دیں تو قوت الٹ جاتی ہے۔",
+            "میدان الٹ دیں تو قوت بھی الٹ جاتی ہے۔",
+            "زیادہ کرنٹ، مضبوط میدان یا لمبی تار کا مطلب ہے بڑی قوت۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Two fields push on each other",
@@ -723,8 +1179,168 @@ window.ASTRA_UNITS["triple-electromagnetism"] = {
           "An alternating current makes the coil move in and out.",
           "The cone moves the air and makes a sound wave.",
           "The sound has the same frequency as the current."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "سلك ملفوف مرة بعد مرة في حلقات (coil)",
+            "حلقة معدنية مقطوعة نصفَين تبدّل اتجاه التيار كل نصف دورة (split-ring commutator)",
+            "نقاط التلامس التي تضغط على المبدّل وتنقل التيار إلى الملفّ الدوّار (brushes)",
+            "تيار يغيّر اتجاهه باستمرار، يُكتب a.c. (alternating current)",
+            "الجزء الورقي أو البلاستيكي في مكبّر الصوت الذي يحرّك الهواء (cone)",
+            "حجم الاهتزاز؛ وبالنسبة إلى الصوت، مدى علوّه (amplitude)"
+          ],
+          "passage": [
+            "المحرّك الكهربائي فيه ملفّ (coil) من السلك بين قطبَين مغناطيسيَّين.",
+            "يسري تيار في الملفّ.",
+            "الضلعان الطويلان في الملفّ يحملان التيار في اتجاهَين متعاكسَين.",
+            "فيُدفع أحد الضلعَين إلى الأعلى والآخر إلى الأسفل.",
+            "هاتان القوّتان تجعلان الملفّ يدور.",
+            "بعد نصف دورة، كانت القوّتان ستدفعان الملفّ إلى الوراء.",
+            "المبدّل ذو الحلقة المشقوقة (split-ring commutator) يبدّل اتجاه التيار كل نصف دورة.",
+            "فيستمرّ الملفّ في الدوران في الاتجاه نفسه.",
+            "مكبّر الصوت أيضاً يستعمل ملفّاً في مجال مغناطيسي.",
+            "الملفّ مثبّت في مخروط (cone).",
+            "التيار المتردّد (alternating current) يجعل الملفّ يتحرّك إلى الداخل والخارج.",
+            "يحرّك المخروط الهواء ويصنع موجة صوتية.",
+            "للصوت التردّد نفسه الذي للتيار."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przewód nawinięty wiele razy w pętle (coil)",
+            "metalowy pierścień przecięty na dwie połówki, który zamienia kierunek prądu co pół obrotu (split-ring commutator)",
+            "styki, które dociskają do komutatora i doprowadzają prąd do obracającej się zwojnicy (brushes)",
+            "prąd, który ciągle zmienia kierunek, zapisywany a.c. (alternating current)",
+            "papierowa lub plastikowa część głośnika, która porusza powietrzem (cone)",
+            "wielkość drgania; dla dźwięku — jak jest głośny (amplitude)"
+          ],
+          "passage": [
+            "Silnik elektryczny ma zwojnicę z przewodu między dwoma biegunami magnetycznymi.",
+            "Przez zwojnicę płynie prąd.",
+            "Dwa długie boki zwojnicy przewodzą prąd w przeciwnych kierunkach.",
+            "Więc jeden bok jest pchany w górę, a drugi w dół.",
+            "Te dwie siły sprawiają, że zwojnica się obraca.",
+            "Po pół obrotu siły pchałyby zwojnicę z powrotem.",
+            "Komutator pierścieniowy (split-ring commutator) zamienia kierunek prądu co pół obrotu.",
+            "Więc zwojnica wciąż obraca się w tę samą stronę.",
+            "Głośnik też używa zwojnicy w polu magnetycznym.",
+            "Zwojnica jest przymocowana do membrany (cone).",
+            "Prąd przemienny (alternating current) sprawia, że zwojnica rusza się do przodu i do tyłu.",
+            "Membrana porusza powietrzem i tworzy falę dźwiękową.",
+            "Dźwięk ma tę samą częstotliwość co prąd."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "fio enrolado várias vezes em voltas (coil, bobina)",
+            "um anel de metal cortado em duas metades que troca o sentido da corrente a cada meia volta (split-ring commutator, comutador de anel dividido)",
+            "os contactos/contatos que pressionam o comutador e levam a corrente para a bobina que gira (brushes, escovas)",
+            "uma corrente que muda de sentido o tempo todo, escrita a.c. (alternating current, corrente alternada)",
+            "a parte de papel ou plástico de um altifalante/alto-falante que move o ar (cone)",
+            "o tamanho de uma vibração; para o som, quão forte ele é (amplitude)"
+          ],
+          "passage": [
+            "Um motor elétrico tem uma bobina de fio entre dois polos magnéticos.",
+            "Uma corrente passa pela bobina.",
+            "Os dois lados compridos da bobina levam a corrente em sentidos opostos.",
+            "Por isso, um lado é empurrado para cima e o outro é empurrado para baixo.",
+            "Estas duas forças fazem a bobina girar.",
+            "Depois de meia volta, as forças empurrariam a bobina de volta.",
+            "O comutador de anel dividido (split-ring commutator) troca o sentido da corrente a cada meia volta.",
+            "Por isso, a bobina continua a girar no mesmo sentido.",
+            "Um altifalante/alto-falante também usa uma bobina num campo magnético.",
+            "A bobina está fixa a um cone.",
+            "Uma corrente alternada (alternating current) faz a bobina mover-se para dentro e para fora.",
+            "O cone move o ar e produz uma onda sonora.",
+            "O som tem a mesma frequência que a corrente."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "silig wareeg wareeg loo duubay oo loops ah (coil)",
+            "giraangir bir ah oo laba kala badh loo gooyay oo jihada current beddesha wareeg kala badh kasta (split-ring commutator)",
+            "xiriiriyeyaasha commutator-ka ku dhegga oo current geliya duubka wareegaya (brushes)",
+            "current jihada sii beddela, oo loo qoro a.c. (alternating current)",
+            "qaybta warqad ama caag ah ee sameecadda oo hawada dhaqaajisa (cone)",
+            "cabbirka gariir; dhawaaqa, waa inta uu u weyn yahay (amplitude)"
+          ],
+          "passage": [
+            "Matoor koronto (electric motor) wuxuu leeyahay duub silig (coil) oo u dhexeeya laba daraf magnetic.",
+            "Current duubka ayuu dhex maraa.",
+            "Labada dhinac ee dhaadheer ee duubku current jihooyin lid isku ah ayay ku qaadaan.",
+            "Sidaas darteed hal dhinac kor ayaa loo riixaa, kan kalena hoos ayaa loo riixaa.",
+            "Labadan xoog duubka ayay wareejiyaan.",
+            "Wareeg kala badh kadib xoogaggu duubka dib ayay u riixi lahaayeen.",
+            "Split-ring commutator jihada current-ka ayuu beddelaa wareeg kala badh kasta.",
+            "Sidaas darteed duubku isla jihadaas ayuu ku sii wareegaa.",
+            "Sameecad (loudspeaker) isna wuxuu isticmaalaa duub magnetic field ku jira.",
+            "Duubku koon (cone) ayuu ku xiran yahay.",
+            "Alternating current duubka ayuu ka dhigaa inuu gudaha iyo dibadda u dhaqaaqo.",
+            "Koonku hawada ayuu dhaqaajiyaa, hir dhawaaqna wuxuu samaystaa.",
+            "Dhawaaqu wuxuu leeyahay isla frequency-ga current-ka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "провід, намотаний багато разів у витки (coil)",
+            "металеве кільце, розрізане на дві половини, яке міняє напрямок струму кожні пів оберту (split-ring commutator)",
+            "контакти, які притискаються до комутатора і проводять струм у котушку, що обертається (brushes)",
+            "струм, який постійно змінює напрямок, пишеться a.c. (alternating current)",
+            "паперова або пластикова частина гучномовця, яка рухає повітря (cone)",
+            "розмір коливання; для звуку — наскільки він гучний (amplitude)"
+          ],
+          "passage": [
+            "Електродвигун має котушку (coil) з проводу між двома магнітними полюсами.",
+            "Через котушку тече струм.",
+            "Дві довгі сторони котушки проводять струм у протилежних напрямках.",
+            "Тому одну сторону штовхає вгору, а іншу — вниз.",
+            "Ці дві сили змушують котушку обертатися.",
+            "Після пів оберту сили штовхнули б котушку назад.",
+            "Розрізний кільцевий комутатор (split-ring commutator) міняє напрямок струму кожні пів оберту.",
+            "Тому котушка продовжує обертатися в той самий бік.",
+            "Гучномовець також використовує котушку в магнітному полі.",
+            "Котушка закріплена на конусі (cone).",
+            "Змінний струм (alternating current) змушує котушку рухатися вперед і назад.",
+            "Конус рухає повітря і створює звукову хвилю.",
+            "Звук має ту саму частоту, що й струм."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "تار جو گھما کر لوپوں میں لپیٹی گئی ہو (coil)",
+            "دو آدھوں میں کٹا دھات کا چھلا جو ہر آدھے چکر پر کرنٹ کا رخ بدل دیتا ہے (split-ring commutator)",
+            "وہ رابطے جو commutator پر دبتے ہیں اور گھومتی کنڈلی میں کرنٹ پہنچاتے ہیں (brushes)",
+            "ایسا کرنٹ جو مسلسل رخ بدلتا رہتا ہے، جسے a.c. لکھا جاتا ہے (alternating current)",
+            "لاؤڈ اسپیکر کا کاغذ یا پلاسٹک کا حصہ جو ہوا کو حرکت دیتا ہے (cone)",
+            "ارتعاش کا سائز؛ آواز کے لیے، وہ کتنی بلند ہے (amplitude)"
+          ],
+          "passage": [
+            "برقی موٹر میں دو مقناطیسی قطبوں کے بیچ تار کی ایک کنڈلی (coil) ہوتی ہے۔",
+            "کنڈلی میں کرنٹ گزرتا ہے۔",
+            "کنڈلی کی دو لمبی طرفیں الٹی سمتوں میں کرنٹ لے جاتی ہیں۔",
+            "اس لیے ایک طرف اوپر دھکیلی جاتی ہے اور دوسری نیچے۔",
+            "یہ دو قوتیں کنڈلی کو گھماتی ہیں۔",
+            "آدھے چکر کے بعد قوتیں کنڈلی کو واپس دھکیل دیتیں۔",
+            "Split-ring commutator ہر آدھے چکر پر کرنٹ کا رخ بدل دیتا ہے۔",
+            "اس لیے کنڈلی اسی طرف گھومتی رہتی ہے۔",
+            "لاؤڈ اسپیکر بھی مقناطیسی میدان میں ایک کنڈلی استعمال کرتا ہے۔",
+            "کنڈلی ایک شنک (cone) سے جڑی ہوتی ہے۔",
+            "متبادل کرنٹ (alternating current) کنڈلی کو اندر باہر حرکت دیتا ہے۔",
+            "شنک ہوا کو حرکت دیتا ہے اور آواز کی لہر بناتا ہے۔",
+            "آواز کی فریکوئنسی وہی ہوتی ہے جو کرنٹ کی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why the coil turns",
@@ -926,8 +1542,162 @@ window.ASTRA_UNITS["triple-electromagnetism"] = {
           "An alternator spins a coil in a field to make alternating current.",
           "A dynamo uses a split ring to make direct current.",
           "A microphone uses the generator effect to turn sound into an electrical signal."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تجعل شيئاً يظهر من دون تلامس، وهنا فرق الجهد (induce)",
+            "الدفع الكهربائي بين نقطتَين، يُقاس بالفولت (potential difference)",
+            "آلة تحوّل الحركة إلى كهرباء (generator)",
+            "مولّد يعطي تياراً متردّداً (alternator)",
+            "حلقتان كاملتان تصلان ملفّاً دوّاراً بالدارة الخارجية (slip rings)",
+            "صفيحة رقيقة مرنة تهتزّ عندما يصيبها الصوت (diaphragm)"
+          ],
+          "passage": [
+            "حرّك سلكاً خلال مجال مغناطيسي فيحدث شيء.",
+            "يظهر فرق جهد (potential difference) بين طرفَي السلك.",
+            "نقول إنه مستحثّ (induced).",
+            "إذا كان السلك جزءاً من دارة مكتملة، يسري تيار.",
+            "هذا هو تأثير المولّد (generator effect).",
+            "تحريك المغناطيس بدلاً من السلك يعمل بالطريقة نفسها.",
+            "لا يحدث شيء إذا لم يتحرّك أي منهما.",
+            "حركة أسرع، أو مغناطيس أقوى، أو لفّات أكثر، تعطي فرق جهد أكبر.",
+            "حرّك في الاتجاه الآخر فينعكس فرق الجهد.",
+            "المولّد المتردّد (alternator) يدير ملفّاً في مجال ليصنع تياراً متردّداً.",
+            "الدينامو (dynamo) يستعمل حلقة مشقوقة ليصنع تياراً مستمرّاً.",
+            "الميكروفون يستعمل تأثير المولّد ليحوّل الصوت إلى إشارة كهربائية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sprawić, że coś pojawia się bez dotykania, tutaj różnica potencjałów (induce)",
+            "elektryczne „pchnięcie” między dwoma punktami, mierzone w woltach (potential difference)",
+            "maszyna, która zamienia ruch na elektryczność (generator)",
+            "generator, który daje prąd przemienny (alternator)",
+            "dwa pełne pierścienie, które łączą obracającą się zwojnicę z obwodem zewnętrznym (slip rings)",
+            "cienka, giętka płytka, która drga, kiedy uderza w nią dźwięk (diaphragm)"
+          ],
+          "passage": [
+            "Przesuń przewód przez pole magnetyczne, a coś się stanie.",
+            "Na końcach przewodu pojawia się różnica potencjałów (potential difference), w skrócie p.d., czyli napięcie.",
+            "Mówimy, że zostało ono wyindukowane (induced).",
+            "Jeśli przewód jest częścią zamkniętego obwodu, płynie prąd.",
+            "To jest efekt generatora (generator effect).",
+            "Poruszanie magnesem zamiast przewodu działa równie dobrze.",
+            "Nic się nie dzieje, jeśli żadne z nich się nie rusza.",
+            "Szybszy ruch, silniejszy magnes albo więcej zwojów daje większe napięcie (p.d.).",
+            "Porusz w drugą stronę, a napięcie się odwróci.",
+            "Alternator obraca zwojnicę w polu, żeby wytworzyć prąd przemienny.",
+            "Dynamo (dynamo) używa przeciętego pierścienia, żeby wytworzyć prąd stały.",
+            "Mikrofon używa efektu generatora, żeby zamienić dźwięk na sygnał elektryczny."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "fazer aparecer algo sem tocar, aqui uma diferença de potencial (induce, induzir)",
+            "o empurrão elétrico entre dois pontos, medido em volts (potential difference, diferença de potencial, d.d.p.)",
+            "uma máquina que transforma movimento em eletricidade (generator, gerador)",
+            "um gerador que dá uma corrente alternada (alternator, alternador)",
+            "dois anéis completos que ligam uma bobina que gira ao circuito exterior (slip rings, anéis coletores)",
+            "uma lâmina fina e flexível que vibra quando o som bate nela (diaphragm, diafragma)"
+          ],
+          "passage": [
+            "Mova um fio através de um campo magnético e acontece alguma coisa.",
+            "Aparece uma diferença de potencial, ou d.d.p. (em inglês, p.d.), entre as pontas do fio.",
+            "Dizemos que ela é induzida (induced).",
+            "Se o fio faz parte de um circuito completo, passa uma corrente.",
+            "Isto é o efeito gerador (generator effect).",
+            "Mover o ímã/íman em vez do fio funciona igualmente bem.",
+            "Não acontece nada se nenhum dos dois se mover.",
+            "Um movimento mais rápido, um ímã/íman mais forte ou mais voltas dão uma d.d.p. (p.d.) maior.",
+            "Mova no sentido contrário e a d.d.p. (p.d.) inverte-se.",
+            "Um alternador (alternator) faz girar uma bobina num campo para produzir corrente alternada.",
+            "Um dínamo usa um anel dividido para produzir corrente contínua.",
+            "Um microfone usa o efeito gerador para transformar o som num sinal elétrico."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax ka dhigid inuu soo baxo taabasho la'aan, halkan potential difference (induce)",
+            "riixidda korontada ee u dhexaysa laba bar, oo lagu cabbiro volts (potential difference)",
+            "mishiin dhaqaaq u beddela koronto (generator)",
+            "generator bixiya alternating current (alternator)",
+            "laba giraangir oo dhammaystiran oo duub wareegaya ku xira wareegga dibadda (slip rings)",
+            "xaashi khafiif ah oo laalaaban oo gariirta marka dhawaaq ku dhaco (diaphragm)"
+          ],
+          "passage": [
+            "Silig dhex dhaqaaji magnetic field, wax ayaa dhacaya.",
+            "Potential difference ayaa ka soo baxa darfaha siligga.",
+            "Waxaan oranno waa la kiciyay (induced).",
+            "Haddii siliggu qayb ka yahay wareeg dhammaystiran, current ayaa socda.",
+            "Tani waa generator effect.",
+            "Bir-labta dhaqaajinta halkii siligga sidaas oo kale ayay u shaqaysaa.",
+            "Waxba ma dhacaan haddii midkoodna aan dhaqaaqin.",
+            "Dhaqaaq ka dhaqso badan, bir-lab ka xoog badan ama duubab ka badan waxay bixiyaan potential difference ka weyn.",
+            "Dhanka kale u dhaqaaji, potential difference-kuna wuu rogmaa.",
+            "Alternator duub ayuu field ku wareejiyaa si uu u sameeyo alternating current.",
+            "Dynamo split ring ayuu isticmaalaa si uu u sameeyo direct current.",
+            "Makarafoon (microphone) wuxuu isticmaalaa generator effect si uu dhawaaq u beddelo calaamad koronto."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "спричинити появу чогось без дотику, тут — різниці потенціалів (induce)",
+            "електричний «поштовх» між двома точками, вимірюється у вольтах (potential difference)",
+            "машина, яка перетворює рух на електрику (generator)",
+            "генератор, який дає змінний струм (alternator)",
+            "два суцільні кільця, які з’єднують котушку, що обертається, із зовнішнім колом (slip rings)",
+            "тонка гнучка пластинка, яка коливається, коли на неї падає звук (diaphragm)"
+          ],
+          "passage": [
+            "Проведіть провід через магнітне поле — і щось станеться.",
+            "На кінцях проводу з’являється різниця потенціалів (potential difference).",
+            "Ми кажемо, що вона наведена (induced).",
+            "Якщо провід є частиною замкненого кола, тече струм.",
+            "Це ефект генератора (generator effect).",
+            "Рухати магніт замість проводу працює так само добре.",
+            "Нічого не стається, якщо не рухається ні те, ні інше.",
+            "Швидший рух, сильніший магніт або більше витків дають більшу різницю потенціалів.",
+            "Рухайте в інший бік — і різниця потенціалів зміниться на протилежну.",
+            "Альтернатор (alternator) обертає котушку в полі, щоб створити змінний струм.",
+            "Динамо (dynamo) використовує розрізне кільце, щоб створити постійний струм.",
+            "Мікрофон використовує ефект генератора, щоб перетворити звук на електричний сигнал."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بغیر چھوئے کسی چیز کو پیدا کرنا، یہاں ایک potential difference (induce)",
+            "دو نقطوں کے بیچ برقی دھکا، جو volts میں ناپا جاتا ہے (potential difference)",
+            "ایک مشین جو حرکت کو بجلی میں بدلتی ہے (generator)",
+            "ایسا generator جو متبادل کرنٹ دیتا ہے (alternator)",
+            "دو مکمل چھلے جو گھومتی کنڈلی کو باہر کے سرکٹ سے جوڑتے ہیں (slip rings)",
+            "ایک باریک، لچک دار چادر جو آواز لگنے پر ہلتی ہے (diaphragm)"
+          ],
+          "passage": [
+            "ایک تار کو مقناطیسی میدان میں سے گزاریں تو کچھ ہوتا ہے۔",
+            "تار کے سروں کے بیچ ایک potential difference پیدا ہو جاتا ہے۔",
+            "ہم کہتے ہیں کہ یہ induced ہوا ہے۔",
+            "اگر تار ایک مکمل سرکٹ کا حصہ ہو تو کرنٹ بہتا ہے۔",
+            "یہ generator effect ہے۔",
+            "تار کے بجائے مقناطیس کو حرکت دینا بھی اتنا ہی اچھا کام کرتا ہے۔",
+            "اگر دونوں میں سے کوئی بھی حرکت نہ کرے تو کچھ نہیں ہوتا۔",
+            "تیز حرکت، مضبوط مقناطیس یا زیادہ چکر بڑا potential difference دیتے ہیں۔",
+            "دوسری طرف حرکت دیں تو potential difference الٹ جاتا ہے۔",
+            "Alternator متبادل کرنٹ بنانے کے لیے ایک کنڈلی کو میدان میں گھماتا ہے۔",
+            "Dynamo یک رخا کرنٹ (direct current) بنانے کے لیے split ring استعمال کرتا ہے۔",
+            "مائیکروفون آواز کو برقی سگنل میں بدلنے کے لیے generator effect استعمال کرتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Movement makes a potential difference",
@@ -1134,8 +1904,168 @@ window.ASTRA_UNITS["triple-electromagnetism"] = {
           "Power stations step the p.d. up to 400 000 V.",
           "A small current wastes less energy heating the cables.",
           "Near homes, the p.d. is stepped down to 230 V."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جهاز فيه ملفّان على قلب من الحديد يغيّر مقدار فرق الجهد المتردّد (transformer)",
+            "الملفّ الموصول بالمصدر، الذي يُدخل الطاقة (primary coil)",
+            "الملفّ الذي يعطي الخرج (secondary coil)",
+            "جعل فرق الجهد أكبر (step-up)",
+            "جعل فرق الجهد أصغر (step-down)",
+            "يُضيّع طاقة قليلة جداً (efficient)"
+          ],
+          "passage": [
+            "المحوّل (transformer) فيه ملفّان من السلك على قلب من الحديد.",
+            "الملفّ الابتدائي (primary coil) موصول بمصدر تيار متردّد.",
+            "التيار المتردّد يصنع مجالاً مغناطيسياً يتغيّر باستمرار.",
+            "ينقل قلب الحديد هذا المجال المتغيّر إلى الملفّ الثانوي (secondary coil).",
+            "المجال المتغيّر يستحثّ فرق جهد متردّداً في الملفّ الثانوي.",
+            "التيار المستمرّ الثابت لن يعمل، لأن مجاله لا يتغيّر.",
+            "لفّات في الثانوي أكثر من الابتدائي تعطي فرق جهد (p.d.) أكبر: رافع (step-up).",
+            "لفّات أقلّ في الثانوي تعطي فرق جهد أصغر: خافض (step-down).",
+            "في المحوّل المثالي، القدرة الخارجة تساوي القدرة الداخلة.",
+            "إذن فرق الجهد الأكبر يعني تياراً أصغر.",
+            "محطّات الطاقة ترفع فرق الجهد إلى 400 000 V.",
+            "التيار الصغير يُضيّع طاقة أقلّ في تسخين الكابلات.",
+            "قرب المنازل، يُخفَّض فرق الجهد إلى 230 V."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "urządzenie z dwiema zwojnicami na żelaznym rdzeniu, które zmienia wielkość napięcia przemiennego (transformer)",
+            "zwojnica podłączona do zasilania, która wprowadza energię (primary coil)",
+            "zwojnica, która daje wyjście (secondary coil)",
+            "zwiększanie napięcia (step-up)",
+            "zmniejszanie napięcia (step-down)",
+            "marnujący bardzo mało energii (efficient)"
+          ],
+          "passage": [
+            "Transformator (transformer) ma dwie zwojnice z przewodu na żelaznym rdzeniu.",
+            "Zwojnica pierwotna (primary coil) jest podłączona do zasilania prądem przemiennym.",
+            "Prąd przemienny tworzy pole magnetyczne, które ciągle się zmienia.",
+            "Żelazny rdzeń przenosi to zmieniające się pole do zwojnicy wtórnej (secondary coil).",
+            "Zmieniające się pole indukuje w zwojnicy wtórnej przemienne napięcie (p.d.).",
+            "Niezmienny prąd stały (direct current) by nie zadziałał, bo jego pole się nie zmienia.",
+            "Więcej zwojów na wtórnej niż na pierwotnej daje większe napięcie (p.d.): step-up.",
+            "Mniej zwojów na wtórnej daje mniejsze napięcie (p.d.): step-down.",
+            "W idealnym transformatorze moc wyjściowa równa się mocy wejściowej.",
+            "Więc większe napięcie (p.d.) oznacza mniejszy prąd.",
+            "Elektrownie podnoszą napięcie (p.d.) do 400 000 V.",
+            "Mały prąd marnuje mniej energii na ogrzewanie kabli.",
+            "Blisko domów napięcie (p.d.) obniża się do 230 V."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um aparelho com duas bobinas num núcleo de ferro que muda o tamanho de uma d.d.p. (p.d.) alternada (transformer, transformador)",
+            "a bobina ligada à fonte, que mete a energia (primary coil, bobina primária)",
+            "a bobina que dá a saída (secondary coil, bobina secundária)",
+            "tornar a diferença de potencial maior (step-up, elevador)",
+            "tornar a diferença de potencial mais pequena (step-down, redutor)",
+            "que desperdiça muito pouca energia (efficient, eficiente)"
+          ],
+          "passage": [
+            "Um transformador (transformer) tem duas bobinas de fio num núcleo de ferro.",
+            "A bobina primária (primary coil) está ligada a uma fonte alternada.",
+            "A corrente alternada produz um campo magnético que muda o tempo todo.",
+            "O núcleo de ferro leva este campo que muda até à bobina secundária (secondary coil).",
+            "Um campo que muda induz uma diferença de potencial alternada na bobina secundária.",
+            "Uma corrente contínua constante não funcionaria, porque o seu campo não muda.",
+            "Mais voltas na secundária do que na primária dá uma d.d.p. (p.d.) maior: step-up (elevador).",
+            "Menos voltas na secundária dá uma d.d.p. (p.d.) mais pequena: step-down (redutor).",
+            "Num transformador perfeito, a potência que sai é igual à potência que entra.",
+            "Por isso, uma d.d.p. (p.d.) maior quer dizer uma corrente mais pequena.",
+            "As centrais elétricas elevam a d.d.p. (p.d.) até 400 000 V.",
+            "Uma corrente pequena desperdiça menos energia a aquecer os cabos.",
+            "Perto das casas, a d.d.p. (p.d.) é reduzida para 230 V."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qalab leh laba duub oo iron core saaran oo beddela cabbirka p.d. alternating (transformer)",
+            "duubka ku xiran isha korontada, oo tamarta geliya (primary coil)",
+            "duubka bixiya output-ka (secondary coil)",
+            "potential difference ka weynaynta (step-up)",
+            "potential difference ka yaraynta (step-down)",
+            "tamar aad u yar lumiya (efficient)"
+          ],
+          "passage": [
+            "Transformer wuxuu leeyahay laba duub silig oo iron core saaran.",
+            "Primary coil-ku wuxuu ku xiran yahay isha koronto alternating ah.",
+            "Alternating current-ku wuxuu samaystaa magnetic field sii beddelaya.",
+            "Iron core-ku field-kan beddelaya wuxuu u qaadaa secondary coil-ka.",
+            "Field beddelaya wuxuu secondary coil-ka ku kiciyaa (induces) alternating potential difference.",
+            "Direct current joogto ah ma shaqayn lahayd, sababtoo ah field-keedu isma beddelo.",
+            "Duubab ka badan secondary-ga marka loo eego primary-ga waxay bixiyaan p.d. ka weyn: step-up.",
+            "Duubab ka yar secondary-ga waxay bixiyaan p.d. ka yar: step-down.",
+            "Transformer dhammaystiran, awoodda baxaysa waxay la mid tahay awoodda gelaysa.",
+            "Sidaas darteed p.d. ka weyn micnaheedu waa current ka yar.",
+            "Saldhigyada korontada p.d. kor ayay ugu qaadaan 400 000 V.",
+            "Current yar tamar yar ayuu ku lumiyaa kululaynta fiilooyinka.",
+            "Guryaha agtooda, p.d. hoos ayaa loo dhigaa 230 V."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "пристрій із двома котушками на залізному осерді, який змінює величину змінної різниці потенціалів (transformer)",
+            "котушка, під’єднана до джерела, яка подає енергію (primary coil)",
+            "котушка, яка дає вихідну напругу (secondary coil)",
+            "збільшення різниці потенціалів (step-up)",
+            "зменшення різниці потенціалів (step-down)",
+            "такий, що витрачає дуже мало енергії марно (efficient)"
+          ],
+          "passage": [
+            "Трансформатор (transformer) має дві котушки з проводу на залізному осерді.",
+            "Первинна котушка (primary coil) під’єднана до джерела змінного струму.",
+            "Змінний струм створює магнітне поле, яке постійно змінюється.",
+            "Залізне осердя передає це змінне поле до вторинної котушки (secondary coil).",
+            "Змінне поле наводить змінну різницю потенціалів у вторинній котушці.",
+            "Сталий постійний струм не працював би, бо його поле не змінюється.",
+            "Більше витків на вторинній котушці, ніж на первинній, дає більшу напругу (p.d.): підвищувальний (step-up).",
+            "Менше витків на вторинній котушці дає меншу напругу (p.d.): знижувальний (step-down).",
+            "В ідеальному трансформаторі вихідна потужність дорівнює вхідній.",
+            "Отже, більша напруга (p.d.) означає менший струм.",
+            "Електростанції підвищують напругу до 400 000 V.",
+            "Малий струм витрачає менше енергії на нагрівання кабелів.",
+            "Біля домівок напругу знижують до 230 V."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لوہے کے core پر دو کنڈلیوں والا آلہ جو متبادل p.d. کا سائز بدلتا ہے (transformer)",
+            "وہ کنڈلی جو سپلائی سے جڑی ہو، جو توانائی اندر ڈالتی ہے (primary coil)",
+            "وہ کنڈلی جو آؤٹ پٹ دیتی ہے (secondary coil)",
+            "potential difference کو بڑا کرنا (step-up)",
+            "potential difference کو چھوٹا کرنا (step-down)",
+            "بہت کم توانائی ضائع کرنے والا (efficient)"
+          ],
+          "passage": [
+            "Transformer میں لوہے کے core پر تار کی دو کنڈلیاں ہوتی ہیں۔",
+            "Primary coil ایک متبادل سپلائی سے جڑی ہوتی ہے۔",
+            "متبادل کرنٹ ایک ایسا مقناطیسی میدان بناتا ہے جو مسلسل بدلتا رہتا ہے۔",
+            "لوہے کا core اس بدلتے میدان کو secondary coil تک لے جاتا ہے۔",
+            "بدلتا ہوا میدان secondary coil میں ایک متبادل potential difference induce کرتا ہے۔",
+            "ایک مستقل یک رخا کرنٹ کام نہ کرتا، کیونکہ اس کا میدان نہیں بدلتا۔",
+            "primary سے زیادہ چکر secondary پر ہوں تو p.d. بڑا ملتا ہے: step-up۔",
+            "secondary پر کم چکر ہوں تو p.d. چھوٹا ملتا ہے: step-down۔",
+            "ایک کامل transformer میں باہر جانے والی طاقت اندر آنے والی طاقت کے برابر ہوتی ہے۔",
+            "اس لیے بڑے p.d. کا مطلب ہے چھوٹا کرنٹ۔",
+            "بجلی گھر p.d. کو 400 000 V تک step up کرتے ہیں۔",
+            "چھوٹا کرنٹ تاروں کو گرم کرنے میں کم توانائی ضائع کرتا ہے۔",
+            "گھروں کے پاس p.d. کو 230 V تک step down کیا جاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How a transformer works, and why it needs a.c.",

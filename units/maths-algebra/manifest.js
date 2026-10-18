@@ -102,8 +102,156 @@ window.ASTRA_UNITS["maths-algebra"] = {
           "You undo the function with its inverse.",
           "The inverse of adding is subtracting.",
           "The inverse of multiplying is dividing."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "صورة لقاعدة: يدخل عدد، ويُجرى عليه شيء، ويخرج عدد (function machine)",
+            "العدد الذي يدخل في الآلة (input)",
+            "العدد الذي يخرج من الآلة (output)",
+            "العملية التي تجريها الآلة على المدخل (function)",
+            "العملية التي تُلغي عملية أخرى (inverse)"
+          ],
+          "passage": [
+            "آلة الدالّة (function machine) صورة لقاعدة.",
+            "يدخل عدد. نسمّيه المدخل (input).",
+            "تفعل الآلة شيئاً بهذا العدد.",
+            "هذه هي الدالّة (function). قد تكون «أضف 2» أو «اضرب في 5».",
+            "يخرج عدد. نسمّيه المخرج (output).",
+            "أدخل 3 في آلة تضيف 2. المخرج هو 5.",
+            "أدخل 4 في آلة تضرب في 5. المخرج هو 20.",
+            "أحياناً تعرف المخرج ولا تعرف المدخل.",
+            "عندها تعمل بالاتجاه المعاكس.",
+            "تُلغي الدالّة بعكسها (inverse).",
+            "عكس الجمع هو الطرح.",
+            "وعكس الضرب هو القسمة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "obrazek reguły: liczba wchodzi, coś się z nią robi, liczba wychodzi (function machine)",
+            "liczba, która wchodzi do maszyny (input)",
+            "liczba, która wychodzi z maszyny (output)",
+            "działanie, które maszyna wykonuje na liczbie wejściowej (function)",
+            "działanie, które odwraca inne działanie (inverse)"
+          ],
+          "passage": [
+            "Maszyna funkcyjna (function machine) to obrazek reguły.",
+            "Liczba wchodzi. Nazywamy ją wejściem (input).",
+            "Maszyna robi coś z tą liczbą.",
+            "To jest funkcja (function). Może to być „dodaj 2” albo „pomnóż przez 5”.",
+            "Liczba wychodzi. Nazywamy ją wyjściem (output).",
+            "Włóż 3 do maszyny, która dodaje 2. Wyjście to 5.",
+            "Włóż 4 do maszyny, która mnoży przez 5. Wyjście to 20.",
+            "Czasem znasz wyjście, ale nie znasz wejścia.",
+            "Wtedy pracujesz od tyłu.",
+            "Odwracasz funkcję za pomocą jej odwrotności (inverse).",
+            "Odwrotnością dodawania jest odejmowanie.",
+            "Odwrotnością mnożenia jest dzielenie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um desenho de uma regra: entra um número, faz-se algo com ele, sai um número (function machine, máquina de funções)",
+            "o número que entra na máquina (input, entrada)",
+            "o número que sai da máquina (output, saída)",
+            "a operação que a máquina faz à entrada (function, função)",
+            "a operação que desfaz outra (inverse, inversa)"
+          ],
+          "passage": [
+            "Uma máquina de funções (function machine) é um desenho de uma regra.",
+            "Entra um número. Chamamos-lhe a entrada (input).",
+            "A máquina faz alguma coisa com esse número.",
+            "Isto é a função (function). Pode ser ‘somar 2’ ou ‘multiplicar por 5’.",
+            "Sai um número. Chamamos-lhe a saída (output).",
+            "Ponha 3 numa máquina que soma 2. A saída é 5.",
+            "Ponha 4 numa máquina que multiplica por 5. A saída é 20.",
+            "Às vezes você sabe a saída mas não a entrada.",
+            "Então você trabalha ao contrário.",
+            "Você desfaz a função com a sua inversa (inverse).",
+            "A inversa de somar é subtrair.",
+            "A inversa de multiplicar é dividir."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sawir xeer ah: tiro ayaa gasha, wax ayaa lagu sameeyaa, tiro ayaa soo baxda (function machine)",
+            "tirada mishiinka gasha (input)",
+            "tirada mishiinka ka soo baxda (output)",
+            "hawsha mishiinku ku sameeyo input-ka (function)",
+            "hawsha hawl kale dib u celisa (inverse)"
+          ],
+          "passage": [
+            "Mishiinka function (function machine) waa sawir xeer ah.",
+            "Tiro ayaa gasha. Waxaan ugu yeernaa input.",
+            "Mishiinku wax ayuu ku sameeyaa tiradaas.",
+            "Tani waa function-ka. Waxay noqon kartaa 2 ku dar ama 5 ku dhufo.",
+            "Tiro ayaa soo baxda. Waxaan ugu yeernaa output.",
+            "Geli 3 mishiin 2 ku dara. Output-ku waa 5.",
+            "Geli 4 mishiin 5 ku dhufta. Output-ku waa 20.",
+            "Mararka qaar output-ka ayaad taqaannaa laakiin input-ka ma taqaannid.",
+            "Markaas dib ayaad u shaqaysaa.",
+            "Function-ka waxaad ku furtaa lidkiisa (inverse).",
+            "Lidka ku-daridda waa ka-jarid.",
+            "Lidka ku-dhufashada waa u-qaybin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "малюнок правила: число входить, з ним щось роблять, і число виходить (function machine)",
+            "число, яке входить у машину (input)",
+            "число, яке виходить із машини (output)",
+            "дія, яку машина виконує з вхідним числом (function)",
+            "дія, яка скасовує іншу дію (inverse)"
+          ],
+          "passage": [
+            "Функціональна машина (function machine) — це малюнок правила.",
+            "Число входить у неї. Ми називаємо його вхідним (input).",
+            "Машина щось робить із цим числом.",
+            "Це функція (function). Це може бути «додати 2» або «помножити на 5».",
+            "Число виходить із машини. Ми називаємо його вихідним (output).",
+            "Введіть 3 у машину, яка додає 2. Вихідне число — 5.",
+            "Введіть 4 у машину, яка множить на 5. Вихідне число — 20.",
+            "Іноді ви знаєте вихідне число, але не знаєте вхідного.",
+            "Тоді ви працюєте у зворотному напрямку.",
+            "Ви скасовуєте функцію за допомогою оберненої дії (inverse).",
+            "Обернена дія до додавання — віднімання.",
+            "Обернена дія до множення — ділення."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک قاعدے کی تصویر: ایک عدد اندر جاتا ہے، اس کے ساتھ کچھ کیا جاتا ہے، ایک عدد باہر آتا ہے (function machine)",
+            "وہ عدد جو مشین میں اندر جاتا ہے (input)",
+            "وہ عدد جو مشین سے باہر آتا ہے (output)",
+            "وہ عمل جو مشین ان پٹ کے ساتھ کرتی ہے (function)",
+            "وہ عمل جو کسی دوسرے عمل کو الٹا دیتا ہے (inverse)"
+          ],
+          "passage": [
+            "فنکشن مشین (function machine) ایک قاعدے کی تصویر ہے۔",
+            "ایک عدد اندر جاتا ہے۔ ہم اسے ان پٹ (input) کہتے ہیں۔",
+            "مشین اس عدد کے ساتھ کچھ کرتی ہے۔",
+            "یہ فنکشن (function) ہے۔ یہ ‘2 جمع کریں’ یا ‘5 سے ضرب دیں’ ہو سکتا ہے۔",
+            "ایک عدد باہر آتا ہے۔ ہم اسے آؤٹ پٹ (output) کہتے ہیں۔",
+            "ایسی مشین میں 3 ڈالیں جو 2 جمع کرتی ہے۔ آؤٹ پٹ 5 ہے۔",
+            "ایسی مشین میں 4 ڈالیں جو 5 سے ضرب دیتی ہے۔ آؤٹ پٹ 20 ہے۔",
+            "کبھی کبھی آپ کو آؤٹ پٹ معلوم ہوتا ہے مگر ان پٹ نہیں۔",
+            "تب آپ الٹا چلتے ہیں۔",
+            "آپ فنکشن کو اس کے الٹ عمل (inverse) سے کھول دیتے ہیں۔",
+            "جمع کا الٹ عمل گھٹانا ہے۔",
+            "ضرب کا الٹ عمل تقسیم ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Input, function, output",
@@ -270,8 +418,150 @@ window.ASTRA_UNITS["maths-algebra"] = {
           "If 7 goes in and 21 comes out, the function could be multiply by 3.",
           "If 6 goes in and 12 comes out, it could be multiply by 2 or add 6.",
           "Both work, so check with a second pair if you can."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حرف يمثّل أي عدد (variable)",
+            "حروف وأعداد تربطها + أو − أو × أو ÷، بلا علامة يساوي (expression)",
+            "جزء واحد من العبارة الجبرية (term)",
+            "له القيمة نفسها لكل قيمة يأخذها الحرف (equivalent)"
+          ],
+          "passage": [
+            "يمكن لآلة الدالّة أن تأخذ حرفاً كمدخل.",
+            "الحرف يمثّل أي عدد. نسمّيه متغيّراً (variable).",
+            "أدخل a في آلة تضيف 8. المخرج هو a + 8.",
+            "أدخل a في آلة تضرب في 3. المخرج هو 3a.",
+            "نكتب 3a، والعدد أولاً. وعلامة × مخفيّة.",
+            "أدخل a في آلة تقسم على 5. المخرج هو a على 5، ويُكتب على شكل كسر.",
+            "المخرج عبارة جبرية (expression). ليس فيها علامة يساوي.",
+            "أحياناً تعرف المدخل والمخرج ولا تعرف الدالّة.",
+            "اسأل نفسك: ما الذي أُجري على المدخل؟",
+            "إذا دخل 7 وخرج 21، فقد تكون الدالّة «اضرب في 3».",
+            "إذا دخل 6 وخرج 12، فقد تكون «اضرب في 2» أو «أضف 6».",
+            "كلتاهما تصلح، فتحقّق بزوج ثانٍ إن استطعت."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "litera, która oznacza dowolną liczbę (variable)",
+            "litery i liczby połączone znakami + − × lub ÷, bez znaku równości (expression)",
+            "jedna część wyrażenia (term)",
+            "warte tyle samo dla każdej wartości litery (equivalent)"
+          ],
+          "passage": [
+            "Maszyna funkcyjna może przyjąć literę jako wejście.",
+            "Litera oznacza dowolną liczbę. Nazywamy ją zmienną (variable).",
+            "Włóż a do maszyny, która dodaje 8. Wyjście to a + 8.",
+            "Włóż a do maszyny, która mnoży przez 3. Wyjście to 3a.",
+            "Piszemy 3a, z liczbą na początku. Znak × jest ukryty.",
+            "Włóż a do maszyny, która dzieli przez 5. Wyjście to a przez 5, zapisane jako ułamek.",
+            "Wyjście jest wyrażeniem (expression). Nie ma znaku równości.",
+            "Czasem znasz wejście i wyjście, ale nie znasz funkcji.",
+            "Zapytaj siebie, co zrobiono z wejściem.",
+            "Jeśli wchodzi 7, a wychodzi 21, funkcją może być „pomnóż przez 3”.",
+            "Jeśli wchodzi 6, a wychodzi 12, może to być „pomnóż przez 2” albo „dodaj 6”.",
+            "Obie pasują, więc jeśli możesz, sprawdź z drugą parą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma letra que representa um número qualquer (variable, variável)",
+            "letras e números ligados por + − × ou ÷, sem sinal de igual (expression, expressão)",
+            "uma parte de uma expressão (term, termo)",
+            "que vale o mesmo para qualquer valor da letra (equivalent, equivalente)"
+          ],
+          "passage": [
+            "Uma máquina de funções pode receber uma letra como entrada.",
+            "A letra representa um número qualquer. Chamamos-lhe variável (variable).",
+            "Ponha a numa máquina que soma 8. A saída é a + 8.",
+            "Ponha a numa máquina que multiplica por 3. A saída é 3a.",
+            "Escrevemos 3a, com o número primeiro. O sinal × fica escondido.",
+            "Ponha a numa máquina que divide por 5. A saída é a sobre 5, escrito como uma fração.",
+            "A saída é uma expressão (expression). Não tem sinal de igual.",
+            "Às vezes você sabe a entrada e a saída mas não a função.",
+            "Pergunte a si mesmo o que foi feito à entrada.",
+            "Se entra 7 e sai 21, a função pode ser ‘multiplicar por 3’.",
+            "Se entra 6 e sai 12, pode ser ‘multiplicar por 2’ ou ‘somar 6’.",
+            "As duas funcionam, por isso verifique com um segundo par se puder."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xaraf tiro kasta u taagan (variable)",
+            "xarfo iyo tirooyin ay isku xiraan + − × ama ÷, oo aan lahayn calaamadda isle'eg (expression)",
+            "hal qayb oo tibaax (term)",
+            "isku qiime leh qiime kasta oo xarafku qaato (equivalent)"
+          ],
+          "passage": [
+            "Mishiinka function wuxuu input-ka ka qaadan karaa xaraf.",
+            "Xarafku tiro kasta ayuu u taagan yahay. Waxaan ugu yeernaa doorsoome (variable).",
+            "Geli a mishiin 8 ku dara. Output-ku waa a + 8.",
+            "Geli a mishiin 3 ku dhufta. Output-ku waa 3a.",
+            "Waxaan u qornaa 3a, tirada hore. Calaamadda × waa qarsoon tahay.",
+            "Geli a mishiin 5 u qaybiya. Output-ku waa a oo 5 la saaray, oo jajab ahaan loo qoray.",
+            "Output-ku waa tibaax (expression). Calaamadda isle'eg ma laha.",
+            "Mararka qaar input-ka iyo output-ka ayaad taqaannaa laakiin function-ka ma taqaannid.",
+            "Is weydii waxa input-ka lagu sameeyay.",
+            "Haddii 7 galo oo 21 soo baxo, function-ku wuxuu noqon karaa 3 ku dhufo.",
+            "Haddii 6 galo oo 12 soo baxo, wuxuu noqon karaa 2 ku dhufo ama 6 ku dar.",
+            "Labaduba way shaqeeyaan, sidaas darteed ku hubi lammaane labaad haddii aad awooddo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "буква, яка позначає будь-яке число (variable)",
+            "букви та числа, з’єднані знаками + − × або ÷, без знака «дорівнює» (expression)",
+            "одна частина виразу (term)",
+            "такі, що мають однакове значення для будь-якого значення букви (equivalent)"
+          ],
+          "passage": [
+            "Функціональна машина може приймати букву як вхідне значення.",
+            "Буква позначає будь-яке число. Ми називаємо її змінною (variable).",
+            "Введіть a у машину, яка додає 8. Вихід — a + 8.",
+            "Введіть a у машину, яка множить на 3. Вихід — 3a.",
+            "Ми пишемо 3a, число спереду. Знак × прихований.",
+            "Введіть a у машину, яка ділить на 5. Вихід — a поділити на 5, записано як дріб.",
+            "Вихід — це вираз (expression). У ньому немає знака «дорівнює».",
+            "Іноді ви знаєте вхід і вихід, але не знаєте функції.",
+            "Запитайте себе: що зробили з вхідним числом?",
+            "Якщо входить 7, а виходить 21, функція може бути «помножити на 3».",
+            "Якщо входить 6, а виходить 12, це може бути «помножити на 2» або «додати 6».",
+            "Підходять обидва варіанти, тому перевірте за другою парою чисел, якщо можете."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک حرف جو کسی بھی عدد کی جگہ کھڑا ہو (variable)",
+            "حرف اور اعداد جو + − × یا ÷ سے جڑے ہوں، بغیر برابر کے نشان کے (expression)",
+            "عبارت کا ایک حصہ (term)",
+            "حرف کی ہر قیمت کے لیے برابر (equivalent)"
+          ],
+          "passage": [
+            "فنکشن مشین ایک حرف کو بھی ان پٹ کے طور پر لے سکتی ہے۔",
+            "حرف کسی بھی عدد کی جگہ کھڑا ہوتا ہے۔ ہم اسے متغیر (variable) کہتے ہیں۔",
+            "ایسی مشین میں a ڈالیں جو 8 جمع کرتی ہے۔ آؤٹ پٹ a + 8 ہے۔",
+            "ایسی مشین میں a ڈالیں جو 3 سے ضرب دیتی ہے۔ آؤٹ پٹ 3a ہے۔",
+            "ہم 3a لکھتے ہیں، عدد پہلے۔ × کا نشان چھپا ہوا ہے۔",
+            "ایسی مشین میں a ڈالیں جو 5 سے تقسیم کرتی ہے۔ آؤٹ پٹ a بٹا 5 ہے، جو کسر کی شکل میں لکھا جاتا ہے۔",
+            "آؤٹ پٹ ایک الجبری عبارت (expression) ہے۔ اس میں برابر کا نشان نہیں ہوتا۔",
+            "کبھی کبھی آپ کو ان پٹ اور آؤٹ پٹ معلوم ہوتے ہیں مگر فنکشن نہیں۔",
+            "خود سے پوچھیں کہ ان پٹ کے ساتھ کیا کیا گیا۔",
+            "اگر 7 اندر جائے اور 21 باہر آئے تو فنکشن ‘3 سے ضرب’ ہو سکتا ہے۔",
+            "اگر 6 اندر جائے اور 12 باہر آئے تو یہ ‘2 سے ضرب’ یا ‘6 جمع’ ہو سکتا ہے۔",
+            "دونوں چلتے ہیں، اس لیے اگر ہو سکے تو ایک دوسرے جوڑے سے جانچیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A letter goes in",
@@ -444,8 +734,150 @@ window.ASTRA_UNITS["maths-algebra"] = {
           "A fraction like c over 6 means c ÷ 6.",
           "If c is 12, the value of c over 6 is 2.",
           "Write the × or ÷ sign back in before you work it out."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تبدّل الحرف بالعدد الذي يمثّله (substitute)",
+            "العدد الذي تساويه العبارة عندما تعرف قيمة الحرف (value)",
+            "قطعة مكعّبة تمثّل الحرف في الصورة (cube)",
+            "قرص صغير قيمته 1 (counter)"
+          ],
+          "passage": [
+            "الحرف في الرياضيات يمثّل عدداً.",
+            "التعويض (substitute) يعني أن تبدّل الحرف بعدده.",
+            "إذا كان x يساوي 4، فإن 3x تعني 3 × 4.",
+            "إذن قيمة 3x هي 12.",
+            "تخيّل مكعّباً قيمته 4 أقراص.",
+            "ثلاثة مكعّبات قيمتها 12 قرصاً.",
+            "انتبه مع 6g عندما يكون g يساوي 5.",
+            "فهي لا تعني 65.",
+            "بل تعني 6 × 5، أي 30.",
+            "الكسر مثل c على 6 يعني c ÷ 6.",
+            "إذا كان c يساوي 12، فقيمة c على 6 هي 2.",
+            "أعد كتابة علامة × أو ÷ قبل أن تحسب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zamienić literę na liczbę, którą ona oznacza (substitute)",
+            "liczba, którą jest warte wyrażenie, kiedy już znasz literę (value)",
+            "klocek, który na obrazku oznacza literę (cube)",
+            "mały krążek warty 1 (counter)"
+          ],
+          "passage": [
+            "Litera w matematyce oznacza liczbę.",
+            "Podstawić (substitute) znaczy zamienić literę na jej liczbę.",
+            "Jeśli x wynosi 4, to 3x oznacza 3 × 4.",
+            "Więc wartość 3x to 12.",
+            "Wyobraź sobie klocek, który jest wart 4 krążki.",
+            "Trzy klocki są warte 12 krążków.",
+            "Uważaj z 6g, kiedy g wynosi 5.",
+            "To nie oznacza 65.",
+            "To oznacza 6 × 5, czyli 30.",
+            "Ułamek taki jak c przez 6 oznacza c ÷ 6.",
+            "Jeśli c wynosi 12, wartość c przez 6 to 2.",
+            "Wpisz z powrotem znak × lub ÷, zanim to obliczysz."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "trocar uma letra pelo número que ela representa (substitute, substituir)",
+            "o número que uma expressão vale quando você conhece a letra (value, valor)",
+            "um bloco que representa a letra num desenho (cube, cubo)",
+            "um pequeno disco que vale 1 (counter, ficha)"
+          ],
+          "passage": [
+            "Uma letra em matemática representa um número.",
+            "Substituir (substitute) quer dizer trocar a letra pelo seu número.",
+            "Se x é 4, então 3x quer dizer 3 × 4.",
+            "Por isso, o valor de 3x é 12.",
+            "Imagine um cubo que vale 4 fichas.",
+            "Três cubos valem 12 fichas.",
+            "Tenha cuidado com 6g quando g é 5.",
+            "Não quer dizer 65.",
+            "Quer dizer 6 × 5, que é 30.",
+            "Uma fração como c sobre 6 quer dizer c ÷ 6.",
+            "Se c é 12, o valor de c sobre 6 é 2.",
+            "Escreva o sinal × ou ÷ de volta antes de calcular."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xaraf ku beddel tirada uu u taagan yahay (substitute)",
+            "tirada tibaax u dhiganto markaad xarafka taqaanno (value)",
+            "jajab birkeedi sawirka xarafka u taagan (cube)",
+            "saxan yar oo 1 u dhigma (counter)"
+          ],
+          "passage": [
+            "Xaraf xisaabta ku jira tiro ayuu u taagan yahay.",
+            "In la beddelo (substitute) micnaheedu waa in xarafka lagu beddelo tiradiisa.",
+            "Haddii x yahay 4, markaas 3x micnaheedu waa 3 × 4.",
+            "Sidaas darteed qiimaha 3x waa 12.",
+            "Sawir maskaxdaada cube u dhigma 4 counters.",
+            "Saddex cubes waxay u dhigmaan 12 counters.",
+            "Taxaddar la yeelo 6g markuu g yahay 5.",
+            "Micnaheedu ma aha 65.",
+            "Micnaheedu waa 6 × 5, oo ah 30.",
+            "Jajab sida c oo 6 la saaray micnaheedu waa c ÷ 6.",
+            "Haddii c yahay 12, qiimaha c oo 6 la saaray waa 2.",
+            "Calaamadda × ama ÷ dib u qor intaadan xisaabin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "замінити букву на число, яке вона позначає (substitute)",
+            "число, якому дорівнює вираз, коли ви знаєте значення букви (value)",
+            "кубик, який на малюнку позначає букву (cube)",
+            "маленький кружок (фішка), який дорівнює 1 (counter)"
+          ],
+          "passage": [
+            "Буква в математиці позначає число.",
+            "Підставити (substitute) означає замінити букву на її число.",
+            "Якщо x дорівнює 4, то 3x означає 3 × 4.",
+            "Отже, значення 3x дорівнює 12.",
+            "Уявіть кубик, який дорівнює 4 фішкам.",
+            "Три кубики дорівнюють 12 фішкам.",
+            "Будьте уважні з 6g, коли g дорівнює 5.",
+            "Це не означає 65.",
+            "Це означає 6 × 5, тобто 30.",
+            "Дріб на кшталт c поділити на 6 означає c ÷ 6.",
+            "Якщо c дорівнює 12, значення c поділити на 6 дорівнює 2.",
+            "Поверніть знак × або ÷ на місце, перш ніж обчислювати."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "حرف کی جگہ وہ عدد رکھنا جس کے لیے وہ کھڑا ہے (substitute)",
+            "وہ عدد جو عبارت کی قیمت بنتی ہے جب آپ حرف کو جان لیں (value)",
+            "تصویر میں ایک بلاک جو حرف کی جگہ کھڑا ہو (cube)",
+            "ایک چھوٹی گول ٹکیہ جس کی قیمت 1 ہے (counter)"
+          ],
+          "passage": [
+            "ریاضی میں حرف کسی عدد کی جگہ کھڑا ہوتا ہے۔",
+            "قیمت رکھنے (substitute) کا مطلب ہے حرف کی جگہ اس کا عدد رکھ دینا۔",
+            "اگر x کی قیمت 4 ہے تو 3x کا مطلب ہے 3 × 4۔",
+            "اس لیے 3x کی قیمت 12 ہے۔",
+            "ایک ایسے مکعب (cube) کا تصور کریں جس کی قیمت 4 counters ہے۔",
+            "تین مکعبوں کی قیمت 12 counters ہے۔",
+            "6g میں احتیاط کریں جب g کی قیمت 5 ہو۔",
+            "اس کا مطلب 65 نہیں ہے۔",
+            "اس کا مطلب ہے 6 × 5، جو 30 ہے۔",
+            "c بٹا 6 جیسی کسر کا مطلب ہے c ÷ 6۔",
+            "اگر c کی قیمت 12 ہے تو c بٹا 6 کی قیمت 2 ہے۔",
+            "حل کرنے سے پہلے × یا ÷ کا نشان واپس لکھ لیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Swap the letter for its number",
@@ -619,8 +1051,156 @@ window.ASTRA_UNITS["maths-algebra"] = {
           "To find a missing input, work backwards.",
           "Undo the second function first, then undo the first.",
           "Use the inverse of each function as you go."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "آلة فيها دالّتان، واحدة بعد الأخرى (two-step machine)",
+            "أي دالّة تأتي أولاً (order)",
+            "العلامتان ( ) اللتان تجمعان عبارة كاملة معاً (brackets)",
+            "العملية التي تُلغي عملية أخرى (inverse)",
+            "أن تعكس خطوة (undo)"
+          ],
+          "passage": [
+            "بعض الآلات فيها دالّتان.",
+            "مخرج الدالّة الأولى يصبح مدخل الدالّة الثانية.",
+            "ابدأ بـ 3. اضرب في 4 لتحصل على 12. ثم أضف 5 لتحصل على 17.",
+            "الترتيب مهمّ.",
+            "أضف 5 أولاً، ثم اضرب في 4، فتحصل على 32 بدلاً من ذلك.",
+            "مع الحرف يعمل الأمر بالطريقة نفسها.",
+            "أدخل f. أضف 5 لتحصل على f + 5. ثم اضرب في 4 لتحصل على 4(f + 5).",
+            "القوسان يُظهران أن f + 5 كلها مضروبة.",
+            "اضرب في 4 أولاً ثم أضف 5، فتحصل على 4f + 5.",
+            "لتجد مدخلاً مفقوداً، اعمل بالاتجاه المعاكس.",
+            "ألغِ الدالّة الثانية أولاً، ثم ألغِ الأولى.",
+            "استعمل عكس كل دالّة وأنت تتقدّم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "maszyna z dwiema funkcjami, jedna po drugiej (two-step machine)",
+            "która funkcja jest pierwsza (order)",
+            "znaki ( ), które łączą całe wyrażenie w jedną grupę (brackets)",
+            "działanie, które odwraca inne działanie (inverse)",
+            "odwrócić krok (undo)"
+          ],
+          "passage": [
+            "Niektóre maszyny mają dwie funkcje.",
+            "Wyjście pierwszej funkcji staje się wejściem drugiej.",
+            "Zacznij od 3. Pomnóż przez 4, żeby otrzymać 12. Potem dodaj 5, żeby otrzymać 17.",
+            "Kolejność ma znaczenie.",
+            "Najpierw dodaj 5, potem pomnóż przez 4, a otrzymasz zamiast tego 32.",
+            "Z literą działa to tak samo.",
+            "Włóż f. Dodaj 5, żeby otrzymać f + 5. Potem pomnóż przez 4, żeby otrzymać 4(f + 5).",
+            "Nawiasy (brackets) pokazują, że mnożone jest całe f + 5.",
+            "Najpierw pomnóż przez 4, a potem dodaj 5, a otrzymasz 4f + 5.",
+            "Żeby znaleźć brakujące wejście, pracuj od tyłu.",
+            "Najpierw odwróć drugą funkcję, potem odwróć pierwszą.",
+            "Po drodze używaj odwrotności każdej funkcji."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma máquina com duas funções, uma depois da outra (two-step machine, máquina de dois passos)",
+            "qual função vem primeiro (order, ordem)",
+            "os sinais ( ) que agrupam uma expressão inteira (brackets, parênteses)",
+            "a operação que desfaz outra (inverse, inversa)",
+            "voltar atrás num passo (undo, desfazer)"
+          ],
+          "passage": [
+            "Algumas máquinas têm duas funções.",
+            "A saída da primeira função passa a ser a entrada da segunda.",
+            "Comece com 3. Multiplique por 4 para obter 12. Depois some 5 para obter 17.",
+            "A ordem é importante.",
+            "Some 5 primeiro, depois multiplique por 4, e você obtém 32 em vez disso.",
+            "Com uma letra funciona da mesma maneira.",
+            "Ponha f. Some 5 para obter f + 5. Depois multiplique por 4 para obter 4(f + 5).",
+            "Os parênteses (brackets) mostram que todo o f + 5 é multiplicado.",
+            "Multiplique por 4 primeiro e depois some 5, e você obtém 4f + 5.",
+            "Para encontrar uma entrada em falta, trabalhe ao contrário.",
+            "Desfaça a segunda função primeiro, depois desfaça a primeira.",
+            "Use a inversa de cada função pelo caminho."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mishiin leh laba function, mid kadib mid (two-step machine)",
+            "function-ka marka hore yimaada (order)",
+            "calaamadaha ( ) oo tibaax oo dhan isku ururiya (brackets)",
+            "hawsha hawl kale dib u celisa (inverse)",
+            "tallaabo dib u celin (undo)"
+          ],
+          "passage": [
+            "Mishiinnada qaar waxay leeyihiin laba function.",
+            "Output-ka function-ka koowaad wuxuu noqdaa input-ka kan labaad.",
+            "Ka bilow 3. 4 ku dhufo si aad u hesho 12. Kadibna 5 ku dar si aad u hesho 17.",
+            "Kala horreyntu muhiim ayay tahay.",
+            "Marka hore 5 ku dar, kadibna 4 ku dhufo, markaas beddelkeeda 32 ayaad heshaa.",
+            "Xaraf sidaas oo kale ayuu u shaqeeyaa.",
+            "Geli f. 5 ku dar si aad u hesho f + 5. Kadibna 4 ku dhufo si aad u hesho 4(f + 5).",
+            "Laameyntu (brackets) waxay muujisaa in f + 5 oo dhan la dhuftay.",
+            "Marka hore 4 ku dhufo kadibna 5 ku dar, markaas 4f + 5 ayaad heshaa.",
+            "Si aad u hesho input maqan, dib u shaqee.",
+            "Marka hore fur function-ka labaad, kadibna fur kan koowaad.",
+            "Isticmaal lidka (inverse) function kasta intaad socoto."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "машина з двома функціями, одна за одною (two-step machine)",
+            "яка функція йде першою (order)",
+            "знаки ( ), які об’єднують увесь вираз разом (brackets)",
+            "дія, яка скасовує іншу дію (inverse)",
+            "повернути крок назад (undo)"
+          ],
+          "passage": [
+            "Деякі машини мають дві функції.",
+            "Вихід першої функції стає входом другої.",
+            "Почніть із 3. Помножте на 4 — буде 12. Потім додайте 5 — буде 17.",
+            "Порядок має значення.",
+            "Спочатку додайте 5, потім помножте на 4 — і ви отримаєте вже 32.",
+            "З буквою це працює так само.",
+            "Введіть f. Додайте 5 — буде f + 5. Потім помножте на 4 — буде 4(f + 5).",
+            "Дужки (brackets) показують, що множиться весь вираз f + 5.",
+            "Спочатку помножте на 4, а потім додайте 5 — і ви отримаєте 4f + 5.",
+            "Щоб знайти невідомий вхід, працюйте у зворотному напрямку.",
+            "Спочатку скасуйте другу функцію, потім першу.",
+            "Використовуйте обернену дію для кожної функції по черзі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسی مشین جس میں دو فنکشن ہوں، ایک کے بعد دوسرا (two-step machine)",
+            "کون سا فنکشن پہلے آتا ہے (order)",
+            "نشان ( ) جو پوری عبارت کو ایک ساتھ گروہ میں باندھتے ہیں (brackets)",
+            "وہ عمل جو کسی دوسرے عمل کو الٹا دیتا ہے (inverse)",
+            "کسی قدم کو الٹانا (undo)"
+          ],
+          "passage": [
+            "کچھ مشینوں میں دو فنکشن ہوتے ہیں۔",
+            "پہلے فنکشن کا آؤٹ پٹ دوسرے فنکشن کا ان پٹ بن جاتا ہے۔",
+            "3 سے شروع کریں۔ 4 سے ضرب دیں تو 12 ملتا ہے۔ پھر 5 جمع کریں تو 17 ملتا ہے۔",
+            "ترتیب کی اہمیت ہے۔",
+            "پہلے 5 جمع کریں، پھر 4 سے ضرب دیں، تو اس کے بجائے آپ کو 32 ملتا ہے۔",
+            "حرف کے ساتھ بھی یہ اسی طرح چلتا ہے۔",
+            "f اندر ڈالیں۔ 5 جمع کریں تو f + 5 ملتا ہے۔ پھر 4 سے ضرب دیں تو 4(f + 5) ملتا ہے۔",
+            "بریکٹ دکھاتے ہیں کہ پورے f + 5 کو ضرب دیا گیا ہے۔",
+            "پہلے 4 سے ضرب دیں اور پھر 5 جمع کریں، تو آپ کو 4f + 5 ملتا ہے۔",
+            "غائب ان پٹ معلوم کرنے کے لیے الٹا چلیں۔",
+            "پہلے دوسرے فنکشن کو کھولیں، پھر پہلے فنکشن کو۔",
+            "راستے میں ہر فنکشن کا الٹ عمل (inverse) استعمال کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Two functions in a row",
@@ -798,8 +1378,156 @@ window.ASTRA_UNITS["maths-algebra"] = {
           "A fraction means divide.",
           "The expression with p + 6 on top and 3 underneath means add 6, then divide by 3.",
           "Read every expression like a list of instructions."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الأقواس أولاً، ثم × و÷، ثم + و− (order of operations)",
+            "خطوة واحدة تفعلها الآلة، مثل «أضف 2» (instruction)",
+            "دالّة عليك أن تستنتجها من المدخل والمخرج (missing function)",
+            "له القيمة نفسها لكل قيمة يأخذها الحرف (equivalent)",
+            "آلة فيها دالّة واحدة (one-step machine)"
+          ],
+          "passage": [
+            "أحياناً تكون دالّة مفقودة من الآلة.",
+            "تعرف المدخل والمخرج.",
+            "وعليك أن تستنتج ما تفعله الآلة.",
+            "إذا دخل p وخرج 5p + 7، فانظر إلى المخرج.",
+            "الجزء 5p يخبرك أن p ضُرب في 5.",
+            "والجزء + 7 يخبرك أن 7 أُضيف بعد ذلك.",
+            "الأقواس تغيّر القصة.",
+            "7(m + 5) تعني: أضف 5 أولاً، ثم اضرب في 7.",
+            "7m + 5 تعني: اضرب في 7 أولاً، ثم أضف 5.",
+            "الكسر يعني القسمة.",
+            "العبارة التي فيها p + 6 في الأعلى و3 في الأسفل تعني: أضف 6، ثم اقسم على 3.",
+            "اقرأ كل عبارة كأنها قائمة تعليمات."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "najpierw nawiasy, potem × i ÷, potem + i − (order of operations)",
+            "jeden krok, który wykonuje maszyna, na przykład „dodaj 2” (instruction)",
+            "funkcja, którą musisz ustalić z wejścia i wyjścia (missing function)",
+            "warte tyle samo dla każdej wartości litery (equivalent)",
+            "maszyna z jedną funkcją (one-step machine)"
+          ],
+          "passage": [
+            "Czasem w maszynie brakuje funkcji.",
+            "Znasz wejście i wyjście.",
+            "Musisz ustalić, co robi maszyna.",
+            "Jeśli wchodzi p, a wychodzi 5p + 7, spójrz na wyjście.",
+            "5p mówi ci, że p pomnożono przez 5.",
+            "+ 7 mówi ci, że potem dodano 7.",
+            "Nawiasy zmieniają historię.",
+            "7(m + 5) oznacza: najpierw dodaj 5, potem pomnóż przez 7.",
+            "7m + 5 oznacza: najpierw pomnóż przez 7, potem dodaj 5.",
+            "Ułamek oznacza dzielenie.",
+            "Wyrażenie z p + 6 na górze i 3 na dole oznacza: dodaj 6, potem podziel przez 3.",
+            "Czytaj każde wyrażenie jak listę instrukcji."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "parênteses primeiro, depois × e ÷, depois + e − (order of operations, ordem das operações)",
+            "um passo que uma máquina faz, como ‘somar 2’ (instruction, instrução)",
+            "uma função que você tem de descobrir a partir da entrada e da saída (missing function, função em falta)",
+            "que vale o mesmo para qualquer valor da letra (equivalent, equivalente)",
+            "uma máquina com uma só função (one-step machine, máquina de um passo)"
+          ],
+          "passage": [
+            "Às vezes falta uma função numa máquina.",
+            "Você sabe a entrada e a saída.",
+            "Você tem de descobrir o que a máquina faz.",
+            "Se entra p e sai 5p + 7, olhe para a saída.",
+            "O 5p diz que p foi multiplicado por 5.",
+            "O + 7 diz que depois disso foi somado 7.",
+            "Os parênteses mudam a história.",
+            "7(m + 5) quer dizer: somar 5 primeiro, depois multiplicar por 7.",
+            "7m + 5 quer dizer: multiplicar por 7 primeiro, depois somar 5.",
+            "Uma fração quer dizer dividir.",
+            "A expressão com p + 6 em cima e 3 em baixo quer dizer: somar 6, depois dividir por 3.",
+            "Leia cada expressão como uma lista de instruções."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "marka hore laameyn, kadibna × iyo ÷, kadibna + iyo − (order of operations)",
+            "hal tallaabo oo mishiin sameeyo, sida 2 ku dar (instruction)",
+            "function aad ka soo saarto input-ka iyo output-ka (missing function)",
+            "isku qiime leh qiime kasta oo xarafku qaato (equivalent)",
+            "mishiin leh hal function keliya (one-step machine)"
+          ],
+          "passage": [
+            "Mararka qaar mishiin function ayaa ka maqan.",
+            "Input-ka iyo output-ka ayaad taqaannaa.",
+            "Waa inaad ka soo saartaa waxa mishiinku sameeyo.",
+            "Haddii p galo oo 5p + 7 soo baxo, fiiri output-ka.",
+            "5p waxay kuu sheegaysaa in p 5 lagu dhuftay.",
+            "+ 7 waxay kuu sheegaysaa in 7 lagu daray intaas kadib.",
+            "Laameyntu sheekada way beddeshaa.",
+            "7(m + 5) micnaheedu waa marka hore 5 ku dar, kadibna 7 ku dhufo.",
+            "7m + 5 micnaheedu waa marka hore 7 ku dhufo, kadibna 5 ku dar.",
+            "Jajab micnaheedu waa u qaybi.",
+            "Tibaaxda p + 6 dusha ku leh 3-na hoosta ku leh micnaheedu waa 6 ku dar, kadibna 3 u qaybi.",
+            "Tibaax kasta u akhri sida liis tilmaamo ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "спочатку дужки, потім × і ÷, потім + і − (order of operations)",
+            "один крок, який виконує машина, наприклад «додати 2» (instruction)",
+            "функція, яку треба визначити за входом і виходом (missing function)",
+            "такі, що мають однакове значення для будь-якого значення букви (equivalent)",
+            "машина з однією функцією (one-step machine)"
+          ],
+          "passage": [
+            "Іноді в машині не вказано функцію.",
+            "Ви знаєте вхід і вихід.",
+            "Ви маєте визначити, що робить машина.",
+            "Якщо входить p, а виходить 5p + 7, подивіться на вихід.",
+            "5p говорить вам, що p помножили на 5.",
+            "+ 7 говорить вам, що після цього додали 7.",
+            "Дужки змінюють усю історію.",
+            "7(m + 5) означає: спочатку додати 5, потім помножити на 7.",
+            "7m + 5 означає: спочатку помножити на 7, потім додати 5.",
+            "Дріб означає ділення.",
+            "Вираз із p + 6 угорі та 3 унизу означає: додати 6, потім поділити на 3.",
+            "Читайте кожний вираз як список інструкцій."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پہلے بریکٹ، پھر × اور ÷، پھر + اور − (order of operations)",
+            "ایک قدم جو مشین کرتی ہے، جیسے ‘2 جمع کریں’ (instruction)",
+            "ایسا فنکشن جو آپ کو ان پٹ اور آؤٹ پٹ سے معلوم کرنا ہے (missing function)",
+            "حرف کی ہر قیمت کے لیے برابر (equivalent)",
+            "ایسی مشین جس میں صرف ایک فنکشن ہو (one-step machine)"
+          ],
+          "passage": [
+            "کبھی کبھی مشین کا کوئی فنکشن غائب ہوتا ہے۔",
+            "آپ کو ان پٹ اور آؤٹ پٹ معلوم ہیں۔",
+            "آپ کو معلوم کرنا ہے کہ مشین کیا کرتی ہے۔",
+            "اگر p اندر جائے اور 5p + 7 باہر آئے تو آؤٹ پٹ کو دیکھیں۔",
+            "5p آپ کو بتاتا ہے کہ p کو 5 سے ضرب دیا گیا۔",
+            "+ 7 آپ کو بتاتا ہے کہ اس کے بعد 7 جمع کیا گیا۔",
+            "بریکٹ کہانی بدل دیتے ہیں۔",
+            "7(m + 5) کا مطلب ہے پہلے 5 جمع کریں، پھر 7 سے ضرب دیں۔",
+            "7m + 5 کا مطلب ہے پہلے 7 سے ضرب دیں، پھر 5 جمع کریں۔",
+            "کسر کا مطلب ہے تقسیم۔",
+            "جس عبارت میں اوپر p + 6 اور نیچے 3 ہو، اس کا مطلب ہے 6 جمع کریں، پھر 3 سے تقسیم کریں۔",
+            "ہر عبارت کو ہدایات کی فہرست کی طرح پڑھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Reading an expression as instructions",
@@ -977,8 +1705,156 @@ window.ASTRA_UNITS["maths-algebra"] = {
           "Take care with squares.",
           "4x² means 4 × x², so square first.",
           "When x is 5, that is 4 × 25, which is 100."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حدّ ليس فيه حرف (constant)",
+            "الأقواس أولاً، ثم التربيع، ثم × و÷، ثم + و− (order of operations)",
+            "العلامتان ( ) حول الجزء الذي تحسبه أولاً (brackets)",
+            "عدد مضروب في نفسه، يُكتب مع 2 صغيرة (square)",
+            "أن تبدّل الحرف بالعدد الذي يمثّله (substitute)"
+          ],
+          "passage": [
+            "الآن العبارة فيها خطوتان.",
+            "خذ 3y − 4 عندما يكون y يساوي 8.",
+            "بدّل y بـ 8 أولاً: 3 × 8 − 4.",
+            "اضرب قبل أن تطرح.",
+            "3 × 8 يساوي 24، و24 − 4 يساوي 20.",
+            "الأقواس تأتي قبل كل شيء.",
+            "خذ 4(h + 2) عندما يكون h يساوي 5.",
+            "اجمع داخل القوسَين: 5 + 2 يساوي 7.",
+            "ثم اضرب: 4 × 7 يساوي 28.",
+            "انتبه مع التربيع (squares).",
+            "4x² تعني 4 × x²، فربّع أولاً.",
+            "عندما يكون x يساوي 5، يكون ذلك 4 × 25، أي 100."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wyraz, w którym nie ma litery (constant)",
+            "najpierw nawiasy, potem kwadraty, potem × i ÷, potem + i − (order of operations)",
+            "znaki ( ) wokół części, którą obliczasz najpierw (brackets)",
+            "liczba pomnożona przez samą siebie, zapisana z małą 2 (square)",
+            "zamienić literę na liczbę, którą ona oznacza (substitute)"
+          ],
+          "passage": [
+            "Teraz wyrażenie ma dwa kroki.",
+            "Weź 3y − 4, kiedy y wynosi 8.",
+            "Najpierw zamień y na 8: 3 × 8 − 4.",
+            "Mnóż, zanim odejmiesz.",
+            "3 × 8 to 24, a 24 − 4 to 20.",
+            "Nawiasy są przed wszystkim innym.",
+            "Weź 4(h + 2), kiedy h wynosi 5.",
+            "Dodaj w nawiasie: 5 + 2 to 7.",
+            "Potem pomnóż: 4 × 7 to 28.",
+            "Uważaj z kwadratami.",
+            "4x² oznacza 4 × x², więc najpierw podnieś do kwadratu.",
+            "Kiedy x wynosi 5, to jest 4 × 25, czyli 100."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um termo sem nenhuma letra (constant, constante)",
+            "parênteses primeiro, depois quadrados, depois × e ÷, depois + e − (order of operations, ordem das operações)",
+            "os sinais ( ) à volta da parte que você calcula primeiro (brackets, parênteses)",
+            "um número multiplicado por si mesmo, escrito com um 2 pequeno (square, quadrado)",
+            "trocar uma letra pelo número que ela representa (substitute, substituir)"
+          ],
+          "passage": [
+            "Agora a expressão tem dois passos.",
+            "Pegue em 3y − 4 quando y é 8.",
+            "Troque y por 8 primeiro: 3 × 8 − 4.",
+            "Multiplique antes de subtrair.",
+            "3 × 8 é 24, e 24 − 4 é 20.",
+            "Os parênteses vêm antes de tudo.",
+            "Pegue em 4(h + 2) quando h é 5.",
+            "Some dentro dos parênteses: 5 + 2 é 7.",
+            "Depois multiplique: 4 × 7 é 28.",
+            "Tenha cuidado com os quadrados.",
+            "4x² quer dizer 4 × x², por isso eleve ao quadrado primeiro.",
+            "Quando x é 5, isso é 4 × 25, que é 100."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xubin aan xaraf ku jirin (constant)",
+            "marka hore laameyn, kadibna labajibbaaran, kadibna × iyo ÷, kadibna + iyo − (order of operations)",
+            "calaamadaha ( ) ee ku wareegsan qaybta aad marka hore xisaabiso (brackets)",
+            "tiro iskeed lagu dhuftay, oo lagu qoro 2 yar (square)",
+            "xaraf ku beddel tirada uu u taagan yahay (substitute)"
+          ],
+          "passage": [
+            "Hadda tibaaxdu waxay leedahay laba tallaabo.",
+            "Qaado 3y − 4 markuu y yahay 8.",
+            "Marka hore y ku beddel 8: 3 × 8 − 4.",
+            "Ku dhufo intaadan ka jarin.",
+            "3 × 8 waa 24, 24 − 4-na waa 20.",
+            "Laameyntu wax walba ayay ka horreysaa.",
+            "Qaado 4(h + 2) markuu h yahay 5.",
+            "Laameynta gudaheeda ku dar: 5 + 2 waa 7.",
+            "Kadibna ku dhufo: 4 × 7 waa 28.",
+            "Taxaddar la yeelo labajibbaaranka (squares).",
+            "4x² micnaheedu waa 4 × x², sidaas darteed marka hore labajibbaar.",
+            "Markuu x yahay 5, taasi waa 4 × 25, oo ah 100."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "член виразу, у якому немає букви (constant)",
+            "спочатку дужки, потім квадрати, потім × і ÷, потім + і − (order of operations)",
+            "знаки ( ) навколо частини, яку обчислюють першою (brackets)",
+            "число, помножене саме на себе, записане з маленькою 2 (square)",
+            "замінити букву на число, яке вона позначає (substitute)"
+          ],
+          "passage": [
+            "Тепер у виразі два кроки.",
+            "Візьмемо 3y − 4, коли y дорівнює 8.",
+            "Спочатку замініть y на 8: 3 × 8 − 4.",
+            "Множте перед тим, як віднімати.",
+            "3 × 8 дорівнює 24, а 24 − 4 дорівнює 20.",
+            "Дужки виконують найпершими.",
+            "Візьмемо 4(h + 2), коли h дорівнює 5.",
+            "Додайте в дужках: 5 + 2 дорівнює 7.",
+            "Потім помножте: 4 × 7 дорівнює 28.",
+            "Будьте уважні з квадратами (squares).",
+            "4x² означає 4 × x², тому спочатку підносьте до квадрата.",
+            "Коли x дорівнює 5, це 4 × 25, тобто 100."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا رکن جس میں کوئی حرف نہ ہو (constant)",
+            "پہلے بریکٹ، پھر مربع، پھر × اور ÷، پھر + اور − (order of operations)",
+            "نشان ( ) اس حصے کے گرد جسے آپ پہلے حل کرتے ہیں (brackets)",
+            "ایک عدد جو خود سے ضرب ہو، جسے چھوٹے 2 کے ساتھ لکھا جاتا ہے (square)",
+            "حرف کی جگہ وہ عدد رکھنا جس کے لیے وہ کھڑا ہے (substitute)"
+          ],
+          "passage": [
+            "اب عبارت میں دو قدم ہیں۔",
+            "3y − 4 لیں جب y کی قیمت 8 ہو۔",
+            "سب سے پہلے y کی جگہ 8 رکھ دیں، تو بنتا ہے: 3 × 8 − 4۔",
+            "گھٹانے سے پہلے ضرب دیں۔",
+            "3 × 8 برابر ہے 24 کے، اور پھر 24 − 4 برابر ہے 20 کے۔",
+            "بریکٹ سب سے پہلے آتے ہیں۔",
+            "4(h + 2) لیں جب h کی قیمت 5 ہو۔",
+            "بریکٹ کے اندر جمع کریں: 5 + 2 برابر 7 ہے۔",
+            "پھر ضرب دیں: 4 × 7 برابر 28 ہے۔",
+            "مربع (square) میں احتیاط کریں۔",
+            "4x² کا مطلب ہے 4 × x²، اس لیے پہلے مربع کریں۔",
+            "جب x کی قیمت 5 ہو تو یہ 4 × 25 ہے، جو 100 ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Substitute, then follow the order of operations",

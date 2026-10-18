@@ -101,8 +101,156 @@ window.ASTRA_UNITS["maths-speed"] = {
           "Be careful with decimals.",
           "2.5 hours is 2 hours and 30 minutes, not 2 hours and 50 minutes.",
           "A millisecond is one thousandth of a second."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تحوّل إلى وحدة مختلفة (convert)",
+            "جزء من ألف من الثانية (millisecond)",
+            "يساوي المقدار نفسه (equivalent)",
+            "جزء من الساعة، مثل النصف أو الربع (fraction of an hour)",
+            "سنة فيها 366 يوماً (leap year)"
+          ],
+          "passage": [
+            "للزمن وحدات كثيرة.",
+            "في الدقيقة 60 ثانية.",
+            "في الساعة 60 دقيقة.",
+            "في اليوم 24 ساعة.",
+            "في السنة 365 يوماً، أو 366 في السنة الكبيسة.",
+            "لتحويل الساعات إلى دقائق، اضرب في 60.",
+            "لتحويل الدقائق إلى ساعات، اقسم على 60.",
+            "نصف ساعة يساوي 30 دقيقة.",
+            "ربع ساعة يساوي 15 دقيقة.",
+            "انتبه مع الأعداد العشرية.",
+            "2.5 ساعة تعني ساعتَين و30 دقيقة، لا ساعتَين و50 دقيقة.",
+            "الميلي ثانية (millisecond) جزء من ألف من الثانية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zamienić na inną jednostkę (convert)",
+            "jedna tysięczna sekundy (millisecond)",
+            "warte tyle samo (equivalent)",
+            "część godziny, na przykład połowa albo kwadrans (fraction of an hour)",
+            "rok, który ma 366 dni (leap year)"
+          ],
+          "passage": [
+            "Czas ma wiele jednostek.",
+            "Minuta ma 60 sekund.",
+            "Godzina ma 60 minut.",
+            "Doba ma 24 godziny.",
+            "Rok ma 365 dni, a rok przestępny (leap year) 366.",
+            "Żeby zamienić godziny na minuty, pomnóż przez 60.",
+            "Żeby zamienić minuty na godziny, podziel przez 60.",
+            "Pół godziny to 30 minut.",
+            "Kwadrans to 15 minut.",
+            "Uważaj z liczbami dziesiętnymi.",
+            "2.5 godziny to 2 godziny i 30 minut, a nie 2 godziny i 50 minut.",
+            "Milisekunda to jedna tysięczna sekundy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "mudar para uma unidade diferente (convert, converter)",
+            "um milésimo de segundo (millisecond, milissegundo)",
+            "que vale a mesma quantidade (equivalent, equivalente)",
+            "uma parte de uma hora, como meia hora ou um quarto de hora (fraction of an hour, fração de hora)",
+            "um ano com 366 dias (leap year, ano bissexto)"
+          ],
+          "passage": [
+            "O tempo tem muitas unidades.",
+            "Há 60 segundos num minuto.",
+            "Há 60 minutos numa hora.",
+            "Há 24 horas num dia.",
+            "Um ano tem 365 dias, ou 366 num ano bissexto.",
+            "Para mudar horas para minutos, multiplique por 60.",
+            "Para mudar minutos para horas, divida por 60.",
+            "Meia hora são 30 minutos.",
+            "Um quarto de hora são 15 minutos.",
+            "Tenha cuidado com os decimais.",
+            "2.5 horas são 2 horas e 30 minutos, e não 2 horas e 50 minutos.",
+            "Um milissegundo é um milésimo de segundo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "halbeeg kale u beddel (convert)",
+            "kun-meelood meel ilbiriqsi (millisecond)",
+            "isku qaddar u dhigma (equivalent)",
+            "qayb saacad, sida kala badh ama rubuc (fraction of an hour)",
+            "sannad leh 366 maalmood (leap year)"
+          ],
+          "passage": [
+            "Waqtigu halbeegyo badan ayuu leeyahay.",
+            "Daqiiqad waxaa ku jira 60 ilbiriqsi.",
+            "Saacad waxaa ku jira 60 daqiiqo.",
+            "Maalin waxaa ku jira 24 saacadood.",
+            "Sannad wuxuu leeyahay 365 maalmood, ama 366 sannadka leap year.",
+            "Si saacado loogu beddelo daqiiqado, 60 ku dhufo.",
+            "Si daqiiqado loogu beddelo saacado, 60 u qaybi.",
+            "Saacad kala badh waa 30 daqiiqo.",
+            "Rubuc saacad waa 15 daqiiqo.",
+            "Taxaddar la yeelo jajabka tobanle (decimals).",
+            "2.5 saacadood waa 2 saacadood iyo 30 daqiiqo, ma aha 2 saacadood iyo 50 daqiiqo.",
+            "Millisecond waa kun-meelood meel ilbiriqsi."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "перевести в іншу одиницю (convert)",
+            "одна тисячна частина секунди (millisecond)",
+            "такий, що має те саме значення (equivalent)",
+            "частина години, наприклад половина або чверть (fraction of an hour)",
+            "рік із 366 днями (leap year)"
+          ],
+          "passage": [
+            "Час має багато одиниць.",
+            "У хвилині 60 секунд.",
+            "У годині 60 хвилин.",
+            "У добі 24 години.",
+            "У році 365 днів, або 366 у високосному році (leap year).",
+            "Щоб перевести години у хвилини, помножте на 60.",
+            "Щоб перевести хвилини в години, поділіть на 60.",
+            "Півгодини — це 30 хвилин.",
+            "Чверть години — це 15 хвилин.",
+            "Будьте уважні з десятковими дробами.",
+            "2.5 години — це 2 години 30 хвилин, а не 2 години 50 хвилин.",
+            "Мілісекунда (millisecond) — це одна тисячна частина секунди."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی دوسری اکائی میں بدلنا (convert)",
+            "سیکنڈ کا ہزارواں حصہ (millisecond)",
+            "برابر مقدار کا (equivalent)",
+            "گھنٹے کا ایک حصہ، جیسے آدھا یا چوتھائی (fraction of an hour)",
+            "366 دنوں کا سال (leap year)"
+          ],
+          "passage": [
+            "وقت کی بہت سی اکائیاں ہیں۔",
+            "ایک منٹ میں 60 سیکنڈ ہوتے ہیں۔",
+            "ایک گھنٹے میں 60 منٹ ہوتے ہیں۔",
+            "ایک دن میں 24 گھنٹے ہوتے ہیں۔",
+            "سال میں 365 دن ہوتے ہیں، یا لیپ کے سال (leap year) میں 366۔",
+            "گھنٹوں کو منٹوں میں بدلنے کے لیے 60 سے ضرب دیں۔",
+            "منٹوں کو گھنٹوں میں بدلنے کے لیے 60 سے تقسیم کریں۔",
+            "آدھا گھنٹہ 30 منٹ ہے۔",
+            "چوتھائی گھنٹہ 15 منٹ ہے۔",
+            "اعشاریوں میں احتیاط کریں۔",
+            "2.5 گھنٹے کا مطلب 2 گھنٹے اور 30 منٹ ہے، 2 گھنٹے اور 50 منٹ نہیں۔",
+            "ملی سیکنڈ (millisecond) سیکنڈ کا ہزارواں حصہ ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Seconds, minutes and hours",
@@ -296,8 +444,156 @@ window.ASTRA_UNITS["maths-speed"] = {
           "The 24-hour clock runs from 00:00 to 23:59.",
           "3 pm is 15:00 on the 24-hour clock.",
           "A calendar shows the days of each month."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جدول بأوقات المغادرة والوصول (timetable)",
+            "كم يستمرّ شيء ما (duration)",
+            "أوقات من 00:00 إلى 23:59، بلا am أو pm (24-hour clock)",
+            "جدول يصنّف الأشياء بطريقتَين في وقت واحد (two-way table)",
+            "لوح يُظهر الأيام والأسابيع في كل شهر (calendar)"
+          ],
+          "passage": [
+            "جدول المواعيد (timetable) يُظهر متى تغادر الحافلات أو القطارات ومتى تصل.",
+            "اقرأ العمود من الأعلى إلى الأسفل لتتابع حافلة واحدة.",
+            "اقرأ الصفّ بالعرض لترى محطّة واحدة.",
+            "لتجد كم تستغرق الرحلة، عُدّ تصاعدياً من وقت البداية.",
+            "لا تطرح الأرقام فقط.",
+            "حافلة تغادر في 09:48 وتصل في 10:20.",
+            "عُدّ 12 دقيقة لتصل إلى 10:00.",
+            "ثم عُدّ 20 دقيقة أخرى.",
+            "الرحلة تستغرق 32 دقيقة.",
+            "ساعة الـ 24 (24-hour clock) تمتدّ من 00:00 إلى 23:59.",
+            "الساعة 3 بعد الظهر (pm) هي 15:00 بنظام الـ 24 ساعة.",
+            "التقويم (calendar) يُظهر أيام كل شهر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "tabela godzin odjazdu i przyjazdu (timetable)",
+            "jak długo coś trwa (duration)",
+            "godziny od 00:00 do 23:59, bez am i pm (24-hour clock)",
+            "tabela, która porządkuje rzeczy na dwa sposoby jednocześnie (two-way table)",
+            "wykaz dni i tygodni w każdym miesiącu (calendar)"
+          ],
+          "passage": [
+            "Rozkład jazdy (timetable) pokazuje, kiedy autobusy lub pociągi odjeżdżają i przyjeżdżają.",
+            "Czytaj w dół kolumny, żeby śledzić jeden autobus.",
+            "Czytaj wzdłuż wiersza, żeby zobaczyć jeden przystanek.",
+            "Żeby znaleźć, jak długo trwa podróż, licz dalej od godziny startu.",
+            "Nie odejmuj po prostu cyfr.",
+            "Autobus odjeżdża o 09:48 i przyjeżdża o 10:20.",
+            "Dolicz 12 minut, żeby dojść do 10:00.",
+            "Potem dolicz jeszcze 20 minut.",
+            "Podróż trwa 32 minuty.",
+            "Zegar 24-godzinny (24-hour clock) biegnie od 00:00 do 23:59.",
+            "3 pm to 15:00 na zegarze 24-godzinnym.",
+            "Kalendarz pokazuje dni każdego miesiąca."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma tabela com horas de partida e de chegada (timetable, horário)",
+            "quanto tempo algo dura (duration, duração)",
+            "horas de 00:00 a 23:59, sem am nem pm (24-hour clock, relógio de 24 horas)",
+            "uma tabela que organiza as coisas de duas maneiras ao mesmo tempo (two-way table, tabela de dupla entrada)",
+            "um quadro com os dias e as semanas de cada mês (calendar, calendário)"
+          ],
+          "passage": [
+            "Um horário (timetable) mostra quando os autocarros/ônibus ou os comboios/trens partem e chegam.",
+            "Leia uma coluna de cima para baixo para seguir um autocarro/ônibus.",
+            "Leia uma linha da esquerda para a direita para ver uma paragem/parada.",
+            "Para saber quanto tempo demora uma viagem, conte para a frente a partir da hora de partida.",
+            "Não subtraia só os algarismos.",
+            "Um autocarro/ônibus parte às 09:48 e chega às 10:20.",
+            "Conte 12 minutos para a frente para chegar às 10:00.",
+            "Depois conte mais 20 minutos.",
+            "A viagem demora 32 minutos.",
+            "O relógio de 24 horas vai das 00:00 às 23:59.",
+            "3 pm são 15:00 no relógio de 24 horas.",
+            "Um calendário mostra os dias de cada mês."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "shax waqtiyada bixitaanka iyo imaatinka (timetable)",
+            "inta wax socdo (duration)",
+            "waqtiyada 00:00 ilaa 23:59, oo aan lahayn am ama pm (24-hour clock)",
+            "shax waxyaabo laba siyaabood isku mar u kala sooca (two-way table)",
+            "jaantus maalmaha iyo toddobaadyada bil kasta (calendar)"
+          ],
+          "passage": [
+            "Timetable waxay muujisaa goorta basaska ama tareennada baxaan oo yimaadaan.",
+            "Hoos u akhri tiir si aad hal bas u raacdo.",
+            "Dhinac u akhri saf si aad hal joogsi u aragto.",
+            "Si aad u hesho inta socdaal qaato, ka tiri waqtiga bilowga.",
+            "Lambarrada keliya ha kala jarin.",
+            "Bas wuxuu baxaa 09:48 wuxuuna yimaadaa 10:20.",
+            "12 daqiiqo ku tiri si aad u gaarto 10:00.",
+            "Kadibna 20 daqiiqo oo kale ku tiri.",
+            "Socdaalku wuxuu qaataa 32 daqiiqo.",
+            "Saacadda 24-saac (24-hour clock) waxay ka socotaa 00:00 ilaa 23:59.",
+            "3 pm waa 15:00 saacadda 24-saac.",
+            "Calendar waxay muujisaa maalmaha bil kasta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "таблиця часу відправлення та прибуття (timetable)",
+            "скільки часу щось триває (duration)",
+            "час від 00:00 до 23:59, без am і pm (24-hour clock)",
+            "таблиця, яка сортує речі двома способами одразу (two-way table)",
+            "таблиця днів і тижнів кожного місяця (calendar)"
+          ],
+          "passage": [
+            "Розклад (timetable) показує, коли автобуси або поїзди відправляються і прибувають.",
+            "Читайте стовпчик униз, щоб простежити один автобус.",
+            "Читайте рядок уздовж, щоб побачити одну зупинку.",
+            "Щоб дізнатися, скільки триває поїздка, відлічуйте вперед від часу відправлення.",
+            "Не просто віднімайте цифри.",
+            "Автобус відправляється о 09:48 і прибуває о 10:20.",
+            "Відлічіть 12 хвилин, щоб дійти до 10:00.",
+            "Потім відлічіть ще 20 хвилин.",
+            "Поїздка триває 32 хвилини.",
+            "24-годинний формат часу (24-hour clock) іде від 00:00 до 23:59.",
+            "3 pm — це 15:00 у 24-годинному форматі.",
+            "Календар показує дні кожного місяця."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "روانگی اور آمد کے وقتوں کی ایک میز (timetable)",
+            "کوئی چیز کتنی دیر چلتی ہے (duration)",
+            "00:00 سے 23:59 تک کے وقت، بغیر am یا pm کے (24-hour clock)",
+            "ایسی میز جو چیزوں کو ایک ساتھ دو طریقوں سے چھانٹتی ہے (two-way table)",
+            "ہر مہینے کے دنوں اور ہفتوں کا چارٹ (calendar)"
+          ],
+          "passage": [
+            "ٹائم ٹیبل (timetable) دکھاتا ہے کہ بسیں یا ریل گاڑیاں کب روانہ ہوتی اور کب پہنچتی ہیں۔",
+            "ایک بس کا پیچھا کرنے کے لیے کالم کو اوپر سے نیچے پڑھیں۔",
+            "ایک اسٹاپ دیکھنے کے لیے قطار کو ایک طرف سے دوسری طرف پڑھیں۔",
+            "سفر کتنا لمبا ہے یہ معلوم کرنے کے لیے شروع کے وقت سے آگے گنیں۔",
+            "صرف ہندسے نہ گھٹائیں۔",
+            "ایک بس 09:48 پر روانہ ہوتی ہے اور 10:20 پر پہنچتی ہے۔",
+            "10:00 تک پہنچنے کے لیے 12 منٹ آگے گنیں۔",
+            "پھر 20 منٹ اور آگے گنیں۔",
+            "سفر میں 32 منٹ لگتے ہیں۔",
+            "24 گھنٹے کی گھڑی 00:00 سے 23:59 تک چلتی ہے۔",
+            "24 گھنٹے کی گھڑی پر 3 pm کا مطلب 15:00 ہے۔",
+            "کیلنڈر ہر مہینے کے دن دکھاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Reading a timetable",
@@ -488,8 +784,156 @@ window.ASTRA_UNITS["maths-speed"] = {
           "Metres and seconds give metres per second.",
           "If the time is in minutes, change it into a fraction of an hour first.",
           "20 minutes is one third of an hour."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مدى سرعة حركة شيء ما (speed)",
+            "المسافة الكلية مقسومة على الزمن الكلي (average speed)",
+            "كم يبعد ما يقطعه شيء ما (distance)",
+            "ميل في الساعة (mph)",
+            "وحدة سرعة، تُكتب m/s، للمسافات والأزمنة القصيرة (metres per second)"
+          ],
+          "passage": [
+            "السرعة (speed) تخبرك بمدى سرعة حركة شيء ما.",
+            "وهي المسافة المقطوعة في وحدة زمن واحدة.",
+            "سيارة سرعتها 30 km/h تقطع 30 km في ساعة واحدة.",
+            "لتجد السرعة، اقسم المسافة على الزمن.",
+            "السرعة = المسافة ÷ الزمن (Speed = distance ÷ time).",
+            "حافلة تقطع 90 ميلاً في 3 ساعات.",
+            "90 ÷ 3 = 30، إذن سرعتها 30 mph.",
+            "خلال الرحلة تتغيّر السرعة، لذلك نجد السرعة المتوسطة (average speed).",
+            "يجب أن تتوافق الوحدات.",
+            "الأمتار والثواني تعطي متراً في الثانية (m/s).",
+            "إذا كان الزمن بالدقائق، فحوّله أولاً إلى جزء من الساعة.",
+            "20 دقيقة تساوي ثلث ساعة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak szybko coś się porusza (speed)",
+            "całkowita odległość podzielona przez całkowity czas (average speed)",
+            "jak daleko coś się przemieszcza (distance)",
+            "mile na godzinę (mph)",
+            "jednostka prędkości, zapisywana m/s, dla krótkich odległości i czasów (metres per second)"
+          ],
+          "passage": [
+            "Prędkość (speed) mówi ci, jak szybko coś się porusza.",
+            "To odległość przebyta w jednej jednostce czasu.",
+            "Samochód jadący 30 km/h przejeżdża 30 km w jedną godzinę.",
+            "Żeby znaleźć prędkość, podziel odległość przez czas.",
+            "Prędkość = odległość ÷ czas (speed = distance ÷ time).",
+            "Autobus przejeżdża 90 mil w 3 godziny.",
+            "90 ÷ 3 = 30, więc jego prędkość to 30 mph.",
+            "W czasie podróży prędkość się zmienia, więc liczymy prędkość średnią (average speed).",
+            "Jednostki muszą do siebie pasować.",
+            "Metry i sekundy dają metry na sekundę.",
+            "Jeśli czas jest w minutach, najpierw zamień go na część godziny.",
+            "20 minut to jedna trzecia godziny."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a rapidez com que algo se move (speed, velocidade)",
+            "a distância total dividida pelo tempo total (average speed, velocidade média)",
+            "a distância que algo percorre (distance, distância)",
+            "milhas por hora (mph)",
+            "uma unidade de velocidade, escrita m/s, para distâncias e tempos curtos (metres per second, metros por segundo)"
+          ],
+          "passage": [
+            "A velocidade (speed) diz a rapidez com que algo se move.",
+            "É a distância percorrida numa unidade de tempo.",
+            "Um carro a 30 km/h percorre 30 km numa hora.",
+            "Para encontrar a velocidade, divida a distância pelo tempo.",
+            "Velocidade (speed) = distância ÷ tempo.",
+            "Um autocarro/ônibus percorre 90 milhas em 3 horas.",
+            "90 ÷ 3 = 30, por isso a sua velocidade é 30 mph (milhas por hora).",
+            "Ao longo de uma viagem a velocidade muda, por isso calculamos a velocidade média (average speed).",
+            "As unidades têm de combinar.",
+            "Metros e segundos dão metros por segundo.",
+            "Se o tempo está em minutos, mude-o primeiro para uma fração de hora.",
+            "20 minutos são um terço de hora."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida wax u dhaqso badan yihiin (speed)",
+            "masaafada guud oo loo qaybiyay waqtiga guud (average speed)",
+            "inta wax u socdaalo (distance)",
+            "mayl saacaddii (mph)",
+            "halbeeg xawaare, oo loo qoro m/s, oo loogu talagalay masaafooyin iyo waqtiyo gaagaaban (metres per second)"
+          ],
+          "passage": [
+            "Xawaaraha (speed) wuxuu kuu sheegaa sida wax u dhaqso badan yihiin.",
+            "Waa masaafada la socdaalay hal halbeeg waqti.",
+            "Baabuur 30 km/h ku socda 30 km ayuu hal saacad ku maraa.",
+            "Si aad xawaaraha u hesho, masaafada u qaybi waqtiga.",
+            "Xawaare = masaafo ÷ waqti (Speed = distance ÷ time).",
+            "Bas wuxuu 90 mayl ku maraa 3 saacadood.",
+            "90 ÷ 3 = 30, sidaas darteed xawaarihiisu waa 30 mph.",
+            "Socdaal dhexdiis xawaaruhu wuu is beddelaa, sidaas darteed waxaan helnaa xawaaraha celceliska (average speed).",
+            "Halbeegyadu waa inay isku habboonaadaan.",
+            "Haddii aad isticmaasho metres iyo seconds, waxaad heshaa metres per second.",
+            "Haddii waqtigu daqiiqado yahay, marka hore u beddel qayb saacad.",
+            "20 daqiiqo waa saddex-meelood meel saacad."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "наскільки швидко щось рухається (speed)",
+            "загальна відстань, поділена на загальний час (average speed)",
+            "яку відстань щось проходить (distance)",
+            "миль за годину (mph)",
+            "одиниця швидкості, пишеться m/s, для коротких відстаней і проміжків часу (metres per second)"
+          ],
+          "passage": [
+            "Швидкість (speed) говорить вам, наскільки швидко щось рухається.",
+            "Це відстань, пройдена за одну одиницю часу.",
+            "Автомобіль зі швидкістю 30 km/h проїжджає 30 km за одну годину.",
+            "Щоб знайти швидкість, поділіть відстань на час.",
+            "Швидкість = відстань ÷ час.",
+            "Автобус проїжджає 90 миль за 3 години.",
+            "90 ÷ 3 = 30, отже, його швидкість — 30 mph.",
+            "Протягом поїздки швидкість змінюється, тому ми знаходимо середню швидкість (average speed).",
+            "Одиниці мають узгоджуватися.",
+            "Метри й секунди дають метри за секунду.",
+            "Якщо час подано у хвилинах, спочатку переведіть його в частину години.",
+            "20 хвилин — це одна третина години."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کوئی چیز کتنی تیز چلتی ہے (speed)",
+            "کل فاصلہ تقسیم کل وقت (average speed)",
+            "کوئی چیز کتنی دور تک جاتی ہے (distance)",
+            "میل فی گھنٹہ (mph)",
+            "رفتار کی ایک اکائی، جسے m/s لکھا جاتا ہے، چھوٹے فاصلوں اور وقتوں کے لیے (metres per second)"
+          ],
+          "passage": [
+            "رفتار (speed) آپ کو بتاتی ہے کہ کوئی چیز کتنی تیز چلتی ہے۔",
+            "یہ وقت کی ایک اکائی میں طے کیا گیا فاصلہ ہے۔",
+            "30 km/h کی رفتار سے چلتی گاڑی ایک گھنٹے میں 30 km جاتی ہے۔",
+            "رفتار معلوم کرنے کے لیے فاصلے کو وقت سے تقسیم کریں۔",
+            "رفتار برابر ہے فاصلہ تقسیم وقت: Speed = distance ÷ time۔",
+            "ایک بس 3 گھنٹوں میں 90 میل جاتی ہے۔",
+            "90 ÷ 3 = 30، اس لیے اس کی رفتار 30 mph ہے۔",
+            "پورے سفر میں رفتار بدلتی رہتی ہے، اس لیے ہم اوسط رفتار (average speed) معلوم کرتے ہیں۔",
+            "اکائیاں آپس میں میل کھانی چاہییں۔",
+            "میٹر اور سیکنڈ سے میٹر فی سیکنڈ ملتا ہے۔",
+            "اگر وقت منٹوں میں ہو تو پہلے اسے گھنٹے کے حصے (fraction) میں بدلیں۔",
+            "20 منٹ گھنٹے کا ایک تہائی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What speed means",
@@ -678,8 +1122,156 @@ window.ASTRA_UNITS["maths-speed"] = {
           "Check that the units match before you multiply or divide.",
           "Half an hour is 0.5 hours, not 0.3 hours.",
           "For a journey in parts, work out each part and then add."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قاعدة مكتوبة بالكلمات أو الحروف (formula)",
+            "أن تعيد ترتيب القانون لتجد شيئاً مختلفاً (rearrange)",
+            "كم تستمرّ الرحلة (time taken)",
+            "لكل واحد (per)",
+            "كل شيء مجموعاً معاً (total)"
+          ],
+          "passage": [
+            "السرعة والمسافة والزمن مرتبطة ببعضها.",
+            "إذا عرفت اثنَين منها، يمكنك أن تجد الثالث.",
+            "السرعة = المسافة ÷ الزمن (Speed = distance ÷ time).",
+            "المسافة = السرعة × الزمن (Distance = speed × time).",
+            "الزمن = المسافة ÷ السرعة (Time = distance ÷ speed).",
+            "سيارة تسير بسرعة 40 km/h مدة 3 ساعات.",
+            "40 × 3 = 120، إذن تقطع 120 km.",
+            "قارب يقطع 100 km بسرعة 25 km/h.",
+            "100 ÷ 25 = 4، إذن يستغرق 4 ساعات.",
+            "تحقّق من أن الوحدات متوافقة قبل أن تضرب أو تقسم.",
+            "نصف ساعة يساوي 0.5 ساعة، لا 0.3 ساعة.",
+            "للرحلة المكوّنة من أجزاء، احسب كل جزء ثم اجمع."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "reguła zapisana słowami lub literami (formula)",
+            "przekształcić wzór, żeby znaleźć inną wielkość (rearrange)",
+            "jak długo trwa podróż (time taken)",
+            "na każdy, na jeden (per)",
+            "wszystko dodane razem (total)"
+          ],
+          "passage": [
+            "Prędkość, odległość i czas są ze sobą powiązane.",
+            "Jeśli znasz dwie z tych wielkości, możesz znaleźć trzecią.",
+            "Prędkość = odległość ÷ czas (speed = distance ÷ time).",
+            "Odległość = prędkość × czas (distance = speed × time).",
+            "Czas = odległość ÷ prędkość (time = distance ÷ speed).",
+            "Samochód jedzie 40 km/h przez 3 godziny.",
+            "40 × 3 = 120, więc przejeżdża 120 km.",
+            "Łódź płynie 100 km z prędkością 25 km/h.",
+            "100 ÷ 25 = 4, więc zajmuje to 4 godziny.",
+            "Zanim pomnożysz lub podzielisz, sprawdź, czy jednostki do siebie pasują.",
+            "Pół godziny to 0.5 godziny, a nie 0.3 godziny.",
+            "Dla podróży w częściach oblicz każdą część, a potem dodaj."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma regra escrita em palavras ou em letras (formula, fórmula)",
+            "mudar uma fórmula de posição para encontrar outra coisa (rearrange, reorganizar)",
+            "quanto tempo a viagem dura (time taken, tempo gasto)",
+            "por cada (per, por)",
+            "tudo somado (total)"
+          ],
+          "passage": [
+            "A velocidade, a distância e o tempo estão ligados.",
+            "Se você conhece dois deles, pode encontrar o terceiro.",
+            "Velocidade (speed) = distância ÷ tempo.",
+            "Distância (distance) = velocidade × tempo.",
+            "Tempo (time) = distância ÷ velocidade.",
+            "Um carro vai a 40 km/h durante 3 horas.",
+            "40 × 3 = 120, por isso percorre 120 km.",
+            "Um barco percorre 100 km a 25 km/h.",
+            "100 ÷ 25 = 4, por isso demora 4 horas.",
+            "Verifique que as unidades combinam antes de multiplicar ou dividir.",
+            "Meia hora são 0.5 horas, e não 0.3 horas.",
+            "Numa viagem em partes, calcule cada parte e depois some."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xeer erayo ama xarfo lagu qoray (formula)",
+            "formula wareeji si aad wax kale u hesho (rearrange)",
+            "inta socdaalku socdo (time taken)",
+            "mid kasta (per)",
+            "wax walba oo la isku daray (total)"
+          ],
+          "passage": [
+            "Xawaaraha, masaafada iyo waqtigu way isku xiran yihiin.",
+            "Haddii aad laba ka mid ah taqaanno, kan saddexaad waad heli kartaa.",
+            "Xawaare = masaafo ÷ waqti (Speed = distance ÷ time).",
+            "Masaafo = xawaare × waqti (Distance = speed × time).",
+            "Waqti = masaafo ÷ xawaare (Time = distance ÷ speed).",
+            "Baabuur wuxuu ku socdaa 40 km/h 3 saacadood.",
+            "40 × 3 = 120, sidaas darteed wuxuu socdaalaa 120 km.",
+            "Doon waxay 100 km ku martaa 25 km/h.",
+            "100 ÷ 25 = 4, sidaas darteed waxay qaadataa 4 saacadood.",
+            "Hubi in halbeegyadu isku habboon yihiin intaadan ku dhufan ama u qaybin.",
+            "Saacad kala badh waa 0.5 saacadood, ma aha 0.3 saacadood.",
+            "Socdaal qaybo ah, qayb kasta xisaabi kadibna isku dar."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "правило, записане словами або буквами (formula)",
+            "переставити формулу так, щоб знайти іншу величину (rearrange)",
+            "скільки часу триває поїздка (time taken)",
+            "на кожний, за кожну (per)",
+            "усе, додане разом (total)"
+          ],
+          "passage": [
+            "Швидкість, відстань і час пов’язані між собою.",
+            "Якщо ви знаєте дві з них, ви можете знайти третю.",
+            "Швидкість = відстань ÷ час.",
+            "Відстань = швидкість × час.",
+            "Час = відстань ÷ швидкість.",
+            "Автомобіль їде зі швидкістю 40 km/h протягом 3 годин.",
+            "40 × 3 = 120, отже, він проїжджає 120 km.",
+            "Човен пропливає 100 km зі швидкістю 25 km/h.",
+            "100 ÷ 25 = 4, отже, це займає 4 години.",
+            "Перш ніж множити або ділити, перевірте, що одиниці узгоджуються.",
+            "Півгодини — це 0.5 години, а не 0.3 години.",
+            "Для поїздки з кількох частин обчисліть кожну частину, а потім додайте."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لفظوں یا حرفوں میں لکھا ایک قاعدہ (formula)",
+            "فارمولے کو الٹ پلٹ کر کوئی دوسری چیز معلوم کرنا (rearrange)",
+            "سفر کتنی دیر چلتا ہے (time taken)",
+            "ہر ایک کے لیے (per)",
+            "سب کچھ جمع کر کے (total)"
+          ],
+          "passage": [
+            "رفتار، فاصلہ اور وقت آپس میں جڑے ہوئے ہیں۔",
+            "اگر آپ ان میں سے دو جانتے ہیں تو تیسرا معلوم کر سکتے ہیں۔",
+            "رفتار برابر ہے فاصلہ تقسیم وقت: Speed = distance ÷ time۔",
+            "فاصلہ برابر ہے رفتار ضرب وقت: Distance = speed × time۔",
+            "وقت برابر ہے فاصلہ تقسیم رفتار: Time = distance ÷ speed۔",
+            "ایک گاڑی 3 گھنٹے تک 40 km/h کی رفتار سے چلتی ہے۔",
+            "40 × 3 = 120، اس لیے وہ 120 km کا سفر کرتی ہے۔",
+            "ایک کشتی 25 km/h کی رفتار سے 100 km جاتی ہے۔",
+            "100 ÷ 25 = 4، اس لیے اسے 4 گھنٹے لگتے ہیں۔",
+            "ضرب یا تقسیم کرنے سے پہلے جانچ لیں کہ اکائیاں میل کھاتی ہیں۔",
+            "آدھا گھنٹہ 0.5 گھنٹے ہے، 0.3 گھنٹے نہیں۔",
+            "حصوں میں بٹے سفر کے لیے ہر حصہ الگ معلوم کریں اور پھر جمع کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Finding the distance",
@@ -866,8 +1458,150 @@ window.ASTRA_UNITS["maths-speed"] = {
           "Up on the graph means further away, not uphill.",
           "Read the scale carefully on both axes.",
           "One square might be 10 minutes or 5 km."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "رسم بياني يُظهر رحلة، الزمن على المحور الأفقي والمسافة على المحور العمودي (distance–time graph)",
+            "واحد من الخطَّين المرقّمَين في الرسم البياني (axis)",
+            "مستوٍ، يمتدّ بالعرض مستقيماً (horizontal)",
+            "لا يتحرّك (stationary)",
+            "رحلة ذهاباً وإياباً (return journey)"
+          ],
+          "passage": [
+            "الرسم البياني للمسافة والزمن (distance–time graph) يحكي قصة رحلة.",
+            "الزمن يمتدّ على المحور الأفقي في الأسفل.",
+            "والمسافة تصعد على المحور العمودي في الجانب.",
+            "الخط المائل يعني أن الشخص يتحرّك.",
+            "الخط المستوي الأفقي يعني أنه توقّف.",
+            "المسافة لا تتغيّر، إذن هو ساكن (stationary).",
+            "الخط الذي يعود نازلاً إلى الصفر يُظهر العودة إلى البيت.",
+            "الرسم البياني لا يُظهر التلال.",
+            "الصعود في الرسم يعني الابتعاد أكثر، لا الصعود إلى أعلى تلّ.",
+            "اقرأ المقياس بعناية على المحورَين.",
+            "المربّع الواحد قد يساوي 10 دقائق أو 5 km."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wykres, który pokazuje podróż, z czasem na dole i odległością na boku (distance–time graph)",
+            "jedna z dwóch linii z liczbami na wykresie (axis)",
+            "płaski, idący prosto w poprzek (horizontal)",
+            "nieporuszający się (stationary)",
+            "podróż tam i z powrotem (return journey)"
+          ],
+          "passage": [
+            "Wykres odległości od czasu (distance–time graph) opowiada historię podróży.",
+            "Czas idzie wzdłuż dołu.",
+            "Odległość idzie w górę po boku.",
+            "Nachylona linia oznacza, że osoba się porusza.",
+            "Płaska, pozioma linia oznacza, że się zatrzymała.",
+            "Odległość się nie zmienia, więc osoba stoi w miejscu (stationary).",
+            "Linia, która wraca w dół do zera, pokazuje powrót do domu.",
+            "Wykres nie pokazuje wzgórz.",
+            "W górę na wykresie znaczy dalej, a nie pod górę.",
+            "Uważnie czytaj skalę na obu osiach.",
+            "Jedna kratka może być warta 10 minut albo 5 km."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um gráfico que mostra uma viagem, com o tempo em baixo e a distância ao lado (distance–time graph, gráfico distância–tempo)",
+            "uma das duas linhas com números num gráfico (axis, eixo)",
+            "plano, a direito de um lado ao outro (horizontal)",
+            "que não se move (stationary, parado)",
+            "uma viagem de ida e volta (return journey)"
+          ],
+          "passage": [
+            "Um gráfico distância–tempo conta a história de uma viagem.",
+            "O tempo vai ao longo da parte de baixo.",
+            "A distância sobe pelo lado.",
+            "Uma linha inclinada quer dizer que a pessoa está a mover-se/está se movendo.",
+            "Uma linha plana, horizontal, quer dizer que ela parou.",
+            "A distância não está a mudar/não está mudando, por isso ela está parada (stationary).",
+            "Uma linha que volta a descer até zero mostra o regresso a casa.",
+            "O gráfico não mostra montes nem subidas.",
+            "Subir no gráfico quer dizer ‘mais longe’, não ‘a subir uma encosta’.",
+            "Leia a escala com cuidado nos dois eixos.",
+            "Um quadrado pode valer 10 minutos ou 5 km."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "garaaf muujinaya socdaal, waqtigu hoosta ka socdo masaafaduna dhinaca kor uga socoto (distance–time graph)",
+            "mid ka mid ah labada xariiq ee tirooyinka leh ee garaafka (axis)",
+            "fidsan, si toos ah dhinac u socda (horizontal)",
+            "aan dhaqaaqayn (stationary)",
+            "socdaal halkaas tegaya oo mar kale soo noqda (return journey)"
+          ],
+          "passage": [
+            "Garaafka masaafo–waqti (distance–time graph) wuxuu sheegaa sheekada socdaal.",
+            "Waqtigu hoosta ayuu ka socdaa.",
+            "Masaafadu dhinaca ayay kor uga socotaa.",
+            "Xariiq janjeera micnaheedu waa qofku wuu socdaa.",
+            "Xariiq fidsan oo horizontal ah micnaheedu waa way istaageen.",
+            "Masaafadu isma beddelayso, sidaas darteed waa stationary.",
+            "Xariiq eber dib ugu soo degta waxay muujisaa guri ku soo noqosho.",
+            "Garaafku buuro ma muujiyo.",
+            "Kor garaafka micnaheedu waa ka sii fog, ma aha buur kor u fuulid.",
+            "Miisaanka (scale) si taxaddar leh uga akhri labada axes.",
+            "Hal afar-gees wuxuu noqon karaa 10 daqiiqo ama 5 km."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "графік, який показує поїздку: час унизу, відстань збоку вгору (distance–time graph)",
+            "одна з двох ліній із числами на графіку (axis)",
+            "плоский, що йде прямо впоперек (horizontal)",
+            "той, що не рухається (stationary)",
+            "поїздка туди й назад (return journey)"
+          ],
+          "passage": [
+            "Графік відстані–часу (distance–time graph) розповідає історію поїздки.",
+            "Час іде вздовж нижнього краю.",
+            "Відстань іде вгору збоку.",
+            "Похила лінія означає, що людина рухається.",
+            "Плоска, горизонтальна лінія означає, що вона зупинилася.",
+            "Відстань не змінюється, отже, людина стоїть на місці (stationary).",
+            "Лінія, яка повертається вниз до нуля, показує повернення додому.",
+            "Графік не показує пагорбів.",
+            "«Угору» на графіку означає «далі», а не «вгору по схилу».",
+            "Уважно читайте шкалу на обох осях (axes).",
+            "Одна клітинка може означати 10 хвилин або 5 km."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا گراف جو سفر دکھاتا ہے، نیچے وقت اور ایک طرف اوپر کو فاصلہ (distance–time graph)",
+            "گراف پر اعداد والی دو لکیروں میں سے ایک (axis)",
+            "چپٹا، سیدھا ایک طرف سے دوسری طرف جاتا ہوا (horizontal)",
+            "حرکت نہ کرتا ہوا (stationary)",
+            "جانے اور پھر واپس آنے کا سفر (return journey)"
+          ],
+          "passage": [
+            "فاصلہ–وقت گراف (distance–time graph) ایک سفر کی کہانی سناتا ہے۔",
+            "وقت نیچے کی طرف چلتا ہے۔",
+            "فاصلہ ایک طرف اوپر کو جاتا ہے۔",
+            "ڈھلوان لکیر کا مطلب ہے کہ شخص حرکت کر رہا ہے۔",
+            "چپٹی، افقی (horizontal) لکیر کا مطلب ہے کہ وہ رک گئے ہیں۔",
+            "فاصلہ نہیں بدل رہا، اس لیے وہ ساکن (stationary) ہیں۔",
+            "جو لکیر واپس صفر تک نیچے آتی ہے وہ گھر واپسی دکھاتی ہے۔",
+            "گراف پہاڑیاں نہیں دکھاتا۔",
+            "گراف پر اوپر جانے کا مطلب ہے زیادہ دور، چڑھائی نہیں۔",
+            "دونوں محوروں (axes) پر پیمانہ (scale) غور سے پڑھیں۔",
+            "ایک خانہ 10 منٹ یا 5 km کا ہو سکتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The axes and the story",
@@ -1055,8 +1789,150 @@ window.ASTRA_UNITS["maths-speed"] = {
           "A line that rises 20 km in half an hour shows 40 km/h.",
           "For a whole journey, divide the total distance by the total time.",
           "Include any stops in the total time."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تحدّد نقطة على الرسم البياني (plot)",
+            "ما يساويه كل مربّع على المحور (scale)",
+            "يرتفع بحدّة أكبر (steeper)",
+            "جزء واحد من الرحلة (section)",
+            "المسافة الكلية مقسومة على الزمن الكلي (average speed)"
+          ],
+          "passage": [
+            "يمكنك أن ترسم رسماً بيانياً للمسافة والزمن من قصة.",
+            "حدّد الزمن على المحور الأفقي والمسافة على المحور العمودي.",
+            "صِل النقاط بخطوط مستقيمة.",
+            "الاستراحة خط مستوٍ.",
+            "كلما كان الخط أكثر انحداراً، كانت السرعة أكبر.",
+            "الخط المستوي سرعته صفر.",
+            "لتجد سرعة جزء واحد، اقرأ مسافته وزمنه.",
+            "ثم اقسم المسافة على الزمن.",
+            "خط يرتفع 20 km في نصف ساعة يُظهر سرعة 40 km/h.",
+            "للرحلة كلها، اقسم المسافة الكلية على الزمن الكلي.",
+            "أدخل أي توقّفات في الزمن الكلي."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zaznaczyć punkt na wykresie (plot)",
+            "ile jest warta każda kratka na osi (scale)",
+            "wznoszący się bardziej stromo (steeper)",
+            "jedna część podróży (section)",
+            "całkowita odległość podzielona przez całkowity czas (average speed)"
+          ],
+          "passage": [
+            "Możesz narysować wykres odległości od czasu na podstawie opowieści.",
+            "Zaznacz czas wzdłuż dołu, a odległość w górę po boku.",
+            "Połącz punkty prostymi liniami.",
+            "Odpoczynek to płaska linia.",
+            "Im bardziej stroma linia, tym większa prędkość.",
+            "Płaska linia ma prędkość zero.",
+            "Żeby znaleźć prędkość jednej części, odczytaj jej odległość i jej czas.",
+            "Potem podziel odległość przez czas.",
+            "Linia, która wznosi się o 20 km w pół godziny, pokazuje 40 km/h.",
+            "Dla całej podróży podziel całkowitą odległość przez całkowity czas.",
+            "Wlicz wszystkie postoje do całkowitego czasu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "marcar um ponto num gráfico (plot)",
+            "quanto vale cada quadrado num eixo (scale, escala)",
+            "que sobe de forma mais acentuada (steeper, mais inclinado)",
+            "uma parte da viagem (section, secção/seção)",
+            "a distância total dividida pelo tempo total (average speed, velocidade média)"
+          ],
+          "passage": [
+            "Você pode desenhar um gráfico distância–tempo a partir de uma história.",
+            "Marque o tempo ao longo da parte de baixo e a distância pelo lado.",
+            "Ligue os pontos com linhas retas.",
+            "Uma pausa é uma linha plana.",
+            "Quanto mais inclinada a linha, maior a velocidade.",
+            "Uma linha plana tem velocidade zero.",
+            "Para encontrar a velocidade de uma parte, leia a sua distância e o seu tempo.",
+            "Depois divida a distância pelo tempo.",
+            "Uma linha que sobe 20 km em meia hora mostra 40 km/h.",
+            "Para a viagem inteira, divida a distância total pelo tempo total.",
+            "Inclua as paragens/paradas no tempo total."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhibic garaaf ku calaamadee (plot)",
+            "waxa afar-gees kasta oo axis ku yaal u dhigmo (scale)",
+            "si ka fiiqan kor u kaca (steeper)",
+            "hal qayb oo socdaalka (section)",
+            "masaafada guud oo loo qaybiyay waqtiga guud (average speed)"
+          ],
+          "passage": [
+            "Garaaf masaafo–waqti waxaad ka sawiri kartaa sheeko.",
+            "Waqtiga hoosta ku calaamadee (plot), masaafadana dhinaca kor u qaad.",
+            "Dhibcaha isku xir xariiqo toosan.",
+            "Nasasho waa xariiq fidsan.",
+            "Inta xariiqdu ka fiiqan tahay (steeper), xawaaruhu wuu ka dhaqso badan yahay.",
+            "Xariiq fidsan xawaaraheedu waa eber.",
+            "Si aad u hesho xawaaraha hal qayb, akhri masaafadeeda iyo waqtigeeda.",
+            "Kadibna masaafada u qaybi waqtiga.",
+            "Xariiq 20 km kor u kacda saacad kala badh gudaheed waxay muujisaa 40 km/h.",
+            "Socdaal oo dhan, masaafada guud u qaybi waqtiga guud.",
+            "Joogsi kasta waqtiga guud ku dar."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "позначити точку на графіку (plot)",
+            "скільки варта кожна клітинка на осі (scale)",
+            "той, що піднімається крутіше (steeper)",
+            "одна частина поїздки (section)",
+            "загальна відстань, поділена на загальний час (average speed)"
+          ],
+          "passage": [
+            "Ви можете побудувати графік відстані–часу за описом поїздки.",
+            "Відкладіть час уздовж нижнього краю, а відстань — угору збоку.",
+            "З’єднайте точки прямими лініями.",
+            "Відпочинок — це плоска лінія.",
+            "Чим крутіша лінія, тим більша швидкість.",
+            "Плоска лінія має швидкість нуль.",
+            "Щоб знайти швидкість на одній частині, прочитайте її відстань і її час.",
+            "Потім поділіть відстань на час.",
+            "Лінія, яка піднімається на 20 km за півгодини, показує 40 km/h.",
+            "Для всієї поїздки поділіть загальну відстань на загальний час.",
+            "Включіть у загальний час усі зупинки."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "گراف پر ایک نقطہ لگانا (plot)",
+            "محور پر ہر خانہ کتنے کا ہے (scale)",
+            "زیادہ تیزی سے اوپر جاتا ہوا (steeper)",
+            "سفر کا ایک حصہ (section)",
+            "کل فاصلہ تقسیم کل وقت (average speed)"
+          ],
+          "passage": [
+            "آپ کسی کہانی سے فاصلہ–وقت گراف بنا سکتے ہیں۔",
+            "وقت کو نیچے کی طرف اور فاصلے کو ایک طرف اوپر کو لگائیں (plot)۔",
+            "نقطوں کو سیدھی لکیروں سے جوڑیں۔",
+            "آرام کا وقفہ ایک چپٹی لکیر ہے۔",
+            "لکیر جتنی زیادہ ڈھلوان، رفتار اتنی زیادہ۔",
+            "چپٹی لکیر کی رفتار صفر ہے۔",
+            "ایک حصے کی رفتار معلوم کرنے کے لیے اس کا فاصلہ اور اس کا وقت پڑھیں۔",
+            "پھر فاصلے کو وقت سے تقسیم کریں۔",
+            "جو لکیر آدھے گھنٹے میں 20 km اوپر جاتی ہے وہ 40 km/h دکھاتی ہے۔",
+            "پورے سفر کے لیے کل فاصلے کو کل وقت سے تقسیم کریں۔",
+            "کل وقت میں رکنے کے وقفے بھی شامل کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Drawing the graph from a story",

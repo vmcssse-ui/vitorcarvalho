@@ -99,8 +99,162 @@ window.ASTRA_UNITS["maths-perimeter-area"] = {
           "To change a small unit into a big unit, we divide.",
           "So 3 centimetres is 30 millimetres.",
           "And 500 centimetres is 5 metres."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "وحدة طول صغيرة جداً، تُكتب mm (millimetre)",
+            "وحدة طول، تُكتب cm؛ في 1 cm يوجد 10 mm (centimetre)",
+            "وحدة طول، تُكتب m؛ في 1 m يوجد 100 cm (metre)",
+            "وحدة للمسافات الطويلة، تُكتب km؛ 1 km يساوي 1000 m (kilometre)",
+            "أن تغيّر قياساً من وحدة إلى وحدة أخرى (convert)"
+          ],
+          "passage": [
+            "نقيس الطول بالوحدات المترية.",
+            "الوحدات الصغيرة هي المليمترات والسنتيمترات.",
+            "حبّة الأرزّ طولها بضعة مليمترات.",
+            "قلم الرصاص طوله نحو 15 سنتيمتراً.",
+            "الباب ارتفاعه نحو 2 متر.",
+            "المسافات الطويلة تُقاس بالكيلومترات.",
+            "في 1 سنتيمتر يوجد 10 مليمترات.",
+            "في 1 متر يوجد 100 سنتيمتر.",
+            "في 1 كيلومتر يوجد 1000 متر.",
+            "لتحويل وحدة كبيرة إلى وحدة صغيرة، نضرب.",
+            "ولتحويل وحدة صغيرة إلى وحدة كبيرة، نقسم.",
+            "إذن 3 سنتيمترات تساوي 30 مليمتراً.",
+            "و500 سنتيمتر تساوي 5 أمتار."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "bardzo mała jednostka długości, zapisywana mm (millimetre)",
+            "jednostka długości, zapisywana cm; w 1 cm jest 10 mm (centimetre)",
+            "jednostka długości, zapisywana m; w 1 m jest 100 cm (metre)",
+            "jednostka dla długich odległości, zapisywana km; 1 km to 1000 m (kilometre)",
+            "zamienić pomiar z jednej jednostki na inną (convert)"
+          ],
+          "passage": [
+            "Długość mierzymy w jednostkach metrycznych.",
+            "Małe jednostki to milimetry i centymetry.",
+            "Ziarnko ryżu ma kilka milimetrów długości.",
+            "Ołówek ma około 15 centymetrów długości.",
+            "Drzwi mają około 2 metrów wysokości.",
+            "Długie odległości mierzy się w kilometrach.",
+            "W 1 centymetrze jest 10 milimetrów.",
+            "W 1 metrze jest 100 centymetrów.",
+            "W 1 kilometrze jest 1000 metrów.",
+            "Żeby zamienić dużą jednostkę na małą, mnożymy.",
+            "Żeby zamienić małą jednostkę na dużą, dzielimy.",
+            "Więc 3 centymetry to 30 milimetrów.",
+            "A 500 centymetrów to 5 metrów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma unidade de comprimento muito pequena, escrita mm (millimetre, milímetro)",
+            "uma unidade de comprimento, escrita cm; há 10 mm em 1 cm (centimetre, centímetro)",
+            "uma unidade de comprimento, escrita m; há 100 cm em 1 m (metre, metro)",
+            "uma unidade para distâncias longas, escrita km; 1 km são 1000 m (kilometre, quilómetro/quilômetro)",
+            "mudar uma medida de uma unidade para outra (convert, converter)"
+          ],
+          "passage": [
+            "Medimos o comprimento em unidades métricas.",
+            "As unidades pequenas são os milímetros e os centímetros.",
+            "Um grão de arroz tem alguns milímetros de comprimento.",
+            "Um lápis tem cerca de 15 centímetros de comprimento.",
+            "Uma porta tem cerca de 2 metros de altura.",
+            "As distâncias longas medem-se em quilómetros/quilômetros.",
+            "Há 10 milímetros em 1 centímetro.",
+            "Há 100 centímetros em 1 metro.",
+            "Há 1000 metros em 1 quilómetro/quilômetro.",
+            "Para mudar uma unidade grande para uma unidade pequena, multiplicamos.",
+            "Para mudar uma unidade pequena para uma unidade grande, dividimos.",
+            "Por isso, 3 centímetros são 30 milímetros.",
+            "E 500 centímetros são 5 metros."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "halbeeg dherer aad u yar, oo loo qoro mm (millimetre)",
+            "halbeeg dherer, oo loo qoro cm; 1 cm waxaa ku jira 10 mm (centimetre)",
+            "halbeeg dherer, oo loo qoro m; 1 m waxaa ku jira 100 cm (metre)",
+            "halbeeg masaafooyin dhaadheer, oo loo qoro km; 1 km waa 1000 m (kilometre)",
+            "cabbir hal halbeeg uga beddel mid kale (convert)"
+          ],
+          "passage": [
+            "Dhererka waxaan ku cabbirnaa halbeegyada metric.",
+            "Halbeegyada yaryar waa millimetres iyo centimetres.",
+            "Xabbad bariis dhererkeedu waa dhawr millimetres.",
+            "Qalin dhererkiisu waa qiyaastii 15 centimetres.",
+            "Albaab sarajooggiisu waa qiyaastii 2 metres.",
+            "Masaafooyinka dhaadheer waxaa lagu cabbiraa kilometres.",
+            "1 centimetre waxaa ku jira 10 millimetres.",
+            "1 metre waxaa ku jira 100 centimetres.",
+            "1 kilometre waxaa ku jira 1000 metres.",
+            "Si halbeeg weyn loogu beddelo halbeeg yar, waan ku dhufannaa.",
+            "Si halbeeg yar loogu beddelo halbeeg weyn, waan u qaybinnaa.",
+            "Sidaas darteed 3 centimetres waa 30 millimetres.",
+            "500 centimetres-na waa 5 metres."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "дуже маленька одиниця довжини, пишеться mm (millimetre)",
+            "одиниця довжини, пишеться cm; в 1 cm є 10 mm (centimetre)",
+            "одиниця довжини, пишеться m; в 1 m є 100 cm (metre)",
+            "одиниця для великих відстаней, пишеться km; 1 km — це 1000 m (kilometre)",
+            "перевести вимір з однієї одиниці в іншу (convert)"
+          ],
+          "passage": [
+            "Ми вимірюємо довжину в метричних одиницях.",
+            "Маленькі одиниці — це міліметри та сантиметри.",
+            "Зернина рису має кілька міліметрів у довжину.",
+            "Олівець має приблизно 15 сантиметрів у довжину.",
+            "Двері мають приблизно 2 метри у висоту.",
+            "Великі відстані вимірюють у кілометрах.",
+            "В 1 сантиметрі 10 міліметрів.",
+            "В 1 метрі 100 сантиметрів.",
+            "В 1 кілометрі 1000 метрів.",
+            "Щоб перевести велику одиницю в маленьку, ми множимо.",
+            "Щоб перевести маленьку одиницю у велику, ми ділимо.",
+            "Отже, 3 сантиметри — це 30 міліметрів.",
+            "А 500 сантиметрів — це 5 метрів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لمبائی کی ایک بہت چھوٹی اکائی، جسے mm لکھا جاتا ہے (millimetre)",
+            "لمبائی کی ایک اکائی، جسے cm لکھا جاتا ہے؛ 1 cm میں 10 mm ہوتے ہیں (centimetre)",
+            "لمبائی کی ایک اکائی، جسے m لکھا جاتا ہے؛ 1 m میں 100 cm ہوتے ہیں (metre)",
+            "لمبے فاصلوں کی اکائی، جسے km لکھا جاتا ہے؛ 1 km برابر ہے 1000 m (kilometre)",
+            "کسی پیمائش کو ایک اکائی سے دوسری اکائی میں بدلنا (convert)"
+          ],
+          "passage": [
+            "ہم لمبائی کو میٹرک اکائیوں میں ناپتے ہیں۔",
+            "چھوٹی اکائیاں ملی میٹر اور سینٹی میٹر ہیں۔",
+            "چاول کا ایک دانہ کچھ ملی میٹر لمبا ہوتا ہے۔",
+            "ایک پنسل تقریباً 15 سینٹی میٹر لمبی ہوتی ہے۔",
+            "ایک دروازہ تقریباً 2 میٹر اونچا ہوتا ہے۔",
+            "لمبے فاصلے کلومیٹر میں ناپے جاتے ہیں۔",
+            "1 سینٹی میٹر میں 10 ملی میٹر ہوتے ہیں۔",
+            "1 میٹر میں 100 سینٹی میٹر ہوتے ہیں۔",
+            "1 کلومیٹر میں 1000 میٹر ہوتے ہیں۔",
+            "بڑی اکائی کو چھوٹی اکائی میں بدلنے کے لیے ہم ضرب دیتے ہیں۔",
+            "چھوٹی اکائی کو بڑی اکائی میں بدلنے کے لیے ہم تقسیم کرتے ہیں۔",
+            "اس لیے 3 سینٹی میٹر برابر ہے 30 ملی میٹر۔",
+            "اور 500 سینٹی میٹر برابر ہے 5 میٹر۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Choosing a sensible unit",
@@ -285,8 +439,150 @@ window.ASTRA_UNITS["maths-perimeter-area"] = {
           "You work them out from the sides opposite them.",
           "Then you add up every side, including the ones you worked out.",
           "Always write the unit, like cm or m, with your answer."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المسافة حول حافّة الشكل كلها (perimeter)",
+            "شكل مسطّح مغلق مكوّن من أضلاع مستقيمة (polygon)",
+            "مضلّع كل أضلاعه بالطول نفسه (regular polygon)",
+            "شكل مكوّن من شكلَين بسيطَين أو أكثر مضمومَين معاً (compound shape)",
+            "ضلع مستقيم واحد من الشكل (edge)"
+          ],
+          "passage": [
+            "المحيط (perimeter) هو المسافة حول الشكل كله.",
+            "تخيّل نملة تمشي على كل ضلع وتعود إلى نقطة البداية.",
+            "لتجد المحيط، اجمع كل الأضلاع.",
+            "مثلّث أضلاعه 3 cm و4 cm و5 cm محيطه 12 cm.",
+            "المضلّع المنتظم (regular polygon) كل أضلاعه بالطول نفسه.",
+            "لذلك يمكنك أن تضرب ضلعاً واحداً في عدد الأضلاع.",
+            "الشكل المركّب (compound shape) مكوّن من شكلَين بسيطَين أو أكثر مضمومَين معاً.",
+            "بعض أضلاعه غير مكتوب عليها أطوال.",
+            "تستنتجها من الأضلاع المقابلة لها.",
+            "ثم تجمع كل الأضلاع، بما فيها التي استنتجتها.",
+            "اكتب الوحدة دائماً، مثل cm أو m، مع جوابك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "odległość wokół całego brzegu figury (perimeter)",
+            "zamknięta płaska figura zbudowana z prostych boków (polygon)",
+            "wielokąt, którego wszystkie boki mają tę samą długość (regular polygon)",
+            "figura złożona z dwóch lub więcej prostych figur połączonych razem (compound shape)",
+            "jeden prosty bok figury (edge)"
+          ],
+          "passage": [
+            "Obwód (perimeter) to odległość wokół całej figury.",
+            "Wyobraź sobie mrówkę, która idzie wzdłuż każdego boku i wraca na start.",
+            "Żeby znaleźć obwód, dodaj wszystkie boki.",
+            "Trójkąt o bokach 3 cm, 4 cm i 5 cm ma obwód 12 cm.",
+            "Wielokąt foremny (regular polygon) ma boki, które wszystkie są tej samej długości.",
+            "Więc możesz pomnożyć jeden bok przez liczbę boków.",
+            "Figura złożona (compound shape) jest zbudowana z dwóch lub więcej prostych figur połączonych razem.",
+            "Niektóre jej boki nie są podpisane.",
+            "Obliczasz je z boków leżących naprzeciwko.",
+            "Potem dodajesz każdy bok, łącznie z tymi, które obliczyłeś.",
+            "Zawsze zapisuj jednostkę, na przykład cm lub m, przy odpowiedzi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a distância a toda a volta do contorno de uma forma (perimeter, perímetro)",
+            "uma forma plana fechada feita de lados retos (polygon, polígono)",
+            "um polígono com todos os lados do mesmo comprimento (regular polygon, polígono regular)",
+            "uma forma feita de duas ou mais formas simples juntas (compound shape, forma composta)",
+            "um lado reto de uma forma (edge, lado)"
+          ],
+          "passage": [
+            "O perímetro (perimeter) é a distância a toda a volta de uma forma.",
+            "Imagine uma formiga a andar/andando por todos os lados e a voltar ao início.",
+            "Para encontrar o perímetro, some todos os lados.",
+            "Um triângulo com lados de 3 cm, 4 cm e 5 cm tem um perímetro de 12 cm.",
+            "Um polígono regular tem lados todos do mesmo comprimento.",
+            "Por isso, você pode multiplicar um lado pelo número de lados.",
+            "Uma forma composta (compound shape) é feita de duas ou mais formas simples juntas.",
+            "Alguns dos seus lados não têm medida escrita.",
+            "Você descobre-os a partir dos lados opostos a eles.",
+            "Depois some todos os lados, incluindo os que você descobriu.",
+            "Escreva sempre a unidade, como cm ou m, com a sua resposta."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "masaafada geeska qaab oo dhan ku wareegsan (perimeter)",
+            "qaab fidsan oo xiran oo ka samaysan dhinacyo toosan (polygon)",
+            "polygon dhinacyadeeda oo dhan isku dherer yihiin (regular polygon)",
+            "qaab ka samaysan laba ama in ka badan qaabab fudud oo isku xiran (compound shape)",
+            "hal dhinac toosan oo qaab (edge)"
+          ],
+          "passage": [
+            "Perimeter waa masaafada qaab oo dhan ku wareegsan.",
+            "Qiyaas quraanjo ku socota geeso kasta oo ku soo noqota meeshii ay ka bilaabatay.",
+            "Si aad perimeter u hesho, dhinacyada oo dhan isku dar.",
+            "Saddex-xagal dhinacyadeedu yihiin 3 cm, 4 cm iyo 5 cm perimeter-keedu waa 12 cm.",
+            "Regular polygon waxay leedahay dhinacyo dhammaantood isku dherer ah.",
+            "Sidaas darteed hal dhinac ku dhufo tirada dhinacyada.",
+            "Compound shape waxay ka samaysan tahay laba ama in ka badan qaabab fudud oo isku xiran.",
+            "Dhinacyadeeda qaar ma calaamadaysna.",
+            "Waxaad ka soo saartaa dhinacyada ka soo horjeeda.",
+            "Kadibna dhinac kasta isku dar, oo ay ku jiraan kuwa aad soo saartay.",
+            "Mar walba halbeegga, sida cm ama m, jawaabtaada la qor."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "відстань уздовж усього краю фігури (perimeter)",
+            "замкнена плоска фігура з прямих сторін (polygon)",
+            "многокутник, у якого всі сторони однакової довжини (regular polygon)",
+            "фігура, складена з двох або більше простих фігур, з’єднаних разом (compound shape)",
+            "одна пряма сторона фігури (edge)"
+          ],
+          "passage": [
+            "Периметр (perimeter) — це відстань уздовж усього краю фігури.",
+            "Уявіть мурашку, яка йде вздовж кожної сторони і повертається на початок.",
+            "Щоб знайти периметр, додайте всі сторони.",
+            "Трикутник зі сторонами 3 cm, 4 cm і 5 cm має периметр 12 cm.",
+            "У правильного многокутника (regular polygon) всі сторони однакової довжини.",
+            "Тому можна помножити одну сторону на кількість сторін.",
+            "Складена фігура (compound shape) утворена з двох або більше простих фігур, з’єднаних разом.",
+            "Деякі її сторони не підписані.",
+            "Ви обчислюєте їх за сторонами, що лежать навпроти.",
+            "Потім додаєте кожну сторону, включно з тими, які обчислили.",
+            "Завжди пишіть одиницю, наприклад cm або m, біля відповіді."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی شکل کے کنارے کے گرد پورا فاصلہ (perimeter)",
+            "سیدھے اضلاع سے بنی ایک بند چپٹی شکل (polygon)",
+            "ایسا کثیر الاضلاع جس کے سب اضلاع برابر لمبائی کے ہوں (regular polygon)",
+            "دو یا زیادہ سادہ شکلوں کو جوڑ کر بنی شکل (compound shape)",
+            "کسی شکل کا ایک سیدھا ضلع (edge)"
+          ],
+          "passage": [
+            "احاطہ (perimeter) کسی شکل کے گرد پورا فاصلہ ہے۔",
+            "تصور کریں کہ ایک چیونٹی ہر کنارے پر چلتی ہے اور شروع کی جگہ واپس آتی ہے۔",
+            "احاطہ معلوم کرنے کے لیے سب اضلاع جمع کریں۔",
+            "جس تکون کے اضلاع 3 cm، 4 cm اور 5 cm ہوں، اس کا احاطہ 12 cm ہے۔",
+            "باقاعدہ کثیر الاضلاع (regular polygon) کے سب اضلاع برابر لمبائی کے ہوتے ہیں۔",
+            "اس لیے آپ ایک ضلع کو اضلاع کی تعداد سے ضرب دے سکتے ہیں۔",
+            "مرکب شکل (compound shape) دو یا زیادہ سادہ شکلوں کو جوڑ کر بنتی ہے۔",
+            "اس کے کچھ اضلاع پر لمبائی نہیں لکھی ہوتی۔",
+            "آپ انھیں ان کے سامنے والے اضلاع سے معلوم کرتے ہیں۔",
+            "پھر آپ ہر ضلع کو جمع کرتے ہیں، ان کو بھی جو آپ نے خود معلوم کیے۔",
+            "اپنے جواب کے ساتھ ہمیشہ اکائی لکھیں، جیسے cm یا m۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Adding the sides",
@@ -475,8 +771,156 @@ window.ASTRA_UNITS["maths-perimeter-area"] = {
           "The perpendicular height goes straight up from the base, at a right angle.",
           "Do not use the slanted side.",
           "Perimeter is measured in cm, but area is measured in cm²."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مقدار الفراغ داخل الشكل المسطّح (area)",
+            "مربّع طول ضلعه 1 cm؛ الوحدة تُكتب cm² (square centimetre)",
+            "شكل بأربعة أضلاع فيه زوجان من الأضلاع المتوازية (parallelogram)",
+            "الضلع الذي يُقاس منه ارتفاع الشكل (base)",
+            "الارتفاع المقاس بزاوية قائمة على القاعدة (perpendicular height)"
+          ],
+          "passage": [
+            "المساحة (area) هي مقدار الفراغ داخل الشكل المسطّح.",
+            "نقيسها بالوحدات المربّعة، مثل السنتيمتر المربّع.",
+            "السنتيمتر المربّع مربّع طول ضلعه 1 cm.",
+            "نكتبه cm².",
+            "لتجد مساحة المستطيل، اضرب الطول في العرض.",
+            "مستطيل طوله 5 cm وعرضه 3 cm مساحته 15 cm².",
+            "المربّع له أربعة أضلاع متساوية، فاضرب الضلع في نفسه.",
+            "متوازي الأضلاع (parallelogram) يشبه مستطيلاً مائلاً.",
+            "مساحته هي القاعدة (base) مضروبة في الارتفاع العمودي (perpendicular height).",
+            "الارتفاع العمودي يصعد مستقيماً من القاعدة، بزاوية قائمة.",
+            "لا تستعمل الضلع المائل.",
+            "المحيط يُقاس بالـ cm، أما المساحة فتُقاس بالـ cm²."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ilość miejsca wewnątrz płaskiej figury (area)",
+            "kwadrat o bokach 1 cm; jednostka zapisywana cm² (square centimetre)",
+            "czworokąt z dwiema parami boków równoległych (parallelogram)",
+            "bok, od którego mierzy się wysokość figury (base)",
+            "wysokość mierzona pod kątem prostym do podstawy (perpendicular height)"
+          ],
+          "passage": [
+            "Pole (area) to ilość miejsca wewnątrz płaskiej figury.",
+            "Mierzymy je w jednostkach kwadratowych, na przykład w centymetrach kwadratowych.",
+            "Centymetr kwadratowy to kwadrat o bokach 1 cm.",
+            "Zapisujemy go jako cm².",
+            "Żeby znaleźć pole prostokąta, pomnóż długość przez szerokość.",
+            "Prostokąt o długości 5 cm i szerokości 3 cm ma pole 15 cm².",
+            "Kwadrat ma cztery równe boki, więc pomnóż bok przez niego samego.",
+            "Równoległobok (parallelogram) jest jak przechylony prostokąt.",
+            "Jego pole to podstawa razy wysokość (perpendicular height).",
+            "Wysokość idzie prosto w górę od podstawy, pod kątem prostym.",
+            "Nie używaj ukośnego boku.",
+            "Obwód mierzy się w cm, ale pole mierzy się w cm²."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a quantidade de espaço dentro de uma forma plana (area, área)",
+            "um quadrado com lados de 1 cm; a unidade escrita cm² (square centimetre, centímetro quadrado)",
+            "uma forma de quatro lados com dois pares de lados paralelos (parallelogram, paralelogramo)",
+            "o lado a partir do qual se mede a altura de uma forma (base)",
+            "a altura medida em ângulo reto com a base (perpendicular height, altura perpendicular)"
+          ],
+          "passage": [
+            "A área (area) é a quantidade de espaço dentro de uma forma plana.",
+            "Medimo-la em unidades quadradas, como centímetros quadrados.",
+            "Um centímetro quadrado é um quadrado com lados de 1 cm.",
+            "Escrevemo-lo como cm².",
+            "Para encontrar a área de um retângulo, multiplique o comprimento pela largura.",
+            "Um retângulo com 5 cm de comprimento e 3 cm de largura tem uma área de 15 cm².",
+            "Um quadrado tem quatro lados iguais, por isso multiplique o lado por ele mesmo.",
+            "Um paralelogramo (parallelogram) é como um retângulo empurrado para o lado.",
+            "A sua área é a base vezes a altura perpendicular.",
+            "A altura perpendicular sobe a direito a partir da base, em ângulo reto.",
+            "Não use o lado inclinado.",
+            "O perímetro mede-se em cm, mas a área mede-se em cm²."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qaddarka booska ku jira qaab fidsan (area)",
+            "afar-gees dhinacyadeedu 1 cm yihiin; halbeegga loo qoro cm² (square centimetre)",
+            "qaab afar dhinac leh oo leh laba lammaane dhinacyo barbaro ah (parallelogram)",
+            "dhinaca sarajoogga qaabka laga cabbiro (base)",
+            "sarajoogga xagal qumman la cabbiray marka loo eego base-ka (perpendicular height)"
+          ],
+          "passage": [
+            "Area waa qaddarka booska ku jira qaab fidsan.",
+            "Waxaan ku cabbirnaa halbeegyo afar-gees ah, sida square centimetres.",
+            "Square centimetre waa afar-gees dhinacyadeedu 1 cm yihiin.",
+            "Waxaan u qornaa cm².",
+            "Si aad u hesho area-da leydi (rectangle), dhererka ku dhufo ballaca.",
+            "Leydi 5 cm dheer oo 3 cm ballaaran area-deedu waa 15 cm².",
+            "Afar-gees (square) waxay leedahay afar dhinac oo siman, sidaas darteed dhinaca iskii ku dhufo.",
+            "Parallelogram waxay u eg tahay leydi la riixay.",
+            "Area-deedu waa base-ka iyo sarajoogga qumman (perpendicular height) isku dhufashadooda.",
+            "Sarajoogga qummanaa si toos ah ayuu kor uga baxaa base-ka, xagal qumman.",
+            "Ha isticmaalin dhinaca janjeera.",
+            "Perimeter waxaa lagu cabbiraa cm, laakiin area waxaa lagu cabbiraa cm²."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "кількість місця всередині плоскої фігури (area)",
+            "квадрат зі сторонами 1 cm; одиниця, яку пишуть cm² (square centimetre)",
+            "чотирикутник із двома парами паралельних сторін (parallelogram)",
+            "сторона, від якої вимірюють висоту фігури (base)",
+            "висота, виміряна під прямим кутом до основи (perpendicular height)"
+          ],
+          "passage": [
+            "Площа (area) — це кількість місця всередині плоскої фігури.",
+            "Ми вимірюємо її у квадратних одиницях, наприклад у квадратних сантиметрах.",
+            "Квадратний сантиметр — це квадрат зі сторонами 1 cm.",
+            "Ми пишемо його як cm².",
+            "Щоб знайти площу прямокутника, помножте довжину на ширину.",
+            "Прямокутник завдовжки 5 cm і завширшки 3 cm має площу 15 cm².",
+            "У квадрата чотири рівні сторони, тому помножте сторону саму на себе.",
+            "Паралелограм (parallelogram) — це наче прямокутник, який нахилили.",
+            "Його площа — це основа (base), помножена на перпендикулярну висоту (perpendicular height).",
+            "Перпендикулярна висота йде прямо вгору від основи, під прямим кутом.",
+            "Не використовуйте похилу сторону.",
+            "Периметр вимірюють у cm, а площу — у cm²."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی چپٹی شکل کے اندر کی جگہ کی مقدار (area)",
+            "ایک مربع جس کے اضلاع 1 cm ہوں؛ اکائی جسے cm² لکھا جاتا ہے (square centimetre)",
+            "چار اضلاع والی شکل جس میں متوازی اضلاع کے دو جوڑے ہوں (parallelogram)",
+            "وہ ضلع جس سے شکل کی اونچائی ناپی جاتی ہے (base)",
+            "قاعدے سے قائمہ زاویے پر ناپی گئی اونچائی (perpendicular height)"
+          ],
+          "passage": [
+            "رقبہ (area) کسی چپٹی شکل کے اندر کی جگہ کی مقدار ہے۔",
+            "ہم اسے مربع اکائیوں میں ناپتے ہیں، جیسے مربع سینٹی میٹر۔",
+            "مربع سینٹی میٹر ایک مربع ہے جس کے اضلاع 1 cm ہیں۔",
+            "ہم اسے cm² لکھتے ہیں۔",
+            "مستطیل کا رقبہ معلوم کرنے کے لیے لمبائی کو چوڑائی سے ضرب دیں۔",
+            "جو مستطیل 5 cm لمبا اور 3 cm چوڑا ہو، اس کا رقبہ 15 cm² ہے۔",
+            "مربع کے چار برابر اضلاع ہوتے ہیں، اس لیے ضلع کو خود اس سے ضرب دیں۔",
+            "متوازی الاضلاع (parallelogram) ایک طرف دھکیلے ہوئے مستطیل جیسا ہے۔",
+            "اس کا رقبہ قاعدہ (base) ضرب عمودی اونچائی (perpendicular height) ہے۔",
+            "عمودی اونچائی قاعدے سے سیدھی اوپر جاتی ہے، قائمہ زاویے پر۔",
+            "ترچھا ضلع استعمال نہ کریں۔",
+            "احاطہ cm میں ناپا جاتا ہے، مگر رقبہ cm² میں ناپا جاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What area means",
@@ -672,8 +1116,150 @@ window.ASTRA_UNITS["maths-perimeter-area"] = {
           "A triangle with a base of 6 cm and a height of 4 cm has an area of 12 cm².",
           "We say the formula as half of base times height.",
           "Area is always measured in square units, like cm²."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شكل مسطّح له ثلاثة أضلاع مستقيمة (triangle)",
+            "ضلع المثلّث الذي يُقاس منه الارتفاع (base)",
+            "الارتفاع المقاس بزاوية قائمة على القاعدة (perpendicular height)",
+            "واحد من جزأَين متساويَين؛ والتنصيف هو القسمة على 2 (half)",
+            "خط مستقيم من ركن في الشكل إلى الركن المقابل (diagonal)"
+          ],
+          "passage": [
+            "المثلّث نصف مستطيل.",
+            "ارسم مستطيلاً واقطعه على طول قطر (diagonal).",
+            "تحصل على مثلّثَين بالحجم نفسه.",
+            "إذن مساحة المثلّث نصف مساحة المستطيل.",
+            "اضرب أولاً القاعدة في الارتفاع العمودي.",
+            "ثم اقسم على 2.",
+            "الارتفاع العمودي يكون بزاوية قائمة على القاعدة.",
+            "وهو ليس الضلع المائل.",
+            "مثلّث قاعدته 6 cm وارتفاعه 4 cm مساحته 12 cm².",
+            "نقول القانون هكذا: نصف القاعدة في الارتفاع.",
+            "المساحة تُقاس دائماً بالوحدات المربّعة، مثل cm²."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "płaska figura o trzech prostych bokach (triangle)",
+            "bok trójkąta, od którego mierzy się wysokość (base)",
+            "wysokość mierzona pod kątem prostym do podstawy (perpendicular height)",
+            "jedna z dwóch równych części; podzielić na pół to podzielić przez 2 (half)",
+            "prosta linia od jednego rogu figury do przeciwległego rogu (diagonal)"
+          ],
+          "passage": [
+            "Trójkąt to połowa prostokąta.",
+            "Narysuj prostokąt i przecięj go wzdłuż przekątnej (diagonal).",
+            "Otrzymasz dwa trójkąty tej samej wielkości.",
+            "Więc pole trójkąta to połowa pola prostokąta.",
+            "Najpierw pomnóż podstawę przez wysokość.",
+            "Potem podziel przez 2.",
+            "Wysokość (perpendicular height) jest pod kątem prostym do podstawy.",
+            "To nie jest ukośny bok.",
+            "Trójkąt o podstawie 6 cm i wysokości 4 cm ma pole 12 cm².",
+            "Wzór wypowiadamy jako: połowa podstawy razy wysokość.",
+            "Pole zawsze mierzy się w jednostkach kwadratowych, na przykład cm²."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma forma plana com três lados retos (triangle, triângulo)",
+            "o lado do triângulo a partir do qual se mede a altura (base)",
+            "a altura medida em ângulo reto com a base (perpendicular height, altura perpendicular)",
+            "uma de duas partes iguais; dividir ao meio é dividir por 2 (half, metade)",
+            "uma linha reta de um canto de uma forma até um canto oposto (diagonal)"
+          ],
+          "passage": [
+            "Um triângulo é metade de um retângulo.",
+            "Desenhe um retângulo e corte-o ao longo de uma diagonal.",
+            "Você obtém dois triângulos do mesmo tamanho.",
+            "Por isso, a área de um triângulo é metade da área do retângulo.",
+            "Primeiro multiplique a base pela altura perpendicular.",
+            "Depois divida por 2.",
+            "A altura perpendicular está em ângulo reto com a base.",
+            "Não é o lado inclinado.",
+            "Um triângulo com uma base de 6 cm e uma altura de 4 cm tem uma área de 12 cm².",
+            "Dizemos a fórmula como ‘metade da base vezes a altura’.",
+            "A área mede-se sempre em unidades quadradas, como cm²."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qaab fidsan oo leh saddex dhinac oo toosan (triangle)",
+            "dhinaca saddex-xagalka ee sarajoogga laga cabbiro (base)",
+            "sarajoogga xagal qumman la cabbiray marka loo eego base-ka (perpendicular height)",
+            "mid ka mid ah laba qaybood oo siman; kala badh waa 2 u qaybi (half)",
+            "xariiq toosan oo gees qaab ka bilaabata oo gaarta geeska ka soo horjeeda (diagonal)"
+          ],
+          "passage": [
+            "Saddex-xagal (triangle) waa kala badh leydi.",
+            "Leydi sawir oo ku goo diagonal.",
+            "Waxaad heshaa laba saddex-xagal oo isku cabbir ah.",
+            "Sidaas darteed area-da saddex-xagal waa kala badh area-da leydida.",
+            "Marka hore base-ka ku dhufo sarajoogga qumman.",
+            "Kadibna 2 u qaybi.",
+            "Sarajoogga qummanaa xagal qumman ayuu la samaysaa base-ka.",
+            "Ma aha dhinaca janjeera.",
+            "Saddex-xagal base-keedu 6 cm yahay sarajooggeeduna 4 cm yahay area-deedu waa 12 cm².",
+            "Formula-da waxaan u dhahnaa kala badh base-ka iyo sarajoogga isku dhufashadooda.",
+            "Area mar walba waxaa lagu cabbiraa halbeegyo afar-gees ah, sida cm²."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "плоска фігура з трьома прямими сторонами (triangle)",
+            "сторона трикутника, від якої вимірюють висоту (base)",
+            "висота, виміряна під прямим кутом до основи (perpendicular height)",
+            "одна з двох рівних частин; поділити навпіл означає поділити на 2 (half)",
+            "пряма лінія від одного кута фігури до протилежного кута (diagonal)"
+          ],
+          "passage": [
+            "Трикутник — це половина прямокутника.",
+            "Намалюйте прямокутник і розріжте його по діагоналі (diagonal).",
+            "Ви отримаєте два трикутники однакового розміру.",
+            "Отже, площа трикутника — це половина площі прямокутника.",
+            "Спочатку помножте основу на перпендикулярну висоту.",
+            "Потім поділіть на 2.",
+            "Перпендикулярна висота стоїть під прямим кутом до основи.",
+            "Це не похила сторона.",
+            "Трикутник з основою 6 cm і висотою 4 cm має площу 12 cm².",
+            "Ми промовляємо формулу так: половина основи, помноженої на висоту.",
+            "Площу завжди вимірюють у квадратних одиницях, наприклад cm²."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "تین سیدھے اضلاع والی چپٹی شکل (triangle)",
+            "تکون کا وہ ضلع جس سے اونچائی ناپی جاتی ہے (base)",
+            "قاعدے سے قائمہ زاویے پر ناپی گئی اونچائی (perpendicular height)",
+            "دو برابر حصوں میں سے ایک؛ آدھا کرنے کا مطلب ہے 2 سے تقسیم کرنا (half)",
+            "شکل کے ایک کونے سے سامنے والے کونے تک سیدھی لکیر (diagonal)"
+          ],
+          "passage": [
+            "تکون (triangle) مستطیل کا آدھا ہے۔",
+            "ایک مستطیل بنائیں اور اسے وتر (diagonal) کے ساتھ کاٹیں۔",
+            "آپ کو دو تکونیں ملتی ہیں جو ایک ہی سائز کی ہیں۔",
+            "اس لیے تکون کا رقبہ مستطیل کے رقبے کا آدھا ہے۔",
+            "پہلے قاعدے کو عمودی اونچائی سے ضرب دیں۔",
+            "پھر 2 سے تقسیم کریں۔",
+            "عمودی اونچائی قاعدے سے قائمہ زاویے پر ہوتی ہے۔",
+            "یہ ترچھا ضلع نہیں ہے۔",
+            "جس تکون کا قاعدہ 6 cm اور اونچائی 4 cm ہو، اس کا رقبہ 12 cm² ہے۔",
+            "ہم فارمولا یوں بولتے ہیں: قاعدہ ضرب اونچائی کا آدھا۔",
+            "رقبہ ہمیشہ مربع اکائیوں میں ناپا جاتا ہے، جیسے cm²۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Half a rectangle",
@@ -872,8 +1458,156 @@ window.ASTRA_UNITS["maths-perimeter-area"] = {
           "Two identical trapezia fit together to make a parallelogram.",
           "That is why we halve.",
           "Check that every length is in the same unit before you start."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شكل بأربعة أضلاع فيه زوج واحد فقط من الأضلاع المتوازية (trapezium)",
+            "خطّان يبقيان على البُعد نفسه ولا يلتقيان أبداً (parallel)",
+            "المسافة المستقيمة بين الضلعَين المتوازيَين، بزاوية قائمة (perpendicular height)",
+            "الجواب عندما تجمع (sum)",
+            "قاعدة مكتوبة بالحروف تخبرك كيف تحسب شيئاً (formula)"
+          ],
+          "passage": [
+            "شبه المنحرف (trapezium) له أربعة أضلاع.",
+            "ضلعان منها متوازيان.",
+            "والضلعان الآخران ليسا متوازيَين.",
+            "نسمّي الضلعَين المتوازيَين a وb.",
+            "الارتفاع العمودي، h، يمتدّ مستقيماً بينهما.",
+            "لتجد المساحة، اجمع الضلعَين المتوازيَين.",
+            "خذ نصف الجواب.",
+            "ثم اضرب في الارتفاع.",
+            "ضلعان متوازيان 4 cm و6 cm مع ارتفاع 3 cm يعطيان مساحة 15 cm².",
+            "شبها منحرف متطابقان يلتصقان معاً ليكوّنا متوازي أضلاع.",
+            "لهذا السبب نأخذ النصف.",
+            "تحقّق من أن كل الأطوال بالوحدة نفسها قبل أن تبدأ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "czworokąt z dokładnie jedną parą boków równoległych (trapezium)",
+            "dwie linie, które są cały czas w tej samej odległości od siebie i nigdy się nie spotykają (parallel)",
+            "odległość między bokami równoległymi mierzona na wprost, pod kątem prostym (perpendicular height)",
+            "wynik dodawania (sum)",
+            "reguła zapisana literami, która mówi, jak coś obliczyć (formula)"
+          ],
+          "passage": [
+            "Trapez (trapezium) ma cztery boki.",
+            "Dwa jego boki są równoległe.",
+            "Pozostałe dwa boki nie są.",
+            "Boki równoległe nazywamy a i b.",
+            "Wysokość h idzie prosto między nimi.",
+            "Żeby znaleźć pole, dodaj dwa boki równoległe.",
+            "Podziel wynik na pół.",
+            "Potem pomnóż przez wysokość.",
+            "Boki równoległe 4 cm i 6 cm przy wysokości 3 cm dają pole 15 cm².",
+            "Dwa identyczne trapezy pasują do siebie i tworzą równoległobok.",
+            "Dlatego dzielimy na pół.",
+            "Zanim zaczniesz, sprawdź, czy każda długość jest w tej samej jednostce."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma forma de quatro lados com exatamente um par de lados paralelos (trapezium, trapézio)",
+            "duas linhas que ficam sempre à mesma distância e nunca se encontram (parallel, paralelas)",
+            "a distância em linha reta entre os lados paralelos, em ângulo reto (perpendicular height, altura perpendicular)",
+            "a resposta quando você soma (sum, soma)",
+            "uma regra escrita com letras que diz como calcular alguma coisa (formula, fórmula)"
+          ],
+          "passage": [
+            "Um trapézio (trapezium) tem quatro lados.",
+            "Dois dos seus lados são paralelos.",
+            "Os outros dois lados não são.",
+            "Chamamos aos lados paralelos a e b.",
+            "A altura perpendicular, h, vai a direito de um ao outro.",
+            "Para encontrar a área, some os dois lados paralelos.",
+            "Divida a resposta ao meio.",
+            "Depois multiplique pela altura.",
+            "Lados paralelos de 4 cm e 6 cm com uma altura de 3 cm dão uma área de 15 cm².",
+            "Dois trapézios iguais encaixam-se para formar um paralelogramo.",
+            "É por isso que dividimos ao meio.",
+            "Verifique que todos os comprimentos estão na mesma unidade antes de começar."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qaab afar dhinac leh oo leh hal lammaane keliya oo dhinacyo barbaro ah (trapezium)",
+            "laba xariiq oo isku fogaan sii ahaanaya oo weligood aan kulmin (parallel)",
+            "masaafada toos ah ee u dhexaysa dhinacyada barbaro, xagal qumman (perpendicular height)",
+            "jawaabta markaad isku darto (sum)",
+            "xeer xarfo lagu qoray oo kuu sheegaya sida wax loo xisaabiyo (formula)"
+          ],
+          "passage": [
+            "Trapezium waxay leedahay afar dhinac.",
+            "Laba ka mid ah dhinacyadeeda waa barbaro (parallel).",
+            "Labada dhinac ee kale ma aha.",
+            "Dhinacyada barbaro waxaan ugu yeernaa a iyo b.",
+            "Sarajoogga qumman, h, si toos ah ayuu u dhex maraa.",
+            "Si aad area u hesho, labada dhinac ee barbaro isku dar.",
+            "Jawaabta kala badh.",
+            "Kadibna sarajoogga ku dhufo.",
+            "Dhinacyo barbaro ah oo 4 cm iyo 6 cm ah oo sarajooggoodu 3 cm yahay waxay bixiyaan area 15 cm².",
+            "Laba trapezia oo isku mid ah way isku dhegaan si ay u samaystaan parallelogram.",
+            "Taasi waa sababta aan kala badhno.",
+            "Hubi in dherer kastaa isku halbeeg ku jiro intaadan bilaabin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "чотирикутник, у якого рівно одна пара паралельних сторін (trapezium)",
+            "дві лінії, які залишаються на однаковій відстані одна від одної й ніколи не перетинаються (parallel)",
+            "пряма відстань між паралельними сторонами, під прямим кутом (perpendicular height)",
+            "відповідь, яку отримуєш, коли додаєш (sum)",
+            "правило, записане буквами, яке говорить, як щось обчислити (formula)"
+          ],
+          "passage": [
+            "Трапеція (trapezium) має чотири сторони.",
+            "Дві її сторони паралельні (parallel).",
+            "Інші дві — ні.",
+            "Ми називаємо паралельні сторони a і b.",
+            "Перпендикулярна висота h проходить прямо між ними.",
+            "Щоб знайти площу, додайте дві паралельні сторони.",
+            "Поділіть відповідь навпіл.",
+            "Потім помножте на висоту.",
+            "Паралельні сторони 4 cm і 6 cm з висотою 3 cm дають площу 15 cm².",
+            "Дві однакові трапеції складаються разом у паралелограм.",
+            "Саме тому ми ділимо навпіл.",
+            "Перш ніж починати, перевірте, що всі довжини в одній одиниці."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "چار اضلاع والی شکل جس میں متوازی اضلاع کا بالکل ایک جوڑا ہو (trapezium)",
+            "دو لکیریں جو ایک ہی فاصلے پر رہتی ہیں اور کبھی نہیں ملتیں (parallel)",
+            "متوازی اضلاع کے بیچ سیدھا فاصلہ، قائمہ زاویے پر (perpendicular height)",
+            "جمع کرنے پر ملنے والا جواب (sum)",
+            "حرفوں سے لکھا ایک قاعدہ جو بتاتا ہے کہ کوئی چیز کیسے معلوم کریں (formula)"
+          ],
+          "passage": [
+            "ذوزنقہ (trapezium) کے چار اضلاع ہوتے ہیں۔",
+            "اس کے دو اضلاع متوازی (parallel) ہیں۔",
+            "باقی دو اضلاع متوازی نہیں ہیں۔",
+            "ہم متوازی اضلاع کو a اور b کہتے ہیں۔",
+            "عمودی اونچائی، h، ان کے بیچ سیدھی جاتی ہے۔",
+            "رقبہ معلوم کرنے کے لیے دونوں متوازی اضلاع جمع کریں۔",
+            "جواب کو آدھا کریں۔",
+            "پھر اونچائی سے ضرب دیں۔",
+            "4 cm اور 6 cm کے متوازی اضلاع اور 3 cm کی اونچائی سے رقبہ 15 cm² بنتا ہے۔",
+            "دو ایک جیسے ذوزنقے مل کر ایک متوازی الاضلاع بناتے ہیں۔",
+            "اسی لیے ہم آدھا کرتے ہیں۔",
+            "شروع کرنے سے پہلے جانچ لیں کہ ہر لمبائی ایک ہی اکائی میں ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What a trapezium is",
@@ -1071,8 +1805,156 @@ window.ASTRA_UNITS["maths-perimeter-area"] = {
           "A rectangle with sides 5 and a has an area of 5a.",
           "A square with sides of b has an area of b times b, written b².",
           "Only add terms with the same letter."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أعداد وحروف تربطها + أو −، مثل 4a + 6 (expression)",
+            "جزء واحد من العبارة الجبرية (term)",
+            "حدود لها الجزء الحرفي نفسه تماماً (like terms)",
+            "أن تكتب العبارة بأقلّ عدد ممكن من الحدود (simplify)",
+            "رمز يمثّل عدداً لا نعرفه بعد (letter)"
+          ],
+          "passage": [
+            "أحياناً لا يكون الضلع عدداً.",
+            "بل يكون حرفاً، مثل a.",
+            "الحرف يمثّل طولاً لا نعرفه بعد.",
+            "ما زال بإمكاننا أن نكتب المحيط.",
+            "مربّع طول ضلعه a محيطه a + a + a + a.",
+            "نبسّط هذا إلى 4a.",
+            "4a تعني 4 في a.",
+            "مستطيل ضلعاه 3a و2a محيطه 10a.",
+            "للمساحة، نضرب الأطوال.",
+            "مستطيل ضلعاه 5 وa مساحته 5a.",
+            "مربّع طول ضلعه b مساحته b في b، وتُكتب b².",
+            "اجمع فقط الحدود التي لها الحرف نفسه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "liczby i litery połączone znakami + lub −, na przykład 4a + 6 (expression)",
+            "jedna część wyrażenia (term)",
+            "wyrazy z dokładnie taką samą częścią literową (like terms)",
+            "zapisać wyrażenie, używając jak najmniej wyrazów (simplify)",
+            "symbol, który oznacza liczbę, której jeszcze nie znamy (letter)"
+          ],
+          "passage": [
+            "Czasem bok nie jest liczbą.",
+            "Jest literą, na przykład a.",
+            "Litera oznacza długość, której jeszcze nie znamy.",
+            "Nadal możemy zapisać obwód.",
+            "Kwadrat o bokach a ma obwód a + a + a + a.",
+            "Upraszczamy to do 4a.",
+            "4a oznacza 4 razy a.",
+            "Prostokąt o bokach 3a i 2a ma obwód 10a.",
+            "Dla pola mnożymy długości.",
+            "Prostokąt o bokach 5 i a ma pole 5a.",
+            "Kwadrat o bokach b ma pole b razy b, zapisane b².",
+            "Dodawaj tylko wyrazy z tą samą literą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "números e letras ligados por + ou −, como 4a + 6 (expression, expressão)",
+            "uma parte de uma expressão (term, termo)",
+            "termos com exatamente a mesma parte em letras (like terms, termos semelhantes)",
+            "escrever uma expressão com o menor número de termos possível (simplify, simplificar)",
+            "um símbolo que representa um número que ainda não conhecemos (letter, letra)"
+          ],
+          "passage": [
+            "Às vezes um lado não é um número.",
+            "É uma letra, como a.",
+            "A letra representa um comprimento que ainda não conhecemos.",
+            "Mesmo assim podemos escrever o perímetro.",
+            "Um quadrado com lados de a tem um perímetro de a + a + a + a.",
+            "Simplificamos isto para 4a.",
+            "4a quer dizer 4 vezes a.",
+            "Um retângulo com lados 3a e 2a tem um perímetro de 10a.",
+            "Para a área, multiplicamos os comprimentos.",
+            "Um retângulo com lados 5 e a tem uma área de 5a.",
+            "Um quadrado com lados de b tem uma área de b vezes b, escrita b².",
+            "Só some termos com a mesma letra."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tirooyin iyo xarfo ay isku xiraan + ama −, sida 4a + 6 (expression)",
+            "hal qayb oo tibaax (term)",
+            "xubno leh qayb xaraf oo si sax ah isku mid ah (like terms)",
+            "tibaax u qor adigoo isticmaalaya xubno sida ugu yar (simplify)",
+            "calaamad u taagan tiro aynaan weli garanayn (letter)"
+          ],
+          "passage": [
+            "Mararka qaar dhinac tiro ma aha.",
+            "Waa xaraf, sida a.",
+            "Xarafku wuxuu u taagan yahay dherer aynaan weli garanayn.",
+            "Weli perimeter-ka waan qori karnaa.",
+            "Afar-gees dhinacyadeedu a yihiin perimeter-keedu waa a + a + a + a.",
+            "Tan waxaan u fududaynaa (simplify) 4a.",
+            "4a micnaheedu waa 4 jeer a.",
+            "Leydi dhinacyadeedu yihiin 3a iyo 2a perimeter-keedu waa 10a.",
+            "Area, dhererrada ayaan isku dhufannaa.",
+            "Leydi dhinacyadeedu yihiin 5 iyo a area-deedu waa 5a.",
+            "Afar-gees dhinacyadeedu b yihiin area-deedu waa b jeer b, oo loo qoro b².",
+            "Keliya isku dar xubnaha isku xaraf leh."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "числа та букви, з’єднані знаками + або −, наприклад 4a + 6 (expression)",
+            "одна частина виразу (term)",
+            "члени з точно однаковою буквеною частиною (like terms)",
+            "записати вираз якомога меншою кількістю членів (simplify)",
+            "символ, який позначає число, якого ми ще не знаємо (letter)"
+          ],
+          "passage": [
+            "Іноді сторона — це не число.",
+            "Це буква, наприклад a.",
+            "Буква позначає довжину, якої ми ще не знаємо.",
+            "Ми все одно можемо записати периметр.",
+            "Квадрат зі сторонами a має периметр a + a + a + a.",
+            "Ми спрощуємо (simplify) це до 4a.",
+            "4a означає 4 помножити на a.",
+            "Прямокутник зі сторонами 3a і 2a має периметр 10a.",
+            "Для площі ми множимо довжини.",
+            "Прямокутник зі сторонами 5 і a має площу 5a.",
+            "Квадрат зі сторонами b має площу b помножити на b, що записують як b².",
+            "Додавайте лише члени з однаковою буквою."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اعداد اور حرف جو + یا − سے جڑے ہوں، جیسے 4a + 6 (expression)",
+            "عبارت کا ایک حصہ (term)",
+            "ایسے ارکان جن کا حرف والا حصہ بالکل ایک جیسا ہو (like terms)",
+            "عبارت کو جتنے کم ارکان میں ہو سکے لکھنا (simplify)",
+            "ایک علامت جو ایسے عدد کی جگہ کھڑی ہو جو ہمیں ابھی معلوم نہیں (letter)"
+          ],
+          "passage": [
+            "کبھی کبھی ضلع کوئی عدد نہیں ہوتا۔",
+            "یہ ایک حرف ہوتا ہے، جیسے a۔",
+            "حرف ایسی لمبائی کی جگہ کھڑا ہے جو ہمیں ابھی معلوم نہیں۔",
+            "ہم پھر بھی احاطہ لکھ سکتے ہیں۔",
+            "جس مربع کے اضلاع a ہوں، اس کا احاطہ a + a + a + a ہے۔",
+            "ہم اسے سادہ کر کے 4a لکھتے ہیں۔",
+            "4a کا مطلب ہے 4 ضرب a۔",
+            "جس مستطیل کے اضلاع 3a اور 2a ہوں، اس کا احاطہ 10a ہے۔",
+            "رقبے کے لیے ہم لمبائیوں کو ضرب دیتے ہیں۔",
+            "جس مستطیل کے اضلاع 5 اور a ہوں، اس کا رقبہ 5a ہے۔",
+            "جس مربع کے اضلاع b ہوں، اس کا رقبہ b ضرب b ہے، جسے b² لکھا جاتا ہے۔",
+            "صرف ایک ہی حرف والے ارکان جمع کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Letters for lengths, and simplifying",

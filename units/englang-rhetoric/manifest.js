@@ -125,8 +125,168 @@ window.ASTRA_UNITS["englang-rhetoric"] = {
           "Pathos means feeling: move your audience’s emotions.",
           "Together, these three are called the Aristotelian triad.",
           "This term you will study famous speeches, then write your own."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "فنّ الإقناع (rhetoric)",
+            "أن تجعل شخصاً يفكّر في شيء أو يفعله (persuade)",
+            "الثقة بالمتكلّم (ethos)",
+            "المنطق والأسباب والحقائق (logos)",
+            "مخاطبة مشاعر الجمهور (pathos)"
+          ],
+          "passage": [
+            "البلاغة (rhetoric) هي فنّ الإقناع.",
+            "وتعني أن تجعل الناس يفكّرون أو يفعلون ما تريده.",
+            "بدأت البلاغة في أثينا، في اليونان القديمة، قبل أكثر من ألفَي سنة.",
+            "كانت أثينا ديمقراطية، فكان على الرجال أن يتكلّموا جيداً ليفوزوا بالأصوات.",
+            "كان أول معلّمي البلاغة يُسمّون السوفسطائيين (Sophists).",
+            "كان بعض السوفسطائيين يجادلون في أي شيء من أجل المال، حتى لو كان غير صحيح.",
+            "أراد فيلسوف يُسمّى أرسطو أن تكون البلاغة في خدمة الحقيقة.",
+            "كتب كتاباً اسمه «فنّ البلاغة» (The Art of Rhetoric).",
+            "قال إن هناك ثلاث طرق للإقناع.",
+            "الإيثوس (ethos) يعني الثقة: أظهر أنك الشخص المناسب للكلام.",
+            "اللوغوس (logos) يعني المنطق: استعمل الحقائق والأسباب الواضحة.",
+            "الباثوس (pathos) يعني الشعور: حرّك عواطف جمهورك.",
+            "تُسمّى هذه الثلاثة معاً ثالوث أرسطو (Aristotelian triad).",
+            "في هذا الفصل الدراسي ستدرس خطباً مشهورة، ثم تكتب خطبتك الخاصة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sztuka przekonywania (rhetoric)",
+            "sprawić, żeby ktoś coś pomyślał albo zrobił (persuade)",
+            "zaufanie do mówcy (ethos)",
+            "logika, powody i fakty (logos)",
+            "odwołania do uczuć odbiorców (pathos)"
+          ],
+          "passage": [
+            "Retoryka (rhetoric) to sztuka przekonywania.",
+            "Oznacza sprawianie, żeby ludzie myśleli lub robili to, czego chcesz.",
+            "Retoryka zaczęła się w Atenach, w starożytnej Grecji, ponad dwa tysiące lat temu.",
+            "Ateny były demokracją, więc mężczyźni musieli dobrze mówić, żeby zdobyć głosy.",
+            "Pierwsi nauczyciele retoryki nazywali się sofistami (Sophists).",
+            "Niektórzy sofiści dowodzili czegokolwiek za pieniądze, nawet jeśli to była nieprawda.",
+            "Filozof o imieniu Arystoteles chciał, żeby retoryka służyła prawdzie.",
+            "Napisał książkę zatytułowaną The Art of Rhetoric (Retoryka).",
+            "Powiedział, że są trzy sposoby przekonywania.",
+            "Ethos oznacza zaufanie: pokaż, że jesteś właściwą osobą, żeby mówić.",
+            "Logos oznacza logikę: używaj faktów i jasnych powodów.",
+            "Pathos oznacza uczucie: porusz emocje odbiorców.",
+            "Razem te trzy nazywa się triadą Arystotelesa (Aristotelian triad).",
+            "W tym semestrze poznasz słynne przemowy, a potem napiszesz własną."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a arte de persuadir (rhetoric, retórica)",
+            "fazer alguém pensar ou fazer alguma coisa (persuade, persuadir)",
+            "confiança em quem fala (ethos)",
+            "lógica, razões e factos/fatos (logos)",
+            "apelos aos sentimentos do público (pathos)"
+          ],
+          "passage": [
+            "A retórica (rhetoric) é a arte de persuadir.",
+            "Quer dizer levar as pessoas a pensar ou a fazer o que você quer.",
+            "A retórica começou em Atenas, na Grécia antiga, há mais de dois mil anos.",
+            "Atenas era uma democracia, por isso os homens tinham de falar bem para ganhar votos.",
+            "Os primeiros professores de retórica chamavam-se sofistas (Sophists).",
+            "Alguns sofistas defendiam qualquer coisa por dinheiro, mesmo que fosse falsa.",
+            "Um filósofo chamado Aristóteles queria que a retórica servisse a verdade.",
+            "Ele escreveu um livro chamado The Art of Rhetoric (A Arte da Retórica).",
+            "Ele disse que há três maneiras de persuadir.",
+            "Ethos quer dizer confiança: mostre que você é a pessoa certa para falar.",
+            "Logos quer dizer lógica: use factos/fatos e razões claras.",
+            "Pathos quer dizer sentimento: mexa com as emoções do seu público.",
+            "Juntas, estas três maneiras chamam-se a tríade aristotélica (Aristotelian triad).",
+            "Neste período você vai estudar discursos famosos e depois escrever o seu."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "farshaxanka qancinta (rhetoric)",
+            "qof ka dhig inuu wax ka fikiro ama sameeyo (persuade)",
+            "kalsoonida hadlaha (ethos)",
+            "caqli-gal, sababo iyo xaqiiqooyin (logos)",
+            "baaqyo dareenka dhegaystayaasha taabta (pathos)"
+          ],
+          "passage": [
+            "Rhetoric waa farshaxanka qancinta.",
+            "Micnaheedu waa in dadka ka dhigto inay fikiraan ama sameeyaan waxa aad doonayso.",
+            "Rhetoric waxay ka bilaabatay Athens, Giriiggii hore, in ka badan laba kun oo sano ka hor.",
+            "Athens waxay ahayd dimuqraadiyad, sidaas darteed raggu waa inay si fiican u hadlaan si ay codad u helaan.",
+            "Macallimiintii ugu horreysay ee rhetoric waxaa loo yaqaannay Sophists.",
+            "Sophists qaarkood wax kasta lacag ayay ku doodi jireen, xitaa haddii aanay run ahayn.",
+            "Filasoof la yiraahdo Aristotle wuxuu doonayay in rhetoric runta u adeegto.",
+            "Wuxuu qoray buug la yiraahdo The Art of Rhetoric.",
+            "Wuxuu yiri waxaa jira saddex siyaabood oo lagu qanciyo.",
+            "Ethos micnaheedu waa kalsooni: muuji inaad tahay qofka saxda ah ee hadlaya.",
+            "Logos micnaheedu waa caqli-gal: isticmaal xaqiiqooyin iyo sababo cad.",
+            "Pathos micnaheedu waa dareen: dareenka dhegaystayaashaada taabo.",
+            "Saddexdan oo wada waxaa loo yaqaan Aristotelian triad.",
+            "Xilli-dugsiyeedkan waxaad baran doontaa khudbado caan ah, kadibna adigu mid ayaad qori doontaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мистецтво переконання (rhetoric)",
+            "змусити когось думати або робити щось (persuade)",
+            "довіра до того, хто говорить (ethos)",
+            "логіка, причини та факти (logos)",
+            "звернення до почуттів аудиторії (pathos)"
+          ],
+          "passage": [
+            "Риторика (rhetoric) — це мистецтво переконання.",
+            "Це означає домогтися, щоб люди думали або робили те, чого ви хочете.",
+            "Риторика зародилася в Афінах, у Стародавній Греції, понад дві тисячі років тому.",
+            "Афіни були демократією, тому чоловіки мали добре говорити, щоб здобути голоси.",
+            "Перших учителів риторики називали софістами (Sophists).",
+            "Деякі софісти за гроші доводили що завгодно, навіть неправду.",
+            "Філософ на ім’я Арістотель хотів, щоб риторика служила істині.",
+            "Він написав книгу під назвою «Риторика» (The Art of Rhetoric).",
+            "Він сказав, що є три способи переконувати.",
+            "Етос (ethos) означає довіру: покажіть, що ви саме та людина, яка має говорити.",
+            "Логос (logos) означає логіку: використовуйте факти та зрозумілі причини.",
+            "Патос (pathos) означає почуття: зворушіть емоції аудиторії.",
+            "Разом ці три називаються тріадою Арістотеля (Aristotelian triad).",
+            "Цього семестру ви вивчатимете відомі промови, а потім напишете власну."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "قائل کرنے کا فن (rhetoric)",
+            "کسی کو کچھ سوچنے یا کرنے پر لانا (persuade)",
+            "بولنے والے پر بھروسا (ethos)",
+            "منطق، وجوہات اور حقائق (logos)",
+            "سننے والوں کے جذبات سے اپیل (pathos)"
+          ],
+          "passage": [
+            "خطابت (rhetoric) قائل کرنے کا فن ہے۔",
+            "اس کا مطلب ہے لوگوں کو وہ سوچنے یا کرنے پر لانا جو آپ چاہتے ہیں۔",
+            "خطابت کی شروعات قدیم یونان کے شہر ایتھنز میں، دو ہزار سال سے زیادہ پہلے ہوئی۔",
+            "ایتھنز ایک جمہوریت تھا، اس لیے مردوں کو ووٹ جیتنے کے لیے اچھا بولنا پڑتا تھا۔",
+            "خطابت کے پہلے استادوں کو Sophists کہا جاتا تھا۔",
+            "کچھ Sophists پیسوں کے لیے کسی بھی بات کی دلیل دے دیتے تھے، چاہے وہ جھوٹ ہو۔",
+            "ارسطو (Aristotle) نامی ایک فلسفی چاہتا تھا کہ خطابت سچ کی خدمت کرے۔",
+            "اس نے The Art of Rhetoric نامی ایک کتاب لکھی۔",
+            "اس نے کہا کہ قائل کرنے کے تین طریقے ہیں۔",
+            "Ethos کا مطلب ہے بھروسا: دکھائیں کہ آپ بولنے کے لیے صحیح شخص ہیں۔",
+            "Logos کا مطلب ہے منطق: حقائق اور صاف وجوہات استعمال کریں۔",
+            "Pathos کا مطلب ہے احساس: اپنے سننے والوں کے جذبات کو جگائیں۔",
+            "یہ تینوں مل کر Aristotelian triad کہلاتے ہیں۔",
+            "اس ٹرم میں آپ مشہور تقریریں پڑھیں گے، پھر اپنی تقریر لکھیں گے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Where rhetoric began",
           paragraphs: [
@@ -266,8 +426,168 @@ window.ASTRA_UNITS["englang-rhetoric"] = {
           "A good analogy makes an unfamiliar idea feel familiar.",
           "A bad analogy can be unfair or confusing.",
           "Choose yours carefully."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الإقناع بالمنطق والحقائق (logos)",
+            "شيء يمكن التحقّق منه وإثبات صحّته (fact)",
+            "مقارنة تشرح شيئاً ما (analogy)",
+            "أن تقول إن شيئاً يشبه شيئاً آخر (simile)",
+            "معروف جيداً، يسهل تمييزه (familiar)"
+          ],
+          "passage": [
+            "اللوغوس (logos) يعني الإقناع بالمنطق والعقل.",
+            "تبني اللوغوس بالحقائق والإحصائيات والحجج الواضحة.",
+            "من الأدوات القوية للوغوس القياس (analogy).",
+            "القياس يقارن بين شيئَين ليشرح أحدهما.",
+            "وهو يربط شيئاً جديداً بشيء يعرفه الجمهور من قبل.",
+            "التشبيه (simile) يقول فقط إن شيئاً يشبه شيئاً آخر.",
+            "أما القياس فيذهب أبعد من ذلك ويقدّم فكرة تشرح شيئاً.",
+            "في فيلم شريك (Shrek)، يقول الغول إن الغيلان مثل البصل.",
+            "فكلاهما له طبقات، ولذلك يفهمه الحمار (Donkey).",
+            "يستعمل الكتّاب أيضاً القياسات التاريخية.",
+            "فيقارنون حدثاً جديداً بحدث مشهور من الماضي.",
+            "القياس الجيد يجعل الفكرة الغريبة تبدو مألوفة.",
+            "والقياس السيّئ قد يكون غير عادل أو مربكاً.",
+            "اختر قياسك بعناية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przekonywanie przez logikę i fakty (logos)",
+            "coś, co można sprawdzić i wykazać, że jest prawdą (fact)",
+            "porównanie, które coś wyjaśnia (analogy)",
+            "powiedzenie, że jedna rzecz jest jak inna (simile)",
+            "dobrze znany, łatwy do rozpoznania (familiar)"
+          ],
+          "passage": [
+            "Logos oznacza przekonywanie logiką i rozumem.",
+            "Budujesz logos z faktów, statystyk i jasnych argumentów.",
+            "Jednym z potężnych narzędzi logosu jest analogia (analogy).",
+            "Analogia porównuje dwie rzeczy, żeby jedną z nich wyjaśnić.",
+            "Łączy coś nowego z czymś, co odbiorcy już znają.",
+            "Porównanie (simile) mówi tylko, że jedna rzecz jest jak inna.",
+            "Analogia idzie dalej i przekazuje myśl, która coś wyjaśnia.",
+            "W filmie Shrek ogr mówi, że ogry są jak cebule.",
+            "Oba mają warstwy, więc Osioł go rozumie.",
+            "Pisarze używają też analogii historycznych.",
+            "Porównują nowe zdarzenie ze słynnym zdarzeniem z przeszłości.",
+            "Dobra analogia sprawia, że nieznana myśl wydaje się znajoma.",
+            "Zła analogia może być nieuczciwa albo myląca.",
+            "Wybieraj swoje uważnie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "persuasão pela lógica e pelos factos/fatos (logos)",
+            "algo que pode ser verificado e mostrado como verdadeiro (fact, facto/fato)",
+            "uma comparação que explica alguma coisa (analogy, analogia)",
+            "dizer que uma coisa é como outra (simile, comparação)",
+            "bem conhecido, fácil de reconhecer (familiar)"
+          ],
+          "passage": [
+            "Logos quer dizer persuadir com lógica e razão.",
+            "Você constrói o logos com factos/fatos, estatísticas e argumentos claros.",
+            "Uma ferramenta poderosa para o logos é a analogia (analogy).",
+            "Uma analogia compara duas coisas para explicar uma delas.",
+            "Liga algo novo a algo que o público já conhece.",
+            "Uma comparação (simile) só diz que uma coisa é como outra.",
+            "Uma analogia vai mais longe e faz uma explicação.",
+            "No filme Shrek, o ogro diz que os ogros são como cebolas.",
+            "Os dois têm camadas, e por isso o Burro entende o que ele quer dizer.",
+            "Os escritores também usam analogias históricas.",
+            "Comparam um acontecimento novo com um acontecimento famoso do passado.",
+            "Uma boa analogia faz uma ideia estranha parecer familiar.",
+            "Uma analogia má pode ser injusta ou confusa.",
+            "Escolha a sua com cuidado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qancin caqli-gal iyo xaqiiqooyin ku dhisan (logos)",
+            "wax la hubin karo oo la tusi karo inuu run yahay (fact)",
+            "isbarbardhig wax sharraxaya (analogy)",
+            "in la yiraahdo wax uun wuxuu u eg yahay wax kale (simile)",
+            "si fiican loo yaqaan, fudud in la garto (familiar)"
+          ],
+          "passage": [
+            "Logos micnaheedu waa in lagu qanciyo caqli-gal iyo sabab.",
+            "Logos waxaad ku dhistaa xaqiiqooyin, tiro-koobyo iyo doodo cad.",
+            "Mid ka mid ah qalabka xoogga badan ee logos waa analogy.",
+            "Analogy waxay isbarbar dhigtaa laba wax si ay mid ka mid ah u sharraxdo.",
+            "Waxay isku xirtaa wax cusub iyo wax dhegaystayaashu horey u yaqaannaan.",
+            "Simile keliya waxay sheegtaa in wax uun u eg yahay wax kale.",
+            "Analogy way sii fogaataa, waxayna sharraxaad ka bixisaa.",
+            "Filimka Shrek, ogre-ku wuxuu yiri ogres-ku waxay u eg yihiin basal.",
+            "Labaduba lakabyo ayay leeyihiin, sidaas darteed Donkey wuu fahmay.",
+            "Qorayaashu sidoo kale waxay isticmaalaan analogies taariikhi ah.",
+            "Dhacdo cusub ayay isbarbar dhigaan dhacdo caan ah oo wakhti hore dhacday.",
+            "Analogy wanaagsan waxay fikrad aan la aqoon ka dhigtaa mid la yaqaan.",
+            "Analogy xun waxay noqon kartaa mid cadaalad darro ah ama wareer keenta.",
+            "Taada si taxaddar leh u dooro."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "переконання через логіку та факти (logos)",
+            "те, що можна перевірити й показати, що це правда (fact)",
+            "порівняння, яке щось пояснює (analogy)",
+            "сказати, що одна річ схожа на іншу (simile)",
+            "добре відомий, легко впізнаваний (familiar)"
+          ],
+          "passage": [
+            "Логос (logos) означає переконувати логікою та розумом.",
+            "Ви будуєте логос за допомогою фактів, статистики та зрозумілих аргументів.",
+            "Один сильний засіб для логосу — це аналогія (analogy).",
+            "Аналогія порівнює дві речі, щоб пояснити одну з них.",
+            "Вона пов’язує щось нове з тим, що аудиторія вже знає.",
+            "Порівняння (simile) лише каже, що одна річ схожа на іншу.",
+            "Аналогія йде далі й робить пояснювальний висновок.",
+            "У фільмі «Шрек» огр каже, що огри схожі на цибулю.",
+            "В обох є шари, тому Віслюк його розуміє.",
+            "Автори також використовують історичні аналогії.",
+            "Вони порівнюють нову подію з відомою подією з минулого.",
+            "Добра аналогія робить незнайому ідею знайомою.",
+            "Погана аналогія може бути несправедливою або заплутаною.",
+            "Обирайте свою уважно."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "منطق اور حقائق کے ذریعے قائل کرنا (logos)",
+            "ایسی بات جسے جانچ کر سچ دکھایا جا سکے (fact)",
+            "ایک موازنہ جو کسی چیز کی وضاحت کرے (analogy)",
+            "یہ کہنا کہ ایک چیز دوسری جیسی ہے (simile)",
+            "اچھی طرح معلوم، آسانی سے پہچانا جانے والا (familiar)"
+          ],
+          "passage": [
+            "Logos کا مطلب ہے منطق اور دلیل سے قائل کرنا۔",
+            "آپ logos کو حقائق، شماریاتی اعداد اور صاف دلیلوں سے بناتے ہیں۔",
+            "logos کا ایک طاقتور آلہ مثال سے موازنہ (analogy) ہے۔",
+            "Analogy دو چیزوں کا موازنہ کرتی ہے تا کہ ان میں سے ایک کی وضاحت ہو۔",
+            "یہ کسی نئی چیز کو اس چیز سے جوڑتی ہے جو سننے والے پہلے سے جانتے ہیں۔",
+            "تشبیہ (simile) صرف یہ کہتی ہے کہ ایک چیز دوسری جیسی ہے۔",
+            "Analogy اس سے آگے جاتی ہے اور وضاحت کا نکتہ بناتی ہے۔",
+            "فلم Shrek میں دیو کہتا ہے کہ دیو پیاز جیسے ہوتے ہیں۔",
+            "دونوں میں تہیں ہوتی ہیں، اس لیے Donkey اس کی بات سمجھ جاتا ہے۔",
+            "مصنف تاریخی analogies بھی استعمال کرتے ہیں۔",
+            "وہ کسی نئے واقعے کا موازنہ ماضی کے کسی مشہور واقعے سے کرتے ہیں۔",
+            "اچھی analogy کسی انجان خیال کو جانا پہچانا بنا دیتی ہے۔",
+            "بری analogy ناانصافی یا الجھن پیدا کر سکتی ہے۔",
+            "اپنی analogy سوچ سمجھ کر چنیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "How logos is built",
           paragraphs: [
@@ -418,8 +738,168 @@ window.ASTRA_UNITS["englang-rhetoric"] = {
           "An imperative is a command.",
           "Hyperbole is exaggeration that is not meant literally.",
           "An analogy compares two things to explain one of them."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قصة قصيرة عن حدث حقيقي أو شخص حقيقي (anecdote)",
+            "قائمة من ثلاث كلمات أو عبارات متوازية (tricolon)",
+            "تكرار الكلمات نفسها في بداية الجمل (anaphora)",
+            "أمر (imperative)",
+            "الكلام مباشرة إلى الجمهور (direct address)"
+          ],
+          "passage": [
+            "الأساليب البلاغية (rhetorical methods) هي الأدوات التي يستعملها المتكلّم ليُقنع.",
+            "يدرس صفّك اثني عشر أسلوباً منها.",
+            "الحكاية القصيرة (anecdote) قصة قصيرة عن حدث حقيقي أو شخص حقيقي.",
+            "السؤال البلاغي (rhetorical question) لا يحتاج إلى جواب.",
+            "اللغة العاطفية (emotive language) تجعل الجمهور يشعر بعاطفة ما.",
+            "الإحصائيات (statistics) حقائق أو بيانات من دراسة.",
+            "الثلاثية (tricolon) قائمة من ثلاث كلمات أو عبارات متوازية.",
+            "الحكمة (maxim) عبارة قصيرة عن حقيقة عامة.",
+            "الرأي (opinion) وجهة نظر قد لا تستند إلى حقيقة.",
+            "الخطاب المباشر (direct address) يتكلّم مباشرة إلى الجمهور، وغالباً بكلمة «أنت» (you).",
+            "التكرار الاستهلالي (anaphora) يكرّر الكلمات نفسها في بداية عدّة جمل.",
+            "صيغة الأمر (imperative) هي أمر.",
+            "المبالغة (hyperbole) تضخيم لا يُقصد به المعنى الحرفي.",
+            "القياس (analogy) يقارن بين شيئَين ليشرح أحدهما."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "krótka historia o prawdziwym zdarzeniu lub osobie (anecdote)",
+            "lista trzech równoległych słów lub wyrażeń (tricolon)",
+            "powtarzanie tych samych słów na początku zdań (anaphora)",
+            "rozkaz (imperative)",
+            "mówienie wprost do odbiorców (direct address)"
+          ],
+          "passage": [
+            "Metody retoryczne to narzędzia, których mówca używa, żeby przekonywać.",
+            "Twoja klasa poznaje dwanaście z nich.",
+            "Anegdota (anecdote) to krótka historia o prawdziwym zdarzeniu lub osobie.",
+            "Pytanie retoryczne nie potrzebuje odpowiedzi.",
+            "Język emocjonalny (emotive language) sprawia, że odbiorcy czują emocję.",
+            "Statystyki to fakty lub dane z badania.",
+            "Trikolon (tricolon) to lista trzech równoległych słów lub wyrażeń.",
+            "Maksyma (maxim) to krótkie stwierdzenie ogólnej prawdy.",
+            "Opinia to pogląd, który może nie opierać się na faktach.",
+            "Bezpośredni zwrot (direct address) mówi wprost do odbiorców, często przez „you”.",
+            "Anafora (anaphora) powtarza te same słowa na początku kilku zdań.",
+            "Tryb rozkazujący (imperative) to rozkaz.",
+            "Hiperbola (hyperbole) to wyolbrzymienie, którego nie należy brać dosłownie.",
+            "Analogia porównuje dwie rzeczy, żeby jedną z nich wyjaśnić."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma história curta sobre um acontecimento ou uma pessoa real (anecdote, anedota)",
+            "uma lista de três palavras ou expressões paralelas (tricolon)",
+            "repetir as mesmas palavras no início das frases (anaphora, anáfora)",
+            "uma ordem (imperative, imperativo)",
+            "falar diretamente com o público (direct address)"
+          ],
+          "passage": [
+            "Os métodos retóricos são as ferramentas que quem fala usa para persuadir.",
+            "A sua turma estuda doze deles.",
+            "Uma anedota (anecdote) é uma história curta sobre um acontecimento ou uma pessoa real.",
+            "Uma pergunta retórica não precisa de resposta.",
+            "A linguagem emotiva faz o público sentir uma emoção.",
+            "As estatísticas são factos/fatos ou dados de um estudo.",
+            "Um tricolon é uma lista de três palavras ou expressões paralelas.",
+            "Uma máxima (maxim) é uma afirmação curta de uma verdade geral.",
+            "Uma opinião é um ponto de vista que pode não se basear em factos/fatos.",
+            "O direct address fala diretamente com o público, muitas vezes com ‘you’.",
+            "A anáfora (anaphora) repete as mesmas palavras no início de várias frases.",
+            "Um imperativo é uma ordem.",
+            "A hipérbole (hyperbole) é um exagero que não deve ser entendido à letra.",
+            "Uma analogia compara duas coisas para explicar uma delas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sheeko gaaban oo ku saabsan dhacdo ama qof dhab ah (anecdote)",
+            "liis saddex eray ama weedho isku qaab ah (tricolon)",
+            "ku celcelinta isku erayo bilowga weedhaha (anaphora)",
+            "amar (imperative)",
+            "si toos ah ula hadlidda dhegaystayaasha (direct address)"
+          ],
+          "passage": [
+            "Hababka rhetoric (rhetorical methods) waa qalabka hadluhu u isticmaalo qancinta.",
+            "Fasalkaagu laba iyo toban ka mid ah ayuu baranayaa.",
+            "Anecdote waa sheeko gaaban oo ku saabsan dhacdo ama qof dhab ah.",
+            "Su'aal rhetoric ah (rhetorical question) jawaab uma baahna.",
+            "Luqad dareen kicisa (emotive language) waxay dhegaystayaasha ka dhigtaa inay dareen qabaan.",
+            "Tiro-koobyo (statistics) waa xaqiiqooyin ama xog daraasad ka soo baxday.",
+            "Tricolon waa liis saddex eray ama weedho isku qaab ah.",
+            "Maxim waa weedh gaaban oo sheegaysa run guud.",
+            "Ra'yi (opinion) waa aragti aan xaqiiqo ku dhisnayn karin.",
+            "Direct address si toos ah ayay ula hadashaa dhegaystayaasha, badanaa iyadoo isticmaalaysa 'you'.",
+            "Anaphora waxay ku celcelisaa isku erayo bilowga dhawr weedhood.",
+            "Imperative waa amar.",
+            "Hyperbole waa buunbuunin aan loola jeedin si dhab ah.",
+            "Analogy waxay isbarbar dhigtaa laba wax si ay mid ka mid ah u sharraxdo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "коротка історія про справжню подію або людину (anecdote)",
+            "перелік із трьох паралельних слів або фраз (tricolon)",
+            "повторення тих самих слів на початку речень (anaphora)",
+            "наказ (imperative)",
+            "пряме звернення до аудиторії (direct address)"
+          ],
+          "passage": [
+            "Риторичні прийоми (rhetorical methods) — це засоби, якими промовець переконує.",
+            "Ваш клас вивчає дванадцять із них.",
+            "Анекдот (anecdote) — це коротка історія про справжню подію або людину.",
+            "Риторичне запитання (rhetorical question) не потребує відповіді.",
+            "Емоційна мова (emotive language) змушує аудиторію відчути емоцію.",
+            "Статистика (statistics) — це факти або дані з дослідження.",
+            "Триколон (tricolon) — це перелік із трьох паралельних слів або фраз.",
+            "Максима (maxim) — це коротке висловлення загальної істини.",
+            "Думка (opinion) — це погляд, який може не спиратися на факти.",
+            "Пряме звернення (direct address) говорить прямо до аудиторії, часто через «ви».",
+            "Анафора (anaphora) повторює ті самі слова на початку кількох речень.",
+            "Імператив (imperative) — це наказ.",
+            "Гіпербола (hyperbole) — це перебільшення, яке не слід розуміти буквально.",
+            "Аналогія (analogy) порівнює дві речі, щоб пояснити одну з них."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی حقیقی واقعے یا شخص کے بارے میں ایک چھوٹی کہانی (anecdote)",
+            "تین ہم شکل لفظوں یا فقروں کی فہرست (tricolon)",
+            "جملوں کی شروعات میں ایک ہی لفظ دہرانا (anaphora)",
+            "ایک حکم (imperative)",
+            "سننے والوں سے براہِ راست بات کرنا (direct address)"
+          ],
+          "passage": [
+            "خطابت کے طریقے (rhetorical methods) وہ آلات ہیں جو بولنے والا قائل کرنے کے لیے استعمال کرتا ہے۔",
+            "آپ کی کلاس ان میں سے بارہ پڑھتی ہے۔",
+            "Anecdote کسی حقیقی واقعے یا شخص کے بارے میں ایک چھوٹی کہانی ہے۔",
+            "Rhetorical question کو جواب کی ضرورت نہیں ہوتی۔",
+            "جذباتی زبان (emotive language) سننے والوں میں کوئی جذبہ پیدا کرتی ہے۔",
+            "Statistics کسی مطالعے سے لیے گئے حقائق یا ڈیٹا ہیں۔",
+            "Tricolon تین ہم شکل لفظوں یا فقروں کی فہرست ہے۔",
+            "Maxim کسی عام سچائی کا چھوٹا بیان ہے۔",
+            "رائے (opinion) ایسا خیال ہے جو شاید حقیقت پر مبنی نہ ہو۔",
+            "Direct address سننے والوں سے براہِ راست بات کرتا ہے، اکثر ‘you’ کے ساتھ۔",
+            "Anaphora کئی جملوں کی شروعات میں ایک ہی لفظ دہراتی ہے۔",
+            "Imperative ایک حکم ہے۔",
+            "Hyperbole ایسا مبالغہ ہے جو لفظی معنی میں نہیں لیا جاتا۔",
+            "Analogy دو چیزوں کا موازنہ کرتی ہے تا کہ ان میں سے ایک کی وضاحت ہو۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "The twelve methods",
           paragraphs: [
@@ -561,8 +1041,156 @@ window.ASTRA_UNITS["englang-rhetoric"] = {
           "King believed in peaceful protest.",
           "He was shot dead in Memphis on 4 April 1968.",
           "To analyse his speech, ask what he says, how he says it, and why."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الإقناع عن طريق الشعور (pathos)",
+            "إحساس قوي، مثل الشفقة أو الغضب (emotion)",
+            "طلب يؤثّر في الجمهور (appeal)",
+            "الحقوق المتساوية لكل مواطن (civil rights)",
+            "فصل مجموعات من الناس عن بعضها بالقانون (segregation)"
+          ],
+          "passage": [
+            "الباثوس (pathos) هو أن تجعل جمهورك يشعر بشيء.",
+            "إعلانات الجمعيات الخيرية تستعمل الباثوس طوال الوقت.",
+            "صورة طفل جائع تذهب مباشرة إلى القلب.",
+            "عواطف كثيرة يمكن أن تُقنع: الشفقة، والغضب، والخوف، والفخر، والأمل.",
+            "الأسئلة البلاغية والخطاب المباشر طريقتان جيدتان لصنع الباثوس.",
+            "كان مارتن لوثر كينغ زعيماً أمريكياً للحقوق المدنية.",
+            "في عام 1963 ألقى خطبة مشهورة في واشنطن.",
+            "تكلّم عن حلمه ببلد بلا فصل عنصري (segregation) ولا عنصرية.",
+            "كان الفصل العنصري يعني أن السود والبيض يُفصلون عن بعضهم بالقانون.",
+            "كان كينغ يؤمن بالاحتجاج السلمي.",
+            "قُتل بالرصاص في ممفيس في 4 أبريل 1968.",
+            "لتحلّل خطبته، اسأل: ماذا يقول، وكيف يقوله، ولماذا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przekonywanie przez uczucia (pathos)",
+            "silne uczucie, takie jak litość lub gniew (emotion)",
+            "prośba, która działa na odbiorców (appeal)",
+            "równe prawa każdego obywatela (civil rights)",
+            "trzymanie grup ludzi osobno na mocy prawa (segregation)"
+          ],
+          "passage": [
+            "Pathos polega na tym, żeby odbiorcy coś poczuli.",
+            "Reklamy organizacji charytatywnych używają pathosu cały czas.",
+            "Zdjęcie głodnego dziecka trafia prosto do serca.",
+            "Wiele emocji może przekonywać: litość, gniew, strach, duma i nadzieja.",
+            "Pytania retoryczne i bezpośredni zwrot to dobre sposoby na tworzenie pathosu.",
+            "Martin Luther King był amerykańskim przywódcą ruchu praw obywatelskich.",
+            "W 1963 roku wygłosił słynną przemowę w Waszyngtonie.",
+            "Mówił o swoim marzeniu o kraju bez segregacji i rasizmu.",
+            "Segregacja (segregation) oznaczała, że czarnych i białych ludzi trzymano osobno na mocy prawa.",
+            "King wierzył w pokojowy protest.",
+            "Został zastrzelony w Memphis 4 kwietnia 1968 roku.",
+            "Żeby przeanalizować jego przemowę, zapytaj, co mówi, jak to mówi i dlaczego."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "persuasão pelo sentimento (pathos)",
+            "um sentimento forte, como pena ou raiva (emotion, emoção)",
+            "um pedido que mexe com o público (appeal, apelo)",
+            "os direitos iguais de todos os cidadãos (civil rights, direitos civis)",
+            "manter grupos de pessoas separados por lei (segregation, segregação)"
+          ],
+          "passage": [
+            "O pathos é fazer o seu público sentir alguma coisa.",
+            "Os anúncios de caridade usam o pathos a toda a hora.",
+            "A imagem de uma criança com fome vai direta ao coração.",
+            "Muitas emoções podem persuadir: pena, raiva, medo, orgulho e esperança.",
+            "As perguntas retóricas e o direct address são boas maneiras de criar pathos.",
+            "Martin Luther King foi um líder americano dos direitos civis.",
+            "Em 1963 ele fez um discurso famoso em Washington.",
+            "Ele falou do seu sonho de um país sem segregação nem racismo.",
+            "Segregação queria dizer que as pessoas negras e brancas eram mantidas separadas por lei.",
+            "King acreditava no protesto pacífico.",
+            "Ele foi morto a tiro em Memphis, a 4 de abril de 1968.",
+            "Para analisar o discurso dele, pergunte o que ele diz, como o diz, e por quê."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qancin dareen ku dhisan (pathos)",
+            "dareen xoog leh, sida naxariis ama cadho (emotion)",
+            "codsi dhegaystayaasha wax ku sameeya (appeal)",
+            "xuquuqda siman ee muwaadin kasta (civil rights)",
+            "dadka kooxo kooxo u kala saarid sharci dartii (segregation)"
+          ],
+          "passage": [
+            "Pathos waa in dhegaystayaashaada wax ka dareensiiso.",
+            "Xayaysiisyada samafalka had iyo jeer pathos ayay isticmaalaan.",
+            "Sawir ilmo gaajaysan si toos ah wadnaha ayuu u taabtaa.",
+            "Dareenno badan ayaa qancin kara: naxariis, cadho, cabsi, hanweyn iyo rajo.",
+            "Su'aalaha rhetoric iyo direct address waa siyaabo wanaagsan oo pathos lagu abuuro.",
+            "Martin Luther King wuxuu ahaa hoggaamiye xuquuqul insaan (civil rights) oo Mareykan ah.",
+            "Sannadkii 1963 khudbad caan ah ayuu ka jeediyay Washington.",
+            "Wuxuu ka hadlay riyadiisa ah dal aan lahayn kala-sooc (segregation) iyo cunsuriyad.",
+            "Segregation micnaheedu waa in dadka madow iyo kuwa cad sharci lagu kala saaro.",
+            "King wuxuu rumaysnaa mudaaharaad nabdoon.",
+            "Waxaa lagu toogtay Memphis 4 April 1968.",
+            "Si aad khudbaddiisa u falanqayso, is weydii waxa uu sheegayo, sida uu u sheegayo, iyo sababta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "переконання через почуття (pathos)",
+            "сильне почуття, наприклад жаль або гнів (emotion)",
+            "прохання, яке діє на аудиторію (appeal)",
+            "рівні права кожного громадянина (civil rights)",
+            "роз’єднання груп людей за законом (segregation)"
+          ],
+          "passage": [
+            "Патос (pathos) — це про те, щоб ваша аудиторія щось відчула.",
+            "Реклама благодійних організацій весь час використовує патос.",
+            "Фотографія голодної дитини б’є прямо в серце.",
+            "Переконувати можуть багато емоцій: жаль, гнів, страх, гордість і надія.",
+            "Риторичні запитання та пряме звернення — добрі способи створити патос.",
+            "Мартін Лютер Кінг був американським лідером руху за громадянські права (civil rights).",
+            "У 1963 році він виголосив відому промову у Вашингтоні.",
+            "Він говорив про свою мрію про країну без сегрегації та расизму.",
+            "Сегрегація (segregation) означала, що чорних і білих людей тримали окремо за законом.",
+            "Кінг вірив у мирний протест.",
+            "Його застрелили в Мемфісі 4 квітня 1968 року.",
+            "Щоб проаналізувати його промову, запитайте, що він говорить, як він це говорить і чому."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "احساس کے ذریعے قائل کرنا (pathos)",
+            "ایک شدید احساس، جیسے رحم یا غصہ (emotion)",
+            "ایسی درخواست جو سننے والوں پر اثر کرے (appeal)",
+            "ہر شہری کے برابر حقوق (civil rights)",
+            "لوگوں کے گروہوں کو قانون کے ذریعے الگ رکھنا (segregation)"
+          ],
+          "passage": [
+            "Pathos کا مطلب ہے اپنے سننے والوں کو کچھ محسوس کرانا۔",
+            "خیراتی اداروں کے اشتہار ہر وقت pathos استعمال کرتے ہیں۔",
+            "ایک بھوکے بچے کی تصویر سیدھی دل پر اثر کرتی ہے۔",
+            "بہت سے جذبات قائل کر سکتے ہیں: رحم، غصہ، خوف، فخر اور امید۔",
+            "Rhetorical questions اور direct address، pathos پیدا کرنے کے اچھے طریقے ہیں۔",
+            "مارٹن لوتھر کنگ ایک امریکی شہری حقوق (civil rights) کے رہنما تھے۔",
+            "1963 میں انھوں نے واشنگٹن میں ایک مشہور تقریر کی۔",
+            "انھوں نے ایک ایسے ملک کے اپنے خواب کی بات کی جس میں نہ segregation ہو نہ نسل پرستی۔",
+            "Segregation کا مطلب تھا کہ سیاہ فام اور سفید فام لوگوں کو قانون کے ذریعے الگ رکھا جاتا تھا۔",
+            "کنگ پُرامن احتجاج پر یقین رکھتے تھے۔",
+            "انھیں 4 اپریل 1968 کو میمفس میں گولی مار کر قتل کر دیا گیا۔",
+            "ان کی تقریر کا تجزیہ کرنے کے لیے پوچھیں: وہ کیا کہتے ہیں، کیسے کہتے ہیں، اور کیوں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "What pathos is, and why it works",
           paragraphs: [
@@ -707,8 +1335,162 @@ window.ASTRA_UNITS["englang-rhetoric"] = {
           "A logos argument names a problem and explains how to fix it.",
           "Facts and statistics make your argument hard to argue with.",
           "Choose a serious topic you care about."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ترتيب أجزاء قطعة الكتابة (structure)",
+            "الافتتاحية التي تخبر الجمهور بحجّتك (introduction)",
+            "إظهار لماذا أنت الشخص المناسب للكلام (ethos)",
+            "فكرة تطرحها، مع أسباب ودليل (argument)",
+            "حقيقة على شكل رقم (statistic)"
+          ],
+          "passage": [
+            "الخطبة الإقناعية لها بنية (structure) واضحة.",
+            "أولاً تأتي المقدّمة (introduction)، التي تخبر الجمهور بحجّتك.",
+            "بعدها تُثبت إيثوسك (ethos): لماذا أنت الشخص المناسب للكلام.",
+            "ثم تأتي حجّتك الأولى، المبنيّة على اللوغوس (logos).",
+            "بعد ذلك، تردّ على الحجّة المضادّة (counterargument).",
+            "حجّتك الثانية تستعمل الباثوس (pathos).",
+            "وأخيراً، تجمع الخاتمة (conclusion) الأساليب الثلاثة معاً.",
+            "المقدّمة الجيدة تقول ما الذي تريد تحقيقه.",
+            "وتُشرك الجمهور في هدفك.",
+            "وتستعمل الأساليب البلاغية من أول سطر.",
+            "حجّة اللوغوس تسمّي مشكلة وتشرح كيف تُحلّ.",
+            "الحقائق والإحصائيات تجعل حجّتك صعبة الجدال.",
+            "اختر موضوعاً جاداً يهمّك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kolejność części tekstu (structure)",
+            "początek, który mówi odbiorcom, jaki jest twój argument (introduction)",
+            "pokazanie, dlaczego jesteś właściwą osobą, żeby mówić (ethos)",
+            "myśl, którą przedstawiasz, z powodami i dowodami (argument)",
+            "fakt w postaci liczby (statistic)"
+          ],
+          "passage": [
+            "Przemowa perswazyjna ma jasną strukturę.",
+            "Najpierw jest wstęp (introduction), który mówi odbiorcom, jaki jest twój argument.",
+            "Potem budujesz swój ethos: dlaczego jesteś właściwą osobą, żeby mówić.",
+            "Następnie przychodzi twój pierwszy argument, oparty na logosie.",
+            "Po nim odpowiadasz na kontrargument.",
+            "Twój drugi argument używa pathosu.",
+            "Na końcu zakończenie łączy wszystkie trzy odwołania razem.",
+            "Dobry wstęp mówi, co chcesz osiągnąć.",
+            "Włącza odbiorców w twój cel.",
+            "Używa metod retorycznych już od pierwszej linijki.",
+            "Argument oparty na logosie nazywa problem i wyjaśnia, jak go naprawić.",
+            "Fakty i statystyki sprawiają, że z twoim argumentem trudno się spierać.",
+            "Wybierz poważny temat, który jest dla ciebie ważny."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a ordem das partes de um texto (structure, estrutura)",
+            "a abertura que diz ao público qual é o seu argumento (introduction, introdução)",
+            "mostrar por que você é a pessoa certa para falar (ethos)",
+            "um ponto que você defende, com razões e provas (argument, argumento)",
+            "um facto/fato em forma de número (statistic, estatística)"
+          ],
+          "passage": [
+            "Um discurso persuasivo tem uma estrutura clara.",
+            "Primeiro vem a introdução, que diz ao público qual é o seu argumento.",
+            "A seguir você estabelece o seu ethos: por que você é a pessoa certa para falar.",
+            "Depois vem o seu primeiro argumento, construído com logos.",
+            "Depois disso, você responde ao contra-argumento.",
+            "O seu segundo argumento usa pathos.",
+            "Por fim, a conclusão junta os três apelos.",
+            "Uma boa introdução diz o que você quer alcançar.",
+            "Inclui o público no seu propósito.",
+            "Usa métodos retóricos desde a primeira linha.",
+            "Um argumento de logos nomeia um problema e explica como resolvê-lo.",
+            "Os factos/fatos e as estatísticas tornam o seu argumento difícil de contestar.",
+            "Escolha um tema sério que seja importante para você."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida qaybaha qoraalku u kala horreeyaan (structure)",
+            "bilowga dhegaystayaasha u sheega doodaada (introduction)",
+            "muujinta sababta aad u tahay qofka saxda ah ee hadlaya (ethos)",
+            "hadal aad qorto, oo leh sababo iyo caddayn (argument)",
+            "xaqiiqo qaab tiro ah (statistic)"
+          ],
+          "passage": [
+            "Khudbad qancin leh waxay leedahay qaab-dhismeed cad (structure).",
+            "Marka hore waxaa yimaada hordhaca (introduction), oo dhegaystayaasha u sheega doodaada.",
+            "Kadibna waxaad dhistaa ethos-kaaga: sababta aad u tahay qofka saxda ah ee hadlaya.",
+            "Kadibna waxaa yimaada doodaada koowaad, oo logos ku dhisan.",
+            "Intaas kadib, waxaad ka jawaabtaa aragtida lidka ah (counterargument).",
+            "Doodaada labaad waxay isticmaashaa pathos.",
+            "Ugu dambayn, gabagabadu (conclusion) saddexda baaq oo dhan isku keentaa.",
+            "Hordhac wanaagsan wuxuu sheegaa waxa aad doonayso inaad gaarto.",
+            "Dhegaystayaasha ayuu ujeeddadaada ku daraa.",
+            "Hababka rhetoric ayuu isticmaalaa laga bilaabo xariiqda ugu horreysa.",
+            "Dood logos ah waxay magacawdaa dhibaato, waxayna sharraxdaa sida loo xalliyo.",
+            "Xaqiiqooyin iyo tiro-koobyo waxay doodaada ka dhigaan mid adag in laga hor yimaado.",
+            "Dooro mawduuc culus oo aad daneyso."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "порядок частин письмового тексту (structure)",
+            "вступ, який повідомляє аудиторії ваш аргумент (introduction)",
+            "показати, чому саме ви маєте право говорити (ethos)",
+            "думка, яку ви висловлюєте, з причинами та доказами (argument)",
+            "факт у вигляді числа (statistic)"
+          ],
+          "passage": [
+            "Переконлива промова має чітку структуру (structure).",
+            "Спочатку йде вступ (introduction), який повідомляє аудиторії ваш аргумент.",
+            "Далі ви встановлюєте свій етос: чому саме ви маєте право говорити.",
+            "Потім іде ваш перший аргумент, побудований на логосі.",
+            "Після цього ви відповідаєте на контраргумент.",
+            "Ваш другий аргумент використовує патос.",
+            "Нарешті, висновок об’єднує всі три звернення разом.",
+            "Добрий вступ говорить, чого ви хочете досягти.",
+            "Він включає аудиторію у вашу мету.",
+            "Він використовує риторичні прийоми із самого першого рядка.",
+            "Аргумент на основі логосу називає проблему і пояснює, як її розв’язати.",
+            "Факти та статистика роблять ваш аргумент важким для заперечення.",
+            "Оберіть серйозну тему, яка вас хвилює."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "تحریر کے حصوں کی ترتیب (structure)",
+            "وہ شروعات جو سننے والوں کو آپ کی دلیل بتاتی ہے (introduction)",
+            "یہ دکھانا کہ آپ بولنے کے لیے صحیح شخص کیوں ہیں (ethos)",
+            "ایک نکتہ جو آپ وجوہات اور شہادت کے ساتھ پیش کرتے ہیں (argument)",
+            "عدد کی شکل میں ایک حقیقت (statistic)"
+          ],
+          "passage": [
+            "قائل کرنے والی تقریر کی ایک صاف ساخت (structure) ہوتی ہے۔",
+            "پہلے تعارف آتا ہے، جو سننے والوں کو آپ کی دلیل بتاتا ہے۔",
+            "اس کے بعد آپ اپنا ethos قائم کرتے ہیں: آپ بولنے کے لیے صحیح شخص کیوں ہیں۔",
+            "پھر آپ کی پہلی دلیل آتی ہے، جو logos پر بنی ہوتی ہے۔",
+            "اس کے بعد آپ مخالف دلیل (counterargument) کا جواب دیتے ہیں۔",
+            "آپ کی دوسری دلیل pathos استعمال کرتی ہے۔",
+            "آخر میں نتیجہ (conclusion) تینوں اپیلوں کو ایک جگہ لے آتا ہے۔",
+            "اچھا تعارف بتاتا ہے کہ آپ کیا حاصل کرنا چاہتے ہیں۔",
+            "یہ سننے والوں کو آپ کے مقصد میں شامل کرتا ہے۔",
+            "یہ پہلی ہی سطر سے خطابت کے طریقے استعمال کرتا ہے۔",
+            "logos کی دلیل کسی مسئلے کا نام لیتی ہے اور بتاتی ہے کہ اسے کیسے حل کیا جائے۔",
+            "حقائق اور شماریاتی اعداد آپ کی دلیل کو ایسا بناتے ہیں کہ اس سے بحث کرنا مشکل ہو۔",
+            "کوئی سنجیدہ موضوع چنیں جس کی آپ کو پروا ہو۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "The six-part structure",
           paragraphs: [
@@ -866,8 +1648,156 @@ window.ASTRA_UNITS["englang-rhetoric"] = {
           "Then she said she had the heart and stomach of a king.",
           "The conclusion is your final chance to persuade.",
           "Use pathos, sum up your argument in one clear point, and end with a call to action."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ما سيقوله الطرف الآخر (counterargument)",
+            "أن تكون ضدّ شيء ما (oppose)",
+            "كلمة تضيف ثقة أو نغمة إلى العبارة (adverb)",
+            "الجزء الأخير من الخطبة (conclusion)",
+            "إخبار الجمهور بما يجب أن يفعله تحديداً (call to action)"
+          ],
+          "passage": [
+            "الحجّة المضادّة (counterargument) هي ما سيقوله الطرف الآخر.",
+            "المتكلّمون الأقوياء يطرحونها بأنفسهم، ثم يشرحون لماذا هي خاطئة.",
+            "هذا يُظهر أنك عادل، ويجعل رأيك أنت أقوى.",
+            "الظروف (adverbs) مثل clearly وsurely وevidently تبدو واثقة.",
+            "في عام 1588، خاطبت إليزابيث الأولى جنودها في تيلبوري (Tilbury).",
+            "كان الأسطول الإسباني (Spanish Armada) يُبحر لغزو إنجلترا.",
+            "قال بعضهم إن الملكة لا ينبغي أن تعرّض نفسها للخطر بين جنود مسلّحين.",
+            "فأجابت بأنها تثق بشعبها المحبّ.",
+            "واعترفت بأن لها جسد امرأة ضعيفة.",
+            "ثم قالت إن لها قلب ملك وشجاعته.",
+            "الخاتمة (conclusion) هي فرصتك الأخيرة للإقناع.",
+            "استعمل الباثوس، ولخّص حجّتك في فكرة واحدة واضحة، واختم بدعوة إلى العمل (call to action)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "to, co powiedziałaby druga strona (counterargument)",
+            "być przeciw czemuś (oppose)",
+            "słowo, które dodaje stwierdzeniu pewności lub tonu (adverb)",
+            "ostatnia część przemowy (conclusion)",
+            "powiedzenie odbiorcom dokładnie, co mają zrobić (call to action)"
+          ],
+          "passage": [
+            "Kontrargument (counterargument) to to, co powiedziałaby druga strona.",
+            "Mocni mówcy sami go podnoszą, a potem wyjaśniają, dlaczego jest błędny.",
+            "To pokazuje, że jesteś uczciwy, i wzmacnia twój własny pogląd.",
+            "Przysłówki takie jak clearly, surely i evidently brzmią pewnie.",
+            "W 1588 roku Elżbieta I przemówiła do swoich wojsk w Tilbury.",
+            "Hiszpańska Armada płynęła, żeby najechać Anglię.",
+            "Niektórzy mówili, że królowa nie powinna narażać się wśród uzbrojonych żołnierzy.",
+            "Odpowiedziała, że ufa swojemu kochającemu ludowi.",
+            "Przyznała, że ma ciało słabej kobiety.",
+            "Potem powiedziała, że ma serce i odwagę króla.",
+            "Zakończenie to twoja ostatnia szansa, żeby przekonać.",
+            "Użyj pathosu, podsumuj swój argument w jednym jasnym punkcie i zakończ wezwaniem do działania (call to action)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o que o outro lado diria (counterargument, contra-argumento)",
+            "ser contra alguma coisa (oppose, opor-se)",
+            "uma palavra que acrescenta confiança ou tom a uma afirmação (adverb, advérbio)",
+            "a parte final de um discurso (conclusion, conclusão)",
+            "dizer ao público exatamente o que fazer (call to action, apelo à ação)"
+          ],
+          "passage": [
+            "Um contra-argumento (counterargument) é o que o outro lado diria.",
+            "Quem fala bem levanta-o por si mesmo, e depois explica por que está errado.",
+            "Isto mostra que você é justo, e torna a sua própria opinião mais forte.",
+            "Advérbios como clearly, surely e evidently soam confiantes.",
+            "Em 1588, Elizabeth I falou às suas tropas em Tilbury.",
+            "A Armada Espanhola navegava para invadir a Inglaterra.",
+            "Alguns tinham dito que uma rainha não devia arriscar-se entre soldados armados.",
+            "Ela respondeu que confiava no seu povo amado.",
+            "Ela admitiu que tinha o corpo de uma mulher fraca.",
+            "Depois disse que tinha o coração e o estômago de um rei.",
+            "A conclusão é a sua última oportunidade de persuadir.",
+            "Use pathos, resuma o seu argumento num ponto claro, e termine com um apelo à ação (call to action)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waxa dhinaca kale oran lahaa (counterargument)",
+            "wax ka soo horjeed (oppose)",
+            "eray kalsooni ama cod ku dara weedh (adverb)",
+            "qaybta ugu dambaysa ee khudbadda (conclusion)",
+            "dhegaystayaasha si sax ah u sheegidda waxa ay sameeyaan (call to action)"
+          ],
+          "passage": [
+            "Counterargument waa waxa dhinaca kale oran lahaa.",
+            "Hadlayaasha xooggan iyagu ayaa soo qaada, kadibna sharraxaan sababta ay u khaldan tahay.",
+            "Tani waxay muujisaa inaad cadaalad tahay, waxayna aragtidaada ka dhigtaa mid ka xoog badan.",
+            "Adverbs sida clearly, surely iyo evidently waxay u dhawaaqaan si kalsooni leh.",
+            "Sannadkii 1588, Elizabeth I waxay la hadashay ciidankeeda Tilbury.",
+            "Spanish Armada waxay u shiraacday inay England duusho.",
+            "Qaar waxay yiraahdeen boqorad waa inaanay nafteeda halis gelin askar hubaysan dhexdood.",
+            "Waxay ku jawaabtay inay aaminsan tahay dadkeeda jecel.",
+            "Waxay qiratay inay leedahay jirka naag tabar daran.",
+            "Kadibna waxay tiri waxay leedahay wadnaha iyo caloosha boqor.",
+            "Gabagabadu waa fursaddaada ugu dambaysa ee aad wax ku qancin karto.",
+            "Isticmaal pathos, doodaada hal hadal cad ku soo koob, oo ku dhammee baaq ficil (call to action)."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що сказала б інша сторона (counterargument)",
+            "бути проти чогось (oppose)",
+            "слово, яке додає впевненості або тону твердженню (adverb)",
+            "завершальна частина промови (conclusion)",
+            "сказати аудиторії точно, що робити (call to action)"
+          ],
+          "passage": [
+            "Контраргумент (counterargument) — це те, що сказала б інша сторона.",
+            "Сильні промовці самі його згадують, а потім пояснюють, чому він хибний.",
+            "Це показує, що ви справедливі, і робить ваш власний погляд сильнішим.",
+            "Прислівники (adverbs), такі як clearly, surely та evidently, звучать упевнено.",
+            "У 1588 році Єлизавета I звернулася до своїх військ у Тілбері.",
+            "Іспанська Армада пливла, щоб вторгнутися в Англію.",
+            "Деякі казали, що королеві не слід ризикувати собою серед озброєних солдатів.",
+            "Вона відповіла, що довіряє своєму люблячому народу.",
+            "Вона визнала, що має тіло слабкої жінки.",
+            "Потім вона сказала, що має серце та відвагу короля.",
+            "Висновок (conclusion) — це ваш останній шанс переконати.",
+            "Використайте патос, підсумуйте свій аргумент в одній чіткій думці й закінчіть закликом до дії (call to action)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دوسری طرف کے لوگ کیا کہیں گے (counterargument)",
+            "کسی چیز کے خلاف ہونا (oppose)",
+            "ایسا لفظ جو بیان میں اعتماد یا لہجہ جوڑے (adverb)",
+            "تقریر کا آخری حصہ (conclusion)",
+            "سننے والوں کو بالکل صاف بتانا کہ کیا کرنا ہے (call to action)"
+          ],
+          "passage": [
+            "مخالف دلیل (counterargument) وہ ہے جو دوسری طرف کے لوگ کہیں گے۔",
+            "مضبوط مقرر اسے خود اٹھاتے ہیں، پھر بتاتے ہیں کہ وہ غلط کیوں ہے۔",
+            "اس سے ظاہر ہوتا ہے کہ آپ منصف ہیں، اور اس سے آپ کی اپنی رائے مضبوط ہوتی ہے۔",
+            "clearly، surely اور evidently جیسے adverbs پُراعتماد لگتے ہیں۔",
+            "1588 میں الزبتھ اول نے ٹلبری میں اپنی فوج سے خطاب کیا۔",
+            "ہسپانوی بحری بیڑا (Spanish Armada) انگلینڈ پر حملے کے لیے چل پڑا تھا۔",
+            "کچھ لوگوں نے کہا تھا کہ ملکہ کو مسلح سپاہیوں کے بیچ خود کو خطرے میں نہیں ڈالنا چاہیے۔",
+            "اس نے جواب دیا کہ وہ اپنے محبت کرنے والے لوگوں پر بھروسا کرتی ہے۔",
+            "اس نے مانا کہ اس کا جسم ایک کمزور عورت کا ہے۔",
+            "پھر اس نے کہا کہ اس کے پاس ایک بادشاہ کا دل اور حوصلہ ہے۔",
+            "نتیجہ (conclusion) قائل کرنے کا آپ کا آخری موقع ہے۔",
+            "Pathos استعمال کریں، اپنی دلیل کو ایک صاف نکتے میں سمیٹیں، اور call to action پر ختم کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Why include a counterargument",
           paragraphs: [

@@ -103,8 +103,168 @@ window.ASTRA_UNITS["englit-romeo"] = {
           "Romeo thinks she is really dead, so he drinks poison.",
           "Juliet wakes, finds him dead, and kills herself.",
           "The play tells us all this in a prologue, before it even begins."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "العالم الذي كُتبت فيه القصة (context)",
+            "يحكمه الرجال (patriarchal)",
+            "خصومة طويلة ومريرة بين عائلتَين (feud)",
+            "خطاب يُقال قبل أن تبدأ المسرحية (prologue)",
+            "قصيدة من أربعة عشر بيتاً (sonnet)"
+          ],
+          "passage": [
+            "روميو وجولييت (Romeo and Juliet) مسرحية كتبها ويليام شكسبير.",
+            "كتبها نحو عام 1595، عندما كانت إليزابيث الأولى ملكة.",
+            "تدور القصة في فيرونا (Verona)، وهي مدينة في إيطاليا.",
+            "عائلتان غنيّتان، آل مونتاغيو (Montagues) وآل كابوليت (Capulets)، تكره كل منهما الأخرى.",
+            "روميو من آل مونتاغيو، وجولييت من آل كابوليت.",
+            "يلتقيان في حفلة ويقعان في الحب فوراً.",
+            "يتزوّجان سرّاً، بمساعدة الراهب لورنس (Friar Lawrence).",
+            "ثم يقتل روميو تيبالت (Tybalt)، ابن عمّ جولييت، في شجار.",
+            "يُنفى روميو من المدينة.",
+            "يأمر والد جولييت بأن تتزوّج رجلاً يُسمّى باريس (Paris).",
+            "يعطي الراهب جولييت شراباً يجعلها تبدو ميتة.",
+            "يظنّ روميو أنها ماتت حقاً، فيشرب السمّ.",
+            "تستيقظ جولييت، فتجده ميتاً، وتقتل نفسها.",
+            "تخبرنا المسرحية بكل هذا في مقدّمة (prologue)، قبل أن تبدأ حتى."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "świat, w którym powstała dana historia (context)",
+            "rządzony przez mężczyzn (patriarchal)",
+            "długa, zacięta kłótnia między dwiema rodzinami (feud)",
+            "mowa wygłaszana przed rozpoczęciem sztuki (prologue)",
+            "wiersz o czternastu linijkach (sonnet)"
+          ],
+          "passage": [
+            "Romeo i Julia (Romeo and Juliet) to sztuka Williama Szekspira.",
+            "Napisał ją około 1595 roku, kiedy królową była Elżbieta I.",
+            "Historia dzieje się w Weronie, mieście we Włoszech.",
+            "Dwie bogate rodziny, Montekowie i Kapuletowie, nienawidzą się nawzajem.",
+            "Romeo jest Montekim, a Julia jest Kapuletką.",
+            "Spotykają się na balu i od razu się w sobie zakochują.",
+            "Biorą ślub w tajemnicy, z pomocą brata Laurentego (Friar Lawrence).",
+            "Potem Romeo zabija w walce Tybalta, kuzyna Julii.",
+            "Romeo zostaje wygnany z miasta.",
+            "Ojciec Julii rozkazuje jej wyjść za mężczyznę o imieniu Parys.",
+            "Brat Laurenty daje Julii napój, który sprawia, że wygląda jak martwa.",
+            "Romeo myśli, że ona naprawdę nie żyje, więc wypija truciznę.",
+            "Julia budzi się, znajduje go martwego i zabija się.",
+            "Sztuka mówi nam to wszystko w prologu, zanim się jeszcze zacznie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o mundo em que uma história foi escrita (context, contexto)",
+            "governado por homens (patriarchal, patriarcal)",
+            "uma briga longa e amarga entre duas famílias (feud, rixa)",
+            "um discurso antes de a peça começar (prologue, prólogo)",
+            "um poema de catorze/quatorze versos (sonnet, soneto)"
+          ],
+          "passage": [
+            "Romeo and Juliet (Romeu e Julieta) é uma peça de William Shakespeare.",
+            "Ele escreveu-a por volta de 1595, quando Elizabeth I era rainha.",
+            "A história passa-se em Verona, uma cidade da Itália.",
+            "Duas famílias ricas, os Montague e os Capulet, odeiam-se.",
+            "Romeo é um Montague e Juliet é uma Capulet.",
+            "Eles encontram-se numa festa e apaixonam-se de imediato.",
+            "Casam-se em segredo, com a ajuda de Friar Lawrence (o Frei Lourenço).",
+            "Depois Romeo mata Tybalt, o primo de Juliet, numa luta.",
+            "Romeo é expulso da cidade.",
+            "O pai de Juliet ordena que ela se case com um homem chamado Paris.",
+            "O Frei dá a Juliet uma poção que a faz parecer morta.",
+            "Romeo pensa que ela morreu mesmo, e por isso bebe veneno.",
+            "Juliet acorda, encontra-o morto, e mata-se.",
+            "A peça conta-nos tudo isto num prólogo, antes mesmo de começar."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "adduunka sheekada lagu qoray (context)",
+            "rag maamulaan (patriarchal)",
+            "col dheer oo qadhaadh oo laba qoys dhex yaal (feud)",
+            "hadal ka horreeya bilowga riwaayadda (prologue)",
+            "gabay afar iyo toban xariiq ah (sonnet)"
+          ],
+          "passage": [
+            "Romeo and Juliet waa riwaayad uu qoray William Shakespeare.",
+            "Wuxuu qoray qiyaastii sannadkii 1595, markii Elizabeth I boqorad ahayd.",
+            "Sheekadu waxay ka dhacday Verona, magaalo ku taal Italy.",
+            "Laba qoys oo hodan ah, Montagues iyo Capulets, way is nebcaan.",
+            "Romeo waa Montague, Juliet-na waa Capulet.",
+            "Xaflad ayay ku kulmaan, isla markiibana way is jeclaadaan.",
+            "Si qarsoodi ah ayay u guursadaan, iyagoo kaalmo ka helaya Friar Lawrence.",
+            "Kadibna Romeo dagaal ayuu ku dilaa Tybalt, ina-adeerka Juliet.",
+            "Romeo magaalada ayaa laga masaafuriyaa.",
+            "Aabbaha Juliet wuxuu ku amraa inay guursato nin la yiraahdo Paris.",
+            "Friar-ku Juliet wuxuu siiyaa dawo (potion) ka dhigaysa inay u muuqato mid dhimatay.",
+            "Romeo wuxuu u maleeyaa inay runtii dhimatay, sidaas darteed sun ayuu cabbaa.",
+            "Juliet way toostaa, waxay aragtaa isagoo dhintay, naftiidana way dishaa.",
+            "Riwaayaddu waxaas oo dhan waxay noo sheegtaa prologue, ka hor intaanay bilaaban."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "світ, у якому було написано історію (context)",
+            "керований чоловіками (patriarchal)",
+            "довга, запекла ворожнеча між двома родинами (feud)",
+            "промова перед початком п’єси (prologue)",
+            "вірш із чотирнадцяти рядків (sonnet)"
+          ],
+          "passage": [
+            "«Ромео і Джульєтта» (Romeo and Juliet) — це п’єса Вільяма Шекспіра.",
+            "Він написав її приблизно в 1595 році, коли королевою була Єлизавета I.",
+            "Події відбуваються у Вероні, місті в Італії.",
+            "Дві багаті родини, Монтеккі (Montagues) і Капулетті (Capulets), ненавидять одна одну.",
+            "Ромео — Монтеккі, а Джульєтта — Капулетті.",
+            "Вони зустрічаються на святі й одразу закохуються.",
+            "Вони таємно одружуються з допомогою брата Лоренцо (Friar Lawrence).",
+            "Потім Ромео вбиває у бійці Тібальта (Tybalt), двоюрідного брата Джульєтти.",
+            "Ромео виганяють із міста.",
+            "Батько Джульєтти наказує їй вийти заміж за чоловіка на ім’я Паріс (Paris).",
+            "Брат Лоренцо дає Джульєтті зілля, від якого вона виглядає мертвою.",
+            "Ромео думає, що вона справді мертва, тому випиває отруту.",
+            "Джульєтта прокидається, бачить його мертвим і вбиває себе.",
+            "П’єса розповідає нам усе це в пролозі (prologue), ще до того, як вона починається."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ دنیا جس میں کہانی لکھی گئی (context)",
+            "مردوں کے چلائے ہوئے (patriarchal)",
+            "دو خاندانوں کے بیچ لمبی، تلخ دشمنی (feud)",
+            "ڈرامہ شروع ہونے سے پہلے کی ایک تقریر (prologue)",
+            "چودہ سطروں کی ایک نظم (sonnet)"
+          ],
+          "passage": [
+            "Romeo and Juliet ولیم شیکسپیئر کا ایک ڈرامہ ہے۔",
+            "اس نے یہ تقریباً 1595 میں لکھا، جب الزبتھ اول ملکہ تھی۔",
+            "کہانی اٹلی کے شہر ویرونا میں ہوتی ہے۔",
+            "دو امیر خاندان، مونٹیگیو اور کیپیولیٹ، ایک دوسرے سے نفرت کرتے ہیں۔",
+            "رومیو مونٹیگیو ہے اور جولیٹ کیپیولیٹ ہے۔",
+            "وہ ایک دعوت میں ملتے ہیں اور فوراً ایک دوسرے سے محبت کرنے لگتے ہیں۔",
+            "وہ فرائر لارنس کی مدد سے خفیہ شادی کر لیتے ہیں۔",
+            "پھر رومیو ایک لڑائی میں جولیٹ کے کزن ٹبالٹ کو مار دیتا ہے۔",
+            "رومیو کو شہر سے نکال دیا جاتا ہے۔",
+            "جولیٹ کا باپ اسے پیرس نامی ایک آدمی سے شادی کرنے کا حکم دیتا ہے۔",
+            "فرائر جولیٹ کو ایک دوا دیتا ہے جس سے وہ مُردہ دکھائی دیتی ہے۔",
+            "رومیو سمجھتا ہے کہ وہ واقعی مر گئی ہے، اس لیے وہ زہر پی لیتا ہے۔",
+            "جولیٹ جاگتی ہے، اسے مُردہ پاتی ہے، اور خود کو مار دیتی ہے۔",
+            "ڈرامہ یہ سب ہمیں شروع ہونے سے پہلے ہی ایک prologue میں بتا دیتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Shakespeare's London and Shakespeare's Verona",
@@ -299,8 +459,174 @@ window.ASTRA_UNITS["englit-romeo"] = {
           "Juliet answers politely and says she will do as her mother asks.",
           "She seems quiet and obedient.",
           "But we have not yet seen the real Juliet."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الطرق التي يتوقّع المجتمع أن يتصرّف بها الرجال (masculinity)",
+            "كلام فظّ يُقصد به الإيذاء أو الاستفزاز (insult)",
+            "الفترة التي يحاول فيها الرجل أن يكسب امرأة لتكون زوجته (courtship)",
+            "لا يفعل ما يفعله أكثر الناس (unconventional)",
+            "هادئة وخجولة ومحتشمة (demure)",
+            "تطيع الأوامر بلا سؤال (submissive)"
+          ],
+          "passage": [
+            "تبدأ المسرحية في شوارع فيرونا.",
+            "خادمان من آل كابوليت يتفاخران بقتال آل مونتاغيو.",
+            "يلتقيان خدماً من آل مونتاغيو، فيندلع شجار.",
+            "يحاول بنفوليو (Benvolio) أن يوقفه، لكن تيبالت يريد الدم.",
+            "يصل الأمير ويهدّد بالموت كل من يتقاتل مرة أخرى.",
+            "في المشهد التالي، يطلب باريس من اللورد كابوليت أن يتزوّج جولييت.",
+            "يقول كابوليت إنها صغيرة جداً، لم تبلغ الرابعة عشرة بعد.",
+            "ويقول إن جولييت يجب أن توافق قبل أن يقول هو نعم.",
+            "كان هذا غير مألوف لأبٍ في زمن شكسبير.",
+            "ثم نلتقي جولييت مع أمّها ومربّيتها (the Nurse).",
+            "تخبرها الليدي كابوليت أن باريس يريد الزواج بها.",
+            "تجيب جولييت بأدب وتقول إنها ستفعل ما تطلبه أمّها.",
+            "تبدو هادئة ومطيعة.",
+            "لكننا لم نرَ جولييت الحقيقية بعد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sposoby, w jakie społeczeństwo oczekuje, że będą się zachowywać mężczyźni (masculinity)",
+            "niegrzeczna uwaga, która ma zranić albo sprowokować (insult)",
+            "czas, kiedy mężczyzna stara się zdobyć kobietę na żonę (courtship)",
+            "nierobiący tego, co robi większość ludzi (unconventional)",
+            "cicha, nieśmiała i skromna (demure)",
+            "wykonująca rozkazy bez pytania (submissive)"
+          ],
+          "passage": [
+            "Sztuka zaczyna się na ulicach Werony.",
+            "Dwóch służących Kapuletów przechwala się walkami z Montekimi.",
+            "Spotykają służących Montekich i wybucha bójka.",
+            "Benvolio próbuje ją przerwać, ale Tybalt chce krwi.",
+            "Przybywa Książę i grozi śmiercią każdemu, kto znów będzie walczyć.",
+            "W następnej scenie Parys prosi Pana Kapuleta o rękę Julii.",
+            "Kapulet mówi, że jest za młoda, nie ma jeszcze czternastu lat.",
+            "Mówi, że Julia musi się zgodzić, zanim on powie tak.",
+            "To było niezwykłe dla ojca w czasach Szekspira.",
+            "Potem poznajemy Julię z jej matką i Nianią (Nurse).",
+            "Pani Kapulet mówi jej, że Parys chce się z nią ożenić.",
+            "Julia odpowiada uprzejmie i mówi, że zrobi tak, jak prosi matka.",
+            "Wydaje się cicha i posłuszna.",
+            "Ale prawdziwej Julii jeszcze nie widzieliśmy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "as maneiras como uma sociedade espera que os homens se comportem (masculinity, masculinidade)",
+            "um comentário rude feito para magoar ou provocar (insult, insulto)",
+            "o tempo em que um homem tenta conquistar uma mulher para ser sua esposa (courtship, corte)",
+            "não fazer o que a maioria das pessoas faz (unconventional, pouco convencional)",
+            "calma, tímida e modesta (demure, recatada)",
+            "obedecer a ordens sem questionar (submissive, submissa)"
+          ],
+          "passage": [
+            "A peça começa nas ruas de Verona.",
+            "Dois criados dos Capulet gabam-se de lutar contra os Montague.",
+            "Encontram criados dos Montague e começa uma briga.",
+            "Benvolio tenta pará-la, mas Tybalt quer sangue.",
+            "O Príncipe chega e ameaça de morte quem voltar a lutar.",
+            "Na cena seguinte, Paris pede a Lord Capulet para se casar com Juliet.",
+            "Capulet diz que ela é muito nova, ainda não tem catorze/quatorze anos.",
+            "Ele diz que Juliet tem de concordar antes de ele dizer sim.",
+            "Isto era pouco comum para um pai no tempo de Shakespeare.",
+            "Depois conhecemos Juliet com a mãe e com a sua Ama (the Nurse).",
+            "Lady Capulet diz-lhe que Paris quer casar com ela.",
+            "Juliet responde com educação e diz que fará o que a mãe pede.",
+            "Ela parece calma e obediente.",
+            "Mas ainda não vimos a verdadeira Juliet."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "siyaabaha bulshadu ka filayso in raggu u dhaqmaan (masculinity)",
+            "hadal xun oo loogu talagalay in lagu dhaawaco ama lagu xanaajiyo (insult)",
+            "waqtiga ninku isku dayo inuu naag xaas ka dhigto (courtship)",
+            "aan samayn waxa dadka badankood sameeyaan (unconventional)",
+            "aamusan, xishood badan oo edeb leh (demure)",
+            "amarrada adeeca iyadoon su'aal keenin (submissive)"
+          ],
+          "passage": [
+            "Riwaayaddu waxay ka bilaabataa waddooyinka Verona.",
+            "Laba addoon oo Capulet ah waxay ku faanaan la dagaallanka Montagues.",
+            "Waxay la kulmaan addoommo Montague ah, dagaalna wuu dhacaa.",
+            "Benvolio wuxuu isku dayaa inuu joojiyo, laakiin Tybalt dhiig ayuu rabaa.",
+            "Amiirku (Prince) wuu yimaadaa, wuxuuna dil ugu hanjabaa qof kasta oo mar kale dagaallama.",
+            "Muuqaalka xiga, Paris wuxuu weydiistaa Lord Capulet inuu Juliet guursado.",
+            "Capulet wuxuu yiraahdaa aad ayay u yar tahay, afar iyo toban weli ma gaarin.",
+            "Wuxuu yiraahdaa Juliet waa inay ogolaato ka hor intuusan haa oran.",
+            "Tani waxay ahayd wax aan caadi ahayn aabbe xilligii Shakespeare.",
+            "Kadibna waxaan la kulannaa Juliet oo la jooga hooyadeed iyo Nurse-keeda.",
+            "Lady Capulet waxay u sheegtaa in Paris doonayo inuu guursado.",
+            "Juliet si edeb leh ayay u jawaabtaa, waxayna tiraahdaa waxay samayn doontaa waxa hooyadeed weydiisato.",
+            "Waxay u muuqataa mid aamusan oo adeec badan.",
+            "Laakiin weli ma aragnin Juliet-ta dhabta ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, як суспільство очікує, що поводитимуться чоловіки (masculinity)",
+            "грубе зауваження, сказане, щоб образити або розлютити (insult)",
+            "час, коли чоловік намагається здобути жінку собі за дружину (courtship)",
+            "такий, що не робить того, що роблять більшість людей (unconventional)",
+            "тиха, сором’язлива і скромна (demure)",
+            "та, що виконує накази без запитань (submissive)"
+          ],
+          "passage": [
+            "П’єса починається на вулицях Верони.",
+            "Двоє слуг Капулетті хваляться, що б’ються з Монтеккі.",
+            "Вони зустрічають слуг Монтеккі, і спалахує бійка.",
+            "Бенволіо (Benvolio) намагається її зупинити, але Тібальт хоче крові.",
+            "Прибуває Князь (Prince) і погрожує смертю кожному, хто битиметься знову.",
+            "У наступній сцені Паріс просить лорда Капулетті віддати за нього Джульєтту.",
+            "Капулетті каже, що вона надто молода, їй ще немає чотирнадцяти.",
+            "Він каже, що Джульєтта має погодитися, перш ніж він скаже «так».",
+            "Для батька за часів Шекспіра це було незвично.",
+            "Потім ми бачимо Джульєтту з її матір’ю та Нянею (Nurse).",
+            "Леді Капулетті каже їй, що Паріс хоче з нею одружитися.",
+            "Джульєтта відповідає чемно й каже, що зробить так, як просить мати.",
+            "Вона здається тихою і слухняною.",
+            "Але справжньої Джульєтти ми ще не бачили."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ طریقے جن سے ایک معاشرہ مردوں سے برتاؤ کی توقع رکھتا ہے (masculinity)",
+            "ایک بدتمیز بات جو تکلیف دینے یا بھڑکانے کے لیے کہی جائے (insult)",
+            "وہ وقت جب کوئی مرد کسی عورت کو بیوی بنانے کے لیے اس کا دل جیتنے کی کوشش کرتا ہے (courtship)",
+            "وہ نہ کرنا جو زیادہ تر لوگ کرتے ہیں (unconventional)",
+            "خاموش، شرمیلی اور باحیا (demure)",
+            "بغیر سوال کیے حکم ماننے والا (submissive)"
+          ],
+          "passage": [
+            "ڈرامہ ویرونا کی گلیوں میں شروع ہوتا ہے۔",
+            "کیپیولیٹ کے دو نوکر مونٹیگیو والوں سے لڑنے کی شیخی مارتے ہیں۔",
+            "وہ مونٹیگیو کے نوکروں سے ملتے ہیں اور لڑائی چھڑ جاتی ہے۔",
+            "بینوولیو اسے روکنے کی کوشش کرتا ہے، مگر ٹبالٹ خون چاہتا ہے۔",
+            "شہزادہ (Prince) آتا ہے اور دھمکی دیتا ہے کہ جو دوبارہ لڑے گا اسے موت ملے گی۔",
+            "اگلے منظر میں پیرس لارڈ کیپیولیٹ سے جولیٹ کا ہاتھ مانگتا ہے۔",
+            "کیپیولیٹ کہتا ہے کہ وہ بہت چھوٹی ہے، ابھی چودہ کی بھی نہیں۔",
+            "وہ کہتا ہے کہ جولیٹ کی رضامندی ضروری ہے، اس کے بعد ہی وہ ہاں کہے گا۔",
+            "شیکسپیئر کے زمانے میں ایک باپ کے لیے یہ غیر معمولی بات تھی۔",
+            "پھر ہم جولیٹ کو اس کی ماں اور اس کی دایہ (Nurse) کے ساتھ دیکھتے ہیں۔",
+            "لیڈی کیپیولیٹ اسے بتاتی ہے کہ پیرس اس سے شادی کرنا چاہتا ہے۔",
+            "جولیٹ ادب سے جواب دیتی ہے اور کہتی ہے کہ وہ ویسا ہی کرے گی جیسا اس کی ماں کہے۔",
+            "وہ خاموش اور فرماں بردار لگتی ہے۔",
+            "مگر ہم نے ابھی اصلی جولیٹ کو نہیں دیکھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why the play starts with a fight (1.1)",
@@ -491,8 +817,168 @@ window.ASTRA_UNITS["englit-romeo"] = {
           "She asks why Romeo must be a Montague.",
           "They promise to marry.",
           "The quiet girl of Act 1 is gone."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخصية تكون عكس شخصية أخرى (foil)",
+            "خطاب تقوله الشخصية وحدها على المسرح (soliloquy)",
+            "صور كلامية يرسمها الكاتب (imagery)",
+            "مجموعة كلمات عن الموضوع نفسه (semantic field)",
+            "إعجاب مفاجئ وشديد (infatuation)"
+          ],
+          "passage": [
+            "يذهب روميو وأصدقاؤه إلى حفلة آل كابوليت وهم يضعون أقنعة.",
+            "روميو حزين بسبب فتاة تُسمّى روزالين (Rosaline).",
+            "صديقه مركوشيو (Mercutio) يمزح عن الحب والأحلام.",
+            "لدى روميو إحساس سيّئ بشأن تلك الليلة.",
+            "في الحفلة، يرى روميو جولييت من الجهة الأخرى من القاعة.",
+            "ينسى روزالين فوراً.",
+            "يقول إن جولييت تعلّم المشاعل كيف تشتعل بنور ساطع.",
+            "يتحدّثان، مستعملَين كلمات عن القدّيسين والحجّاج.",
+            "يتبادلان قبلة، ثم يعرفان أنهما عدوّان.",
+            "في وقت لاحق من تلك الليلة، يختبئ روميو في بستان آل كابوليت.",
+            "تقف جولييت عند نافذتها وتقول أفكارها بصوت عالٍ.",
+            "تسأل لماذا يجب أن يكون روميو من آل مونتاغيو.",
+            "يتعاهدان على الزواج.",
+            "الفتاة الهادئة من الفصل 1 قد اختفت."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "postać, która jest przeciwieństwem innej (foil)",
+            "mowa wygłaszana samotnie na scenie (soliloquy)",
+            "obrazy słowne, które maluje autor (imagery)",
+            "grupa słów na ten sam temat (semantic field)",
+            "nagłe, intensywne zauroczenie (infatuation)"
+          ],
+          "passage": [
+            "Romeo i jego przyjaciele idą w maskach na bal Kapuletów.",
+            "Romeo jest smutny z powodu dziewczyny o imieniu Rozalina.",
+            "Jego przyjaciel Merkucjo żartuje z miłości i snów.",
+            "Romeo ma złe przeczucie co do tej nocy.",
+            "Na balu Romeo widzi Julię po drugiej stronie sali.",
+            "Od razu zapomina o Rozalinie.",
+            "Mówi, że Julia uczy pochodnie jasno płonąć.",
+            "Rozmawiają, używając słów o świętych i pielgrzymach.",
+            "Całują się, a potem dowiadują się, że są wrogami.",
+            "Później tej nocy Romeo ukrywa się w sadzie Kapuletów.",
+            "Julia stoi w oknie i mówi głośno swoje myśli.",
+            "Pyta, dlaczego Romeo musi być Montekim.",
+            "Obiecują sobie ślub.",
+            "Cichej dziewczyny z aktu 1 już nie ma."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma personagem que é o oposto de outra (foil)",
+            "um discurso feito a sós no palco (soliloquy, solilóquio)",
+            "imagens em palavras que um escritor pinta (imagery)",
+            "um grupo de palavras sobre o mesmo assunto (semantic field, campo semântico)",
+            "uma paixão súbita e intensa (infatuation, paixonite)"
+          ],
+          "passage": [
+            "Romeo e os amigos vão à festa dos Capulet com máscaras.",
+            "Romeo está triste por causa de uma moça chamada Rosaline.",
+            "O seu amigo Mercutio faz piadas sobre o amor e os sonhos.",
+            "Romeo tem um mau pressentimento sobre aquela noite.",
+            "Na festa, Romeo vê Juliet do outro lado da sala.",
+            "Ele esquece Rosaline de imediato.",
+            "Ele diz que Juliet ensina as tochas a brilhar.",
+            "Eles conversam, usando palavras sobre santos e peregrinos.",
+            "Beijam-se, e depois descobrem que são inimigos.",
+            "Mais tarde nessa noite, Romeo esconde-se no pomar dos Capulet.",
+            "Juliet está à janela e diz os seus pensamentos em voz alta.",
+            "Ela pergunta por que Romeo tem de ser um Montague.",
+            "Eles prometem casar-se.",
+            "A moça calma do Ato 1 desapareceu."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "jile lidka ku ah jile kale (foil)",
+            "hadal keligiis masraxa laga jeediyo (soliloquy)",
+            "sawirro erayo ah oo qoraagu rinjiyeeyo (imagery)",
+            "koox erayo ah oo isku mawduuc ku saabsan (semantic field)",
+            "jacayl kedis ah oo xoog badan (infatuation)"
+          ],
+          "passage": [
+            "Romeo iyo asxaabtiisu waxay tagaan xaflada Capulets iyagoo wejigooda daboolay.",
+            "Romeo wuxuu u murugaysan yahay gabar la yiraahdo Rosaline.",
+            "Saaxiibkii Mercutio wuxuu kaftan ka sameeyaa jacaylka iyo riyooyinka.",
+            "Romeo dareen xun ayuu ka qabaa habeenkaas.",
+            "Xafladda, Romeo wuxuu arkaa Juliet oo qolka dhinaciisa kale taagan.",
+            "Isla markiiba Rosaline wuu illoobaa.",
+            "Wuxuu yiraahdaa Juliet waxay bartaa torches-ka inay si dhalaalaysa u gubtaan.",
+            "Way wada hadlaan, iyagoo isticmaalaya erayo ku saabsan awliyo iyo xajiyo.",
+            "Way dhunkadaan, kadibna waxay ogaadaan inay cadow yihiin.",
+            "Habeenkaas dambe, Romeo wuxuu ku dhuuntaa beerta Capulets.",
+            "Juliet daaqaddeeda ayay istaagtaa, fikradeedana kor ayay u sheegtaa.",
+            "Waxay weydiisaa sababta Romeo u noqonayo Montague.",
+            "Waxay isku ballamaan inay guursadaan.",
+            "Gabadhii aamusnayd ee Act 1 way tagtay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "персонаж, який є протилежністю іншого (foil)",
+            "промова, виголошена наодинці на сцені (soliloquy)",
+            "словесні картини, які малює автор (imagery)",
+            "група слів про один і той самий предмет (semantic field)",
+            "раптове, сильне захоплення (infatuation)"
+          ],
+          "passage": [
+            "Ромео і його друзі йдуть на свято до Капулетті в масках.",
+            "Ромео сумує через дівчину на ім’я Розаліна (Rosaline).",
+            "Його друг Меркуціо (Mercutio) жартує про кохання і сни.",
+            "У Ромео погане передчуття щодо цієї ночі.",
+            "На святі Ромео бачить Джульєтту через усю залу.",
+            "Він одразу забуває Розаліну.",
+            "Він каже, що Джульєтта вчить смолоскипи горіти яскраво.",
+            "Вони розмовляють, використовуючи слова про святих і паломників.",
+            "Вони цілуються, а потім дізнаються, що вони вороги.",
+            "Пізніше тієї ночі Ромео ховається в саду Капулетті.",
+            "Джульєтта стоїть біля вікна й промовляє свої думки вголос.",
+            "Вона запитує, чому Ромео мусить бути Монтеккі.",
+            "Вони обіцяють одружитися.",
+            "Тихої дівчини з першої дії більше немає."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا کردار جو کسی دوسرے کردار کا الٹ ہو (foil)",
+            "اسٹیج پر اکیلے کی گئی تقریر (soliloquy)",
+            "لفظوں سے بنائی گئی تصویریں جو مصنف کھینچتا ہے (imagery)",
+            "ایک ہی موضوع کے لفظوں کا گروہ (semantic field)",
+            "اچانک، شدید لگاؤ (infatuation)"
+          ],
+          "passage": [
+            "رومیو اور اس کے دوست نقاب لگا کر کیپیولیٹ کی دعوت میں جاتے ہیں۔",
+            "رومیو روزالین نامی ایک لڑکی کی وجہ سے دکھی ہے۔",
+            "اس کا دوست مرکیوشیو محبت اور خوابوں کے بارے میں مذاق کرتا ہے۔",
+            "رومیو کو اس رات کے بارے میں برا احساس ہوتا ہے۔",
+            "دعوت میں رومیو کمرے کے دوسری طرف جولیٹ کو دیکھتا ہے۔",
+            "وہ روزالین کو فوراً بھول جاتا ہے۔",
+            "وہ کہتا ہے کہ جولیٹ مشعلوں کو روشن جلنا سکھاتی ہے۔",
+            "وہ بات کرتے ہیں، اور ولیوں (saints) اور زائرین (pilgrims) کے لفظ استعمال کرتے ہیں۔",
+            "وہ ایک دوسرے کو چومتے ہیں، پھر انھیں پتا چلتا ہے کہ وہ دشمن ہیں۔",
+            "اسی رات بعد میں رومیو کیپیولیٹ کے باغ میں چھپ جاتا ہے۔",
+            "جولیٹ اپنی کھڑکی پر کھڑی ہو کر اپنی سوچیں بلند آواز میں کہتی ہے۔",
+            "وہ پوچھتی ہے کہ رومیو مونٹیگیو کیوں ہے۔",
+            "وہ شادی کا وعدہ کرتے ہیں۔",
+            "Act 1 کی خاموش لڑکی اب جا چکی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Mercutio the foil, and a dream of death (1.4)",
@@ -696,8 +1182,168 @@ window.ASTRA_UNITS["englit-romeo"] = {
           "Mercutio fights instead, and Tybalt kills him.",
           "In his rage, Romeo kills Tybalt.",
           "The Prince banishes Romeo from Verona."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تلميح إلى ما سيحدث لاحقاً (foreshadowing)",
+            "عندما نعرف شيئاً لا تعرفه الشخصية (dramatic irony)",
+            "دعابة فظّة عن الجنس (bawdy)",
+            "تحوّل مفاجئ نحو الأسوأ (peripeteia)",
+            "دعابة تلعب على معنيَين لكلمة واحدة (pun)"
+          ],
+          "passage": [
+            "في الصباح التالي، يزور روميو الراهب لورنس.",
+            "الراهب يجمع أعشاباً يمكن أن تشفي أو تسمّم.",
+            "يطلب روميو منه أن يزوّجه جولييت في ذلك اليوم.",
+            "يُصدَم الراهب، لكنه يوافق.",
+            "يأمل أن يُنهي الزواج الخصومة.",
+            "يحذّر روميو من أن من يجري بسرعة يتعثّر.",
+            "تنتظر جولييت أن تأتي المربّية بجواب روميو.",
+            "تمازحها المربّية وتتباطأ.",
+            "في ذلك المساء، يزوّجهما الراهب سرّاً.",
+            "لاحقاً، في الشوارع الحارّة، يبحث تيبالت عن روميو.",
+            "يرفض روميو أن يقاتل ابن عمّه الجديد.",
+            "فيقاتل مركوشيو بدلاً منه، ويقتله تيبالت.",
+            "في غضبه، يقتل روميو تيبالت.",
+            "ينفي الأمير روميو من فيرونا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wskazówka, co wydarzy się później (foreshadowing)",
+            "kiedy my wiemy coś, czego nie wie postać (dramatic irony)",
+            "nieprzyzwoity humor o seksie (bawdy)",
+            "nagły zwrot na gorsze (peripeteia)",
+            "żart, który gra na dwóch znaczeniach słowa (pun)"
+          ],
+          "passage": [
+            "Następnego ranka Romeo odwiedza brata Laurentego.",
+            "Brat Laurenty zbiera zioła, które mogą leczyć albo truć.",
+            "Romeo prosi go, żeby tego samego dnia dał mu ślub z Julią.",
+            "Brat Laurenty jest wstrząśnięty, ale się zgadza.",
+            "Ma nadzieję, że małżeństwo zakończy waśń.",
+            "Ostrzega Romea, że ci, którzy biegną szybko, potykają się.",
+            "Julia czeka, aż Niania przyniesie odpowiedź Romea.",
+            "Niania dokucza jej i nie spieszy się.",
+            "Tego popołudnia brat Laurenty daje im ślub w tajemnicy.",
+            "Później, na rozgrzanych ulicach, Tybalt szuka Romea.",
+            "Romeo odmawia walki ze swoim nowym kuzynem.",
+            "Zamiast niego walczy Merkucjo, a Tybalt go zabija.",
+            "W gniewie Romeo zabija Tybalta.",
+            "Książę wygania Romea z Werony."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pista sobre o que vai acontecer mais tarde (foreshadowing, prenúncio)",
+            "quando nós sabemos algo que uma personagem não sabe (dramatic irony, ironia dramática)",
+            "humor grosseiro sobre sexo (bawdy)",
+            "uma viragem súbita para pior (peripeteia, peripécia)",
+            "uma piada que joga com dois sentidos de uma palavra (pun, trocadilho)"
+          ],
+          "passage": [
+            "Na manhã seguinte, Romeo visita Friar Lawrence.",
+            "O Frei está a apanhar/está colhendo ervas que podem curar ou envenenar.",
+            "Romeo pede-lhe para o casar com Juliet nesse mesmo dia.",
+            "O Frei fica chocado, mas aceita.",
+            "Ele espera que o casamento acabe com a rixa.",
+            "Ele avisa Romeo de que quem corre depressa tropeça.",
+            "Juliet espera que a Ama lhe traga a resposta de Romeo.",
+            "A Ama provoca-a e demora o seu tempo.",
+            "Nessa tarde, o Frei casa-os em segredo.",
+            "Mais tarde, nas ruas quentes, Tybalt procura Romeo.",
+            "Romeo recusa-se a lutar com o seu novo primo.",
+            "Mercutio luta em vez dele, e Tybalt mata-o.",
+            "Na sua raiva, Romeo mata Tybalt.",
+            "O Príncipe expulsa Romeo de Verona."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tilmaan ku saabsan waxa dambe dhici doona (foreshadowing)",
+            "marka aynu naqaanno wax jile aan garanayn (dramatic irony)",
+            "kaftan xun oo ku saabsan galmo (bawdy)",
+            "isbeddel kedis ah oo xumaan u leexday (peripeteia)",
+            "kaftan ku ciyaaraya laba macne oo eray (pun)"
+          ],
+          "passage": [
+            "Subaxdii xigtay, Romeo wuxuu booqdaa Friar Lawrence.",
+            "Friar-ku wuxuu guranayaa geedo dawo ah oo bogsiin kara ama sun noqon kara.",
+            "Romeo wuxuu weydiistaa inuu isaga iyo Juliet maalintaas isu guuriyo.",
+            "Friar-ku wuu naxaa, laakiin wuu ogolaadaa.",
+            "Wuxuu rajaynayaa in guurku colaadda (feud) soo afjaro.",
+            "Wuxuu uga digaa Romeo in kuwa si degdeg ah u ordaa ay turunturoodaan.",
+            "Juliet waxay sugtaa in Nurse-ku jawaabta Romeo u keento.",
+            "Nurse-ku way ku ciyaartaa, waqtina way qaadataa.",
+            "Galabtaas, Friar-ku si qarsoodi ah ayuu isu guuriyaa.",
+            "Kadib, waddooyinka kulul, Tybalt wuxuu raadiyaa Romeo.",
+            "Romeo wuu diidaa inuu la dagaallamo ina-adeerkii cusub.",
+            "Mercutio ayaa beddelkiisa la dagaallamaa, Tybalt-na wuu dilaa.",
+            "Cadhadiisa dartii, Romeo wuxuu dilaa Tybalt.",
+            "Amiirku Romeo wuxuu ka masaafuriyaa Verona."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "натяк на те, що станеться пізніше (foreshadowing)",
+            "коли ми знаємо щось, чого не знає персонаж (dramatic irony)",
+            "грубий гумор про секс (bawdy)",
+            "раптовий поворот на гірше (peripeteia)",
+            "жарт, який грає на двох значеннях слова (pun)"
+          ],
+          "passage": [
+            "Наступного ранку Ромео відвідує брата Лоренцо.",
+            "Брат Лоренцо збирає трави, які можуть лікувати або отруювати.",
+            "Ромео просить його одружити його з Джульєттою того ж дня.",
+            "Брат Лоренцо вражений, але погоджується.",
+            "Він сподівається, що шлюб покінчить із ворожнечею.",
+            "Він попереджає Ромео, що ті, хто біжать швидко, спіткнуться.",
+            "Джульєтта чекає, коли Няня принесе відповідь Ромео.",
+            "Няня дражнить її й не поспішає.",
+            "Того ж дня по обіді брат Лоренцо таємно одружує їх.",
+            "Пізніше, на спекотних вулицях, Тібальт шукає Ромео.",
+            "Ромео відмовляється битися зі своїм новим родичем.",
+            "Замість нього б’ється Меркуціо, і Тібальт вбиває його.",
+            "У гніві Ромео вбиває Тібальта.",
+            "Князь виганяє Ромео з Верони."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اس بات کا اشارہ جو بعد میں ہونے والی ہے (foreshadowing)",
+            "جب ہم کوئی ایسی بات جانتے ہیں جو کردار نہیں جانتا (dramatic irony)",
+            "جنس کے بارے میں بدتمیز مزاح (bawdy)",
+            "حالات کا اچانک بُرا موڑ (peripeteia)",
+            "ایسا مذاق جو کسی لفظ کے دو معنوں پر کھیلتا ہے (pun)"
+          ],
+          "passage": [
+            "اگلی صبح رومیو فرائر لارنس کے پاس جاتا ہے۔",
+            "فرائر ایسی جڑی بوٹیاں چن رہا ہے جو شفا دے سکتی ہیں یا زہر بن سکتی ہیں۔",
+            "رومیو اسے کہتا ہے کہ اسی دن اس کی جولیٹ سے شادی کرا دے۔",
+            "فرائر حیران ہوتا ہے، مگر مان جاتا ہے۔",
+            "اسے امید ہے کہ یہ شادی دشمنی (feud) ختم کر دے گی۔",
+            "وہ رومیو کو خبردار کرتا ہے کہ جو تیز دوڑتے ہیں وہ لڑکھڑا جاتے ہیں۔",
+            "جولیٹ انتظار کرتی ہے کہ دایہ رومیو کا جواب لائے۔",
+            "دایہ اسے چھیڑتی ہے اور دیر لگاتی ہے۔",
+            "اسی دوپہر فرائر خفیہ طور پر ان کی شادی کرا دیتا ہے۔",
+            "بعد میں، گرم گلیوں میں، ٹبالٹ رومیو کو ڈھونڈتا ہے۔",
+            "رومیو اپنے نئے کزن سے لڑنے سے انکار کرتا ہے۔",
+            "اس کی جگہ مرکیوشیو لڑتا ہے، اور ٹبالٹ اسے مار دیتا ہے۔",
+            "غصے میں رومیو ٹبالٹ کو مار دیتا ہے۔",
+            "شہزادہ رومیو کو ویرونا سے نکال دیتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Poison and medicine: the Friar's warnings (2.3)",
@@ -889,8 +1535,174 @@ window.ASTRA_UNITS["englit-romeo"] = {
           "It will make her look dead for forty-two hours.",
           "The Friar will write to Romeo to explain the plan.",
           "On the wedding morning, the Nurse finds Juliet cold and still."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كلمتان متضادّتان توضعان معاً (oxymoron)",
+            "اضطراب وقلق شديد (turmoil)",
+            "قاسٍ ومتسلّط (oppressive)",
+            "الزواج بشخص وأنت متزوّج أصلاً (bigamy)",
+            "أن تصرخ من الحزن (lament)",
+            "فقدان الأمل تماماً (despair)"
+          ],
+          "passage": [
+            "تنتظر جولييت ليلة زفافها، وهي لا تعرف شيئاً عن الشجار.",
+            "تأتي المربّية بخبر فظيع: تيبالت مات وروميو نُفي.",
+            "لا تعرف جولييت هل تحبّ روميو أم تكرهه.",
+            "يختبئ روميو عند الراهب ويبكي.",
+            "يقول إن النفي أسوأ من الموت.",
+            "يقول له الراهب أن يزور جولييت، ثم يهرب إلى مانتوا (Mantua).",
+            "في تلك الليلة، يعد اللورد كابوليت بتزويج جولييت لباريس يوم الخميس.",
+            "ترفض جولييت، فينفجر والدها غضباً.",
+            "يشتمها ويهدّد بطردها من البيت.",
+            "أمّها، وحتى المربّية، لا تساعدانها.",
+            "تركض جولييت إلى الراهب، فيعطيها شراباً.",
+            "سيجعلها تبدو ميتة اثنتَين وأربعين ساعة.",
+            "سيكتب الراهب إلى روميو ليشرح له الخطة.",
+            "في صباح الزفاف، تجد المربّية جولييت باردة بلا حركة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "dwa przeciwne słowa zestawione razem (oxymoron)",
+            "zamęt i wielki niepokój (turmoil)",
+            "okrutny i kontrolujący (oppressive)",
+            "ślub z kimś, kiedy już jest się w związku małżeńskim (bigamy)",
+            "krzyczeć z żalu (lament)",
+            "całkowita utrata nadziei (despair)"
+          ],
+          "passage": [
+            "Julia czeka na noc poślubną, nie wiedząc o walce.",
+            "Niania przynosi straszne wieści: Tybalt nie żyje, a Romeo jest wygnany.",
+            "Julia nie wie, czy kochać Romea, czy go nienawidzić.",
+            "Romeo ukrywa się u brata Laurentego i płacze.",
+            "Mówi, że wygnanie jest gorsze niż śmierć.",
+            "Brat Laurenty każe mu odwiedzić Julię, a potem uciec do Mantui.",
+            "Tej nocy Pan Kapulet obiecuje Julię Parysowi na czwartek.",
+            "Julia odmawia, a jej ojciec wybucha gniewem.",
+            "Obrzuca ją wyzwiskami i grozi, że wyrzuci ją z domu.",
+            "Jej matka, a nawet Niania, nie chcą jej pomóc.",
+            "Julia biegnie do brata Laurentego, który daje jej napój.",
+            "Sprawi on, że będzie wyglądać jak martwa przez czterdzieści dwie godziny.",
+            "Brat Laurenty napisze do Romea, żeby wyjaśnić plan.",
+            "W poranek ślubu Niania znajduje Julię zimną i nieruchomą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "duas palavras opostas juntas (oxymoron, oxímoro)",
+            "confusão e grande preocupação (turmoil, tumulto)",
+            "cruel e controlador (oppressive, opressivo)",
+            "casar com alguém estando já casado (bigamy, bigamia)",
+            "gritar de dor e tristeza (lament, lamentar)",
+            "a perda total da esperança (despair, desespero)"
+          ],
+          "passage": [
+            "Juliet espera pela sua noite de casamento, sem saber da luta.",
+            "A Ama traz notícias terríveis: Tybalt está morto e Romeo foi expulso.",
+            "Juliet não sabe se deve amar Romeo ou odiá-lo.",
+            "Romeo esconde-se com o Frei e chora.",
+            "Ele diz que o exílio é pior do que a morte.",
+            "O Frei diz-lhe para visitar Juliet e depois fugir para Mântua.",
+            "Nessa noite, Lord Capulet promete Juliet a Paris para quinta-feira.",
+            "Juliet recusa, e o pai explode de raiva.",
+            "Ele insulta-a e ameaça pô-la fora de casa.",
+            "A mãe e até a Ama não a ajudam.",
+            "Juliet corre para o Frei, que lhe dá uma poção.",
+            "A poção vai fazê-la parecer morta durante quarenta e duas horas.",
+            "O Frei vai escrever a Romeo para explicar o plano.",
+            "Na manhã do casamento, a Ama encontra Juliet fria e imóvel."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "laba eray oo lid isku ah oo la isku daray (oxymoron)",
+            "wareer iyo walwal weyn (turmoil)",
+            "naxariis daran oo xakamayn badan (oppressive)",
+            "qof guursasho adigoo horey u guursaday (bigamy)",
+            "murugo dartii kor u qaylin (lament)",
+            "rajo-beel dhammaystiran (despair)"
+          ],
+          "passage": [
+            "Juliet waxay sugtaa habeenka arooskeeda, iyadoon dagaalka waxba ka ogayn.",
+            "Nurse-ku war xun ayay keentaa: Tybalt wuu dhintay, Romeo-na waa la masaafuriyay.",
+            "Juliet ma garanayso inay Romeo jeclaato mise ay neceb tahay.",
+            "Romeo wuxuu la dhuuntaa Friar-ka, wuuna ooyaa.",
+            "Wuxuu yiraahdaa masaafurintu waxay ka xun tahay dhimasho.",
+            "Friar-ku wuxuu u sheegaa inuu Juliet booqdo, kadibna u cararo Mantua.",
+            "Habeenkaas, Lord Capulet wuxuu Juliet u ballan qaadaa Paris maalinta Khamiista.",
+            "Juliet way diiddaa, aabbaheedna cadho ayuu la qarxaa.",
+            "Magacyo xun ayuu ugu yeeraa, wuxuuna ugu hanjabaa inuu guriga ka saaro.",
+            "Hooyadeed iyo xitaa Nurse-ku ma caawiyaan.",
+            "Juliet waxay u ordaa Friar-ka, oo dawo (potion) siiya.",
+            "Waxay ka dhigi doontaa inay u muuqato mid dhimatay laba iyo afartan saacadood.",
+            "Friar-ku wuxuu u qori doonaa Romeo si uu qorshaha u sharraxo.",
+            "Subaxdii arooska, Nurse-ku waxay heshaa Juliet oo qabow oo aan dhaqaaqayn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "два протилежні слова, поставлені разом (oxymoron)",
+            "сум’яття і велика тривога (turmoil)",
+            "жорстокий і такий, що все контролює (oppressive)",
+            "одруження з кимось, коли вже перебуваєш у шлюбі (bigamy)",
+            "голосно плакати від горя (lament)",
+            "повна втрата надії (despair)"
+          ],
+          "passage": [
+            "Джульєтта чекає своєї шлюбної ночі, не знаючи про бійку.",
+            "Няня приносить жахливі новини: Тібальт мертвий, а Ромео вигнано.",
+            "Джульєтта не знає, любити їй Ромео чи ненавидіти.",
+            "Ромео ховається у брата Лоренцо і плаче.",
+            "Він каже, що вигнання гірше за смерть.",
+            "Брат Лоренцо каже йому відвідати Джульєтту, а потім тікати до Мантуї.",
+            "Тієї ночі лорд Капулетті обіцяє Джульєтту Парісу на четвер.",
+            "Джульєтта відмовляється, і її батько вибухає гнівом.",
+            "Він обзиває її й погрожує вигнати з дому.",
+            "Її мати й навіть Няня не хочуть їй допомогти.",
+            "Джульєтта біжить до брата Лоренцо, який дає їй зілля.",
+            "Від нього вона виглядатиме мертвою сорок дві години.",
+            "Брат Лоренцо напише Ромео, щоб пояснити план.",
+            "У ранок весілля Няня знаходить Джульєтту холодною і нерухомою."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دو الٹے لفظ ایک ساتھ رکھنا (oxymoron)",
+            "الجھن اور بڑی پریشانی (turmoil)",
+            "ظالم اور قابو میں رکھنے والا (oppressive)",
+            "پہلے سے شادی شدہ ہوتے ہوئے کسی سے شادی کرنا (bigamy)",
+            "غم میں چیخ کر رونا (lament)",
+            "امید کا مکمل خاتمہ (despair)"
+          ],
+          "passage": [
+            "جولیٹ اپنی شادی کی رات کا انتظار کرتی ہے، اسے لڑائی کا پتا نہیں۔",
+            "دایہ بھیانک خبر لاتی ہے: ٹبالٹ مر گیا ہے اور رومیو کو شہر سے نکال دیا گیا ہے۔",
+            "جولیٹ کو سمجھ نہیں آتی کہ رومیو سے محبت کرے یا نفرت۔",
+            "رومیو فرائر کے پاس چھپا ہوا روتا ہے۔",
+            "وہ کہتا ہے کہ شہر سے نکالا جانا موت سے بدتر ہے۔",
+            "فرائر اسے کہتا ہے کہ جولیٹ سے ملے، پھر مانٹوا بھاگ جائے۔",
+            "اسی رات لارڈ کیپیولیٹ جولیٹ کی شادی جمعرات کو پیرس سے کرانے کا وعدہ کر دیتا ہے۔",
+            "جولیٹ انکار کرتی ہے، اور اس کا باپ غصے سے پھٹ پڑتا ہے۔",
+            "وہ اسے برے نام دیتا ہے اور گھر سے نکالنے کی دھمکی دیتا ہے۔",
+            "اس کی ماں اور دایہ بھی اس کی مدد نہیں کرتیں۔",
+            "جولیٹ دوڑ کر فرائر کے پاس جاتی ہے، جو اسے ایک دوا دیتا ہے۔",
+            "اس سے وہ بیالیس گھنٹے تک مُردہ دکھائی دے گی۔",
+            "فرائر رومیو کو خط لکھ کر منصوبہ سمجھائے گا۔",
+            "شادی کی صبح دایہ جولیٹ کو ٹھنڈا اور بے حرکت پاتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Torn in two: oxymorons and banishment (3.2–3.3)",
@@ -1093,8 +1905,168 @@ window.ASTRA_UNITS["englit-romeo"] = {
           "The families arrive and learn the whole story.",
           "The Prince says that everyone is punished.",
           "The two fathers finally make peace."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "فكرة أن مستقبلك مقرّر مسبقاً (fate)",
+            "القدرة على اختيار أفعالك بنفسك (free will)",
+            "العيب القاتل في البطل (hamartia)",
+            "شخصية نبيلة يدمّرها عيب فيها (tragic hero)",
+            "محتوم، سيحدث لا محالة (inevitable)"
+          ],
+          "passage": [
+            "في مانتوا، يحلم روميو بأن جولييت وجدته ميتاً.",
+            "ثم يأتي خادمه بخبر أن جولييت ماتت.",
+            "يصرخ روميو بأنه يتحدّى النجوم.",
+            "يشتري سمّاً من عطّار فقير.",
+            "في الوقت نفسه، لا تصل رسالة الراهب إلى روميو أبداً.",
+            "فقد حُبس الرسول في بيت بسبب الطاعون.",
+            "عند القبر، يلتقي روميو باريس ويقتله.",
+            "يقبّل جولييت ويشرب السمّ.",
+            "بعد لحظات، تستيقظ جولييت.",
+            "تجد الكأس فارغة وشفتَي روميو ما زالتا دافئتَين.",
+            "تأخذ خنجره وتقتل نفسها.",
+            "تصل العائلتان وتعرفان القصة كلها.",
+            "يقول الأمير إن الجميع قد عوقبوا.",
+            "وأخيراً يتصالح الأبوان."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "myśl, że twoja przyszłość jest już ustalona (fate)",
+            "moc wybierania własnych czynów (free will)",
+            "zgubna wada bohatera (hamartia)",
+            "szlachetna postać zniszczona przez swoją wadę (tragic hero)",
+            "taki, który na pewno się wydarzy (inevitable)"
+          ],
+          "passage": [
+            "W Mantui Romeo śni, że Julia znalazła go martwego.",
+            "Potem jego służący przynosi wieść, że Julia nie żyje.",
+            "Romeo krzyczy, że rzuca wyzwanie gwiazdom.",
+            "Kupuje truciznę od biednego aptekarza.",
+            "Tymczasem list brata Laurentego nigdy nie dociera do Romea.",
+            "Posłaniec został zamknięty w domu z powodu zarazy.",
+            "Przy grobowcu Romeo spotyka Parysa i go zabija.",
+            "Całuje Julię i wypija truciznę.",
+            "Chwilę później Julia się budzi.",
+            "Znajduje pusty kubek i wciąż ciepłe usta Romea.",
+            "Bierze jego sztylet i zabija się.",
+            "Rodziny przybywają i poznają całą historię.",
+            "Książę mówi, że wszyscy zostali ukarani.",
+            "Dwóch ojców w końcu zawiera pokój."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a ideia de que o seu futuro já está decidido (fate, destino)",
+            "o poder de escolher as suas próprias ações (free will, livre-arbítrio)",
+            "a falha fatal de um herói (hamartia)",
+            "uma personagem nobre destruída por uma falha (tragic hero, herói trágico)",
+            "que vai acontecer de certeza (inevitable, inevitável)"
+          ],
+          "passage": [
+            "Em Mântua, Romeo sonha que Juliet o encontrou morto.",
+            "Depois o seu criado traz a notícia de que Juliet morreu.",
+            "Romeo grita que desafia as estrelas.",
+            "Ele compra veneno a um boticário pobre.",
+            "Enquanto isso, a carta do Frei nunca chega a Romeo.",
+            "O mensageiro foi fechado numa casa por causa da peste.",
+            "No túmulo, Romeo encontra Paris e mata-o.",
+            "Ele beija Juliet e bebe o veneno.",
+            "Momentos depois, Juliet acorda.",
+            "Ela encontra o frasco vazio e os lábios de Romeo ainda quentes.",
+            "Ela pega no punhal dele e mata-se.",
+            "As famílias chegam e ficam a saber toda a história.",
+            "O Príncipe diz que todos estão castigados.",
+            "Os dois pais fazem finalmente as pazes."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "fikradda ah in mustaqbalkaagu horey loo go'aamiyay (fate)",
+            "awoodda aad ku dooratid ficilladaada (free will)",
+            "cillad halis ah oo geesi leeyahay (hamartia)",
+            "jile sharaf leh oo cillad burburisay (tragic hero)",
+            "hubaal in ay dhacdo (inevitable)"
+          ],
+          "passage": [
+            "Mantua, Romeo wuxuu ku riyoodaa in Juliet heshay isagoo dhintay.",
+            "Kadibna addoonkiisu war ayuu keenaa in Juliet dhimatay.",
+            "Romeo wuxuu ku qayliyaa inuu xiddigaha ka hor imaanayo.",
+            "Sun ayuu ka iibsadaa farmashiiste (apothecary) sabool ah.",
+            "Isla waqtigaas, warqadda Friar-ku weligeed Romeo ma gaarto.",
+            "Wargeeyihii guri ayaa lagu xiray cudurka daacuunka (plague) dartii.",
+            "Qabrigii, Romeo wuxuu la kulmaa Paris, wuuna dilaa.",
+            "Juliet wuu dhunkadaa, sunta ayuuna cabbaa.",
+            "Daqiiqado kadib, Juliet way toostaa.",
+            "Waxay aragtaa koobkii oo madhan iyo bushimaha Romeo oo weli diirran.",
+            "Mindidiisa ayay qaadataa, naftiidana way dishaa.",
+            "Qoysaskii way yimaadaan, sheekada oo dhanna way ogaadaan.",
+            "Amiirku wuxuu yiraahdaa qof walba waa la ciqaabay.",
+            "Labada aabbe ugu dambayn way heshiiyaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "ідея, що ваше майбутнє вже вирішено (fate)",
+            "здатність самому обирати свої вчинки (free will)",
+            "фатальна вада героя (hamartia)",
+            "благородний персонаж, якого знищує його вада (tragic hero)",
+            "такий, що неодмінно станеться (inevitable)"
+          ],
+          "passage": [
+            "У Мантуї Ромео сниться, що Джульєтта знайшла його мертвим.",
+            "Потім його слуга приносить новину, що Джульєтта мертва.",
+            "Ромео вигукує, що кидає виклик зорям.",
+            "Він купує отруту в бідного аптекаря.",
+            "Тим часом лист брата Лоренцо так і не доходить до Ромео.",
+            "Посланця замкнули в будинку через чуму.",
+            "Біля гробниці Ромео зустрічає Паріса й вбиває його.",
+            "Він цілує Джульєтту і випиває отруту.",
+            "Через кілька хвилин Джульєтта прокидається.",
+            "Вона бачить порожню чашу й ще теплі губи Ромео.",
+            "Вона бере його кинджал і вбиває себе.",
+            "Приходять родини й дізнаються всю історію.",
+            "Князь каже, що покарано всіх.",
+            "Двоє батьків нарешті укладають мир."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہ خیال کہ آپ کا مستقبل پہلے سے طے ہے (fate)",
+            "اپنے کام خود چننے کی طاقت (free will)",
+            "ہیرو کی وہ خامی جو اسے تباہ کر دے (hamartia)",
+            "ایک اعلیٰ کردار جو اپنی ایک خامی سے تباہ ہو جائے (tragic hero)",
+            "جس کا ہونا یقینی ہو (inevitable)"
+          ],
+          "passage": [
+            "مانٹوا میں رومیو خواب دیکھتا ہے کہ جولیٹ نے اسے مُردہ پایا۔",
+            "پھر اس کا نوکر خبر لاتا ہے کہ جولیٹ مر گئی ہے۔",
+            "رومیو چیخ کر کہتا ہے کہ وہ ستاروں (تقدیر) کو چیلنج کرتا ہے۔",
+            "وہ ایک غریب دوا فروش (apothecary) سے زہر خریدتا ہے۔",
+            "اسی دوران فرائر کا خط رومیو تک کبھی نہیں پہنچتا۔",
+            "قاصد کو طاعون کی وجہ سے ایک گھر میں بند کر دیا گیا تھا۔",
+            "مقبرے پر رومیو پیرس سے ملتا ہے اور اسے مار دیتا ہے۔",
+            "وہ جولیٹ کو چومتا ہے اور زہر پی لیتا ہے۔",
+            "کچھ ہی لمحوں بعد جولیٹ جاگتی ہے۔",
+            "وہ پیالہ خالی پاتی ہے اور رومیو کے ہونٹ ابھی گرم ہیں۔",
+            "وہ اس کا خنجر لے کر خود کو مار دیتی ہے۔",
+            "خاندان آتے ہیں اور پوری کہانی جان لیتے ہیں۔",
+            "شہزادہ کہتا ہے کہ سب کو سزا ملی ہے۔",
+            "دونوں باپ آخرکار صلح کر لیتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Defying the stars (5.1–5.2)",

@@ -100,8 +100,156 @@ window.ASTRA_UNITS["combined-cells"] = {
           "There are one thousand micrometres in one millimetre.",
           "To find the magnification, divide the image size by the real size.",
           "To find the real size, divide the image size by the magnification."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جهاز يجعل الأشياء الصغيرة جداً تبدو أكبر (microscope)",
+            "كم مرة تكون الصورة أكبر من الجسم الحقيقي (magnification)",
+            "مقدار التفاصيل الدقيقة التي يستطيع المجهر أن يُظهرها (resolution)",
+            "وحدة لقياس الخلايا؛ ألف منها يساوي مليمتراً واحداً (micrometre)",
+            "مجهر يستعمل حزمة من الإلكترونات بدلاً من الضوء (electron microscope)"
+          ],
+          "passage": [
+            "الخلايا أصغر من أن تراها بعينَيك وحدهما.",
+            "المجهر (microscope) يجعل الجسم الصغير جداً يبدو أكبر بكثير.",
+            "كم مرة يبدو أكبر، هذا ما يُسمّى التكبير (magnification).",
+            "المجهر الضوئي يستعمل الضوء وعدسات زجاجية.",
+            "يستطيع أن يكبّر الخلية حتى نحو ألفَي مرة.",
+            "المجهر الإلكتروني (electron microscope) يستعمل حزمة من الإلكترونات بدلاً من الضوء.",
+            "يستطيع أن يكبّر آلاف المرات أكثر.",
+            "ويُظهر أيضاً تفاصيل أدقّ بكثير، وهذا ما نسمّيه التحليل (resolution).",
+            "تُقاس الخلايا بالميكرومتر (micrometres).",
+            "في المليمتر الواحد ألف ميكرومتر.",
+            "لتجد التكبير، اقسم حجم الصورة على الحجم الحقيقي.",
+            "لتجد الحجم الحقيقي، اقسم حجم الصورة على التكبير."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przyrząd, który sprawia, że bardzo małe rzeczy wyglądają na większe (microscope)",
+            "ile razy obraz jest większy od prawdziwego przedmiotu (magnification)",
+            "ile drobnych szczegółów może pokazać mikroskop (resolution)",
+            "jednostka do mierzenia komórek; tysiąc mikrometrów to jeden milimetr (micrometre)",
+            "mikroskop, który używa wiązki elektronów zamiast światła (electron microscope)"
+          ],
+          "passage": [
+            "Komórki są za małe, żeby zobaczyć je samymi oczami.",
+            "Mikroskop (microscope) sprawia, że maleńki przedmiot wygląda na dużo większy.",
+            "To, ile razy wygląda na większy, nazywamy powiększeniem (magnification).",
+            "Mikroskop świetlny używa światła i szklanych soczewek.",
+            "Może powiększyć komórkę do około dwóch tysięcy razy.",
+            "Mikroskop elektronowy używa wiązki elektronów zamiast światła.",
+            "Może powiększać wiele tysięcy razy bardziej.",
+            "Pokazuje też dużo drobniejsze szczegóły, co nazywamy rozdzielczością (resolution).",
+            "Komórki mierzy się w mikrometrach (micrometres).",
+            "W jednym milimetrze jest tysiąc mikrometrów.",
+            "Żeby znaleźć powiększenie, podziel rozmiar obrazu przez rozmiar prawdziwy.",
+            "Żeby znaleźć rozmiar prawdziwy, podziel rozmiar obrazu przez powiększenie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um instrumento que faz as coisas muito pequenas parecerem maiores (microscope, microscópio)",
+            "quantas vezes a imagem é maior do que o objeto real (magnification, ampliação)",
+            "quanto detalhe fino um microscópio consegue mostrar (resolution, resolução)",
+            "uma unidade para medir células; mil delas fazem um milímetro (micrometre, micrómetro/micrômetro)",
+            "um microscópio que usa um feixe de eletrões/elétrons em vez de luz (electron microscope, microscópio eletrónico/eletrônico)"
+          ],
+          "passage": [
+            "As células são pequenas demais para ver só com os olhos.",
+            "Um microscópio faz um objeto minúsculo parecer muito maior.",
+            "Quantas vezes maior ele parece chama-se ampliação (magnification).",
+            "Um microscópio ótico usa luz e lentes de vidro.",
+            "Pode ampliar uma célula até cerca de duas mil vezes.",
+            "Um microscópio eletrónico/eletrônico usa um feixe de eletrões/elétrons em vez de luz.",
+            "Pode ampliar muitos milhares de vezes mais.",
+            "Também mostra detalhes muito mais finos, a que chamamos resolução (resolution).",
+            "As células medem-se em micrómetros/micrômetros.",
+            "Há mil micrómetros/micrômetros num milímetro.",
+            "Para encontrar a ampliação, divida o tamanho da imagem pelo tamanho real.",
+            "Para encontrar o tamanho real, divida o tamanho da imagem pela ampliação."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qalab waxyaabo aad u yaryar ka dhiga inay u muuqdaan kuwo ka waaweyn (microscope)",
+            "inta jeer ee sawirku ka weyn yahay walaxda dhabta ah (magnification)",
+            "inta faahfaahin yar ee microscope muujin karo (resolution)",
+            "halbeeg unugyada lagu cabbiro; kun ka mid ah waxay samaysaan hal millimetre (micrometre)",
+            "microscope isticmaala shucaac electrons ah halkii iftiin (electron microscope)"
+          ],
+          "passage": [
+            "Unugyadu (cells) aad ayay u yaryar yihiin in indhahaaga keliya lagu arko.",
+            "Microscope wax aad u yar ayuu ka dhigaa inuu u muuqdo mid aad uga weyn.",
+            "Inta jeer ee uu ka weyn u muuqdo waxaa la yiraahdaa magnification.",
+            "Microscope iftiin (light microscope) wuxuu isticmaalaa iftiin iyo muraayado quraarad ah (lenses).",
+            "Unug wuxuu weynayn karaa ilaa qiyaastii laba kun oo jeer.",
+            "Electron microscope wuxuu isticmaalaa shucaac electrons ah halkii iftiin.",
+            "Kumanaan jeer oo dheeraad ah ayuu weynayn karaa.",
+            "Sidoo kale wuxuu muujiyaa faahfaahin aad uga yar, oo aan ugu yeerno resolution.",
+            "Unugyada waxaa lagu cabbiraa micrometres.",
+            "Hal millimetre waxaa ku jira kun micrometres.",
+            "Si aad magnification u hesho, cabbirka sawirka u qaybi cabbirka dhabta ah.",
+            "Si aad cabbirka dhabta ah u hesho, cabbirka sawirka u qaybi magnification-ka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "прилад, який робить дуже маленькі речі більшими на вигляд (microscope)",
+            "у скільки разів зображення більше за справжній об’єкт (magnification)",
+            "скільки дрібних деталей може показати мікроскоп (resolution)",
+            "одиниця для вимірювання клітин; тисяча таких одиниць становить один міліметр (micrometre)",
+            "мікроскоп, який використовує пучок електронів замість світла (electron microscope)"
+          ],
+          "passage": [
+            "Клітини надто малі, щоб побачити їх лише очима.",
+            "Мікроскоп (microscope) робить крихітний об’єкт набагато більшим на вигляд.",
+            "Те, у скільки разів він виглядає більшим, називається збільшенням (magnification).",
+            "Світловий мікроскоп використовує світло та скляні лінзи.",
+            "Він може збільшити клітину приблизно до двох тисяч разів.",
+            "Електронний мікроскоп (electron microscope) використовує пучок електронів замість світла.",
+            "Він може збільшувати в багато тисяч разів сильніше.",
+            "Він також показує набагато дрібніші деталі, і це ми називаємо роздільною здатністю (resolution).",
+            "Клітини вимірюють у мікрометрах (micrometres).",
+            "В одному міліметрі одна тисяча мікрометрів.",
+            "Щоб знайти збільшення, поділіть розмір зображення на справжній розмір.",
+            "Щоб знайти справжній розмір, поділіть розмір зображення на збільшення."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک آلہ جو بہت چھوٹی چیزوں کو بڑا دکھاتا ہے (microscope)",
+            "تصویر اصلی چیز سے کتنے گنا بڑی ہے (magnification)",
+            "خوردبین کتنی باریک تفصیل دکھا سکتی ہے (resolution)",
+            "خلیوں کو ناپنے کی اکائی؛ ان میں سے ایک ہزار مل کر ایک ملی میٹر بناتے ہیں (micrometre)",
+            "ایسی خوردبین جو روشنی کے بجائے الیکٹرانوں کی شعاع استعمال کرتی ہے (electron microscope)"
+          ],
+          "passage": [
+            "خلیے (cells) اتنے چھوٹے ہیں کہ صرف آنکھوں سے نہیں دیکھے جا سکتے۔",
+            "خوردبین (microscope) ایک ننھی چیز کو بہت بڑا دکھاتی ہے۔",
+            "وہ کتنے گنا بڑی دکھتی ہے، اسے magnification کہتے ہیں۔",
+            "روشنی والی خوردبین (light microscope) روشنی اور شیشے کے لینز استعمال کرتی ہے۔",
+            "یہ ایک خلیے کو تقریباً دو ہزار گنا تک بڑا کر سکتی ہے۔",
+            "الیکٹران خوردبین (electron microscope) روشنی کے بجائے الیکٹرانوں کی شعاع استعمال کرتی ہے۔",
+            "یہ کئی ہزار گنا زیادہ بڑا کر سکتی ہے۔",
+            "یہ کہیں زیادہ باریک تفصیل بھی دکھاتی ہے، جسے ہم resolution کہتے ہیں۔",
+            "خلیے مائیکرومیٹر (micrometres) میں ناپے جاتے ہیں۔",
+            "ایک ملی میٹر میں ایک ہزار مائیکرومیٹر ہوتے ہیں۔",
+            "magnification معلوم کرنے کے لیے تصویر کے سائز کو اصلی سائز سے تقسیم کریں۔",
+            "اصلی سائز معلوم کرنے کے لیے تصویر کے سائز کو magnification سے تقسیم کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Light microscopes and electron microscopes",
@@ -294,8 +442,168 @@ window.ASTRA_UNITS["combined-cells"] = {
           "Chloroplasts hold green chlorophyll and make food by photosynthesis.",
           "A permanent vacuole stores sap and keeps the cell firm.",
           "We can see plant cells by looking at a thin piece of onion."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أصغر جزء حيّ في الكائن الحيّ (cell)",
+            "الجزء الذي يتحكّم في الخلية ويحمل الـ DNA (nucleus)",
+            "المادّة الهلامية داخل الخلية حيث تحدث التفاعلات الكيميائية (cytoplasm)",
+            "الغشاء الرقيق حول الخلية الذي يتحكّم في ما يدخل ويخرج (membrane)",
+            "الجزء الأخضر في الخلية النباتية حيث يُصنع الغذاء (chloroplast)",
+            "فراغ داخل الخلية النباتية مملوء بسائل مائي يُسمّى العصارة (vacuole)"
+          ],
+          "passage": [
+            "كل كائن حيّ مكوّن من خلايا.",
+            "الخلية (cell) أصغر جزء حيّ في الجسم.",
+            "الخلايا الحيوانية والخلايا النباتية تشترك في بعض الأجزاء.",
+            "النواة (nucleus) تتحكّم في الخلية وتحمل الـ DNA.",
+            "السيتوبلازم (cytoplasm) مادّة هلامية تحدث فيها التفاعلات الكيميائية.",
+            "غشاء الخلية (cell membrane) يتحكّم في ما يدخل ويخرج.",
+            "الميتوكوندريا (mitochondria) تُطلق الطاقة من الغذاء بالتنفّس الخلوي.",
+            "الريبوسومات (ribosomes) تصنع البروتينات.",
+            "الخلايا النباتية لها ثلاثة أجزاء إضافية.",
+            "جدار الخلية (cell wall) المصنوع من السليلوز يعطي الخلية النباتية شكلها وقوّتها.",
+            "البلاستيدات الخضراء (chloroplasts) تحمل الكلوروفيل الأخضر وتصنع الغذاء بالبناء الضوئي.",
+            "الفجوة الدائمة (permanent vacuole) تخزّن العصارة وتحفظ الخلية متماسكة.",
+            "يمكننا أن نرى الخلايا النباتية بالنظر إلى قطعة رقيقة من البصل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "najmniejsza żywa część żywego organizmu (cell)",
+            "część, która steruje komórką i przechowuje DNA (nucleus)",
+            "galaretka wewnątrz komórki, w której zachodzą reakcje chemiczne (cytoplasm)",
+            "cienka skórka wokół komórki, która kontroluje, co wchodzi i wychodzi (membrane)",
+            "zielona część komórki roślinnej, w której powstaje pokarm (chloroplast)",
+            "przestrzeń w komórce roślinnej wypełniona wodnistą cieczą zwaną sokiem komórkowym (vacuole)"
+          ],
+          "passage": [
+            "Każdy żywy organizm zbudowany jest z komórek.",
+            "Komórka (cell) to najmniejsza żywa część ciała.",
+            "Komórki zwierzęce i roślinne mają niektóre części wspólne.",
+            "Jądro (nucleus) steruje komórką i przechowuje DNA.",
+            "Cytoplazma (cytoplasm) to galaretka, w której zachodzą reakcje chemiczne.",
+            "Błona komórkowa (cell membrane) kontroluje, co wchodzi i wychodzi.",
+            "Mitochondria uwalniają energię z pokarmu przez oddychanie komórkowe (respiration).",
+            "Rybosomy (ribosomes) wytwarzają białka.",
+            "Komórki roślinne mają trzy dodatkowe części.",
+            "Ściana komórkowa (cell wall) z celulozy daje komórce roślinnej kształt i wytrzymałość.",
+            "Chloroplasty zawierają zielony chlorofil i wytwarzają pokarm przez fotosyntezę.",
+            "Stała wakuola (permanent vacuole) przechowuje sok komórkowy i utrzymuje komórkę jędrną.",
+            "Komórki roślinne możemy zobaczyć, patrząc na cienki kawałek cebuli."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a parte viva mais pequena de um ser vivo (cell, célula)",
+            "a parte que controla a célula e guarda o DNA (nucleus, núcleo)",
+            "a geleia dentro da célula onde acontecem as reações químicas (cytoplasm, citoplasma)",
+            "a pele fina à volta da célula que controla o que entra e sai (membrane, membrana)",
+            "a parte verde de uma célula vegetal onde se faz o alimento (chloroplast, cloroplasto)",
+            "um espaço dentro de uma célula vegetal cheio de um líquido aguado chamado seiva (vacuole, vacúolo)"
+          ],
+          "passage": [
+            "Todo ser vivo é feito de células.",
+            "Uma célula é a parte viva mais pequena de um corpo.",
+            "As células animais e as células vegetais têm algumas partes em comum.",
+            "O núcleo (nucleus) controla a célula e guarda o DNA.",
+            "O citoplasma (cytoplasm) é uma geleia onde acontecem as reações químicas.",
+            "A membrana celular (cell membrane) controla o que entra e sai.",
+            "As mitocôndrias libertam/liberam energia dos alimentos pela respiração.",
+            "Os ribossomas/ribossomos fazem proteínas.",
+            "As células vegetais têm três partes a mais.",
+            "Uma parede celular feita de celulose dá à célula vegetal a sua forma e a sua força.",
+            "Os cloroplastos (chloroplasts) guardam a clorofila verde e fazem alimento pela fotossíntese.",
+            "Um vacúolo permanente (vacuole) guarda seiva e mantém a célula firme.",
+            "Podemos ver células vegetais olhando para um pedaço fino de cebola."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qaybta ugu yar ee nool ee wax nool (cell)",
+            "qaybta unugga xakamaysa oo DNA-da haysa (nucleus)",
+            "jelly-ga unugga gudihiisa ku jira oo falcelinta kiimikadu ka dhacdo (cytoplasm)",
+            "maqaarka khafiifka ah ee unugga ku wareegsan oo xakameeya waxa gala iyo waxa baxa (membrane)",
+            "qaybta cagaaran ee unugga dhirta oo cuntada laga sameeyo (chloroplast)",
+            "boos unugga dhirta gudihiisa ku jira oo ka buuxo dareere biyo leh oo la yiraahdo sap (vacuole)"
+          ],
+          "passage": [
+            "Wax kasta oo nool waxay ka samaysan yihiin unugyo (cells).",
+            "Unug waa qaybta ugu yar ee nool ee jir.",
+            "Unugyada xayawaanka iyo unugyada dhirta qaybo ayay wadaagaan.",
+            "Nucleus-ku unugga ayuu xakameeyaa, DNA-dana wuu haystaa.",
+            "Cytoplasm waa jelly falcelinta kiimikadu ka dhacdo.",
+            "Cell membrane-ku wuxuu xakameeyaa waxa gala iyo waxa baxa.",
+            "Mitochondria waxay cuntada tamar ka sii daayaan neefsasho (respiration).",
+            "Ribosomes waxay samaysaan borotiinno (proteins).",
+            "Unugyada dhirtu waxay leeyihiin saddex qaybood oo dheeraad ah.",
+            "Derbi unug (cell wall) oo cellulose ka samaysan wuxuu unugga dhirta siiyaa qaabkiisa iyo xooggiisa.",
+            "Chloroplasts waxay haystaan chlorophyll cagaaran, cuntana waxay ku samaysaan photosynthesis.",
+            "Vacuole joogto ah (permanent vacuole) waxay kaydisaa sap, unuggana adkaysaa.",
+            "Unugyada dhirta waxaan arki karnaa annagoo eegayna gabal basal oo khafiif ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "найменша жива частина живого організму (cell)",
+            "частина, яка керує клітиною і містить ДНК (nucleus)",
+            "желеподібна речовина всередині клітини, де відбуваються хімічні реакції (cytoplasm)",
+            "тонка оболонка навколо клітини, яка контролює, що входить і виходить (membrane)",
+            "зелена частина рослинної клітини, де утворюється їжа (chloroplast)",
+            "порожнина всередині рослинної клітини, заповнена водянистою рідиною — клітинним соком (vacuole)"
+          ],
+          "passage": [
+            "Кожний живий організм складається з клітин.",
+            "Клітина (cell) — це найменша жива частина тіла.",
+            "Клітини тварин і клітини рослин мають деякі спільні частини.",
+            "Ядро (nucleus) керує клітиною і містить ДНК.",
+            "Цитоплазма (cytoplasm) — це желеподібна речовина, де відбуваються хімічні реакції.",
+            "Клітинна мембрана (cell membrane) контролює, що входить і виходить.",
+            "Мітохондрії (mitochondria) вивільняють енергію з їжі шляхом дихання (respiration).",
+            "Рибосоми (ribosomes) виробляють білки.",
+            "Рослинні клітини мають три додаткові частини.",
+            "Клітинна стінка (cell wall) з целюлози надає рослинній клітині форму й міцність.",
+            "Хлоропласти (chloroplasts) містять зелений хлорофіл і виробляють їжу шляхом фотосинтезу (photosynthesis).",
+            "Постійна вакуоля (vacuole) зберігає клітинний сік і підтримує клітину пружною.",
+            "Ми можемо побачити рослинні клітини, розглянувши тонкий шматочок цибулі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی جاندار کا سب سے چھوٹا زندہ حصہ (cell)",
+            "وہ حصہ جو خلیے کو کنٹرول کرتا ہے اور DNA رکھتا ہے (nucleus)",
+            "خلیے کے اندر کی جیلی جہاں کیمیائی عمل ہوتے ہیں (cytoplasm)",
+            "خلیے کے گرد باریک جھلی جو کنٹرول کرتی ہے کہ کیا اندر جائے اور کیا باہر آئے (membrane)",
+            "پودے کے خلیے کا سبز حصہ جہاں خوراک بنتی ہے (chloroplast)",
+            "پودے کے خلیے کے اندر ایک خلا جو sap نامی پانی جیسے مائع سے بھرا ہوتا ہے (vacuole)"
+          ],
+          "passage": [
+            "ہر جاندار خلیوں سے بنا ہے۔",
+            "خلیہ (cell) جسم کا سب سے چھوٹا زندہ حصہ ہے۔",
+            "جانوروں کے خلیوں اور پودوں کے خلیوں میں کچھ حصے مشترک ہیں۔",
+            "مرکزہ (nucleus) خلیے کو کنٹرول کرتا ہے اور DNA رکھتا ہے۔",
+            "cytoplasm ایک جیلی ہے جہاں کیمیائی عمل ہوتے ہیں۔",
+            "خلیے کی جھلی (cell membrane) کنٹرول کرتی ہے کہ کیا اندر جائے اور کیا باہر آئے۔",
+            "mitochondria تنفس (respiration) کے ذریعے خوراک سے توانائی خارج کرتے ہیں۔",
+            "ribosomes پروٹین بناتے ہیں۔",
+            "پودوں کے خلیوں میں تین اضافی حصے ہوتے ہیں۔",
+            "cellulose سے بنی خلیے کی دیوار (cell wall) پودے کے خلیے کو اس کی شکل اور مضبوطی دیتی ہے۔",
+            "chloroplasts سبز chlorophyll رکھتے ہیں اور ضیائی تالیف (photosynthesis) سے خوراک بناتے ہیں۔",
+            "مستقل vacuole رس (sap) ذخیرہ کرتا ہے اور خلیے کو سخت رکھتا ہے۔",
+            "ہم پیاز کے ایک باریک ٹکڑے کو دیکھ کر پودوں کے خلیے دیکھ سکتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What every animal and plant cell has",
@@ -460,8 +768,156 @@ window.ASTRA_UNITS["combined-cells"] = {
           "Some bacteria have a tail called a flagellum to swim with.",
           "Some have a slime capsule to protect them.",
           "Bacteria have no mitochondria and no chloroplasts."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كائنات حيّة صغيرة جداً مكوّنة من خلية واحدة فقط (bacteria)",
+            "خلية بلا نواة، مثل البكتيريا (prokaryote)",
+            "خلية لها نواة، مثل الخلية الحيوانية أو النباتية (eukaryote)",
+            "حلقة صغيرة من DNA إضافي في البكتيريا (plasmid)",
+            "ذيل تستعمله بعض البكتيريا للسباحة (flagellum)"
+          ],
+          "passage": [
+            "هناك نوعان رئيسيان من الخلايا.",
+            "الخلايا الحيوانية والنباتية خلايا حقيقية النواة (eukaryotic).",
+            "الـ DNA فيها محفوظ داخل نواة.",
+            "البكتيريا خلايا بدائية النواة (prokaryotic).",
+            "وهي أصغر بكثير من الخلايا الحيوانية والنباتية.",
+            "البكتيريا ليس لها نواة.",
+            "الـ DNA فيها يطفو حرّاً في السيتوبلازم على شكل حلقة كبيرة واحدة.",
+            "وقد تكون فيها أيضاً حلقات صغيرة من DNA تُسمّى بلازميدات (plasmids).",
+            "ولها غشاء خلية وجدار خلية.",
+            "بعض البكتيريا لها ذيل يُسمّى السوط (flagellum) تسبح به.",
+            "وبعضها له محفظة لعابية تحميها.",
+            "البكتيريا ليس فيها ميتوكوندريا ولا بلاستيدات خضراء."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "bardzo małe żywe organizmy zbudowane tylko z jednej komórki (bacteria)",
+            "komórka bez jądra, na przykład bakteria (prokaryote)",
+            "komórka z jądrem, na przykład komórka zwierzęca lub roślinna (eukaryote)",
+            "mały pierścień dodatkowego DNA w bakterii (plasmid)",
+            "ogonek, którego niektóre bakterie używają do pływania (flagellum)"
+          ],
+          "passage": [
+            "Są dwa główne typy komórek.",
+            "Komórki zwierzęce i roślinne to komórki eukariotyczne (eukaryotic).",
+            "Ich DNA jest trzymane wewnątrz jądra.",
+            "Bakterie to komórki prokariotyczne (prokaryotic).",
+            "Są dużo mniejsze niż komórki zwierzęce i roślinne.",
+            "Bakteria nie ma jądra.",
+            "Jej DNA pływa swobodnie w cytoplazmie jako jedna duża pętla.",
+            "Może też mieć małe pierścienie DNA zwane plazmidami (plasmids).",
+            "Ma błonę komórkową i ścianę komórkową.",
+            "Niektóre bakterie mają ogonek zwany wicią (flagellum), którym pływają.",
+            "Niektóre mają śluzową otoczkę, która je chroni.",
+            "Bakterie nie mają mitochondriów ani chloroplastów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "seres vivos muito pequenos feitos de uma só célula (bacteria, bactérias)",
+            "uma célula sem núcleo, como uma bactéria (prokaryote, procariota/procarionte)",
+            "uma célula com núcleo, como uma célula animal ou vegetal (eukaryote, eucariota/eucarionte)",
+            "um pequeno anel de DNA extra numa bactéria (plasmid, plasmídeo)",
+            "uma cauda que algumas bactérias usam para nadar (flagellum, flagelo)"
+          ],
+          "passage": [
+            "Há dois tipos principais de célula.",
+            "As células animais e vegetais são células eucarióticas (eukaryotic).",
+            "O seu DNA fica guardado dentro de um núcleo.",
+            "As bactérias são células procarióticas (prokaryotic).",
+            "São muito mais pequenas do que as células animais e vegetais.",
+            "Uma bactéria não tem núcleo.",
+            "O seu DNA flutua livre no citoplasma, num grande anel.",
+            "Também pode ter pequenos anéis de DNA chamados plasmídeos (plasmids).",
+            "Tem uma membrana celular e uma parede celular.",
+            "Algumas bactérias têm uma cauda chamada flagelo (flagellum) para nadar.",
+            "Algumas têm uma cápsula viscosa para as proteger.",
+            "As bactérias não têm mitocôndrias nem cloroplastos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "noolayaal aad u yaryar oo hal unug keliya ka samaysan (bacteria)",
+            "unug aan lahayn nucleus, sida bakteeriya (prokaryote)",
+            "unug leh nucleus, sida unug xayawaan ama dhir (eukaryote)",
+            "giraangir yar oo DNA dheeraad ah oo bakteeriya ku jirta (plasmid)",
+            "dabo bakteeriyada qaar u isticmaalaan dabaasha (flagellum)"
+          ],
+          "passage": [
+            "Waxaa jira laba nooc oo waaweyn oo unug.",
+            "Unugyada xayawaanka iyo dhirtu waa unugyo eukaryotic ah.",
+            "DNA-doodu waxay ku kaydsan tahay nucleus gudihiisa.",
+            "Bakteeriyadu waa unugyo prokaryotic ah.",
+            "Aad ayay uga yaryar yihiin unugyada xayawaanka iyo dhirta.",
+            "Bakteeriya nucleus ma laha.",
+            "DNA-deedu si xor ah ayay cytoplasm-ka ugu dhex sabbaysaa sidii hal wareeg weyn.",
+            "Waxay sidoo kale lahaan kartaa giraangiro yaryar oo DNA ah oo la yiraahdo plasmids.",
+            "Waxay leedahay cell membrane iyo cell wall.",
+            "Bakteeriyada qaar waxay leeyihiin dabo la yiraahdo flagellum oo ay ku dabbaashaan.",
+            "Qaar waxay leeyihiin dahaar dhuux ah (slime capsule) oo ilaaliya.",
+            "Bakteeriyadu ma laha mitochondria, ma lahana chloroplasts."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "дуже маленькі живі організми, що складаються лише з однієї клітини (bacteria)",
+            "клітина без ядра, наприклад бактерія (prokaryote)",
+            "клітина з ядром, наприклад клітина тварини або рослини (eukaryote)",
+            "маленьке кільце додаткової ДНК у бактерії (plasmid)",
+            "хвостик, за допомогою якого деякі бактерії плавають (flagellum)"
+          ],
+          "passage": [
+            "Є два головні типи клітин.",
+            "Клітини тварин і рослин — це еукаріотичні клітини (eukaryotic cells).",
+            "Їхня ДНК зберігається всередині ядра.",
+            "Бактерії — це прокаріотичні клітини (prokaryotic cells).",
+            "Вони набагато менші за клітини тварин і рослин.",
+            "Бактерія не має ядра.",
+            "Її ДНК вільно плаває в цитоплазмі у вигляді однієї великої петлі.",
+            "Вона також може мати маленькі кільця ДНК, які називаються плазмідами (plasmids).",
+            "Вона має клітинну мембрану і клітинну стінку.",
+            "Деякі бактерії мають хвостик — джгутик (flagellum), щоб плавати.",
+            "Деякі мають слизову капсулу для захисту.",
+            "Бактерії не мають ні мітохондрій, ні хлоропластів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "صرف ایک خلیے سے بنے بہت چھوٹے جاندار (bacteria)",
+            "ایسا خلیہ جس میں مرکزہ نہ ہو، جیسے ایک بیکٹیریم (prokaryote)",
+            "ایسا خلیہ جس میں مرکزہ ہو، جیسے جانور یا پودے کا خلیہ (eukaryote)",
+            "بیکٹیریم میں اضافی DNA کا ایک چھوٹا چھلا (plasmid)",
+            "ایک دُم جسے کچھ بیکٹیریا تیرنے کے لیے استعمال کرتے ہیں (flagellum)"
+          ],
+          "passage": [
+            "خلیوں کی دو بڑی قسمیں ہیں۔",
+            "جانوروں اور پودوں کے خلیے eukaryotic خلیے ہیں۔",
+            "ان کا DNA ایک مرکزے (nucleus) کے اندر رکھا ہوتا ہے۔",
+            "بیکٹیریا prokaryotic خلیے ہیں۔",
+            "وہ جانوروں اور پودوں کے خلیوں سے بہت چھوٹے ہوتے ہیں۔",
+            "بیکٹیریم میں کوئی مرکزہ نہیں ہوتا۔",
+            "اس کا DNA ایک بڑے حلقے کی شکل میں cytoplasm میں آزاد تیرتا ہے۔",
+            "اس میں DNA کے چھوٹے چھلے بھی ہو سکتے ہیں جنھیں plasmids کہتے ہیں۔",
+            "اس میں خلیے کی جھلی اور خلیے کی دیوار ہوتی ہے۔",
+            "کچھ بیکٹیریا کی ایک دُم ہوتی ہے جسے flagellum کہتے ہیں، جس سے وہ تیرتے ہیں۔",
+            "کچھ کے پاس حفاظت کے لیے ایک لعاب دار غلاف (slime capsule) ہوتا ہے۔",
+            "بیکٹیریا میں نہ mitochondria ہوتے ہیں نہ chloroplasts۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Two kinds of cell",
@@ -621,8 +1077,168 @@ window.ASTRA_UNITS["combined-cells"] = {
           "Phloem cells carry sugar from the leaves to the rest of the plant.",
           "As a cell grows, it changes to become specialised.",
           "This change is called differentiation."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مبنيّة لتقوم بعمل واحد محدّد (specialised)",
+            "تغيّرت لتناسب عملها (adapted)",
+            "الطريقة التي تتغيّر بها الخلية لتصبح متخصّصة (differentiation)",
+            "خلية طويلة تنقل الإشارات الكهربائية (nerve cell)",
+            "خلية في الجذر لها شعرة طويلة تمتصّ الماء (root hair cell)",
+            "أنابيب تنقل الماء إلى أعلى النبات (xylem)"
+          ],
+          "passage": [
+            "في جسمك أنواع كثيرة من الخلايا.",
+            "لكل نوع عمل خاص.",
+            "الخلية المتخصّصة (specialised) شكلها وبناؤها مناسبان لعملها.",
+            "هذا ما يُسمّى التكيّف (adapted).",
+            "الخلية المنوية (sperm cell) لها ذيل لتسبح إلى البويضة.",
+            "الخلية العصبية (nerve cell) طويلة ورفيعة لتنقل الإشارات في أنحاء الجسم.",
+            "الخلية العضلية (muscle cell) تستطيع أن تنقبض لتجعلك تتحرّك.",
+            "النباتات أيضاً لها خلايا متخصّصة.",
+            "خلية الشعرة الجذرية (root hair cell) لها شعرة طويلة تمتصّ الماء من التربة.",
+            "خلايا الخشب (xylem) تكوّن أنابيب مجوّفة تنقل الماء إلى أعلى النبات.",
+            "خلايا اللحاء (phloem) تنقل السكر من الأوراق إلى بقية النبات.",
+            "عندما تنمو الخلية، تتغيّر لتصبح متخصّصة.",
+            "هذا التغيّر يُسمّى التمايز (differentiation)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zbudowany do wykonywania jednego konkretnego zadania (specialised)",
+            "zmieniony tak, żeby pasował do swojego zadania (adapted)",
+            "sposób, w jaki komórka zmienia się, żeby stać się wyspecjalizowaną (differentiation)",
+            "długa komórka, która przenosi sygnały elektryczne (nerve cell)",
+            "komórka korzenia z długim włoskiem, który pobiera wodę (root hair cell)",
+            "rurki, które przenoszą wodę w górę rośliny (xylem)"
+          ],
+          "passage": [
+            "Twoje ciało ma wiele rodzajów komórek.",
+            "Każdy rodzaj ma specjalne zadanie.",
+            "Komórka wyspecjalizowana (specialised cell) jest ukształtowana i zbudowana do swojego zadania.",
+            "Nazywa się to przystosowaniem (adapted).",
+            "Komórka plemnika ma ogonek, żeby mogła dopłynąć do komórki jajowej.",
+            "Komórka nerwowa jest długa i cienka, żeby przenosić sygnały po ciele.",
+            "Komórka mięśniowa może się skracać, żebyś mógł się ruszać.",
+            "Rośliny też mają komórki wyspecjalizowane.",
+            "Komórka włośnikowa korzenia ma długi włosek, żeby pobierać wodę z gleby.",
+            "Komórki ksylemu (xylem) tworzą puste rurki, które przenoszą wodę w górę rośliny.",
+            "Komórki floemu (phloem) przenoszą cukier z liści do reszty rośliny.",
+            "Kiedy komórka rośnie, zmienia się, żeby stać się wyspecjalizowaną.",
+            "Ta zmiana nazywa się różnicowaniem (differentiation)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "construída para fazer um trabalho em particular (specialised, especializada)",
+            "modificada para servir ao seu trabalho (adapted, adaptada)",
+            "a maneira como uma célula muda para se tornar especializada (differentiation, diferenciação)",
+            "uma célula comprida que transporta sinais elétricos (nerve cell, célula nervosa)",
+            "uma célula da raiz com um pelo comprido que absorve água (root hair cell, célula do pelo radicular)",
+            "tubos que transportam água para cima na planta (xylem, xilema)"
+          ],
+          "passage": [
+            "O seu corpo tem muitos tipos de célula.",
+            "Cada tipo tem um trabalho especial.",
+            "Uma célula especializada (specialised) tem a forma e a estrutura certas para o seu trabalho.",
+            "A isto chama-se estar adaptada (adapted).",
+            "Um espermatozoide tem uma cauda para poder nadar até ao óvulo.",
+            "Uma célula nervosa é comprida e fina para transportar sinais pelo corpo.",
+            "Uma célula muscular consegue encurtar para fazer você mover-se.",
+            "As plantas também têm células especializadas.",
+            "Uma célula do pelo radicular (root hair cell) tem um pelo comprido para absorver água do solo.",
+            "As células do xilema (xylem) formam tubos ocos que transportam água para cima na planta.",
+            "As células do floema (phloem) transportam açúcar das folhas para o resto da planta.",
+            "À medida que uma célula cresce, ela muda para se tornar especializada.",
+            "Esta mudança chama-se diferenciação (differentiation)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "loo dhisay inuu hal shaqo gaar ah qabto (specialised)",
+            "la beddelay si uu shaqadiisa ugu habboonaado (adapted)",
+            "sida unug isu beddelo si uu u noqdo mid gaar ah (differentiation)",
+            "unug dheer oo qaada calaamado koronto (nerve cell)",
+            "unug xidid oo leh timo dheer oo biyo soo nuugta (root hair cell)",
+            "tuubooyin biyaha dhirta kor u qaada (xylem)"
+          ],
+          "passage": [
+            "Jirkaagu wuxuu leeyahay noocyo badan oo unug.",
+            "Nooc kastaa wuxuu leeyahay shaqo gaar ah.",
+            "Unug gaar ah (specialised cell) shaqadiisa ayaa loo qaabeeyay oo loo dhisay.",
+            "Tan waxaa la yiraahdaa la qabsasho (adapted).",
+            "Unug shahwo (sperm cell) wuxuu leeyahay dabo si uu ugu dabbaasho ukunta.",
+            "Unug neerfe (nerve cell) waa dheer oo khafiif ah si uu calaamado jirka u dhex qaado.",
+            "Unug muruq (muscle cell) wuu gaaban karaa si uu kaa dhigo inaad dhaqaaqdo.",
+            "Dhirtuna waxay leedahay unugyo gaar ah.",
+            "Root hair cell waxay leedahay timo dheer si ay biyo uga soo nuugto ciidda.",
+            "Unugyada xylem waxay samaystaan tuubooyin dalool ah oo biyaha dhirta kor u qaada.",
+            "Unugyada phloem waxay sonkorta ka qaadaan caleemaha oo gaarsiiyaan dhirta inteeda kale.",
+            "Markuu unug korayo, wuu is beddelaa si uu u noqdo mid gaar ah.",
+            "Isbeddelkan waxaa la yiraahdaa differentiation."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "побудований для виконання однієї певної роботи (specialised)",
+            "змінений так, щоб підходити для своєї роботи (adapted)",
+            "те, як клітина змінюється, щоб стати спеціалізованою (differentiation)",
+            "довга клітина, яка передає електричні сигнали (nerve cell)",
+            "клітина кореня з довгим волоском, яка вбирає воду (root hair cell)",
+            "трубки, які несуть воду вгору по рослині (xylem)"
+          ],
+          "passage": [
+            "У вашому тілі багато видів клітин.",
+            "Кожний вид має особливу роботу.",
+            "Спеціалізована клітина (specialised cell) має форму та будову, що підходять для її роботи.",
+            "Це називається пристосованістю (adapted).",
+            "Сперматозоїд має хвостик, щоб плисти до яйцеклітини.",
+            "Нервова клітина (nerve cell) довга й тонка, щоб передавати сигнали по тілу.",
+            "М’язова клітина може скорочуватися, щоб ви рухалися.",
+            "Рослини також мають спеціалізовані клітини.",
+            "Клітина кореневого волоска (root hair cell) має довгий волосок, щоб вбирати воду з ґрунту.",
+            "Клітини ксилеми (xylem) утворюють порожнисті трубки, які несуть воду вгору по рослині.",
+            "Клітини флоеми (phloem) переносять цукор від листя до решти рослини.",
+            "Коли клітина росте, вона змінюється, щоб стати спеціалізованою.",
+            "Ця зміна називається диференціацією (differentiation)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک خاص کام کرنے کے لیے بنا ہوا (specialised)",
+            "ایسا بدلا ہوا کہ اپنے کام کے لیے موزوں ہو (adapted)",
+            "وہ طریقہ جس سے خلیہ بدل کر خاص کام والا بن جاتا ہے (differentiation)",
+            "ایک لمبا خلیہ جو بجلی کے سگنل لے جاتا ہے (nerve cell)",
+            "جڑ کا ایک خلیہ جس کا لمبا بال پانی جذب کرتا ہے (root hair cell)",
+            "نلکیاں جو پودے میں پانی اوپر لے جاتی ہیں (xylem)"
+          ],
+          "passage": [
+            "آپ کے جسم میں خلیوں کی بہت سی قسمیں ہیں۔",
+            "ہر قسم کا ایک خاص کام ہے۔",
+            "خاص کام والا خلیہ (specialised cell) اپنے کام کے لیے بنایا اور ڈھالا گیا ہوتا ہے۔",
+            "اسے adapted ہونا کہتے ہیں۔",
+            "sperm cell کی ایک دُم ہوتی ہے تا کہ وہ انڈے تک تیر سکے۔",
+            "عصبی خلیہ (nerve cell) لمبا اور پتلا ہوتا ہے تا کہ جسم میں سگنل لے جا سکے۔",
+            "پٹھے کا خلیہ (muscle cell) سکڑ سکتا ہے تا کہ آپ حرکت کر سکیں۔",
+            "پودوں میں بھی خاص کام والے خلیے ہوتے ہیں۔",
+            "root hair cell کا ایک لمبا بال ہوتا ہے جو مٹی سے پانی جذب کرتا ہے۔",
+            "xylem خلیے کھوکھلی نلکیاں بناتے ہیں جو پودے میں پانی اوپر لے جاتی ہیں۔",
+            "phloem خلیے پتوں سے شکر باقی پودے تک لے جاتے ہیں۔",
+            "جیسے جیسے خلیہ بڑھتا ہے، وہ بدل کر خاص کام والا بن جاتا ہے۔",
+            "اس تبدیلی کو differentiation کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Specialised cells and differentiation",
@@ -790,8 +1406,162 @@ window.ASTRA_UNITS["combined-cells"] = {
           "A large surface area means faster diffusion.",
           "Small cells have a large surface area for their volume.",
           "That is one reason cells are so small."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "انتشار الجسيمات من حيث تكون كثيرة إلى حيث تكون قليلة (diffusion)",
+            "القطع الصغيرة جداً التي يتكوّن منها كل شيء (particles)",
+            "كم من شيء ما محشور في فراغ معيّن (concentration)",
+            "الفرق في التركيز بين مكانَين (concentration gradient)",
+            "الحركة الإجمالية، بعد حساب الجسيمات المتحرّكة في الاتجاهَين (net movement)",
+            "المساحة الكلية لسطح شيء ما من الخارج (surface area)"
+          ],
+          "passage": [
+            "الجسيمات في الغازات والسوائل تتحرّك دائماً.",
+            "وهي تنتشر من حيث تكون كثيرة إلى حيث تكون قليلة.",
+            "هذا الانتشار يُسمّى الانتشار (diffusion).",
+            "الانتشار لا يحتاج إلى طاقة من الخلية.",
+            "الأكسجين والغلوكوز ينتشران إلى داخل خلاياك.",
+            "وثاني أكسيد الكربون والماء ينتشران إلى الخارج.",
+            "كلما كان الفرق في التركيز (concentration) أكبر، كان الانتشار أسرع.",
+            "الجسيمات الدافئة تتحرّك أسرع، لذلك يكون الانتشار أسرع عندما يكون الجوّ دافئاً.",
+            "المسافة القصيرة تعني انتشاراً أسرع.",
+            "ومساحة السطح (surface area) الكبيرة تعني انتشاراً أسرع.",
+            "الخلايا الصغيرة لها مساحة سطح كبيرة بالنسبة إلى حجمها.",
+            "هذا أحد أسباب كون الخلايا صغيرة جداً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "rozprzestrzenianie się cząstek z miejsca, gdzie jest ich dużo, tam, gdzie jest ich mało (diffusion)",
+            "maleńkie kawałki, z których wszystko jest zbudowane (particles)",
+            "ile czegoś jest upakowane w danej przestrzeni (concentration)",
+            "różnica stężenia między dwoma miejscami (concentration gradient)",
+            "ruch wypadkowy, po policzeniu cząstek idących w obie strony (net movement)",
+            "całkowita powierzchnia zewnętrzna czegoś (surface area)"
+          ],
+          "passage": [
+            "Cząstki w gazach i cieczach cały czas się ruszają.",
+            "Rozprzestrzeniają się z miejsca, gdzie jest ich dużo, tam, gdzie jest ich mało.",
+            "To rozprzestrzenianie nazywa się dyfuzją (diffusion).",
+            "Dyfuzja nie potrzebuje energii od komórki.",
+            "Tlen i glukoza dyfundują do twoich komórek.",
+            "Dwutlenek węgla i woda dyfundują na zewnątrz.",
+            "Im większa różnica stężeń, tym szybsza dyfuzja.",
+            "Ciepłe cząstki ruszają się szybciej, więc dyfuzja jest szybsza, kiedy jest ciepło.",
+            "Krótka odległość oznacza szybszą dyfuzję.",
+            "Duża powierzchnia (surface area) oznacza szybszą dyfuzję.",
+            "Małe komórki mają dużą powierzchnię w stosunku do swojej objętości.",
+            "To jeden z powodów, dla których komórki są tak małe."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o espalhar das partículas de onde há muitas para onde há poucas (diffusion, difusão)",
+            "os pedacinhos minúsculos de que tudo é feito (particles, partículas)",
+            "quanto de algo está concentrado num espaço (concentration, concentração)",
+            "a diferença de concentração entre dois lugares (concentration gradient, gradiente de concentração)",
+            "o movimento geral, depois de contar as partículas que vão nos dois sentidos (net movement, movimento líquido)",
+            "a área total do exterior de alguma coisa (surface area, área de superfície)"
+          ],
+          "passage": [
+            "As partículas nos gases e nos líquidos estão sempre a mover-se/se movendo.",
+            "Elas espalham-se de onde há muitas para onde há poucas.",
+            "Este espalhar chama-se difusão (diffusion).",
+            "A difusão não precisa de energia da célula.",
+            "O oxigénio/oxigênio e a glicose difundem-se para dentro das suas células.",
+            "O dióxido de carbono e a água difundem-se para fora.",
+            "Quanto maior a diferença de concentração, mais rápida é a difusão.",
+            "As partículas quentes movem-se mais depressa, por isso a difusão é mais rápida quando está quente.",
+            "Uma distância curta quer dizer difusão mais rápida.",
+            "Uma grande área de superfície (surface area) quer dizer difusão mais rápida.",
+            "As células pequenas têm uma grande área de superfície em relação ao seu volume.",
+            "Essa é uma das razões por que as células são tão pequenas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "kala firdhidda particles meel ay ku badan yihiin ilaa meel ay ku yar yihiin (diffusion)",
+            "qaybaha aad u yaryar ee wax walba ka samaysan yihiin (particles)",
+            "inta wax uun boos ku dhex cufan yihiin (concentration)",
+            "farqiga concentration ee u dhexeeya laba meelood (concentration gradient)",
+            "dhaqaaqa guud, kadib markii la tiriyo particles labada dhinac u socda (net movement)",
+            "area-da guud ee dibadda wax uun (surface area)"
+          ],
+          "passage": [
+            "Particles ku jira gaasaska iyo dareerayaasha mar walba way dhaqaaqayaan.",
+            "Way ka kala firdhaan meel ay ku badan yihiin ilaa meel ay ku yar yihiin.",
+            "Kala firdhiddan waxaa la yiraahdaa diffusion.",
+            "Diffusion tamar uga baahan ma aha unugga.",
+            "Oxygen iyo glucose unugyadaada ayay u dhex galaan (diffuse).",
+            "Carbon dioxide iyo biyo dibadda ayay u baxaan.",
+            "Inta farqiga concentration ka weyn yahay, diffusion-ku wuu ka dhaqso badan yahay.",
+            "Particles diirran si dhaqso badan ayay u dhaqaaqaan, sidaas darteed diffusion wuu dhaqso badan yahay markay diirran tahay.",
+            "Masaafo gaaban micnaheedu waa diffusion dhaqso badan.",
+            "Surface area weyn micnaheedu waa diffusion dhaqso badan.",
+            "Unugyada yaryar waxay leeyihiin surface area weyn marka loo eego mugooda (volume).",
+            "Taasi waa mid ka mid ah sababaha unugyadu u yaryar yihiin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "поширення частинок звідти, де їх багато, туди, де їх мало (diffusion)",
+            "крихітні частинки, з яких складається все (particles)",
+            "скільки чогось зібрано в певному просторі (concentration)",
+            "різниця концентрацій між двома місцями (concentration gradient)",
+            "загальний рух, коли враховано частинки, що рухаються в обох напрямках (net movement)",
+            "загальна площа зовнішньої поверхні чогось (surface area)"
+          ],
+          "passage": [
+            "Частинки в газах і рідинах постійно рухаються.",
+            "Вони поширюються звідти, де їх багато, туди, де їх мало.",
+            "Це поширення називається дифузією (diffusion).",
+            "Дифузія не потребує енергії від клітини.",
+            "Кисень і глюкоза дифундують у ваші клітини.",
+            "Вуглекислий газ і вода дифундують із них.",
+            "Чим більша різниця концентрацій, тим швидша дифузія.",
+            "Теплі частинки рухаються швидше, тому дифузія швидша, коли тепло.",
+            "Коротка відстань означає швидшу дифузію.",
+            "Велика площа поверхні (surface area) означає швидшу дифузію.",
+            "Маленькі клітини мають велику площу поверхні відносно свого об’єму.",
+            "Це одна з причин, чому клітини такі маленькі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ذرات کا وہاں سے جہاں وہ زیادہ ہوں وہاں کی طرف پھیلنا جہاں وہ کم ہوں (diffusion)",
+            "وہ ننھے ٹکڑے جن سے ہر چیز بنی ہے (particles)",
+            "کسی جگہ میں کوئی چیز کتنی بھری ہوئی ہے (concentration)",
+            "دو جگہوں کے بیچ ارتکاز کا فرق (concentration gradient)",
+            "مجموعی حرکت، دونوں طرف جانے والے ذرات کو گن کر (net movement)",
+            "کسی چیز کے باہر کا کل رقبہ (surface area)"
+          ],
+          "passage": [
+            "گیسوں اور مائعوں کے ذرات ہمیشہ حرکت کرتے رہتے ہیں۔",
+            "وہ وہاں سے جہاں زیادہ ہوں وہاں پھیل جاتے ہیں جہاں کم ہوں۔",
+            "اس پھیلنے کو diffusion کہتے ہیں۔",
+            "Diffusion کو خلیے سے کسی توانائی کی ضرورت نہیں ہوتی۔",
+            "آکسیجن اور گلوکوز آپ کے خلیوں میں diffuse ہو کر اندر جاتے ہیں۔",
+            "کاربن ڈائی آکسائیڈ اور پانی diffuse ہو کر باہر آتے ہیں۔",
+            "ارتکاز (concentration) کا فرق جتنا بڑا، diffusion اتنی تیز۔",
+            "گرم ذرات تیز چلتے ہیں، اس لیے گرمی میں diffusion تیز ہوتی ہے۔",
+            "کم فاصلے کا مطلب ہے تیز diffusion۔",
+            "بڑے سطحی رقبے (surface area) کا مطلب ہے تیز diffusion۔",
+            "چھوٹے خلیوں کا ان کے حجم کے مقابلے میں سطحی رقبہ بڑا ہوتا ہے۔",
+            "یہ ایک وجہ ہے کہ خلیے اتنے چھوٹے ہوتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What diffusion is",
@@ -958,8 +1728,168 @@ window.ASTRA_UNITS["combined-cells"] = {
           "It moves particles from a low concentration to a high concentration.",
           "This needs energy from respiration.",
           "Root hair cells use it to take in minerals from the soil."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حركة الماء عبر غشاء من محلول ضعيف إلى محلول قوي (osmosis)",
+            "محلول ضعيف، فيه ماء كثير وقليل من المادّة المذابة (dilute)",
+            "محلول قوي، فيه كثير من المادّة المذابة (concentrated)",
+            "يسمح لبعض الجسيمات بالمرور ولا يسمح لغيرها (partially permeable)",
+            "متماسك ومنتفخ بالماء (turgid)",
+            "نقل الجسيمات من تركيز منخفض إلى تركيز مرتفع باستعمال الطاقة (active transport)"
+          ],
+          "passage": [
+            "الأسموزية (osmosis) هي حركة الماء.",
+            "يتحرّك الماء عبر غشاء شبه منفذ (partially permeable).",
+            "هذا الغشاء يسمح بمرور الماء ولا يسمح بمرور الجسيمات المذابة الكبيرة.",
+            "يتحرّك الماء من المحلول المخفّف (dilute) إلى المحلول المركّز (concentrated).",
+            "المحلول المخفّف فيه ماء كثير وقليل من السكر أو الملح.",
+            "المحلول المركّز فيه ماء أقلّ وسكر أو ملح أكثر.",
+            "في الماء النقي، تنتفخ الخلية الحيوانية وقد تنفجر.",
+            "الخلية النباتية تنتفخ أيضاً، لكن جدارها يمنعها من الانفجار.",
+            "في محلول سكري قوي، تفقد الخلايا الماء وتنكمش.",
+            "النقل النشط (active transport) شيء مختلف.",
+            "فهو ينقل الجسيمات من تركيز منخفض إلى تركيز مرتفع.",
+            "وهذا يحتاج إلى طاقة من التنفّس الخلوي.",
+            "خلايا الشعرة الجذرية تستعمله لتمتصّ المعادن من التربة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ruch wody przez błonę z roztworu słabego do mocnego (osmosis)",
+            "słaby roztwór, z dużą ilością wody i małą ilością substancji rozpuszczonej (dilute)",
+            "mocny roztwór, z dużą ilością substancji rozpuszczonej (concentrated)",
+            "przepuszczający niektóre cząstki, ale nie inne (partially permeable)",
+            "jędrny i napełniony wodą (turgid)",
+            "przenoszenie cząstek z niskiego do wysokiego stężenia z użyciem energii (active transport)"
+          ],
+          "passage": [
+            "Osmoza (osmosis) to ruch wody.",
+            "Woda przechodzi przez błonę półprzepuszczalną (partially permeable membrane).",
+            "Ta błona przepuszcza wodę, ale nie duże rozpuszczone cząstki.",
+            "Woda przechodzi z roztworu rozcieńczonego (dilute) do roztworu stężonego (concentrated).",
+            "Roztwór rozcieńczony ma dużo wody i mało cukru lub soli.",
+            "Roztwór stężony ma mniej wody i więcej cukru lub soli.",
+            "W czystej wodzie komórka zwierzęca pęcznieje i może pęknąć.",
+            "Komórka roślinna też pęcznieje, ale jej ściana komórkowa nie pozwala jej pęknąć.",
+            "W mocnym roztworze cukru komórki tracą wodę i się kurczą.",
+            "Transport aktywny (active transport) jest inny.",
+            "Przenosi cząstki z niskiego stężenia do wysokiego stężenia.",
+            "To potrzebuje energii z oddychania komórkowego.",
+            "Komórki włośnikowe korzenia używają go, żeby pobierać minerały z gleby."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o movimento da água através de uma membrana, de uma solução fraca para uma forte (osmosis, osmose)",
+            "uma solução fraca, com muita água e pouco dissolvido nela (dilute, diluída)",
+            "uma solução forte, com muito dissolvido nela (concentrated, concentrada)",
+            "que deixa passar algumas partículas mas não outras (partially permeable, parcialmente permeável)",
+            "firme e inchada de água (turgid, túrgida)",
+            "mover partículas de uma concentração baixa para uma alta usando energia (active transport, transporte ativo)"
+          ],
+          "passage": [
+            "A osmose (osmosis) é o movimento da água.",
+            "A água move-se através de uma membrana parcialmente permeável (partially permeable).",
+            "Esta membrana deixa passar a água, mas não as partículas grandes dissolvidas.",
+            "A água move-se de uma solução diluída para uma solução concentrada.",
+            "Uma solução diluída tem muita água e pouco açúcar ou sal.",
+            "Uma solução concentrada tem menos água e mais açúcar ou sal.",
+            "Em água pura, uma célula animal incha e pode rebentar/estourar.",
+            "Uma célula vegetal também incha, mas a sua parede celular impede-a de rebentar/estourar.",
+            "Numa solução forte de açúcar, as células perdem água e encolhem.",
+            "O transporte ativo (active transport) é diferente.",
+            "Move partículas de uma concentração baixa para uma concentração alta.",
+            "Isto precisa de energia da respiração.",
+            "As células do pelo radicular usam-no para absorver minerais do solo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhaqaaqa biyaha oo membrane dhex mara, xal daciif ah ilaa mid xoog leh (osmosis)",
+            "xal daciif ah, oo biyo badan leh wax yarna ku milmay (dilute)",
+            "xal xoog leh, oo wax badan ku milmay (concentrated)",
+            "particles qaar daaya laakiin kuwa kale ma daayo (partially permeable)",
+            "adag oo biyo ka buuxaan (turgid)",
+            "particles ka dhaqaajin concentration hoose ilaa mid sare iyadoo tamar la isticmaalayo (active transport)"
+          ],
+          "passage": [
+            "Osmosis waa dhaqaaqa biyaha.",
+            "Biyuhu waxay dhex maraan membrane qayb ahaan daloolan (partially permeable).",
+            "Membrane-kan biyaha ayuu daayaa laakiin particles waaweyn oo milmay ma daayo.",
+            "Biyuhu waxay ka dhaqaaqaan xal daciif ah (dilute) una socdaan xal xoog leh (concentrated).",
+            "Xal daciif ah wuxuu leeyahay biyo badan iyo sonkor ama cusbo yar.",
+            "Xal xoog leh wuxuu leeyahay biyo ka yar iyo sonkor ama cusbo ka badan.",
+            "Biyo saafi ah dhexdood, unug xayawaan wuu bararaa wuuna qarxi karaa.",
+            "Unug dhir isna wuu bararaa, laakiin cell wall-kiisu wuxuu ka joojiyaa qarxidda.",
+            "Xal sonkor xoog leh dhexdiis, unugyadu biyo ayay lumiyaan oo way yaraadaan.",
+            "Active transport way ka duwan tahay.",
+            "Particles waxay ka dhaqaajisaa concentration hoose una gaarsiisaa concentration sare.",
+            "Tani waxay u baahan tahay tamar ka timaadda neefsasho (respiration).",
+            "Root hair cells waxay u isticmaalaan si ay macdano (minerals) ciidda ka soo nuugaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "рух води через мембрану зі слабкого розчину в міцний (osmosis)",
+            "слабкий розчин, у якому багато води й мало розчиненої речовини (dilute)",
+            "міцний розчин, у якому розчинено багато речовини (concentrated)",
+            "такий, що пропускає одні частинки, але не пропускає інших (partially permeable)",
+            "пружний і набряклий від води (turgid)",
+            "перенесення частинок із низької концентрації у високу з використанням енергії (active transport)"
+          ],
+          "passage": [
+            "Осмос (osmosis) — це рух води.",
+            "Вода проходить через частково проникну мембрану (partially permeable membrane).",
+            "Ця мембрана пропускає воду, але не пропускає великих розчинених частинок.",
+            "Вода рухається з розведеного розчину (dilute) у концентрований (concentrated).",
+            "У розведеному розчині багато води й мало цукру або солі.",
+            "У концентрованому розчині менше води й більше цукру або солі.",
+            "У чистій воді клітина тварини набрякає й може луснути.",
+            "Рослинна клітина також набрякає, але клітинна стінка не дає їй луснути.",
+            "У міцному цукровому розчині клітини втрачають воду й зморщуються.",
+            "Активний транспорт (active transport) — це інше.",
+            "Він переносить частинки з низької концентрації у високу.",
+            "Для цього потрібна енергія від дихання.",
+            "Клітини кореневих волосків використовують його, щоб вбирати мінерали з ґрунту."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پانی کی جھلی کے ذریعے کمزور محلول سے مضبوط محلول کی طرف حرکت (osmosis)",
+            "کمزور محلول، جس میں پانی زیادہ اور حل شدہ چیز کم ہو (dilute)",
+            "مضبوط محلول، جس میں بہت سی چیز حل ہو (concentrated)",
+            "کچھ ذرات کو گزرنے دینا مگر دوسروں کو نہیں (partially permeable)",
+            "پانی سے سخت اور پھولا ہوا (turgid)",
+            "توانائی استعمال کر کے ذرات کو کم ارتکاز سے زیادہ ارتکاز کی طرف لے جانا (active transport)"
+          ],
+          "passage": [
+            "Osmosis پانی کی حرکت ہے۔",
+            "پانی ایک جزوی طور پر نفوذ پذیر جھلی (partially permeable membrane) کے پار جاتا ہے۔",
+            "یہ جھلی پانی کو گزرنے دیتی ہے مگر بڑے حل شدہ ذرات کو نہیں۔",
+            "پانی پتلے (dilute) محلول سے گاڑھے (concentrated) محلول کی طرف جاتا ہے۔",
+            "پتلے محلول میں پانی زیادہ اور شکر یا نمک کم ہوتا ہے۔",
+            "گاڑھے محلول میں پانی کم اور شکر یا نمک زیادہ ہوتا ہے۔",
+            "خالص پانی میں جانور کا خلیہ پھول جاتا ہے اور پھٹ سکتا ہے۔",
+            "پودے کا خلیہ بھی پھولتا ہے، مگر اس کی خلیے کی دیوار اسے پھٹنے سے روکتی ہے۔",
+            "شکر کے گاڑھے محلول میں خلیے پانی کھو دیتے ہیں اور سکڑ جاتے ہیں۔",
+            "Active transport الگ چیز ہے۔",
+            "یہ ذرات کو کم ارتکاز سے زیادہ ارتکاز کی طرف لے جاتا ہے۔",
+            "اس کے لیے تنفس (respiration) سے توانائی چاہیے ہوتی ہے۔",
+            "root hair cells اسے مٹی سے معدنیات لینے کے لیے استعمال کرتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Osmosis: water on the move",

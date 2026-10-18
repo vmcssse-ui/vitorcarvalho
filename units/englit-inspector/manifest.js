@@ -121,8 +121,162 @@ window.ASTRA_UNITS["englit-inspector"] = {
           "They had lived through two wars.",
           "Priestley uses that gap of thirty-three years to teach a lesson.",
           "Keep both dates in your head as you read the play."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "العالم الذي كُتب فيه النص والذي يتكلّم عنه (context)",
+            "سلّم الطبقات من الأغنياء إلى الفقراء (social hierarchy)",
+            "نظام تُدار فيه الأعمال من أجل الربح الخاص (capitalism)",
+            "الاعتقاد بأن المجتمع يجب أن يتشارك ويرعى كل أفراده (socialism)",
+            "من السنوات التي سبقت الحرب العالمية الأولى (Edwardian)"
+          ],
+          "passage": [
+            "«مفتّش يزور» (An Inspector Calls) مسرحية كتبها ج. ب. بريستلي (J. B. Priestley).",
+            "كتبها في عام 1945، في نهاية الحرب العالمية الثانية.",
+            "لكنه جعل أحداث القصة في عام 1912، قبل الحرب العالمية الأولى.",
+            "في عام 1912، كان في بريطانيا سلّم اجتماعي صارم.",
+            "كان أصحاب المصانع الأغنياء قريبين من القمّة.",
+            "وكان عمّالهم يكسبون قليلاً جداً ولهم حقوق قليلة.",
+            "لم تكن هناك دولة رعاية (welfare state) تلتقط من يسقطون.",
+            "أراد بريستلي بلداً أكثر عدلاً بعد الحرب.",
+            "كان يؤمن بأن على كل شخص أن يرعى الآخرين.",
+            "كان جمهور عام 1945 يعرف ما حدث منذ عام 1912.",
+            "فقد عاشوا حربَين.",
+            "يستعمل بريستلي هذه الفجوة التي طولها ثلاث وثلاثون سنة ليعلّمنا درساً.",
+            "احتفظ بالتاريخَين في ذهنك وأنت تقرأ المسرحية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "świat, w którym i o którym powstał tekst (context)",
+            "drabina klas społecznych od bogatych do biednych (social hierarchy)",
+            "system, w którym biznes prowadzi się dla prywatnego zysku (capitalism)",
+            "przekonanie, że społeczeństwo powinno się dzielić i dbać o każdego (socialism)",
+            "z lat przed pierwszą wojną światową (Edwardian)"
+          ],
+          "passage": [
+            "An Inspector Calls (Pan Inspektor przyszedł) to sztuka J. B. Priestleya.",
+            "Napisał ją w 1945 roku, pod koniec drugiej wojny światowej.",
+            "Ale akcję umieścił w 1912 roku, przed pierwszą wojną światową.",
+            "W 1912 roku Wielka Brytania miała sztywną drabinę społeczną.",
+            "Bogaci właściciele fabryk siedzieli blisko szczytu.",
+            "Ich robotnicy zarabiali bardzo mało i mieli niewiele praw.",
+            "Nie było państwa opiekuńczego, które łapałoby tych, którzy spadli.",
+            "Priestley chciał po wojnie sprawiedliwszego kraju.",
+            "Wierzył, że każdy powinien dbać o wszystkich innych.",
+            "Publiczność w 1945 roku wiedziała, co wydarzyło się od 1912 roku.",
+            "Przeżyli dwie wojny.",
+            "Priestley używa tej przerwy trzydziestu trzech lat, żeby dać lekcję.",
+            "Kiedy czytasz sztukę, miej w głowie obie daty."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o mundo em que um texto foi escrito e sobre o qual fala (context, contexto)",
+            "a escada das classes sociais, dos ricos aos pobres (social hierarchy, hierarquia social)",
+            "um sistema em que os negócios são geridos para lucro privado (capitalism, capitalismo)",
+            "a crença de que a sociedade deve partilhar/compartilhar e cuidar de todos (socialism, socialismo)",
+            "dos anos antes da Primeira Guerra Mundial (Edwardian, eduardiano)"
+          ],
+          "passage": [
+            "An Inspector Calls é uma peça de J. B. Priestley.",
+            "Ele escreveu-a em 1945, no fim da Segunda Guerra Mundial.",
+            "Mas situou a história em 1912, antes da Primeira Guerra Mundial.",
+            "Em 1912, a Grã-Bretanha tinha uma escada social rígida.",
+            "Os donos ricos das fábricas estavam perto do topo.",
+            "Os seus trabalhadores ganhavam muito pouco e tinham poucos direitos.",
+            "Não havia um estado social (welfare state) para amparar as pessoas que caíam.",
+            "Priestley queria um país mais justo depois da guerra.",
+            "Ele acreditava que todos deviam cuidar de todos.",
+            "O público de 1945 sabia o que tinha acontecido desde 1912.",
+            "Tinham vivido duas guerras.",
+            "Priestley usa esse intervalo de trinta e três anos para dar uma lição.",
+            "Guarde as duas datas na cabeça enquanto lê a peça."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "adduunka qoraal lagu qoray oo uu ku saabsan yahay (context)",
+            "jaranjarada heerarka bulshada, hodanka ilaa saboolka (social hierarchy)",
+            "nidaam ganacsiga loo wado faa'iido gaar ah (capitalism)",
+            "aaminaadda ah in bulshadu wax wadaagto oo qof walba daryeesho (socialism)",
+            "ka soo jeeda sannadihii ka horreeyay Dagaalkii Koowaad ee Adduunka (Edwardian)"
+          ],
+          "passage": [
+            "An Inspector Calls waa riwaayad uu qoray J. B. Priestley.",
+            "Wuxuu qoray 1945, dhammaadkii Dagaalkii Labaad ee Adduunka.",
+            "Laakiin sheekada wuxuu dhigay 1912, ka hor Dagaalkii Koowaad ee Adduunka.",
+            "Sannadkii 1912, Britain waxay lahayd jaranjaro bulsho adag.",
+            "Milkiilayaasha warshadaha ee hodanka ah waxay fadhiyeen meel sare u dhow.",
+            "Shaqaalahoodu wax yar ayay kasban jireen, xuquuq yarna ayay lahaayeen.",
+            "Ma jirin nidaam daryeel bulsho (welfare state) oo qabta dadka dhaca.",
+            "Priestley wuxuu doonayay dal ka cadaalad badan dagaalka kadib.",
+            "Wuxuu rumaysnaa in qof walba uu daryeelo qof walba oo kale.",
+            "Daawadayaashii 1945 waxay ogaayeen waxa dhacay tan iyo 1912.",
+            "Laba dagaal ayay soo mareen.",
+            "Priestley wuxuu isticmaalaa farqigaas saddex iyo soddon sano si uu cashar u baro.",
+            "Labada taariikh maskaxda ku hay markaad riwaayadda akhrinayso."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "світ, у якому і про який було написано текст (context)",
+            "сходинки класів від багатих до бідних (social hierarchy)",
+            "система, у якій бізнес ведуть задля приватного прибутку (capitalism)",
+            "переконання, що суспільство має ділитися й дбати про кожного (socialism)",
+            "із років перед Першою світовою війною (Edwardian)"
+          ],
+          "passage": [
+            "«Інспектор прийшов» (An Inspector Calls) — це п’єса Дж. Б. Прістлі.",
+            "Він написав її в 1945 році, наприкінці Другої світової війни.",
+            "Але дію він помістив у 1912 рік, перед Першою світовою війною.",
+            "У 1912 році у Британії була сувора соціальна ієрархія (social hierarchy).",
+            "Багаті власники фабрик були біля вершини.",
+            "Їхні робітники заробляли дуже мало й мали мало прав.",
+            "Не було держави загального добробуту (welfare state), яка б підхоплювала тих, хто падав.",
+            "Прістлі хотів справедливішої країни після війни.",
+            "Він вірив, що кожний має дбати про всіх інших.",
+            "Глядачі в 1945 році знали, що сталося після 1912 року.",
+            "Вони пережили дві війни.",
+            "Прістлі використовує цей проміжок у тридцять три роки, щоб дати урок.",
+            "Тримайте обидві дати в голові, коли читаєте п’єсу."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ دنیا جس میں اور جس کے بارے میں متن لکھا گیا (context)",
+            "امیر سے غریب تک طبقوں کی سیڑھی (social hierarchy)",
+            "ایسا نظام جس میں کاروبار نجی منافع کے لیے چلایا جاتا ہے (capitalism)",
+            "یہ یقین کہ معاشرے کو بانٹنا اور ہر ایک کا خیال رکھنا چاہیے (socialism)",
+            "پہلی جنگِ عظیم سے پہلے کے برسوں کا (Edwardian)"
+          ],
+          "passage": [
+            "An Inspector Calls جے بی پریسٹلی کا ایک ڈرامہ ہے۔",
+            "اس نے یہ 1945 میں لکھا، دوسری جنگِ عظیم کے آخر میں۔",
+            "مگر اس نے کہانی کو 1912 میں رکھا، پہلی جنگِ عظیم سے پہلے۔",
+            "1912 میں برطانیہ میں طبقوں کی ایک سخت سیڑھی تھی۔",
+            "امیر فیکٹری مالک اوپر کے قریب بیٹھتے تھے۔",
+            "ان کے مزدور بہت کم کماتے تھے اور ان کے حقوق بہت کم تھے۔",
+            "گرنے والے لوگوں کو سنبھالنے کے لیے کوئی welfare state (فلاحی ریاست) نہیں تھی۔",
+            "پریسٹلی جنگ کے بعد ایک زیادہ منصفانہ ملک چاہتا تھا۔",
+            "اس کا یقین تھا کہ ہر ایک کو ہر دوسرے کا خیال رکھنا چاہیے۔",
+            "1945 کے ناظرین جانتے تھے کہ 1912 کے بعد کیا کچھ ہوا ہے۔",
+            "وہ دو جنگوں سے گزر چکے تھے۔",
+            "پریسٹلی تینتیس برسوں کے اس فاصلے کو ایک سبق سکھانے کے لیے استعمال کرتا ہے۔",
+            "ڈرامہ پڑھتے ہوئے دونوں تاریخیں ذہن میں رکھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Britain in 1912: the social ladder",
@@ -315,8 +469,162 @@ window.ASTRA_UNITS["englit-inspector"] = {
           "At that very moment, the doorbell rings sharply.",
           "A police inspector has come about a young woman's death.",
           "The soft lighting becomes bright and harsh."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تعليمات كاتب المسرحية للديكور والإضاءة والممثّلين (stage directions)",
+            "استخلاص ما يُلمَّح إليه ولا يُقال (inference)",
+            "مغرور ومتعالٍ ومتكلّف (portentous)",
+            "غني وناجح (prosperous)",
+            "عندما يعرف الجمهور ما لا تعرفه الشخصية (dramatic irony)"
+          ],
+          "passage": [
+            "تبدأ المسرحية في غرفة طعام في بيت كبير.",
+            "الأثاث متين وغالي الثمن.",
+            "الغرفة تبدو غنية، لكن لا يُحسّ فيها بالدفء.",
+            "عائلة بيرلنغ (Birling) تُنهي عشاءً خاصاً.",
+            "شيلا (Sheila) خُطبت للتوّ لجيرالد كروفت (Gerald Croft).",
+            "السيد بيرلنغ صاحب مصنع فخور بنجاحه.",
+            "يُلقي خطباً طويلة عن المستقبل.",
+            "يقول إنه لن تكون هناك حرب وإن الأعمال ستزدهر.",
+            "جمهور عام 1945 يعرف أنه مخطئ في كل شيء.",
+            "يقول للشابَّين أن يهتمّا بأنفسهما ولا بأحد غيرهما.",
+            "في تلك اللحظة بالذات، يرنّ جرس الباب بحدّة.",
+            "جاء مفتّش شرطة بشأن موت امرأة شابّة.",
+            "الإضاءة الناعمة تصبح ساطعة وقاسية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wskazówki autora sztuki dla scenografii, oświetlenia i aktorów (stage directions)",
+            "domyślanie się tego, co jest sugerowane, ale nie powiedziane (inference)",
+            "zadufany w sobie i nadęty (portentous)",
+            "bogaty i odnoszący sukcesy (prosperous)",
+            "kiedy publiczność wie coś, czego nie wie postać (dramatic irony)"
+          ],
+          "passage": [
+            "Sztuka zaczyna się w jadalni w dużym domu.",
+            "Meble są solidne i drogie.",
+            "Pokój wygląda bogato, ale nie czuje się w nim ciepła.",
+            "Rodzina Birlingów kończy wyjątkową kolację.",
+            "Sheila właśnie zaręczyła się z Geraldem Croftem.",
+            "Pan Birling jest właścicielem fabryki, dumnym ze swojego sukcesu.",
+            "Wygłasza długie mowy o przyszłości.",
+            "Mówi, że nie będzie wojny, a biznes będzie kwitł.",
+            "Publiczność w 1945 roku wie, że myli się we wszystkim.",
+            "Mówi młodym mężczyznom, żeby dbali o siebie i o nikogo innego.",
+            "W tej właśnie chwili ostro dzwoni dzwonek do drzwi.",
+            "Przyszedł inspektor policji w sprawie śmierci młodej kobiety.",
+            "Miękkie oświetlenie staje się jasne i ostre."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "as instruções do dramaturgo para o cenário, a iluminação e os atores (stage directions, indicações cénicas/cênicas)",
+            "descobrir o que é sugerido mas não é dito (inference, inferência)",
+            "cheio de si e pomposo (portentous)",
+            "rico e bem-sucedido (prosperous, próspero)",
+            "quando o público sabe o que uma personagem não sabe (dramatic irony, ironia dramática)"
+          ],
+          "passage": [
+            "A peça começa numa sala de jantar de uma casa grande.",
+            "A mobília é sólida e cara.",
+            "A sala parece rica, mas não parece acolhedora.",
+            "A família Birling está a acabar/está acabando um jantar especial.",
+            "Sheila acabou de ficar noiva de Gerald Croft.",
+            "Mr Birling é um dono de fábrica orgulhoso do seu sucesso.",
+            "Ele faz longos discursos sobre o futuro.",
+            "Ele diz que não haverá guerra e que os negócios vão prosperar.",
+            "O público de 1945 sabe que ele está errado em tudo.",
+            "Ele diz aos jovens para cuidarem de si mesmos e de mais ninguém.",
+            "Nesse exato momento, a campainha toca com força.",
+            "Um inspetor da polícia veio por causa da morte de uma jovem mulher.",
+            "A luz suave torna-se forte e dura."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tilmaamaha qoraaga riwaayadda ee masraxa, iftiinka iyo jilayaasha (stage directions)",
+            "garashada waxa la tilmaamay laakiin aan la sheegin (inference)",
+            "is-weyneeya oo isla weyn (portentous)",
+            "hodan oo guulaystay (prosperous)",
+            "marka daawadayaashu ogyihiin wax jile aan garanayn (dramatic irony)"
+          ],
+          "passage": [
+            "Riwaayaddu waxay ka furmaysaa qol cunto oo guri weyn ku yaal.",
+            "Alaabta gurigu waa mid adag oo qaali ah.",
+            "Qolku hodan ayuu u eg yahay, laakiin diirimaad lama dareemayo.",
+            "Qoyska Birling waxay dhammaystirayaan casho gaar ah.",
+            "Sheila hadda ayay isku xirtay Gerald Croft.",
+            "Mr Birling waa milkiile warshad oo ku faanaya guushiisa.",
+            "Khudbado dhaadheer ayuu ka jeediyaa mustaqbalka.",
+            "Wuxuu yiraahdaa dagaal ma dhici doono, ganacsiguna wuu kobci doono.",
+            "Daawadayaashii 1945 waxay ogyihiin inuu wax walba ku khaldan yahay.",
+            "Wuxuu ragga dhallinyarada u sheegaa inay naftooda daryeelaan, cid kalena ma aha.",
+            "Isla daqiiqaddaas, gambaleelka albaabka si fiiqan ayuu u dhawaaqaa.",
+            "Baare booliis (inspector) ayaa u yimid dhimashada gabar da'yar.",
+            "Iftiinkii jilicsanaa wuxuu noqdaa mid dhalaalaya oo adag."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вказівки драматурга щодо декорацій, світла та акторів (stage directions)",
+            "з’ясування того, на що натякають, але не говорять (inference)",
+            "самовпевнений і пихатий (portentous)",
+            "багатий і успішний (prosperous)",
+            "коли глядачі знають те, чого не знає персонаж (dramatic irony)"
+          ],
+          "passage": [
+            "П’єса починається в їдальні великого будинку.",
+            "Меблі міцні й дорогі.",
+            "Кімната виглядає багатою, але не відчувається теплою.",
+            "Родина Берлінгів (Birlings) закінчує святкову вечерю.",
+            "Шейла (Sheila) щойно заручилася з Джеральдом Крофтом (Gerald Croft).",
+            "Містер Берлінг — власник фабрики, який гордиться своїм успіхом.",
+            "Він виголошує довгі промови про майбутнє.",
+            "Він каже, що війни не буде, а бізнес процвітатиме.",
+            "Глядачі в 1945 році знають, що він помиляється в усьому.",
+            "Він каже молодим чоловікам дбати про себе й ні про кого іншого.",
+            "Саме в цю мить різко дзвенить дзвінок у двері.",
+            "Прийшов інспектор поліції у справі смерті молодої жінки.",
+            "М’яке освітлення стає яскравим і різким."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سیٹ، روشنی اور اداکاروں کے لیے ڈرامہ نگار کی ہدایات (stage directions)",
+            "وہ بات معلوم کرنا جو اشارے میں کہی گئی ہو مگر صاف نہ کہی گئی ہو (inference)",
+            "خود کو بڑا سمجھنے والا اور اکڑ باز (portentous)",
+            "امیر اور کامیاب (prosperous)",
+            "جب ناظرین وہ بات جانتے ہوں جو کردار نہیں جانتا (dramatic irony)"
+          ],
+          "passage": [
+            "ڈرامہ ایک بڑے گھر کے کھانے کے کمرے میں شروع ہوتا ہے۔",
+            "فرنیچر ٹھوس اور مہنگا ہے۔",
+            "کمرہ امیر لگتا ہے، مگر اس میں گرم جوشی محسوس نہیں ہوتی۔",
+            "برلنگ خاندان ایک خاص کھانا ختم کر رہا ہے۔",
+            "شیلا کی ابھی ابھی جیرالڈ کرافٹ سے منگنی ہوئی ہے۔",
+            "مسٹر برلنگ ایک فیکٹری مالک ہے جسے اپنی کامیابی پر فخر ہے۔",
+            "وہ مستقبل کے بارے میں لمبی تقریریں کرتا ہے۔",
+            "وہ کہتا ہے کہ کوئی جنگ نہیں ہو گی اور کاروبار خوب چمکے گا۔",
+            "1945 کے ناظرین جانتے ہیں کہ وہ ہر بات میں غلط ہے۔",
+            "وہ نوجوانوں کو کہتا ہے کہ بس اپنا خیال رکھیں، کسی اور کا نہیں۔",
+            "ٹھیک اسی لمحے دروازے کی گھنٹی تیزی سے بجتی ہے۔",
+            "ایک پولیس انسپکٹر ایک نوجوان عورت کی موت کے بارے میں آیا ہے۔",
+            "نرم روشنی تیز اور چبھتی ہوئی ہو جاتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Reading the room",
@@ -516,8 +824,168 @@ window.ASTRA_UNITS["englit-inspector"] = {
           "Then he ended it when it suited him.",
           "Sheila gives the ring back, but respects his honesty.",
           "Eva never appears on stage, yet the whole play is about her."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ندم عميق على شيء فعلته (remorse)",
+            "الاعتقاد بأنك تستحقّ كل ما تريده (entitlement)",
+            "الإفلات من أي عقاب على فعل الخطأ (impunity)",
+            "ساذج وقليل التجربة (naive)",
+            "امرأة يُقيم رجل علاقة معها من دون أن يتزوّجها (mistress)"
+          ],
+          "passage": [
+            "شيلا ابنة السيد بيرلنغ.",
+            "في البداية تبدو مدلّلة وطفولية قليلاً.",
+            "تحبّ خاتم خطوبتها وتعرضه على أمّها.",
+            "ثم تعرف كيف ماتت إيفا سميث (Eva Smith).",
+            "تُصدَم وتقول إن الفتاة كانت تستحقّ أفضل من ذلك.",
+            "كانت إيفا تعمل في محلّ فساتين يُسمّى ميلواردز (Milwards).",
+            "تسبّبت شيلا في فصلها من العمل بدافع الغيرة وسوء المزاج.",
+            "تشعر شيلا بالفظاعة وتقول إنها لن تفعل ذلك مرة أخرى أبداً.",
+            "جيرالد خطيب شيلا.",
+            "التقى إيفا، التي صارت تسمّي نفسها دايزي رنتون (Daisy Renton)، في حانة.",
+            "أعطاها مكاناً لتسكن فيه وجعلها عشيقته (mistress).",
+            "ثم أنهى العلاقة عندما ناسبه ذلك.",
+            "تردّ شيلا الخاتم، لكنها تحترم صدقه.",
+            "لا تظهر إيفا على المسرح أبداً، لكن المسرحية كلها عنها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "głęboki żal z powodu czegoś, co zrobiłeś (remorse)",
+            "przekonanie, że zasługujesz na wszystko, czego chcesz (entitlement)",
+            "uniknięcie jakiejkolwiek kary za złe postępowanie (impunity)",
+            "niewinna i niedoświadczona (naive)",
+            "kobieta, z którą mężczyzna jest w związku, nie żeniąc się z nią (mistress)"
+          ],
+          "passage": [
+            "Sheila jest córką pana Birlinga.",
+            "Na początku wydaje się zepsuta i trochę dziecinna.",
+            "Uwielbia swój pierścionek zaręczynowy i pokazuje go matce.",
+            "Potem dowiaduje się, jak umarła Eva Smith.",
+            "Jest wstrząśnięta i mówi, że dziewczyna zasługiwała na coś lepszego.",
+            "Eva pracowała w sklepie z sukniami o nazwie Milwards.",
+            "Sheila doprowadziła do jej zwolnienia z zazdrości i w złym humorze.",
+            "Sheila czuje się okropnie i mówi, że nigdy więcej tego nie zrobi.",
+            "Gerald jest narzeczonym Sheili.",
+            "Spotkał Evę, która nazywała się już Daisy Renton, w barze.",
+            "Dał jej mieszkanie i uczynił ją swoją kochanką.",
+            "Potem zakończył to, kiedy mu pasowało.",
+            "Sheila oddaje pierścionek, ale szanuje jego szczerość.",
+            "Eva nigdy nie pojawia się na scenie, a jednak cała sztuka jest o niej."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um arrependimento profundo por algo que você fez (remorse, remorso)",
+            "acreditar que merece tudo o que quer (entitlement)",
+            "escapar a qualquer castigo por fazer mal (impunity, impunidade)",
+            "inocente e sem experiência (naive, ingénuo/ingênuo)",
+            "uma mulher com quem um homem mantém uma relação sem casar com ela (mistress, amante)"
+          ],
+          "passage": [
+            "Sheila é a filha de Mr Birling.",
+            "No início ela parece mimada e um pouco infantil.",
+            "Ela adora o seu anel de noivado e mostra-o à mãe.",
+            "Depois ela fica a saber como Eva Smith morreu.",
+            "Fica chocada e diz que a moça merecia melhor.",
+            "Eva tinha trabalhado numa loja de roupa chamada Milwards.",
+            "Sheila fez com que ela fosse despedida, por ciúme e mau humor.",
+            "Sheila sente-se péssima e diz que nunca mais o fará.",
+            "Gerald é o noivo de Sheila.",
+            "Ele conheceu Eva, que agora se chamava Daisy Renton, num bar.",
+            "Ele deu-lhe um lugar para viver e fez dela a sua amante.",
+            "Depois acabou tudo quando lhe convinha.",
+            "Sheila devolve o anel, mas respeita a honestidade dele.",
+            "Eva nunca aparece no palco, mas a peça inteira é sobre ela."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qoomamo qoto dheer oo ku saabsan wax aad samaysay (remorse)",
+            "aaminaadda ah inaad mudan tahay wax kasta oo aad rabto (entitlement)",
+            "ciqaab kasta ka baxsasho adigoo wax xun samaysay (impunity)",
+            "daahir oo aan waayo-aragnimo lahayn (naive)",
+            "naag nin xiriir la haysto isagoon guursan (mistress)"
+          ],
+          "passage": [
+            "Sheila waa gabadha Mr Birling.",
+            "Marka hore waxay u muuqataa mid la caasiyay oo xoogaa carruurnimo leh.",
+            "Faraantigeeda isku-xirka aad ayay u jeceshahay, hooyadeedna way tustaa.",
+            "Kadibna waxay ogaataa sida Eva Smith u dhimatay.",
+            "Way naxdaa, waxayna tiraahdaa gabadhu wax ka wanaagsan ayay mudnayd.",
+            "Eva waxay ka shaqaysay dukaan dhar oo la yiraahdo Milwards.",
+            "Sheila waxay ka dhigtay in shaqada laga eryo masayr iyo dabeecad xumo dartood.",
+            "Sheila aad ayay u xumaataa, waxayna tiraahdaa weligeed mar dambe ma samayn doonto.",
+            "Gerald waa ninka Sheila la ballamay (fiancé).",
+            "Wuxuu Eva, oo hadda isku magacawday Daisy Renton, kula kulmay baar.",
+            "Meel ay ku noolaato ayuu siiyay, wuxuuna ka dhigtay mistress-kiisa.",
+            "Kadibna wuu joojiyay markii ay ku habboonayd.",
+            "Sheila faraantiga ayay dib u siisaa, laakiin daacadnimadiisa way ixtiraamtaa.",
+            "Eva weligeed masraxa kama soo muuqato, haddana riwaayadda oo dhan iyada ayay ku saabsan tahay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "глибокий жаль за те, що ви зробили (remorse)",
+            "віра в те, що ви заслуговуєте на все, чого хочете (entitlement)",
+            "уникнення будь-якого покарання за скоєне зло (impunity)",
+            "невинна й недосвідчена (naive)",
+            "жінка, з якою чоловік має стосунки, не одружуючись із нею (mistress)"
+          ],
+          "passage": [
+            "Шейла — дочка містера Берлінга.",
+            "Спочатку вона здається розбещеною і трохи дитячою.",
+            "Вона любить свою обручку й показує її матері.",
+            "Потім вона дізнається, як померла Єва Сміт (Eva Smith).",
+            "Вона вражена й каже, що дівчина заслуговувала на краще.",
+            "Єва працювала в магазині одягу під назвою «Мілвордс» (Milwards).",
+            "Шейла домоглася її звільнення через ревнощі та поганий настрій.",
+            "Шейла почувається жахливо й каже, що ніколи більше так не зробить.",
+            "Джеральд — наречений Шейли.",
+            "Він зустрів Єву, яка тепер називала себе Дейзі Рентон (Daisy Renton), у барі.",
+            "Він дав їй житло і зробив її своєю коханкою.",
+            "Потім він покінчив із цим, коли йому було зручно.",
+            "Шейла повертає обручку, але поважає його чесність.",
+            "Єва ніколи не з’являється на сцені, проте вся п’єса — про неї."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اپنے کیے پر گہرا افسوس (remorse)",
+            "یہ ماننا کہ آپ جو چاہیں اس کے حق دار ہیں (entitlement)",
+            "غلط کام کر کے کسی سزا سے بچ جانا (impunity)",
+            "معصوم اور ناتجربہ کار (naive)",
+            "ایسی عورت جس کے ساتھ کوئی مرد شادی کے بغیر رشتہ رکھے (mistress)"
+          ],
+          "passage": [
+            "شیلا مسٹر برلنگ کی بیٹی ہے۔",
+            "پہلے پہل وہ لاڈلی اور تھوڑی بچکانہ لگتی ہے۔",
+            "اسے اپنی منگنی کی انگوٹھی بہت پسند ہے اور وہ اپنی ماں کو دکھاتی ہے۔",
+            "پھر اسے پتا چلتا ہے کہ ایوا سمتھ کیسے مری۔",
+            "وہ صدمے میں آ جاتی ہے اور کہتی ہے کہ وہ لڑکی اس سے بہتر کی حق دار تھی۔",
+            "ایوا ملوارڈز نامی کپڑوں کی ایک دکان میں کام کرتی تھی۔",
+            "شیلا نے حسد اور بدمزاجی میں اسے نوکری سے نکلوا دیا تھا۔",
+            "شیلا کو بہت بُرا لگتا ہے اور وہ کہتی ہے کہ وہ ایسا پھر کبھی نہیں کرے گی۔",
+            "جیرالڈ شیلا کا منگیتر ہے۔",
+            "وہ ایوا سے، جو اب خود کو ڈیزی رینٹن کہتی تھی، ایک بار میں ملا۔",
+            "اس نے اسے رہنے کی جگہ دی اور اسے اپنی داشتہ (mistress) بنا لیا۔",
+            "پھر جب اسے مناسب لگا، اس نے یہ رشتہ ختم کر دیا۔",
+            "شیلا انگوٹھی واپس کر دیتی ہے، مگر اس کی سچائی کی قدر کرتی ہے۔",
+            "ایوا کبھی اسٹیج پر نہیں آتی، پھر بھی پورا ڈرامہ اسی کے بارے میں ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Sheila: from the ring to responsibility",
@@ -718,8 +1186,168 @@ window.ASTRA_UNITS["englit-inspector"] = {
           "Later he stole money from his father's firm to help her.",
           "Eva refused the stolen money.",
           "By the end of Act 3, the family are shouting at one another."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الحكم على الناس قبل أن تعرفهم (prejudice)",
+            "ادّعاء معايير لا تلتزم بها أنت نفسك (hypocrisy)",
+            "بارد ومتباعد، كأنه فوق الجميع (aloof)",
+            "منظّمة تقدّم المساعدة للمحتاجين (charity)",
+            "الاعتراف بما فعلته (confession)"
+          ],
+          "passage": [
+            "تدخل السيدة بيرلنغ مليئة بالثقة.",
+            "تظنّ أن المفتّش أدنى منها مقاماً.",
+            "تدير جمعية خيرية (charity) يُفترض أن تساعد النساء الفقيرات.",
+            "قبل أسبوعَين، جاءت فتاة حامل إلى الجمعية طلباً للمساعدة.",
+            "قالت الفتاة إن اسمها السيدة بيرلنغ.",
+            "أغضب هذا السيدة بيرلنغ، فردّت الفتاة خائبة.",
+            "تقول إن والد الطفل هو من يستحقّ اللوم.",
+            "ثم تدرك العائلة من هو الأب.",
+            "إنه إريك (Eric)، ابنها هي.",
+            "التقى إريك إيفا في الحانة نفسها التي التقاها فيها جيرالد.",
+            "كان ثملاً، ودخل غرفتها بالقوّة.",
+            "لاحقاً سرق مالاً من شركة أبيه ليساعدها.",
+            "رفضت إيفا المال المسروق.",
+            "في نهاية الفصل 3، أفراد العائلة يصرخون في وجوه بعضهم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osądzanie ludzi, zanim się ich pozna (prejudice)",
+            "głoszenie zasad, których samemu się nie przestrzega (hypocrisy)",
+            "zimna i zdystansowana, jakby ponad wszystkimi (aloof)",
+            "organizacja, która daje pomoc ludziom w potrzebie (charity)",
+            "przyznanie się do tego, co się zrobiło (confession)"
+          ],
+          "passage": [
+            "Pani Birling wchodzi pełna pewności siebie.",
+            "Uważa, że Inspektor stoi niżej od niej.",
+            "Prowadzi organizację charytatywną, która ma pomagać biednym kobietom.",
+            "Dwa tygodnie wcześniej ciężarna dziewczyna przyszła tam po pomoc.",
+            "Dziewczyna podała się jako pani Birling.",
+            "To rozgniewało panią Birling i odprawiła dziewczynę.",
+            "Mówi, że winny jest ojciec dziecka.",
+            "Potem rodzina uświadamia sobie, kto jest ojcem.",
+            "To Eric, jej własny syn.",
+            "Eric poznał Evę w tym samym barze co Gerald.",
+            "Był pijany i wtargnął siłą do jej pokoju.",
+            "Później ukradł pieniądze z firmy ojca, żeby jej pomóc.",
+            "Eva odmówiła przyjęcia kradzionych pieniędzy.",
+            "Pod koniec aktu 3 rodzina krzyczy na siebie nawzajem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "julgar as pessoas antes de as conhecer (prejudice, preconceito)",
+            "exigir padrões que você mesmo não cumpre (hypocrisy, hipocrisia)",
+            "frio e distante, como se estivesse acima de todos (aloof)",
+            "uma organização que dá ajuda a pessoas necessitadas (charity, instituição de caridade)",
+            "admitir o que você fez (confession, confissão)"
+          ],
+          "passage": [
+            "Mrs Birling entra cheia de confiança.",
+            "Ela acha que o Inspetor está abaixo dela.",
+            "Ela dirige uma instituição de caridade que devia ajudar mulheres pobres.",
+            "Há duas semanas, uma moça grávida foi à instituição pedir ajuda.",
+            "A moça disse que se chamava Mrs Birling.",
+            "Isto deixou Mrs Birling zangada, e ela mandou a moça embora.",
+            "Ela diz que o pai da criança é o culpado.",
+            "Depois a família percebe quem é o pai.",
+            "É Eric, o seu próprio filho.",
+            "Eric conheceu Eva no mesmo bar que Gerald.",
+            "Ele estava bêbado, e entrou à força no quarto dela.",
+            "Mais tarde ele roubou dinheiro da empresa do pai para a ajudar.",
+            "Eva recusou o dinheiro roubado.",
+            "No fim do Ato 3, a família está aos gritos uns com os outros."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dadka xukumid intaadan garan (prejudice)",
+            "sheegashada heerar aad adigu ilaalin (hypocrisy)",
+            "qabow oo fog, sidii qof walba ka sarreeya (aloof)",
+            "urur caawimaad siiya dadka baahan (charity)",
+            "qiraalka waxa aad samaysay (confession)"
+          ],
+          "passage": [
+            "Mrs Birling way soo gashaa iyadoo kalsooni ka buuxdo.",
+            "Waxay u malaysaa in Inspector-ku ka hooseeyo.",
+            "Waxay maamushaa urur samafal (charity) loogu talagalay in haweenka saboolka ah caawiyo.",
+            "Laba toddobaad ka hor, gabar uur leh ayaa ururka u timid caawimaad.",
+            "Gabadhu magaceeda waxay u sheegtay Mrs Birling.",
+            "Tani Mrs Birling way ka cadhaysiisay, gabadhana way diiday.",
+            "Waxay tiraahdaa aabbaha ilmaha ayaa eedda leh.",
+            "Kadibna qoysku waxay ogaadaan cidda aabbaha ah.",
+            "Waa Eric, wiilkeeda qudhiisa.",
+            "Eric wuxuu Eva kula kulmay isla baarkii Gerald.",
+            "Wuu sakhraansanaa, qolkeedana si qasab ah ayuu u galay.",
+            "Kadib lacag ayuu ka xaday shirkadda aabbihii si uu u caawiyo.",
+            "Eva way diiday lacagtii la xaday.",
+            "Dhammaadka Act 3, qoysku way isku qaylinayaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "судити людей, перш ніж ви їх знаєте (prejudice)",
+            "заявляти про норми, яких самі не дотримуєтеся (hypocrisy)",
+            "холодний і відсторонений, ніби вищий за всіх (aloof)",
+            "організація, яка допомагає людям у скруті (charity)",
+            "визнання того, що ви зробили (confession)"
+          ],
+          "passage": [
+            "Місіс Берлінг входить сповнена впевненості.",
+            "Вона вважає, що Інспектор нижчий за неї.",
+            "Вона керує благодійною організацією (charity), яка має допомагати бідним жінкам.",
+            "Два тижні тому вагітна дівчина прийшла до цієї організації по допомогу.",
+            "Дівчина назвалася місіс Берлінг.",
+            "Це розлютило місіс Берлінг, і вона відмовила дівчині.",
+            "Вона каже, що винен батько дитини.",
+            "Потім родина розуміє, хто цей батько.",
+            "Це Ерік (Eric), її власний син.",
+            "Ерік зустрів Єву в тому ж барі, що й Джеральд.",
+            "Він був п’яний і силою вдерся до її кімнати.",
+            "Пізніше він украв гроші з фірми свого батька, щоб допомогти їй.",
+            "Єва відмовилася від украдених грошей.",
+            "До кінця третьої дії родина кричить одне на одного."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لوگوں کو جاننے سے پہلے ان کے بارے میں فیصلہ کر لینا (prejudice)",
+            "ایسے معیاروں کا دعویٰ کرنا جو آپ خود نہ رکھتے ہوں (hypocrisy)",
+            "ٹھنڈا اور دور دور، جیسے سب سے اوپر ہو (aloof)",
+            "ایک ادارہ جو ضرورت مند لوگوں کی مدد کرتا ہے (charity)",
+            "یہ ماننا کہ آپ نے کیا کیا ہے (confession)"
+          ],
+          "passage": [
+            "مسز برلنگ پورے اعتماد کے ساتھ اندر آتی ہے۔",
+            "وہ سمجھتی ہے کہ انسپکٹر اس سے نیچے کا آدمی ہے۔",
+            "وہ ایک خیراتی ادارہ چلاتی ہے جس کا کام غریب عورتوں کی مدد کرنا ہے۔",
+            "دو ہفتے پہلے ایک حاملہ لڑکی مدد کے لیے اس ادارے میں آئی۔",
+            "لڑکی نے اپنا نام مسز برلنگ بتایا۔",
+            "اس پر مسز برلنگ کو غصہ آیا، اور اس نے لڑکی کو واپس بھیج دیا۔",
+            "وہ کہتی ہے کہ بچے کا باپ ہی قصوروار ہے۔",
+            "پھر خاندان کو احساس ہوتا ہے کہ باپ کون ہے۔",
+            "وہ ایرک ہے، اس کا اپنا بیٹا۔",
+            "ایرک ایوا سے اسی بار میں ملا تھا جس میں جیرالڈ ملا تھا۔",
+            "وہ نشے میں تھا، اور وہ زبردستی اس کے کمرے میں گھس گیا۔",
+            "بعد میں اس نے اس کی مدد کے لیے اپنے باپ کی کمپنی سے پیسے چرائے۔",
+            "ایوا نے چوری کے پیسے لینے سے انکار کر دیا۔",
+            "Act 3 کے آخر تک خاندان کے لوگ ایک دوسرے پر چیخ رہے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Mrs Birling's entrance",
@@ -922,8 +1550,168 @@ window.ASTRA_UNITS["englit-inspector"] = {
           "Sheila and Eric say that nothing has changed, because they still did those things.",
           "Then the telephone rings.",
           "A girl has just died, and an inspector is on his way."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخصية تقول آراء الكاتب نفسه (mouthpiece)",
+            "الصوت الداخلي الذي يميّز الصواب من الخطأ (conscience)",
+            "خدعة تجعل الناس يصدّقون شيئاً غير صحيح (hoax)",
+            "رسالة عن خطر قادم (warning)",
+            "كلمة مثل we أو our أو their تحلّ محلّ الاسم (pronoun)"
+          ],
+          "passage": [
+            "يطرح المفتّش أسئلته على شخص واحد في كل مرة.",
+            "ويُظهر الصورة لشخص واحد فقط.",
+            "هو هادئ، ولا يمكن التنمّر عليه أو شراؤه.",
+            "قبل أن يغادر، يُلقي خطاباً.",
+            "يقول إن هناك شابّات وشباناً لا يُحصَون مثل إيفا سميث.",
+            "ويقول إن لا أحد يعيش منفصلاً عن الناس الآخرين.",
+            "ويحذّر من أن من يرفضون تعلّم هذا ستعلّمهم الحرب.",
+            "ثم يذهب.",
+            "تكتشف العائلة أنه لا يوجد مفتّش اسمه غول (Goole) يعمل في الشرطة.",
+            "يهاتفون المستشفى: لم تمت أي فتاة هذه الليلة.",
+            "السيد والسيدة بيرلنغ وجيرالد مسرورون ومرتاحون.",
+            "تقول شيلا وإريك إن شيئاً لم يتغيّر، لأنهم فعلوا تلك الأشياء على أي حال.",
+            "ثم يرنّ الهاتف.",
+            "فتاة ماتت للتوّ، ومفتّش في طريقه إليهم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "postać, która wypowiada własne poglądy autora (mouthpiece)",
+            "wewnętrzny głos, który odróżnia dobro od zła (conscience)",
+            "sztuczka, która sprawia, że ludzie wierzą w coś nieprawdziwego (hoax)",
+            "wiadomość o nadchodzącym niebezpieczeństwie (warning)",
+            "słowo takie jak „my”, „nasz” czy „ich”, które zastępuje nazwę (pronoun)"
+          ],
+          "passage": [
+            "Inspektor zadaje pytania jednej osobie na raz.",
+            "Pokazuje fotografię tylko jednej osobie.",
+            "Jest spokojny i nie można go zastraszyć ani kupić.",
+            "Zanim wyjdzie, wygłasza mowę.",
+            "Mówi, że są niezliczone młode kobiety i młodzi mężczyźni tacy jak Eva Smith.",
+            "Mówi, że nikt nie żyje w oderwaniu od innych ludzi.",
+            "Ostrzega, że tych, którzy nie chcą się tego nauczyć, nauczy wojna.",
+            "Potem wychodzi.",
+            "Rodzina odkrywa, że żaden inspektor Goole nie pracuje w policji.",
+            "Dzwonią do szpitala: żadna dziewczyna nie umarła tej nocy.",
+            "Pan i pani Birling oraz Gerald są zachwyceni i odczuwają ulgę.",
+            "Sheila i Eric mówią, że nic się nie zmieniło, bo i tak zrobili te rzeczy.",
+            "Wtedy dzwoni telefon.",
+            "Dziewczyna właśnie umarła, a inspektor jest w drodze."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma personagem que diz as opiniões do próprio escritor (mouthpiece, porta-voz)",
+            "a voz interior que distingue o certo do errado (conscience, consciência)",
+            "um truque que faz as pessoas acreditarem em algo falso (hoax, embuste)",
+            "uma mensagem sobre um perigo que vem aí (warning, aviso)",
+            "uma palavra como ‘nós’, ‘nosso’ ou ‘deles’ que substitui um nome (pronoun, pronome)"
+          ],
+          "passage": [
+            "O Inspetor faz as suas perguntas a uma pessoa de cada vez.",
+            "Ele mostra a fotografia a uma só pessoa.",
+            "Ele é calmo, e não se deixa intimidar nem comprar.",
+            "Antes de sair, ele faz um discurso.",
+            "Ele diz que há inúmeras jovens mulheres e homens como Eva Smith.",
+            "Ele diz que ninguém vive separado das outras pessoas.",
+            "Ele avisa que quem não quiser aprender isto vai aprendê-lo com a guerra.",
+            "Depois ele vai-se embora.",
+            "A família descobre que nenhum Inspetor Goole trabalha na polícia.",
+            "Telefonam para o hospital (Infirmary): nenhuma moça morreu esta noite.",
+            "Mr e Mrs Birling e Gerald ficam encantados e aliviados.",
+            "Sheila e Eric dizem que nada mudou, porque eles fizeram aquelas coisas mesmo assim.",
+            "Depois o telefone toca.",
+            "Uma moça acabou de morrer, e um inspetor está a caminho."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "jile ka hadlaya aragtida qoraaga qudhiisa (mouthpiece)",
+            "codka gudaha ee kala garta xaqa iyo xumaanta (conscience)",
+            "khiyaano dadka ka dhigta inay wax been ah rumaystaan (hoax)",
+            "fariin ku saabsan khatar soo socota (warning)",
+            "eray sida we, our ama their oo magac beddela (pronoun)"
+          ],
+          "passage": [
+            "Inspector-ku su'aalihiisa qof qof ayuu weydiiyaa.",
+            "Sawirka hal qof keliya ayuu tusaa.",
+            "Wuu deggan yahay, lamana cabsi gelin karo lamana iibsan karo.",
+            "Ka hor intuusan bixin, khudbad ayuu jeediyaa.",
+            "Wuxuu yiraahdaa waxaa jira haween iyo rag dhallinyaro ah oo aan la tirin karin oo Eva Smith la mid ah.",
+            "Wuxuu yiraahdaa qofna dadka kale kama gooni noolo.",
+            "Wuxuu ka digaa in kuwa aan tan baran doonin dagaal baran doono.",
+            "Kadibna wuu tagaa.",
+            "Qoysku waxay ogaadaan in Inspector Goole la yiraahdo aanu booliiska u shaqayn.",
+            "Waxay soo wacaan Isbitaalka (Infirmary): gabarna caawa ma dhiman.",
+            "Mr iyo Mrs Birling iyo Gerald aad ayay u farxaan oo u nafisaan.",
+            "Sheila iyo Eric waxay yiraahdaan waxba isma beddelin, sababtoo ah weli waxyaalahaas way sameeyeen.",
+            "Kadibna telefoonku wuu dhawaaqaa.",
+            "Gabar hadda ayay dhimatay, inspector-na wuu soo socdaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "персонаж, який висловлює власні погляди автора (mouthpiece)",
+            "внутрішній голос, який відрізняє добро від зла (conscience)",
+            "обман, який змушує людей вірити в неправду (hoax)",
+            "повідомлення про небезпеку, що наближається (warning)",
+            "слово на кшталт «ми», «наш» або «їхній», яке стоїть замість імені (pronoun)"
+          ],
+          "passage": [
+            "Інспектор ставить свої запитання кожному по черзі.",
+            "Він показує фотографію лише одній людині за раз.",
+            "Він спокійний, і його не можна ні залякати, ні купити.",
+            "Перш ніж піти, він виголошує промову.",
+            "Він каже, що є незліченна кількість молодих жінок і чоловіків, як Єва Сміт.",
+            "Він каже, що ніхто не живе окремо від інших людей.",
+            "Він попереджає, що тих, хто не захоче цього навчитися, навчить війна.",
+            "Потім він іде.",
+            "Родина виявляє, що жодний інспектор Ґул (Goole) не працює в поліції.",
+            "Вони телефонують у лікарню: цієї ночі жодна дівчина не померла.",
+            "Містер і місіс Берлінг та Джеральд у захваті й полегшенні.",
+            "Шейла та Ерік кажуть, що нічого не змінилося, бо вони все одно зробили ті речі.",
+            "Потім дзвонить телефон.",
+            "Щойно померла дівчина, і інспектор уже в дорозі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا کردار جو مصنف کی اپنی رائے بولتا ہے (mouthpiece)",
+            "اندر کی وہ آواز جو صحیح اور غلط کو جانتی ہے (conscience)",
+            "ایسا دھوکا جو لوگوں کو کسی جھوٹی بات پر یقین دلا دے (hoax)",
+            "آنے والے خطرے کے بارے میں ایک پیغام (warning)",
+            "ایسا لفظ جیسے we، our یا their جو نام کی جگہ آتا ہے (pronoun)"
+          ],
+          "passage": [
+            "انسپکٹر اپنے سوال ایک وقت میں ایک شخص سے پوچھتا ہے۔",
+            "وہ تصویر صرف ایک شخص کو دکھاتا ہے۔",
+            "وہ پُرسکون ہے، اور اسے نہ ڈرایا جا سکتا ہے نہ خریدا جا سکتا ہے۔",
+            "جانے سے پہلے وہ ایک تقریر کرتا ہے۔",
+            "وہ کہتا ہے کہ ایوا سمتھ جیسی بے شمار نوجوان عورتیں اور مرد ہیں۔",
+            "وہ کہتا ہے کہ کوئی بھی دوسرے لوگوں سے الگ ہو کر نہیں رہتا۔",
+            "وہ خبردار کرتا ہے کہ جو یہ سبق نہیں سیکھیں گے، انھیں جنگ سکھائے گی۔",
+            "پھر وہ چلا جاتا ہے۔",
+            "خاندان کو پتا چلتا ہے کہ پولیس میں کوئی انسپکٹر گول (Goole) کام نہیں کرتا۔",
+            "وہ ہسپتال (Infirmary) کو فون کرتے ہیں: آج رات کوئی لڑکی نہیں مری۔",
+            "مسٹر اور مسز برلنگ اور جیرالڈ خوش اور مطمئن ہو جاتے ہیں۔",
+            "شیلا اور ایرک کہتے ہیں کہ کچھ نہیں بدلا، کیونکہ انھوں نے وہ کام تو کیے ہی ہیں۔",
+            "پھر ٹیلی فون کی گھنٹی بجتی ہے۔",
+            "ایک لڑکی ابھی ابھی مری ہے، اور ایک انسپکٹر راستے میں ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How the Inspector works",
@@ -1119,8 +1907,156 @@ window.ASTRA_UNITS["englit-inspector"] = {
           "The older Birlings do not change; the younger ones do.",
           "Learn short quotations for each character and each theme.",
           "Finish every paragraph by linking to Priestley's purpose."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "واحد من الأشياء الأربعة التي يمنح المصحّح العلامات عليها (assessment objective)",
+            "فكرة، دليل، استنتاج، قارئ، ربط (PEIRL)",
+            "الجملة الأولى في الفقرة، التي تذكر فكرتها (topic sentence)",
+            "فكرة كبيرة تمتدّ في المسرحية كلها (theme)",
+            "أناس وُلدوا في الوقت نفسه تقريباً (generation)"
+          ],
+          "passage": [
+            "سؤال الامتحان عن «مفتّش يزور» يكون في الورقة 2.",
+            "لن تكون المسرحية معك.",
+            "ولا يوجد مقتطف لتقرأه.",
+            "تختار سؤالاً واحداً من سؤالَين.",
+            "الجواب يساوي 30 علامة، مع 4 علامات إضافية للإملاء والقواعد.",
+            "ينبغي أن تقضي فيه نحو 45 دقيقة.",
+            "خطّط أولاً: مقدّمة، وثلاث لحظات رئيسية، وخاتمة.",
+            "كل فقرة تتبع PEIRL: فكرة، دليل، استنتاج، قارئ، ربط.",
+            "الموضوعات الكبرى هي المسؤولية، والطبقة، والجنس (gender)، والأجيال.",
+            "آل بيرلنغ الأكبر سنّاً لا يتغيّرون؛ أما الأصغر فيتغيّرون.",
+            "احفظ اقتباسات قصيرة لكل شخصية ولكل موضوع.",
+            "اختم كل فقرة بالربط بهدف بريستلي."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jedna z czterech rzeczy, za które egzaminator daje punkty (assessment objective)",
+            "Point, Evidence, Inference, Reader, Link — teza, dowód, wniosek, czytelnik, powiązanie (PEIRL)",
+            "pierwsze zdanie akapitu, które podaje jego główną myśl (topic sentence)",
+            "wielka idea, która przewija się przez całą sztukę (theme)",
+            "ludzie urodzeni mniej więcej w tym samym czasie (generation)"
+          ],
+          "passage": [
+            "Pytanie egzaminacyjne o An Inspector Calls jest w arkuszu 2 (Paper 2).",
+            "Nie będziesz mieć sztuki przy sobie.",
+            "Nie ma fragmentu do przeczytania.",
+            "Wybierasz jedno pytanie z dwóch.",
+            "Odpowiedź jest warta 30 punktów, plus 4 za ortografię i gramatykę.",
+            "Powinieneś poświęcić na nią około 45 minut.",
+            "Najpierw plan: wstęp, trzy kluczowe momenty i zakończenie.",
+            "Każdy akapit idzie według PEIRL: Point, Evidence, Inference, Reader, Link.",
+            "Wielkie tematy to odpowiedzialność, klasa, płeć i pokolenia.",
+            "Starsi Birlingowie się nie zmieniają; młodsi tak.",
+            "Naucz się krótkich cytatów do każdej postaci i każdego tematu.",
+            "Kończ każdy akapit powiązaniem z celem Priestleya."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma das quatro coisas pelas quais o examinador dá pontos (assessment objective, objetivo de avaliação)",
+            "as letras de Point, Evidence, Inference, Reader, Link: ponto, prova, inferência, leitor, ligação (PEIRL)",
+            "a primeira frase de um parágrafo, que apresenta o seu ponto principal (topic sentence)",
+            "uma grande ideia que atravessa toda a peça (theme, tema)",
+            "pessoas nascidas mais ou menos na mesma altura (generation, geração)"
+          ],
+          "passage": [
+            "A pergunta do exame sobre An Inspector Calls está no Paper 2.",
+            "Você não vai ter a peça consigo.",
+            "Não há nenhum excerto para ler.",
+            "Você escolhe uma pergunta entre duas.",
+            "A resposta vale 30 pontos, com mais 4 para a ortografia e a gramática.",
+            "Você deve usar cerca de 45 minutos nela.",
+            "Planeie/Planeje primeiro: uma introdução, três momentos-chave e uma conclusão.",
+            "Cada parágrafo segue o PEIRL: Point, Evidence, Inference, Reader, Link (ponto, prova, inferência, leitor, ligação).",
+            "Os grandes temas são a responsabilidade, a classe social, o género/gênero e as gerações.",
+            "Os Birling mais velhos não mudam; os mais novos mudam.",
+            "Aprenda citações curtas para cada personagem e cada tema.",
+            "Termine cada parágrafo ligando-o ao propósito de Priestley."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mid ka mid ah afarta wax ee imtixaamuhu dhibco ku bixiyo (assessment objective)",
+            "Point, Evidence, Inference, Reader, Link — hadal, caddayn, garasho, akhriste, xiriir (PEIRL)",
+            "weedha ugu horreysa ee baaragaraaf, oo sheegaysa hadalkeeda (topic sentence)",
+            "fikrad weyn oo riwaayadda oo dhan dhex marta (theme)",
+            "dad isku waqti dhashay (generation)"
+          ],
+          "passage": [
+            "Su'aasha imtixaanka ee An Inspector Calls waxay ku jirtaa Paper 2.",
+            "Riwaayadda ma haysan doontid.",
+            "Qayb (extract) la akhriyo ma jirto.",
+            "Hal su'aal ayaad ka dooranaysaa laba.",
+            "Jawaabtu waxay leedahay 30 dhibcood, iyo 4 kale oo higgaad iyo naxwe ah.",
+            "Waa inaad ku qaadataa qiyaastii 45 daqiiqo.",
+            "Marka hore qorshee: hordhac, saddex daqiiqadood oo muhiim ah iyo gabagabo.",
+            "Baaragaraaf kasta wuxuu raacaa PEIRL: Point, Evidence, Inference, Reader, Link.",
+            "Themes-ka waaweyn waa mas'uuliyad, heerka bulshada (class), jinsi (gender) iyo jiilalka.",
+            "Birlings-ka waaweyn isma beddelaan; kuwa yaryar way is beddelaan.",
+            "Baro oraahyo gaagaaban (quotations) jile kasta iyo theme kasta.",
+            "Baaragaraaf kasta ku dhammee adigoo ku xiraya ujeeddada Priestley."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "одна з чотирьох речей, за які екзаменатор ставить бали (assessment objective)",
+            "Point, Evidence, Inference, Reader, Link — думка, доказ, висновок, читач, зв’язок (PEIRL)",
+            "перше речення абзацу, яке висловлює його думку (topic sentence)",
+            "велика ідея, яка проходить через усю п’єсу (theme)",
+            "люди, народжені приблизно в один час (generation)"
+          ],
+          "passage": [
+            "Екзаменаційне запитання з «Інспектор прийшов» міститься в Paper 2.",
+            "П’єси у вас із собою не буде.",
+            "Уривка для читання немає.",
+            "Ви обираєте одне запитання з двох.",
+            "Відповідь дає 30 балів, і ще 4 — за правопис і граматику.",
+            "Ви маєте витратити на неї близько 45 хвилин.",
+            "Спочатку сплануйте: вступ, три ключові моменти й висновок.",
+            "Кожний абзац будується за PEIRL: думка (Point), доказ (Evidence), висновок (Inference), читач (Reader), зв’язок (Link).",
+            "Великі теми — це відповідальність, клас, стать і покоління.",
+            "Старші Берлінги не змінюються; молодші — так.",
+            "Вивчіть короткі цитати для кожного персонажа й кожної теми.",
+            "Завершуйте кожний абзац зв’язком із метою Прістлі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ان چار چیزوں میں سے ایک جن پر ممتحن نمبر دیتا ہے (assessment objective)",
+            "Point، Evidence، Inference، Reader، Link (نکتہ، شہادت، اخذ، قاری، جوڑ) (PEIRL)",
+            "پیراگراف کا پہلا جملہ، جو اس کا نکتہ بیان کرتا ہے (topic sentence)",
+            "ایک بڑا خیال جو پورے ڈرامے میں چلتا ہے (theme)",
+            "تقریباً ایک ہی زمانے میں پیدا ہونے والے لوگ (generation)"
+          ],
+          "passage": [
+            "An Inspector Calls کا امتحانی سوال Paper 2 میں آتا ہے۔",
+            "ڈرامے کی کتاب آپ کے پاس نہیں ہو گی۔",
+            "پڑھنے کے لیے کوئی اقتباس نہیں ہوتا۔",
+            "آپ دو سوالوں میں سے ایک چنتے ہیں۔",
+            "جواب کے 30 نمبر ہیں، اور املا اور گرامر کے 4 نمبر الگ۔",
+            "آپ کو اس پر تقریباً 45 منٹ لگانے چاہییں۔",
+            "پہلے منصوبہ بنائیں: ایک تعارف، تین اہم لمحے اور ایک نتیجہ۔",
+            "ہر پیراگراف PEIRL پر چلتا ہے: Point، Evidence، Inference، Reader، Link۔",
+            "بڑے themes ہیں ذمے داری، طبقہ، صنف اور نسلیں۔",
+            "بڑے برلنگ نہیں بدلتے؛ چھوٹے بدل جاتے ہیں۔",
+            "ہر کردار اور ہر theme کے لیے چھوٹے اقتباس یاد کریں۔",
+            "ہر پیراگراف کو پریسٹلی کے مقصد سے جوڑ کر ختم کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What the question is asking for",

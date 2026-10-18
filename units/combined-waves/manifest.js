@@ -106,8 +106,156 @@ window.ASTRA_UNITS["combined-waves"] = {
           "Sound needs a material to travel through, such as air, water or metal.",
           "We call this material the medium.",
           "Light does not need a medium, so it can cross empty space from the Sun."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "اهتزاز ينقل الطاقة من مكان إلى مكان (wave)",
+            "حركة سريعة إلى الأمام والخلف، أو إلى الأعلى والأسفل (vibration)",
+            "يهتزّ بزوايا قائمة على اتجاه انتقال الموجة (transverse)",
+            "يهتزّ على الخط نفسه الذي تنتقل فيه الموجة (longitudinal)",
+            "المادّة التي تنتقل الموجة خلالها (medium)"
+          ],
+          "passage": [
+            "ألقِ حجراً في بركة فتنتشر التموّجات.",
+            "التموّجات موجات (waves).",
+            "ورقة الشجر على الماء تطفو صعوداً وهبوطاً عندما يمرّ التموّج.",
+            "لكن الورقة لا تنتقل عبر البركة مع التموّج.",
+            "الموجات تنقل الطاقة من مكان إلى مكان، لا الماء نفسه.",
+            "في الموجة المستعرضة (transverse)، تكون الاهتزازات بزوايا قائمة على اتجاه انتقال الموجة.",
+            "التموّجات على الماء والضوء موجات مستعرضة.",
+            "في الموجة الطولية (longitudinal)، تكون الاهتزازات على الخط نفسه الذي تنتقل فيه الموجة.",
+            "الصوت موجة طولية.",
+            "الصوت يحتاج إلى مادّة ينتقل خلالها، مثل الهواء أو الماء أو المعدن.",
+            "نسمّي هذه المادّة الوسط (medium).",
+            "الضوء لا يحتاج إلى وسط، لذلك يستطيع أن يعبر الفضاء الفارغ من الشمس."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "drganie, które przenosi energię z miejsca na miejsce (wave)",
+            "szybki ruch w przód i w tył albo w górę i w dół (vibration)",
+            "drgająca pod kątem prostym do kierunku, w którym biegnie fala (transverse)",
+            "drgająca wzdłuż tej samej linii, w której biegnie fala (longitudinal)",
+            "materiał, przez który biegnie fala (medium)"
+          ],
+          "passage": [
+            "Wrzuć kamień do stawu, a rozejdą się kręgi.",
+            "Te kręgi to fale (waves).",
+            "Liść na wodzie podskakuje w górę i w dół, kiedy przechodzi fala.",
+            "Ale liść nie przepływa przez staw razem z falą.",
+            "Fale przenoszą energię z miejsca na miejsce, a nie samą wodę.",
+            "W fali poprzecznej (transverse wave) drgania są pod kątem prostym do kierunku, w którym biegnie fala.",
+            "Fale na wodzie i światło to fale poprzeczne.",
+            "W fali podłużnej (longitudinal wave) drgania są wzdłuż tej samej linii, w której biegnie fala.",
+            "Dźwięk to fala podłużna.",
+            "Dźwięk potrzebuje materiału, przez który może biec, na przykład powietrza, wody lub metalu.",
+            "Ten materiał nazywamy ośrodkiem (medium).",
+            "Światło nie potrzebuje ośrodka, więc może przebyć pustą przestrzeń od Słońca."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma vibração que transporta energia de um lugar para outro (wave, onda)",
+            "um movimento rápido para trás e para a frente, ou para cima e para baixo (vibration, vibração)",
+            "que vibra em ângulo reto com a direção em que a onda viaja (transverse, transversal)",
+            "que vibra ao longo da mesma linha em que a onda viaja (longitudinal)",
+            "o material através do qual uma onda viaja (medium, meio)"
+          ],
+          "passage": [
+            "Deixe cair uma pedra num lago e as ondulações espalham-se.",
+            "As ondulações são ondas (waves).",
+            "Uma folha na água sobe e desce quando uma ondulação passa.",
+            "Mas a folha não atravessa o lago com a ondulação.",
+            "As ondas transportam energia de um lugar para outro, não a própria água.",
+            "Numa onda transversal (transverse), as vibrações estão em ângulo reto com a direção em que a onda viaja.",
+            "As ondulações na água e a luz são ondas transversais.",
+            "Numa onda longitudinal, as vibrações estão ao longo da mesma linha em que a onda viaja.",
+            "O som é uma onda longitudinal.",
+            "O som precisa de um material para viajar, como o ar, a água ou o metal.",
+            "Chamamos a este material o meio (medium).",
+            "A luz não precisa de um meio, por isso consegue atravessar o espaço vazio desde o Sol."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "gariir tamar meel ka meel u qaada (wave)",
+            "dhaqaaq dhaqso leh oo hore iyo gadaal, ama kor iyo hoos ah (vibration)",
+            "gariiraya xagal qumman marka loo eego jihada hirku u socdo (transverse)",
+            "gariiraya isla xariiqda hirku u socdo (longitudinal)",
+            "walaxda hir dhex maro (medium)"
+          ],
+          "passage": [
+            "Dhagax balli ku tuur, hirar yaryar (ripples) ayaa kala firdhaya.",
+            "Hirarkaas yaryar waa hirar (waves).",
+            "Caleen biyaha dul sabbaysa kor iyo hoos ayay u ruxantaa marka hir yar dhaafo.",
+            "Laakiin caleentu balliga dhinaciisa kale uma gudubto hirka la jirto.",
+            "Hirarku tamar ayay meel ka meel u qaadaan, ma aha biyaha qudhooda.",
+            "Hir transverse ah, gariirradu waxay xagal qumman la samaystaan jihada hirku u socdo.",
+            "Hirarka yaryar ee biyaha iyo iftiinku waa hirar transverse ah.",
+            "Hir longitudinal ah, gariirradu waxay ku socdaan isla xariiqda hirku u socdo.",
+            "Dhawaaqu waa hir longitudinal ah.",
+            "Dhawaaqu wuxuu u baahan yahay walax uu dhex maro, sida hawo, biyo ama bir.",
+            "Walaxdan waxaan ugu yeernaa medium.",
+            "Iftiinku medium uma baahna, sidaas darteed Qorraxda ka soo gudbi karaa hawada sare ee madhan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "коливання, яке переносить енергію з місця на місце (wave)",
+            "швидкий рух туди-сюди або вгору-вниз (vibration)",
+            "такий, що коливається під прямим кутом до напрямку руху хвилі (transverse)",
+            "такий, що коливається вздовж тієї ж лінії, в якій рухається хвиля (longitudinal)",
+            "речовина, через яку проходить хвиля (medium)"
+          ],
+          "passage": [
+            "Киньте камінець у ставок — і по воді розійдуться брижі.",
+            "Брижі — це хвилі (waves).",
+            "Листок на воді погойдується вгору-вниз, коли проходить хвилька.",
+            "Але листок не пливе через ставок разом із хвилькою.",
+            "Хвилі переносять енергію з місця на місце, а не саму воду.",
+            "У поперечній хвилі (transverse wave) коливання відбуваються під прямим кутом до напрямку руху хвилі.",
+            "Брижі на воді та світло — це поперечні хвилі.",
+            "У поздовжній хвилі (longitudinal wave) коливання відбуваються вздовж тієї ж лінії, в якій рухається хвиля.",
+            "Звук — це поздовжня хвиля.",
+            "Звуку потрібна речовина, через яку він проходить, наприклад повітря, вода або метал.",
+            "Ми називаємо цю речовину середовищем (medium).",
+            "Світлу середовище не потрібне, тому воно може пройти порожній простір від Сонця."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک ارتعاش جو توانائی کو ایک جگہ سے دوسری جگہ لے جاتا ہے (wave)",
+            "آگے پیچھے، یا اوپر نیچے کی تیز حرکت (vibration)",
+            "لہر کے چلنے کی سمت سے قائمہ زاویے پر ہلنا (transverse)",
+            "لہر کے چلنے کی سمت والی لکیر پر ہی ہلنا (longitudinal)",
+            "وہ مادہ جس میں سے لہر گزرتی ہے (medium)"
+          ],
+          "passage": [
+            "تالاب میں پتھر پھینکیں تو لہریں پھیلتی ہیں۔",
+            "یہ لہریں waves ہیں۔",
+            "جب لہر گزرتی ہے تو پانی پر پڑا پتا اوپر نیچے ہوتا ہے۔",
+            "مگر پتا لہر کے ساتھ تالاب کے پار نہیں جاتا۔",
+            "لہریں توانائی کو ایک جگہ سے دوسری جگہ لے جاتی ہیں، خود پانی کو نہیں۔",
+            "transverse لہر میں ارتعاش لہر کے چلنے کی سمت سے قائمہ زاویے پر ہوتا ہے۔",
+            "پانی کی لہریں اور روشنی transverse لہریں ہیں۔",
+            "longitudinal لہر میں ارتعاش اسی لکیر پر ہوتا ہے جس پر لہر چلتی ہے۔",
+            "آواز ایک longitudinal لہر ہے۔",
+            "آواز کو گزرنے کے لیے کوئی مادہ چاہیے، جیسے ہوا، پانی یا دھات۔",
+            "ہم اس مادے کو واسطہ (medium) کہتے ہیں۔",
+            "روشنی کو واسطے کی ضرورت نہیں، اس لیے وہ سورج سے خالی خلا پار کر سکتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Waves transfer energy, not matter",
@@ -280,8 +428,174 @@ window.ASTRA_UNITS["combined-waves"] = {
           "We measure period in seconds.",
           "If two waves pass each second, each one takes half a second.",
           "So the period is 1 divided by the frequency."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ارتفاع الموجة فوق موضع السكون (amplitude)",
+            "المسافة من قمّة إلى القمّة التالية (wavelength)",
+            "أعلى نقطة في الموجة (crest)",
+            "عدد الموجات التي تمرّ بنقطة ما في كل ثانية (frequency)",
+            "الزمن الذي تستغرقه موجة كاملة واحدة لتمرّ بنقطة ما (period)",
+            "وحدة التردّد، تُكتب Hz (hertz)"
+          ],
+          "passage": [
+            "انظر إلى موجة مرسومة على الورق.",
+            "أعلى النقاط هي القمم (crests) وأدنى النقاط هي القيعان (troughs).",
+            "الخط المستوي في الوسط هو موضع السكون (rest position).",
+            "السعة (amplitude) هي ارتفاع القمّة فوق موضع السكون.",
+            "الطول الموجي (wavelength) هو المسافة من قمّة إلى القمّة التالية.",
+            "نقيس الطول الموجي بالمتر.",
+            "تخيّل الآن الموجات وهي تمرّ بعمود.",
+            "التردّد (frequency) هو عدد الموجات التي تمرّ بالعمود في كل ثانية.",
+            "نقيس التردّد بالهرتز (hertz)، ويُكتب Hz.",
+            "موجتان في كل ثانية تردّدهما 2 Hz.",
+            "الزمن الدوري (period) هو الزمن الذي تستغرقه موجة كاملة واحدة لتمرّ بالعمود.",
+            "نقيس الزمن الدوري بالثانية.",
+            "إذا مرّت موجتان في كل ثانية، فكل واحدة تستغرق نصف ثانية.",
+            "إذن الزمن الدوري يساوي 1 مقسوماً على التردّد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wysokość fali ponad jej położeniem spoczynkowym (amplitude)",
+            "odległość od jednego grzbietu do następnego grzbietu (wavelength)",
+            "najwyższy punkt fali (crest)",
+            "liczba fal, które przechodzą przez dany punkt w każdej sekundzie (frequency)",
+            "czas, w którym jedna cała fala przechodzi przez dany punkt (period)",
+            "jednostka częstotliwości, zapisywana Hz (hertz)"
+          ],
+          "passage": [
+            "Spójrz na falę narysowaną na papierze.",
+            "Najwyższe punkty to grzbiety (crests), a najniższe punkty to doliny (troughs).",
+            "Płaska linia przez środek to położenie spoczynkowe.",
+            "Amplituda (amplitude) to wysokość grzbietu ponad położeniem spoczynkowym.",
+            "Długość fali (wavelength) to odległość od jednego grzbietu do następnego grzbietu.",
+            "Długość fali mierzymy w metrach.",
+            "Teraz wyobraź sobie fale przechodzące obok słupka.",
+            "Częstotliwość (frequency) to liczba fal, które przechodzą obok słupka w każdej sekundzie.",
+            "Częstotliwość mierzymy w hercach, zapisywanych Hz.",
+            "Dwie fale w każdej sekundzie to częstotliwość 2 Hz.",
+            "Okres (period) to czas, w którym jedna cała fala przechodzi obok słupka.",
+            "Okres mierzymy w sekundach.",
+            "Jeśli w każdej sekundzie przechodzą dwie fale, każda zajmuje pół sekundy.",
+            "Więc okres to 1 podzielone przez częstotliwość."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a altura de uma onda acima da sua posição de repouso (amplitude)",
+            "a distância de uma crista à crista seguinte (wavelength, comprimento de onda)",
+            "o ponto mais alto de uma onda (crest, crista)",
+            "o número de ondas que passam por um ponto em cada segundo (frequency, frequência)",
+            "o tempo que uma onda inteira demora a passar por um ponto (period, período)",
+            "a unidade de frequência, escrita Hz (hertz)"
+          ],
+          "passage": [
+            "Olhe para uma onda desenhada no papel.",
+            "Os pontos mais altos são as cristas (crests) e os pontos mais baixos são os vales (troughs).",
+            "A linha plana pelo meio é a posição de repouso.",
+            "A amplitude é a altura de uma crista acima da posição de repouso.",
+            "O comprimento de onda (wavelength) é a distância de uma crista à crista seguinte.",
+            "Medimos o comprimento de onda em metros.",
+            "Agora imagine as ondas a passar/passando por um poste.",
+            "A frequência (frequency) é o número de ondas que passam pelo poste em cada segundo.",
+            "Medimos a frequência em hertz, escrito Hz.",
+            "Duas ondas por segundo é uma frequência de 2 Hz.",
+            "O período (period) é o tempo que uma onda inteira demora a passar pelo poste.",
+            "Medimos o período em segundos.",
+            "Se passam duas ondas por segundo, cada uma demora meio segundo.",
+            "Por isso, o período é 1 dividido pela frequência."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sarajoogga hir ka sarreeya meeshiisa nasashada (amplitude)",
+            "masaafada hal crest ilaa crest-ka xiga (wavelength)",
+            "barta ugu sarraysa ee hir (crest)",
+            "tirada hirarka ilbiriqsi kasta bar dhaafa (frequency)",
+            "waqtiga hal hir oo dhan ku dhaafo bar (period)",
+            "halbeegga frequency, oo loo qoro Hz (hertz)"
+          ],
+          "passage": [
+            "Fiiri hir warqad ku sawiran.",
+            "Baraha ugu sarreeya waa crests, baraha ugu hooseeyana waa troughs.",
+            "Xariiqda fidsan ee dhexda marta waa meesha nasashada (rest position).",
+            "Amplitude waa sarajoogga crest ka sarreeya meesha nasashada.",
+            "Wavelength waa masaafada hal crest ilaa crest-ka xiga.",
+            "Wavelength waxaan ku cabbirnaa metres.",
+            "Hadda qiyaas hirarka oo tiir dhaafaya.",
+            "Frequency waa tirada hirarka ilbiriqsi kasta tiirka dhaafa.",
+            "Frequency waxaan ku cabbirnaa hertz, oo loo qoro Hz.",
+            "Laba hir ilbiriqsi kasta waa frequency 2 Hz.",
+            "Period waa waqtiga hal hir oo dhan ku dhaafo tiirka.",
+            "Period waxaan ku cabbirnaa ilbiriqsiyo.",
+            "Haddii laba hir ilbiriqsi kasta dhaafaan, mid kastaa wuxuu qaataa ilbiriqsi kala badh.",
+            "Sidaas darteed period waa 1 oo loo qaybiyay frequency."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "висота хвилі над положенням спокою (amplitude)",
+            "відстань від одного гребеня до наступного гребеня (wavelength)",
+            "найвища точка хвилі (crest)",
+            "кількість хвиль, які проходять через точку за кожну секунду (frequency)",
+            "час, за який одна ціла хвиля проходить через точку (period)",
+            "одиниця частоти, пишеться Hz (hertz)"
+          ],
+          "passage": [
+            "Подивіться на хвилю, намальовану на папері.",
+            "Найвищі точки — це гребені (crests), а найнижчі — западини (troughs).",
+            "Пряма лінія посередині — це положення спокою (rest position).",
+            "Амплітуда (amplitude) — це висота гребеня над положенням спокою.",
+            "Довжина хвилі (wavelength) — це відстань від одного гребеня до наступного гребеня.",
+            "Ми вимірюємо довжину хвилі в метрах.",
+            "Тепер уявіть, що хвилі проходять повз стовп.",
+            "Частота (frequency) — це кількість хвиль, які проходять повз стовп за кожну секунду.",
+            "Ми вимірюємо частоту в герцах (hertz), пишеться Hz.",
+            "Дві хвилі щосекунди — це частота 2 Hz.",
+            "Період (period) — це час, за який одна ціла хвиля проходить повз стовп.",
+            "Ми вимірюємо період у секундах.",
+            "Якщо щосекунди проходять дві хвилі, кожна з них займає півсекунди.",
+            "Отже, період — це 1, поділена на частоту."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لہر کی اس کی آرام کی جگہ سے اوپر اونچائی (amplitude)",
+            "ایک چوٹی سے اگلی چوٹی تک کا فاصلہ (wavelength)",
+            "لہر کا سب سے اونچا نقطہ (crest)",
+            "ہر سیکنڈ میں کسی نقطے سے گزرنے والی لہروں کی تعداد (frequency)",
+            "ایک پوری لہر کو کسی نقطے سے گزرنے میں لگنے والا وقت (period)",
+            "فریکوئنسی کی اکائی، جسے Hz لکھا جاتا ہے (hertz)"
+          ],
+          "passage": [
+            "کاغذ پر بنی ہوئی ایک لہر کو دیکھیں۔",
+            "سب سے اونچے نقطے چوٹیاں (crests) ہیں اور سب سے نیچے والے نقطے گڑھے (troughs) ہیں۔",
+            "بیچ سے گزرتی چپٹی لکیر آرام کی جگہ (rest position) ہے۔",
+            "amplitude آرام کی جگہ سے اوپر چوٹی کی اونچائی ہے۔",
+            "طولِ موج (wavelength) ایک چوٹی سے اگلی چوٹی تک کا فاصلہ ہے۔",
+            "ہم طولِ موج کو میٹر میں ناپتے ہیں۔",
+            "اب تصور کریں کہ لہریں ایک کھمبے کے پاس سے گزر رہی ہیں۔",
+            "فریکوئنسی (frequency) ہر سیکنڈ میں کھمبے کے پاس سے گزرنے والی لہروں کی تعداد ہے۔",
+            "ہم فریکوئنسی کو hertz میں ناپتے ہیں، جسے Hz لکھا جاتا ہے۔",
+            "ہر سیکنڈ دو لہریں 2 Hz کی فریکوئنسی ہے۔",
+            "دورانیہ (period) ایک پوری لہر کو کھمبے کے پاس سے گزرنے میں لگنے والا وقت ہے۔",
+            "ہم دورانیے کو سیکنڈ میں ناپتے ہیں۔",
+            "اگر ہر سیکنڈ دو لہریں گزرتی ہیں تو ہر لہر آدھا سیکنڈ لیتی ہے۔",
+            "اس لیے دورانیہ 1 تقسیم فریکوئنسی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Amplitude and wavelength",
@@ -464,8 +778,162 @@ window.ASTRA_UNITS["combined-waves"] = {
           "One kilohertz is one thousand hertz.",
           "One centimetre is one hundredth of a metre.",
           "Light and radio waves travel at 300 000 000 m/s through empty space."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المسافة التي تقطعها الموجة في كل ثانية (wave speed)",
+            "قاعدة مكتوبة بالرموز تربط الكمّيات ببعضها (equation)",
+            "ألف هرتز، تُكتب kHz (kilohertz)",
+            "أن تعيد ترتيب المعادلة لتعطيك كمّية مختلفة (rearrange)",
+            "أن تحوّل قياساً إلى وحدات مختلفة (convert)"
+          ],
+          "passage": [
+            "ما سرعة انتقال الموجة؟",
+            "سرعة الموجة (wave speed) هي المسافة التي تقطعها الموجة في كل ثانية.",
+            "نقيسها بالمتر في الثانية، وتُكتب m/s.",
+            "في كل ثانية، تتقدّم الموجة طولاً موجياً واحداً عن كل موجة تتكوّن.",
+            "إذن سرعة الموجة تساوي التردّد مضروباً في الطول الموجي.",
+            "نكتب هذا هكذا: v = f λ.",
+            "الرمز λ حرف يوناني يُسمّى لامدا (lambda).",
+            "وهو يمثّل الطول الموجي.",
+            "قبل أن تستعمل المعادلة، تحقّق من الوحدات.",
+            "يجب أن يكون التردّد بالهرتز والطول الموجي بالمتر.",
+            "الكيلوهرتز (kilohertz) الواحد يساوي ألف هرتز.",
+            "السنتيمتر الواحد يساوي جزءاً من مئة من المتر.",
+            "الضوء وموجات الراديو تنتقل بسرعة 300 000 000 m/s في الفضاء الفارغ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak daleko fala przebiega w każdej sekundzie (wave speed)",
+            "reguła zapisana symbolami, która łączy ze sobą wielkości (equation)",
+            "tysiąc herców, zapisywane kHz (kilohertz)",
+            "przekształcić równanie tak, żeby dawało inną wielkość (rearrange)",
+            "zamienić pomiar na inne jednostki (convert)"
+          ],
+          "passage": [
+            "Jak szybko biegnie fala?",
+            "Prędkość fali (wave speed) to odległość, jaką fala przebiega w każdej sekundzie.",
+            "Mierzymy ją w metrach na sekundę, zapisywanych m/s.",
+            "W każdej sekundzie fala przesuwa się do przodu o jedną długość fali na każdą wytworzoną falę.",
+            "Więc prędkość fali równa się częstotliwość razy długość fali.",
+            "Zapisujemy to jako v = f λ.",
+            "Symbol λ to grecka litera zwana lambda.",
+            "Oznacza długość fali.",
+            "Zanim użyjesz równania, sprawdź jednostki.",
+            "Częstotliwość musi być w hercach, a długość fali w metrach.",
+            "Jeden kiloherc to tysiąc herców.",
+            "Jeden centymetr to jedna setna metra.",
+            "Światło i fale radiowe biegną przez pustą przestrzeń z prędkością 300 000 000 m/s."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a distância que uma onda percorre em cada segundo (wave speed, velocidade da onda)",
+            "uma regra escrita com símbolos que liga grandezas entre si (equation, equação)",
+            "mil hertz, escrito kHz (kilohertz)",
+            "mudar uma equação de posição para que ela dê outra grandeza (rearrange, reorganizar)",
+            "mudar uma medida para unidades diferentes (convert, converter)"
+          ],
+          "passage": [
+            "A que velocidade viaja uma onda?",
+            "A velocidade da onda (wave speed) é a distância que a onda percorre em cada segundo.",
+            "Medimo-la em metros por segundo, escrito m/s.",
+            "Em cada segundo, uma onda avança um comprimento de onda por cada onda produzida.",
+            "Por isso, a velocidade da onda é igual à frequência vezes o comprimento de onda.",
+            "Escrevemos isto como v = f λ.",
+            "O símbolo λ é uma letra grega chamada lambda.",
+            "Representa o comprimento de onda.",
+            "Antes de usar a equação, verifique as unidades.",
+            "A frequência tem de estar em hertz e o comprimento de onda em metros.",
+            "Um kilohertz é mil hertz.",
+            "Um centímetro é um centésimo de metro.",
+            "A luz e as ondas de rádio viajam a 300 000 000 m/s no espaço vazio."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inta hir u socdaalo ilbiriqsi kasta (wave speed)",
+            "xeer calaamado lagu qoray oo isku xira qaddarro (equation)",
+            "kun hertz, oo loo qoro kHz (kilohertz)",
+            "isle'eg wareeji si ay ku siiso qaddar kale (rearrange)",
+            "cabbir u beddel halbeegyo kale (convert)"
+          ],
+          "passage": [
+            "Hir sidee u dhaqso badan yahay?",
+            "Xawaaraha hirka (wave speed) waa masaafada hir ilbiriqsi kasta u dhaqaaqo.",
+            "Waxaan ku cabbirnaa metres per second, oo loo qoro m/s.",
+            "Ilbiriqsi kasta, hir hore ayuu u socdaa hal wavelength hir kasta oo la sameeyo.",
+            "Sidaas darteed xawaaraha hirku waa frequency lagu dhuftay wavelength.",
+            "Tan waxaan u qornaa v = f λ.",
+            "Calaamadda λ waa xaraf Giriig oo la yiraahdo lambda.",
+            "Waxay u taagan tahay wavelength.",
+            "Intaadan isle'egta isticmaalin, halbeegyada hubi.",
+            "Frequency waa inay hertz ku jirtaa, wavelength-na metres.",
+            "Hal kilohertz waa kun hertz.",
+            "Hal centimetre waa boqol-meelood meel metre.",
+            "Iftiinka iyo hirarka raadiyaha waxay ku socdaalaan 300 000 000 m/s hawada sare ee madhan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "яку відстань хвиля проходить за кожну секунду (wave speed)",
+            "правило, записане символами, яке пов’язує величини між собою (equation)",
+            "одна тисяча герців, пишеться kHz (kilohertz)",
+            "переставити рівняння так, щоб воно давало іншу величину (rearrange)",
+            "перевести вимір в інші одиниці (convert)"
+          ],
+          "passage": [
+            "Як швидко рухається хвиля?",
+            "Швидкість хвилі (wave speed) — це відстань, яку хвиля проходить за кожну секунду.",
+            "Ми вимірюємо її в метрах за секунду, пишеться m/s.",
+            "За кожну секунду хвиля просувається вперед на одну довжину хвилі за кожну утворену хвилю.",
+            "Отже, швидкість хвилі дорівнює частоті, помноженій на довжину хвилі.",
+            "Ми записуємо це як v = f λ.",
+            "Символ λ — це грецька буква, яка називається лямбда.",
+            "Вона позначає довжину хвилі.",
+            "Перш ніж використовувати рівняння, перевірте одиниці.",
+            "Частота має бути в герцах, а довжина хвилі — у метрах.",
+            "Один кілогерц — це одна тисяча герців.",
+            "Один сантиметр — це одна сота метра.",
+            "Світло та радіохвилі рухаються в порожньому просторі зі швидкістю 300 000 000 m/s."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لہر ہر سیکنڈ میں کتنی دور جاتی ہے (wave speed)",
+            "علامتوں سے لکھا ایک قاعدہ جو مقداروں کو آپس میں جوڑتا ہے (equation)",
+            "ایک ہزار hertz، جسے kHz لکھا جاتا ہے (kilohertz)",
+            "مساوات کو الٹ پلٹ کرنا تا کہ وہ آپ کو کوئی دوسری مقدار دے (rearrange)",
+            "کسی پیمائش کو دوسری اکائیوں میں بدلنا (convert)"
+          ],
+          "passage": [
+            "لہر کتنی تیز چلتی ہے؟",
+            "لہر کی رفتار (wave speed) وہ فاصلہ ہے جو لہر ہر سیکنڈ میں طے کرتی ہے۔",
+            "ہم اسے میٹر فی سیکنڈ میں ناپتے ہیں، جسے m/s لکھا جاتا ہے۔",
+            "ہر سیکنڈ، بننے والی ہر لہر کے لیے لہر ایک طولِ موج آگے بڑھتی ہے۔",
+            "اس لیے لہر کی رفتار برابر ہے فریکوئنسی ضرب طولِ موج۔",
+            "ہم اسے یوں لکھتے ہیں: v = f λ۔",
+            "علامت λ ایک یونانی حرف ہے جسے lambda کہتے ہیں۔",
+            "یہ طولِ موج کی جگہ کھڑا ہے۔",
+            "مساوات استعمال کرنے سے پہلے اکائیاں جانچ لیں۔",
+            "فریکوئنسی hertz میں اور طولِ موج میٹر میں ہونی چاہیے۔",
+            "ایک kilohertz ایک ہزار hertz ہے۔",
+            "ایک سینٹی میٹر ایک میٹر کا سوواں حصہ ہے۔",
+            "روشنی اور ریڈیو لہریں خالی خلا میں 300 000 000 m/s کی رفتار سے چلتی ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Wave speed and the equation v = f λ",
@@ -649,8 +1117,162 @@ window.ASTRA_UNITS["combined-waves"] = {
           "If it crosses at an angle, it also changes direction.",
           "This bending is called refraction.",
           "The frequency of the wave stays the same, but the wavelength changes."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "السطح الذي تلتقي فيه مادّة بمادّة أخرى (boundary)",
+            "ارتداد الموجة عن سطح (reflection)",
+            "تغيّر اتجاه الموجة عندما تتغيّر سرعتها عند حدّ فاصل (refraction)",
+            "خط مرسوم بزاوية قائمة على السطح (normal)",
+            "أن تمتصّ المادّة طاقة الموجة فتسخن (absorb)"
+          ],
+          "passage": [
+            "كثيراً ما تلتقي الموجة بمادّة جديدة.",
+            "السطح الذي تلتقي فيه المادّتان يُسمّى الحدّ الفاصل (boundary).",
+            "يمكن أن تحدث هناك ثلاثة أشياء.",
+            "قد ترتدّ الموجة، وهذا هو الانعكاس (reflection).",
+            "وقد تمرّ الموجة خلال المادّة، وهذا هو النفاذ (transmission).",
+            "أو قد تمتصّ المادّة الطاقة، وهذا هو الامتصاص (absorption).",
+            "عندما تنعكس الموجة، تخرج بالزاوية نفسها التي وصلت بها.",
+            "نقيس الزوايا من خط يُسمّى العمودي (normal).",
+            "العمودي يكون بزاوية قائمة على السطح.",
+            "عندما تعبر الموجة إلى مادّة جديدة، تتغيّر سرعتها.",
+            "وإذا عبرت بزاوية، فإنها تغيّر اتجاهها أيضاً.",
+            "هذا الانحناء يُسمّى الانكسار (refraction).",
+            "تردّد الموجة يبقى كما هو، لكن الطول الموجي يتغيّر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "powierzchnia, na której jeden materiał spotyka się z drugim (boundary)",
+            "odbicie fali od powierzchni (reflection)",
+            "zmiana kierunku fali, kiedy jej prędkość zmienia się na granicy (refraction)",
+            "linia narysowana pod kątem prostym do powierzchni (normal)",
+            "przyjąć energię fali tak, że materiał się ogrzewa (absorb)"
+          ],
+          "passage": [
+            "Fala często napotyka nowy materiał.",
+            "Powierzchnię, na której spotykają się dwa materiały, nazywamy granicą (boundary).",
+            "Mogą tam zdarzyć się trzy rzeczy.",
+            "Fala może się odbić, czyli nastąpi odbicie (reflection).",
+            "Fala może przejść przez materiał, czyli nastąpi transmisja (transmission).",
+            "Albo materiał może wchłonąć energię, czyli nastąpi absorpcja (absorption).",
+            "Kiedy fala się odbija, odchodzi pod tym samym kątem, pod jakim przyszła.",
+            "Kąty mierzymy od linii zwanej normalną (normal).",
+            "Normalna jest pod kątem prostym do powierzchni.",
+            "Kiedy fala przechodzi do nowego materiału, jej prędkość się zmienia.",
+            "Jeśli przechodzi pod kątem, zmienia też kierunek.",
+            "To załamanie nazywa się refrakcją (refraction).",
+            "Częstotliwość fali zostaje taka sama, ale długość fali się zmienia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a superfície onde um material encontra outro (boundary, fronteira)",
+            "uma onda a ressaltar/ressaltando numa superfície (reflection, reflexão)",
+            "uma onda a mudar/mudando de direção quando a sua velocidade muda numa fronteira (refraction, refração)",
+            "uma linha desenhada em ângulo reto com uma superfície (normal)",
+            "absorver a energia da onda, de modo que o material aquece (absorb, absorver)"
+          ],
+          "passage": [
+            "Uma onda encontra muitas vezes um material novo.",
+            "A superfície onde os dois materiais se encontram chama-se fronteira (boundary).",
+            "Aí podem acontecer três coisas.",
+            "A onda pode ressaltar, o que é a reflexão (reflection).",
+            "A onda pode passar através, o que é a transmissão (transmission).",
+            "Ou o material pode absorver a energia, o que é a absorção (absorption).",
+            "Quando uma onda é refletida, sai com o mesmo ângulo com que chegou.",
+            "Medimos os ângulos a partir de uma linha chamada normal.",
+            "A normal está em ângulo reto com a superfície.",
+            "Quando uma onda passa para um material novo, a sua velocidade muda.",
+            "Se passa com um ângulo, também muda de direção.",
+            "Este desvio chama-se refração (refraction).",
+            "A frequência da onda mantém-se igual, mas o comprimento de onda muda."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dusha hal walax kula kulanto walax kale (boundary)",
+            "hir dib uga soo boodaya dusha wax (reflection)",
+            "hir jihada beddelaya markuu xawaarihiisu boundary ku beddelmo (refraction)",
+            "xariiq xagal qumman ku sawiran marka loo eego dusha (normal)",
+            "tamarta hirka qaadid si ay walaxdu u kululaato (absorb)"
+          ],
+          "passage": [
+            "Hir inta badan walax cusub ayuu la kulmaa.",
+            "Dusha labada walax ku kulmaan waxaa la yiraahdaa boundary.",
+            "Saddex wax ayaa halkaas ka dhici kara.",
+            "Hirku dib ayuu u soo boodi karaa, taasi waa reflection.",
+            "Hirku dhex mari karaa, taasi waa transmission.",
+            "Ama walaxdu tamarta way nuugi kartaa, taasi waa absorption.",
+            "Marka hir dib loo celiyo (reflected), isla xagashii uu yimid ayuu ku baxaa.",
+            "Xagalaha waxaan ka cabbirnaa xariiq la yiraahdo normal.",
+            "Normal-ku xagal qumman ayuu la samaystaa dusha.",
+            "Marka hir u gudbo walax cusub, xawaarihiisu wuu is beddelaa.",
+            "Haddii uu xagal ku gudbo, jihadana wuu beddelaa.",
+            "Qallooca waxaa la yiraahdaa refraction.",
+            "Frequency-ga hirku isma beddelo, laakiin wavelength-ku wuu is beddelaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "поверхня, де одна речовина зустрічається з іншою (boundary)",
+            "відбивання хвилі від поверхні (reflection)",
+            "зміна напрямку хвилі, коли її швидкість змінюється на межі (refraction)",
+            "лінія, проведена під прямим кутом до поверхні (normal)",
+            "увібрати енергію хвилі так, що речовина нагрівається (absorb)"
+          ],
+          "passage": [
+            "Хвиля часто зустрічає нову речовину.",
+            "Поверхня, де зустрічаються дві речовини, називається межею (boundary).",
+            "Там може статися три речі.",
+            "Хвиля може відбитися — це відбивання (reflection).",
+            "Хвиля може пройти крізь — це пропускання (transmission).",
+            "Або речовина може увібрати енергію — це поглинання (absorption).",
+            "Коли хвиля відбивається, вона відходить під тим самим кутом, під яким прийшла.",
+            "Ми вимірюємо кути від лінії, яка називається нормаллю (normal).",
+            "Нормаль стоїть під прямим кутом до поверхні.",
+            "Коли хвиля переходить у нову речовину, її швидкість змінюється.",
+            "Якщо вона переходить під кутом, вона також змінює напрямок.",
+            "Це заломлення називається рефракцією (refraction).",
+            "Частота хвилі залишається тією самою, а довжина хвилі змінюється."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ سطح جہاں ایک مادہ دوسرے سے ملتا ہے (boundary)",
+            "لہر کا کسی سطح سے ٹکرا کر واپس آنا (reflection)",
+            "سرحد پر رفتار بدلنے سے لہر کا رخ بدل جانا (refraction)",
+            "سطح سے قائمہ زاویے پر بنائی گئی لکیر (normal)",
+            "لہر کی توانائی کو اپنے اندر لے لینا تا کہ مادہ گرم ہو جائے (absorb)"
+          ],
+          "passage": [
+            "لہر اکثر کسی نئے مادے سے ملتی ہے۔",
+            "جس سطح پر دو مادے ملتے ہیں اسے سرحد (boundary) کہتے ہیں۔",
+            "وہاں تین چیزیں ہو سکتی ہیں۔",
+            "لہر ٹکرا کر واپس آ سکتی ہے، جو انعکاس (reflection) ہے۔",
+            "لہر پار گزر سکتی ہے، جو ترسیل (transmission) ہے۔",
+            "یا مادہ توانائی کو جذب کر سکتا ہے، جو انجذاب (absorption) ہے۔",
+            "جب لہر منعکس ہوتی ہے تو وہ اسی زاویے پر واپس جاتی ہے جس پر آئی تھی۔",
+            "ہم زاویوں کو ایک لکیر سے ناپتے ہیں جسے normal کہتے ہیں۔",
+            "normal سطح سے قائمہ زاویے پر ہوتا ہے۔",
+            "جب لہر کسی نئے مادے میں داخل ہوتی ہے تو اس کی رفتار بدل جاتی ہے۔",
+            "اگر وہ کسی زاویے پر داخل ہو تو اس کا رخ بھی بدل جاتا ہے۔",
+            "اس مڑنے کو انعطاف (refraction) کہتے ہیں۔",
+            "لہر کی فریکوئنسی وہی رہتی ہے، مگر طولِ موج بدل جاتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Three things that can happen at a boundary",
@@ -836,8 +1458,162 @@ window.ASTRA_UNITS["combined-waves"] = {
           "We can also shake a string with a vibration generator.",
           "The string forms still loops, and each loop is half a wavelength.",
           "Then wave speed = frequency × wavelength."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حوض ماء قليل العمق يُستعمل لدراسة الموجات (ripple tank)",
+            "القضيب أو الكرة التي تغطس في الماء لتصنع التموّجات (dipper)",
+            "جهاز يهزّ خيطاً صعوداً وهبوطاً بتردّد محدّد (vibration generator)",
+            "صوت منعكس تسمعه بعد الصوت الأصلي (echo)",
+            "قسم واحد من خيط مهتزّ بين نقطتَين ساكنتَين (loop)"
+          ],
+          "passage": [
+            "يتكوّن الصوت عندما يهتزّ شيء ما.",
+            "مخروط مكبّر الصوت يتحرّك إلى الأمام والخلف ويدفع الهواء.",
+            "ينتقل هذا الدفع خلال الهواء على شكل موجة طولية.",
+            "عندما يصل إلى أذنك، تهتزّ طبلة أذنك.",
+            "لا يستطيع الصوت أن ينتقل في الفضاء الفارغ، لأنه لا توجد جسيمات تنقله.",
+            "في المختبر ندرس الموجات في حوض التموّجات (ripple tank).",
+            "غطّاس (dipper) يتحرّك صعوداً وهبوطاً ويصنع تموّجات في ماء قليل العمق.",
+            "مصباح فوق الحوض يُلقي ظلّ التموّجات على شاشة في الأسفل.",
+            "نعدّ الموجات لنجد التردّد.",
+            "ونقيس عبر عدّة موجات على الشاشة لنجد الطول الموجي.",
+            "يمكننا أيضاً أن نهزّ خيطاً بمولّد اهتزاز (vibration generator).",
+            "يكوّن الخيط عقداً ساكنة (loops)، وكل عقدة نصف طول موجي.",
+            "ثم: سرعة الموجة = التردّد × الطول الموجي."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "płytka tacka z wodą używana do badania fal (ripple tank)",
+            "pręt lub kulka, która podskakuje w wodzie, żeby robić fale (dipper)",
+            "maszyna, która potrząsa struną w górę i w dół z ustaloną częstotliwością (vibration generator)",
+            "odbity dźwięk, który słyszysz po pierwotnym dźwięku (echo)",
+            "jeden odcinek drgającej struny między dwoma nieruchomymi punktami (loop)"
+          ],
+          "passage": [
+            "Dźwięk powstaje, kiedy coś drga.",
+            "Membrana głośnika porusza się w przód i w tył i popycha powietrze.",
+            "To popchnięcie biegnie przez powietrze jako fala podłużna.",
+            "Kiedy dociera do twojego ucha, drga twoja błona bębenkowa.",
+            "Dźwięk nie może biec przez pustą przestrzeń, bo nie ma tam cząstek, które by go przekazały.",
+            "W laboratorium badamy fale w tacce falowej (ripple tank).",
+            "Zanurzacz (dipper) podskakuje w górę i w dół i robi fale w płytkiej wodzie.",
+            "Lampa nad tacką rzuca cień fal na ekran pod nią.",
+            "Liczymy fale, żeby znaleźć częstotliwość.",
+            "Mierzymy odległość przez kilka fal na ekranie, żeby znaleźć długość fali.",
+            "Możemy też potrząsać struną za pomocą generatora drgań (vibration generator).",
+            "Struna tworzy nieruchome pętle (loops), a każda pętla to pół długości fali.",
+            "Wtedy prędkość fali = częstotliwość × długość fali (wave speed = frequency × wavelength)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um tabuleiro raso com água usado para estudar ondas (ripple tank, tanque de ondas)",
+            "a barra ou a bola que sobe e desce na água para fazer ondulações (dipper)",
+            "uma máquina que agita um fio para cima e para baixo a uma frequência fixa (vibration generator, gerador de vibrações)",
+            "um som refletido que você ouve depois do som original (echo, eco)",
+            "uma secção/seção de um fio a vibrar/vibrando entre dois pontos parados (loop)"
+          ],
+          "passage": [
+            "O som é produzido quando alguma coisa vibra.",
+            "O cone de um altifalante/alto-falante move-se para trás e para a frente e empurra o ar.",
+            "O empurrão viaja pelo ar como uma onda longitudinal.",
+            "Quando chega ao seu ouvido, o seu tímpano vibra.",
+            "O som não consegue viajar pelo espaço vazio, porque não há partículas para o passar adiante.",
+            "No laboratório estudamos as ondas num tanque de ondas (ripple tank).",
+            "Um dipper sobe e desce e faz ondulações em água rasa.",
+            "Uma lâmpada por cima do tanque projeta uma sombra das ondulações num ecrã/numa tela por baixo.",
+            "Contamos as ondas para encontrar a frequência.",
+            "Medimos a largura de várias ondas no ecrã/na tela para encontrar o comprimento de onda.",
+            "Também podemos agitar um fio com um gerador de vibrações (vibration generator).",
+            "O fio forma loops parados, e cada loop é meio comprimento de onda.",
+            "Depois, velocidade da onda = frequência × comprimento de onda."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "saxan biyo gacan ah oo hirarka lagu barto (ripple tank)",
+            "birta ama kubbadda biyaha ku ruxanta si ay hirar yaryar u samayso (dipper)",
+            "mishiin xadhig kor iyo hoos u ruxa frequency la go'aamiyay (vibration generator)",
+            "dhawaaq dib loo celiyay oo aad maqasho dhawaaqii asalka kadib (echo)",
+            "hal qayb oo xadhig gariiraya oo u dhexeeya laba bar oo aan dhaqaaqayn (loop)"
+          ],
+          "passage": [
+            "Dhawaaq wuxuu dhashaa marka wax gariiro.",
+            "Koonka sameecadda (loudspeaker) hore iyo gadaal ayuu u dhaqaaqaa, hawadana wuu riixaa.",
+            "Riixiddu hawada ayay dhex martaa sidii hir longitudinal ah.",
+            "Markuu dhegtaada gaaro, dhegta-dhexdeedu (eardrum) way gariirtaa.",
+            "Dhawaaqu hawada sare ee madhan ma dhex mari karo, sababtoo ah ma jiraan particles gudbiya.",
+            "Shaybaarka hirarka waxaan ku baranno ripple tank.",
+            "Dipper kor iyo hoos ayuu u ruxmaa, hirar yaryarna wuxuu ku samaynayaa biyo gacan ah.",
+            "Laambad saxanka ka sarraysa hooska hirarka yaryar ayay ku tuurtaa shaashad hoose.",
+            "Hirarka waan tirinnaa si aan frequency u helno.",
+            "Dhawr hir oo shaashadda ku yaal ayaan dhinac ka cabbirnaa si aan wavelength u helno.",
+            "Sidoo kale xadhig waxaan ku ruxi karnaa vibration generator.",
+            "Xadhiggu wuxuu samaystaa loops aan dhaqaaqayn, loop kastaana waa wavelength kala badh.",
+            "Kadibna xawaaraha hirka = frequency × wavelength."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "неглибока ванночка з водою для вивчення хвиль (ripple tank)",
+            "планка або кулька, яка занурюється у воду і створює брижі (dipper)",
+            "пристрій, який трясе струну вгору-вниз із заданою частотою (vibration generator)",
+            "відбитий звук, який ви чуєте після початкового звуку (echo)",
+            "одна ділянка струни, що коливається, між двома нерухомими точками (loop)"
+          ],
+          "passage": [
+            "Звук виникає, коли щось коливається.",
+            "Конус гучномовця рухається туди-сюди і штовхає повітря.",
+            "Цей поштовх проходить через повітря як поздовжня хвиля.",
+            "Коли він досягає вашого вуха, ваша барабанна перетинка коливається.",
+            "Звук не може проходити крізь порожній простір, бо там немає частинок, які б його передавали.",
+            "У лабораторії ми вивчаємо хвилі у хвильовій ванні (ripple tank).",
+            "Занурювач (dipper) рухається вгору-вниз і створює брижі на мілкій воді.",
+            "Лампа над ванною відкидає тінь від хвиль на екран унизу.",
+            "Ми рахуємо хвилі, щоб знайти частоту.",
+            "Ми вимірюємо відстань через кілька хвиль на екрані, щоб знайти довжину хвилі.",
+            "Ми також можемо трясти струну за допомогою генератора коливань (vibration generator).",
+            "Струна утворює нерухомі петлі (loops), і кожна петля — це половина довжини хвилі.",
+            "Тоді швидкість хвилі = частота × довжина хвилі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لہروں کا مطالعہ کرنے کے لیے پانی کی ایک کم گہری ٹرے (ripple tank)",
+            "وہ سلاخ یا گیند جو پانی میں اوپر نیچے ہو کر لہریں بناتی ہے (dipper)",
+            "ایک مشین جو تار کو ایک مقررہ فریکوئنسی پر اوپر نیچے ہلاتی ہے (vibration generator)",
+            "ایک منعکس آواز جو آپ اصل آواز کے بعد سنتے ہیں (echo)",
+            "ہلتی ہوئی تار کا دو ساکن نقطوں کے بیچ کا ایک حصہ (loop)"
+          ],
+          "passage": [
+            "آواز تب بنتی ہے جب کوئی چیز ہلتی (vibrate) ہے۔",
+            "لاؤڈ اسپیکر کا شنک آگے پیچھے ہوتا ہے اور ہوا کو دھکیلتا ہے۔",
+            "یہ دھکا ہوا میں ایک longitudinal لہر کی شکل میں چلتا ہے۔",
+            "جب یہ آپ کے کان تک پہنچتا ہے تو آپ کے کان کا پردہ ہلتا ہے۔",
+            "آواز خالی خلا میں نہیں چل سکتی، کیونکہ اسے آگے پہنچانے کے لیے ذرات نہیں ہوتے۔",
+            "لیب میں ہم لہروں کا مطالعہ ایک ripple tank میں کرتے ہیں۔",
+            "ایک dipper اوپر نیچے ہوتا ہے اور کم گہرے پانی میں لہریں بناتا ہے۔",
+            "ٹینک کے اوپر لگا لیمپ نیچے اسکرین پر لہروں کا سایہ ڈالتا ہے۔",
+            "ہم فریکوئنسی معلوم کرنے کے لیے لہریں گنتے ہیں۔",
+            "ہم طولِ موج معلوم کرنے کے لیے اسکرین پر کئی لہروں کے پار ناپتے ہیں۔",
+            "ہم ایک تار کو vibration generator سے بھی ہلا سکتے ہیں۔",
+            "تار ساکن لوپ بناتی ہے، اور ہر لوپ آدھی طولِ موج ہے۔",
+            "پھر لہر کی رفتار برابر ہے فریکوئنسی ضرب طولِ موج (wave speed = frequency × wavelength)۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Sound is a longitudinal wave (speed in solids: Physics only)",
@@ -1032,8 +1808,162 @@ window.ASTRA_UNITS["combined-waves"] = {
           "Engineers use it to find cracks inside metal.",
           "Earthquakes send seismic waves through the Earth.",
           "Studying these waves tells us what is deep inside the planet."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مدى ارتفاع النغمة أو انخفاضها؛ وهو يعتمد على التردّد (pitch)",
+            "مدى علوّ الصوت؛ وهو يعتمد على السعة (loudness)",
+            "صوت أعلى تردّداً من أن يسمعه البشر، فوق 20 000 Hz (ultrasound)",
+            "إيجاد عمق أو مسافة بتوقيت نبضة صوت منعكسة (echo sounding)",
+            "موجة يصنعها زلزال وتنتقل خلال الأرض (seismic wave)"
+          ],
+          "passage": [
+            "النغمة العالية لها حدّة (pitch) عالية.",
+            "الحدّة تعتمد على التردّد: موجات أكثر في كل ثانية تعني نغمة أعلى.",
+            "علوّ الصوت (loudness) يعتمد على السعة: سعة أكبر تعني صوتاً أعلى.",
+            "يسمع البشر الأصوات من نحو 20 Hz حتى 20 000 Hz.",
+            "الصوت الذي يتجاوز 20 000 Hz يُسمّى الموجات فوق الصوتية (ultrasound).",
+            "لا نستطيع أن نسمعه، لكن الخفافيش والدلافين تستطيع.",
+            "الموجات فوق الصوتية تنعكس عن الحدّ الفاصل بين مادّتَين مختلفتَين.",
+            "ترسل السفينة نبضة صوت إلى قاع البحر وتوقّت الصدى (echo).",
+            "نصف الزمن، مضروباً في السرعة، يعطي العمق.",
+            "يستعمل الأطباء الموجات فوق الصوتية لتصوير الجنين قبل أن يُولد.",
+            "ويستعملها المهندسون للعثور على الشقوق داخل المعادن.",
+            "الزلازل ترسل موجات زلزالية (seismic waves) خلال الأرض.",
+            "دراسة هذه الموجات تخبرنا بما يوجد في أعماق الكوكب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak wysoko lub nisko brzmi dźwięk; zależy od częstotliwości (pitch)",
+            "jak głośny jest dźwięk; zależy od amplitudy (loudness)",
+            "dźwięk za wysoki, żeby ludzie go słyszeli, powyżej 20 000 Hz (ultrasound)",
+            "znajdowanie głębokości lub odległości przez mierzenie czasu odbitego impulsu dźwięku (echo sounding)",
+            "fala wywołana przez trzęsienie ziemi, która biegnie przez Ziemię (seismic wave)"
+          ],
+          "passage": [
+            "Wysoka nuta ma wysoką wysokość dźwięku (pitch).",
+            "Wysokość dźwięku zależy od częstotliwości: więcej fal na sekundę oznacza wyższą nutę.",
+            "Głośność (loudness) zależy od amplitudy: większa amplituda oznacza głośniejszy dźwięk.",
+            "Ludzie słyszą dźwięki od około 20 Hz do 20 000 Hz.",
+            "Dźwięk powyżej 20 000 Hz nazywa się ultradźwiękiem (ultrasound).",
+            "My go nie słyszymy, ale nietoperze i delfiny tak.",
+            "Ultradźwięki odbijają się od granicy między dwoma różnymi materiałami.",
+            "Statek wysyła impuls dźwięku w dół do dna morza i mierzy czas echa.",
+            "Połowa czasu razy prędkość daje głębokość.",
+            "Lekarze używają ultradźwięków, żeby robić obrazy dziecka, zanim się urodzi.",
+            "Inżynierowie używają ich, żeby znajdować pęknięcia wewnątrz metalu.",
+            "Trzęsienia ziemi wysyłają fale sejsmiczne (seismic waves) przez Ziemię.",
+            "Badanie tych fal mówi nam, co jest głęboko wewnątrz planety."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "quão alta ou baixa soa uma nota; depende da frequência (pitch, altura do som)",
+            "quão forte é um som; depende da amplitude (loudness, intensidade)",
+            "som demasiado agudo para os humanos ouvirem, acima de 20 000 Hz (ultrasound, ultrassom)",
+            "encontrar uma profundidade ou distância cronometrando um pulso de som refletido (echo sounding, sondagem por eco)",
+            "uma onda produzida por um terremoto/sismo que viaja através da Terra (seismic wave, onda sísmica)"
+          ],
+          "passage": [
+            "Uma nota aguda tem um pitch alto.",
+            "O pitch depende da frequência: mais ondas por segundo quer dizer uma nota mais aguda.",
+            "A intensidade (loudness) depende da amplitude: uma amplitude maior quer dizer um som mais forte.",
+            "Os humanos ouvem sons de cerca de 20 Hz até 20 000 Hz.",
+            "O som acima de 20 000 Hz chama-se ultrassom (ultrasound).",
+            "Nós não o conseguimos ouvir, mas os morcegos e os golfinhos conseguem.",
+            "O ultrassom reflete-se numa fronteira entre dois materiais diferentes.",
+            "Um navio envia um pulso de som para o fundo do mar e cronometra o eco.",
+            "Metade do tempo, vezes a velocidade, dá a profundidade.",
+            "Os médicos usam o ultrassom para fazer imagens de um bebé/bebê antes de nascer.",
+            "Os engenheiros usam-no para encontrar fissuras dentro do metal.",
+            "Os terremotos/sismos enviam ondas sísmicas (seismic waves) através da Terra.",
+            "Estudar estas ondas diz-nos o que há nas profundezas do planeta."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida nooto u sarrayso ama u hoosayso; waxay ku xiran tahay frequency (pitch)",
+            "sida dhawaaq u weyn yahay; waxay ku xiran tahay amplitude (loudness)",
+            "dhawaaq aad u sarreeya oo bini'aadanku maqli karin, 20 000 Hz ka sarreeya (ultrasound)",
+            "dhiro ama masaafo helid iyadoo la waqtiyeeyo dhawaaq dib loo celiyay (echo sounding)",
+            "hir dhulgariir sameeyo oo Dhulka dhex mara (seismic wave)"
+          ],
+          "passage": [
+            "Nooto sare waxay leedahay pitch sare.",
+            "Pitch waxay ku xiran tahay frequency: hirar badan ilbiriqsi kasta micnaheedu waa nooto ka sarraysa.",
+            "Loudness waxay ku xiran tahay amplitude: amplitude ka weyn micnaheedu waa dhawaaq ka weyn.",
+            "Bini'aadanku waxay maqlaan dhawaaqyo qiyaastii 20 Hz ilaa 20 000 Hz.",
+            "Dhawaaq 20 000 Hz ka sarreeya waxaa la yiraahdaa ultrasound.",
+            "Annagu ma maqli karno, laakiin fiidmeerta iyo hoonbarrada (dolphins) way maqli karaan.",
+            "Ultrasound dib ayuu uga soo noqdaa boundary u dhexeeya laba walax oo kala duwan.",
+            "Markab dhawaaq ayuu hoos ugu diraa sagxadda badda, echo-dana wuu waqtiyeeyaa.",
+            "Waqtiga kala badh, oo xawaaraha lagu dhuftay, wuxuu bixiyaa dhirada (depth).",
+            "Dhakhaatiirtu ultrasound ayay u isticmaalaan si ay sawirro ilmo ka sameeyaan intuusan dhalan.",
+            "Injineerradu waxay u isticmaalaan si ay u helaan dillaacyo bir gudaheed ku jira.",
+            "Dhulgariirrada waxay hirar seismic ah Dhulka dhex diraan.",
+            "Baridda hirarkan waxay inoo sheegtaa waxa ku jira meeraha gudihiisa hoose."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "наскільки високо чи низько звучить нота; залежить від частоти (pitch)",
+            "наскільки гучний звук; залежить від амплітуди (loudness)",
+            "звук надто високий, щоб людина могла його почути, понад 20 000 Hz (ultrasound)",
+            "визначення глибини або відстані за часом повернення відбитого звукового імпульсу (echo sounding)",
+            "хвиля, спричинена землетрусом, яка проходить крізь Землю (seismic wave)"
+          ],
+          "passage": [
+            "Висока нота має високу висоту тону (pitch).",
+            "Висота тону залежить від частоти: більше хвиль за секунду означає вищу ноту.",
+            "Гучність (loudness) залежить від амплітуди: більша амплітуда означає гучніший звук.",
+            "Люди чують звуки приблизно від 20 Hz до 20 000 Hz.",
+            "Звук понад 20 000 Hz називається ультразвуком (ultrasound).",
+            "Ми не можемо його чути, але кажани й дельфіни можуть.",
+            "Ультразвук відбивається від межі між двома різними речовинами.",
+            "Корабель посилає звуковий імпульс униз до морського дна й вимірює час до повернення відлуння.",
+            "Половина часу, помножена на швидкість, дає глибину.",
+            "Лікарі використовують ультразвук, щоб отримати зображення дитини до її народження.",
+            "Інженери використовують його, щоб знаходити тріщини всередині металу.",
+            "Землетруси посилають сейсмічні хвилі (seismic waves) крізь Землю.",
+            "Вивчення цих хвиль розповідає нам, що міститься глибоко всередині планети."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کوئی سُر کتنا اونچا یا نیچا لگتا ہے؛ یہ فریکوئنسی پر منحصر ہے (pitch)",
+            "آواز کتنی بلند ہے؛ یہ amplitude پر منحصر ہے (loudness)",
+            "ایسی آواز جو انسانوں کے سننے کے لیے بہت اونچی ہو، 20 000 Hz سے اوپر (ultrasound)",
+            "آواز کی منعکس نبض کا وقت ناپ کر گہرائی یا فاصلہ معلوم کرنا (echo sounding)",
+            "زلزلے سے بننے والی لہر جو زمین کے اندر سے گزرتی ہے (seismic wave)"
+          ],
+          "passage": [
+            "اونچے سُر کی pitch اونچی ہوتی ہے۔",
+            "Pitch فریکوئنسی پر منحصر ہے: ہر سیکنڈ زیادہ لہروں کا مطلب ہے زیادہ اونچا سُر۔",
+            "بلندی (loudness) amplitude پر منحصر ہے: بڑے amplitude کا مطلب ہے زیادہ بلند آواز۔",
+            "انسان تقریباً 20 Hz سے 20 000 Hz تک کی آوازیں سنتے ہیں۔",
+            "20 000 Hz سے اوپر کی آواز کو ultrasound کہتے ہیں۔",
+            "ہم اسے نہیں سن سکتے، مگر چمگادڑ اور ڈولفن سن سکتے ہیں۔",
+            "Ultrasound دو الگ مادوں کے بیچ کی سرحد سے منعکس ہوتی ہے۔",
+            "ایک بحری جہاز آواز کی ایک نبض سمندر کی تہہ تک نیچے بھیجتا ہے اور گونج (echo) کا وقت ناپتا ہے۔",
+            "آدھا وقت، ضرب رفتار، گہرائی دیتا ہے۔",
+            "ڈاکٹر بچے کی پیدائش سے پہلے اس کی تصویریں بنانے کے لیے ultrasound استعمال کرتے ہیں۔",
+            "انجینئر اسے دھات کے اندر دراڑیں ڈھونڈنے کے لیے استعمال کرتے ہیں۔",
+            "زلزلے زمین کے اندر سے seismic لہریں بھیجتے ہیں۔",
+            "ان لہروں کا مطالعہ ہمیں بتاتا ہے کہ سیارے کے اندر گہرائی میں کیا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Pitch, loudness and the range of hearing (Physics only)",

@@ -167,8 +167,168 @@ window.ASTRA_UNITS["englang-p2"] = {
           "Spend thirteen minutes reading both sources and the questions.",
           "Then answer the four reading questions in order.",
           "Keep forty-five minutes for Question 5."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كتابة عن أناس وأماكن وأحداث وأفكار حقيقية (non-fiction)",
+            "واحد من النصّين المطبوعين في الامتحان (source)",
+            "نوع النص الذي أمامك (form)",
+            "الناس الذين كُتب النص لهم (audience)",
+            "ما يريد الكاتب أن تفعله كتابته (purpose)"
+          ],
+          "passage": [
+            "الورقة 2 (Paper 2) امتحان واحد يستمرّ ساعة وخمساً وأربعين دقيقة.",
+            "وهي تساوي نصف شهادتك في اللغة الإنجليزية (GCSE).",
+            "القسم A للقراءة، والقسم B للكتابة.",
+            "تقرأ نصّين غير قصصيين (non-fiction).",
+            "أحدهما كُتب في القرن التاسع عشر.",
+            "والآخر حديث.",
+            "يشتركان في الموضوع، لكن الكاتبَين يريانه بشكل مختلف.",
+            "قبل أن تقرأ، اطرح ثلاثة أسئلة.",
+            "ما نوع النص (form): رسالة، أم مقال، أم خطبة؟",
+            "من هو الجمهور (audience)؟",
+            "ما الهدف (purpose): أن يُخبر، أم يُسلّي، أم يُقنع، أم يُجادل؟",
+            "اقضِ ثلاث عشرة دقيقة في قراءة النصّين والأسئلة.",
+            "ثم أجب عن أسئلة القراءة الأربعة بالترتيب.",
+            "احتفظ بخمس وأربعين دقيقة للسؤال 5."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "pisanie o prawdziwych ludziach, miejscach, zdarzeniach i ideach (non-fiction)",
+            "jeden z dwóch tekstów wydrukowanych w arkuszu egzaminacyjnym (source)",
+            "rodzaj tekstu, jakim on jest (form)",
+            "ludzie, dla których tekst jest napisany (audience)",
+            "to, co autor chce, żeby tekst zrobił (purpose)"
+          ],
+          "passage": [
+            "Arkusz 2 (Paper 2) to jeden egzamin, który trwa godzinę i czterdzieści pięć minut.",
+            "Jest wart połowę twojego egzaminu GCSE z języka angielskiego.",
+            "Sekcja A to czytanie, a sekcja B to pisanie.",
+            "Czytasz dwa teksty źródłowe (sources), które nie są fikcją.",
+            "Jeden został napisany w dziewiętnastym wieku.",
+            "Drugi jest współczesny.",
+            "Mają wspólny temat, ale autorzy widzą go inaczej.",
+            "Zanim zaczniesz czytać, zadaj trzy pytania.",
+            "Jaka to forma (form): list, artykuł, przemowa?",
+            "Kto jest odbiorcą (audience)?",
+            "Jaki jest cel (purpose): informować, bawić, przekonywać, argumentować?",
+            "Poświęć trzynaście minut na przeczytanie obu tekstów i pytań.",
+            "Potem odpowiedz po kolei na cztery pytania dotyczące czytania.",
+            "Zostaw czterdzieści pięć minut na pytanie 5."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "textos sobre pessoas, lugares, acontecimentos e ideias reais (non-fiction, não ficção)",
+            "um dos dois textos impressos no exame (source, fonte)",
+            "o tipo de texto que é (form, forma)",
+            "as pessoas para quem um texto é escrito (audience, público)",
+            "o que o escritor quer que o texto faça (purpose, propósito)"
+          ],
+          "passage": [
+            "O Paper 2 é um exame que dura uma hora e quarenta e cinco minutos.",
+            "Vale metade do seu GCSE de English Language.",
+            "A Parte A (Section A) é de leitura, e a Parte B (Section B) é de escrita.",
+            "Você lê duas fontes (sources) de não ficção.",
+            "Uma foi escrita no século dezenove.",
+            "A outra é moderna.",
+            "As duas falam do mesmo tema, mas os escritores veem-no de maneiras diferentes.",
+            "Antes de ler, faça três perguntas.",
+            "Que forma é esta: uma carta, um artigo, um discurso?",
+            "Quem é o público?",
+            "Qual é o propósito: informar, divertir, persuadir, argumentar?",
+            "Use treze minutos para ler as duas fontes e as perguntas.",
+            "Depois responda às quatro perguntas de leitura, por ordem.",
+            "Guarde quarenta e cinco minutos para a Pergunta 5."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qoraal ku saabsan dad, meelo, dhacdooyin iyo fikrado dhab ah (non-fiction)",
+            "mid ka mid ah labada qoraal ee ku daabacan imtixaanka (source)",
+            "nooca qoraalku yahay (form)",
+            "dadka qoraalka loo qoray (audience)",
+            "waxa qoraagu doonayo in qoraalku sameeyo (purpose)"
+          ],
+          "passage": [
+            "Paper 2 waa hal imtixaan oo socda hal saac iyo shan iyo afartan daqiiqo.",
+            "Wuxuu u dhigmaa kala badh GCSE-gaaga English Language.",
+            "Qaybta A waa akhris, Qaybta B-na waa qoraal.",
+            "Waxaad akhrisaa laba qoraal (sources) oo non-fiction ah.",
+            "Mid waxaa la qoray qarnigii sagaal iyo tobnaad.",
+            "Kan kalena waa mid casri ah.",
+            "Isku mawduuc ayay wadaagaan, laakiin qorayaashu si kala duwan ayay u arkaan.",
+            "Intaadan akhrin, saddex su'aalood is weydii.",
+            "Nooce qoraal (form) waa: warqad, maqaal, mise khudbad?",
+            "Yaa loo qoray (audience)?",
+            "Ujeeddadu (purpose) waa maxay: in la wargeliyo, in la maaweeliyo, in lagu qanciyo, mise in lagu doodo?",
+            "Saddex iyo toban daqiiqo ku qaado akhrinta labada qoraal iyo su'aalaha.",
+            "Kadibna afarta su'aalood ee akhriska si isku xigta uga jawaab.",
+            "Shan iyo afartan daqiiqo u hay Su'aasha 5."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тексти про справжніх людей, місця, події та ідеї (non-fiction)",
+            "один із двох текстів, надрукованих в екзамені (source)",
+            "те, якого виду цей текст (form)",
+            "люди, для яких написано текст (audience)",
+            "те, що автор хоче, щоб текст зробив (purpose)"
+          ],
+          "passage": [
+            "Paper 2 — це один екзамен, який триває одну годину сорок п’ять хвилин.",
+            "Він дає половину вашої оцінки GCSE з англійської мови.",
+            "Section A — це читання, а Section B — це письмо.",
+            "Ви читаєте два нехудожні тексти (non-fiction sources).",
+            "Один був написаний у дев’ятнадцятому столітті.",
+            "Інший — сучасний.",
+            "У них спільна тема, але автори бачать її по-різному.",
+            "Перш ніж читати, поставте три запитання.",
+            "Яка це форма (form): лист, стаття, промова?",
+            "Хто аудиторія (audience)?",
+            "Яка мета (purpose): інформувати, розважити, переконати, довести?",
+            "Витратьте тринадцять хвилин на читання обох текстів і запитань.",
+            "Потім відповідайте на чотири запитання з читання по порядку.",
+            "Залиште сорок п’ять хвилин на Question 5."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "حقیقی لوگوں، جگہوں، واقعات اور خیالات کے بارے میں تحریر (non-fiction)",
+            "امتحان میں چھپے ہوئے دو متنوں میں سے ایک (source)",
+            "متن کس قسم کا ہے (form)",
+            "وہ لوگ جن کے لیے متن لکھا گیا ہے (audience)",
+            "مصنف تحریر سے کیا کام لینا چاہتا ہے (purpose)"
+          ],
+          "passage": [
+            "Paper 2 ایک امتحان ہے جو ایک گھنٹہ پینتالیس منٹ چلتا ہے۔",
+            "یہ آپ کے English Language GCSE کا آدھا حصہ ہے۔",
+            "Section A پڑھنا ہے اور Section B لکھنا ہے۔",
+            "آپ دو non-fiction ماخذ (sources) پڑھتے ہیں۔",
+            "ایک انیسویں صدی میں لکھا گیا تھا۔",
+            "دوسرا جدید زمانے کا ہے۔",
+            "ان کا موضوع ایک ہے، مگر مصنف اسے الگ الگ نظر سے دیکھتے ہیں۔",
+            "پڑھنے سے پہلے تین سوال پوچھیں۔",
+            "اس کی قسم (form) کیا ہے: خط، مضمون، یا تقریر؟",
+            "قاری (audience) کون ہیں؟",
+            "مقصد (purpose) کیا ہے: بتانا، لطف دینا، قائل کرنا، یا دلیل دینا؟",
+            "تیرہ منٹ دونوں ماخذ اور سوالات پڑھنے میں لگائیں۔",
+            "پھر پڑھنے کے چار سوالوں کے جواب ترتیب سے دیں۔",
+            "سوال 5 کے لیے پینتالیس منٹ بچا کر رکھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "What is in the paper",
           paragraphs: [
@@ -303,8 +463,156 @@ window.ASTRA_UNITS["englang-p2"] = {
           "Find a detail in Source A and say what it suggests.",
           "Then find a different detail in Source B and say what that suggests.",
           "Write two or three comparative paragraphs."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جملة تقول إن شيئاً ما صحيح (statement)",
+            "ظلّل المربّع لتُظهر اختيارك (shade)",
+            "استنتج ما يُلمّح إليه الكاتب ولا يقوله مباشرة (infer)",
+            "يُظهر كيف يختلف شيئان أو يتشابهان (comparative)",
+            "كلمات من النص تثبت وجهة نظرك (evidence)"
+          ],
+          "passage": [
+            "السؤال 1 يساوي أربع علامات ويستغرق نحو دقيقتين.",
+            "وهو يسأل عن الأسطر الأولى من النص A.",
+            "تقرأ ثماني عبارات (statements).",
+            "أربع منها صحيحة وأربع ليست كذلك.",
+            "ظلّل المربّع بجانب كل عبارة صحيحة.",
+            "إذا أخطأت، فاشطب المربّع كله.",
+            "السؤال 2 يساوي ثماني علامات ويستغرق نحو عشر دقائق.",
+            "وهو يسأل عمّا يمكنك أن تستنتجه (infer) عن الفروق بين النصّين.",
+            "أن تستنتج يعني أن تقرأ ما بين السطور.",
+            "ابحث عن تفصيلة في النص A وقل ما الذي تُلمّح إليه.",
+            "ثم ابحث عن تفصيلة مختلفة في النص B وقل ما الذي تُلمّح إليه.",
+            "اكتب فقرتَين أو ثلاث فقرات للمقارنة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zdanie, które mówi, że coś jest prawdą (statement)",
+            "zamalować kratkę, żeby pokazać swój wybór (shade)",
+            "domyślić się tego, co autor sugeruje, ale nie mówi wprost (infer)",
+            "pokazujący, czym dwie rzeczy się różnią albo w czym są podobne (comparative)",
+            "słowa z tekstu, które dowodzą twojej tezy (evidence)"
+          ],
+          "passage": [
+            "Pytanie 1 jest warte cztery punkty i zajmuje około dwóch minut.",
+            "Dotyczy pierwszych linijek tekstu A (Source A).",
+            "Czytasz osiem stwierdzeń.",
+            "Cztery są prawdziwe, a cztery nie.",
+            "Zamaluj kratkę obok każdego prawdziwego stwierdzenia.",
+            "Jeśli się pomylisz, przekreśl całą kratkę.",
+            "Pytanie 2 jest warte osiem punktów i zajmuje około dziesięciu minut.",
+            "Pyta, co możesz wywnioskować o różnicach między dwoma tekstami.",
+            "Wnioskować (infer) to czytać między wierszami.",
+            "Znajdź szczegół w tekście A i powiedz, co on sugeruje.",
+            "Potem znajdź inny szczegół w tekście B i powiedz, co tamten sugeruje.",
+            "Napisz dwa lub trzy akapity porównawcze."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma frase que diz que algo é assim (statement, afirmação)",
+            "preencher uma caixa para mostrar a sua escolha (shade)",
+            "descobrir o que o escritor sugere mas não diz (infer, inferir)",
+            "que mostra como duas coisas são diferentes ou parecidas (comparative, comparativo)",
+            "palavras do texto que provam o que você diz (evidence, prova)"
+          ],
+          "passage": [
+            "A Pergunta 1 vale quatro pontos e leva cerca de dois minutos.",
+            "Pergunta sobre as primeiras linhas da Fonte A (Source A).",
+            "Você lê oito afirmações.",
+            "Quatro são verdadeiras e quatro não são.",
+            "Preencha a caixa ao lado de cada afirmação verdadeira.",
+            "Se errar, risque a caixa inteira.",
+            "A Pergunta 2 vale oito pontos e leva cerca de dez minutos.",
+            "Pergunta o que você consegue inferir sobre as diferenças entre as duas fontes.",
+            "Inferir é ler nas entrelinhas.",
+            "Encontre um detalhe na Fonte A e diga o que ele sugere.",
+            "Depois encontre um detalhe diferente na Fonte B e diga o que esse sugere.",
+            "Escreva dois ou três parágrafos comparativos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "weedh sheegaysa in wax uun run yahay (statement)",
+            "sanduuq madoobee si aad doorashadaada u muujiso (shade)",
+            "garo waxa qoraagu tilmaamayo laakiin aan si toos ah u sheegin (infer)",
+            "muujinaya sida laba wax u kala duwan yihiin ama isugu eg yihiin (comparative)",
+            "erayo qoraalka ka soo baxay oo caddaynaya hadalkaaga (evidence)"
+          ],
+          "passage": [
+            "Su'aasha 1 waxay leedahay afar dhibcood, waxayna qaadataa qiyaastii laba daqiiqo.",
+            "Waxay ku saabsan tahay xariiqyada furitaanka ee Source A.",
+            "Waxaad akhrisaa siddeed weedhood (statements).",
+            "Afar run ayay yihiin, afarna run ma aha.",
+            "Madoobee sanduuqa ag yaal weedh kasta oo run ah.",
+            "Haddii aad khalad samayso, sanduuqa oo dhan xariiq ku jar.",
+            "Su'aasha 2 waxay leedahay siddeed dhibcood, waxayna qaadataa qiyaastii toban daqiiqo.",
+            "Waxay ku weydiinaysaa waxa aad garan karto (infer) ee ku saabsan kala duwanaanshaha labada qoraal.",
+            "In wax la garto (infer) waa in la akhriyo waxa khadadka dhexdooda ku qarsoon.",
+            "Faahfaahin ka hel Source A oo sheeg waxa ay tilmaamayso.",
+            "Kadibna faahfaahin kale ka hel Source B oo sheeg waxa taasi tilmaamayso.",
+            "Qor laba ama saddex baaragaraaf oo isbarbardhig ah (comparative)."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "речення, яке говорить, що щось є так (statement)",
+            "зафарбувати квадратик, щоб показати свій вибір (shade)",
+            "зрозуміти те, на що автор натякає, але не говорить прямо (infer)",
+            "такий, що показує, чим дві речі відрізняються або схожі (comparative)",
+            "слова з тексту, які доводять вашу думку (evidence)"
+          ],
+          "passage": [
+            "Question 1 дає чотири бали і займає близько двох хвилин.",
+            "Воно стосується перших рядків Source A.",
+            "Ви читаєте вісім тверджень (statements).",
+            "Чотири правдиві, а чотири — ні.",
+            "Зафарбуйте квадратик біля кожного правдивого твердження.",
+            "Якщо ви помилилися, перекресліть увесь квадратик.",
+            "Question 2 дає вісім балів і займає близько десяти хвилин.",
+            "Воно запитує, що ви можете зробити висновком (infer) про відмінності між двома текстами.",
+            "Робити висновок (infer) означає читати між рядками.",
+            "Знайдіть деталь у Source A і скажіть, на що вона натякає.",
+            "Потім знайдіть іншу деталь у Source B і скажіть, на що натякає вона.",
+            "Напишіть два або три порівняльні абзаци."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک جملہ جو کہتا ہے کہ کوئی بات ایسی ہے (statement)",
+            "اپنا انتخاب دکھانے کے لیے خانہ بھرنا (shade)",
+            "وہ بات معلوم کرنا جو مصنف اشارے سے کہتا ہے مگر صاف نہیں کہتا (infer)",
+            "یہ دکھانا کہ دو چیزیں کیسے الگ یا ایک جیسی ہیں (comparative)",
+            "متن کے وہ لفظ جو آپ کی بات ثابت کرتے ہیں (evidence)"
+          ],
+          "passage": [
+            "سوال 1 کے چار نمبر ہیں اور اس میں تقریباً دو منٹ لگتے ہیں۔",
+            "یہ Source A کی شروع کی سطروں کے بارے میں پوچھتا ہے۔",
+            "آپ آٹھ بیان (statements) پڑھتے ہیں۔",
+            "چار سچ ہیں اور چار نہیں۔",
+            "ہر سچے بیان کے ساتھ والا خانہ بھریں۔",
+            "اگر غلطی ہو جائے تو پورے خانے پر کاٹا لگا دیں۔",
+            "سوال 2 کے آٹھ نمبر ہیں اور اس میں تقریباً دس منٹ لگتے ہیں۔",
+            "یہ پوچھتا ہے کہ دونوں ماخذوں کے فرق کے بارے میں آپ کیا اخذ (infer) کر سکتے ہیں۔",
+            "اخذ کرنے کا مطلب ہے سطروں کے بیچ میں پڑھنا۔",
+            "Source A میں ایک تفصیل ڈھونڈیں اور بتائیں کہ وہ کس بات کا اشارہ کرتی ہے۔",
+            "پھر Source B میں ایک الگ تفصیل ڈھونڈیں اور بتائیں کہ وہ کس بات کا اشارہ کرتی ہے۔",
+            "موازنے کے دو یا تین پیراگراف لکھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Question 1: shade the true statements",
           paragraphs: [
@@ -442,8 +750,162 @@ window.ASTRA_UNITS["englang-p2"] = {
           "Then add a second technique to develop your point.",
           "Aim for two developed paragraphs.",
           "Every point must answer the question."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "فكّك كيف تعمل اختيارات الكاتب (analyse)",
+            "مجموعة كلمات مبنيّة حول اسم (noun phrase)",
+            "فعل يُظهر الفاعل وهو يفعل شيئاً (active verb)",
+            "كلمات تخبرك كيف أو متى أو أين (adverbial phrase)",
+            "انظر عن قرب إلى كلمة واحدة وما تُلمّح إليه (zoom in)",
+            "ما تجعل الكلمات القارئ يفكّر فيه أو يشعر به (effect)"
+          ],
+          "passage": [
+            "السؤال 3 يساوي اثنتي عشرة علامة.",
+            "اقضِ فيه نحو خمس عشرة دقيقة.",
+            "وهو يوجّهك إلى بعض الأسطر في أحد النصّين.",
+            "ارسم مربّعاً حول تلك الأسطر.",
+            "ضع خطاً تحت محور السؤال.",
+            "ابحث عن كلمات وعبارات تناسب هذا المحور.",
+            "سمِّ نوع الكلمة أو الأسلوب.",
+            "عبارة اسمية (noun phrase)، أو فعل نشط (active verb)، أو تشبيه (simile)، أو تشخيص (personification).",
+            "ركّز على كلمة واحدة واسأل: ما الذي تُلمّح إليه؟",
+            "ثم أضف أسلوباً ثانياً لتطوير فكرتك.",
+            "اجعل هدفك فقرتَين مطوّرتَين.",
+            "كل فكرة يجب أن تجيب عن السؤال."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "rozłożyć na części to, jak działają wybory autora (analyse)",
+            "grupa słów zbudowana wokół rzeczownika (noun phrase)",
+            "czasownik, który pokazuje, że podmiot coś robi (active verb)",
+            "słowa, które mówią jak, kiedy albo gdzie (adverbial phrase)",
+            "przyjrzeć się z bliska jednemu słowu i temu, co ono sugeruje (zoom in)",
+            "to, co słowa każą czytelnikowi myśleć lub czuć (effect)"
+          ],
+          "passage": [
+            "Pytanie 3 jest warte dwanaście punktów.",
+            "Poświęć na nie około piętnastu minut.",
+            "Wskazuje ci kilka linijek w jednym tekście.",
+            "Obrysuj te linijki ramką.",
+            "Podkreśl to, na czym skupia się pytanie.",
+            "Znajdź słowa i wyrażenia, które pasują do tego tematu.",
+            "Nazwij rodzaj słowa albo technikę.",
+            "Fraza rzeczownikowa (noun phrase), czasownik w stronie czynnej (active verb), porównanie (simile), personifikacja.",
+            "Przyjrzyj się z bliska jednemu słowu i zapytaj, co ono sugeruje.",
+            "Potem dodaj drugą technikę, żeby rozwinąć swoją myśl.",
+            "Celuj w dwa rozwinięte akapity.",
+            "Każda uwaga musi odpowiadać na pytanie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "explicar em detalhe como funcionam as escolhas do escritor (analyse, analisar)",
+            "um grupo de palavras construído à volta de um substantivo (noun phrase)",
+            "um verbo que mostra o sujeito a fazer alguma coisa (active verb, verbo ativo)",
+            "palavras que dizem como, quando ou onde (adverbial phrase)",
+            "olhar de perto para uma palavra e para o que ela sugere (zoom in)",
+            "o que as palavras fazem o leitor pensar ou sentir (effect, efeito)"
+          ],
+          "passage": [
+            "A Pergunta 3 vale doze pontos.",
+            "Use cerca de quinze minutos nela.",
+            "Ela indica algumas linhas de uma das fontes.",
+            "Desenhe uma caixa à volta dessas linhas.",
+            "Sublinhe o foco da pergunta.",
+            "Encontre palavras e expressões que encaixem nesse foco.",
+            "Diga o nome do tipo de palavra ou da técnica.",
+            "Um noun phrase, um verbo ativo, uma comparação (simile), uma personificação.",
+            "Aproxime-se de uma palavra (zoom in) e pergunte o que ela sugere.",
+            "Depois acrescente uma segunda técnica para desenvolver o seu ponto.",
+            "Tente escrever dois parágrafos bem desenvolvidos.",
+            "Cada ponto tem de responder à pergunta."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "kala fur sida doorashooyinka qoraagu u shaqeeyaan (analyse)",
+            "koox erayo ah oo magac (noun) ku dhisan (noun phrase)",
+            "fal muujinaya in mawduuca weedha wax samaynayo (active verb)",
+            "erayo kuu sheegaya sida, goorta ama meesha (adverbial phrase)",
+            "hal eray si dhow u fiiri iyo waxa uu tilmaamayo (zoom in)",
+            "waxa erayadu akhristaha ka dhigaan inuu ka fikiro ama dareemo (effect)"
+          ],
+          "passage": [
+            "Su'aasha 3 waxay leedahay laba iyo toban dhibcood.",
+            "Qiyaastii shan iyo toban daqiiqo ku qaado.",
+            "Waxay kuu tilmaamaysaa xariiqyo ku jira hal qoraal.",
+            "Sanduuq ku wareeji xariiqyadaas.",
+            "Hoosta ka xariiq waxa su'aashu diiradda saarayso (focus).",
+            "Hel erayo iyo weedho ku habboon diiraddaas.",
+            "Magacaw nooca erayga ama farsamada (technique).",
+            "Waxay noqon karaan noun phrase, active verb, simile ama personification.",
+            "Hal eray si dhow u fiiri (zoom in) oo is weydii waxa uu tilmaamayo.",
+            "Kadibna farsamo labaad ku dar si aad hadalkaaga u horumariso.",
+            "Ku dadaal laba baaragaraaf oo horumarsan.",
+            "Hadal kasta oo aad qorto waa inuu su'aasha ka jawaabo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "розібрати, як працюють вибори автора (analyse)",
+            "група слів, побудована навколо іменника (noun phrase)",
+            "дієслово, яке показує, що підмет щось робить (active verb)",
+            "слова, які говорять вам як, коли або де (adverbial phrase)",
+            "уважно придивитися до одного слова і до того, на що воно натякає (zoom in)",
+            "те, що слова змушують читача думати або відчувати (effect)"
+          ],
+          "passage": [
+            "Question 3 дає дванадцять балів.",
+            "Витратьте на нього близько п’ятнадцяти хвилин.",
+            "Воно вказує вам на певні рядки в одному тексті.",
+            "Обведіть ці рядки рамкою.",
+            "Підкресліть, на чому зосереджене запитання.",
+            "Знайдіть слова та фрази, які відповідають цьому фокусу.",
+            "Назвіть тип слова або прийом.",
+            "Іменникова фраза (noun phrase), активне дієслово (active verb), порівняння (simile), персоніфікація (personification).",
+            "Придивіться до одного слова (zoom in) і запитайте, на що воно натякає.",
+            "Потім додайте другий прийом, щоб розвинути свою думку.",
+            "Прагніть написати два розвинені абзаци.",
+            "Кожна думка має відповідати на запитання."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہ کھول کر دیکھنا کہ مصنف کے انتخاب کیسے کام کرتے ہیں (analyse)",
+            "لفظوں کا ایک گروہ جو کسی اسم کے گرد بنا ہو (noun phrase)",
+            "ایسا فعل جو دکھائے کہ فاعل خود کچھ کر رہا ہے (active verb)",
+            "ایسے لفظ جو بتائیں کیسے، کب یا کہاں (adverbial phrase)",
+            "ایک لفظ کو قریب سے دیکھنا اور یہ کہ وہ کس بات کا اشارہ کرتا ہے (zoom in)",
+            "لفظ قاری کو کیا سوچنے یا محسوس کرنے پر لاتے ہیں (effect)"
+          ],
+          "passage": [
+            "سوال 3 کے بارہ نمبر ہیں۔",
+            "اس پر تقریباً پندرہ منٹ لگائیں۔",
+            "یہ آپ کو ایک ماخذ کی کچھ سطروں کی طرف اشارہ کرتا ہے۔",
+            "ان سطروں کے گرد ایک خانہ بنا لیں۔",
+            "سوال کے مرکزی نکتے کے نیچے لکیر لگائیں۔",
+            "ایسے لفظ اور فقرے ڈھونڈیں جو اس نکتے پر بیٹھتے ہوں۔",
+            "لفظ کی قسم یا تکنیک کا نام لیں۔",
+            "اسمی فقرہ (noun phrase)، فاعلی فعل (active verb)، تشبیہ (simile)، تجسیم (personification)۔",
+            "ایک لفظ کو قریب سے دیکھیں (zoom in) اور پوچھیں کہ وہ کس بات کا اشارہ کرتا ہے۔",
+            "پھر اپنی بات کو آگے بڑھانے کے لیے دوسری تکنیک جوڑیں۔",
+            "دو مکمل پیراگرافوں کا ہدف رکھیں۔",
+            "ہر نکتہ سوال کا جواب دینے والا ہونا چاہیے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "What Question 3 asks",
           paragraphs: [
@@ -595,8 +1057,168 @@ window.ASTRA_UNITS["englang-p2"] = {
           "First person, the order of events, the pace, the choice of words.",
           "Use the stems: Both writers… In Source A… Contrastingly, in Source B…",
           "Finish each point with what the evidence implies."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كيف يرى الكاتب شيئاً ما وكيف يشعر نحوه (perspective)",
+            "ينقل شعوراً أو فكرة إلى القارئ (convey)",
+            "أداة يستعملها الكاتب عن قصد (method)",
+            "بطريقة مختلفة أو معاكسة (contrastingly)",
+            "الحكاية بصيغة «أنا» و«نحن» (first person)",
+            "بترتيب الزمن (chronological)"
+          ],
+          "passage": [
+            "السؤال 4 يساوي ستّ عشرة علامة.",
+            "اقضِ فيه نحو عشرين دقيقة.",
+            "وهو يطلب منك أن تقارن بين الكاتبَين.",
+            "وجهة النظر (perspective) هي كيف يرى الكاتب شيئاً ما وكيف يشعر نحوه.",
+            "أولاً، اكتشف كيف يشعر كاتب النص A.",
+            "ضع خطاً تحت الدليل.",
+            "ثم افعل الشيء نفسه مع النص B.",
+            "اسأل: لماذا قد تختلف آراؤهما؟",
+            "زمن كتابة النصّين له أهميّة.",
+            "علّق على الأساليب (methods) التي يستعملها كل كاتب.",
+            "ضمير المتكلّم، وترتيب الأحداث، والإيقاع، واختيار الكلمات.",
+            "استعمل بدايات الجمل: Both writers… (كلا الكاتبَين)، In Source A… (في النص A)، Contrastingly, in Source B… (وعلى العكس، في النص B).",
+            "اختم كل فكرة بما يُلمّح إليه الدليل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "to, jak autor widzi coś i co o tym czuje (perspective)",
+            "przekazać czytelnikowi uczucie lub myśl (convey)",
+            "narzędzie, którego autor używa celowo (method)",
+            "w inny albo przeciwny sposób (contrastingly)",
+            "opowiadanie jako „ja” i „my” (first person)",
+            "w porządku czasowym (chronological)"
+          ],
+          "passage": [
+            "Pytanie 4 jest warte szesnaście punktów.",
+            "Poświęć na nie około dwudziestu minut.",
+            "Prosi cię o porównanie dwóch autorów.",
+            "Perspektywa (perspective) to sposób, w jaki autor coś widzi i co o tym czuje.",
+            "Najpierw ustal, co czuje autor tekstu A.",
+            "Podkreśl dowody.",
+            "Potem zrób to samo dla tekstu B.",
+            "Zapytaj, dlaczego ich poglądy mogą się różnić.",
+            "Czas, w którym zostały napisane, ma znaczenie.",
+            "Skomentuj metody, których używa każdy autor.",
+            "Pierwsza osoba, kolejność zdarzeń, tempo, dobór słów.",
+            "Używaj gotowych początków zdań: Both writers… In Source A… Contrastingly, in Source B… (Oboje autorzy… W tekście A… Natomiast w tekście B…)",
+            "Zakończ każdą uwagę tym, co wynika z dowodu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "como um escritor vê e sente alguma coisa (perspective, perspetiva/perspectiva)",
+            "transmitir um sentimento ou uma ideia ao leitor (convey)",
+            "uma ferramenta que o escritor usa de propósito (method, método)",
+            "de uma maneira diferente ou oposta (contrastingly)",
+            "contar como ‘eu’ e ‘nós’ (first person, primeira pessoa)",
+            "em ordem de tempo (chronological, cronológico)"
+          ],
+          "passage": [
+            "A Pergunta 4 vale dezesseis/dezasseis pontos.",
+            "Use cerca de vinte minutos nela.",
+            "Pede que você compare os dois escritores.",
+            "Uma perspetiva/perspectiva (perspective) é como um escritor vê e sente alguma coisa.",
+            "Primeiro, descubra o que sente o escritor da Fonte A.",
+            "Sublinhe as provas.",
+            "Depois faça o mesmo com a Fonte B.",
+            "Pergunte por que as opiniões deles podem ser diferentes.",
+            "A época em que foram escritas é importante.",
+            "Comente os métodos que cada escritor usa.",
+            "A primeira pessoa, a ordem dos acontecimentos, o ritmo, a escolha das palavras.",
+            "Use os inícios de frase em inglês (Both writers… In Source A… Contrastingly, in Source B…), ou seja: Os dois escritores… Na Fonte A… Em contraste, na Fonte B…",
+            "Termine cada ponto com o que a prova dá a entender."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida qoraagu wax u arko oo uu u dareemo (perspective)",
+            "dareen ama fikrad akhristaha gaarsii (convey)",
+            "qalab qoraagu si ula kac ah u isticmaalo (method)",
+            "si kala duwan ama lid ku ah (contrastingly)",
+            "sheeko loo sheegayo sida 'anigu' iyo 'annagu' (first person)",
+            "siday waqtigu u kala horreeyaan (chronological)"
+          ],
+          "passage": [
+            "Su'aasha 4 waxay leedahay lix iyo toban dhibcood.",
+            "Qiyaastii labaatan daqiiqo ku qaado.",
+            "Waxay ku weydiinaysaa inaad isbarbardhigto labada qoraa.",
+            "Perspective waa sida qoraagu wax u arko oo uu u dareemo.",
+            "Marka hore, garo sida qoraaga Source A uu dareemayo.",
+            "Hoosta ka xariiq caddaynta (evidence).",
+            "Kadibna sidaas oo kale ku samee Source B.",
+            "Is weydii sababta aragtiyadoodu u kala duwanaan karaan.",
+            "Waqtigii la qoray wuu muhiim yahay.",
+            "Ka hadal hababka (methods) qoraa kastaa isticmaalo.",
+            "First person, sida dhacdooyinka u kala horreeyaan, xawaaraha sheekada, doorashada erayada.",
+            "Isticmaal weedhahan bilowga ah ee la bixiyay: Both writers… In Source A… Contrastingly, in Source B…",
+            "Hadal kasta ku soo gabagabee waxa caddayntu tilmaamayso."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, як автор бачить щось і що він про це відчуває (perspective)",
+            "донести почуття або ідею до читача (convey)",
+            "засіб, який автор використовує навмисно (method)",
+            "інакшим або протилежним способом (contrastingly)",
+            "розповідь від «я» та «ми» (first person)",
+            "у часовому порядку (chronological)"
+          ],
+          "passage": [
+            "Question 4 дає шістнадцять балів.",
+            "Витратьте на нього близько двадцяти хвилин.",
+            "Воно просить вас порівняти двох авторів.",
+            "Погляд (perspective) — це те, як автор бачить щось і що він про це відчуває.",
+            "Спочатку з’ясуйте, що відчуває автор Source A.",
+            "Підкресліть докази.",
+            "Потім зробіть те саме для Source B.",
+            "Запитайте, чому їхні погляди можуть відрізнятися.",
+            "Час, коли їх було написано, має значення.",
+            "Прокоментуйте засоби (methods), які використовує кожний автор.",
+            "Перша особа, порядок подій, темп, вибір слів.",
+            "Використовуйте такі початки речень: Both writers… (обидва автори), In Source A… (у Source A), Contrastingly, in Source B… (на відміну від цього, у Source B).",
+            "Завершуйте кожну думку тим, на що вказують докази."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مصنف کسی چیز کو کیسے دیکھتا اور اس کے بارے میں کیا محسوس کرتا ہے (perspective)",
+            "کوئی احساس یا خیال قاری تک پہنچانا (convey)",
+            "ایک آلہ جو مصنف جان بوجھ کر استعمال کرتا ہے (method)",
+            "الگ یا الٹے طریقے سے (contrastingly)",
+            "بات کو ‘I’ اور ‘we’ کہہ کر سنانا (first person)",
+            "وقت کی ترتیب سے (chronological)"
+          ],
+          "passage": [
+            "سوال 4 کے سولہ نمبر ہیں۔",
+            "اس پر تقریباً بیس منٹ لگائیں۔",
+            "یہ آپ سے دونوں مصنفوں کا موازنہ کرنے کو کہتا ہے۔",
+            "نقطۂ نظر (perspective) یہ ہے کہ مصنف کسی چیز کو کیسے دیکھتا اور اس کے بارے میں کیا محسوس کرتا ہے۔",
+            "پہلے معلوم کریں کہ Source A کا مصنف کیا محسوس کرتا ہے۔",
+            "شہادت (evidence) کے نیچے لکیر لگائیں۔",
+            "پھر Source B کے لیے بھی یہی کریں۔",
+            "پوچھیں کہ ان کی رائے الگ کیوں ہو سکتی ہے۔",
+            "جس زمانے میں وہ لکھے گئے، اس کی اہمیت ہے۔",
+            "ہر مصنف کے استعمال کیے ہوئے طریقوں (methods) پر تبصرہ کریں۔",
+            "first person، واقعات کی ترتیب، رفتار، لفظوں کا انتخاب۔",
+            "یہ شروعاتی فقرے استعمال کریں: Both writers… In Source A… Contrastingly, in Source B… (یعنی دونوں مصنف…، Source A میں…، اس کے برعکس Source B میں…)۔",
+            "ہر نکتہ اس بات پر ختم کریں کہ شہادت کس چیز کا اشارہ کرتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "What Question 4 asks",
           paragraphs: [
@@ -734,8 +1356,168 @@ window.ASTRA_UNITS["englang-p2"] = {
           "An article has a headline and short paragraphs.",
           "Match your register to your audience.",
           "Show the form in your very first line."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كتابة غير قصصية تنقل معلومات أو آراء بين الناس (transactional writing)",
+            "سمة يتوقّعها القرّاء في نوع من النصوص (convention)",
+            "درجة الرسمية أو العفوية في اللغة (register)",
+            "العنوان الذي يجذب القارئ إلى المقال (headline)",
+            "الكلمات التي تُختم بها الرسالة (sign-off)",
+            "أخبر جمهورك بما هو قادم (signpost)"
+          ],
+          "passage": [
+            "السؤال 5 هو سؤال الكتابة.",
+            "وهو يساوي أربعين علامة.",
+            "لديك خمس وأربعون دقيقة، تشمل وقت التخطيط والمراجعة.",
+            "تعطيك المهمّة عبارة أو موضوعاً.",
+            "وتحدّد نوع النص (form): رسالة، أو مقال، أو خطبة، أو مراجعة، أو دليل.",
+            "وتخبرك من سيقرأه أو يسمعه.",
+            "اكتشف الهدف (purpose): أن تجادل، أو تُقنع، أو تشرح، أو تُخبر، أو تُسلّي.",
+            "لكل نوع نص أعرافه (conventions) الخاصة.",
+            "الرسالة فيها عناوين وختام (sign-off).",
+            "الخطبة تخاطب مستمعيها مباشرة.",
+            "المقال له عنوان رئيسي (headline) وفقرات قصيرة.",
+            "اجعل مستوى لغتك (register) مناسباً لجمهورك.",
+            "أظهر نوع النص من أول سطر تكتبه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "teksty niefikcyjne, które przekazują informacje lub opinie między ludźmi (transactional writing)",
+            "cecha, której czytelnicy oczekują w danym rodzaju tekstu (convention)",
+            "to, jak formalny albo nieformalny jest język (register)",
+            "tytuł, który przyciąga czytelnika do artykułu (headline)",
+            "słowa, które kończą list (sign-off)",
+            "zapowiedzieć odbiorcom, co będzie dalej (signpost)"
+          ],
+          "passage": [
+            "Pytanie 5 to pytanie z pisania.",
+            "Jest warte czterdzieści punktów.",
+            "Masz czterdzieści pięć minut, łącznie z czasem na plan i sprawdzenie.",
+            "Zadanie daje ci stwierdzenie albo temat.",
+            "Podaje formę: list, artykuł, przemowa, recenzja albo poradnik.",
+            "Mówi ci, kto będzie to czytać lub słuchać.",
+            "Ustal cel: argumentować, przekonywać, wyjaśniać, informować albo bawić.",
+            "Każda forma ma swoje własne konwencje (conventions).",
+            "List ma adresy i formułę pożegnalną (sign-off).",
+            "Przemowa zwraca się bezpośrednio do słuchaczy.",
+            "Artykuł ma nagłówek (headline) i krótkie akapity.",
+            "Dopasuj swój rejestr (register) do odbiorców.",
+            "Pokaż formę już w pierwszej linijce."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "não ficção que passa informação ou opinião entre pessoas (transactional writing)",
+            "uma característica que os leitores esperam num tipo de texto (convention, convenção)",
+            "o quanto a linguagem é formal ou informal (register, registo/registro)",
+            "o título que prende o leitor a um artigo (headline, manchete)",
+            "as palavras que fecham uma carta (sign-off, despedida)",
+            "dizer ao seu público o que vem a seguir (signpost)"
+          ],
+          "passage": [
+            "A Pergunta 5 é a pergunta de escrita.",
+            "Vale quarenta pontos.",
+            "Você tem quarenta e cinco minutos, incluindo o tempo para planear/planejar e rever.",
+            "A tarefa dá uma afirmação ou um tema.",
+            "Diz qual é a forma: uma carta, um artigo, um discurso, uma crítica ou um guia.",
+            "Diz quem vai ler ou ouvir o texto.",
+            "Descubra o propósito: argumentar, persuadir, explicar, informar ou divertir.",
+            "Cada forma tem as suas próprias convenções.",
+            "Uma carta tem endereços e uma despedida (sign-off).",
+            "Um discurso fala diretamente com quem o ouve.",
+            "Um artigo tem uma manchete (headline) e parágrafos curtos.",
+            "Ajuste o seu registo/registro ao seu público.",
+            "Mostre a forma logo na sua primeira linha."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qoraal non-fiction ah oo macluumaad ama ra'yi dadka dhex marsiiya (transactional writing)",
+            "astaan akhristayaashu ka filayaan nooc qoraal (convention)",
+            "sida luqaddu u rasmi tahay ama u fudud tahay (register)",
+            "cinwaanka akhristaha maqaalka soo jiita (headline)",
+            "erayada warqadda soo xira (sign-off)",
+            "u sheeg dadka ku dhegaysanaya waxa soo socda (signpost)"
+          ],
+          "passage": [
+            "Su'aasha 5 waa su'aasha qoraalka.",
+            "Waxay leedahay afartan dhibcood.",
+            "Waxaad haysataa shan iyo afartan daqiiqo, oo ay ku jirto waqti qorshayn iyo hubin.",
+            "Hawshu waxay ku siinaysaa weedh (statement) ama mawduuc.",
+            "Waxay magacawdaa nooca qoraalka (form): warqad, maqaal, khudbad, dib-u-eegis ama hage.",
+            "Waxay kuu sheegtaa cidda akhrin doonta ama dhegaysan doonta.",
+            "Garo ujeeddada (purpose): in lagu doodo, in lagu qanciyo, in la sharraxo, in la wargeliyo ama in la maaweeliyo.",
+            "Nooc kasta oo qoraal wuxuu leeyahay astaamihiisa u gaar ah (conventions).",
+            "Warqad waxay leedahay cinwaanno iyo erayo soo xira (sign-off).",
+            "Khudbad si toos ah ayay ula hadashaa dhegaystayaasheeda.",
+            "Maqaal wuxuu leeyahay cinwaan weyn (headline) iyo baaragaraafyo gaagaaban.",
+            "Luqaddaada (register) ku habbee dadka aad u qorayso.",
+            "Nooca qoraalka xariiqdaada ugu horreysa ka muuji."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "нехудожній текст, який передає інформацію або думку між людьми (transactional writing)",
+            "ознака, яку читачі очікують у певному виді тексту (convention)",
+            "наскільки формальна чи неформальна мова (register)",
+            "заголовок, який затягує читача в статтю (headline)",
+            "слова, якими закінчують лист (sign-off)",
+            "сказати аудиторії, що буде далі (signpost)"
+          ],
+          "passage": [
+            "Question 5 — це запитання з письма.",
+            "Воно дає сорок балів.",
+            "У вас сорок п’ять хвилин, включно з часом на планування та перевірку.",
+            "Завдання дає вам твердження або тему.",
+            "Воно називає форму: лист, стаття, промова, рецензія або посібник.",
+            "Воно говорить вам, хто це читатиме або слухатиме.",
+            "З’ясуйте мету: довести, переконати, пояснити, інформувати або розважити.",
+            "Кожна форма має свої правила (conventions).",
+            "Лист має адреси та прощання (sign-off).",
+            "Промова звертається до слухачів безпосередньо.",
+            "Стаття має заголовок (headline) і короткі абзаци.",
+            "Підберіть регістр (register) до своєї аудиторії.",
+            "Покажіть форму вже в самому першому рядку."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسی non-fiction جو لوگوں کے بیچ معلومات یا رائے پہنچاتی ہے (transactional writing)",
+            "ایسی خصوصیت جس کی قاری کسی قسم کے متن میں توقع رکھتے ہیں (convention)",
+            "زبان کتنی رسمی یا غیر رسمی ہے (register)",
+            "وہ عنوان جو قاری کو مضمون کی طرف کھینچتا ہے (headline)",
+            "وہ لفظ جن سے خط ختم ہوتا ہے (sign-off)",
+            "اپنے قاری کو بتانا کہ آگے کیا آنے والا ہے (signpost)"
+          ],
+          "passage": [
+            "سوال 5 لکھنے کا سوال ہے۔",
+            "اس کے چالیس نمبر ہیں۔",
+            "آپ کے پاس پینتالیس منٹ ہیں، جن میں منصوبہ بنانے اور جانچنے کا وقت بھی شامل ہے۔",
+            "سوال آپ کو ایک بیان یا ایک موضوع دیتا ہے۔",
+            "یہ قسم (form) بتاتا ہے: خط، مضمون، تقریر، تبصرہ یا رہنما تحریر۔",
+            "یہ بتاتا ہے کہ اسے کون پڑھے گا یا سنے گا۔",
+            "مقصد معلوم کریں: دلیل دینا، قائل کرنا، وضاحت کرنا، بتانا یا لطف دینا۔",
+            "ہر قسم کے اپنے اصول (conventions) ہوتے ہیں۔",
+            "خط میں پتے اور اختتامی لفظ (sign-off) ہوتے ہیں۔",
+            "تقریر اپنے سننے والوں سے براہِ راست بات کرتی ہے۔",
+            "مضمون میں ایک سرخی (headline) اور چھوٹے پیراگراف ہوتے ہیں۔",
+            "اپنی زبان کا انداز (register) اپنے قاری کے مطابق رکھیں۔",
+            "اپنی پہلی ہی سطر میں قسم (form) دکھا دیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "What Question 5 asks",
           paragraphs: [
@@ -877,8 +1659,168 @@ window.ASTRA_UNITS["englang-p2"] = {
           "Use a colon, a semicolon and brackets, each at least once.",
           "Choose ambitious vocabulary.",
           "Leave time to check your spelling and punctuation."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "افتتاحية تجذب القارئ (hook)",
+            "قصة قصيرة تبدو حقيقية تُستعمل دليلاً (anecdote)",
+            "رأي الطرف الآخر، الذي تردّ عليه (counter-argument)",
+            "قائمة أساليب الإقناع التي يستعملها معلّموك (DAFOREST)",
+            "علامة ; التي تربط جملتَين وثيقتَي الصلة (semicolon)",
+            "أن تنتهي حيث بدأت (cyclical)"
+          ],
+          "passage": [
+            "الحجّة الجيّدة لها شكل.",
+            "ابدأ بجاذب (hook): سؤال، أو مشهد، أو ثلاثية، أو مناشدة لجمهورك.",
+            "اطرح فكرتك الأولى وادعمها بقصة قصيرة (anecdote).",
+            "اطرح فكرتك الثانية وادعمها بحقيقة، أو إحصائية، أو رأي خبير.",
+            "ثم اعرض الحجّة المضادّة (counter-argument).",
+            "قل ما يظنّه الطرف الآخر، واشرح لماذا هو مخطئ.",
+            "اختم بتلخيص رأيك.",
+            "أنهِ كتابتك بالعودة إلى صورتك الافتتاحية.",
+            "استعمل أساليب DAFOREST في أثناء ذلك.",
+            "نوّع بدايات جملك.",
+            "استعمل النقطتَين (:) والفاصلة المنقوطة (;) والقوسَين، كلّاً منها مرة واحدة على الأقل.",
+            "اختر مفردات طموحة.",
+            "اترك وقتاً لمراجعة الإملاء وعلامات الترقيم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "początek, który chwyta czytelnika (hook)",
+            "krótka, brzmiąca prawdziwie historia użyta jako dowód (anecdote)",
+            "pogląd drugiej strony, na który odpowiadasz (counter-argument)",
+            "lista środków perswazji, której używają twoi nauczyciele (DAFOREST)",
+            "znak ; który łączy dwa blisko związane zdania (semicolon)",
+            "kończący się tam, gdzie się zaczął (cyclical)"
+          ],
+          "passage": [
+            "Dobra argumentacja ma kształt.",
+            "Zacznij od haczyka (hook): pytania, sceny, trójki albo zwrotu do odbiorców.",
+            "Przedstaw swój pierwszy argument i poprzyj go anegdotą.",
+            "Przedstaw drugi argument i poprzyj go faktem, statystyką albo opinią eksperta.",
+            "Potem podaj kontrargument.",
+            "Powiedz, co myśli druga strona, i wyjaśnij, dlaczego się myli.",
+            "Zakończ, podsumowując swój pogląd.",
+            "Na koniec wróć do obrazu z początku.",
+            "Po drodze używaj środków z listy DAFOREST.",
+            "Zmieniaj początki zdań.",
+            "Użyj dwukropka, średnika i nawiasów, każdego co najmniej raz.",
+            "Wybieraj ambitne słownictwo.",
+            "Zostaw czas na sprawdzenie ortografii i interpunkcji."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um início que agarra o leitor (hook)",
+            "uma história curta, que parece verdadeira, usada como prova (anecdote, anedota)",
+            "a opinião do outro lado, à qual você responde (counter-argument, contra-argumento)",
+            "a lista de recursos persuasivos que os seus professores usam (DAFOREST)",
+            "o sinal ; que liga duas frases muito relacionadas (semicolon, ponto e vírgula)",
+            "terminar onde se começou (cyclical, cíclico)"
+          ],
+          "passage": [
+            "Um bom argumento tem uma forma.",
+            "Comece com um hook: uma pergunta, uma cena, uma lista de três ou um apelo ao seu público.",
+            "Apresente o seu primeiro ponto e apoie-o com uma anedota (anecdote).",
+            "Apresente o seu segundo ponto e apoie-o com um facto/fato, uma estatística ou a opinião de um especialista.",
+            "Depois apresente o contra-argumento.",
+            "Diga o que o outro lado pensa, e explique por que está errado.",
+            "Conclua resumindo a sua opinião.",
+            "Termine voltando à imagem com que começou.",
+            "Use os recursos DAFOREST pelo caminho.",
+            "Varie o início das suas frases.",
+            "Use dois pontos, um ponto e vírgula e parênteses, cada um pelo menos uma vez.",
+            "Escolha um vocabulário ambicioso.",
+            "Deixe tempo para rever a sua ortografia e a sua pontuação."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "bilow akhristaha qabsata (hook)",
+            "sheeko gaaban oo run u eg oo caddayn loo isticmaalo (anecdote)",
+            "aragtida dhinaca kale, oo aad ka jawaabto (counter-argument)",
+            "liiska farsamooyinka qancinta ee macallimiintaadu isticmaalaan (DAFOREST)",
+            "calaamadda ; oo isku xirta laba weedhood oo aad isugu dhow (semicolon)",
+            "ku soo gabagabayn meeshii aad ka bilowday (cyclical)"
+          ],
+          "passage": [
+            "Dood wanaagsan waxay leedahay qaab.",
+            "Ku bilow hook: su'aal, muuqaal, saddex-geesood (triple) ama baaq aad dadkaaga u dirto.",
+            "Samee hadalkaaga koowaad oo ku taageer sheeko gaaban (anecdote).",
+            "Samee hadalkaaga labaad oo ku taageer xaqiiqo, tiro-koob ama ra'yi khabiir.",
+            "Kadibna sheeg aragtida dhinaca kale (counter-argument).",
+            "Sheeg waxa dhinaca kale ka fikiro, oo sharrax sababta ay u khaldan yihiin.",
+            "Ku soo gabagabee adigoo aragtidaada soo koobaya.",
+            "Ku dhammee adigoo ku noqonaya sawirkii aad ku bilowday.",
+            "Inta aad qoraysid isticmaal farsamooyinka DAFOREST.",
+            "Kala duwan sida aad weedhahaaga u bilowdo.",
+            "Isticmaal colon, semicolon iyo laameyn (brackets), mid kasta ugu yaraan hal mar.",
+            "Dooro erayo hammi badan.",
+            "Waqti u hay hubinta higgaaddaada iyo calaamadaynta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "початок, який захоплює читача (hook)",
+            "коротка правдоподібна історія, використана як доказ (anecdote)",
+            "погляд іншої сторони, на який ви відповідаєте (counter-argument)",
+            "список переконливих прийомів, який використовують ваші вчителі (DAFOREST)",
+            "знак ; який з’єднує два тісно пов’язані речення (semicolon)",
+            "такий, що закінчується там, де почався (cyclical)"
+          ],
+          "passage": [
+            "Хороша аргументація має форму.",
+            "Почніть із зачіпки (hook): запитання, сцена, трійка або звернення до аудиторії.",
+            "Висловіть свою першу думку і підтримайте її анекдотом (anecdote).",
+            "Висловіть свою другу думку і підтримайте її фактом, статистикою або думкою експерта.",
+            "Потім наведіть контраргумент (counter-argument).",
+            "Скажіть, що думає інша сторона, і поясніть, чому вона помиляється.",
+            "Завершіть, підсумувавши свій погляд.",
+            "Закінчіть, повернувшись до свого початкового образу.",
+            "Використовуйте прийоми DAFOREST дорогою.",
+            "Урізноманітнюйте початки речень.",
+            "Використайте двокрапку, крапку з комою та дужки, кожне хоча б один раз.",
+            "Обирайте амбітну лексику.",
+            "Залиште час перевірити правопис і пунктуацію."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسی شروعات جو قاری کو پکڑ لے (hook)",
+            "ایک چھوٹی، سچی لگنے والی کہانی جو شہادت کے طور پر استعمال ہو (anecdote)",
+            "دوسری طرف کی رائے، جس کا آپ جواب دیتے ہیں (counter-argument)",
+            "قائل کرنے والی تکنیکوں کی وہ فہرست جو آپ کے اساتذہ استعمال کرتے ہیں (DAFOREST)",
+            "نشان ; جو دو قریبی تعلق والے جملوں کو جوڑتا ہے (semicolon)",
+            "وہاں ختم کرنا جہاں سے شروع کیا تھا (cyclical)"
+          ],
+          "passage": [
+            "اچھی دلیل کی ایک شکل ہوتی ہے۔",
+            "ایک hook سے شروع کریں: ایک سوال، ایک منظر، تین چیزوں کا سلسلہ، یا اپنے قاری سے اپیل۔",
+            "اپنا پہلا نکتہ بیان کریں اور اسے ایک واقعے (anecdote) سے سہارا دیں۔",
+            "اپنا دوسرا نکتہ بیان کریں اور اسے کسی حقیقت، کسی شماریاتی عدد یا کسی ماہر کی رائے سے سہارا دیں۔",
+            "پھر مخالف دلیل (counter-argument) دیں۔",
+            "بتائیں کہ دوسری طرف کے لوگ کیا سوچتے ہیں، اور وضاحت کریں کہ وہ غلط کیوں ہیں۔",
+            "اپنی رائے کا خلاصہ کر کے نتیجہ نکالیں۔",
+            "اپنی شروع کی تصویر پر واپس آ کر ختم کریں۔",
+            "راستے میں DAFOREST کی تکنیکیں استعمال کریں۔",
+            "اپنے جملوں کی شروعات بدلتے رہیں۔",
+            "ایک colon، ایک semicolon اور بریکٹ، ہر ایک کم سے کم ایک بار استعمال کریں۔",
+            "اونچے درجے کے لفظ چنیں۔",
+            "اپنی املا اور رموزِ اوقاف جانچنے کے لیے وقت بچا کر رکھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Hook your reader",
           paragraphs: [

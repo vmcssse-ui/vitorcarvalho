@@ -496,10 +496,10 @@ textarea.exin{min-height:3.6em;font-family:var(--f-ui);line-height:1.5;resize:ve
 /* ---------- astra/2: home-language line ---------- */
 .sblk{display:inline}
 .passage.l1on .sblk{display:block;margin:0 0 .55em}
-.l1{display:block;font-size:.84em;line-height:1.5;color:var(--muted);font-family:var(--f-ui);margin-top:2px;padding-left:.45em;border-left:3px solid var(--faint)}
+.l1{display:block;font-size:.84em;line-height:1.5;color:var(--muted);font-family:var(--f-ui);margin-top:2px;padding-left:.45em;border-left:3px solid var(--faint);unicode-bidi:plaintext}
 .l1[dir="rtl"]{padding-left:0;padding-right:.45em;border-left:0;border-right:3px solid var(--faint);text-align:right}
 :root[data-dark="1"] .l1{border-color:var(--glow)}
-.kwcard .l1m{font-family:var(--f-ui);font-size:.88rem;color:var(--muted)}
+.kwcard .l1m{font-family:var(--f-ui);font-size:.88rem;color:var(--muted);unicode-bidi:plaintext}
 .kwcard .l1m[dir="rtl"]{text-align:right}
 .mtnote{display:flex;gap:8px;align-items:flex-start;font-family:var(--f-ui);font-size:.85rem;color:var(--muted);background:var(--acc-soft);border-radius:10px;padding:6px 10px;margin:0 0 10px}
 .mtnote .ic{color:var(--acc);margin-top:.2em}

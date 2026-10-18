@@ -103,8 +103,168 @@ window.ASTRA_UNITS["triple-light"] = {
           "A smooth surface reflects light in one direction, so you see a clear image.",
           "A rough surface scatters light in many directions, so there is no image.",
           "That is why you see yourself in a mirror but not in a brick wall."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "خط بزاوية قائمة على السطح عند النقطة التي يصيبها الشعاع (normal)",
+            "الزاوية بين الشعاع الساقط والعمودي (angle of incidence)",
+            "الزاوية بين الشعاع المنعكس والعمودي (angle of reflection)",
+            "صورة تبدو الأشعّة كأنها تأتي منها فقط؛ لا يمكن وضعها على شاشة (virtual image)",
+            "انعكاس عن سطح أملس، في اتجاه واحد (specular reflection)",
+            "انعكاس عن سطح خشن، متناثر في اتجاهات كثيرة (diffuse reflection)"
+          ],
+          "passage": [
+            "ينتقل الضوء في خطوط مستقيمة تُسمّى أشعّة (rays).",
+            "عندما يصيب شعاع مرآة، فإنه يرتدّ عنها.",
+            "هذا يُسمّى الانعكاس (reflection).",
+            "العمودي (normal) خط بزاوية قائمة على المرآة.",
+            "نقيس الزوايا من العمودي، لا من المرآة.",
+            "زاوية السقوط (angle of incidence) تكون بين الشعاع الساقط والعمودي.",
+            "زاوية الانعكاس (angle of reflection) تكون بين الشعاع المنعكس والعمودي.",
+            "هاتان الزاويتان متساويتان دائماً.",
+            "المرآة تصنع صورة تبدو كأنها خلف الزجاج.",
+            "هذه صورة وهمية (virtual image)، فلا يمكنك أن تضعها على شاشة.",
+            "السطح الأملس يعكس الضوء في اتجاه واحد، فترى صورة واضحة.",
+            "السطح الخشن يبعثر الضوء في اتجاهات كثيرة، فلا توجد صورة.",
+            "لهذا ترى نفسك في المرآة ولا تراها في جدار من الطوب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "linia pod kątem prostym do powierzchni w miejscu, gdzie pada promień (normal)",
+            "kąt między promieniem padającym a normalną (angle of incidence)",
+            "kąt między promieniem odbitym a normalną (angle of reflection)",
+            "obraz, z którego promienie tylko wydają się wychodzić; nie można go rzucić na ekran (virtual image)",
+            "odbicie od gładkiej powierzchni, w jednym kierunku (specular reflection)",
+            "odbicie od szorstkiej powierzchni, rozproszone w wielu kierunkach (diffuse reflection)"
+          ],
+          "passage": [
+            "Światło biegnie po liniach prostych zwanych promieniami (rays).",
+            "Kiedy promień pada na lustro, odbija się od niego.",
+            "Nazywa się to odbiciem (reflection).",
+            "Normalna (normal) to linia pod kątem prostym do lustra.",
+            "Kąty mierzymy od normalnej, a nie od lustra.",
+            "Kąt padania (angle of incidence) jest między promieniem padającym a normalną.",
+            "Kąt odbicia (angle of reflection) jest między promieniem odbitym a normalną.",
+            "Te dwa kąty są zawsze równe.",
+            "Lustro tworzy obraz, który wydaje się być za szkłem.",
+            "To jest obraz pozorny (virtual image), więc nie możesz rzucić go na ekran.",
+            "Gładka powierzchnia odbija światło w jednym kierunku, więc widzisz wyraźny obraz.",
+            "Szorstka powierzchnia rozprasza światło w wielu kierunkach, więc nie ma obrazu.",
+            "Dlatego widzisz siebie w lustrze, ale nie w ceglanym murze."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma linha em ângulo reto com a superfície no ponto onde o raio bate (normal)",
+            "o ângulo entre o raio que chega e a normal (angle of incidence, ângulo de incidência)",
+            "o ângulo entre o raio refletido e a normal (angle of reflection, ângulo de reflexão)",
+            "uma imagem de onde os raios só parecem vir; não pode ser projetada num ecrã/numa tela (virtual image, imagem virtual)",
+            "reflexão numa superfície lisa, numa só direção (specular reflection, reflexão especular)",
+            "reflexão numa superfície rugosa, espalhada em muitas direções (diffuse reflection, reflexão difusa)"
+          ],
+          "passage": [
+            "A luz viaja em linhas retas chamadas raios.",
+            "Quando um raio bate num espelho, ele ressalta.",
+            "A isto chama-se reflexão (reflection).",
+            "A normal é uma linha em ângulo reto com o espelho.",
+            "Medimos os ângulos a partir da normal, não a partir do espelho.",
+            "O ângulo de incidência está entre o raio que chega e a normal.",
+            "O ângulo de reflexão está entre o raio refletido e a normal.",
+            "Estes dois ângulos são sempre iguais.",
+            "Um espelho faz uma imagem que parece estar atrás do vidro.",
+            "Esta é uma imagem virtual (virtual image), por isso você não a consegue projetar num ecrã/numa tela.",
+            "Uma superfície lisa reflete a luz numa só direção, por isso você vê uma imagem nítida.",
+            "Uma superfície rugosa espalha a luz em muitas direções, por isso não há imagem.",
+            "É por isso que você se vê num espelho mas não numa parede de tijolos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xariiq xagal qumman la samaysa dusha meesha ray-gu ku dhaco (normal)",
+            "xagasha u dhexaysa ray-ga soo socda iyo normal-ka (angle of incidence)",
+            "xagasha u dhexaysa ray-ga dib loo celiyay iyo normal-ka (angle of reflection)",
+            "sawir rays-ku u muuqdaan keliya inay ka yimaadaan; shaashad lama saari karo (virtual image)",
+            "reflection ka timaadda dusha siman, hal jiho (specular reflection)",
+            "reflection ka timaadda dusha qallafsan, oo jihooyin badan u kala firdhay (diffuse reflection)"
+          ],
+          "passage": [
+            "Iftiinku wuxuu ku socdaa xariiqo toosan oo la yiraahdo rays.",
+            "Marka ray muraayad ku dhaco, dib ayuu uga soo boodaa.",
+            "Tan waxaa la yiraahdaa reflection.",
+            "Normal waa xariiq xagal qumman la samaysa muraayadda.",
+            "Xagalaha waxaan ka cabbirnaa normal-ka, ma aha muraayadda.",
+            "Angle of incidence waxay u dhexaysaa ray-ga soo socda iyo normal-ka.",
+            "Angle of reflection waxay u dhexaysaa ray-ga dib loo celiyay iyo normal-ka.",
+            "Labadan xagal mar walba way siman yihiin.",
+            "Muraayad waxay samaysaa sawir (image) u muuqda inuu quraaradda gadaasheeda ku jiro.",
+            "Kani waa virtual image, sidaas darteed shaashad ma saari kartid.",
+            "Dusha siman iftiinka hal jiho ayay dib u celisaa, sidaas darteed sawir cad ayaad aragtaa.",
+            "Dusha qallafsan iftiinka jihooyin badan ayay u kala firdhisaa, sidaas darteed sawir ma jiro.",
+            "Taasi waa sababta aad naftaada muraayad ku aragto laakiin aan derbi leben ku arag."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "лінія під прямим кутом до поверхні в точці, куди падає промінь (normal)",
+            "кут між променем, що падає, і нормаллю (angle of incidence)",
+            "кут між відбитим променем і нормаллю (angle of reflection)",
+            "зображення, з якого промені лише здаються такими, що виходять; його не можна отримати на екрані (virtual image)",
+            "відбивання від гладкої поверхні, в одному напрямку (specular reflection)",
+            "відбивання від шорсткої поверхні, розсіяне в багатьох напрямках (diffuse reflection)"
+          ],
+          "passage": [
+            "Світло рухається прямими лініями, які називаються променями (rays).",
+            "Коли промінь падає на дзеркало, він відбивається.",
+            "Це називається відбиванням (reflection).",
+            "Нормаль (normal) — це лінія під прямим кутом до дзеркала.",
+            "Ми вимірюємо кути від нормалі, а не від дзеркала.",
+            "Кут падіння (angle of incidence) лежить між променем, що падає, і нормаллю.",
+            "Кут відбивання (angle of reflection) лежить між відбитим променем і нормаллю.",
+            "Ці два кути завжди рівні.",
+            "Дзеркало створює зображення, яке ніби знаходиться за склом.",
+            "Це уявне зображення (virtual image), тому його не можна отримати на екрані.",
+            "Гладка поверхня відбиває світло в одному напрямку, тому ви бачите чітке зображення.",
+            "Шорстка поверхня розсіює світло в багатьох напрямках, тому зображення немає.",
+            "Ось чому ви бачите себе в дзеркалі, але не в цегляній стіні."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اس جگہ سطح سے قائمہ زاویے پر ایک لکیر جہاں شعاع ٹکراتی ہے (normal)",
+            "آنے والی شعاع اور normal کے بیچ کا زاویہ (angle of incidence)",
+            "منعکس شعاع اور normal کے بیچ کا زاویہ (angle of reflection)",
+            "ایسی تصویر جس سے شعاعیں صرف آتی ہوئی لگتی ہیں؛ یہ اسکرین پر نہیں آ سکتی (virtual image)",
+            "چکنی سطح سے انعکاس، ایک ہی سمت میں (specular reflection)",
+            "کھردری سطح سے انعکاس، بہت سی سمتوں میں بکھرا ہوا (diffuse reflection)"
+          ],
+          "passage": [
+            "روشنی سیدھی لکیروں میں چلتی ہے جنھیں شعاعیں (rays) کہتے ہیں۔",
+            "جب شعاع آئینے سے ٹکراتی ہے تو وہ واپس لوٹتی ہے۔",
+            "اسے انعکاس (reflection) کہتے ہیں۔",
+            "normal آئینے سے قائمہ زاویے پر ایک لکیر ہے۔",
+            "ہم زاویے normal سے ناپتے ہیں، آئینے سے نہیں۔",
+            "زاویۂ وقوع (angle of incidence) آنے والی شعاع اور normal کے بیچ ہوتا ہے۔",
+            "زاویۂ انعکاس (angle of reflection) منعکس شعاع اور normal کے بیچ ہوتا ہے۔",
+            "یہ دونوں زاویے ہمیشہ برابر ہوتے ہیں۔",
+            "آئینہ ایک تصویر بناتا ہے جو شیشے کے پیچھے لگتی ہے۔",
+            "یہ ایک مجازی تصویر (virtual image) ہے، اس لیے آپ اسے اسکرین پر نہیں ڈال سکتے۔",
+            "چکنی سطح روشنی کو ایک سمت میں منعکس کرتی ہے، اس لیے آپ کو صاف تصویر دکھتی ہے۔",
+            "کھردری سطح روشنی کو بہت سی سمتوں میں بکھیر دیتی ہے، اس لیے کوئی تصویر نہیں بنتی۔",
+            "اسی لیے آپ خود کو آئینے میں دیکھتے ہیں مگر اینٹوں کی دیوار میں نہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The law of reflection",
@@ -298,8 +458,156 @@ window.ASTRA_UNITS["triple-light"] = {
           "The frequency of the light stays the same.",
           "Its speed and its wavelength both change.",
           "Refraction is why a swimming pool looks shallower than it really is."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تغيّر اتجاه الموجة عندما تعبر إلى مادّة مختلفة (refraction)",
+            "السطح الذي تلتقي فيه مادّتان (boundary)",
+            "مادّة ينتقل الضوء خلالها (medium)",
+            "الزاوية بين الشعاع المنكسر والعمودي، داخل المادّة الثانية (angle of refraction)",
+            "خط يصل بين قمم الموجات المتجاورة (wave front)"
+          ],
+          "passage": [
+            "ينتقل الضوء بسرعات مختلفة في الموادّ المختلفة.",
+            "فهو أسرع في الهواء وأبطأ في الماء أو الزجاج أو البرسبكس (Perspex).",
+            "المادّة التي ينتقل الضوء خلالها تُسمّى الوسط (medium).",
+            "السطح الذي يلتقي فيه وسطان يُسمّى الحدّ الفاصل (boundary).",
+            "عندما يعبر الضوء حدّاً فاصلاً بزاوية، يتغيّر اتجاهه.",
+            "هذا الانحناء يُسمّى الانكسار (refraction).",
+            "عند الانتقال من الهواء إلى الزجاج، يتباطأ الشعاع وينحني نحو العمودي.",
+            "وعند الانتقال من الزجاج إلى الهواء، يتسارع الشعاع وينحني بعيداً عن العمودي.",
+            "الشعاع الذي ينتقل على طول العمودي لا ينحني أبداً.",
+            "تردّد الضوء يبقى كما هو.",
+            "أما سرعته وطوله الموجي فيتغيّران معاً.",
+            "الانكسار هو السبب في أن حوض السباحة يبدو أقلّ عمقاً مما هو حقيقةً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zmiana kierunku fali, kiedy przechodzi do innego materiału (refraction)",
+            "powierzchnia, na której spotykają się dwa materiały (boundary)",
+            "materiał, przez który biegnie światło (medium)",
+            "kąt między promieniem załamanym a normalną, wewnątrz drugiego materiału (angle of refraction)",
+            "linia łącząca grzbiety sąsiednich fal (wave front)"
+          ],
+          "passage": [
+            "Światło biegnie z różnymi prędkościami w różnych materiałach.",
+            "Najszybsze jest w powietrzu, a wolniejsze w wodzie, szkle lub pleksi (Perspex).",
+            "Materiał, przez który biegnie światło, nazywa się ośrodkiem (medium).",
+            "Powierzchnię, na której spotykają się dwa ośrodki, nazywa się granicą (boundary).",
+            "Kiedy światło przechodzi przez granicę pod kątem, zmienia kierunek.",
+            "To załamanie nazywa się refrakcją (refraction).",
+            "Przechodząc z powietrza do szkła, promień zwalnia i załamuje się w stronę normalnej.",
+            "Przechodząc ze szkła do powietrza, promień przyspiesza i załamuje się od normalnej.",
+            "Promień, który biegnie wzdłuż normalnej, w ogóle się nie załamuje.",
+            "Częstotliwość światła zostaje taka sama.",
+            "Zmieniają się jego prędkość i jego długość fali.",
+            "Przez refrakcję basen wygląda na płytszy, niż jest naprawdę."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a mudança de direção de uma onda quando passa para um material diferente (refraction, refração)",
+            "a superfície onde dois materiais se encontram (boundary, fronteira)",
+            "um material através do qual a luz viaja (medium, meio)",
+            "o ângulo entre o raio refratado e a normal, dentro do segundo material (angle of refraction, ângulo de refração)",
+            "uma linha que une as cristas de ondas vizinhas (wave front, frente de onda)"
+          ],
+          "passage": [
+            "A luz viaja a velocidades diferentes em materiais diferentes.",
+            "É mais rápida no ar e mais lenta na água, no vidro ou no acrílico (Perspex).",
+            "Um material através do qual a luz viaja chama-se meio (medium).",
+            "A superfície onde dois meios se encontram chama-se fronteira (boundary).",
+            "Quando a luz atravessa uma fronteira com um ângulo, muda de direção.",
+            "Este desvio chama-se refração (refraction).",
+            "Ao passar do ar para o vidro, o raio abranda e desvia-se para a normal.",
+            "Ao passar do vidro para o ar, o raio acelera e desvia-se para longe da normal.",
+            "Um raio que viaja ao longo da normal não se desvia nada.",
+            "A frequência da luz mantém-se igual.",
+            "A sua velocidade e o seu comprimento de onda mudam os dois.",
+            "A refração é a razão por que uma piscina parece menos funda do que é na realidade."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "isbeddelka jihada hir markuu u gudbo walax kale (refraction)",
+            "dusha laba walax ku kulmaan (boundary)",
+            "walax iftiinku dhex maro (medium)",
+            "xagasha u dhexaysa ray-ga la leexiyay iyo normal-ka, walaxda labaad gudaheeda (angle of refraction)",
+            "xariiq isku xirta crests-ka hirarka is ag yaal (wave front)"
+          ],
+          "passage": [
+            "Iftiinku xawaarayaal kala duwan ayuu ku socdaa walxo kala duwan.",
+            "Hawada ayuu ugu dhaqso badan yahay, biyaha, quraaradda ama Perspex-na wuu ka gaabiyaa.",
+            "Walax iftiinku dhex maro waxaa la yiraahdaa medium.",
+            "Dusha laba media ku kulmaan waxaa la yiraahdaa boundary.",
+            "Marka iftiin boundary xagal ku gudbo, jihada ayuu beddelaa.",
+            "Qallooca waxaa la yiraahdaa refraction.",
+            "Markuu hawada ka galo quraaradda, ray-gu wuu gaabiyaa wuxuuna u leexdaa dhanka normal-ka.",
+            "Markuu quraaradda ka galo hawada, ray-gu wuu dhaqsadaa wuxuuna ka leexdaa normal-ka.",
+            "Ray ku socda normal-ka gudihiisa gabi ahaanba ma leexdo.",
+            "Frequency-ga iftiinku isma beddelo.",
+            "Xawaarihiisa iyo wavelength-kiisu labaduba way is beddelaan.",
+            "Refraction waa sababta barkad dabbaasho u muuqato mid ka gacan yar inta ay runtii tahay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "зміна напрямку хвилі, коли вона переходить в іншу речовину (refraction)",
+            "поверхня, де зустрічаються дві речовини (boundary)",
+            "речовина, через яку проходить світло (medium)",
+            "кут між заломленим променем і нормаллю, всередині другої речовини (angle of refraction)",
+            "лінія, що з’єднує гребені сусідніх хвиль (wave front)"
+          ],
+          "passage": [
+            "Світло рухається з різною швидкістю в різних речовинах.",
+            "Найшвидше воно рухається в повітрі, а повільніше — у воді, склі або плексигласі (Perspex).",
+            "Речовина, через яку проходить світло, називається середовищем (medium).",
+            "Поверхня, де зустрічаються два середовища, називається межею (boundary).",
+            "Коли світло переходить межу під кутом, воно змінює напрямок.",
+            "Це заломлення називається рефракцією (refraction).",
+            "Переходячи з повітря у скло, промінь сповільнюється і заломлюється до нормалі.",
+            "Переходячи зі скла в повітря, промінь прискорюється і заломлюється від нормалі.",
+            "Промінь, який рухається вздовж нормалі, зовсім не заломлюється.",
+            "Частота світла залишається тією самою.",
+            "Його швидкість і довжина хвилі змінюються.",
+            "Через заломлення басейн здається мілкішим, ніж він є насправді."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی دوسرے مادے میں داخل ہونے پر لہر کے رخ کی تبدیلی (refraction)",
+            "وہ سطح جہاں دو مادے ملتے ہیں (boundary)",
+            "ایسا مادہ جس میں سے روشنی گزرتی ہے (medium)",
+            "دوسرے مادے کے اندر منعطف شعاع اور normal کے بیچ کا زاویہ (angle of refraction)",
+            "ساتھ ساتھ کی لہروں کی چوٹیوں کو جوڑنے والی لکیر (wave front)"
+          ],
+          "passage": [
+            "روشنی الگ الگ مادوں میں الگ الگ رفتار سے چلتی ہے۔",
+            "یہ ہوا میں سب سے تیز اور پانی، شیشے یا Perspex میں سست ہوتی ہے۔",
+            "جس مادے میں سے روشنی گزرتی ہے اسے واسطہ (medium) کہتے ہیں۔",
+            "جس سطح پر دو واسطے ملتے ہیں اسے سرحد (boundary) کہتے ہیں۔",
+            "جب روشنی کسی زاویے پر سرحد پار کرتی ہے تو اس کا رخ بدل جاتا ہے۔",
+            "اس مڑنے کو انعطاف (refraction) کہتے ہیں۔",
+            "ہوا سے شیشے میں جاتے ہوئے شعاع سست ہوتی ہے اور normal کی طرف مڑتی ہے۔",
+            "شیشے سے ہوا میں جاتے ہوئے شعاع تیز ہوتی ہے اور normal سے دور مڑتی ہے۔",
+            "جو شعاع normal کے ساتھ ساتھ چلتی ہے وہ بالکل نہیں مڑتی۔",
+            "روشنی کی فریکوئنسی وہی رہتی ہے۔",
+            "اس کی رفتار اور اس کی طولِ موج دونوں بدل جاتی ہیں۔",
+            "انعطاف ہی کی وجہ سے سوئمنگ پول اپنی اصل گہرائی سے کم گہرا لگتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Crossing a boundary",
@@ -507,8 +815,168 @@ window.ASTRA_UNITS["triple-light"] = {
           "Transparent materials let light pass straight through.",
           "Translucent materials let light through but scatter it.",
           "Opaque materials do not let light through at all."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مجموعة الألوان التي يتكوّن منها الضوء الأبيض (spectrum)",
+            "طول موجة كاملة واحدة؛ لكل لون طوله الموجي الخاص (wavelength)",
+            "أن تمتصّ الضوء فلا يخرج مرة أخرى (absorb)",
+            "أن تسمح للضوء بالمرور (transmit)",
+            "مادّة ملوّنة تسمح بمرور لونها هي وتمتصّ الألوان الأخرى (filter)",
+            "لا يسمح بمرور أي ضوء (opaque)"
+          ],
+          "passage": [
+            "الضوء الأبيض خليط من كل ألوان قوس قزح.",
+            "يستطيع المنشور (prism) أن يفرّقه إلى طيف (spectrum): أحمر، برتقالي، أصفر، أخضر، أزرق، نيلي، بنفسجي.",
+            "لكل لون طوله الموجي الخاص.",
+            "الضوء الأحمر له أطول طول موجي، والبنفسجي أقصره.",
+            "الأجسام لا تصنع لونها بنفسها.",
+            "الكنزة الحمراء تعكس الضوء الأحمر وتمتصّ الألوان الأخرى.",
+            "الجسم الأبيض يعكس كل الألوان.",
+            "والجسم الأسود يمتصّ كل الألوان.",
+            "في الضوء الأزرق، تبدو الكنزة الحمراء سوداء، لأنه لا يوجد ضوء أحمر لتعكسه.",
+            "مرشّح الألوان (filter) يسمح بمرور لونه هو ويمتصّ الباقي.",
+            "الموادّ الشفّافة (transparent) تسمح للضوء بالمرور مباشرة.",
+            "الموادّ شبه الشفّافة (translucent) تسمح بمرور الضوء لكنها تبعثره.",
+            "الموادّ المعتمة (opaque) لا تسمح بمرور الضوء أبداً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zakres kolorów, z których składa się białe światło (spectrum)",
+            "długość jednej całej fali; każdy kolor ma swoją (wavelength)",
+            "przyjąć światło tak, że nie wychodzi z powrotem (absorb)",
+            "przepuścić światło (transmit)",
+            "kolorowy materiał, który przepuszcza swój własny kolor i pochłania pozostałe (filter)",
+            "nieprzepuszczający żadnego światła (opaque)"
+          ],
+          "passage": [
+            "Białe światło to mieszanina wszystkich kolorów tęczy.",
+            "Pryzmat może rozszczepić je na widmo (spectrum): czerwony, pomarańczowy, żółty, zielony, niebieski, indygo, fioletowy.",
+            "Każdy kolor ma swoją własną długość fali.",
+            "Światło czerwone ma najdłuższą długość fali, a fioletowe najkrótszą.",
+            "Przedmioty nie tworzą własnego koloru.",
+            "Czerwony sweter odbija czerwone światło i pochłania pozostałe kolory.",
+            "Biały przedmiot odbija wszystkie kolory.",
+            "Czarny przedmiot pochłania wszystkie kolory.",
+            "W niebieskim świetle czerwony sweter wygląda na czarny, bo nie ma czerwonego światła do odbicia.",
+            "Filtr kolorowy przepuszcza swój własny kolor i pochłania resztę.",
+            "Materiały przezroczyste (transparent) przepuszczają światło prosto przez siebie.",
+            "Materiały półprzezroczyste (translucent) przepuszczają światło, ale je rozpraszają.",
+            "Materiały nieprzezroczyste (opaque) w ogóle nie przepuszczają światła."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o conjunto de cores de que a luz branca é feita (spectrum)",
+            "o comprimento de uma onda completa; cada cor tem o seu (wavelength, comprimento de onda)",
+            "absorver a luz, de modo que ela não volta a sair (absorb, absorver)",
+            "deixar a luz passar através (transmit, transmitir)",
+            "material colorido que deixa passar a sua própria cor e absorve as outras (filter, filtro)",
+            "que não deixa passar nenhuma luz (opaque, opaco)"
+          ],
+          "passage": [
+            "A luz branca é uma mistura de todas as cores do arco-íris.",
+            "Um prisma consegue separá-la nas suas cores (o seu spectrum): vermelho, laranja, amarelo, verde, azul, anil, violeta.",
+            "Cada cor tem o seu próprio comprimento de onda.",
+            "A luz vermelha tem o comprimento de onda mais longo e a violeta o mais curto.",
+            "Os objetos não produzem a sua própria cor.",
+            "Uma camisola/um suéter vermelho reflete a luz vermelha e absorve as outras cores.",
+            "Um objeto branco reflete todas as cores.",
+            "Um objeto preto absorve todas as cores.",
+            "Sob luz azul, uma camisola/um suéter vermelho parece preto, porque não há luz vermelha para refletir.",
+            "Um filtro de cor deixa passar a sua própria cor e absorve o resto.",
+            "Os materiais transparentes deixam a luz passar a direito.",
+            "Os materiais translúcidos deixam a luz passar, mas espalham-na.",
+            "Os materiais opacos não deixam passar nenhuma luz."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "midabada kala duwan ee iftiinka cad ka samaysan yahay (spectrum)",
+            "dhererka hal hir oo dhammaystiran; midab kastaa kiisa ayuu leeyahay (wavelength)",
+            "iftiin qaadid si uusan dib u soo bixin (absorb)",
+            "iftiin u daayid inuu dhex maro (transmit)",
+            "walax midab leh oo midabkeeda daysa kuwa kalena nuugta (filter)",
+            "iftiin kasta ma daayo (opaque)"
+          ],
+          "passage": [
+            "Iftiin cad waa isku-dar dhammaan midabada qaansoroobaadda.",
+            "Prism wuxuu u kala qaybin karaa spectrum: casaan, oranji, jaalle, cagaar, buluug, indigo, violet.",
+            "Midab kastaa wavelength u gaar ah ayuu leeyahay.",
+            "Iftiinka casaanka wuxuu leeyahay wavelength-ka ugu dheer, violet-na kan ugu gaaban.",
+            "Walxuhu midabkooda iyagu ma samaystaan.",
+            "Funaanad casaan ah iftiinka casaanka dib ayay u celisaa, midabada kalena way nuugtaa.",
+            "Walax cad midabada oo dhan dib ayay u celisaa.",
+            "Walax madow midabada oo dhan way nuugtaa.",
+            "Iftiin buluug ah dhexdiis, funaanad casaan ah madow ayay u muuqataa, sababtoo ah iftiin casaan ah oo dib loo celiyo ma jiro.",
+            "Filter midab leh midabkeeda ayay daysaa, inta kalena way nuugtaa.",
+            "Walxaha transparent iftiinka si toos ah ayay u daayaan inuu dhex maro.",
+            "Walxaha translucent iftiinka way daayaan laakiin way kala firdhiyaan.",
+            "Walxaha opaque iftiinka gabi ahaanba ma daayaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "набір кольорів, з яких складається біле світло (spectrum)",
+            "довжина однієї повної хвилі; кожний колір має свою (wavelength)",
+            "увібрати світло так, щоб воно не вийшло назад (absorb)",
+            "пропустити світло крізь себе (transmit)",
+            "кольоровий матеріал, який пропускає свій колір і поглинає інші (filter)",
+            "такий, що зовсім не пропускає світла (opaque)"
+          ],
+          "passage": [
+            "Біле світло — це суміш усіх кольорів райдуги.",
+            "Призма може розкласти його на спектр (spectrum): червоний, оранжевий, жовтий, зелений, блакитний, синій, фіолетовий.",
+            "Кожний колір має свою довжину хвилі.",
+            "Червоне світло має найбільшу довжину хвилі, а фіолетове — найменшу.",
+            "Предмети не створюють власного кольору.",
+            "Червоний светр відбиває червоне світло і поглинає інші кольори.",
+            "Білий предмет відбиває всі кольори.",
+            "Чорний предмет поглинає всі кольори.",
+            "У синьому світлі червоний светр виглядає чорним, бо немає червоного світла, яке можна відбити.",
+            "Кольоровий фільтр (filter) пропускає свій колір і поглинає решту.",
+            "Прозорі (transparent) матеріали пропускають світло прямо крізь себе.",
+            "Напівпрозорі (translucent) матеріали пропускають світло, але розсіюють його.",
+            "Непрозорі (opaque) матеріали зовсім не пропускають світла."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "رنگوں کا وہ سلسلہ جس سے سفید روشنی بنی ہے (spectrum)",
+            "ایک پوری لہر کی لمبائی؛ ہر رنگ کی اپنی ہوتی ہے (wavelength)",
+            "روشنی کو اپنے اندر لے لینا تا کہ وہ واپس نہ نکلے (absorb)",
+            "روشنی کو گزرنے دینا (transmit)",
+            "رنگین مادہ جو اپنا رنگ گزرنے دیتا ہے اور باقی جذب کر لیتا ہے (filter)",
+            "کوئی روشنی گزرنے نہ دینے والا (opaque)"
+          ],
+          "passage": [
+            "سفید روشنی قوسِ قزح کے سب رنگوں کا مرکب ہے۔",
+            "ایک منشور (prism) اسے ایک spectrum میں بانٹ سکتا ہے: لال، نارنجی، پیلا، سبز، نیلا، گہرا نیلا، بنفشی۔",
+            "ہر رنگ کی اپنی طولِ موج ہوتی ہے۔",
+            "لال روشنی کی طولِ موج سب سے لمبی اور بنفشی کی سب سے چھوٹی ہوتی ہے۔",
+            "چیزیں اپنا رنگ خود نہیں بناتیں۔",
+            "لال سویٹر لال روشنی منعکس کرتا ہے اور باقی رنگ جذب کر لیتا ہے۔",
+            "سفید چیز سب رنگ منعکس کرتی ہے۔",
+            "کالی چیز سب رنگ جذب کر لیتی ہے۔",
+            "نیلی روشنی میں لال سویٹر کالا لگتا ہے، کیونکہ منعکس کرنے کے لیے کوئی لال روشنی نہیں ہوتی۔",
+            "رنگین filter اپنا رنگ گزرنے دیتا ہے اور باقی جذب کر لیتا ہے۔",
+            "شفاف (transparent) مادے روشنی کو سیدھا گزرنے دیتے ہیں۔",
+            "نیم شفاف (translucent) مادے روشنی گزرنے دیتے ہیں مگر اسے بکھیر دیتے ہیں۔",
+            "غیر شفاف (opaque) مادے روشنی کو بالکل گزرنے نہیں دیتے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The visible spectrum",
@@ -718,8 +1186,162 @@ window.ASTRA_UNITS["triple-light"] = {
           "If the object is very close to a convex lens, the image is virtual and magnified.",
           "A concave lens always makes a virtual image.",
           "A ray diagram shows where the image is and what it is like."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عدسة أثخن في الوسط وتجمع الأشعّة معاً (convex lens)",
+            "عدسة أرفع في الوسط وتفرّق الأشعّة (concave lens)",
+            "النقطة التي تلتقي فيها الأشعّة المتوازية بعد العدسة المحدّبة (principal focus)",
+            "المسافة من مركز العدسة إلى البؤرة الأصلية (focal length)",
+            "صورة تلتقي فيها الأشعّة فعلاً، فيمكن وضعها على شاشة (real image)",
+            "رسم بمقياس يستعمل شعاعَين لإيجاد الصورة (ray diagram)"
+          ],
+          "passage": [
+            "العدسة (lens) قطعة منحنية من الزجاج أو البلاستيك.",
+            "وهي تكوّن صورة بكسر الضوء.",
+            "العدسة المحدّبة (convex lens) أثخن في الوسط.",
+            "وهي تجمع الأشعّة المتوازية في نقطة واحدة.",
+            "هذه النقطة تُسمّى البؤرة الأصلية (principal focus).",
+            "المسافة من العدسة إلى البؤرة الأصلية هي البُعد البؤري (focal length).",
+            "العدسة المقعّرة (concave lens) أرفع في الوسط.",
+            "وهي تفرّق الأشعّة المتوازية، كأنها جاءت من البؤرة الأصلية.",
+            "العدسة المحدّبة تستطيع أن تصنع صورة حقيقية (real image)، يمكن التقاطها على شاشة.",
+            "إذا كان الجسم قريباً جداً من عدسة محدّبة، تكون الصورة وهمية ومكبّرة.",
+            "العدسة المقعّرة تصنع دائماً صورة وهمية.",
+            "رسم الأشعّة (ray diagram) يُظهر أين تكون الصورة وكيف تبدو."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "soczewka grubsza w środku, która skupia promienie (convex lens)",
+            "soczewka cieńsza w środku, która rozprasza promienie (concave lens)",
+            "punkt, w którym równoległe promienie spotykają się za soczewką wypukłą (principal focus)",
+            "odległość od środka soczewki do ogniska (focal length)",
+            "obraz, w którym promienie naprawdę się spotykają, więc można go rzucić na ekran (real image)",
+            "rysunek w skali, który używa dwóch promieni, żeby znaleźć obraz (ray diagram)"
+          ],
+          "passage": [
+            "Soczewka (lens) to zakrzywiony kawałek szkła lub plastiku.",
+            "Tworzy obraz, załamując światło.",
+            "Soczewka wypukła (convex lens) jest grubsza w środku.",
+            "Skupia równoległe promienie w jednym punkcie.",
+            "Ten punkt nazywa się ogniskiem (principal focus).",
+            "Odległość od soczewki do ogniska to ogniskowa (focal length).",
+            "Soczewka wklęsła (concave lens) jest cieńsza w środku.",
+            "Rozprasza równoległe promienie, tak jakby wychodziły z ogniska.",
+            "Soczewka wypukła może stworzyć obraz rzeczywisty (real image), który można uchwycić na ekranie.",
+            "Jeśli przedmiot jest bardzo blisko soczewki wypukłej, obraz jest pozorny i powiększony.",
+            "Soczewka wklęsła zawsze tworzy obraz pozorny.",
+            "Rysunek biegu promieni (ray diagram) pokazuje, gdzie jest obraz i jaki on jest."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma lente mais grossa no meio, que junta os raios (convex lens, lente convexa)",
+            "uma lente mais fina no meio, que espalha os raios (concave lens, lente côncava)",
+            "o ponto onde os raios paralelos se encontram depois de uma lente convexa (principal focus, foco principal)",
+            "a distância do centro da lente ao foco principal (focal length, distância focal)",
+            "uma imagem onde os raios se encontram de verdade, por isso pode ser projetada num ecrã/numa tela (real image, imagem real)",
+            "um desenho à escala que usa dois raios para encontrar a imagem (ray diagram, diagrama de raios)"
+          ],
+          "passage": [
+            "Uma lente é um pedaço curvo de vidro ou de plástico.",
+            "Forma uma imagem refratando a luz.",
+            "Uma lente convexa (convex) é mais grossa no meio.",
+            "Junta os raios paralelos num só ponto.",
+            "Este ponto chama-se foco principal (principal focus).",
+            "A distância da lente ao foco principal é a distância focal (focal length).",
+            "Uma lente côncava (concave) é mais fina no meio.",
+            "Espalha os raios paralelos, como se eles viessem do foco principal.",
+            "Uma lente convexa pode fazer uma imagem real, que pode ser apanhada num ecrã/numa tela.",
+            "Se o objeto está muito perto de uma lente convexa, a imagem é virtual e ampliada.",
+            "Uma lente côncava faz sempre uma imagem virtual.",
+            "Um diagrama de raios (ray diagram) mostra onde está a imagem e como ela é."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "lens dhexda ka dhumuc weyn oo rays-ka isu keenta (convex lens)",
+            "lens dhexda ka dhumuc yar oo rays-ka kala firdhisa (concave lens)",
+            "barta rays-ka barbaro ah ku kulmaan convex lens kadib (principal focus)",
+            "masaafada bartamaha lens-ka ilaa principal focus (focal length)",
+            "sawir rays-ku runtii ku kulmaan, sidaas darteed shaashad la saari karo (real image)",
+            "sawir miisaan leh oo laba ray u isticmaala helidda sawirka (ray diagram)"
+          ],
+          "passage": [
+            "Lens waa gabal qalloocan oo quraarad ama caag ah.",
+            "Sawir (image) wuxuu ku samaystaa leexinta iftiinka (refracting).",
+            "Convex lens dhexda ayay ka dhumuc weyn tahay.",
+            "Rays-ka barbaro ah hal bar ayay isugu keentaa.",
+            "Bartan waxaa la yiraahdaa principal focus.",
+            "Masaafada lens-ka ilaa principal focus waa focal length.",
+            "Concave lens dhexda ayay ka dhumuc yar tahay.",
+            "Rays-ka barbaro ah way kala firdhisaa, sidii iyagoo ka yimid principal focus.",
+            "Convex lens waxay samayn kartaa real image, oo shaashad lagu qaban karo.",
+            "Haddii walaxdu aad ugu dhow dahay convex lens, sawirku waa virtual oo la weyneeyay (magnified).",
+            "Concave lens mar walba virtual image ayay samaysaa.",
+            "Ray diagram wuxuu muujiyaa meesha sawirku ku yaal iyo sida uu u eg yahay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "лінза, товща посередині, яка збирає промені разом (convex lens)",
+            "лінза, тонша посередині, яка розсіює промені (concave lens)",
+            "точка, де паралельні промені зустрічаються після опуклої лінзи (principal focus)",
+            "відстань від центра лінзи до головного фокуса (focal length)",
+            "зображення, у якому промені справді зустрічаються, тому його можна отримати на екрані (real image)",
+            "масштабний малюнок, у якому за двома променями знаходять зображення (ray diagram)"
+          ],
+          "passage": [
+            "Лінза — це вигнутий шматок скла або пластику.",
+            "Вона створює зображення, заломлюючи світло.",
+            "Опукла лінза (convex lens) товща посередині.",
+            "Вона збирає паралельні промені в одній точці.",
+            "Ця точка називається головним фокусом (principal focus).",
+            "Відстань від лінзи до головного фокуса — це фокусна відстань (focal length).",
+            "Увігнута лінза (concave lens) тонша посередині.",
+            "Вона розсіює паралельні промені так, ніби вони виходять із головного фокуса.",
+            "Опукла лінза може створити дійсне зображення (real image), яке можна отримати на екрані.",
+            "Якщо предмет дуже близько до опуклої лінзи, зображення уявне і збільшене.",
+            "Увігнута лінза завжди створює уявне зображення.",
+            "Схема променів (ray diagram) показує, де знаходиться зображення і яке воно."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسا لینز جو بیچ میں موٹا ہو اور شعاعوں کو ایک جگہ لاتا ہو (convex lens)",
+            "ایسا لینز جو بیچ میں پتلا ہو اور شعاعوں کو پھیلاتا ہو (concave lens)",
+            "وہ نقطہ جہاں متوازی شعاعیں convex لینز کے بعد ملتی ہیں (principal focus)",
+            "لینز کے مرکز سے principal focus تک کا فاصلہ (focal length)",
+            "ایسی تصویر جہاں شعاعیں واقعی ملتی ہیں، اس لیے یہ اسکرین پر آ سکتی ہے (real image)",
+            "پیمانے پر بنی ڈرائنگ جو تصویر ڈھونڈنے کے لیے دو شعاعیں استعمال کرتی ہے (ray diagram)"
+          ],
+          "passage": [
+            "لینز شیشے یا پلاسٹک کا ایک خم دار ٹکڑا ہے۔",
+            "یہ روشنی کو منعطف کر کے تصویر بناتا ہے۔",
+            "محدب لینز (convex lens) بیچ میں موٹا ہوتا ہے۔",
+            "یہ متوازی شعاعوں کو ایک نقطے پر اکٹھا کرتا ہے۔",
+            "اس نقطے کو principal focus کہتے ہیں۔",
+            "لینز سے principal focus تک کا فاصلہ focal length ہے۔",
+            "مقعر لینز (concave lens) بیچ میں پتلا ہوتا ہے۔",
+            "یہ متوازی شعاعوں کو پھیلا دیتا ہے، جیسے وہ principal focus سے آ رہی ہوں۔",
+            "محدب لینز حقیقی تصویر (real image) بنا سکتا ہے، جسے اسکرین پر پکڑا جا سکتا ہے۔",
+            "اگر چیز محدب لینز کے بہت قریب ہو تو تصویر مجازی اور بڑی (magnified) ہوتی ہے۔",
+            "مقعر لینز ہمیشہ مجازی تصویر بناتا ہے۔",
+            "ray diagram دکھاتا ہے کہ تصویر کہاں ہے اور کیسی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Two kinds of lens",
@@ -923,8 +1545,162 @@ window.ASTRA_UNITS["triple-light"] = {
           "A camera makes a diminished image.",
           "A magnifying glass makes a magnified image.",
           "You can rearrange the equation to find the object height or the image height."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كم مرة تكون الصورة أكبر من الجسم (magnification)",
+            "مدى ارتفاع الصورة (image height)",
+            "مدى ارتفاع الجسم الحقيقي (object height)",
+            "كمّية مقسومة على كمّية أخرى، فتُلغى الوحدات (ratio)",
+            "أكبر من الجسم (magnified)",
+            "أصغر من الجسم (diminished)"
+          ],
+          "passage": [
+            "التكبير (magnification) يخبرك كم مرة تكون الصورة أكبر من الجسم.",
+            "التكبير = ارتفاع الصورة ÷ ارتفاع الجسم.",
+            "إذا كان ارتفاع الصورة 6 cm وارتفاع الجسم 2 cm، فالتكبير 3.",
+            "التكبير نسبة (ratio)، لذلك ليس له وحدات.",
+            "قِس الارتفاعَين بالوحدة نفسها، مثل cm أو mm.",
+            "التكبير الأكبر من 1 يعني أن الصورة أكبر من الجسم.",
+            "نقول إن الصورة مكبّرة (magnified).",
+            "التكبير الأصغر من 1 يعني أن الصورة أصغر من الجسم.",
+            "نقول إن الصورة مصغّرة (diminished).",
+            "الكاميرا تصنع صورة مصغّرة.",
+            "والعدسة المكبّرة تصنع صورة مكبّرة.",
+            "يمكنك أن تعيد ترتيب المعادلة لتجد ارتفاع الجسم أو ارتفاع الصورة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ile razy obraz jest większy od przedmiotu (magnification)",
+            "jak wysoki jest obraz (image height)",
+            "jak wysoki jest prawdziwy przedmiot (object height)",
+            "jedna wielkość podzielona przez drugą, więc jednostki się skracają (ratio)",
+            "większy od przedmiotu (magnified)",
+            "mniejszy od przedmiotu (diminished)"
+          ],
+          "passage": [
+            "Powiększenie (magnification) mówi ci, ile razy obraz jest większy od przedmiotu.",
+            "Powiększenie = wysokość obrazu ÷ wysokość przedmiotu (magnification = image height ÷ object height).",
+            "Jeśli obraz ma 6 cm wysokości, a przedmiot ma 2 cm wysokości, powiększenie wynosi 3.",
+            "Powiększenie to stosunek (ratio), więc nie ma jednostek.",
+            "Mierz obie wysokości w tej samej jednostce, na przykład cm lub mm.",
+            "Powiększenie większe niż 1 oznacza, że obraz jest większy od przedmiotu.",
+            "Mówimy, że obraz jest powiększony (magnified).",
+            "Powiększenie mniejsze niż 1 oznacza, że obraz jest mniejszy od przedmiotu.",
+            "Mówimy, że obraz jest pomniejszony (diminished).",
+            "Aparat fotograficzny tworzy obraz pomniejszony.",
+            "Szkło powiększające tworzy obraz powiększony.",
+            "Możesz przekształcić równanie, żeby znaleźć wysokość przedmiotu albo wysokość obrazu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "quantas vezes a imagem é maior do que o objeto (magnification, ampliação)",
+            "a altura da imagem (image height)",
+            "a altura do objeto real (object height)",
+            "uma grandeza dividida por outra, de modo que as unidades se cancelam (ratio, razão)",
+            "maior do que o objeto (magnified, ampliada)",
+            "mais pequena do que o objeto (diminished, reduzida)"
+          ],
+          "passage": [
+            "A ampliação (magnification) diz quantas vezes a imagem é maior do que o objeto.",
+            "Ampliação (magnification) = altura da imagem ÷ altura do objeto.",
+            "Se a imagem tem 6 cm de altura e o objeto tem 2 cm de altura, a ampliação é 3.",
+            "A ampliação é uma razão (ratio), por isso não tem unidades.",
+            "Meça as duas alturas na mesma unidade, como cm ou mm.",
+            "Uma ampliação maior do que 1 quer dizer que a imagem é maior do que o objeto.",
+            "Dizemos que a imagem está ampliada (magnified).",
+            "Uma ampliação menor do que 1 quer dizer que a imagem é mais pequena do que o objeto.",
+            "Dizemos que a imagem está reduzida (diminished).",
+            "Uma câmara/câmera faz uma imagem reduzida.",
+            "Uma lupa faz uma imagem ampliada.",
+            "Você pode reorganizar a equação para encontrar a altura do objeto ou a altura da imagem."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inta jeer ee sawirku ka weyn yahay walaxda (magnification)",
+            "sida sawirku u dheer yahay (image height)",
+            "sida walaxda dhabta ah u dheer tahay (object height)",
+            "hal qaddar oo loo qaybiyay mid kale, sidaas darteed halbeegyadu way is baabi'iyaan (ratio)",
+            "ka weyn walaxda (magnified)",
+            "ka yar walaxda (diminished)"
+          ],
+          "passage": [
+            "Magnification wuxuu kuu sheegaa inta jeer ee sawirku ka weyn yahay walaxda.",
+            "Magnification = sarajoogga sawirka ÷ sarajoogga walaxda (image height ÷ object height).",
+            "Haddii sawirku 6 cm dheer yahay walaxduna 2 cm dheer tahay, magnification-ku waa 3.",
+            "Magnification waa ratio, sidaas darteed halbeegyo ma laha.",
+            "Labada sarajoog isku halbeeg ku cabbir, sida cm ama mm.",
+            "Magnification 1 ka weyn micnaheedu waa sawirku ka weyn yahay walaxda.",
+            "Waxaan oranno sawirku waa magnified.",
+            "Magnification 1 ka yar micnaheedu waa sawirku ka yar yahay walaxda.",
+            "Waxaan oranno sawirku waa diminished.",
+            "Kamarad sawir diminished ah ayay samaysaa.",
+            "Muraayad weynaysa (magnifying glass) sawir magnified ah ayay samaysaa.",
+            "Isle'egta waad wareejin kartaa si aad u hesho sarajoogga walaxda ama sarajoogga sawirka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "у скільки разів зображення більше за предмет (magnification)",
+            "яка висота зображення (image height)",
+            "яка висота справжнього предмета (object height)",
+            "одна величина, поділена на іншу, тому одиниці скорочуються (ratio)",
+            "більший за предмет (magnified)",
+            "менший за предмет (diminished)"
+          ],
+          "passage": [
+            "Збільшення (magnification) говорить вам, у скільки разів зображення більше за предмет.",
+            "Збільшення = висота зображення ÷ висота предмета.",
+            "Якщо висота зображення 6 cm, а висота предмета 2 cm, збільшення дорівнює 3.",
+            "Збільшення — це відношення (ratio), тому воно не має одиниць.",
+            "Вимірюйте обидві висоти в одній одиниці, наприклад cm або mm.",
+            "Збільшення, більше за 1, означає, що зображення більше за предмет.",
+            "Ми кажемо, що зображення збільшене (magnified).",
+            "Збільшення, менше за 1, означає, що зображення менше за предмет.",
+            "Ми кажемо, що зображення зменшене (diminished).",
+            "Фотоапарат створює зменшене зображення.",
+            "Лупа створює збільшене зображення.",
+            "Ви можете переставити рівняння, щоб знайти висоту предмета або висоту зображення."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "تصویر چیز سے کتنے گنا بڑی ہے (magnification)",
+            "تصویر کتنی اونچی ہے (image height)",
+            "اصلی چیز کتنی اونچی ہے (object height)",
+            "ایک مقدار تقسیم دوسری مقدار، تا کہ اکائیاں کٹ جائیں (ratio)",
+            "چیز سے بڑی (magnified)",
+            "چیز سے چھوٹی (diminished)"
+          ],
+          "passage": [
+            "Magnification آپ کو بتاتی ہے کہ تصویر چیز سے کتنے گنا بڑی ہے۔",
+            "Magnification برابر ہے تصویر کی اونچائی تقسیم چیز کی اونچائی (image height ÷ object height)۔",
+            "اگر تصویر 6 cm اونچی ہو اور چیز 2 cm اونچی ہو تو magnification 3 ہے۔",
+            "Magnification ایک تناسب (ratio) ہے، اس لیے اس کی کوئی اکائی نہیں۔",
+            "دونوں اونچائیاں ایک ہی اکائی میں ناپیں، جیسے cm یا mm۔",
+            "1 سے بڑی magnification کا مطلب ہے کہ تصویر چیز سے بڑی ہے۔",
+            "ہم کہتے ہیں کہ تصویر magnified ہے۔",
+            "1 سے چھوٹی magnification کا مطلب ہے کہ تصویر چیز سے چھوٹی ہے۔",
+            "ہم کہتے ہیں کہ تصویر diminished ہے۔",
+            "کیمرا diminished تصویر بناتا ہے۔",
+            "محدب عدسہ (magnifying glass) magnified تصویر بناتا ہے۔",
+            "آپ مساوات کو الٹ پلٹ کر چیز کی اونچائی یا تصویر کی اونچائی معلوم کر سکتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The magnification equation",
@@ -1125,8 +1901,156 @@ window.ASTRA_UNITS["triple-light"] = {
           "Six-mark answers are marked on the whole answer, not word by word.",
           "Plan the key words first, then write them in full sentences.",
           "Check that every number has a unit, except magnification."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الكلمة التي تخبرك بنوع الجواب المطلوب (command word)",
+            "قل ما يحدث أو ما تفعله، بالترتيب (describe)",
+            "أعطِ أسباباً، مربوطة بكلمتَي because وso (explain)",
+            "رسم كُتبت عليه أسماء الأجزاء الأساسية (labelled diagram)",
+            "خطوات التجربة العملية، بالترتيب (method)"
+          ],
+          "passage": [
+            "أسئلة الضوء كثيراً ما تطلب منك أن ترسم وتكتب معاً.",
+            "استعمل مسطرة وقلم رصاص مبريّاً لكل شعاع.",
+            "ضع سهماً على كل شعاع ليُظهر اتجاه انتقال الضوء.",
+            "ارسم العمودي خطاً منقّطاً بزاوية قائمة على السطح.",
+            "اكتب اسم زاوية السقوط وزاوية الانعكاس أو الانكسار.",
+            "في رسم العدسة، حدّد البؤرة الأصلية على الجانبَين.",
+            "اقرأ كلمة الأمر (command word) قبل أن تكتب.",
+            "Describe تعني: قل ما يحدث، بالترتيب.",
+            "Explain تعني: أعطِ أسباباً، مستعملاً because وso.",
+            "أجوبة الستّ علامات تُصحّح على الجواب كله، لا كلمة بكلمة.",
+            "خطّط للكلمات الأساسية أولاً، ثم اكتبها في جمل كاملة.",
+            "تحقّق من أن لكل عدد وحدة، ما عدا التكبير."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "słowo, które mówi ci, jakiego rodzaju odpowiedź dać (command word)",
+            "powiedz, co się dzieje albo co robisz, po kolei (describe)",
+            "podaj powody, połączone słowami „bo” i „więc” (explain)",
+            "rysunek z nazwanymi kluczowymi częściami (labelled diagram)",
+            "kroki doświadczenia, po kolei (method)"
+          ],
+          "passage": [
+            "Pytania o świetle często proszą, żebyś rysował, a nie tylko pisał.",
+            "Do każdego promienia używaj linijki i ostrego ołówka.",
+            "Postaw strzałkę na każdym promieniu, żeby pokazać, w którą stronę biegnie światło.",
+            "Narysuj normalną jako linię kropkowaną pod kątem prostym do powierzchni.",
+            "Podpisz kąt padania i kąt odbicia lub załamania.",
+            "Na rysunku soczewki zaznacz ognisko po obu stronach.",
+            "Zanim zaczniesz pisać, przeczytaj słowo polecenia (command word).",
+            "Describe (opisz) znaczy: powiedz, co się dzieje, po kolei.",
+            "Explain (wyjaśnij) znaczy: podaj powody, używając „bo” i „więc”.",
+            "Odpowiedzi za sześć punktów ocenia się jako całość, a nie słowo po słowie.",
+            "Najpierw zaplanuj kluczowe słowa, potem zapisz je w pełnych zdaniach.",
+            "Sprawdź, czy każda liczba ma jednostkę, oprócz powiększenia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a palavra que diz que tipo de resposta você deve dar (command word, palavra de comando)",
+            "dizer o que acontece ou o que você faz, por ordem (describe, descrever)",
+            "dar razões, ligadas com ‘porque’ e ‘por isso’ (explain, explicar)",
+            "um desenho com as partes principais identificadas (labelled diagram, diagrama legendado)",
+            "os passos de uma experiência prática, por ordem (method, método)"
+          ],
+          "passage": [
+            "As perguntas sobre luz pedem muitas vezes para desenhar, além de escrever.",
+            "Use uma régua e um lápis bem afiado em todos os raios.",
+            "Ponha uma seta em cada raio para mostrar em que direção a luz viaja.",
+            "Desenhe a normal como uma linha tracejada em ângulo reto com a superfície.",
+            "Identifique o ângulo de incidência e o ângulo de reflexão ou de refração.",
+            "Num diagrama de lente, marque o foco principal dos dois lados.",
+            "Leia a palavra de comando (command word) antes de escrever.",
+            "Describe (descreva) quer dizer: diga o que acontece, por ordem.",
+            "Explain (explique) quer dizer: dê razões, usando ‘porque’ e ‘por isso’.",
+            "As respostas de seis pontos são avaliadas pela resposta inteira, não palavra a palavra.",
+            "Planeie/Planeje primeiro as palavras-chave, depois escreva-as em frases completas.",
+            "Verifique que todos os números têm unidade, exceto a ampliação."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "erayga kuu sheegaya nooca jawaab aad bixiso (command word)",
+            "sheeg waxa dhaca ama waxa aad samayso, siday u kala horreeyaan (describe)",
+            "sababo bixi, oo isku xir because iyo so (explain)",
+            "sawir qaybaha muhiimka ah lagu magacaabay (labelled diagram)",
+            "tallaabooyinka tijaabo (practical), siday u kala horreeyaan (method)"
+          ],
+          "passage": [
+            "Su'aalaha iftiinka inta badan waxay ku weydiiyaan inaad sawirto iyo inaad qorto.",
+            "Isticmaal mastarad iyo qalin fiiqan ray kasta.",
+            "Ray kasta fallaadh saar si aad u muujiso jihada iftiinku u socdo.",
+            "Normal-ka u sawir xariiq dhibco ah oo xagal qumman la samaysa dusha.",
+            "Magacyo ku calaamadee xagasha soo socota (angle of incidence) iyo xagasha reflection ama refraction.",
+            "Sawir lens, principal focus labada dhinac ka calaamadee.",
+            "Akhri erayga amarka (command word) intaadan qorin.",
+            "Describe micnaheedu waa sheeg waxa dhaca, siday u kala horreeyaan.",
+            "Explain micnaheedu waa sababo bixi, adigoo isticmaalaya because iyo so.",
+            "Jawaabaha lix-dhibcood jawaabta oo dhan ayaa lagu qiimeeyaa, ma aha eray eray.",
+            "Marka hore erayada muhiimka ah qorshee, kadibna weedho buuxa ku qor.",
+            "Hubi in tiro kastaa halbeeg leedahay, marka laga reebo magnification."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "слово, яке говорить вам, яку відповідь треба дати (command word)",
+            "сказати, що відбувається або що ви робите, по порядку (describe)",
+            "навести причини, пов’язані словами «бо» і «тому» (explain)",
+            "малюнок, на якому підписано головні частини (labelled diagram)",
+            "кроки практичної роботи, по порядку (method)"
+          ],
+          "passage": [
+            "Запитання про світло часто просять не лише написати, а й намалювати.",
+            "Використовуйте лінійку та гострий олівець для кожного променя.",
+            "Поставте стрілку на кожному промені, щоб показати, куди рухається світло.",
+            "Малюйте нормаль пунктирною лінією під прямим кутом до поверхні.",
+            "Підпишіть кут падіння і кут відбивання або заломлення.",
+            "На схемі з лінзою позначте головний фокус з обох боків.",
+            "Прочитайте командне слово (command word), перш ніж писати.",
+            "Describe (опишіть) означає: скажіть, що відбувається, по порядку.",
+            "Explain (поясніть) означає: наведіть причини, використовуючи «бо» і «тому».",
+            "Відповіді на 6 балів оцінюють за всією відповіддю, а не слово за словом.",
+            "Спочатку сплануйте ключові слова, потім запишіть їх повними реченнями.",
+            "Перевірте, що біля кожного числа є одиниця, крім збільшення."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ لفظ جو بتاتا ہے کہ آپ کو کس قسم کا جواب دینا ہے (command word)",
+            "بتائیں کہ کیا ہوتا ہے یا آپ کیا کرتے ہیں، ترتیب سے (describe)",
+            "وجوہات دیں، because اور so سے جوڑ کر (explain)",
+            "ایسی ڈرائنگ جس میں اہم حصوں کے نام لکھے ہوں (labelled diagram)",
+            "تجربے کے قدم، ترتیب سے (method)"
+          ],
+          "passage": [
+            "روشنی کے سوال اکثر لکھنے کے ساتھ ساتھ ڈرائنگ بنانے کو بھی کہتے ہیں۔",
+            "ہر شعاع کے لیے رولر اور تیز پنسل استعمال کریں۔",
+            "ہر شعاع پر تیر لگائیں تا کہ پتا چلے کہ روشنی کس طرف جا رہی ہے۔",
+            "normal کو سطح سے قائمہ زاویے پر نقطوں والی لکیر کے طور پر بنائیں۔",
+            "زاویۂ وقوع اور زاویۂ انعکاس یا انعطاف پر نام لکھیں۔",
+            "لینز کی ڈرائنگ میں دونوں طرف principal focus کا نشان لگائیں۔",
+            "لکھنے سے پہلے command word پڑھیں۔",
+            "Describe کا مطلب ہے بتائیں کہ کیا ہوتا ہے، ترتیب سے۔",
+            "Explain کا مطلب ہے وجوہات دیں، because اور so استعمال کرتے ہوئے۔",
+            "چھے نمبر کے جوابوں کے نمبر پورے جواب پر دیے جاتے ہیں، لفظ لفظ نہیں۔",
+            "پہلے اہم لفظوں کا منصوبہ بنائیں، پھر انھیں پورے جملوں میں لکھیں۔",
+            "جانچ لیں کہ ہر عدد کے ساتھ اکائی ہے، سوائے magnification کے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Drawing marks: ray diagrams the examiner can follow",

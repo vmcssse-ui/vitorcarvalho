@@ -103,8 +103,156 @@ window.ASTRA_UNITS["combined-bonding"] = {
           "At the boiling point, particles escape from the liquid and it becomes a gas.",
           "The melting point of ice is 0 °C.",
           "The boiling point of water is 100 °C."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قطعة صغيرة جداً من المادّة، أصغر بكثير من أن تُرى (particle)",
+            "النمط الذي تكون عليه الجسيمات (arrangement)",
+            "أن يهتزّ بسرعة في مكانه من دون أن يبتعد (vibrate)",
+            "درجة الحرارة التي يتحوّل فيها الصلب إلى سائل (melting point)",
+            "درجة الحرارة التي يتحوّل فيها السائل إلى غاز (boiling point)"
+          ],
+          "passage": [
+            "كل ما حولك مكوّن من جسيمات (particles) صغيرة جداً.",
+            "في المادّة الصلبة، الجسيمات مرصوصة بإحكام في نمط منتظم.",
+            "لا تستطيع أن تتحرّك من مكانها، لكنها تهتزّ في مكانها.",
+            "في السائل، الجسيمات ما زالت قريبة من بعضها.",
+            "لكنها في ترتيب عشوائي وتستطيع أن تتحرّك حول بعضها.",
+            "في الغاز، الجسيمات متباعدة جداً.",
+            "وتتحرّك بسرعة في كل الاتجاهات.",
+            "عندما تُسخَّن المادّة الصلبة، تهتزّ جسيماتها أسرع.",
+            "عند درجة الانصهار (melting point)، تتحرّر الجسيمات ويصبح الصلب سائلاً.",
+            "عند درجة الغليان (boiling point)، تفلت الجسيمات من السائل ويصبح غازاً.",
+            "درجة انصهار الجليد 0 °C.",
+            "درجة غليان الماء 100 °C."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "maleńki kawałek substancji, o wiele za mały, żeby go zobaczyć (particle)",
+            "układ, w jakim są cząstki (arrangement)",
+            "szybko drgać w miejscu, nie oddalając się (vibrate)",
+            "temperatura, w której ciało stałe zamienia się w ciecz (melting point)",
+            "temperatura, w której ciecz zamienia się w gaz (boiling point)"
+          ],
+          "passage": [
+            "Wszystko wokół ciebie jest zbudowane z maleńkich cząstek.",
+            "W ciele stałym cząstki są ciasno upakowane w regularnym układzie.",
+            "Nie mogą się przemieszczać, ale drgają w miejscu.",
+            "W cieczy cząstki są nadal blisko siebie.",
+            "Ale są w przypadkowym układzie i mogą przesuwać się wokół siebie.",
+            "W gazie cząstki są bardzo daleko od siebie.",
+            "Poruszają się szybko we wszystkich kierunkach.",
+            "Kiedy ciało stałe jest ogrzewane, jego cząstki drgają szybciej.",
+            "W temperaturze topnienia (melting point) cząstki uwalniają się i ciało stałe staje się cieczą.",
+            "W temperaturze wrzenia (boiling point) cząstki uciekają z cieczy i staje się ona gazem.",
+            "Temperatura topnienia lodu to 0 °C.",
+            "Temperatura wrzenia wody to 100 °C."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um pedacinho minúsculo de uma substância, pequeno demais para se ver (particle, partícula)",
+            "o padrão em que as partículas estão (arrangement, arranjo)",
+            "tremer depressa no mesmo lugar sem se afastar (vibrate, vibrar)",
+            "a temperatura em que um sólido se transforma num líquido (melting point, ponto de fusão)",
+            "a temperatura em que um líquido se transforma num gás (boiling point, ponto de ebulição)"
+          ],
+          "passage": [
+            "Tudo à sua volta é feito de partículas minúsculas.",
+            "Num sólido, as partículas estão muito juntas, num padrão regular.",
+            "Não conseguem andar de um lado para o outro, mas vibram no mesmo lugar.",
+            "Num líquido, as partículas ainda estão perto umas das outras.",
+            "Mas estão num arranjo desordenado e conseguem mover-se umas à volta das outras.",
+            "Num gás, as partículas estão muito afastadas.",
+            "Movem-se depressa em todas as direções.",
+            "Quando um sólido é aquecido, as suas partículas vibram mais depressa.",
+            "No ponto de fusão (melting point), as partículas soltam-se e o sólido passa a líquido.",
+            "No ponto de ebulição (boiling point), as partículas escapam do líquido e ele passa a gás.",
+            "O ponto de fusão do gelo é 0 °C.",
+            "O ponto de ebulição da água é 100 °C."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qayb aad u yar oo walax, oo aad uga yar in la arko (particle)",
+            "qaabka particles-ku ku jiraan (arrangement)",
+            "si dhaqso leh meesha ku ruxid iyadoon la dhaqaaqin (vibrate)",
+            "heerkulka adke ku beddelmo dareere (melting point)",
+            "heerkulka dareere ku beddelmo gaas (boiling point)"
+          ],
+          "passage": [
+            "Wax kasta oo kugu wareegsan waxay ka samaysan yihiin particles aad u yaryar.",
+            "Adke (solid) dhexdiis, particles-ku si adag ayay isugu cufan yihiin qaab nidaamsan.",
+            "Ma dhaqaaqi karaan, laakiin meeshooda ayay ku ruxmaan (vibrate).",
+            "Dareere (liquid) dhexdiis, particles-ku weli way isku dhow yihiin.",
+            "Laakiin qaab aan nidaamsanayn ayay ku jiraan, waxayna is dhaafi karaan.",
+            "Gaas dhexdiis, particles-ku aad ayay u kala fog yihiin.",
+            "Si dhaqso badan ayay u dhaqaaqaan jiho kasta.",
+            "Marka adke la kululeeyo, particles-kiisu si dhaqso badan ayay u ruxmaan.",
+            "Melting point, particles-ku way xoroobaan, adkihiina wuxuu noqdaa dareere.",
+            "Boiling point, particles-ku dareeraha ayay ka baxsadaan, wuxuuna noqdaa gaas.",
+            "Melting point-ka barafku waa 0 °C.",
+            "Boiling point-ka biyuhu waa 100 °C."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "крихітна частинка речовини, занадто мала, щоб її побачити (particle)",
+            "порядок, у якому розташовані частинки (arrangement)",
+            "швидко тремтіти на місці, не віддаляючись (vibrate)",
+            "температура, за якої тверде тіло перетворюється на рідину (melting point)",
+            "температура, за якої рідина перетворюється на газ (boiling point)"
+          ],
+          "passage": [
+            "Усе навколо вас складається з крихітних частинок (particles).",
+            "У твердому тілі частинки щільно впаковані в правильному порядку.",
+            "Вони не можуть пересуватися, але коливаються (vibrate) на місці.",
+            "У рідині частинки все ще близько одна до одної.",
+            "Але вони розташовані безладно й можуть рухатися одна навколо іншої.",
+            "У газі частинки дуже далеко одна від одної.",
+            "Вони швидко рухаються в усіх напрямках.",
+            "Коли тверде тіло нагрівають, його частинки коливаються швидше.",
+            "За температури плавлення (melting point) частинки вириваються, і тверде тіло стає рідиною.",
+            "За температури кипіння (boiling point) частинки вилітають із рідини, і вона стає газом.",
+            "Температура плавлення льоду — 0 °C.",
+            "Температура кипіння води — 100 °C."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی مادے کا ننھا ٹکڑا، جو دیکھنے کے لیے بہت ہی چھوٹا ہو (particle)",
+            "وہ ترتیب جس میں ذرات رکھے ہوں (arrangement)",
+            "اپنی جگہ پر تیزی سے ہلنا، بغیر دور جائے (vibrate)",
+            "وہ درجہ حرارت جس پر ٹھوس چیز مائع بن جاتی ہے (melting point)",
+            "وہ درجہ حرارت جس پر مائع گیس بن جاتا ہے (boiling point)"
+          ],
+          "passage": [
+            "آپ کے گرد ہر چیز ننھے ذرات (particles) سے بنی ہے۔",
+            "ٹھوس چیز میں ذرات ایک باقاعدہ ترتیب میں مضبوطی سے بھرے ہوتے ہیں۔",
+            "وہ ادھر ادھر نہیں جا سکتے، مگر اپنی جگہ پر ہلتے (vibrate) رہتے ہیں۔",
+            "مائع میں ذرات اب بھی ایک دوسرے کے قریب ہوتے ہیں۔",
+            "مگر وہ بے ترتیب ہوتے ہیں اور ایک دوسرے کے گرد حرکت کر سکتے ہیں۔",
+            "گیس میں ذرات ایک دوسرے سے بہت دور ہوتے ہیں۔",
+            "وہ ہر سمت میں تیزی سے حرکت کرتے ہیں۔",
+            "جب ٹھوس چیز کو گرم کیا جاتا ہے تو اس کے ذرات تیز ہلتے ہیں۔",
+            "نقطۂ پگھلاؤ (melting point) پر ذرات آزاد ہو جاتے ہیں اور ٹھوس چیز مائع بن جاتی ہے۔",
+            "نقطۂ کھولاؤ (boiling point) پر ذرات مائع سے نکل جاتے ہیں اور وہ گیس بن جاتا ہے۔",
+            "برف کا نقطۂ پگھلاؤ 0 °C ہے۔",
+            "پانی کا نقطۂ کھولاؤ 100 °C ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Solids, liquids and gases",
@@ -281,8 +429,156 @@ window.ASTRA_UNITS["combined-bonding"] = {
           "Sodium loses one electron to form a sodium ion, Na⁺.",
           "Chlorine gains one electron to form a chloride ion, Cl⁻.",
           "The group number tells you what charge the ion will have."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جسيم سالب صغير جداً يتحرّك حول نواة الذرّة (electron)",
+            "مدار الإلكترونات الأبعد عن النواة (outer shell)",
+            "ذرّة فقدت إلكترونات أو كسبتها فصارت لها شحنة (ion)",
+            "أن يكون موجباً أو سالباً (charge)",
+            "عمود في الجدول الدوري (group)"
+          ],
+          "passage": [
+            "الذرّة لها نواة في الوسط وإلكترونات في مدارات (shells) حولها.",
+            "الذرّات ليس لها شحنة إجمالية.",
+            "عدد البروتونات يساوي عدد الإلكترونات.",
+            "الذرّات تكون أكثر استقراراً عندما يكون مدارها الخارجي (outer shell) مكتملاً بالإلكترونات.",
+            "ذرّة الفلزّ تستطيع أن تفقد إلكتروناتها الخارجية.",
+            "عندها يكون فيها بروتونات أكثر من الإلكترونات، فتصبح موجبة.",
+            "ذرّة اللافلزّ تستطيع أن تكسب إلكترونات لتُكمل مدارها الخارجي.",
+            "عندها يكون فيها إلكترونات أكثر من البروتونات، فتصبح سالبة.",
+            "الأيون (ion) ذرّة فقدت إلكترونات أو كسبتها.",
+            "الصوديوم يفقد إلكتروناً واحداً ليكوّن أيون صوديوم، Na⁺.",
+            "الكلور يكسب إلكتروناً واحداً ليكوّن أيون كلوريد، Cl⁻.",
+            "رقم المجموعة (group) يخبرك بالشحنة التي سيحملها الأيون."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "maleńka ujemna cząstka, która porusza się wokół jądra atomu (electron)",
+            "powłoka elektronów najdalsza od jądra (outer shell)",
+            "atom, który stracił lub zyskał elektrony i przez to ma ładunek (ion)",
+            "bycie dodatnim lub ujemnym (charge)",
+            "kolumna układu okresowego (group)"
+          ],
+          "passage": [
+            "Atom ma jądro w środku i elektrony na powłokach wokół niego.",
+            "Atomy nie mają wypadkowego ładunku.",
+            "Liczba protonów równa się liczbie elektronów.",
+            "Atomy są bardziej stabilne z pełną zewnętrzną powłoką elektronów.",
+            "Atom metalu może stracić swoje zewnętrzne elektrony.",
+            "Wtedy ma więcej protonów niż elektronów, więc jest dodatni.",
+            "Atom niemetalu może zyskać elektrony, żeby zapełnić swoją zewnętrzną powłokę.",
+            "Wtedy ma więcej elektronów niż protonów, więc jest ujemny.",
+            "Jon (ion) to atom, który stracił lub zyskał elektrony.",
+            "Sód traci jeden elektron i tworzy jon sodu, Na⁺.",
+            "Chlor zyskuje jeden elektron i tworzy jon chlorkowy, Cl⁻.",
+            "Numer grupy mówi ci, jaki ładunek będzie miał jon."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma partícula minúscula negativa que se move à volta do núcleo de um átomo (electron, eletrão/elétron)",
+            "a camada de eletrões/elétrons mais afastada do núcleo (outer shell, camada exterior)",
+            "um átomo que perdeu ou ganhou eletrões/elétrons e por isso tem carga (ion, ião/íon)",
+            "ser positivo ou negativo (charge, carga)",
+            "uma coluna da tabela periódica (group, grupo)"
+          ],
+          "passage": [
+            "Um átomo tem um núcleo no meio e eletrões/elétrons em camadas à volta dele.",
+            "Os átomos não têm carga no total.",
+            "O número de protões/prótons é igual ao número de eletrões/elétrons.",
+            "Os átomos são mais estáveis com a camada exterior de eletrões/elétrons completa.",
+            "Um átomo de metal pode perder os seus eletrões/elétrons exteriores.",
+            "Então tem mais protões/prótons do que eletrões/elétrons, por isso é positivo.",
+            "Um átomo de não metal pode ganhar eletrões/elétrons para completar a sua camada exterior.",
+            "Então tem mais eletrões/elétrons do que protões/prótons, por isso é negativo.",
+            "Um ião/íon (ion) é um átomo que perdeu ou ganhou eletrões/elétrons.",
+            "O sódio perde um eletrão/elétron para formar um ião/íon sódio, Na⁺.",
+            "O cloro ganha um eletrão/elétron para formar um ião/íon cloreto, Cl⁻.",
+            "O número do grupo diz qual será a carga do ião/íon."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "particle yar oo taban oo ku wareega nucleus-ka atom (electron)",
+            "qolofta electrons ee ugu fog nucleus-ka (outer shell)",
+            "atom lumiyay ama helay electrons oo sidaas darteed shixnad (charge) leh (ion)",
+            "ahaanshaha togan ama taban (charge)",
+            "tiir ka mid ah shaxda xilliyeed (periodic table) (group)"
+          ],
+          "passage": [
+            "Atom wuxuu leeyahay nucleus dhexda ku jira iyo electrons ku jira qolfo (shells) ku wareegsan.",
+            "Atoms shixnad guud (charge) ma laha.",
+            "Tirada protons waxay la mid tahay tirada electrons.",
+            "Atoms way ka xasilloon yihiin markay leeyihiin qolof dibadeed (outer shell) oo electrons ka buuxaan.",
+            "Atom bir (metal) wuxuu lumin karaa electrons-kiisa dibadda.",
+            "Markaas wuxuu leeyahay protons ka badan electrons, sidaas darteed waa togan.",
+            "Atom aan bir ahayn (non-metal) wuxuu heli karaa electrons si uu u buuxiyo qolofta dibadda.",
+            "Markaas wuxuu leeyahay electrons ka badan protons, sidaas darteed waa taban.",
+            "Ion waa atom lumiyay ama helay electrons.",
+            "Sodium hal electron ayuu lumiyaa si uu u samaysto ion sodium, Na⁺.",
+            "Chlorine hal electron ayuu helaa si uu u samaysto ion chloride, Cl⁻.",
+            "Lambarka group-ku wuxuu kuu sheegaa shixnadda uu ion-ku yeelan doono."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "крихітна негативна частинка, яка рухається навколо ядра атома (electron)",
+            "оболонка електронів, найдальша від ядра (outer shell)",
+            "атом, який втратив або отримав електрони і тому має заряд (ion)",
+            "бути позитивним або негативним (charge)",
+            "стовпчик періодичної таблиці (group)"
+          ],
+          "passage": [
+            "Атом має ядро посередині та електрони в оболонках навколо нього.",
+            "Атоми не мають загального заряду.",
+            "Кількість протонів дорівнює кількості електронів.",
+            "Атоми стійкіші, коли їхня зовнішня оболонка (outer shell) заповнена електронами.",
+            "Атом металу може втратити свої зовнішні електрони.",
+            "Тоді в нього більше протонів, ніж електронів, тому він позитивний.",
+            "Атом неметалу може отримати електрони, щоб заповнити свою зовнішню оболонку.",
+            "Тоді в нього більше електронів, ніж протонів, тому він негативний.",
+            "Іон (ion) — це атом, який втратив або отримав електрони.",
+            "Натрій втрачає один електрон і утворює іон натрію, Na⁺.",
+            "Хлор отримує один електрон і утворює хлорид-іон, Cl⁻.",
+            "Номер групи (group) говорить вам, який заряд матиме іон."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک ننھا منفی ذرہ جو ایٹم کے مرکزے کے گرد گھومتا ہے (electron)",
+            "الیکٹرانوں کا وہ خول جو مرکزے سے سب سے دور ہو (outer shell)",
+            "ایسا ایٹم جس نے الیکٹران کھوئے یا حاصل کیے ہوں اور اس لیے چارج رکھتا ہو (ion)",
+            "مثبت یا منفی ہونا (charge)",
+            "دوری جدول (periodic table) کا ایک کالم (group)"
+          ],
+          "passage": [
+            "ایٹم کے بیچ میں ایک مرکزہ (nucleus) ہوتا ہے اور اس کے گرد خولوں (shells) میں الیکٹران ہوتے ہیں۔",
+            "ایٹموں پر کوئی مجموعی چارج نہیں ہوتا۔",
+            "پروٹانوں کی تعداد الیکٹرانوں کی تعداد کے برابر ہوتی ہے۔",
+            "ایٹم تب زیادہ مستحکم ہوتے ہیں جب ان کا بیرونی خول الیکٹرانوں سے بھرا ہو۔",
+            "دھات کا ایٹم اپنے بیرونی الیکٹران کھو سکتا ہے۔",
+            "تب اس کے پروٹان الیکٹرانوں سے زیادہ ہو جاتے ہیں، اس لیے وہ مثبت ہوتا ہے۔",
+            "غیر دھات کا ایٹم اپنا بیرونی خول بھرنے کے لیے الیکٹران حاصل کر سکتا ہے۔",
+            "تب اس کے الیکٹران پروٹانوں سے زیادہ ہو جاتے ہیں، اس لیے وہ منفی ہوتا ہے۔",
+            "آئن (ion) ایسا ایٹم ہے جس نے الیکٹران کھوئے یا حاصل کیے ہوں۔",
+            "سوڈیم ایک الیکٹران کھو کر سوڈیم آئن، Na⁺، بناتا ہے۔",
+            "کلورین ایک الیکٹران حاصل کر کے کلورائیڈ آئن، Cl⁻، بناتی ہے۔",
+            "گروپ نمبر آپ کو بتاتا ہے کہ آئن پر کیا چارج ہو گا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is an ion?",
@@ -451,8 +747,156 @@ window.ASTRA_UNITS["combined-bonding"] = {
           "It needs a lot of energy to pull the ions apart, so it melts at 801 °C.",
           "Solid salt cannot conduct electricity, because its ions cannot move.",
           "When salt melts or dissolves, the ions are free to move, so it conducts."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تنقل شيئاً من مكان إلى آخر (transfer)",
+            "الجذب القوي بين أيون موجب وأيون سالب (ionic bond)",
+            "نمط منتظم ضخم من الأيونات (lattice)",
+            "ما يتعلّق بالجذب بين الشحنات الموجبة والسالبة (electrostatic)",
+            "الرموز التي تُظهر أي ذرّات أو أيونات في المركّب وبأي نسبة (formula)"
+          ],
+          "passage": [
+            "ذرّة الفلزّ وذرّة اللافلزّ تستطيعان أن تتفاعلا معاً.",
+            "تعطي ذرّة الفلزّ إلكتروناً أو أكثر لذرّة اللافلزّ.",
+            "هذا يُسمّى انتقال الإلكترونات (electron transfer).",
+            "يصبح الفلزّ أيوناً موجباً.",
+            "ويصبح اللافلزّ أيوناً سالباً.",
+            "الشحنات المتضادّة تتجاذب، فتنجذب الأيونات نحو بعضها.",
+            "هذا الجذب القوي يُسمّى الرابطة الأيونية (ionic bond).",
+            "ملايين الأيونات تترصّ معاً في نمط منتظم يُسمّى الشبكة البلّورية العملاقة (giant lattice).",
+            "ملح الطعام، كلوريد الصوديوم، شبكة أيونية عملاقة.",
+            "يحتاج إلى طاقة كبيرة لفصل الأيونات عن بعضها، لذلك ينصهر عند 801 °C.",
+            "الملح الصلب لا يوصل الكهرباء، لأن أيوناته لا تستطيع أن تتحرّك.",
+            "عندما ينصهر الملح أو يذوب، تصبح الأيونات حرّة الحركة، فيوصل الكهرباء."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przenieść coś z jednego miejsca w inne (transfer)",
+            "silne przyciąganie między jonem dodatnim a jonem ujemnym (ionic bond)",
+            "ogromny regularny układ jonów (lattice)",
+            "związany z przyciąganiem między ładunkami dodatnimi i ujemnymi (electrostatic)",
+            "symbole, które pokazują, jakie atomy lub jony są w związku i w jakim stosunku (formula)"
+          ],
+          "passage": [
+            "Atom metalu i atom niemetalu mogą ze sobą reagować.",
+            "Atom metalu oddaje jeden lub więcej elektronów atomowi niemetalu.",
+            "Nazywa się to przeniesieniem elektronów (electron transfer).",
+            "Metal staje się jonem dodatnim.",
+            "Niemetal staje się jonem ujemnym.",
+            "Przeciwne ładunki się przyciągają, więc jony ciągną do siebie.",
+            "To silne przyciąganie nazywa się wiązaniem jonowym (ionic bond).",
+            "Miliony jonów upakowują się razem w regularny układ zwany siecią krystaliczną (giant lattice).",
+            "Sól kuchenna, chlorek sodu, to olbrzymia sieć jonowa.",
+            "Potrzeba dużo energii, żeby rozerwać jony, więc topi się w 801 °C.",
+            "Stała sól nie przewodzi prądu, bo jej jony nie mogą się ruszać.",
+            "Kiedy sól topi się lub rozpuszcza, jony mogą się swobodnie ruszać, więc przewodzi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "mover algo de um lugar para outro (transfer, transferir)",
+            "a atração forte entre um ião/íon positivo e um ião/íon negativo (ionic bond, ligação iónica/iônica)",
+            "um enorme padrão regular de iões/íons (lattice, rede cristalina)",
+            "relacionado com a atração entre cargas positivas e negativas (electrostatic, eletrostático)",
+            "os símbolos que mostram que átomos ou iões/íons há num composto e em que proporção (formula, fórmula)"
+          ],
+          "passage": [
+            "Um átomo de metal e um átomo de não metal podem reagir um com o outro.",
+            "O átomo de metal dá um ou mais eletrões/elétrons ao átomo de não metal.",
+            "A isto chama-se transferência de eletrões/elétrons (electron transfer).",
+            "O metal passa a ser um ião/íon positivo.",
+            "O não metal passa a ser um ião/íon negativo.",
+            "Cargas opostas atraem-se, por isso os iões/íons puxam-se uns para os outros.",
+            "Esta atração forte chama-se ligação iónica/iônica (ionic bond).",
+            "Milhões de iões/íons juntam-se num padrão regular chamado rede gigante (giant lattice).",
+            "O sal de cozinha, cloreto de sódio, é uma rede iónica/iônica gigante.",
+            "É preciso muita energia para separar os iões/íons, por isso ele funde a 801 °C.",
+            "O sal sólido não conduz eletricidade, porque os seus iões/íons não se conseguem mover.",
+            "Quando o sal funde ou se dissolve, os iões/íons ficam livres para se mover, e por isso conduz."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax hal meel ka dhaqaajin oo meel kale geyn (transfer)",
+            "isjiidadka xoogga leh ee u dhexeeya ion togan iyo ion taban (ionic bond)",
+            "qaab nidaamsan oo aad u weyn oo ions ah (lattice)",
+            "la xiriira isjiidadka u dhexeeya shixnadaha togan iyo taban (electrostatic)",
+            "calaamadaha muujinaya atoms ama ions ku jira isku-dar (compound) iyo saamigooda (formula)"
+          ],
+          "passage": [
+            "Atom bir iyo atom aan bir ahayn way isla falcelin karaan.",
+            "Atom-ka birta wuxuu hal ama in ka badan electrons siiyaa atom-ka aan birta ahayn.",
+            "Tan waxaa la yiraahdaa electron transfer.",
+            "Birtu waxay noqotaa ion togan.",
+            "Kan aan birta ahayn wuxuu noqdaa ion taban.",
+            "Shixnadaha lidka isku ah way is soo jiitaan, sidaas darteed ions-ku way isu soo jiidaan.",
+            "Isjiidadkan xoogga leh waxaa la yiraahdaa ionic bond.",
+            "Malaayiin ions ayaa isku cufmaan qaab nidaamsan oo la yiraahdo giant lattice.",
+            "Cusbada miiska la saaro, oo la yiraahdo sodium chloride, waa giant ionic lattice.",
+            "Tamar badan ayay u baahan tahay in ions-ka la kala jiido, sidaas darteed waxay dhalaashaa 801 °C.",
+            "Cusbo adag koronto ma qaadi karto (conduct), sababtoo ah ions-keedu ma dhaqaaqi karaan.",
+            "Marka cusbadu dhalaasho ama milanto, ions-ku si xor ah way u dhaqaaqi karaan, sidaas darteed koronto way qaaddaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "перемістити щось з одного місця в інше (transfer)",
+            "сильне притягання між позитивним іоном і негативним іоном (ionic bond)",
+            "величезний правильний порядок іонів (lattice)",
+            "пов’язаний із притяганням між позитивними і негативними зарядами (electrostatic)",
+            "символи, які показують, які атоми або іони входять до сполуки і в якому співвідношенні (formula)"
+          ],
+          "passage": [
+            "Атом металу та атом неметалу можуть реагувати між собою.",
+            "Атом металу віддає один або більше електронів атому неметалу.",
+            "Це називається перенесенням електронів (electron transfer).",
+            "Метал стає позитивним іоном.",
+            "Неметал стає негативним іоном.",
+            "Протилежні заряди притягуються, тому іони тягнуться один до одного.",
+            "Це сильне притягання називається іонним зв’язком (ionic bond).",
+            "Мільйони іонів упаковуються разом у правильному порядку, який називається гігантською ґраткою (giant lattice).",
+            "Кухонна сіль, хлорид натрію, — це гігантська іонна ґратка.",
+            "Щоб роз’єднати іони, потрібно багато енергії, тому вона плавиться за 801 °C.",
+            "Тверда сіль не може проводити електричний струм, бо її іони не можуть рухатися.",
+            "Коли сіль плавиться або розчиняється, іони можуть вільно рухатися, тому вона проводить струм."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی چیز کو ایک جگہ سے دوسری جگہ منتقل کرنا (transfer)",
+            "مثبت آئن اور منفی آئن کے بیچ مضبوط کشش (ionic bond)",
+            "آئنوں کی ایک بہت بڑی باقاعدہ ترتیب (lattice)",
+            "مثبت اور منفی چارجوں کے بیچ کشش سے متعلق (electrostatic)",
+            "وہ علامتیں جو دکھاتی ہیں کہ کسی مرکب میں کون سے ایٹم یا آئن ہیں اور کس تناسب میں (formula)"
+          ],
+          "passage": [
+            "دھات کا ایٹم اور غیر دھات کا ایٹم آپس میں تعامل (react) کر سکتے ہیں۔",
+            "دھات کا ایٹم ایک یا زیادہ الیکٹران غیر دھات کے ایٹم کو دے دیتا ہے۔",
+            "اسے الیکٹران کی منتقلی (electron transfer) کہتے ہیں۔",
+            "دھات مثبت آئن بن جاتی ہے۔",
+            "غیر دھات منفی آئن بن جاتی ہے۔",
+            "الٹے چارج ایک دوسرے کو کھینچتے ہیں، اس لیے آئن ایک دوسرے کی طرف کھنچتے ہیں۔",
+            "اس مضبوط کشش کو آئنی بانڈ (ionic bond) کہتے ہیں۔",
+            "لاکھوں آئن ایک باقاعدہ ترتیب میں اکٹھے جم جاتے ہیں جسے giant lattice کہتے ہیں۔",
+            "کھانے کا نمک، سوڈیم کلورائیڈ، ایک giant ionic lattice ہے۔",
+            "آئنوں کو الگ کرنے کے لیے بہت توانائی چاہیے، اس لیے یہ 801 °C پر پگھلتا ہے۔",
+            "ٹھوس نمک بجلی نہیں گزار سکتا، کیونکہ اس کے آئن حرکت نہیں کر سکتے۔",
+            "جب نمک پگھلتا یا حل ہوتا ہے تو آئن حرکت کے لیے آزاد ہوتے ہیں، اس لیے وہ بجلی گزارتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Electron transfer",
@@ -656,8 +1100,168 @@ window.ASTRA_UNITS["combined-bonding"] = {
           "Many are gases at room temperature.",
           "Molecules have no charge, so they do not conduct electricity.",
           "A polymer is a very long molecule made from thousands of small molecules joined together."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تستعملا شيئاً معاً (share)",
+            "زوج من الإلكترونات مشترك بين ذرّتَين (covalent bond)",
+            "مجموعة صغيرة من الذرّات مرتبطة بروابط تساهمية (molecule)",
+            "القوى الضعيفة بين جزيء والجزيء الذي يليه (intermolecular forces)",
+            "جزيء طويل جداً مكوّن من جزيئات صغيرة كثيرة مرتبطة معاً (polymer)"
+          ],
+          "passage": [
+            "ذرّات اللافلزّات لا تتخلّى عن إلكتروناتها.",
+            "بل تتشارك ذرّتان من اللافلزّات زوجاً من الإلكترونات.",
+            "زوج الإلكترونات المشترك هو الرابطة التساهمية (covalent bond).",
+            "كل ذرّة تحسب الزوج المشترك كأنه لها، فتحصل كلتاهما على مدار خارجي مكتمل.",
+            "المجموعة الصغيرة من الذرّات المرتبطة بروابط تساهمية هي الجزيء (molecule).",
+            "الماء، H₂O، جزيء: ذرّة أكسجين واحدة تتشارك مع ذرّتَي هيدروجين.",
+            "الروابط التساهمية قوية.",
+            "لكن القوى بين جزيء والجزيء الذي يليه ضعيفة.",
+            "هذه القوى الضعيفة تُسمّى القوى بين الجزيئات (intermolecular forces).",
+            "تكفي طاقة قليلة لفصل الجزيئات عن بعضها.",
+            "لذلك فإن الجزيئات الصغيرة لها درجات انصهار وغليان منخفضة.",
+            "كثير منها غازات في درجة حرارة الغرفة.",
+            "الجزيئات ليس لها شحنة، لذلك لا توصل الكهرباء.",
+            "البوليمر (polymer) جزيء طويل جداً مكوّن من آلاف الجزيئات الصغيرة المرتبطة معاً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "używać razem (share)",
+            "para elektronów wspólna dla dwóch atomów (covalent bond)",
+            "mała grupa atomów połączonych wiązaniami kowalencyjnymi (molecule)",
+            "słabe siły między jedną cząsteczką a następną (intermolecular forces)",
+            "bardzo długa cząsteczka zbudowana z wielu małych cząsteczek połączonych razem (polymer)"
+          ],
+          "passage": [
+            "Atomy niemetali nie oddają elektronów.",
+            "Zamiast tego dwa atomy niemetali dzielą się parą elektronów.",
+            "Wspólna para elektronów to wiązanie kowalencyjne (covalent bond).",
+            "Każdy atom liczy wspólną parę jako swoją, więc oba mają pełną zewnętrzną powłokę.",
+            "Mała grupa atomów połączonych wiązaniami kowalencyjnymi to cząsteczka (molecule).",
+            "Woda, H₂O, to cząsteczka: jeden atom tlenu dzieli elektrony z dwoma atomami wodoru.",
+            "Wiązania kowalencyjne są silne.",
+            "Ale siły między jedną cząsteczką a następną są słabe.",
+            "Te słabe siły nazywa się siłami międzycząsteczkowymi (intermolecular forces).",
+            "Potrzeba tylko trochę energii, żeby rozdzielić cząsteczki.",
+            "Więc małe cząsteczki mają niskie temperatury topnienia i wrzenia.",
+            "Wiele z nich to gazy w temperaturze pokojowej.",
+            "Cząsteczki nie mają ładunku, więc nie przewodzą prądu.",
+            "Polimer (polymer) to bardzo długa cząsteczka zbudowana z tysięcy małych cząsteczek połączonych razem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "usar em conjunto (share, partilhar/compartilhar)",
+            "um par de eletrões/elétrons partilhado/compartilhado entre dois átomos (covalent bond, ligação covalente)",
+            "um pequeno grupo de átomos unidos por ligações covalentes (molecule, molécula)",
+            "as forças fracas entre uma molécula e a seguinte (intermolecular forces, forças intermoleculares)",
+            "uma molécula muito comprida feita de muitas moléculas pequenas unidas (polymer, polímero)"
+          ],
+          "passage": [
+            "Os átomos de não metal não dão eletrões/elétrons.",
+            "Em vez disso, dois átomos de não metal partilham/compartilham um par de eletrões/elétrons.",
+            "Um par de eletrões/elétrons partilhado/compartilhado é uma ligação covalente (covalent bond).",
+            "Cada átomo conta o par partilhado/compartilhado como seu, e assim os dois ficam com a camada exterior completa.",
+            "Um pequeno grupo de átomos unidos por ligações covalentes é uma molécula (molecule).",
+            "A água, H₂O, é uma molécula: um átomo de oxigénio/oxigênio partilha/compartilha com dois átomos de hidrogénio/hidrogênio.",
+            "As ligações covalentes são fortes.",
+            "Mas as forças entre uma molécula e a seguinte são fracas.",
+            "Estas forças fracas chamam-se forças intermoleculares (intermolecular forces).",
+            "É preciso só um pouco de energia para separar as moléculas.",
+            "Por isso, as moléculas pequenas têm pontos de fusão e de ebulição baixos.",
+            "Muitas são gases à temperatura ambiente.",
+            "As moléculas não têm carga, por isso não conduzem eletricidade.",
+            "Um polímero (polymer) é uma molécula muito comprida feita de milhares de moléculas pequenas unidas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wada isticmaalid (share)",
+            "lammaane electrons ah oo laba atom wadaagaan (covalent bond)",
+            "koox yar oo atoms ah oo covalent bonds isku xiraan (molecule)",
+            "xoogagga daciifka ah ee u dhexeeya hal molecule iyo kan xiga (intermolecular forces)",
+            "molecule aad u dheer oo ka samaysan molecules yaryar oo badan oo isku xiran (polymer)"
+          ],
+          "passage": [
+            "Atoms aan bir ahayn electrons ma bixiyaan.",
+            "Beddelkeeda, laba atom oo aan bir ahayn lammaane electrons ah ayay wadaagaan.",
+            "Lammaane electrons ah oo la wadaago waa covalent bond.",
+            "Atom kastaa lammaanaha la wadaago wuxuu u tiriyaa kiisa, sidaas darteed labaduba qolof dibadeed buuxda ayay helaan.",
+            "Koox yar oo atoms ah oo covalent bonds isku xiraan waa molecule.",
+            "Biyo, H₂O, waa molecule: hal atom oxygen wuxuu la wadaagaa laba atom hydrogen.",
+            "Covalent bonds waa xoog badan yihiin.",
+            "Laakiin xoogagga u dhexeeya hal molecule iyo kan xiga waa daciif.",
+            "Xoogaggan daciifka ah waxaa la yiraahdaa intermolecular forces.",
+            "Tamar yar keliya ayaa loo baahan yahay in molecules la kala jiido.",
+            "Sidaas darteed molecules yaryar waxay leeyihiin melting iyo boiling points hooseeya.",
+            "Qaar badan waa gaas heerkulka qolka.",
+            "Molecules shixnad ma laha, sidaas darteed koronto ma qaadaan.",
+            "Polymer waa molecule aad u dheer oo ka samaysan kumanaan molecules yaryar oo isku xiran."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "користуватися разом (share)",
+            "пара електронів, спільна для двох атомів (covalent bond)",
+            "маленька група атомів, з’єднаних ковалентними зв’язками (molecule)",
+            "слабкі сили між однією молекулою та сусідньою (intermolecular forces)",
+            "дуже довга молекула з багатьох маленьких молекул, з’єднаних разом (polymer)"
+          ],
+          "passage": [
+            "Атоми неметалів не віддають електронів.",
+            "Замість цього два атоми неметалів спільно користуються парою електронів.",
+            "Спільна пара електронів — це ковалентний зв’язок (covalent bond).",
+            "Кожний атом рахує спільну пару як свою, тому обидва отримують заповнену зовнішню оболонку.",
+            "Маленька група атомів, з’єднаних ковалентними зв’язками, — це молекула (molecule).",
+            "Вода, H₂O, — це молекула: один атом кисню ділить електрони з двома атомами водню.",
+            "Ковалентні зв’язки міцні.",
+            "Але сили між однією молекулою та сусідньою слабкі.",
+            "Ці слабкі сили називаються міжмолекулярними силами (intermolecular forces).",
+            "Щоб роз’єднати молекули, потрібно лише трохи енергії.",
+            "Тому маленькі молекули мають низькі температури плавлення й кипіння.",
+            "Багато з них за кімнатної температури є газами.",
+            "Молекули не мають заряду, тому не проводять електричний струм.",
+            "Полімер (polymer) — це дуже довга молекула, утворена з тисяч маленьких молекул, з’єднаних разом."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مل کر استعمال کرنا (share)",
+            "دو ایٹموں کے بیچ مشترک الیکٹرانوں کا ایک جوڑا (covalent bond)",
+            "covalent بانڈوں سے جڑے ایٹموں کا چھوٹا گروہ (molecule)",
+            "ایک مالیکیول اور اگلے مالیکیول کے بیچ کمزور قوتیں (intermolecular forces)",
+            "ایک بہت لمبا مالیکیول جو بہت سے چھوٹے مالیکیولوں کے جڑنے سے بنا ہو (polymer)"
+          ],
+          "passage": [
+            "غیر دھات کے ایٹم الیکٹران دے نہیں دیتے۔",
+            "اس کے بجائے، غیر دھات کے دو ایٹم الیکٹرانوں کا ایک جوڑا مل کر استعمال (share) کرتے ہیں۔",
+            "الیکٹرانوں کا ایک مشترک جوڑا covalent bond ہے۔",
+            "ہر ایٹم مشترک جوڑے کو اپنا شمار کرتا ہے، اس لیے دونوں کا بیرونی خول بھر جاتا ہے۔",
+            "covalent بانڈوں سے جڑے ایٹموں کا چھوٹا گروہ ایک مالیکیول (molecule) ہے۔",
+            "پانی، H₂O، ایک مالیکیول ہے: ایک آکسیجن ایٹم دو ہائیڈروجن ایٹموں کے ساتھ الیکٹران share کرتا ہے۔",
+            "Covalent بانڈ مضبوط ہوتے ہیں۔",
+            "مگر ایک مالیکیول اور اگلے مالیکیول کے بیچ کی قوتیں کمزور ہوتی ہیں۔",
+            "ان کمزور قوتوں کو intermolecular forces کہتے ہیں۔",
+            "مالیکیولوں کو الگ کرنے کے لیے بس تھوڑی سی توانائی چاہیے ہوتی ہے۔",
+            "اس لیے چھوٹے مالیکیولوں کے نقطۂ پگھلاؤ اور نقطۂ کھولاؤ کم ہوتے ہیں۔",
+            "بہت سے کمرے کے درجہ حرارت پر گیس ہوتے ہیں۔",
+            "مالیکیولوں پر کوئی چارج نہیں ہوتا، اس لیے وہ بجلی نہیں گزارتے۔",
+            "Polymer ایک بہت لمبا مالیکیول ہے جو ہزاروں چھوٹے مالیکیولوں کے جڑنے سے بنتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Sharing electrons",
@@ -834,8 +1438,162 @@ window.ASTRA_UNITS["combined-bonding"] = {
           "Each carbon atom has one spare electron that is free to move.",
           "These free electrons let graphite conduct electricity.",
           "Sand is mostly silicon dioxide, another giant covalent structure."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "بنية من ملايين الذرّات المرتبطة كلها معاً (giant structure)",
+            "شكل شديد الصلابة من الكربون ترتبط فيه كل ذرّة بأربع ذرّات أخرى (diamond)",
+            "شكل ليّن من الكربون مكوّن من طبقات (graphite)",
+            "صفيحة مسطّحة من الذرّات (layer)",
+            "إلكترون حرّ الحركة في البنية كلها (delocalised electron)"
+          ],
+          "passage": [
+            "بعض الموادّ مكوّنة من ملايين الذرّات المرتبطة كلها بروابط تساهمية.",
+            "هذه تُسمّى البنى التساهمية العملاقة (giant covalent structures).",
+            "الماس (diamond) مكوّن من ذرّات كربون.",
+            "كل ذرّة كربون مرتبطة بأربع ذرّات كربون أخرى.",
+            "هذا يجعل الماس شديد الصلابة، وله درجة انصهار عالية جداً.",
+            "الماس لا يوصل الكهرباء.",
+            "الغرافيت (graphite) مكوّن أيضاً من ذرّات كربون.",
+            "لكن كل ذرّة كربون مرتبطة بثلاث ذرّات أخرى فقط.",
+            "الذرّات تكوّن طبقات (layers) مسطّحة.",
+            "الطبقات تستطيع أن تنزلق فوق بعضها، لذلك الغرافيت ليّن وزلق.",
+            "كل ذرّة كربون لها إلكترون واحد فائض حرّ الحركة.",
+            "هذه الإلكترونات الحرّة تجعل الغرافيت يوصل الكهرباء.",
+            "الرمل معظمه ثاني أكسيد السيليكون، وهو بنية تساهمية عملاقة أخرى."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "struktura z milionów atomów, wszystkie związane ze sobą (giant structure)",
+            "bardzo twarda odmiana węgla, w której każdy atom wiąże się z czterema innymi (diamond)",
+            "miękka odmiana węgla zbudowana z warstw (graphite)",
+            "płaski arkusz atomów (layer)",
+            "elektron, który może swobodnie poruszać się po całej strukturze (delocalised electron)"
+          ],
+          "passage": [
+            "Niektóre substancje są zbudowane z milionów atomów połączonych wiązaniami kowalencyjnymi.",
+            "Nazywa się je olbrzymimi strukturami kowalencyjnymi (giant covalent structures).",
+            "Diament jest zbudowany z atomów węgla.",
+            "Każdy atom węgla jest połączony z czterema innymi atomami węgla.",
+            "To sprawia, że diament jest bardzo twardy i ma bardzo wysoką temperaturę topnienia.",
+            "Diament nie przewodzi prądu.",
+            "Grafit (graphite) też jest zbudowany z atomów węgla.",
+            "Ale każdy atom węgla jest połączony tylko z trzema innymi.",
+            "Atomy tworzą płaskie warstwy.",
+            "Warstwy mogą ślizgać się po sobie, więc grafit jest miękki i śliski.",
+            "Każdy atom węgla ma jeden wolny elektron, który może się swobodnie poruszać.",
+            "Te wolne elektrony pozwalają grafitowi przewodzić prąd.",
+            "Piasek to głównie dwutlenek krzemu, inna olbrzymia struktura kowalencyjna."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma estrutura de milhões de átomos todos ligados uns aos outros (giant structure, estrutura gigante)",
+            "uma forma muito dura de carbono em que cada átomo se liga a outros quatro (diamond, diamante)",
+            "uma forma macia de carbono feita de camadas (graphite, grafite)",
+            "uma folha plana de átomos (layer, camada)",
+            "um eletrão/elétron livre para se mover por toda a estrutura (delocalised electron, eletrão/elétron deslocalizado)"
+          ],
+          "passage": [
+            "Algumas substâncias são feitas de milhões de átomos todos unidos por ligações covalentes.",
+            "Chamam-se estruturas covalentes gigantes (giant covalent structures).",
+            "O diamante é feito de átomos de carbono.",
+            "Cada átomo de carbono está ligado a outros quatro átomos de carbono.",
+            "Isto torna o diamante muito duro, com um ponto de fusão muito alto.",
+            "O diamante não conduz eletricidade.",
+            "A grafite também é feita de átomos de carbono.",
+            "Mas cada átomo de carbono está ligado a só outros três.",
+            "Os átomos formam camadas planas.",
+            "As camadas conseguem deslizar umas sobre as outras, por isso a grafite é macia e escorregadia.",
+            "Cada átomo de carbono tem um eletrão/elétron a mais que está livre para se mover.",
+            "Estes eletrões/elétrons livres permitem que a grafite conduza eletricidade.",
+            "A areia é sobretudo dióxido de silício, outra estrutura covalente gigante."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhisme malaayiin atoms ah oo dhammaantood isku xiran (giant structure)",
+            "nooc aad u adag oo carbon ah oo atom kastaa afar kale ku xiran yahay (diamond)",
+            "nooc jilicsan oo carbon ah oo lakabyo ka samaysan (graphite)",
+            "xaashi fidsan oo atoms ah (layer)",
+            "electron si xor ah u dhex mari kara dhismaha oo dhan (delocalised electron)"
+          ],
+          "passage": [
+            "Walxaha qaar waxay ka samaysan yihiin malaayiin atoms oo dhammaantood covalent bonds isku xiraan.",
+            "Kuwan waxaa la yiraahdaa giant covalent structures.",
+            "Dheemman (diamond) wuxuu ka samaysan yahay atoms carbon.",
+            "Atom carbon kastaa wuxuu ku xiran yahay afar atom carbon oo kale.",
+            "Tani dheemmanka ayay ka dhigtaa mid aad u adag, oo leh melting point aad u sarreeya.",
+            "Dheemman koronto ma qaado.",
+            "Graphite isna wuxuu ka samaysan yahay atoms carbon.",
+            "Laakiin atom carbon kastaa saddex kale keliya ayuu ku xiran yahay.",
+            "Atoms-ku waxay samaystaan lakabyo fidsan (layers).",
+            "Lakabyadu way is dul simbiriirixan karaan, sidaas darteed graphite waa jilicsan oo simbiriirixan.",
+            "Atom carbon kastaa wuxuu leeyahay hal electron dheeraad ah oo si xor ah u dhaqaaqi kara.",
+            "Electrons-kan xorta ah waxay graphite ka dhigaan inuu koronto qaado.",
+            "Ciiddu inteeda badan waa silicon dioxide, giant covalent structure kale."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "структура з мільйонів атомів, усі з’єднані зв’язками (giant structure)",
+            "дуже тверда форма вуглецю, у якій кожний атом з’єднаний із чотирма іншими (diamond)",
+            "м’яка форма вуглецю, що складається з шарів (graphite)",
+            "плоский лист атомів (layer)",
+            "електрон, який може вільно рухатися по всій структурі (delocalised electron)"
+          ],
+          "passage": [
+            "Деякі речовини складаються з мільйонів атомів, усі з’єднані ковалентними зв’язками.",
+            "Вони називаються гігантськими ковалентними структурами (giant covalent structures).",
+            "Алмаз (diamond) складається з атомів вуглецю.",
+            "Кожний атом вуглецю з’єднаний із чотирма іншими атомами вуглецю.",
+            "Тому алмаз дуже твердий і має дуже високу температуру плавлення.",
+            "Алмаз не проводить електричний струм.",
+            "Графіт (graphite) також складається з атомів вуглецю.",
+            "Але кожний атом вуглецю з’єднаний лише з трьома іншими.",
+            "Атоми утворюють плоскі шари (layers).",
+            "Шари можуть ковзати один по одному, тому графіт м’який і слизький.",
+            "Кожний атом вуглецю має один вільний електрон, який може рухатися.",
+            "Ці вільні електрони дозволяють графіту проводити електричний струм.",
+            "Пісок — це переважно діоксид кремнію, ще одна гігантська ковалентна структура."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لاکھوں ایٹموں کی ساخت جو سب ایک دوسرے سے بانڈ کے ذریعے جڑے ہوں (giant structure)",
+            "کاربن کی ایک بہت سخت شکل جس میں ہر ایٹم چار دوسروں سے جڑا ہو (diamond)",
+            "کاربن کی ایک نرم شکل جو تہوں سے بنی ہو (graphite)",
+            "ایٹموں کی ایک چپٹی چادر (layer)",
+            "ایسا الیکٹران جو پوری ساخت میں حرکت کرنے کے لیے آزاد ہو (delocalised electron)"
+          ],
+          "passage": [
+            "کچھ مادے لاکھوں ایٹموں سے بنے ہیں جو سب covalent بانڈوں سے جڑے ہیں۔",
+            "انھیں giant covalent structures کہتے ہیں۔",
+            "ہیرا (diamond) کاربن کے ایٹموں سے بنا ہے۔",
+            "ہر کاربن ایٹم چار دوسرے کاربن ایٹموں سے جڑا ہوتا ہے۔",
+            "اس سے ہیرا بہت سخت بن جاتا ہے، اور اس کا نقطۂ پگھلاؤ بہت اونچا ہوتا ہے۔",
+            "ہیرا بجلی نہیں گزارتا۔",
+            "گریفائٹ (graphite) بھی کاربن کے ایٹموں سے بنا ہے۔",
+            "مگر ہر کاربن ایٹم صرف تین دوسروں سے جڑا ہوتا ہے۔",
+            "ایٹم چپٹی تہیں (layers) بناتے ہیں۔",
+            "تہیں ایک دوسرے پر پھسل سکتی ہیں، اس لیے گریفائٹ نرم اور چکنا ہوتا ہے۔",
+            "ہر کاربن ایٹم کا ایک فالتو الیکٹران ہوتا ہے جو حرکت کے لیے آزاد ہے۔",
+            "یہ آزاد الیکٹران گریفائٹ کو بجلی گزارنے دیتے ہیں۔",
+            "ریت زیادہ تر سلیکان ڈائی آکسائیڈ ہے، جو ایک اور giant covalent structure ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What makes a structure giant?",
@@ -1009,8 +1767,162 @@ window.ASTRA_UNITS["combined-bonding"] = {
           "This is why metals can be bent and hammered into shape.",
           "An alloy is a mixture of a metal with other elements.",
           "The different sized atoms stop the layers sliding, so alloys are harder."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "التجاذب بين أيونات الفلزّ والإلكترونات الحرّة حولها (metallic bonding)",
+            "غير مثبّت في ذرّة واحدة؛ حرّ الحركة في البنية كلها (delocalised)",
+            "يمكن طرقه أو ضغطه ليأخذ شكلاً جديداً من دون أن ينكسر (malleable)",
+            "مادّة تسمح للكهرباء أو الحرارة بالمرور فيها (conductor)",
+            "خليط من فلزّ مع عناصر أخرى (alloy)"
+          ],
+          "passage": [
+            "الفلزّات مكوّنة من بنى عملاقة من الذرّات المرتّبة في طبقات.",
+            "كل ذرّة فلزّ تتخلّى عن إلكترونات مدارها الخارجي.",
+            "فتصبح الذرّات أيونات فلزّية موجبة.",
+            "والإلكترونات حرّة الحركة في الفلزّ كله.",
+            "نسمّيها بحراً من الإلكترونات الحرّة (delocalised electrons).",
+            "التجاذب بين الأيونات الموجبة والإلكترونات هو الرابطة الفلزّية (metallic bonding).",
+            "وهي قوية، لذلك فإن لمعظم الفلزّات درجات انصهار عالية.",
+            "الإلكترونات الحرّة تحمل الشحنة، لذلك توصل الفلزّات الكهرباء.",
+            "وهي تحمل الطاقة أيضاً، لذلك توصل الفلزّات الحرارة.",
+            "طبقات الأيونات تستطيع أن تنزلق فوق بعضها.",
+            "لهذا يمكن ثني الفلزّات وطرقها لتأخذ شكلاً معيّناً.",
+            "السبيكة (alloy) خليط من فلزّ مع عناصر أخرى.",
+            "الذرّات المختلفة الحجم تمنع الطبقات من الانزلاق، لذلك السبائك أصلب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przyciąganie między jonami metalu a wolnymi elektronami wokół nich (metallic bonding)",
+            "nieprzypisany do jednego atomu; mogący swobodnie poruszać się po całej strukturze (delocalised)",
+            "dający się kuć lub wyginać w nowy kształt bez pękania (malleable)",
+            "materiał, który przepuszcza prąd lub ciepło (conductor)",
+            "mieszanina metalu z innymi pierwiastkami (alloy)"
+          ],
+          "passage": [
+            "Metale są zbudowane z olbrzymich struktur atomów ułożonych w warstwy.",
+            "Każdy atom metalu uwalnia elektrony ze swojej zewnętrznej powłoki.",
+            "Atomy stają się dodatnimi jonami metalu.",
+            "Elektrony mogą swobodnie poruszać się po całym metalu.",
+            "Nazywamy je morzem zdelokalizowanych elektronów (delocalised electrons).",
+            "Przyciąganie między dodatnimi jonami a elektronami to wiązanie metaliczne (metallic bonding).",
+            "Jest silne, więc większość metali ma wysokie temperatury topnienia.",
+            "Wolne elektrony przenoszą ładunek, więc metale przewodzą prąd.",
+            "Przenoszą też energię, więc metale przewodzą ciepło.",
+            "Warstwy jonów mogą ślizgać się po sobie.",
+            "Dlatego metale można wyginać i kuć w kształty.",
+            "Stop (alloy) to mieszanina metalu z innymi pierwiastkami.",
+            "Atomy o różnych rozmiarach nie pozwalają warstwom się ślizgać, więc stopy są twardsze."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a atração entre os iões/íons de metal e os eletrões/elétrons livres à sua volta (metallic bonding, ligação metálica)",
+            "não fixo a um átomo; livre para se mover por toda a estrutura (delocalised, deslocalizado)",
+            "que pode ser martelado ou pressionado para uma nova forma sem se partir (malleable, maleável)",
+            "um material que deixa passar a eletricidade ou o calor (conductor, condutor)",
+            "uma mistura de um metal com outros elementos (alloy, liga)"
+          ],
+          "passage": [
+            "Os metais são feitos de estruturas gigantes de átomos dispostos em camadas.",
+            "Cada átomo de metal larga os eletrões/elétrons da sua camada exterior.",
+            "Os átomos passam a ser iões/íons de metal positivos.",
+            "Os eletrões/elétrons ficam livres para se mover por todo o metal.",
+            "Chamamos-lhes um mar de eletrões/elétrons deslocalizados (delocalised).",
+            "A atração entre os iões/íons positivos e os eletrões/elétrons é a ligação metálica (metallic bonding).",
+            "É forte, por isso a maioria dos metais tem pontos de fusão altos.",
+            "Os eletrões/elétrons livres transportam carga, por isso os metais conduzem eletricidade.",
+            "Também transportam energia, por isso os metais conduzem calor.",
+            "As camadas de iões/íons conseguem deslizar umas sobre as outras.",
+            "É por isso que os metais podem ser dobrados e martelados até ganharem forma.",
+            "Uma liga (alloy) é uma mistura de um metal com outros elementos.",
+            "Os átomos de tamanhos diferentes impedem as camadas de deslizar, por isso as ligas são mais duras."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "isjiidadka u dhexeeya ions bir iyo electrons-ka xorta ah ee ku wareegsan (metallic bonding)",
+            "aan hal atom ku xirnayn; si xor ah u dhex mari kara dhismaha oo dhan (delocalised)",
+            "la dubi karo ama la riixi karo qaab cusub iyadoon jabin (malleable)",
+            "walax koronto ama kulayl dhex mariya (conductor)",
+            "isku-dar bir iyo walxo (elements) kale (alloy)"
+          ],
+          "passage": [
+            "Biraha waxay ka samaysan yihiin dhismayaal waaweyn oo atoms ah oo lakabyo u kala dhigan.",
+            "Atom bir kastaa wuxuu sii daayaa electrons-ka qoloftiisa dibadda.",
+            "Atoms-ku waxay noqdaan ions bir oo togan.",
+            "Electrons-ku si xor ah ayay u dhex mari karaan birta oo dhan.",
+            "Waxaan ugu yeernaa bad electrons delocalised ah.",
+            "Isjiidadka u dhexeeya ions-ka togan iyo electrons-ka waa metallic bonding.",
+            "Waa xoog badan, sidaas darteed biraha badankood waxay leeyihiin melting points sarreeya.",
+            "Electrons-ka xorta ah shixnad ayay qaadaan, sidaas darteed biruhu koronto way qaadaan.",
+            "Sidoo kale tamar ayay qaadaan, sidaas darteed biruhu kulayl way qaadaan.",
+            "Lakabyada ions-ku way is dul simbiriirixan karaan.",
+            "Taasi waa sababta biraha loo qallooci karo oo loo dubi karo qaab.",
+            "Alloy waa isku-dar bir iyo walxo kale.",
+            "Atoms-ka cabbirkooda kala duwan waxay lakabyada ka joojiyaan simbiriirixashada, sidaas darteed alloys way ka adag yihiin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "притягання між іонами металу та вільними електронами навколо них (metallic bonding)",
+            "не закріплений за одним атомом; може вільно рухатися по всій структурі (delocalised)",
+            "такий, що його можна кувати або пресувати в нову форму, не ламаючи (malleable)",
+            "матеріал, який пропускає через себе електричний струм або тепло (conductor)",
+            "суміш металу з іншими елементами (alloy)"
+          ],
+          "passage": [
+            "Метали складаються з гігантських структур атомів, розташованих шарами.",
+            "Кожний атом металу відпускає електрони своєї зовнішньої оболонки.",
+            "Атоми стають позитивними іонами металу.",
+            "Електрони можуть вільно рухатися по всьому металу.",
+            "Ми називаємо їх морем делокалізованих електронів (delocalised electrons).",
+            "Притягання між позитивними іонами та електронами — це металічний зв’язок (metallic bonding).",
+            "Він міцний, тому більшість металів мають високі температури плавлення.",
+            "Вільні електрони переносять заряд, тому метали проводять електричний струм.",
+            "Вони також переносять енергію, тому метали проводять тепло.",
+            "Шари іонів можуть ковзати один по одному.",
+            "Ось чому метали можна гнути й кувати, надаючи їм форму.",
+            "Сплав (alloy) — це суміш металу з іншими елементами.",
+            "Атоми різного розміру не дають шарам ковзати, тому сплави твердіші."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دھات کے آئنوں اور ان کے گرد آزاد الیکٹرانوں کے بیچ کشش (metallic bonding)",
+            "کسی ایک ایٹم سے بندھا ہوا نہیں؛ پوری ساخت میں حرکت کے لیے آزاد (delocalised)",
+            "جسے بغیر ٹوٹے ہتھوڑے سے یا دبا کر نئی شکل دی جا سکے (malleable)",
+            "ایسا مادہ جو بجلی یا گرمی کو اپنے اندر سے گزرنے دے (conductor)",
+            "کسی دھات کا دوسرے عناصر کے ساتھ مرکب (alloy)"
+          ],
+          "passage": [
+            "دھاتیں ایٹموں کی giant structures سے بنی ہیں جو تہوں میں ترتیب دیے ہوتے ہیں۔",
+            "ہر دھات کا ایٹم اپنے بیرونی خول کے الیکٹران چھوڑ دیتا ہے۔",
+            "ایٹم مثبت دھاتی آئن بن جاتے ہیں۔",
+            "الیکٹران پوری دھات میں حرکت کرنے کے لیے آزاد ہوتے ہیں۔",
+            "ہم انھیں delocalised الیکٹرانوں کا سمندر کہتے ہیں۔",
+            "مثبت آئنوں اور الیکٹرانوں کے بیچ کشش metallic bonding ہے۔",
+            "یہ مضبوط ہوتی ہے، اس لیے زیادہ تر دھاتوں کے نقطۂ پگھلاؤ اونچے ہوتے ہیں۔",
+            "آزاد الیکٹران چارج لے جاتے ہیں، اس لیے دھاتیں بجلی گزارتی ہیں۔",
+            "وہ توانائی بھی لے جاتے ہیں، اس لیے دھاتیں گرمی گزارتی ہیں۔",
+            "آئنوں کی تہیں ایک دوسرے پر پھسل سکتی ہیں۔",
+            "اسی لیے دھاتوں کو موڑا جا سکتا ہے اور ہتھوڑے سے شکل دی جا سکتی ہے۔",
+            "بھرت (alloy) کسی دھات کا دوسرے عناصر کے ساتھ مرکب ہے۔",
+            "الگ الگ سائز کے ایٹم تہوں کو پھسلنے سے روکتے ہیں، اس لیے alloys زیادہ سخت ہوتی ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Metallic bonding",

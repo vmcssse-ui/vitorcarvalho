@@ -129,8 +129,162 @@ window.ASTRA_UNITS["englang-opinion"] = {
           "Writing works the same way.",
           "Once you know your audience, choose your tone to suit them.",
           "A review for parents sounds different from a review for teenagers."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ما تفكّر فيه بشأن شيء ما (opinion)",
+            "الناس الذين تكتب لهم (audience)",
+            "السبب الذي تكتب من أجله (purpose)",
+            "نوع النص وسماته (form)",
+            "كيف تبدو كتابتك للقارئ (tone)"
+          ],
+          "passage": [
+            "كتابة الرأي طريقة لإبداء رأيك في كتابة رسمية.",
+            "في هذه الوحدة ستكتب مراجعات (reviews) ومقالات رأي.",
+            "قبل أن تكتب، اطرح ثلاثة أسئلة.",
+            "لمن أكتب؟ هذا هو الجمهور (audience).",
+            "لماذا أكتب هذا؟ هذا هو الهدف (purpose).",
+            "ما نوع هذا النص؟ هذا هو الشكل (form).",
+            "فكّر في بدلة عمل الميكانيكي.",
+            "هدفها حماية شخص يقوم بعمل متّسخ.",
+            "شكلها فيه أكمام طويلة، وقماش قوي، وجيوب كثيرة.",
+            "جمهورها شخص يريد أن يكون مرتاحاً وآمناً.",
+            "الكتابة تعمل بالطريقة نفسها.",
+            "عندما تعرف جمهورك، اختر النغمة (tone) التي تناسبه.",
+            "مراجعة موجّهة للآباء تبدو مختلفة عن مراجعة موجّهة للمراهقين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "to, co myślisz o czymś (opinion)",
+            "ludzie, dla których piszesz (audience)",
+            "powód, dla którego piszesz (purpose)",
+            "rodzaj tekstu i jego cechy (form)",
+            "to, jak twój tekst brzmi dla czytelnika (tone)"
+          ],
+          "passage": [
+            "Pisanie opinii (opinion writing) to sposób wyrażania swojego zdania w formalnym tekście.",
+            "W tym rozdziale będziesz pisać recenzje i artykuły z opinią.",
+            "Zanim zaczniesz pisać, zadaj trzy pytania.",
+            "Dla kogo piszę? To są odbiorcy (audience).",
+            "Dlaczego to piszę? To jest cel (purpose).",
+            "Jaki to rodzaj tekstu? To jest forma (form).",
+            "Pomyśl o kombinezonie mechanika.",
+            "Jego celem jest ochrona kogoś, kto wykonuje brudną pracę.",
+            "Jego forma to długie rękawy, mocny materiał i dużo kieszeni.",
+            "Jego odbiorca to ktoś, kto chce czuć się wygodnie i bezpiecznie.",
+            "Pisanie działa tak samo.",
+            "Kiedy już znasz swoich odbiorców, dobierz ton (tone), który do nich pasuje.",
+            "Recenzja dla rodziców brzmi inaczej niż recenzja dla nastolatków."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o que você pensa sobre alguma coisa (opinion, opinião)",
+            "as pessoas para quem você está a escrever/está escrevendo (audience, público)",
+            "a razão por que você está a escrever/está escrevendo (purpose, propósito)",
+            "o tipo de texto e as suas características (form, forma)",
+            "como o seu texto soa ao leitor (tone, tom)"
+          ],
+          "passage": [
+            "A escrita de opinião (opinion writing) é uma maneira de dar a sua opinião num texto formal.",
+            "Nesta unidade você vai escrever críticas (reviews) e artigos de opinião.",
+            "Antes de escrever, faça três perguntas.",
+            "Para quem estou a escrever/estou escrevendo? Esse é o público.",
+            "Por que estou a escrever/estou escrevendo isto? Esse é o propósito.",
+            "Que tipo de texto é este? Essa é a forma.",
+            "Pense no macacão de um mecânico.",
+            "O propósito dele é proteger alguém que faz um trabalho sujo.",
+            "A forma dele tem mangas compridas, tecido forte e muitos bolsos.",
+            "O público dele é alguém que quer estar confortável e em segurança.",
+            "A escrita funciona da mesma maneira.",
+            "Quando você conhece o seu público, escolha o tom que lhe convém.",
+            "Uma crítica para pais soa diferente de uma crítica para adolescentes."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waxa aad ka fikirto wax uun (opinion)",
+            "dadka aad u qorayso (audience)",
+            "sababta aad u qorayso (purpose)",
+            "nooca qoraalka iyo astaamihiisa (form)",
+            "sida qoraalkaagu akhristaha u dhawaaqo (tone)"
+          ],
+          "passage": [
+            "Qoraalka ra'yiga (opinion writing) waa hab aad ra'yigaaga ku sheegto qoraal rasmi ah.",
+            "Cutubkan waxaad ku qori doontaa dib-u-eegisyo (reviews) iyo maqaallo ra'yi.",
+            "Intaadan qorin, saddex su'aalood is weydii.",
+            "Yaan u qorayaa? Taasi waa dadka loo qorayo (audience).",
+            "Maxaan u qorayaa tan? Taasi waa ujeeddada (purpose).",
+            "Nooce qoraal ayuu yahay? Taasi waa qaabka (form).",
+            "Ka fikir dharka shaqo ee makaanigga.",
+            "Ujeeddadoodu waa in ay ilaaliyaan qof shaqo wasakh leh samaynaya.",
+            "Qaabkoodu wuxuu leeyahay gacmo dhaadheer, maro adag iyo jeebab badan.",
+            "Dadka loogu talagalay waa qof doonaya inuu raaxaysto oo ammaan ahaado.",
+            "Qoraalkuna sidaas oo kale ayuu u shaqeeyaa.",
+            "Markaad ogaato dadka aad u qorayso, dooro cod (tone) ku habboon iyaga.",
+            "Dib-u-eegis waalidiinta loo qoray si ka duwan ayuu u dhawaaqaa mid dhallinyarada loo qoray."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що ви думаєте про щось (opinion)",
+            "люди, для яких ви пишете (audience)",
+            "причина, чому ви пишете (purpose)",
+            "тип тексту та його ознаки (form)",
+            "те, як ваш текст звучить для читача (tone)"
+          ],
+          "passage": [
+            "Письмо-думка (opinion writing) — це спосіб висловити свою думку у формальному тексті.",
+            "У цьому розділі ви писатимете рецензії (reviews) та статті-думки (opinion articles).",
+            "Перш ніж писати, поставте три запитання.",
+            "Для кого я пишу? Це аудиторія (audience).",
+            "Чому я це пишу? Це мета (purpose).",
+            "Який це тип тексту? Це форма (form).",
+            "Подумайте про робочий комбінезон механіка.",
+            "Його мета — захистити того, хто виконує брудну роботу.",
+            "Його форма має довгі рукави, міцну тканину та багато кишень.",
+            "Його аудиторія — це той, хто хоче почуватися зручно й безпечно.",
+            "Письмо працює так само.",
+            "Коли ви знаєте свою аудиторію, оберіть тон (tone), який їй підходить.",
+            "Рецензія для батьків звучить інакше, ніж рецензія для підлітків."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "آپ کسی چیز کے بارے میں کیا سوچتے ہیں (opinion)",
+            "وہ لوگ جن کے لیے آپ لکھ رہے ہیں (audience)",
+            "آپ کے لکھنے کی وجہ (purpose)",
+            "متن کی قسم اور اس کی خصوصیات (form)",
+            "آپ کی تحریر قاری کو کیسی لگتی ہے (tone)"
+          ],
+          "passage": [
+            "رائے کی تحریر (opinion writing) رسمی تحریر میں اپنی رائے دینے کا ایک طریقہ ہے۔",
+            "اس یونٹ میں آپ تبصرے (reviews) اور رائے کے مضمون لکھیں گے۔",
+            "لکھنے سے پہلے تین سوال پوچھیں۔",
+            "میں کس کے لیے لکھ رہا ہوں؟ یہ قاری (audience) ہے۔",
+            "میں یہ کیوں لکھ رہا ہوں؟ یہ مقصد (purpose) ہے۔",
+            "یہ کس قسم کا متن ہے؟ یہ قسم (form) ہے۔",
+            "ایک مکینک کے کام کے لباس (overalls) کے بارے میں سوچیں۔",
+            "ان کا مقصد گندا کام کرنے والے شخص کی حفاظت کرنا ہے۔",
+            "ان کی بناوٹ میں لمبی آستینیں، مضبوط کپڑا اور بہت سی جیبیں ہیں۔",
+            "ان کا استعمال کرنے والا وہ شخص ہے جو آرام اور حفاظت چاہتا ہے۔",
+            "تحریر بھی اسی طرح کام کرتی ہے۔",
+            "جب آپ کو اپنے قاری کا پتا ہو جائے تو اپنا لہجہ (tone) ان کے مطابق چنیں۔",
+            "والدین کے لیے لکھا تبصرہ نوعمروں کے لیے لکھے تبصرے سے الگ لگتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "What opinion writing is",
           paragraphs: [
@@ -272,8 +426,168 @@ window.ASTRA_UNITS["englang-opinion"] = {
           "The last paragraph gives a clear judgement.",
           "Short website reviews have word limits, so they are not good models.",
           "A full review goes into much more detail."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخص يكتب المراجعات (critic)",
+            "العنوان في أعلى المراجعة أو المقال (headline)",
+            "قصة شخصية قصيرة (anecdote)",
+            "مختلف عن شيء، أو معاكس له (contrasting)",
+            "قرارك النهائي بشأن شيء ما (judgement)"
+          ],
+          "passage": [
+            "المراجعة (review) يكتبها ناقد (critic).",
+            "يخبرنا الناقد بما عاشه ولماذا كوّن رأيه.",
+            "المراجعة تُخبر القارئ وتساعده على أن يقرّر.",
+            "الخطبة شيء مختلف.",
+            "الخطبة تُقال أمام جمهور حاضر وتحاول أن تُقنعه.",
+            "إذا كانت مراجعتك رأياً فقط، فإنها تبدأ تبدو مثل خطبة.",
+            "المراجعة لها عنوان رئيسي (headline).",
+            "وتستعمل الزمن الماضي لوصف التجربة.",
+            "وفيها فقرات قصيرة مليئة بالمعلومات.",
+            "وتتضمّن آراء الآخرين إلى جانب رأيك.",
+            "وتعطي تفاصيل محدّدة عن هذا الحدث بالذات.",
+            "الفقرة الأخيرة تعطي حكماً (judgement) واضحاً.",
+            "مراجعات المواقع القصيرة لها حدود في عدد الكلمات، ولذلك ليست نماذج جيدة.",
+            "المراجعة الكاملة تدخل في تفاصيل أكثر بكثير."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osoba, która pisze recenzje (critic)",
+            "tytuł u góry recenzji lub artykułu (headline)",
+            "krótka osobista historia (anecdote)",
+            "różniący się od czegoś albo przeciwny do czegoś (contrasting)",
+            "twoja ostateczna decyzja na temat czegoś (judgement)"
+          ],
+          "passage": [
+            "Recenzję pisze krytyk (critic).",
+            "Krytyk mówi nam, czego doświadczył i dlaczego wyrobił sobie taką opinię.",
+            "Recenzja informuje czytelnika i pomaga mu podjąć decyzję.",
+            "Przemowa jest inna.",
+            "Przemowę wygłasza się do żywej publiczności i próbuje się ją przekonać.",
+            "Jeśli twoja recenzja to sama opinia, zaczyna brzmieć jak przemowa.",
+            "Recenzja ma nagłówek (headline).",
+            "Używa czasu przeszłego, żeby opisać doświadczenie.",
+            "Ma krótkie akapity pełne informacji.",
+            "Zawiera opinie innych ludzi, a nie tylko twoją.",
+            "Podaje konkretne szczegóły o tym jednym wydarzeniu.",
+            "Ostatni akapit daje jasną ocenę (judgement).",
+            "Krótkie recenzje w internecie mają limity słów, więc nie są dobrymi wzorami.",
+            "Pełna recenzja wchodzi w dużo więcej szczegółów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pessoa que escreve críticas (critic, crítico)",
+            "o título no topo de uma crítica ou de um artigo (headline, manchete)",
+            "uma história pessoal curta (anecdote, anedota)",
+            "diferente de, ou oposto a (contrasting, contrastante)",
+            "a sua decisão final sobre alguma coisa (judgement, juízo)"
+          ],
+          "passage": [
+            "Uma crítica (review) é escrita por um crítico.",
+            "O crítico conta-nos o que viveu e por que formou a sua opinião.",
+            "Uma crítica informa o leitor e ajuda-o a decidir.",
+            "Um discurso é diferente.",
+            "Um discurso é dito a um público ao vivo e tenta persuadi-lo.",
+            "Se a sua crítica for só opinião, começa a soar como um discurso.",
+            "Uma crítica tem uma manchete (headline).",
+            "Usa o passado para descrever a experiência.",
+            "Tem parágrafos curtos, cheios de informação.",
+            "Inclui as opiniões de outras pessoas, além da sua.",
+            "Dá detalhes específicos sobre esse acontecimento em particular.",
+            "O último parágrafo dá um juízo claro.",
+            "As críticas curtas dos sites têm limites de palavras, por isso não são bons modelos.",
+            "Uma crítica completa entra em muito mais detalhe."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qof dib-u-eegisyo qora (critic)",
+            "cinwaanka saaran dib-u-eegis ama maqaal (headline)",
+            "sheeko gaaban oo shakhsi ah (anecdote)",
+            "ka duwan, ama lid ku ah (contrasting)",
+            "go'aankaaga ugu dambeeya ee ku saabsan wax uun (judgement)"
+          ],
+          "passage": [
+            "Dib-u-eegis (review) waxaa qora critic.",
+            "Critic-gu wuxuu noo sheegaa waxa uu la kulmay iyo sababta uu ra'yigaas u qaatay.",
+            "Dib-u-eegis akhristaha ayuu wargeliyaa, wuxuuna ka caawiyaa inuu go'aan gaaro.",
+            "Khudbad way ka duwan tahay.",
+            "Khudbad waxaa loola hadlaa dad hortaada jooga, waxayna isku daydaa inay qanciso.",
+            "Haddii dib-u-eegiskaagu ra'yi keliya yahay, wuxuu bilaabayaa inuu u dhawaaqo sida khudbad.",
+            "Dib-u-eegis wuxuu leeyahay cinwaan weyn (headline).",
+            "Wuxuu isticmaalaa waqtigii tegay (past tense) si uu u sharraxo waxa la la kulmay.",
+            "Wuxuu leeyahay baaragaraafyo gaagaaban oo macluumaad ka buuxo.",
+            "Wuxuu ku daraa ra'yiga dadka kale iyo kaaga.",
+            "Wuxuu bixiyaa faahfaahin gaar ah oo ku saabsan hal dhacdo.",
+            "Baaragaraafka ugu dambeeya wuxuu bixiyaa go'aan cad (judgement).",
+            "Dib-u-eegisyada gaagaaban ee websaydhyada waxay leeyihiin xadka erayada, sidaas darteed ma aha tusaalayaal wanaagsan.",
+            "Dib-u-eegis buuxa faahfaahin aad u badan ayuu galaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "людина, яка пише рецензії (critic)",
+            "заголовок угорі рецензії або статті (headline)",
+            "коротка особиста історія (anecdote)",
+            "відмінний від чогось або протилежний (contrasting)",
+            "ваше остаточне рішення про щось (judgement)"
+          ],
+          "passage": [
+            "Рецензію (review) пише критик (critic).",
+            "Критик розповідає нам, що він пережив і чому в нього склалася така думка.",
+            "Рецензія інформує читача і допомагає йому вирішити.",
+            "Промова — це інше.",
+            "Промову виголошують перед живою аудиторією і намагаються її переконати.",
+            "Якщо ваша рецензія — це лише думка, вона починає звучати як промова.",
+            "Рецензія має заголовок (headline).",
+            "Вона використовує минулий час, щоб описати пережите.",
+            "Вона має короткі абзаци, повні інформації.",
+            "Вона включає думки інших людей, а не лише вашу.",
+            "Вона дає конкретні деталі саме про цю одну подію.",
+            "Останній абзац дає чітку оцінку (judgement).",
+            "Короткі відгуки на сайтах мають обмеження за кількістю слів, тому вони не є добрими зразками.",
+            "Повна рецензія заглиблюється в набагато більше деталей."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جو تبصرے لکھتا ہے (critic)",
+            "تبصرے یا مضمون کے اوپر لکھا عنوان (headline)",
+            "ایک چھوٹی ذاتی کہانی (anecdote)",
+            "الگ، یا الٹ (contrasting)",
+            "کسی چیز کے بارے میں آپ کا آخری فیصلہ (judgement)"
+          ],
+          "passage": [
+            "تبصرہ (review) ایک نقاد (critic) لکھتا ہے۔",
+            "نقاد ہمیں بتاتا ہے کہ اس نے کیا تجربہ کیا اور اس نے اپنی رائے کیوں بنائی۔",
+            "تبصرہ قاری کو معلومات دیتا ہے اور فیصلہ کرنے میں مدد کرتا ہے۔",
+            "تقریر الگ چیز ہے۔",
+            "تقریر سامنے موجود سننے والوں سے بولی جاتی ہے اور انھیں قائل کرنے کی کوشش کرتی ہے۔",
+            "اگر آپ کا تبصرہ صرف رائے ہو تو وہ تقریر جیسا لگنے لگتا ہے۔",
+            "تبصرے کی ایک سرخی (headline) ہوتی ہے۔",
+            "یہ تجربہ بیان کرنے کے لیے ماضی کا زمانہ استعمال کرتا ہے۔",
+            "اس میں چھوٹے پیراگراف ہوتے ہیں جو معلومات سے بھرے ہوتے ہیں۔",
+            "اس میں آپ کی رائے کے ساتھ دوسرے لوگوں کی رائے بھی شامل ہوتی ہے۔",
+            "یہ اسی ایک واقعے کے بارے میں خاص تفصیلیں دیتا ہے۔",
+            "آخری پیراگراف ایک صاف فیصلہ (judgement) دیتا ہے۔",
+            "ویب سائٹ کے چھوٹے تبصروں میں لفظوں کی حد ہوتی ہے، اس لیے وہ اچھے نمونے نہیں ہیں۔",
+            "مکمل تبصرہ کہیں زیادہ تفصیل میں جاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "A review is written by a critic",
           paragraphs: [
@@ -412,8 +726,168 @@ window.ASTRA_UNITS["englang-opinion"] = {
           "Then open with a hook.",
           "You could ask a question, set the scene, use a triple, or speak to your reader.",
           "A good opening makes the reader want more."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المهمّة التي تخبرك بما تكتبه (prompt)",
+            "شيء يحدث، كبيراً كان أو صغيراً (event)",
+            "افتتاحية تجذب القارئ (hook)",
+            "سؤال يُطرح للتأثير، لا للحصول على جواب (rhetorical question)",
+            "ثلاثة أشياء متتالية (triple)"
+          ],
+          "passage": [
+            "تخيّل أن المهمّة (prompt) تقول: اكتب مراجعة عن حدث مثير حضرته.",
+            "اسأل أولاً عن الشكل المطلوب: مراجعة.",
+            "ثم اسأل عن الهدف والجمهور والنغمة.",
+            "كثير من التلاميذ يقولون إنهم لم يحضروا حدثاً مثيراً أبداً.",
+            "بل حضرت.",
+            "العشاء حدث.",
+            "نزهة العائلة حدث.",
+            "عيد الميلاد حدث.",
+            "لا يُحكم عليك بمدى روعة تجربتك.",
+            "بل يُحكم عليك بطريقة كتابتك عنها.",
+            "لا يوجد شيء اسمه «أنا عالق»، بل مجرّد تفكير صعب.",
+            "ثم ابدأ بجاذب (hook).",
+            "يمكنك أن تطرح سؤالاً، أو ترسم المشهد، أو تستعمل ثلاثية (triple)، أو تخاطب قارئك.",
+            "الافتتاحية الجيدة تجعل القارئ يريد المزيد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "polecenie, które mówi ci, co napisać (prompt)",
+            "coś, co się dzieje, duże albo małe (event)",
+            "początek, który chwyta czytelnika (hook)",
+            "pytanie zadane dla efektu, a nie po odpowiedź (rhetorical question)",
+            "trzy rzeczy pod rząd (triple)"
+          ],
+          "passage": [
+            "Wyobraź sobie, że polecenie mówi: napisz recenzję ekscytującego wydarzenia, w którym brałeś udział.",
+            "Najpierw zapytaj, jakiej formy chce: recenzji.",
+            "Potem zapytaj o cel, odbiorców i ton.",
+            "Wielu uczniów mówi, że nigdy nie byli na ekscytującym wydarzeniu.",
+            "Owszem, byliście.",
+            "Obiad to wydarzenie.",
+            "Rodzinny spacer to wydarzenie.",
+            "Urodziny to wydarzenie.",
+            "Nie ocenia się cię za to, jak fajne było twoje doświadczenie.",
+            "Ocenia się cię za to, jak o nim piszesz.",
+            "Nie ma czegoś takiego jak „utknąłem”, jest tylko trudne myślenie.",
+            "Potem zacznij od haczyka (hook).",
+            "Możesz zadać pytanie, nakreślić scenę, użyć trójki albo zwrócić się do czytelnika.",
+            "Dobry początek sprawia, że czytelnik chce więcej."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a tarefa que diz o que você deve escrever (prompt, enunciado)",
+            "algo que acontece, grande ou pequeno (event, acontecimento)",
+            "um início que agarra o leitor (hook)",
+            "uma pergunta feita para causar efeito, não para ter resposta (rhetorical question, pergunta retórica)",
+            "três coisas seguidas (triple)"
+          ],
+          "passage": [
+            "Imagine que o enunciado diz: escreva uma crítica de um acontecimento emocionante a que você foi.",
+            "Primeiro pergunte que forma ele quer: uma crítica.",
+            "Depois pergunte o propósito, o público e o tom.",
+            "Muitos alunos dizem que nunca foram a um acontecimento emocionante.",
+            "Sim, você foi.",
+            "Um jantar é um acontecimento.",
+            "Um passeio em família é um acontecimento.",
+            "Um aniversário é um acontecimento.",
+            "Você não é avaliado pelo quanto a sua experiência foi incrível.",
+            "Você é avaliado pela maneira como escreve sobre ela.",
+            "Não existe ‘estar bloqueado’, só pensar com esforço.",
+            "Depois comece com um hook.",
+            "Você pode fazer uma pergunta, descrever a cena, usar uma lista de três, ou falar com o seu leitor.",
+            "Um bom início faz o leitor querer mais."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "hawsha kuu sheegaysa waxa aad qorto (prompt)",
+            "wax dhacaya, weyn ama yar (event)",
+            "bilow akhristaha qabsata (hook)",
+            "su'aal saamayn loo weydiiyo, oo aan jawaab loo baahnayn (rhetorical question)",
+            "saddex wax oo isku xigta (triple)"
+          ],
+          "passage": [
+            "Qiyaas in hawshu (prompt) tiraahdo: qor dib-u-eegis ku saabsan dhacdo xiiso leh oo aad ka qaybgashay.",
+            "Marka hore is weydii nooca qoraalka ay doonayso: dib-u-eegis.",
+            "Kadibna is weydii ujeeddada, dadka loo qorayo iyo codka.",
+            "Arday badan waxay yiraahdaan weligood dhacdo xiiso leh ma tegin.",
+            "Haa, waad tagtay.",
+            "Casho waa dhacdo.",
+            "Socod qoys waa dhacdo.",
+            "Dhalasho waa dhacdo.",
+            "Laguma qiimaynayo sida waayo-aragnimadaadu u fiicnayd.",
+            "Waxaa lagu qiimaynayaa sida aad wax uga qorto.",
+            "Wax la yiraahdo 'waan istaagay' ma jiro, waa fikir adag keliya.",
+            "Kadibna ku bilow hook.",
+            "Waxaad su'aal weydiin kartaa, goobta sawiri kartaa, saddex-geesood (triple) isticmaali kartaa, ama akhristahaaga la hadli kartaa.",
+            "Bilow wanaagsan akhristaha ayuu ka dhigaa inuu wax dheeraad ah rabo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "завдання, яке говорить вам, що писати (prompt)",
+            "те, що відбувається, велике чи мале (event)",
+            "початок, який захоплює читача (hook)",
+            "запитання, поставлене для ефекту, а не для відповіді (rhetorical question)",
+            "три речі поспіль (triple)"
+          ],
+          "passage": [
+            "Уявіть, що завдання (prompt) каже: напишіть рецензію на захопливу подію, на якій ви були.",
+            "Спочатку запитайте, якої форми воно хоче: рецензії.",
+            "Потім запитайте про мету, аудиторію та тон.",
+            "Багато учнів кажуть, що ніколи не були на захопливій події.",
+            "Так, були.",
+            "Вечеря — це подія.",
+            "Сімейна прогулянка — це подія.",
+            "День народження — це подія.",
+            "Вас оцінюють не за те, наскільки крутою була ваша подія.",
+            "Вас оцінюють за те, як ви про неї пишете.",
+            "Немає такого поняття, як «застряг», є лише напружене думання.",
+            "Потім почніть із зачіпки (hook).",
+            "Ви можете поставити запитання, описати сцену, використати трійку (triple) або звернутися до читача.",
+            "Добрий початок змушує читача хотіти більше."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ کام جو بتاتا ہے کہ آپ کو کیا لکھنا ہے (prompt)",
+            "کوئی چیز جو ہوتی ہے، بڑی یا چھوٹی (event)",
+            "ایسی شروعات جو قاری کو پکڑ لے (hook)",
+            "ایسا سوال جو اثر کے لیے پوچھا جائے، جواب کے لیے نہیں (rhetorical question)",
+            "ایک ساتھ تین چیزیں (triple)"
+          ],
+          "passage": [
+            "فرض کریں سوال (prompt) کہتا ہے: کسی دلچسپ تقریب کا تبصرہ لکھیں جس میں آپ گئے تھے۔",
+            "پہلے پوچھیں کہ یہ کون سی قسم چاہتا ہے: تبصرہ۔",
+            "پھر مقصد، قاری اور لہجے کے بارے میں پوچھیں۔",
+            "بہت سے طلبہ کہتے ہیں کہ وہ کبھی کسی دلچسپ تقریب میں نہیں گئے۔",
+            "جی ہاں، آپ گئے ہیں۔",
+            "رات کا کھانا ایک تقریب (event) ہے۔",
+            "گھر والوں کے ساتھ چہل قدمی ایک تقریب ہے۔",
+            "سالگرہ ایک تقریب ہے۔",
+            "آپ کو اس بات پر نمبر نہیں ملتے کہ آپ کا تجربہ کتنا شاندار تھا۔",
+            "آپ کو اس بات پر نمبر ملتے ہیں کہ آپ اس کے بارے میں کیسے لکھتے ہیں۔",
+            "اٹک جانا کوئی چیز نہیں، بس مشکل سوچ ہوتی ہے۔",
+            "پھر ایک hook سے شروع کریں۔",
+            "آپ سوال پوچھ سکتے ہیں، منظر بنا سکتے ہیں، تین چیزوں کا سلسلہ (triple) استعمال کر سکتے ہیں، یا اپنے قاری سے بات کر سکتے ہیں۔",
+            "اچھی شروعات قاری میں اور پڑھنے کی خواہش پیدا کرتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Read the prompt like a planner",
           paragraphs: [
@@ -547,8 +1021,162 @@ window.ASTRA_UNITS["englang-opinion"] = {
           "Sixteen marks are for spelling, punctuation and sentences.",
           "Show your feelings through details instead of just naming them.",
           "Use the five senses to put the reader beside you."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ترتيب أجزاء كتابتك (structure)",
+            "الجزء الذي يعطي الحقائق والتفاصيل الأساسية (description)",
+            "الموازنة بين الجيد والسيّئ (analysis)",
+            "نصيحتك: هل ينبغي للقارئ أن يذهب أم لا (recommendation)",
+            "ما يتعلّق بالحواس الخمس (sensory)"
+          ],
+          "passage": [
+            "المراجعة لها خمسة أجزاء.",
+            "المقدّمة ترسم المشهد والنغمة.",
+            "الوصف (description) يعطي الحقائق والتفاصيل الأساسية التي يريدها جمهورك.",
+            "جزء التجربة الشخصية يُحيي الحدث.",
+            "هل كان الحدث مثل ما توقّعته؟",
+            "التحليل (analysis) يوازن بين الجيد والسيّئ.",
+            "أعطِ رأياً متوازناً.",
+            "الخاتمة تقول هل توصي به أم لا، ولماذا.",
+            "تُصحّح مراجعتك من أربعين علامة.",
+            "أربع وعشرون علامة لما تكتبه وكيف تنظّمه.",
+            "وستّ عشرة علامة للإملاء وعلامات الترقيم والجمل.",
+            "أظهر مشاعرك من خلال التفاصيل بدلاً من مجرّد تسميتها.",
+            "استعمل الحواس الخمس لتضع القارئ بجانبك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kolejność części twojego tekstu (structure)",
+            "część, która podaje kluczowe fakty i szczegóły (description)",
+            "ważenie tego, co dobre i co złe (analysis)",
+            "twoja rada: czy czytelnik powinien iść, czy nie (recommendation)",
+            "związany z pięcioma zmysłami (sensory)"
+          ],
+          "passage": [
+            "Recenzja ma pięć części.",
+            "Wstęp nakreśla scenę i ton.",
+            "Opis (description) podaje kluczowe fakty i szczegóły, których chcą twoi odbiorcy.",
+            "Część o osobistym doświadczeniu ożywia wydarzenie.",
+            "Czy wydarzenie było takie, jak się spodziewałeś?",
+            "Analiza (analysis) waży to, co dobre i co złe.",
+            "Podaj wyważoną opinię.",
+            "Zakończenie mówi, czy polecasz to wydarzenie i dlaczego.",
+            "Twoja recenzja jest oceniana na czterdzieści punktów.",
+            "Dwadzieścia cztery punkty są za to, co piszesz i jak to porządkujesz.",
+            "Szesnaście punktów jest za ortografię, interpunkcję i budowę zdań.",
+            "Pokazuj swoje uczucia przez szczegóły, zamiast je tylko nazywać.",
+            "Używaj pięciu zmysłów, żeby postawić czytelnika obok siebie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a ordem das partes do seu texto (structure, estrutura)",
+            "a parte que dá os factos/fatos e detalhes principais (description, descrição)",
+            "pesar o que foi bom e o que foi mau (analysis, análise)",
+            "o seu conselho: o leitor deve ir, ou não (recommendation, recomendação)",
+            "relacionado com os cinco sentidos (sensory, sensorial)"
+          ],
+          "passage": [
+            "Uma crítica tem cinco partes.",
+            "A introdução apresenta a cena e o tom.",
+            "A descrição dá os factos/fatos e detalhes principais que o seu público quer.",
+            "A parte da experiência pessoal dá vida ao acontecimento.",
+            "O acontecimento foi como você esperava?",
+            "A análise pesa o que foi bom e o que foi mau.",
+            "Dê uma opinião equilibrada.",
+            "A conclusão diz se você o recomenda, e por quê.",
+            "A sua crítica é avaliada de zero a quarenta.",
+            "Vinte e quatro pontos são para o que você escreve e como organiza.",
+            "Dezesseis/Dezasseis pontos são para a ortografia, a pontuação e as frases.",
+            "Mostre os seus sentimentos através de detalhes, em vez de só os nomear.",
+            "Use os cinco sentidos para pôr o leitor ao seu lado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida qaybaha qoraalkaagu u kala horreeyaan (structure)",
+            "qaybta bixisa xaqiiqooyinka iyo faahfaahinta muhiimka ah (description)",
+            "miisaamidda wanaagga iyo xumaanta (analysis)",
+            "taladaada: akhristuhu ma tagaa, mise maya (recommendation)",
+            "la xiriira shanta dareen (sensory)"
+          ],
+          "passage": [
+            "Dib-u-eegis wuxuu leeyahay shan qaybood.",
+            "Hordhacu wuxuu sawiraa goobta iyo codka.",
+            "Sharraxaaddu (description) waxay bixisaa xaqiiqooyinka iyo faahfaahinta muhiimka ah ee dadkaagu rabaan.",
+            "Qaybta waayo-aragnimada shakhsi ahaaneed dhacdada ayay nooleysaa.",
+            "Dhacdadu ma la mid noqotay waxa aad filaysay?",
+            "Falanqayntu (analysis) waxay miisaantaa wanaagga iyo xumaanta.",
+            "Bixi ra'yi dheelitiran.",
+            "Gabagabadu waxay sheegtaa inaad ku talinayso iyo in kale, iyo sababta.",
+            "Dib-u-eegiskaaga afartan dhibcood ayaa laga bixiyaa.",
+            "Afar iyo labaatan dhibcood waxay u yihiin waxa aad qorto iyo sida aad u habayso.",
+            "Lix iyo toban dhibcood waxay u yihiin higgaadda, calaamadaynta iyo weedhaha.",
+            "Dareenkaaga faahfaahin ku muuji halkii aad magacaabi lahayd keliya.",
+            "Isticmaal shanta dareen si akhristaha agtaada u keento."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "порядок частин вашого тексту (structure)",
+            "частина, яка дає головні факти та деталі (description)",
+            "зважування доброго і поганого (analysis)",
+            "ваша порада: чи варто читачеві йти, чи ні (recommendation)",
+            "пов’язаний із п’ятьма чуттями (sensory)"
+          ],
+          "passage": [
+            "Рецензія має п’ять частин.",
+            "Вступ задає сцену і тон.",
+            "Опис (description) дає головні факти та деталі, яких хоче ваша аудиторія.",
+            "Частина про особистий досвід оживляє подію.",
+            "Чи відповідала подія тому, чого ви очікували?",
+            "Аналіз (analysis) зважує добре і погане.",
+            "Висловіть збалансовану думку.",
+            "Висновок говорить, чи рекомендуєте ви це, і чому.",
+            "Вашу рецензію оцінюють із сорока балів.",
+            "Двадцять чотири бали — за те, що ви пишете і як ви це організуєте.",
+            "Шістнадцять балів — за правопис, пунктуацію та речення.",
+            "Показуйте свої почуття через деталі, а не просто називайте їх.",
+            "Використовуйте п’ять чуттів, щоб поставити читача поруч із собою."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "آپ کی تحریر کے حصوں کی ترتیب (structure)",
+            "وہ حصہ جو اہم حقائق اور تفصیلیں دیتا ہے (description)",
+            "اچھے اور برے کو تولنا (analysis)",
+            "آپ کا مشورہ: قاری جائے یا نہ جائے (recommendation)",
+            "پانچ حسوں سے متعلق (sensory)"
+          ],
+          "passage": [
+            "تبصرے کے پانچ حصے ہوتے ہیں۔",
+            "تعارف منظر اور لہجہ قائم کرتا ہے۔",
+            "بیان (description) وہ اہم حقائق اور تفصیلیں دیتا ہے جو آپ کے قاری چاہتے ہیں۔",
+            "ذاتی تجربے کا حصہ تقریب میں جان ڈال دیتا ہے۔",
+            "کیا تقریب آپ کی توقع کے مطابق تھی؟",
+            "تجزیہ (analysis) اچھے اور برے کو تولتا ہے۔",
+            "متوازن رائے دیں۔",
+            "نتیجہ بتاتا ہے کہ آپ اس کی سفارش کرتے ہیں یا نہیں، اور کیوں۔",
+            "آپ کے تبصرے کے نمبر چالیس میں سے دیے جاتے ہیں۔",
+            "چوبیس نمبر اس بات کے ہیں کہ آپ کیا لکھتے ہیں اور اسے کیسے ترتیب دیتے ہیں۔",
+            "سولہ نمبر املا، رموزِ اوقاف اور جملوں کے ہیں۔",
+            "اپنے جذبات کو صرف نام لینے کے بجائے تفصیلوں کے ذریعے دکھائیں۔",
+            "پانچ حسوں کا استعمال کر کے قاری کو اپنے ساتھ کھڑا کر دیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Five parts, in a standard order",
           paragraphs: [
@@ -685,8 +1313,162 @@ window.ASTRA_UNITS["englang-opinion"] = {
           "The writer also gives the opposite view, and answers it.",
           "The conclusion returns to the main opinion.",
           "Humour can make readers like the writer and agree with them."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "سبب يدعم رأيك (argument)",
+            "حقائق أو تجارب تؤيّد فكرة (evidence)",
+            "الرأي المعاكس، الذي تردّ عليه (counter-argument)",
+            "شخص يعرف الكثير عن موضوع ما (expert)",
+            "مقال رأي منتظم في صحيفة (column)"
+          ],
+          "passage": [
+            "مقال الرأي مختلف عن المراجعة.",
+            "المراجعة تساعد القارئ على أن يقرّر بشأن حدث.",
+            "مقال الرأي يدافع عن وجهة نظر.",
+            "قرّاؤه يريدون أن يعرفوا ما يفكّر فيه الآخرون.",
+            "الافتتاحية تفعل ثلاثة أشياء.",
+            "تجذب القارئ.",
+            "وتقول ما هو الموضوع.",
+            "وتقول ما يفكّر فيه الكاتب.",
+            "ثم يقدّم الكاتب حججه (arguments)، واحدة بعد الأخرى.",
+            "كل حجّة لها دليل (evidence): شخصي أو من خبير.",
+            "ويعرض الكاتب أيضاً الرأي المعاكس، ويردّ عليه.",
+            "الخاتمة تعود إلى الرأي الرئيسي.",
+            "يمكن للطرافة أن تجعل القرّاء يحبّون الكاتب ويوافقونه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "powód, który wspiera twoją opinię (argument)",
+            "fakty lub doświadczenia, które popierają jakąś myśl (evidence)",
+            "przeciwny pogląd, na który odpowiadasz (counter-argument)",
+            "ktoś, kto wie dużo o jakimś temacie (expert)",
+            "stały artykuł z opinią w gazecie (column)"
+          ],
+          "passage": [
+            "Artykuł z opinią (opinion article) różni się od recenzji.",
+            "Recenzja pomaga czytelnikowi zdecydować w sprawie wydarzenia.",
+            "Artykuł z opinią broni jakiegoś punktu widzenia.",
+            "Jego czytelnicy chcą wiedzieć, co myślą inni ludzie.",
+            "Początek robi trzy rzeczy.",
+            "Chwyta czytelnika.",
+            "Mówi, jaki jest temat.",
+            "Mówi, co myśli autor.",
+            "Potem autor podaje argumenty, jeden po drugim.",
+            "Każdy argument ma dowody (evidence): osobiste albo eksperckie.",
+            "Autor podaje też przeciwny pogląd i odpowiada na niego.",
+            "Zakończenie wraca do głównej opinii.",
+            "Humor może sprawić, że czytelnicy polubią autora i zgodzą się z nim."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma razão que apoia a sua opinião (argument, argumento)",
+            "factos/fatos ou experiências que sustentam um ponto (evidence, prova)",
+            "a opinião contrária, à qual você responde (counter-argument, contra-argumento)",
+            "alguém que sabe muito sobre um assunto (expert, especialista)",
+            "um artigo de opinião regular num jornal (column, coluna)"
+          ],
+          "passage": [
+            "Um artigo de opinião é diferente de uma crítica.",
+            "Uma crítica ajuda o leitor a decidir sobre um acontecimento.",
+            "Um artigo de opinião defende um ponto de vista.",
+            "Os seus leitores querem saber o que as outras pessoas pensam.",
+            "A abertura faz três coisas.",
+            "Agarra o leitor.",
+            "Diz qual é o tema.",
+            "Diz o que o escritor pensa.",
+            "Depois o escritor dá argumentos, um de cada vez.",
+            "Cada argumento tem provas: pessoais ou de especialistas.",
+            "O escritor também apresenta a opinião contrária, e responde a ela.",
+            "A conclusão volta à opinião principal.",
+            "O humor pode fazer os leitores gostarem do escritor e concordarem com ele."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sabab taageerta ra'yigaaga (argument)",
+            "xaqiiqooyin ama waayo-aragnimo hadal taageera (evidence)",
+            "aragtida lidka ah, oo aad ka jawaabto (counter-argument)",
+            "qof wax badan ka yaqaan mawduuc (expert)",
+            "maqaal ra'yi oo si joogto ah wargeys ka soo baxa (column)"
+          ],
+          "passage": [
+            "Maqaal ra'yi (opinion article) wuxuu ka duwan yahay dib-u-eegis.",
+            "Dib-u-eegis akhristaha wuxuu ka caawiyaa inuu dhacdo go'aan ka gaaro.",
+            "Maqaal ra'yi aragti ayuu ku doodaa.",
+            "Akhristayaashiisu waxay rabaan inay ogaadaan waxa dadka kale ka fikirayaan.",
+            "Bilowgu saddex wax ayuu sameeyaa.",
+            "Akhristaha ayuu qabsadaa (hook).",
+            "Wuxuu sheegaa waxa mawduucu yahay.",
+            "Wuxuu sheegaa waxa qoraagu ka fikirayo.",
+            "Kadibna qoraagu doodo (arguments) ayuu bixiyaa, mid mid.",
+            "Dood kasta waxay leedahay caddayn (evidence): shakhsi ama khabiir.",
+            "Qoraagu sidoo kale wuxuu bixiyaa aragtida lidka ah, wuuna ka jawaabaa.",
+            "Gabagabadu waxay ku noqotaa ra'yiga ugu weyn.",
+            "Kaftan wuxuu akhristayaasha ka dhigi karaa inay qoraaga jeclaadaan oo ay la qabaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "причина, яка підтримує вашу думку (argument)",
+            "факти або досвід, які підкріплюють думку (evidence)",
+            "протилежний погляд, на який ви відповідаєте (counter-argument)",
+            "той, хто багато знає про предмет (expert)",
+            "регулярна стаття-думка в газеті (column)"
+          ],
+          "passage": [
+            "Стаття-думка (opinion article) відрізняється від рецензії.",
+            "Рецензія допомагає читачеві вирішити щодо події.",
+            "Стаття-думка доводить певну точку зору.",
+            "Її читачі хочуть знати, що думають інші люди.",
+            "Початок робить три речі.",
+            "Він захоплює читача.",
+            "Він говорить, яка тема.",
+            "Він говорить, що думає автор.",
+            "Потім автор наводить аргументи (arguments), один за одним.",
+            "Кожний аргумент має докази (evidence): особисті або від експертів.",
+            "Автор також наводить протилежний погляд і відповідає на нього.",
+            "Висновок повертається до головної думки.",
+            "Гумор може зробити так, що читачі полюблять автора й погодяться з ним."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک وجہ جو آپ کی رائے کو سہارا دیتی ہے (argument)",
+            "حقائق یا تجربے جو کسی نکتے کی تائید کرتے ہیں (evidence)",
+            "الٹی رائے، جس کا آپ جواب دیتے ہیں (counter-argument)",
+            "وہ شخص جو کسی موضوع کے بارے میں بہت جانتا ہے (expert)",
+            "اخبار میں باقاعدگی سے چھپنے والا رائے کا مضمون (column)"
+          ],
+          "passage": [
+            "رائے کا مضمون (opinion article) تبصرے سے الگ ہوتا ہے۔",
+            "تبصرہ قاری کو کسی تقریب کے بارے میں فیصلہ کرنے میں مدد دیتا ہے۔",
+            "رائے کا مضمون ایک نقطۂ نظر کی دلیل دیتا ہے۔",
+            "اس کے قاری جاننا چاہتے ہیں کہ دوسرے لوگ کیا سوچتے ہیں۔",
+            "شروعات تین کام کرتی ہے۔",
+            "یہ قاری کو پکڑتی ہے۔",
+            "یہ بتاتی ہے کہ موضوع کیا ہے۔",
+            "یہ بتاتی ہے کہ مصنف کیا سوچتا ہے۔",
+            "پھر مصنف ایک ایک کر کے دلیلیں دیتا ہے۔",
+            "ہر دلیل کے ساتھ شہادت (evidence) ہوتی ہے: ذاتی یا ماہر کی۔",
+            "مصنف الٹی رائے بھی دیتا ہے، اور اس کا جواب دیتا ہے۔",
+            "نتیجہ مرکزی رائے پر واپس آتا ہے۔",
+            "مزاح قاریوں کو مصنف سے خوش کر سکتا ہے اور اس سے متفق کر سکتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Review or opinion article?",
           paragraphs: [
@@ -821,8 +1603,168 @@ window.ASTRA_UNITS["englang-opinion"] = {
           "If you are stuck for ideas, freewrite for ten minutes without stopping.",
           "Then plan each paragraph with a topic sentence.",
           "Now you are ready to write a full article."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مذكور بوضوح ومباشرة (explicit)",
+            "مُلمَّح إليه، غير مذكور مباشرة (implicit)",
+            "طريقة يستعملها الكاتب عن قصد (technique)",
+            "حقيقة تُعطى على شكل رقم (statistic)",
+            "الجملة الأولى في الفقرة، التي تعطي فكرتها (topic sentence)",
+            "الكتابة بلا توقّف للعثور على أفكار (freewriting)"
+          ],
+          "passage": [
+            "الرأي الصريح (explicit) يُذكر بوضوح.",
+            "الرأي الضمني (implicit) تُلمّح إليه الكلمات التي يختارها الكاتب.",
+            "الكتّاب الجيدون يُلمّحون كما يصرّحون.",
+            "الكتّاب المُقنعون يستعملون الأساليب (techniques) عن قصد.",
+            "كلمة DAFOREST تساعدك على تذكّرها.",
+            "الخطاب المباشر، والسجع الصوتي، والحكايات القصيرة، والحقائق، والرأي، والأسئلة البلاغية.",
+            "اللغة العاطفية، والإحصائيات، وقاعدة الثلاثة.",
+            "كل أسلوب له تأثير في القارئ.",
+            "الكتّاب الأقوياء يعرضون أيضاً الرأي الآخر، ثم يردّون عليه.",
+            "وهذا يجعل رأيهم هم أقوى.",
+            "إذا لم تجد أفكاراً، فاكتب بحرّية (freewrite) عشر دقائق بلا توقّف.",
+            "ثم خطّط لكل فقرة بجملة رئيسية (topic sentence).",
+            "الآن أنت مستعدّ لكتابة مقال كامل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "powiedziany jasno i wprost (explicit)",
+            "zasugerowany, nie powiedziany wprost (implicit)",
+            "metoda, której autor używa celowo (technique)",
+            "fakt podany jako liczba (statistic)",
+            "pierwsze zdanie akapitu, które podaje jego główną myśl (topic sentence)",
+            "pisanie bez przerwy, żeby znaleźć pomysły (freewriting)"
+          ],
+          "passage": [
+            "Opinia wyrażona wprost (explicit) jest powiedziana jasno.",
+            "Opinia ukryta (implicit) jest sugerowana przez słowa, które wybiera autor.",
+            "Dobrzy autorzy zarówno sugerują, jak i mówią wprost.",
+            "Autorzy tekstów perswazyjnych używają technik celowo.",
+            "DAFOREST pomaga ci je zapamiętać.",
+            "Bezpośredni zwrot (direct address), aliteracja i anegdoty, fakty, opinia, pytania retoryczne.",
+            "Język emocjonalny, statystyki i zasada trójki (rule of three).",
+            "Każda technika ma jakiś wpływ na czytelnika.",
+            "Mocni autorzy podają też drugą stronę, a potem na nią odpowiadają.",
+            "To wzmacnia ich własny pogląd.",
+            "Jeśli brakuje ci pomysłów, pisz bez przerwy (freewriting) przez dziesięć minut.",
+            "Potem zaplanuj każdy akapit ze zdaniem tematycznym (topic sentence).",
+            "Teraz jesteś gotowy, żeby napisać pełny artykuł."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "dito de forma clara e direta (explicit, explícito)",
+            "sugerido, não dito diretamente (implicit, implícito)",
+            "um método que o escritor usa de propósito (technique, técnica)",
+            "um facto/fato dado em forma de número (statistic, estatística)",
+            "a primeira frase de um parágrafo, que dá o seu ponto principal (topic sentence)",
+            "escrever sem parar para encontrar ideias (freewriting)"
+          ],
+          "passage": [
+            "Uma opinião explícita é dita de forma clara.",
+            "Uma opinião implícita é sugerida pelas palavras que o escritor escolhe.",
+            "Os bons escritores tanto sugerem como afirmam.",
+            "Os escritores persuasivos usam técnicas de propósito.",
+            "DAFOREST ajuda você a lembrar-se delas.",
+            "Direct address (falar com o leitor), aliteração e anedotas, factos/fatos, opinião, perguntas retóricas.",
+            "Linguagem emotiva, estatísticas e a regra de três.",
+            "Cada técnica tem um efeito no leitor.",
+            "Os escritores fortes também apresentam o outro lado, e depois respondem-lhe.",
+            "Isto torna a sua própria opinião mais forte.",
+            "Se estiver sem ideias, escreva sem parar (freewriting) durante dez minutos.",
+            "Depois planeie/planeje cada parágrafo com uma topic sentence.",
+            "Agora você está pronto para escrever um artigo completo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "si cad oo toos ah loo sheegay (explicit)",
+            "la tilmaamay, aan si toos ah loo sheegin (implicit)",
+            "hab qoraagu si ula kac ah u isticmaalo (technique)",
+            "xaqiiqo tiro ahaan la bixiyay (statistic)",
+            "weedha ugu horreysa ee baaragaraaf, oo sheegaysa hadalkeeda (topic sentence)",
+            "qoraal aan la joojin si fikrado loo helo (freewriting)"
+          ],
+          "passage": [
+            "Ra'yi cad (explicit) si cad ayaa loo sheegaa.",
+            "Ra'yi qarsoon (implicit) waxaa tilmaamaa erayada qoraagu doorto.",
+            "Qorayaasha wanaagsan way tilmaamaan, sidoo kalena way sheegaan.",
+            "Qorayaasha qanciyaa farsamooyin (techniques) si ula kac ah ayay u isticmaalaan.",
+            "DAFOREST wuxuu kaa caawiyaa inaad xasuusato.",
+            "Xarfaheedu waxay u taagan yihiin: direct address, alliteration iyo anecdotes, facts, opinion, rhetorical questions.",
+            "Iyo sidoo kale emotive language, statistics, iyo xeerka saddexda (rule of three).",
+            "Farsamo kasta saamayn ayay akhristaha ku leedahay.",
+            "Qorayaasha xooggan sidoo kale dhinaca kale ayay sheegaan, kadibna way ka jawaabaan.",
+            "Tani aragtidooda ayay ka dhigtaa mid ka xoog badan.",
+            "Haddii fikrado kuu yaraadaan, toban daqiiqo wax qor adigoon joojin (freewrite).",
+            "Kadibna baaragaraaf kasta ku qorshee weedh mawduuc (topic sentence).",
+            "Hadda waxaad diyaar u tahay inaad maqaal buuxa qorto."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "висловлений чітко й прямо (explicit)",
+            "такий, на який натякають, а не говорять прямо (implicit)",
+            "метод, який автор використовує навмисно (technique)",
+            "факт, поданий у вигляді числа (statistic)",
+            "перше речення абзацу, яке подає його думку (topic sentence)",
+            "письмо без зупинки, щоб знайти ідеї (freewriting)"
+          ],
+          "passage": [
+            "Явна думка (explicit opinion) висловлена чітко.",
+            "Неявна думка (implicit opinion) передається через слова, які обирає автор.",
+            "Добрі автори не лише стверджують, але й натякають.",
+            "Автори переконливих текстів використовують прийоми (techniques) навмисно.",
+            "DAFOREST допомагає вам їх запам’ятати.",
+            "Пряме звернення (direct address), алітерація (alliteration) та анекдоти (anecdotes), факти (facts), думка (opinion), риторичні запитання (rhetorical questions).",
+            "Емоційна мова (emotive language), статистика (statistics) та правило трьох (rule of three).",
+            "Кожний прийом має свій вплив на читача.",
+            "Сильні автори також подають іншу сторону, а потім відповідають на неї.",
+            "Це робить їхній власний погляд сильнішим.",
+            "Якщо вам бракує ідей, пишіть вільно (freewrite) десять хвилин без зупинки.",
+            "Потім сплануйте кожний абзац із тематичним реченням (topic sentence).",
+            "Тепер ви готові написати повну статтю."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "صاف اور سیدھے طور پر کہا گیا (explicit)",
+            "اشارے سے کہا گیا، سیدھے طور پر نہیں (implicit)",
+            "ایک طریقہ جو مصنف جان بوجھ کر استعمال کرتا ہے (technique)",
+            "ایک حقیقت جو عدد کی شکل میں دی جائے (statistic)",
+            "پیراگراف کا پہلا جملہ، جو اس کا نکتہ بتاتا ہے (topic sentence)",
+            "خیال ڈھونڈنے کے لیے بغیر رکے لکھنا (freewriting)"
+          ],
+          "passage": [
+            "صریح رائے (explicit opinion) صاف طور پر کہی جاتی ہے۔",
+            "مضمر رائے (implicit opinion) مصنف کے چنے ہوئے لفظوں سے اشارے میں ملتی ہے۔",
+            "اچھے مصنف صاف کہنے کے ساتھ اشارہ بھی کرتے ہیں۔",
+            "قائل کرنے والے مصنف تکنیکیں جان بوجھ کر استعمال کرتے ہیں۔",
+            "DAFOREST انھیں یاد رکھنے میں آپ کی مدد کرتا ہے۔",
+            "Direct address، alliteration اور anecdotes، facts، opinion، rhetorical questions (براہِ راست بات، ہم آواز لفظ اور چھوٹے واقعے، حقائق، رائے، اثر کے لیے سوال)۔",
+            "Emotive language، statistics اور rule of three (جذباتی زبان، شماریاتی اعداد اور تین کا قاعدہ)۔",
+            "ہر تکنیک قاری پر ایک اثر رکھتی ہے۔",
+            "مضبوط مصنف دوسری طرف کی بات بھی دیتے ہیں، پھر اس کا جواب دیتے ہیں۔",
+            "اس سے ان کی اپنی رائے مضبوط ہوتی ہے۔",
+            "اگر آپ کو خیال نہ ملیں تو دس منٹ بغیر رکے لکھیں (freewrite)۔",
+            "پھر ہر پیراگراف کا منصوبہ ایک topic sentence کے ساتھ بنائیں۔",
+            "اب آپ ایک مکمل مضمون لکھنے کے لیے تیار ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         { heading: "Explicit and implicit opinions",
           paragraphs: [
