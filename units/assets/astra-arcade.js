@@ -503,7 +503,7 @@
   /* ================= stand-alone chrome (used only when the engine is absent or already booted) ================= */
   function ownTheme(m) {
     const r = document.documentElement, y = Math.max(7, Math.min(11, parseInt(m.year, 10) || 7));
-    r.dataset.subject = ["english", "englit", "maths", "combined", "triple"].indexOf(m.subjectKey) >= 0 ? m.subjectKey : "maths";
+    r.dataset.subject = ["english", "englit", "maths", "combined", "triple", "geography", "history"].indexOf(m.subjectKey) >= 0 ? m.subjectKey : "maths";
     r.dataset.year = String(y); r.dataset.dark = y >= 10 ? "1" : "0";
     if (!r.dataset.calm) { let calm = false; try { calm = !!(JSON.parse(localStorage.getItem("astra.prefs") || "{}").calm); } catch (e) { } r.dataset.calm = calm ? "1" : "0"; }
   }

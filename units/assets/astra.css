@@ -28,6 +28,8 @@
 :root[data-subject="maths"]{--acc:#2E4A8C;--acc-soft:#E6EBF5}
 :root[data-subject="combined"]{--acc:#1F6F6A;--acc-soft:#E2F0EE}
 :root[data-subject="triple"]{--acc:#24366B;--acc-soft:#E5E9F3}
+:root[data-subject="geography"]{--acc:#3F6B4A;--acc-soft:#E4EEE6}
+:root[data-subject="history"]{--acc:#7A4A1E;--acc-soft:#F1E8DF}
 
 :root[data-year="7"]{--ground:#F5EFE2;--line:#2B2620;--glow:#B8862B;--faint:#CDBF9F;--page:#FFFCF5}
 :root[data-year="8"]{--ground:#EDE6D8;--line:#262A33;--glow:#A97A22;--faint:#C2B79E;--page:#FFFBF3}

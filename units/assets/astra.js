@@ -125,7 +125,7 @@
   A.noMotion = () => A.prefs.calm || (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
   A.theme = function (subjectKey, year) {
     const r = document.documentElement, y = Math.max(7, Math.min(11, parseInt(year, 10) || 7));
-    r.dataset.subject = ["english", "englit", "maths", "combined", "triple"].indexOf(subjectKey) >= 0 ? subjectKey : "maths";
+    r.dataset.subject = ["english", "englit", "maths", "combined", "triple", "geography", "history"].indexOf(subjectKey) >= 0 ? subjectKey : "maths";
     r.dataset.year = String(y); r.dataset.dark = y >= 10 ? "1" : "0";
   };
   A.plateUrl = (m) => A.assets + "plates/" + m.subjectKey + "_y" + Math.max(7, Math.min(11, parseInt(m.year, 10) || 7)) + ".svg";
@@ -135,6 +135,8 @@
     maths: ["The Astrolabe", "Engraved plate: a number line from −9 to +9 bent into a circle, half in shadow and half in light."],
     combined: ["The Alchemist’s Circuit", "Engraved plate: a series circuit with a cell, components and a lamp, drawn as an alchemical diagram."],
     triple: ["The Celestial Plate", "Engraved plate: the Sun, elliptical orbits, a ringed planet, a comet and an invented constellation."],
+    geography: ["The Cartographer’s Table", "Engraved plate: a hatched sea and coastline, contour hills, a river, a compass rose and a scale bar."],
+    history: ["The Chronicle", "Engraved plate: an unrolled timeline scroll with three medallions, an hourglass, a column and a sealed laurel."],
   };
   A.plateName = (k) => (PLATE[k] || PLATE.maths)[0];
   A.plateAlt = (k) => (PLATE[k] || PLATE.maths)[1];
@@ -1055,7 +1057,7 @@
     const sec = h("section", { class: "sec" }, h("div", { class: "wrap" })); main.append(sec); const wrap = sec.firstChild;
     const reg = (window.ASTRA_REGISTRY || []).filter((s) => SLUG_RE.test(s));
     if (!reg.length) { wrap.append(h("p", { class: "loading" }, "No units have been built yet.")); A.footer(null); return; }
-    const ORDER = ["english", "englit", "maths", "combined", "triple"], NAMES = { english: "English Language", englit: "English Literature", maths: "Mathematics", combined: "Combined Science", triple: "Triple Science" };
+    const ORDER = ["english", "englit", "maths", "combined", "triple", "geography", "history"], NAMES = { english: "English Language", englit: "English Literature", maths: "Mathematics", combined: "Combined Science", triple: "Triple Science", geography: "Geography", history: "History" };
     const loaded = [];
     for (const s of reg) { try { loaded.push([s, await A.loadUnit(s, "")]); } catch (e) { loaded.push([s, null, e]); } }
     const sub = document.querySelector(".hero .sub"); if (sub && loaded.length > 5) sub.textContent = loaded.length + " units across the five core subjects: a read-along ebook that turns like a book, and modules that adapt to each pupil — built from the departments’ own lessons.";
