@@ -116,8 +116,168 @@ window.ASTRA_UNITS["geog-landscapes"] = {
           "Weathering breaks rock down where it stands, by frost, chemicals or living things.",
           "Weakened rock can slide or fall down the cliff.",
           "This is called mass movement."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "يسمح للماء بالتسرّب من خلاله (permeable)",
+            "لا يسمح للماء بالمرور (impermeable)",
+            "كتلة من صخور الغرانيت العارية تبرز من جانب التلّ (tor)",
+            "الماء الذي يندفع إلى أعلى الشاطئ عندما تتكسّر الموجة (swash)",
+            "الماء الذي ينساب عائدًا إلى أسفل الشاطئ نحو البحر (backwash)",
+            "تفتّت الصخور في مكانها (weathering)"
+          ],
+          "passage": [
+            "في المملكة المتّحدة مناظر طبيعية مختلفة كثيرة.",
+            "تشكّلها الصخور التي تحتها.",
+            "الغرانيت (granite) صخر صلب يكوّن كتلًا صخرية بارزة تُسمّى tors، مثل تلك التي في دارتمور (Dartmoor).",
+            "الطباشير (chalk) أليَن ويسمح للماء بالتسرّب من خلاله.",
+            "وهو يكوّن تلالًا لطيفة في الداخل وجروفًا بيضاء على الساحل.",
+            "الطين (clay) ليّن ويتآكل بسهولة، لذلك يكوّن أودية منخفضة منبسطة.",
+            "الحجر الجيري الكربوني (Carboniferous limestone) متشقّق إلى كتل ويصنع أرصفة جيرية (limestone pavements).",
+            "على الساحل، تقوم الأمواج بمعظم العمل.",
+            "الأمواج البنّاءة (constructive waves) لها اندفاع قوي (swash) وتبني الشاطئ.",
+            "الأمواج الهدّامة (destructive waves) لها ارتداد قوي (backwash) وتُؤكّل الشاطئ.",
+            "التجوية (weathering) تفتّت الصخور في مكانها، بالصقيع أو بالموادّ الكيميائية أو بالكائنات الحيّة.",
+            "الصخور الضعيفة يمكن أن تنزلق أو تسقط من الجرف.",
+            "يُسمّى هذا الحركة الكتلية (mass movement)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przepuszcza wodę, która przez nią przesiąka (permeable)",
+            "nie przepuszcza wody (impermeable)",
+            "stos nagich granitowych skał wystający ze zbocza wzgórza (tor)",
+            "woda, która wbiega na plażę, kiedy fala się załamuje (swash)",
+            "woda, która spływa z plaży z powrotem do morza (backwash)",
+            "rozpad skały w miejscu, w którym się znajduje (weathering)"
+          ],
+          "passage": [
+            "Wielka Brytania (UK) ma wiele różnych krajobrazów.",
+            "Kształtuje je skała, która leży pod nimi.",
+            "Granit to twarda skała, która tworzy skaliste ostańce (tors), jak te na Dartmoor.",
+            "Kreda jest bardziej miękka i przepuszcza wodę.",
+            "Tworzy łagodne wzgórza w głębi lądu i białe klify na wybrzeżu.",
+            "Glina (clay) jest miękka i łatwo się ściera, więc tworzy niskie, płaskie doliny.",
+            "Wapień karboński jest popękany na bloki i tworzy chodniki wapienne (limestone pavements).",
+            "Na wybrzeżu większość pracy wykonują fale.",
+            "Fale konstruktywne (constructive waves) mają silny napływ (swash) i budują plażę.",
+            "Fale destruktywne (destructive waves) mają silny odpływ (backwash) i niszczą plażę.",
+            "Wietrzenie (weathering) rozkłada skałę w miejscu, w którym stoi: przez mróz, chemikalia lub żywe organizmy.",
+            "Osłabiona skała może zsunąć się lub spaść z klifu.",
+            "To nazywamy ruchami masowymi (mass movement)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "deixa a água passar/infiltrar-se através dela (permeable, permeável)",
+            "não deixa a água passar (impermeable, impermeável)",
+            "um monte de rocha de granito nua que sobressai numa encosta (tor)",
+            "a água que sobe depressa pela praia quando uma onda rebenta/quebra (swash)",
+            "a água que escorre de volta pela praia até ao mar (backwash)",
+            "a quebra da rocha no lugar onde ela está (weathering, meteorização/intemperismo)"
+          ],
+          "passage": [
+            "O Reino Unido tem muitas paisagens diferentes.",
+            "Elas são moldadas pela rocha que está por baixo delas.",
+            "O granito (granite) é uma rocha dura que forma tors rochosos, como os de Dartmoor.",
+            "O calcário cré/giz (chalk) é mais macio e deixa a água passar através dele.",
+            "Forma colinas suaves no interior e falésias/penhascos brancos na costa.",
+            "A argila (clay) é macia e desgasta-se facilmente, por isso forma vales baixos e planos.",
+            "O calcário carbonífero (Carboniferous limestone) está rachado em blocos e forma pavimentos calcários.",
+            "Na costa, as ondas fazem a maior parte do trabalho.",
+            "As ondas construtivas (constructive) têm um swash forte e fazem crescer a praia.",
+            "As ondas destrutivas (destructive) têm um backwash forte e desgastam a praia.",
+            "A meteorização/o intemperismo (weathering) quebra a rocha no lugar onde ela está, por causa do gelo, de produtos químicos ou de seres vivos.",
+            "A rocha enfraquecida pode deslizar ou cair pela falésia/pelo penhasco.",
+            "A isto chama-se movimento de massa (mass movement)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "biyo u oggolaada inay dhex maraan (permeable)",
+            "biyo u oggolaan inay dhex maraan (impermeable)",
+            "tuulmo dhagax granite qaawan oo buur dhinaceeda ka soo baxay (tor)",
+            "biyaha kor ugu ordaya xeebta marka hir jabo (swash)",
+            "biyaha dib ugu dareeraya xeebta hoos badda xaggeeda (backwash)",
+            "burburka dhagax meesha uu taagan yahay (weathering)"
+          ],
+          "passage": [
+            "UK waxay leedahay muuqaalo dhul oo badan oo kala duwan.",
+            "Waxaa qaabeeya dhagaxa hoostooda ku jira.",
+            "Granite waa dhagax adag oo samaysta tors dhagaxaysan, sida kuwa Dartmoor ku yaal.",
+            "Chalk wuu ka jilicsan yahay, biyana wuu u oggolaadaa inay dhex maraan.",
+            "Wuxuu samaystaa buuro fudud oo gudaha ah iyo jarar cad oo xeebta ah.",
+            "Dhoobadu (clay) way jilicsan tahay oo si fudud ayay u nabaad-guurtaa, sidaas darteed waxay samaysaa dooxooyin hooseeya oo siman.",
+            "Carboniferous limestone wuxuu u dillaacay qaybo, wuxuuna samaystaa limestone pavements.",
+            "Xeebta, hirarku (waves) shaqada badankeeda ayay qabtaan.",
+            "Constructive waves waxay leeyihiin swash xooggan, xeebtana way dhisaan.",
+            "Destructive waves waxay leeyihiin backwash xooggan, xeebtana way nabaad-guuriyaan.",
+            "Weathering dhagaxa meesha uu taagan yahay ayay ku burburisaa, baraf-dhaxan, kiimiko ama noolayaal.",
+            "Dhagax daciifay wuxuu jarka ka simbiriirixan karaa ama ka dhici karaa.",
+            "Tan waxaa la yiraahdaa mass movement."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "пропускає воду крізь себе (permeable)",
+            "не пропускає воду (impermeable)",
+            "купа голої гранітної породи, що виступає зі схилу пагорба (tor)",
+            "вода, що накочується на пляж, коли хвиля розбивається (swash)",
+            "вода, що стікає з пляжу назад у море (backwash)",
+            "руйнування породи на тому місці, де вона лежить (weathering)"
+          ],
+          "passage": [
+            "У Великій Британії багато різних ландшафтів.",
+            "Їх формує порода, що лежить під ними.",
+            "Граніт — тверда порода, яка утворює скелясті виступи (tors), як-от на Дартмурі (Dartmoor).",
+            "Крейда м’якша і пропускає воду крізь себе.",
+            "Вона утворює пологі пагорби всередині країни та білі скелі на узбережжі.",
+            "Глина м’яка і легко руйнується, тому утворює низькі рівні долини.",
+            "Кам’яновугільний вапняк розтрісканий на блоки і утворює вапнякові «бруківки» (limestone pavements).",
+            "На узбережжі більшу частину роботи виконують хвилі.",
+            "Конструктивні хвилі (constructive waves) мають сильний накат (swash) і нарощують пляж.",
+            "Деструктивні хвилі (destructive waves) мають сильний відкат (backwash) і розмивають пляж.",
+            "Вивітрювання (weathering) руйнує породу на місці — морозом, хімічними речовинами або живими істотами.",
+            "Ослаблена порода може сповзти або впасти зі скелі.",
+            "Це називається масовим рухом (mass movement)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جو پانی کو اپنے اندر سے گزرنے دے (permeable)",
+            "جو پانی کو اپنے اندر سے نہ گزرنے دے (impermeable)",
+            "ننگی گرینائٹ چٹان کا ڈھیر جو پہاڑی سے باہر نکلا ہوا ہو (tor)",
+            "وہ پانی جو لہر ٹوٹنے پر ساحل پر اوپر کی طرف دوڑتا ہے (swash)",
+            "وہ پانی جو ساحل سے واپس نیچے سمندر کی طرف بہتا ہے (backwash)",
+            "چٹان کا اپنی جگہ پر ہی ٹوٹ کر بکھرنا (weathering)"
+          ],
+          "passage": [
+            "برطانیہ (UK) میں بہت سے الگ الگ طرح کے مناظر ہیں۔",
+            "ان کی شکل نیچے کی چٹان بناتی ہے۔",
+            "گرینائٹ (granite) ایک سخت چٹان ہے جو پتھریلے tors بناتی ہے، جیسے ڈارٹمور (Dartmoor) پر۔",
+            "چاک (chalk) زیادہ نرم ہے اور پانی کو اپنے اندر سے گزرنے دیتا ہے۔",
+            "یہ اندرونِ ملک ہموار پہاڑیاں اور ساحل پر سفید چٹانی دیواریں بناتا ہے۔",
+            "چکنی مٹی (clay) نرم ہے اور آسانی سے گھس جاتی ہے، اس لیے یہ نیچی، ہموار وادیاں بناتی ہے۔",
+            "Carboniferous limestone بلاکوں میں ٹوٹا ہوا ہوتا ہے اور limestone pavements بناتا ہے۔",
+            "ساحل پر زیادہ تر کام لہریں کرتی ہیں۔",
+            "constructive لہروں کا swash طاقت ور ہوتا ہے اور وہ ساحل کو بناتی ہیں۔",
+            "destructive لہروں کا backwash طاقت ور ہوتا ہے اور وہ ساحل کو گھسا دیتی ہیں۔",
+            "weathering چٹان کو اس کی اپنی جگہ پر توڑتی ہے: پالے، کیمیائی مادوں یا جانداروں کے ذریعے۔",
+            "کمزور چٹان چٹانی دیوار سے سرک یا گر سکتی ہے۔",
+            "اسے mass movement کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four rocks, four landscapes",
@@ -326,8 +486,168 @@ window.ASTRA_UNITS["geog-landscapes"] = {
           "This is called longshore drift.",
           "When waves lose energy, they drop what they are carrying.",
           "This is called deposition."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قوّة الأمواج وهي تدفع الهواء والماء في شقوق الصخور (hydraulic action)",
+            "صخور ورمل في الأمواج تحتكّ بالجرف (abrasion)",
+            "حصى تتصادم بعضها ببعض فتصغر وتستدير (attrition)",
+            "حركة الرمل والحصى على طول الشاطئ بفعل الأمواج (longshore drift)",
+            "مسافة البحر المفتوح التي هبّت عليها الرياح لتصنع موجة (fetch)",
+            "أمواج تُلقي ما تحمله من رمل وحصى (deposition)"
+          ],
+          "passage": [
+            "يُؤكّل البحر الساحل بأربع طرق.",
+            "الفعل الهيدروليكي (hydraulic action) هو قوّة الأمواج وهي تدفع الهواء في شقوق الجرف.",
+            "البَري (abrasion) هو صخور ورمل في الأمواج تحتكّ بالجرف مثل ورق الصنفرة.",
+            "التحاتّ (attrition) هو حصى تتصادم بعضها ببعض فتصغر وتستدير.",
+            "الإذابة (solution) هي ماء البحر وهو يذيب ببطء صخورًا مثل الطباشير والحجر الجيري.",
+            "تحرّك الأمواج أيضًا الرواسب على طول الشاطئ.",
+            "وهي تصل عادةً بزاوية، تدفعها الرياح السائدة.",
+            "يحمل الاندفاع (swash) الرمل إلى أعلى الشاطئ بتلك الزاوية.",
+            "ويجرّه الارتداد (backwash) عائدًا إلى الأسفل في خطّ مستقيم.",
+            "ومع الوقت يتحرّك الرمل متعرّجًا على طول الساحل.",
+            "يُسمّى هذا الانجراف الساحلي (longshore drift).",
+            "عندما تفقد الأمواج طاقتها، تُلقي ما تحمله.",
+            "يُسمّى هذا الترسيب (deposition)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "siła fal wpychających powietrze i wodę w szczeliny skał (hydraulic action)",
+            "skały i piasek niesione przez fale, które trą o klif (abrasion)",
+            "kamyki uderzające o siebie, które stają się mniejsze i bardziej okrągłe (attrition)",
+            "przenoszenie piasku i żwiru wzdłuż plaży przez fale (longshore drift)",
+            "odległość otwartego morza, nad którą wiał wiatr, tworząc falę (fetch)",
+            "fale upuszczające piasek i kamyki, które niosły (deposition)"
+          ],
+          "passage": [
+            "Morze niszczy wybrzeże na cztery sposoby.",
+            "Działanie hydrauliczne (hydraulic action) to siła fal wpychających powietrze w szczeliny klifu.",
+            "Abrazja (abrasion) to skały i piasek w falach, które trą o klif jak papier ścierny.",
+            "Atrycja (attrition) to kamyki uderzające o siebie, które stają się mniejsze i bardziej okrągłe.",
+            "Rozpuszczanie (solution) to woda morska powoli rozpuszczająca skały takie jak kreda i wapień.",
+            "Fale przenoszą też osad wzdłuż plaży.",
+            "Zwykle nadchodzą pod kątem, pchane przez przeważający wiatr.",
+            "Napływ (swash) niesie piasek w górę plaży pod tym kątem.",
+            "Odpływ (backwash) ściąga go prosto w dół.",
+            "Z czasem piasek przesuwa się zygzakiem wzdłuż wybrzeża.",
+            "To nazywamy dryfem wzdłużbrzegowym (longshore drift).",
+            "Kiedy fale tracą energię, upuszczają to, co niosą.",
+            "To nazywamy depozycją (deposition)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a força das ondas a empurrar/empurrando ar e água para dentro das fendas da rocha (hydraulic action, ação hidráulica)",
+            "rochas e areia nas ondas a raspar/raspando contra a falésia (abrasion, abrasão)",
+            "seixos/pedras a bater/batendo umas nas outras e a ficar/ficando mais pequenas e redondas (attrition, atrito)",
+            "o movimento de areia e cascalho ao longo de uma praia, feito pelas ondas (longshore drift, deriva litoral)",
+            "a distância de mar aberto que o vento percorreu para formar uma onda (fetch)",
+            "ondas a largar/largando a areia e os seixos que levavam (deposition, deposição)"
+          ],
+          "passage": [
+            "O mar desgasta a costa de quatro maneiras.",
+            "A ação hidráulica (hydraulic action) é a força das ondas a empurrar/empurrando ar para dentro das fendas da falésia.",
+            "A abrasão (abrasion) são rochas e areia nas ondas a raspar/raspando contra a falésia como uma lixa.",
+            "O atrito (attrition) são seixos a bater/batendo uns nos outros e a ficar/ficando mais pequenos e redondos.",
+            "A dissolução (solution) é a água do mar a dissolver/dissolvendo devagar rochas como o calcário cré e o calcário.",
+            "As ondas também movem sedimentos ao longo da praia.",
+            "Normalmente chegam de lado, empurradas pelo vento dominante.",
+            "O swash leva a areia pela praia acima nesse ângulo.",
+            "O backwash arrasta-a a direito para baixo.",
+            "Com o tempo, a areia vai em ziguezague ao longo da costa.",
+            "A isto chama-se deriva litoral (longshore drift).",
+            "Quando as ondas perdem energia, largam o que estão a levar/levando.",
+            "A isto chama-se deposição (deposition)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xoogga hirarka oo hawo iyo biyo ku riixa dillaacyada dhagaxa (hydraulic action)",
+            "dhagaxyo iyo ciid hirarka ku jira oo jarka xoqaya (abrasion)",
+            "dhagaxyo yaryar oo is garaacaya oo sii yaraanaya oo sii wareegsanaya (attrition)",
+            "dhaqdhaqaaqa ciidda iyo dhagaxyada yaryar xeebta dhinaceeda oo hirarku keenaan (longshore drift)",
+            "masaafada bad furan oo dabayshu ka soo dul dhacday si ay hir u samayso (fetch)",
+            "hirarka oo dejiya ciidda iyo dhagaxyada yaryar ee ay sidaan (deposition)"
+          ],
+          "passage": [
+            "Baddu xeebta afar siyaabood ayay u nabaad-guurisaa.",
+            "Hydraulic action waa xoogga hirarka oo hawo ku riixa dillaacyada jarka.",
+            "Abrasion waa dhagaxyo iyo ciid hirarka ku jira oo jarka xoqaya sida warqad-xoqeed.",
+            "Attrition waa dhagaxyo yaryar oo is garaacaya oo sii yaraanaya oo sii wareegsanaya.",
+            "Solution waa biyo bad oo si tartiib ah u milaya dhagaxyo sida chalk iyo limestone.",
+            "Hirarku sidoo kale sediment ayay xeebta dhinaceeda u dhaqaajiyaan.",
+            "Inta badan xagal ayay ku yimaadaan, oo dabaysha caadiga ah (prevailing wind) ayaa riixda.",
+            "Swash-ku ciidda xagashaas ayuu xeebta kor ugu qaadaa.",
+            "Backwash-ku si toosan hoos ayuu dib ugu jiidaa.",
+            "Waqti ka dib ciiddu si leexleexan ayay xeebta dhinaceeda u socotaa.",
+            "Tan waxaa la yiraahdaa longshore drift.",
+            "Marka hirarku tamar lumiyaan, waxay dejiyaan waxa ay sidaan.",
+            "Tan waxaa la yiraahdaa deposition."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "сила хвиль, що заганяють повітря і воду в тріщини породи (hydraulic action)",
+            "каміння й пісок у хвилях, що труться об скелю (abrasion)",
+            "камінці, що б’ються один об одного і стають меншими та круглішими (attrition)",
+            "рух піску і гальки вздовж пляжу під дією хвиль (longshore drift)",
+            "відстань відкритого моря, над якою дув вітер, щоб утворити хвилю (fetch)",
+            "хвилі скидають пісок і камінці, які вони несуть (deposition)"
+          ],
+          "passage": [
+            "Море руйнує узбережжя чотирма способами.",
+            "Гідравлічна дія (hydraulic action) — це сила хвиль, що заганяють повітря в тріщини скелі.",
+            "Абразія (abrasion) — це каміння й пісок у хвилях, що труться об скелю, як наждачний папір.",
+            "Стирання (attrition) — це камінці, що б’ються один об одного і стають меншими та круглішими.",
+            "Розчинення (solution) — це морська вода, яка повільно розчиняє породи, такі як крейда і вапняк.",
+            "Хвилі також переносять осад уздовж пляжу.",
+            "Зазвичай вони підходять під кутом, бо їх жене панівний вітер.",
+            "Накат (swash) несе пісок угору по пляжу під цим кутом.",
+            "Відкат (backwash) тягне його прямо назад униз.",
+            "З часом пісок рухається зигзагом уздовж узбережжя.",
+            "Це називається вздовжбереговим переміщенням (longshore drift).",
+            "Коли хвилі втрачають енергію, вони скидають те, що несуть.",
+            "Це називається відкладанням (deposition)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لہروں کی قوت جو ہوا اور پانی کو چٹان کی دراڑوں میں دھکیلتی ہے (hydraulic action)",
+            "لہروں میں موجود پتھر اور ریت جو چٹانی دیوار کو رگڑتے ہیں (abrasion)",
+            "کنکر ایک دوسرے سے ٹکرا کر چھوٹے اور گول ہوتے جاتے ہیں (attrition)",
+            "لہروں کے ذریعے ریت اور بجری کی ساحل کے ساتھ ساتھ حرکت (longshore drift)",
+            "کھلے سمندر کا وہ فاصلہ جس پر ہوا چل کر لہر بناتی ہے (fetch)",
+            "لہریں اپنی اٹھائی ہوئی ریت اور کنکر گرا دیتی ہیں (deposition)"
+          ],
+          "passage": [
+            "سمندر ساحل کو چار طریقوں سے گھساتا ہے۔",
+            "hydraulic action لہروں کی وہ قوت ہے جو ہوا کو چٹانی دیوار کی دراڑوں میں دھکیلتی ہے۔",
+            "abrasion یہ ہے کہ لہروں میں موجود پتھر اور ریت چٹانی دیوار کو ریگ مال کی طرح رگڑتے ہیں۔",
+            "attrition یہ ہے کہ کنکر ایک دوسرے سے ٹکرا کر چھوٹے اور گول ہوتے جاتے ہیں۔",
+            "solution یہ ہے کہ سمندری پانی چاک اور limestone جیسی چٹانوں کو آہستہ آہستہ گھلا دیتا ہے۔",
+            "لہریں ساحل کے ساتھ ساتھ تلچھٹ (sediment) کو بھی حرکت دیتی ہیں۔",
+            "وہ عام طور پر ایک زاویے پر آتی ہیں، غالب ہوا (prevailing wind) کے دھکیلنے سے۔",
+            "swash ریت کو اسی زاویے پر ساحل کے اوپر لے جاتا ہے۔",
+            "backwash اسے سیدھا واپس نیچے کھینچ لیتا ہے۔",
+            "وقت کے ساتھ ریت ساحل کے ساتھ ساتھ ٹیڑھی میڑھی چال میں آگے بڑھتی ہے۔",
+            "اسے longshore drift کہتے ہیں۔",
+            "جب لہریں توانائی کھو دیتی ہیں تو جو کچھ لے جا رہی ہوتی ہیں، گرا دیتی ہیں۔",
+            "اسے deposition کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four ways the sea erodes",
@@ -533,8 +853,162 @@ window.ASTRA_UNITS["geog-landscapes"] = {
           "Longshore drift can build a spit out across a river mouth or bay.",
           "Swanage, in Dorset, shows many of these landforms.",
           "Its coast is part of the Jurassic Coast, a World Heritage Site."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "رأس من صخور أصلب يبرز في البحر (headland)",
+            "ساحل تلتقي فيه شرائط الصخور الصلبة والليّنة بالبحر بزوايا قائمة (discordant)",
+            "عمود من الصخر يبقى واقفًا في البحر عندما ينهار القوس (stack)",
+            "حافّة طويلة ضيّقة من الرمل والحصى يبنيها الانجراف الساحلي خارجةً من الساحل (spit)",
+            "عشب قوي يُزرع ليثبّت الكثبان الرملية (marram grass)",
+            "أرقام تحدّد مكانًا على خريطة OS (grid reference)"
+          ],
+          "passage": [
+            "في بعض السواحل شرائط من الصخور الصلبة والليّنة تلتقي بالبحر بزوايا قائمة.",
+            "تتآكل الصخور الليّنة أسرع فتكوّن الخلجان (bays).",
+            "وتبقى الصخور الصلبة بارزةً على شكل رؤوس (headlands).",
+            "تهاجم الأمواج الرأس فتوسّع الشقوق إلى كهوف (caves).",
+            "قد يخترق الكهف الرأس كلّه فيصنع قوسًا (arch).",
+            "عندما يسقط سقف القوس، يبقى عمود صخري (stack) واقفًا في البحر.",
+            "ويتآكل العمود الصخري حتى يصير جذعًا (stump).",
+            "في الأماكن المحميّة يرسّب البحر الرمل والحصى فتتكوّن الشواطئ.",
+            "تحمل الرياح الرمل الجافّ إلى الداخل فتتكوّن الكثبان الرملية (sand dunes).",
+            "يمكن للانجراف الساحلي أن يبني لسانًا رمليًا (spit) عبر مصبّ نهر أو خليج.",
+            "سوانيج (Swanage)، في دورست (Dorset)، تُظهر كثيرًا من هذه الأشكال الأرضية.",
+            "ساحلها جزء من الساحل الجوراسي (Jurassic Coast)، وهو موقع تراث عالمي."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "cypel z twardszej skały, który wystaje w morze (headland)",
+            "wybrzeże, na którym pasy twardej i miękkiej skały dochodzą do morza pod kątem prostym (discordant)",
+            "słup skalny, który zostaje w morzu, kiedy zawali się łuk (stack)",
+            "długi, wąski grzbiet z piasku i żwiru zbudowany od brzegu w morze przez dryf wzdłużbrzegowy (spit)",
+            "twarda trawa sadzona po to, by utrzymać wydmy w całości (marram grass)",
+            "liczby, które wskazują miejsce na mapie OS (grid reference)"
+          ],
+          "passage": [
+            "Na niektórych wybrzeżach pasy twardej i miękkiej skały dochodzą do morza pod kątem prostym.",
+            "Miękka skała ściera się szybciej i tworzy zatoki (bays).",
+            "Twarda skała zostaje i wystaje jako cyple (headlands).",
+            "Fale atakują cypel i poszerzają szczeliny w jaskinie (caves).",
+            "Jaskinia może przebić się na wylot i utworzyć łuk (arch).",
+            "Kiedy strop łuku się zawali, w morzu zostaje słup skalny (stack).",
+            "Słup jest ścierany, aż zostaje z niego kikut (stump).",
+            "W osłoniętych miejscach morze osadza piasek i żwir, tworząc plaże.",
+            "Wiatr wywiewa suchy piasek w głąb lądu i tworzy wydmy (sand dunes).",
+            "Dryf wzdłużbrzegowy może zbudować mierzeję (spit) w poprzek ujścia rzeki lub zatoki.",
+            "Swanage w hrabstwie Dorset pokazuje wiele z tych form terenu.",
+            "Jego wybrzeże jest częścią Wybrzeża Jurajskiego (Jurassic Coast), miejsca światowego dziedzictwa (World Heritage Site)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma ponta de rocha mais dura que avança para o mar (headland, promontório)",
+            "uma costa onde faixas de rocha dura e macia encontram o mar em ângulo reto (discordant, discordante)",
+            "um pilar de rocha que fica de pé no mar quando um arco desaba (stack)",
+            "uma faixa comprida e estreita de areia e cascalho construída a partir da costa pela deriva litoral (spit, restinga)",
+            "uma erva/grama resistente plantada para segurar as dunas de areia (marram grass)",
+            "números que indicam um lugar num mapa OS (grid reference, referência de quadrícula)"
+          ],
+          "passage": [
+            "Algumas costas têm faixas de rocha dura e macia que encontram o mar em ângulo reto.",
+            "A rocha macia desgasta-se mais depressa e forma baías.",
+            "A rocha dura fica a sobressair como promontórios (headlands).",
+            "As ondas atacam o promontório e abrem fendas que se tornam grutas (caves).",
+            "Uma gruta pode atravessar a rocha de lado a lado e formar um arco (arch).",
+            "Quando o teto do arco cai, fica um pilar de rocha de pé no mar, um stack.",
+            "O stack desgasta-se até ficar um toco (stump).",
+            "Em lugares abrigados, o mar deposita areia e cascalho e forma praias.",
+            "O vento sopra a areia seca para o interior e forma dunas de areia.",
+            "A deriva litoral pode construir uma restinga (spit) através da foz de um rio ou de uma baía.",
+            "Swanage, em Dorset, mostra muitas destas formas de relevo.",
+            "A sua costa faz parte da Costa Jurássica (Jurassic Coast), um sítio do Património/Patrimônio Mundial."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "fiiq dhagax adag oo badda dhex gala (headland)",
+            "xeeb ay xarriijimo dhagax adag iyo jilicsan badda xagal qumman kula kulmaan (discordant)",
+            "tiir dhagax oo badda dhexdeeda taagan oo hara marka arch dumo (stack)",
+            "qaanso dheer oo cidhiidhi ah oo ciid iyo dhagaxyo yaryar ah oo longshore drift xeebta ka dhisay (spit)",
+            "caws adag oo la beero si ay u isku hayso buuraleyda ciidda (marram grass)",
+            "tirooyin meel ka tilmaama khariidadda OS (grid reference)"
+          ],
+          "passage": [
+            "Xeebaha qaarkood waxay leeyihiin xarriijimo dhagax adag iyo jilicsan oo badda xagal qumman kula kulma.",
+            "Dhagax jilicsan si dhaqso badan ayuu u nabaad-guuraa oo wuxuu samaystaa gacano (bays).",
+            "Dhagax adag wuxuu hara isagoo soo fiiqan sida headlands.",
+            "Hirarku headland-ka ayay weeraraan oo dillaacyada ayay godad (caves) ka furaan.",
+            "God wuxuu gebi ahaanba dhex-goyn karaa oo samayn karaa arch.",
+            "Marka saqafka arch-ka dumo, stack ayaa badda dhexdeeda taagan hara.",
+            "Stack-ku wuu nabaad-guuraa ilaa uu noqdo stump.",
+            "Meelo gabbaad leh baddu ciid iyo dhagaxyo yaryar ayay dejisaa oo xeebo (beaches) ayay samaysaa.",
+            "Dabayshu ciid qalalan gudaha ayay u afuuftaa oo waxay samaysaa buuraley ciid (sand dunes).",
+            "Longshore drift wuxuu spit ka dhisi karaa af webi ama gacan hortooda.",
+            "Swanage, oo Dorset ku taal, waxay muujisaa landforms-kan badankood.",
+            "Xeebteeda waa qayb ka mid ah Jurassic Coast, oo ah World Heritage Site."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "виступ твердішої породи, що виходить у море (headland)",
+            "узбережжя, де смуги твердої і м’якої породи виходять до моря під прямим кутом (discordant)",
+            "стовп породи, що залишається стояти в морі, коли арка руйнується (stack)",
+            "довгий вузький гребінь із піску й гальки, який вздовжберегове переміщення нарощує від берега (spit)",
+            "жорстка трава, яку садять, щоб утримувати піщані дюни (marram grass)",
+            "числа, які вказують місце на карті OS (grid reference)"
+          ],
+          "passage": [
+            "На деяких узбережжях смуги твердої і м’якої породи виходять до моря під прямим кутом.",
+            "М’яка порода руйнується швидше і утворює бухти (bays).",
+            "Тверда порода залишається виступати як миси (headlands).",
+            "Хвилі атакують мис і розширюють тріщини до печер.",
+            "Печера може пройти наскрізь і утворити арку (arch).",
+            "Коли дах арки падає, у морі залишається стояти стовп — стек (stack).",
+            "Стек руйнується до пенька (stump).",
+            "У захищених місцях море відкладає пісок і гальку, утворюючи пляжі.",
+            "Вітер здуває сухий пісок на суходіл і утворює піщані дюни.",
+            "Вздовжберегове переміщення може нарощувати косу (spit) через гирло річки або бухту.",
+            "Свонідж (Swanage) у Дорсеті показує багато з цих форм рельєфу.",
+            "Його узбережжя — частина Юрського узбережжя (Jurassic Coast), об’єкта Світової спадщини."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سخت چٹان کا ایک کونا جو سمندر میں باہر نکلا ہوا ہو (headland)",
+            "ایسا ساحل جہاں سخت اور نرم چٹان کی پٹیاں سمندر سے قائمہ زاویے پر ملتی ہیں (discordant)",
+            "چٹان کا ایک ستون جو arch گرنے پر سمندر میں کھڑا رہ جاتا ہے (stack)",
+            "ریت اور بجری کی ایک لمبی، تنگ پٹی جو longshore drift ساحل سے باہر بناتی ہے (spit)",
+            "ایک سخت گھاس جو ریت کے ٹیلوں کو جوڑے رکھنے کے لیے لگائی جاتی ہے (marram grass)",
+            "وہ نمبر جو OS نقشے پر کسی جگہ کا پتہ دیتے ہیں (grid reference)"
+          ],
+          "passage": [
+            "کچھ ساحلوں پر سخت اور نرم چٹان کی پٹیاں سمندر سے قائمہ زاویے پر ملتی ہیں۔",
+            "نرم چٹان جلدی گھس جاتی ہے اور خلیجیں (bays) بناتی ہے۔",
+            "سخت چٹان باہر نکلی ہوئی رہ جاتی ہے اور headlands بناتی ہے۔",
+            "لہریں headland پر حملہ کرتی ہیں اور دراڑوں کو کھول کر غار (caves) بنا دیتی ہیں۔",
+            "غار پوری چٹان کے آر پار کٹ کر ایک arch بنا سکتا ہے۔",
+            "جب arch کی چھت گر جاتی ہے تو ایک stack سمندر میں کھڑا رہ جاتا ہے۔",
+            "stack گھس کر ایک stump بن جاتا ہے۔",
+            "محفوظ جگہوں پر سمندر ریت اور بجری جمع کر کے ساحل (beaches) بناتا ہے۔",
+            "ہوا خشک ریت کو اندرونِ ملک اڑا کر ریت کے ٹیلے (sand dunes) بناتی ہے۔",
+            "longshore drift دریا کے دہانے یا خلیج کے آر پار ایک spit بنا سکتا ہے۔",
+            "ڈورسیٹ (Dorset) کا سوانیج (Swanage) ان میں سے بہت سے landforms دکھاتا ہے۔",
+            "اس کا ساحل Jurassic Coast کا حصہ ہے، جو ایک World Heritage Site ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Headlands and bays",
@@ -741,8 +1215,168 @@ window.ASTRA_UNITS["geog-landscapes"] = {
           "Managed retreat lets the sea flood low-value land on purpose.",
           "At Medmerry, in West Sussex, this created a new wildlife habitat.",
           "Lyme Regis, in Dorset, has used several schemes to protect its town."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "بناء منشآت لصدّ البحر (hard engineering)",
+            "العمل مع العمليات الطبيعية لحماية الساحل (soft engineering)",
+            "حاجز من الخرسانة أو الصخر يعكس الأمواج إلى البحر (sea wall)",
+            "حاجز يُبنى عبر الشاطئ ليحبس الرمل المنجرف (groyne)",
+            "إضافة رمل أو حصى لجعل الشاطئ أعرض (beach nourishment)",
+            "ترك البحر يغمر أرضًا قليلة القيمة عن قصد (managed retreat)"
+          ],
+          "passage": [
+            "تُدار السواحل لحماية الناس والمنازل والأعمال من التعرية والفيضان.",
+            "الهندسة الصلبة (hard engineering) تعني بناء منشآت لصدّ البحر.",
+            "الجدار البحري (sea wall) حاجز خرساني بوجه منحنٍ يعكس الأمواج.",
+            "الحواجز الشاطئية (groynes) حواجز تُبنى عبر الشاطئ لتحبس الرمل الذي يحرّكه الانجراف الساحلي.",
+            "الدرع الصخري (rock armour) كومة من الصخور الكبيرة عند أسفل الجرف.",
+            "الأقفاص الصخرية (gabions) أقفاص من الأسلاك مملوءة بالصخور.",
+            "الهندسة الصلبة مكلفة ويمكن أن تُفسد منظر الساحل.",
+            "الهندسة الليّنة (soft engineering) تعمل مع الطبيعة وهي عادةً أرخص.",
+            "تغذية الشاطئ (beach nourishment) تضيف رملًا لجعل الشاطئ أعرض.",
+            "تجديد الكثبان (dune regeneration) يزرع عشب المرام (marram grass) ليثبّت الكثبان الرملية.",
+            "التراجع المُدار (managed retreat) يترك البحر يغمر أرضًا قليلة القيمة عن قصد.",
+            "في ميدميري (Medmerry)، في ويست ساسكس (West Sussex)، خلق هذا موطنًا جديدًا للحياة البرّية.",
+            "استخدمت لايم ريجيس (Lyme Regis)، في دورست، عدّة مشروعات لحماية مدينتها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "budowanie konstrukcji, które powstrzymują morze (hard engineering)",
+            "współpraca z naturalnymi procesami, by chronić wybrzeże (soft engineering)",
+            "betonowa lub skalna bariera, która odbija fale z powrotem w morze (sea wall)",
+            "bariera zbudowana w poprzek plaży, żeby zatrzymać przesuwający się piasek (groyne)",
+            "dosypywanie piasku lub żwiru, żeby plaża była szersza (beach nourishment)",
+            "celowe pozwolenie morzu na zalanie terenów o małej wartości (managed retreat)"
+          ],
+          "passage": [
+            "Wybrzeżami zarządza się po to, by chronić ludzi, domy i firmy przed erozją i powodzią.",
+            "Twarda inżynieria (hard engineering) oznacza budowanie konstrukcji, które powstrzymują morze.",
+            "Mur morski (sea wall) to betonowa bariera z zakrzywioną ścianą, która odbija fale.",
+            "Ostrogi (groynes) to bariery zbudowane w poprzek plaży, żeby zatrzymać piasek przesuwany przez dryf wzdłużbrzegowy.",
+            "Narzut kamienny (rock armour) to stos wielkich głazów u podnóża klifu.",
+            "Gabiony (gabions) to kosze z siatki wypełnione kamieniami.",
+            "Twarda inżynieria jest droga i może zepsuć wygląd wybrzeża.",
+            "Miękka inżynieria (soft engineering) współpracuje z naturą i zwykle jest tańsza.",
+            "Zasilanie plaży (beach nourishment) to dosypywanie piasku, żeby plaża była szersza.",
+            "Odbudowa wydm (dune regeneration) to sadzenie trawy marram (marram grass), która utrzymuje wydmy w całości.",
+            "Kontrolowany odwrót (managed retreat) celowo pozwala morzu zalać tereny o małej wartości.",
+            "W Medmerry w West Sussex stworzyło to nowe siedlisko dla dzikiej przyrody.",
+            "Lyme Regis w hrabstwie Dorset użyło kilku sposobów, żeby chronić swoje miasto."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "construir estruturas para travar/segurar o mar (hard engineering, engenharia pesada)",
+            "trabalhar com os processos naturais para proteger a costa (soft engineering, engenharia leve)",
+            "uma barreira de betão/concreto ou de rocha que reflete as ondas de volta para o mar (sea wall, paredão)",
+            "uma barreira construída através da praia para prender a areia que vai à deriva (groyne, esporão)",
+            "juntar areia ou cascalho para tornar uma praia mais larga (beach nourishment, alimentação da praia)",
+            "deixar o mar inundar de propósito terras de pouco valor (managed retreat, recuo controlado)"
+          ],
+          "passage": [
+            "As costas são geridas/gerenciadas para proteger as pessoas, as casas e os negócios da erosão e das inundações.",
+            "Engenharia pesada (hard engineering) quer dizer construir estruturas para travar o mar.",
+            "Um paredão (sea wall) é uma barreira de betão/concreto com uma face curva que reflete as ondas.",
+            "Os esporões (groynes) são barreiras construídas através da praia para prender a areia movida pela deriva litoral.",
+            "A armadura de rocha (rock armour) é um monte de grandes blocos de pedra ao pé de uma falésia.",
+            "Os gabiões (gabions) são gaiolas de arame cheias de pedras.",
+            "A engenharia pesada é cara e pode estragar o aspeto/aspecto da costa.",
+            "A engenharia leve (soft engineering) trabalha com a natureza e costuma ser mais barata.",
+            "A alimentação da praia (beach nourishment) junta areia para tornar a praia mais larga.",
+            "A regeneração das dunas (dune regeneration) planta marram grass para segurar as dunas de areia.",
+            "O recuo controlado (managed retreat) deixa o mar inundar de propósito terras de pouco valor.",
+            "Em Medmerry, em West Sussex, isto criou um novo habitat para a vida selvagem.",
+            "Lyme Regis, em Dorset, usou vários projetos para proteger a sua cidade."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhisidda dhismayaal si badda dib loogu celiyo (hard engineering)",
+            "la shaqaynta hababka dabiiciga ah si xeebta loo ilaaliyo (soft engineering)",
+            "caqabad shub ama dhagax ah oo hirarka dib badda ugu celisa (sea wall)",
+            "caqabad xeebta dhexdeeda laga dhisay si ay u qabato ciidda socota (groyne)",
+            "ku daridda ciid ama dhagaxyo yaryar si xeebta loo ballaariyo (beach nourishment)",
+            "u oggolaanshaha badda inay si ula kac ah fatahaad ku sameyso dhul qiimo yar (managed retreat)"
+          ],
+          "passage": [
+            "Xeebaha waa la maareeyaa si dadka, guryaha iyo ganacsiyada looga ilaaliyo nabaad-guur iyo fatahaad.",
+            "Hard engineering macnaheedu waa dhisidda dhismayaal si badda dib loogu celiyo.",
+            "Sea wall waa caqabad shub ah oo wejigeedu qalloocan yahay oo hirarka dib u celisa.",
+            "Groynes waa caqabado xeebta dhexdeeda laga dhisay si ay u qabtaan ciidda longshore drift dhaqaajiyo.",
+            "Rock armour waa tuulmo dhagaxyo waaweyn oo jar hoostiisa la dhigay.",
+            "Gabions waa qafisyo silig ah oo dhagaxyo ka buuxaan.",
+            "Hard engineering qaali ayay tahay, waxayna kharribi kartaa muuqaalka xeebta.",
+            "Soft engineering dabeecadda ayay la shaqaysaa, inta badanna way jaban tahay.",
+            "Beach nourishment ciid ayay ku dartaa si xeebta loo ballaariyo.",
+            "Dune regeneration marram grass ayay beertaa si buuraleyda ciidda loo isku hayo.",
+            "Managed retreat badda ayay u oggolaataa inay si ula kac ah fatahaad ku samayso dhul qiimo yar.",
+            "Medmerry, oo West Sussex ku taal, tani waxay abuurtay deegaan cusub oo xayawaan duurjoog ah.",
+            "Lyme Regis, oo Dorset ku taal, dhowr mashruuc ayay isticmaashay si magaaladeeda u ilaaliso."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "будівництво споруд, щоб стримувати море (hard engineering)",
+            "робота з природними процесами, щоб захистити узбережжя (soft engineering)",
+            "бетонний або кам’яний бар’єр, який відбиває хвилі назад у море (sea wall)",
+            "бар’єр, побудований поперек пляжу, щоб затримувати пісок, що переміщується (groyne)",
+            "додавання піску або гальки, щоб зробити пляж ширшим (beach nourishment)",
+            "навмисне дозволити морю затопити землю низької цінності (managed retreat)"
+          ],
+          "passage": [
+            "Узбережжями керують, щоб захистити людей, домівки й бізнес від ерозії та затоплення.",
+            "Жорстка інженерія (hard engineering) означає будівництво споруд, щоб стримувати море.",
+            "Морська стіна (sea wall) — це бетонний бар’єр із вигнутою поверхнею, який відбиває хвилі.",
+            "Буни (groynes) — це бар’єри поперек пляжу, які затримують пісок, що рухається вздовжбереговим переміщенням.",
+            "Кам’яний захист (rock armour) — це купа великих валунів біля підніжжя скелі.",
+            "Габіони (gabions) — це дротяні клітки, наповнені камінням.",
+            "Жорстка інженерія дорога і може зіпсувати вигляд узбережжя.",
+            "М’яка інженерія (soft engineering) працює разом із природою і зазвичай дешевша.",
+            "Підсипання пляжу (beach nourishment) додає пісок, щоб зробити пляж ширшим.",
+            "Відновлення дюн (dune regeneration) — це висаджування трави marram, щоб утримувати піщані дюни.",
+            "Керований відступ (managed retreat) навмисно дозволяє морю затопити землю низької цінності.",
+            "У Медмеррі (Medmerry), Західний Сассекс, це створило нове середовище для дикої природи.",
+            "Лайм-Реджис (Lyme Regis) у Дорсеті використав кілька схем, щоб захистити своє місто."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سمندر کو روکنے کے لیے ڈھانچے بنانا (hard engineering)",
+            "ساحل کی حفاظت کے لیے قدرتی عملوں کے ساتھ مل کر کام کرنا (soft engineering)",
+            "کنکریٹ یا پتھر کی ایک رکاوٹ جو لہروں کو واپس سمندر کی طرف پلٹا دیتی ہے (sea wall)",
+            "ساحل کے آر پار بنائی گئی رکاوٹ جو بہتی ہوئی ریت کو روک لیتی ہے (groyne)",
+            "ساحل کو چوڑا کرنے کے لیے ریت یا بجری ڈالنا (beach nourishment)",
+            "کم قیمت زمین کو جان بوجھ کر سمندر کے پانی میں ڈوبنے دینا (managed retreat)"
+          ],
+          "passage": [
+            "ساحلوں کا انتظام لوگوں، گھروں اور کاروباروں کو گھسائی اور سیلاب سے بچانے کے لیے کیا جاتا ہے۔",
+            "hard engineering کا مطلب ہے سمندر کو روکنے کے لیے ڈھانچے بنانا۔",
+            "sea wall کنکریٹ کی ایک رکاوٹ ہے جس کا خم دار رخ لہروں کو پلٹا دیتا ہے۔",
+            "groynes ساحل کے آر پار بنائی گئی رکاوٹیں ہیں جو longshore drift سے حرکت کرتی ریت کو روک لیتی ہیں۔",
+            "rock armour چٹانی دیوار کے دامن میں بڑے بڑے پتھروں کا ڈھیر ہے۔",
+            "gabions تار کے پنجرے ہیں جن میں پتھر بھرے ہوتے ہیں۔",
+            "hard engineering مہنگی ہے اور ساحل کی خوبصورتی خراب کر سکتی ہے۔",
+            "soft engineering قدرت کے ساتھ مل کر کام کرتی ہے اور عام طور پر سستی ہوتی ہے۔",
+            "beach nourishment ریت ڈال کر ساحل کو چوڑا کرتی ہے۔",
+            "dune regeneration میں marram grass لگائی جاتی ہے تاکہ ریت کے ٹیلے جڑے رہیں۔",
+            "managed retreat کم قیمت زمین کو جان بوجھ کر سمندر کے پانی میں ڈوبنے دیتا ہے۔",
+            "ویسٹ سسیکس (West Sussex) کے میڈمیری (Medmerry) میں اس سے جنگلی حیات کا ایک نیا مسکن بنا۔",
+            "ڈورسیٹ کے لائم ریجس (Lyme Regis) نے اپنے شہر کی حفاظت کے لیے کئی منصوبے استعمال کیے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Hard engineering",
@@ -956,8 +1590,168 @@ window.ASTRA_UNITS["geog-landscapes"] = {
           "Floods leave layers of silt that build up levees along the banks.",
           "The River Tees flows from the North Pennines to the North Sea.",
           "You studied its landforms from source to mouth."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مساحة الأرض التي يصرّف ماءها نهر وروافده (drainage basin)",
+            "نهر أصغر يلتحق بنهر أكبر (tributary)",
+            "النقطة التي يلتقي فيها نهران (confluence)",
+            "نهر يحفر إلى الأسفل في قاعه (vertical erosion)",
+            "نهر يحفر جانبيًا في ضفافه (lateral erosion)",
+            "انحناء في النهر (meander)"
+          ],
+          "passage": [
+            "يجمع النهر الماء من مساحة من الأرض تُسمّى حوض التصريف (drainage basin).",
+            "يبدأ النهر من منبعه (source)، وغالبًا ما يكون عاليًا في التلال.",
+            "تلتحق به أنهار أصغر تُسمّى الروافد (tributaries) عند ملتقى (confluence).",
+            "وينتهي عند مصبّه (mouth)، حيث يلتقي بالبحر أو ببحيرة.",
+            "في المجرى الأعلى يحفر النهر إلى الأسفل فيصنع واديًا شديد الانحدار على شكل حرف V.",
+            "هنا تجد الشلّالات والخوانق (gorges) والنتوءات المتشابكة (interlocking spurs).",
+            "في المجرى الأوسط يُؤكّل النهر جانبيًا ويبدأ في التعرّج.",
+            "المنعطف (meander) انحناء في النهر.",
+            "ومع الوقت يمكن أن يُقطع المنعطف فيترك بحيرة هلالية (ox-bow lake).",
+            "في المجرى الأدنى يكون النهر عريضًا وعميقًا ويجري عبر سهل فيضي منبسط.",
+            "تترك الفيضانات طبقات من الطمي تبني حواجز طبيعية (levees) على طول الضفاف.",
+            "يجري نهر التيز (River Tees) من شمال البنينز (North Pennines) إلى بحر الشمال.",
+            "وقد درست أشكاله الأرضية من المنبع إلى المصبّ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "obszar lądu odwadniany przez rzekę i jej dopływy (drainage basin)",
+            "mniejsza rzeka, która wpada do większej (tributary)",
+            "miejsce, gdzie dwie rzeki się łączą (confluence)",
+            "rzeka wcinająca się w dół, w swoje dno (vertical erosion)",
+            "rzeka wcinająca się na boki, w swoje brzegi (lateral erosion)",
+            "zakręt rzeki (meander)"
+          ],
+          "passage": [
+            "Rzeka zbiera wodę z obszaru lądu zwanego jej dorzeczem (drainage basin).",
+            "Rzeka zaczyna się u źródła (source), często wysoko na wzgórzach.",
+            "Mniejsze rzeki, zwane dopływami (tributaries), łączą się z nią w miejscu zbiegu (confluence).",
+            "Kończy się przy ujściu (mouth), gdzie spotyka się z morzem lub jeziorem.",
+            "W górnym biegu rzeka wcina się w dół i tworzy stromą dolinę V-kształtną (V-shaped valley).",
+            "Tu znajdziesz wodospady, wąwozy i zazębiające się ostrogi (interlocking spurs).",
+            "W środkowym biegu rzeka eroduje na boki i zaczyna meandrować.",
+            "Meander to zakręt rzeki.",
+            "Z czasem meander może zostać odcięty i zostawić starorzecze (ox-bow lake).",
+            "W dolnym biegu rzeka jest szeroka i głęboka i płynie przez płaską równinę zalewową (floodplain).",
+            "Powodzie zostawiają warstwy mułu, które budują wały (levees) wzdłuż brzegów.",
+            "Rzeka Tees płynie z gór North Pennines do Morza Północnego.",
+            "Poznawaliście jej formy terenu od źródła do ujścia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a área de terra drenada por um rio e pelos seus afluentes (drainage basin, bacia hidrográfica)",
+            "um rio mais pequeno/menor que se junta a um maior (tributary, afluente)",
+            "o ponto onde dois rios se encontram (confluence, confluência)",
+            "um rio a cortar/cortando para baixo no seu leito (vertical erosion, erosão vertical)",
+            "um rio a cortar/cortando para os lados nas suas margens (lateral erosion, erosão lateral)",
+            "uma curva num rio (meander, meandro)"
+          ],
+          "passage": [
+            "Um rio recolhe água de uma área de terra chamada bacia hidrográfica (drainage basin).",
+            "O rio começa na sua nascente (source), muitas vezes no alto das colinas.",
+            "Rios mais pequenos chamados afluentes (tributaries) juntam-se a ele numa confluência (confluence).",
+            "Termina na sua foz (mouth), onde encontra o mar ou um lago.",
+            "No curso superior o rio corta para baixo e faz um vale em V íngreme.",
+            "Aqui encontram-se quedas de água/cachoeiras, gargantas e esporões (interlocking spurs).",
+            "No curso médio o rio erode para os lados e começa a serpentear.",
+            "Um meandro (meander) é uma curva no rio.",
+            "Com o tempo um meandro pode ser cortado e deixar um lago em ferradura (ox-bow lake).",
+            "No curso inferior o rio é largo e fundo e corre por uma planície de inundação plana.",
+            "As cheias deixam camadas de lodo que vão formando diques naturais (levees) ao longo das margens.",
+            "O rio Tees corre dos North Pennines até ao Mar do Norte.",
+            "Você estudou as suas formas de relevo da nascente até à foz."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "aagga dhulka oo webi iyo tributaries-kiisa biyo ka qaadaan (drainage basin)",
+            "webi ka yar oo ku biira webi ka weyn (tributary)",
+            "barta laba webi ku kulmaan (confluence)",
+            "webi hoos u goynaya sariirtiisa (vertical erosion)",
+            "webi dhinac u goynaya darafkiisa (lateral erosion)",
+            "leexo webi ku jirta (meander)"
+          ],
+          "passage": [
+            "Webi biyo wuxuu ka ururiyaa aag dhul oo la yiraahdo drainage basin-kiisa.",
+            "Webigu wuxuu ka bilaabmaa ishiisa (source), inta badan buuraha meel sare.",
+            "Webiyo ka yaryar oo la yiraahdo tributaries waxay ku biiraan confluence.",
+            "Wuxuu ku dhammaadaa afkiisa (mouth), halkaas oo uu badda ama haro la kulmo.",
+            "Qaybta sare webigu hoos ayuu u gooyaa oo wuxuu samaystaa V-shaped valley dheer.",
+            "Halkan waxaad ka heli kartaa biyo-dhacyo, gorges iyo interlocking spurs.",
+            "Qaybta dhexe webigu dhinac ayuu u nabaad-guuriyaa oo wuxuu bilaabaa inuu leexleexdo (meander).",
+            "Meander waa leexo webiga ku jirta.",
+            "Waqti ka dib meander waa la goyn karaa oo wuxuu ka tagaa ox-bow lake.",
+            "Qaybta hoose webigu wuu ballaaran yahay oo qoto dheer yahay, wuxuuna ku socdaa floodplain siman.",
+            "Fatahaaduhu waxay ka tagaan lakabyo dhoobo (silt) oo levees ka dhisa darafka.",
+            "Webiga Tees wuxuu ka socdaa North Pennines ilaa North Sea.",
+            "Landforms-kiisa waxaad ka baratay isha ilaa afka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "ділянка землі, з якої збирає воду річка та її притоки (drainage basin)",
+            "менша річка, що впадає в більшу (tributary)",
+            "точка, де зустрічаються дві річки (confluence)",
+            "річка врізається вниз у своє дно (vertical erosion)",
+            "річка врізається вбік у свої береги (lateral erosion)",
+            "вигин річки (meander)"
+          ],
+          "passage": [
+            "Річка збирає воду з ділянки землі, яка називається її річковим басейном (drainage basin).",
+            "Річка починається біля свого витоку (source), часто високо в горах.",
+            "Менші річки, які називаються притоками (tributaries), впадають у неї біля злиття (confluence).",
+            "Вона закінчується біля свого гирла (mouth), де зустрічається з морем або озером.",
+            "У верхній течії річка врізається вниз і утворює круту V-подібну долину.",
+            "Тут ви знайдете водоспади, ущелини та interlocking spurs.",
+            "У середній течії річка розмиває береги вбік і починає утворювати меандри.",
+            "Меандр (meander) — це вигин річки.",
+            "З часом меандр може відрізатися і залишити озеро-старицю (ox-bow lake).",
+            "У нижній течії річка широка й глибока і тече по рівній заплаві (floodplain).",
+            "Повені залишають шари мулу, які нарощують природні вали (levees) уздовж берегів.",
+            "Річка Тіс (River Tees) тече від Північних Пеннін до Північного моря.",
+            "Ви вивчали її форми рельєфу від витоку до гирла."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کا وہ علاقہ جس کا پانی ایک دریا اور اس کے معاون دریا بہا کر لے جاتے ہیں (drainage basin)",
+            "ایک چھوٹا دریا جو بڑے دریا میں مل جاتا ہے (tributary)",
+            "وہ جگہ جہاں دو دریا آپس میں ملتے ہیں (confluence)",
+            "دریا کا اپنے تلے میں نیچے کی طرف کاٹنا (vertical erosion)",
+            "دریا کا اپنے کناروں میں پہلو کی طرف کاٹنا (lateral erosion)",
+            "دریا کا ایک موڑ (meander)"
+          ],
+          "passage": [
+            "دریا زمین کے ایک علاقے سے پانی جمع کرتا ہے جسے اس کا drainage basin کہتے ہیں۔",
+            "دریا اپنے منبع (source) سے شروع ہوتا ہے، جو اکثر پہاڑیوں میں اونچائی پر ہوتا ہے۔",
+            "چھوٹے دریا، جنھیں tributaries کہتے ہیں، ایک confluence پر اس میں مل جاتے ہیں۔",
+            "یہ اپنے دہانے (mouth) پر ختم ہوتا ہے، جہاں یہ سمندر یا جھیل سے ملتا ہے۔",
+            "بالائی حصے میں دریا نیچے کی طرف کاٹتا ہے اور ایک ڈھلوان V-shaped valley بناتا ہے۔",
+            "یہاں آپ کو آبشاریں، gorges اور interlocking spurs ملتے ہیں۔",
+            "درمیانی حصے میں دریا پہلو کی طرف گھسائی کرتا ہے اور موڑ کھانے لگتا ہے۔",
+            "meander دریا کا ایک موڑ ہے۔",
+            "وقت کے ساتھ ایک meander کٹ کر الگ ہو سکتا ہے اور ایک ox-bow lake چھوڑ جاتا ہے۔",
+            "زیریں حصے میں دریا چوڑا اور گہرا ہوتا ہے اور ایک ہموار floodplain پر بہتا ہے۔",
+            "سیلاب گاد (silt) کی تہیں چھوڑ جاتے ہیں جو کناروں کے ساتھ levees بنا دیتی ہیں۔",
+            "دریائے ٹیز (River Tees) شمالی پینائنز (North Pennines) سے بحیرۂ شمال (North Sea) تک بہتا ہے۔",
+            "آپ نے اس کے landforms کا منبع سے دہانے تک مطالعہ کیا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The drainage basin and the three courses",
@@ -1159,8 +1953,162 @@ window.ASTRA_UNITS["geog-landscapes"] = {
           "Floods can be managed with hard engineering, such as dams and embankments.",
           "Soft engineering includes planting trees and flood warnings.",
           "Banbury is your case study of flood management in the UK."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كمّية الماء التي تمرّ بنقطة على النهر في كلّ ثانية (discharge)",
+            "رسم بياني يُظهر كيف يتغيّر تصريف النهر بعد المطر (hydrograph)",
+            "الوقت بين أشدّ المطر وأعلى تصريف (lag time)",
+            "أعلى تصريف يصل إليه النهر بعد المطر (peak discharge)",
+            "تحديد ما يجوز بناؤه على أرض قد تغمرها المياه (floodplain zoning)",
+            "زراعة الأشجار (afforestation)"
+          ],
+          "passage": [
+            "يفيض النهر عندما يدخله ماء أكثر ممّا يستطيع مجراه أن يحمل.",
+            "المطر الشديد والمنحدرات الحادّة والصخور غير المنفذة كلّها تجعل الفيضان أكثر احتمالًا.",
+            "ذوبان الجليد والثلج يمكن أن يزيد الماء أيضًا.",
+            "يزيد الناس الفيضانات سوءًا ببناء المدن وقطع الأشجار.",
+            "الأسطح الصلبة والمصارف ترسل المطر إلى النهر بسرعة.",
+            "الهيدروغراف (hydrograph) رسم بياني يُظهر كيف يستجيب النهر للعاصفة.",
+            "التصريف (discharge) هو كمّية الماء التي تمرّ بنقطة ما، ويُقاس بالمتر المكعّب في الثانية (cumecs).",
+            "زمن التأخّر (lag time) هو الفجوة بين أشدّ المطر وأعلى تصريف.",
+            "الهيدروغراف الحادّ (flashy) له زمن تأخّر قصير وذروة عالية.",
+            "يمكن إدارة الفيضانات بالهندسة الصلبة، مثل السدود والسدود الترابية (embankments).",
+            "تشمل الهندسة الليّنة زراعة الأشجار وتحذيرات الفيضان.",
+            "بانبري (Banbury) هي دراسة الحالة عندك عن إدارة الفيضانات في المملكة المتّحدة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ilość wody przepływającej przez dany punkt rzeki w każdej sekundzie (discharge)",
+            "wykres pokazujący, jak zmienia się przepływ rzeki po deszczu (hydrograph)",
+            "czas między najsilniejszym deszczem a najwyższym przepływem (lag time)",
+            "najwyższy przepływ, jaki rzeka osiąga po deszczu (peak discharge)",
+            "decydowanie, co można budować na terenie, który może zostać zalany (floodplain zoning)",
+            "sadzenie drzew (afforestation)"
+          ],
+          "passage": [
+            "Rzeka wylewa, kiedy wpływa do niej więcej wody, niż mieści jej koryto.",
+            "Ulewny deszcz, strome zbocza i nieprzepuszczalna (impermeable) skała sprawiają, że powódź jest bardziej prawdopodobna.",
+            "Topniejący lód i śnieg też mogą dodać wody.",
+            "Ludzie pogarszają powodzie, budując miasta i wycinając drzewa.",
+            "Twarde powierzchnie i kanały szybko odprowadzają deszcz do rzeki.",
+            "Hydrogram (hydrograph) to wykres pokazujący, jak rzeka reaguje na burzę.",
+            "Przepływ (discharge) to ilość wody przepływającej przez dany punkt, mierzona w kumekach (cumecs).",
+            "Czas opóźnienia (lag time) to odstęp między najsilniejszym deszczem a najwyższym przepływem.",
+            "Gwałtowny hydrogram (flashy hydrograph) ma krótki czas opóźnienia i wysoki szczyt.",
+            "Powodziami można zarządzać za pomocą twardej inżynierii, takiej jak tamy i wały.",
+            "Miękka inżynieria obejmuje sadzenie drzew i ostrzeżenia powodziowe.",
+            "Banbury to wasze studium przypadku zarządzania powodzią w Wielkiej Brytanii."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a quantidade de água que passa num ponto de um rio a cada segundo (discharge, caudal/vazão)",
+            "um gráfico que mostra como o caudal de um rio muda depois da chuva (hydrograph, hidrograma)",
+            "o tempo entre a chuva mais forte e o caudal mais alto (lag time, tempo de atraso)",
+            "o caudal mais alto que o rio atinge depois da chuva (peak discharge, caudal de ponta/vazão de pico)",
+            "decidir o que pode ser construído em terras que podem inundar (floodplain zoning, zonamento da planície de inundação)",
+            "plantar árvores (afforestation, florestação/florestamento)"
+          ],
+          "passage": [
+            "Um rio inunda quando entra nele mais água do que o seu canal consegue conter.",
+            "Chuva forte, encostas íngremes e rocha impermeável tornam as cheias mais prováveis.",
+            "O gelo e a neve a derreter/derretendo também podem juntar mais água.",
+            "As pessoas pioram as cheias ao construir cidades e cortar árvores.",
+            "As superfícies duras e os esgotos mandam a chuva depressa para o rio.",
+            "Um hidrograma (hydrograph) é um gráfico que mostra como um rio responde a uma tempestade.",
+            "O caudal/a vazão (discharge) é a quantidade de água que passa num ponto, medida em cumecs.",
+            "O tempo de atraso (lag time) é o intervalo entre a chuva mais forte e o caudal mais alto.",
+            "Um hidrograma de resposta rápida (flashy) tem um tempo de atraso curto e um pico alto.",
+            "As cheias podem ser geridas com engenharia pesada, como barragens e diques.",
+            "A engenharia leve inclui plantar árvores e avisos de cheia.",
+            "Banbury é o seu estudo de caso sobre a gestão de cheias no Reino Unido."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tirada biyaha ilbiriqsi kasta bar webi ku taal dhaafaya (discharge)",
+            "garaaf muujinaya sida discharge-ka webi roob ka dib isu beddelo (hydrograph)",
+            "waqtiga u dhexeeya roobka ugu culus iyo discharge-ka ugu sarreeya (lag time)",
+            "discharge-ka ugu sarreeya ee webi gaaro roob ka dib (peak discharge)",
+            "go'aaminta waxa laga dhisi karo dhul fatahaad ku dhici karto (floodplain zoning)",
+            "geed-beerid (afforestation)"
+          ],
+          "passage": [
+            "Webi wuxuu fatahaad sameeyaa marka biyo ka badan inta marinkiisu qaadi karo galaan.",
+            "Roob culus, jiirar dheer iyo dhagax impermeable dhammaantood fatahaadaha ayay u badnaan kartaa.",
+            "Baraf dhalaalaya iyo baraf-roobna biyaha ku dari karaan.",
+            "Dadku fatahaadaha way ka sii daraan iyagoo magaalooyin dhisaya oo geedo jaraya.",
+            "Dusha adag iyo bullaacaduhu roobka si dhaqso ah ayay webiga u geeyaan.",
+            "Hydrograph waa garaaf muujinaya sida webi uga jawaabo duufaan.",
+            "Discharge waa tirada biyaha bar dhaafaya, oo lagu cabbiro cumecs.",
+            "Lag time waa farqiga u dhexeeya roobka ugu culus iyo discharge-ka ugu sarreeya.",
+            "Flashy hydrograph wuxuu leeyahay lag time gaaban iyo peak sare.",
+            "Fatahaadaha waxaa lagu maarayn karaa hard engineering, sida dams iyo embankments.",
+            "Soft engineering waxaa ka mid ah geed-beerid iyo digniinaha fatahaadda.",
+            "Banbury waa case study-gaaga maaraynta fatahaadda ee UK."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "кількість води, що проходить через точку на річці за секунду (discharge)",
+            "графік, який показує, як змінюється витрата води в річці після дощу (hydrograph)",
+            "час між найсильнішим дощем і найбільшою витратою води (lag time)",
+            "найбільша витрата води, якої досягає річка після дощу (peak discharge)",
+            "вирішення того, що можна будувати на землі, яку може затопити (floodplain zoning)",
+            "висаджування дерев (afforestation)"
+          ],
+          "passage": [
+            "Річка розливається, коли в неї надходить більше води, ніж може вмістити її русло.",
+            "Сильний дощ, круті схили і водонепроникна (impermeable) порода роблять повені ймовірнішими.",
+            "Танення льоду і снігу теж може додати води.",
+            "Люди погіршують повені, будуючи міста і вирубуючи дерева.",
+            "Тверді поверхні та стоки швидко відправляють дощову воду в річку.",
+            "Гідрограф (hydrograph) — це графік, який показує, як річка реагує на бурю.",
+            "Витрата води (discharge) — це кількість води, що проходить через точку, вимірюється в cumecs.",
+            "Час запізнення (lag time) — це проміжок між найсильнішим дощем і найбільшою витратою води.",
+            "Різкий (flashy) гідрограф має короткий час запізнення і високий пік.",
+            "Повенями можна керувати за допомогою жорсткої інженерії, такої як дамби і насипи.",
+            "М’яка інженерія включає висаджування дерев і попередження про повінь.",
+            "Банбері (Banbury) — ваш кейс-стаді з керування повенями у Великій Британії."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پانی کی وہ مقدار جو دریا کے کسی نقطے سے ہر سیکنڈ گزرتی ہے (discharge)",
+            "ایک گراف جو دکھاتا ہے کہ بارش کے بعد دریا کا discharge کیسے بدلتا ہے (hydrograph)",
+            "سب سے تیز بارش اور سب سے زیادہ discharge کے بیچ کا وقت (lag time)",
+            "بارش کے بعد دریا کا سب سے زیادہ discharge (peak discharge)",
+            "یہ فیصلہ کرنا کہ ایسی زمین پر کیا بنایا جا سکتا ہے جہاں سیلاب آ سکتا ہو (floodplain zoning)",
+            "درخت لگانا (afforestation)"
+          ],
+          "passage": [
+            "دریا میں سیلاب تب آتا ہے جب اس میں اتنا پانی داخل ہو جتنا اس کی نالی سنبھال نہ سکے۔",
+            "تیز بارش، ڈھلوان زمین اور impermeable چٹان، یہ سب سیلاب کا امکان بڑھا دیتے ہیں۔",
+            "پگھلتی برف اور یخ بھی پانی میں اضافہ کر سکتے ہیں۔",
+            "لوگ شہر بنا کر اور درخت کاٹ کر سیلاب کو اور بُرا بنا دیتے ہیں۔",
+            "سخت سطحیں اور نالے بارش کو جلدی سے دریا میں پہنچا دیتے ہیں۔",
+            "hydrograph ایک گراف ہے جو دکھاتا ہے کہ دریا طوفان پر کیسے ردِعمل دیتا ہے۔",
+            "discharge پانی کی وہ مقدار ہے جو کسی نقطے سے گزرتی ہے، اور یہ cumecs میں ناپی جاتی ہے۔",
+            "lag time سب سے تیز بارش اور سب سے زیادہ discharge کے بیچ کا وقفہ ہے۔",
+            "flashy hydrograph کا lag time چھوٹا اور peak اونچا ہوتا ہے۔",
+            "سیلاب کا انتظام hard engineering سے کیا جا سکتا ہے، جیسے ڈیم اور embankments۔",
+            "soft engineering میں درخت لگانا اور سیلاب کی وارننگ شامل ہیں۔",
+            "بینبری (Banbury) برطانیہ میں سیلاب کے انتظام کی آپ کی case study ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why rivers flood",

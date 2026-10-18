@@ -101,8 +101,168 @@ window.ASTRA_UNITS["geog-tectonics"] = {
           "Hot rock rises, spreads out, cools and sinks again.",
           "These slow movements are called convection currents.",
           "They drag the pieces of crust above them along, a few centimetres a year."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الطبقة الخارجية الرقيقة الصلبة من الأرض (crust)",
+            "الطبقة السميكة من الصخور شديدة الحرارة تحت القشرة (mantle)",
+            "مركز الأرض، وهو أشدّ أجزائها حرارةً (core)",
+            "صخور منصهرة ما زالت تحت الأرض (magma)",
+            "صخور منصهرة خرجت إلى السطح (lava)",
+            "ارتفاع الصخور الحارّة وانتشارها وتبرّدها وهبوطها ببطء (convection current)"
+          ],
+          "passage": [
+            "عمر الأرض نحو 4.54 مليار سنة.",
+            "يحسب العلماء ذلك بدراسة الصخور.",
+            "تتكوّن الأرض من طبقات، تشبه البصلة قليلًا.",
+            "الطبقة الخارجية الرقيقة هي القشرة (crust)، ونحن نعيش عليها.",
+            "تحت القشرة يقع الوشاح (mantle)، وهو طبقة سميكة من الصخور شديدة الحرارة.",
+            "وفي المركز يقع اللبّ (core)، وله جزء خارجي وجزء داخلي.",
+            "اللبّ هو أشدّ أجزاء الأرض حرارةً.",
+            "الصخور المنصهرة تحت الأرض تُسمّى الصهارة (magma).",
+            "عندما تخرج الصهارة إلى السطح نسمّيها الحِمم (lava).",
+            "الحرارة من اللبّ تجعل صخور الوشاح تتحرّك ببطء شديد.",
+            "ترتفع الصخور الحارّة وتنتشر وتبرد ثم تهبط من جديد.",
+            "تُسمّى هذه الحركات البطيئة تيّارات الحمل (convection currents).",
+            "وهي تجرّ معها قطع القشرة التي فوقها، بضعة سنتيمترات في السنة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "cienka, stała zewnętrzna warstwa Ziemi (crust)",
+            "gruba warstwa bardzo gorących skał pod skorupą (mantle)",
+            "środek Ziemi, jej najgorętsza część (core)",
+            "stopiona skała, która jest jeszcze pod ziemią (magma)",
+            "stopiona skała, która wypłynęła na powierzchnię (lava)",
+            "powolne unoszenie się, rozchodzenie, stygnięcie i opadanie gorącej skały (convection current)"
+          ],
+          "passage": [
+            "Ziemia ma około 4.54 miliarda lat.",
+            "Naukowcy obliczają to, badając skały.",
+            "Ziemia składa się z warstw, trochę jak cebula.",
+            "Cienka warstwa zewnętrzna to skorupa (crust) i to na niej żyjemy.",
+            "Pod skorupą jest płaszcz (mantle), gruba warstwa bardzo gorących skał.",
+            "W środku jest jądro (core), które ma część zewnętrzną i część wewnętrzną.",
+            "Jądro to najgorętsza część Ziemi.",
+            "Stopioną skałę pod ziemią nazywamy magmą (magma).",
+            "Kiedy magma wypływa na powierzchnię, nazywamy ją lawą (lava).",
+            "Ciepło z jądra sprawia, że skały w płaszczu bardzo powoli się poruszają.",
+            "Gorąca skała unosi się, rozchodzi, stygnie i znów opada.",
+            "Te powolne ruchy nazywamy prądami konwekcyjnymi (convection currents).",
+            "Ciągną one za sobą kawałki skorupy leżące nad nimi, o kilka centymetrów rocznie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a camada exterior da Terra, fina e sólida (crust, crosta)",
+            "a camada espessa de rocha muito quente debaixo da crosta (mantle, manto)",
+            "o centro da Terra, a parte mais quente (core, núcleo)",
+            "rocha derretida que ainda está debaixo do solo (magma)",
+            "rocha derretida que já saiu para a superfície (lava)",
+            "o subir, espalhar, arrefecer/esfriar e afundar lentos da rocha quente (convection current, corrente de convecção)"
+          ],
+          "passage": [
+            "A Terra tem cerca de 4.54 mil milhões/bilhões de anos (4.54 billion).",
+            "Os cientistas descobrem isto estudando as rochas.",
+            "A Terra é feita de camadas, um pouco como uma cebola.",
+            "A camada fina de fora é a crosta (crust), e nós vivemos em cima dela.",
+            "Debaixo da crosta está o manto (mantle), uma camada espessa de rocha muito quente.",
+            "No centro está o núcleo (core), que tem uma parte exterior e uma parte interior.",
+            "O núcleo é a parte mais quente da Terra.",
+            "A rocha derretida debaixo do solo chama-se magma.",
+            "Quando o magma sai à superfície, chamamos-lhe lava.",
+            "O calor do núcleo faz a rocha do manto mover-se muito devagar.",
+            "A rocha quente sobe, espalha-se, arrefece/esfria e afunda-se outra vez.",
+            "Estes movimentos lentos chamam-se correntes de convecção (convection currents).",
+            "Elas arrastam os pedaços de crosta por cima delas, alguns centímetros por ano."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "lakabka dibadda ee khafiifka ah, adkaha ah ee Dhulka (crust)",
+            "lakabka qaro weyn ee dhagax aad u kulul oo crust-ka hoostiisa ah (mantle)",
+            "bartamaha Dhulka, qaybta ugu kulul (core)",
+            "dhagax dhalaalay oo wali dhulka hoostiisa ku jira (magma)",
+            "dhagax dhalaalay oo dusha dhulka soo baxay (lava)",
+            "kor u kaca, kala fidida, qaboowga iyo hoos u degidda tartiibta ah ee dhagaxa kulul (convection current)"
+          ],
+          "passage": [
+            "Dhulku wuxuu jiraa qiyaastii 4.54 bilyan sano.",
+            "Saynisyahannadu tan waxay ku ogaadaan baaritaanka dhagaxyada.",
+            "Dhulku lakabyo ayuu ka samaysan yahay, wax yar ayuu basal u eg yahay.",
+            "Lakabka dibadda ee khafiifka ah waa crust, dushiisana ayaan ku noolnahay.",
+            "Crust-ka hoostiisa waa mantle, lakab qaro weyn oo dhagax aad u kulul ah.",
+            "Bartamaha waa core, oo leh qayb dibadda ah iyo qayb gudaha ah.",
+            "Core-ka waa qaybta ugu kulul Dhulka.",
+            "Dhagax dhalaalay oo dhulka hoostiisa ku jira waxaa la yiraahdaa magma.",
+            "Marka magma dusha dhulka soo baxo, waxaan u yeernaa lava.",
+            "Kulaylka core-ka ka imanaya wuxuu ka dhigaa dhagaxa mantle-ka inuu si aad u tartiib ah u dhaqaaqo.",
+            "Dhagax kulul kor ayuu u kacaa, wuu kala fidaa, wuu qaboobaa, dibna hoos ayuu u degaa.",
+            "Dhaqdhaqaaqyadan tartiibta ah waxaa la yiraahdaa convection currents.",
+            "Waxay jiidaan jajabyada crust-ka ee dushooda saaran, dhowr sentimitir sannadkii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тонкий твердий зовнішній шар Землі (crust)",
+            "товстий шар дуже гарячої породи під корою (mantle)",
+            "центр Землі, найгарячіша частина (core)",
+            "розплавлена порода, яка ще під землею (magma)",
+            "розплавлена порода, яка вийшла на поверхню (lava)",
+            "повільне піднімання, розтікання, охолодження й опускання гарячої породи (convection current)"
+          ],
+          "passage": [
+            "Землі приблизно 4.54 мільярда років.",
+            "Науковці з’ясовують це, вивчаючи гірські породи.",
+            "Земля складається з шарів, трохи як цибулина.",
+            "Тонкий зовнішній шар — це кора (crust), і ми живемо на ній.",
+            "Під корою лежить мантія (mantle) — товстий шар дуже гарячої породи.",
+            "У центрі лежить ядро (core), яке має зовнішню і внутрішню частини.",
+            "Ядро — найгарячіша частина Землі.",
+            "Розплавлена порода під землею називається магмою (magma).",
+            "Коли магма виходить на поверхню, ми називаємо її лавою (lava).",
+            "Тепло від ядра змушує породу в мантії рухатися дуже повільно.",
+            "Гаряча порода піднімається, розтікається, охолоджується і знову опускається.",
+            "Ці повільні рухи називаються конвекційними течіями (convection currents).",
+            "Вони тягнуть за собою шматки кори над ними — на кілька сантиметрів за рік."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کی پتلی، ٹھوس بیرونی تہہ (crust)",
+            "crust کے نیچے بہت گرم چٹان کی موٹی تہہ (mantle)",
+            "زمین کا مرکز، سب سے گرم حصہ (core)",
+            "پگھلی ہوئی چٹان جو ابھی زمین کے نیچے ہے (magma)",
+            "پگھلی ہوئی چٹان جو باہر سطح پر آ گئی ہے (lava)",
+            "گرم چٹان کا آہستہ آہستہ اوپر اٹھنا، پھیلنا، ٹھنڈا ہونا اور نیچے بیٹھنا (convection current)"
+          ],
+          "passage": [
+            "زمین تقریباً 4.54 ارب سال پرانی ہے۔",
+            "سائنس دان یہ بات چٹانوں کا مطالعہ کر کے معلوم کرتے ہیں۔",
+            "زمین تہوں سے بنی ہے، کچھ کچھ پیاز کی طرح۔",
+            "پتلی بیرونی تہہ crust ہے، اور ہم اسی پر رہتے ہیں۔",
+            "crust کے نیچے mantle ہے، بہت گرم چٹان کی ایک موٹی تہہ۔",
+            "مرکز میں core ہے، جس کا ایک بیرونی حصہ اور ایک اندرونی حصہ ہوتا ہے۔",
+            "core زمین کا سب سے گرم حصہ ہے۔",
+            "زمین کے نیچے پگھلی ہوئی چٹان کو magma کہتے ہیں۔",
+            "جب magma سطح پر باہر آتا ہے تو ہم اسے lava کہتے ہیں۔",
+            "core کی گرمی mantle کی چٹان کو بہت آہستہ آہستہ حرکت دیتی ہے۔",
+            "گرم چٹان اوپر اٹھتی ہے، پھیلتی ہے، ٹھنڈی ہوتی ہے اور دوبارہ نیچے بیٹھ جاتی ہے۔",
+            "ان سست حرکتوں کو convection currents کہتے ہیں۔",
+            "یہ اپنے اوپر موجود crust کے ٹکڑوں کو ساتھ کھینچتی ہیں، سال میں چند سینٹی میٹر۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How old is the Earth?",
@@ -306,8 +466,168 @@ window.ASTRA_UNITS["geog-tectonics"] = {
           "The plates move towards each other, away from each other, or side by side.",
           "Where two plates meet is called a plate boundary.",
           "Nearly all earthquakes and volcanoes happen along plate boundaries."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "واحدة من القطع الضخمة التي تنقسم إليها قشرة الأرض (tectonic plate)",
+            "فكرة كبيرة تشرح الأدلّة ويمكن اختبارها (theory)",
+            "واحدة من المساحات السبع الكبرى من اليابسة على الأرض (continent)",
+            "اسم كلّ اليابسة حين كانت متّصلة قطعةً واحدة (Pangaea)",
+            "حقائق تدعم فكرة ما (evidence)"
+          ],
+          "passage": [
+            "انظر إلى خريطة العالم.",
+            "يبدو أنّ الساحل الشرقي لأمريكا الجنوبية والساحل الغربي لأفريقيا يتطابقان معًا.",
+            "لاحظ ذلك عالم يُسمّى ألفريد فيغنر (Alfred Wegener).",
+            "في عام 1912 قال إنّ القارّات كانت متّصلة معًا في الماضي.",
+            "وسمّى هذه القطعة الكبيرة الواحدة من اليابسة بانجيا (Pangaea).",
+            "ولاحظ أيضًا أنّ الأنواع نفسها من الكائنات الحيّة موجودة في قارّات مختلفة.",
+            "تلك القارّات تفصل بينها اليوم محيطات واسعة.",
+            "لم يصدّقه أحد تقريبًا حتى الخمسينيات من القرن العشرين (1950s).",
+            "واليوم نعرف أنه كان على حقّ.",
+            "قشرة الأرض منقسمة إلى قطع ضخمة تُسمّى الصفائح التكتونية (tectonic plates).",
+            "هناك سبع صفائح كبرى وبعض الصفائح الأصغر.",
+            "تتحرّك الصفائح بعضها نحو بعض، أو بعيدًا بعضها عن بعض، أو جنبًا إلى جنب.",
+            "المكان الذي تلتقي فيه صفيحتان يُسمّى حدّ الصفائح (plate boundary).",
+            "تحدث الزلازل والبراكين كلّها تقريبًا على طول حدود الصفائح."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jeden z ogromnych kawałków, na które podzielona jest skorupa ziemska (tectonic plate)",
+            "wielka idea, która wyjaśnia dowody i którą można sprawdzić (theory)",
+            "jeden z siedmiu wielkich obszarów lądu na Ziemi (continent)",
+            "nazwa całego lądu z czasów, gdy był połączony w jedną całość (Pangaea)",
+            "fakty, które potwierdzają jakąś myśl (evidence)"
+          ],
+          "passage": [
+            "Spójrz na mapę świata.",
+            "Wschodnie wybrzeże Ameryki Południowej i zachodnie wybrzeże Afryki wyglądają, jakby do siebie pasowały.",
+            "Zauważył to naukowiec o nazwisku Alfred Wegener.",
+            "W 1912 roku powiedział, że kontynenty były kiedyś połączone.",
+            "Ten jeden wielki ląd nazwał Pangeą (Pangaea).",
+            "Zauważył też, że te same rodzaje istot żywych występują na różnych kontynentach.",
+            "Te kontynenty są dziś rozdzielone szerokimi oceanami.",
+            "Prawie nikt mu nie wierzył aż do lat pięćdziesiątych XX wieku (1950s).",
+            "Dziś wiemy, że miał rację.",
+            "Skorupa ziemska jest podzielona na ogromne kawałki zwane płytami tektonicznymi (tectonic plates).",
+            "Jest siedem głównych płyt i kilka mniejszych.",
+            "Płyty poruszają się ku sobie, od siebie albo obok siebie.",
+            "Miejsce, gdzie spotykają się dwie płyty, nazywamy granicą płyt (plate boundary).",
+            "Prawie wszystkie trzęsienia ziemi i wulkany występują wzdłuż granic płyt."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um dos enormes pedaços em que a crosta da Terra está partida (tectonic plate, placa tectónica/tectônica)",
+            "uma grande ideia que explica as provas/evidências e pode ser testada (theory, teoria)",
+            "uma das sete grandes áreas de terra da Terra (continent, continente)",
+            "o nome de toda a terra quando estava unida num só pedaço (Pangaea, Pangeia)",
+            "factos/fatos que apoiam uma ideia (evidence, provas/evidências)"
+          ],
+          "passage": [
+            "Olhe para um mapa do mundo.",
+            "A costa leste da América do Sul e a costa oeste de África parecem encaixar uma na outra.",
+            "Um cientista chamado Alfred Wegener reparou nisto.",
+            "Em 1912 ele disse que os continentes tinham estado unidos no passado.",
+            "Chamou a esse único grande pedaço de terra Pangeia (Pangaea).",
+            "Também reparou que os mesmos tipos de seres vivos aparecem em continentes diferentes.",
+            "Esses continentes estão agora separados por oceanos largos.",
+            "Quase ninguém acreditou nele até aos anos 1950.",
+            "Hoje sabemos que ele tinha razão.",
+            "A crosta da Terra está partida em pedaços enormes chamados placas tectónicas/tectônicas (tectonic plates).",
+            "Há sete placas principais e algumas mais pequenas/menores.",
+            "As placas movem-se uma em direção à outra, afastam-se uma da outra, ou deslizam lado a lado.",
+            "O lugar onde duas placas se encontram chama-se limite de placas (plate boundary).",
+            "Quase todos os sismos/terremotos e vulcões acontecem ao longo dos limites de placas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mid ka mid ah jajabyada waaweyn ee crust-ka Dhulka u kala jabay (tectonic plate)",
+            "fikrad weyn oo caddaynta sharraxda oo la tijaabin karo (theory)",
+            "mid ka mid ah toddobada aag dhul ee waaweyn ee Dhulka (continent)",
+            "magaca dhulka oo dhan markii uu hal qayb ahaan isku xirnaa (Pangaea)",
+            "xaqiiqooyin fikrad taageeraya (evidence)"
+          ],
+          "passage": [
+            "Eeg khariidadda adduunka.",
+            "Xeebta bari ee Koonfur Ameerika iyo xeebta galbeed ee Afrika waxay u muuqdaan inay isku dhegaan.",
+            "Saynisyahan la yiraahdo Alfred Wegener ayaa tan dareemay.",
+            "Sannadkii 1912 wuxuu yiri qaaraduhu mar hore ayay isku xirnaayeen.",
+            "Hal qaybtan weyn ee dhul wuxuu u bixiyay Pangaea.",
+            "Wuxuu kaloo dareemay in noocyo isku mid ah oo noolayaal laga helo qaarado kala duwan.",
+            "Qaaradahaas hadda waxaa kala qaybiya baddo ballaaran.",
+            "Qof dhif ah ayaa rumaystay ilaa 1950-meeyadii.",
+            "Maanta waan ognahay inuu saxsanaa.",
+            "Crust-ka Dhulka wuxuu u kala jabay jajabyo waaweyn oo la yiraahdo tectonic plates.",
+            "Waxaa jira toddoba plate waaweyn iyo qaar ka yaryar.",
+            "Plates-ku waxay u dhaqaaqaan midba midka kale xaggiisa, midba midka kale ka fogaanshaha, ama dhinac is dhinac.",
+            "Meesha laba plate ku kulmaan waxaa la yiraahdaa plate boundary.",
+            "Ku dhowaad dhammaan dhulgariirrada iyo foolkaanooyinka waxay ka dhacaan plate boundaries-ka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "один із величезних шматків, на які розбита земна кора (tectonic plate)",
+            "велика ідея, яка пояснює докази і яку можна перевірити (theory)",
+            "одна з семи великих ділянок суходолу на Землі (continent)",
+            "назва для всього суходолу, коли він був з’єднаний в одне ціле (Pangaea)",
+            "факти, які підтверджують ідею (evidence)"
+          ],
+          "passage": [
+            "Подивіться на карту світу.",
+            "Східне узбережжя Південної Америки і західне узбережжя Африки ніби підходять одне до одного.",
+            "Це помітив науковець Альфред Веґенер (Alfred Wegener).",
+            "У 1912 році він сказав, що континенти колись були з’єднані.",
+            "Цей один великий шматок суходолу він назвав Пангеєю (Pangaea).",
+            "Він також помітив, що однакові види живих істот трапляються на різних континентах.",
+            "Ці континенти зараз розділені широкими океанами.",
+            "Майже ніхто йому не вірив до 1950-х років.",
+            "Сьогодні ми знаємо, що він мав рацію.",
+            "Земна кора розбита на величезні шматки, які називаються тектонічними плитами (tectonic plates).",
+            "Є сім великих плит і кілька менших.",
+            "Плити рухаються одна до одної, одна від одної або вздовж одна одної.",
+            "Місце, де зустрічаються дві плити, називається межею плит (plate boundary).",
+            "Майже всі землетруси і вулкани трапляються вздовж меж плит."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ان بڑے بڑے ٹکڑوں میں سے ایک جن میں زمین کی crust ٹوٹی ہوئی ہے (tectonic plate)",
+            "ایک بڑا خیال جو شہادت کی وضاحت کرتا ہے اور جسے جانچا جا سکتا ہے (theory)",
+            "زمین کے سات بڑے خطوں میں سے ایک (continent)",
+            "اس ساری زمین کا نام جب وہ ایک ٹکڑے کی صورت میں جڑی ہوئی تھی (Pangaea)",
+            "ایسے حقائق جو کسی خیال کی تائید کرتے ہیں (evidence)"
+          ],
+          "passage": [
+            "دنیا کا نقشہ دیکھیں۔",
+            "جنوبی امریکہ کا مشرقی ساحل اور افریقہ کا مغربی ساحل ایک دوسرے میں فٹ ہوتے معلوم ہوتے ہیں۔",
+            "الفریڈ ویگنر (Alfred Wegener) نامی ایک سائنس دان نے یہ بات نوٹ کی۔",
+            "1912 میں اس نے کہا کہ براعظم کبھی آپس میں جڑے ہوئے تھے۔",
+            "اس نے زمین کے اس ایک بڑے ٹکڑے کو Pangaea کا نام دیا۔",
+            "اس نے یہ بھی نوٹ کیا کہ ایک ہی طرح کے جاندار الگ الگ براعظموں پر ملتے ہیں۔",
+            "وہ براعظم اب وسیع سمندروں سے ایک دوسرے سے الگ ہیں۔",
+            "1950 کی دہائی تک شاید ہی کسی نے اس کی بات مانی۔",
+            "آج ہم جانتے ہیں کہ وہ ٹھیک کہتا تھا۔",
+            "زمین کی crust بڑے بڑے ٹکڑوں میں ٹوٹی ہوئی ہے جنھیں tectonic plates کہتے ہیں۔",
+            "سات بڑی plates ہیں اور کچھ چھوٹی بھی۔",
+            "plates ایک دوسرے کی طرف، ایک دوسرے سے دور، یا ایک دوسرے کے ساتھ ساتھ حرکت کرتی ہیں۔",
+            "جہاں دو plates ملتی ہیں، اس جگہ کو plate boundary کہتے ہیں۔",
+            "تقریباً سارے زلزلے اور آتش فشاں plate boundaries کے ساتھ ساتھ ہوتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Alfred Wegener's idea",
@@ -512,8 +832,168 @@ window.ASTRA_UNITS["geog-tectonics"] = {
           "The Himalayas were made like this.",
           "Earthquakes happen at all four types of boundary.",
           "Volcanoes happen where magma can rise: at constructive and destructive boundaries."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المكان الذي تلتقي فيه صفيحتان، ويُسمّى أيضًا هامش الصفيحة (plate boundary)",
+            "حدّ تتباعد عنده صفيحتان وتتكوّن قشرة جديدة (constructive)",
+            "حدّ تتقارب عنده صفيحتان وتُدفَع إحداهما تحت الأخرى (destructive)",
+            "حدّ تنزلق عنده صفيحتان إحداهما بجانب الأخرى (conservative)",
+            "حدّ تلتقي عنده صفيحتان قارّيتان وجهًا لوجه فترفعان الجبال (collision)",
+            "شقّ في القشرة تحرّكت الصخور على جانبَيه (fault)"
+          ],
+          "passage": [
+            "المكان الذي تلتقي فيه صفيحتان يُسمّى حدّ الصفائح (plate boundary)، أو هامش الصفيحة (plate margin).",
+            "هناك أربعة أنواع من حدود الصفائح.",
+            "عند الحدّ البنّاء (constructive)، تتباعد صفيحتان.",
+            "ترتفع الصهارة من الأسفل، فتصنع البراكين وتكوّن قشرة جديدة.",
+            "عند الحدّ الهدّام (destructive)، تتقارب صفيحتان.",
+            "تُدفَع إحدى الصفيحتَين تحت الأخرى فتُدمَّر.",
+            "عند الحدّ المحافظ (conservative)، تنزلق صفيحتان إحداهما بجانب الأخرى على طول صدع (fault).",
+            "لا تتغيّر الصفيحتان، لكنّ الأرض تهتزّ.",
+            "عند حدّ التصادم (collision)، تلتقي صفيحتان قارّيتان وجهًا لوجه.",
+            "تُدفَع الأرض إلى الأعلى فتتكوّن الجبال.",
+            "هكذا تكوّنت جبال الهيمالايا.",
+            "تحدث الزلازل عند الأنواع الأربعة كلّها من الحدود.",
+            "وتحدث البراكين حيث تستطيع الصهارة أن ترتفع: عند الحدود البنّاءة والهدّامة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "miejsce, gdzie spotykają się dwie płyty, zwane też krawędzią płyt (plate boundary)",
+            "granica, na której dwie płyty rozsuwają się i powstaje nowa skorupa (constructive)",
+            "granica, na której dwie płyty zbliżają się i jedna jest wpychana pod drugą (destructive)",
+            "granica, na której dwie płyty przesuwają się obok siebie (conservative)",
+            "granica, na której dwie płyty kontynentalne zderzają się czołowo i wypiętrzają góry (collision)",
+            "pęknięcie w skorupie, gdzie skały po obu stronach się przesunęły (fault)"
+          ],
+          "passage": [
+            "Miejsce, gdzie spotykają się dwie płyty, nazywamy granicą płyt (plate boundary) albo krawędzią płyt (plate margin).",
+            "Są cztery typy granic płyt.",
+            "Na granicy konstruktywnej (constructive) dwie płyty rozsuwają się.",
+            "Magma unosi się z dołu, tworzy wulkany i buduje nową skorupę.",
+            "Na granicy destruktywnej (destructive) dwie płyty zbliżają się do siebie.",
+            "Jedna płyta jest wpychana pod drugą i ulega zniszczeniu.",
+            "Na granicy konserwatywnej (conservative) dwie płyty przesuwają się obok siebie wzdłuż uskoku (fault).",
+            "Płyty się nie zmieniają, ale ziemia się trzęsie.",
+            "Na granicy kolizyjnej (collision) dwie płyty kontynentalne zderzają się czołowo.",
+            "Ląd jest wypychany w górę i powstają góry.",
+            "Tak powstały Himalaje.",
+            "Trzęsienia ziemi zdarzają się na wszystkich czterech typach granic.",
+            "Wulkany powstają tam, gdzie magma może się unosić: na granicach konstruktywnych i destruktywnych."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o lugar onde duas placas se encontram, também chamado margem de placa (plate boundary, limite de placas)",
+            "um limite onde duas placas se afastam e se forma crosta nova (constructive, construtivo)",
+            "um limite onde duas placas se aproximam e uma é forçada para debaixo da outra (destructive, destrutivo)",
+            "um limite onde duas placas deslizam uma pela outra (conservative, conservativo)",
+            "um limite onde duas placas continentais chocam de frente e empurram montanhas para cima (collision, colisão)",
+            "uma fenda na crosta onde a rocha de cada lado se moveu (fault, falha)"
+          ],
+          "passage": [
+            "O lugar onde duas placas se encontram chama-se limite de placas (plate boundary), ou margem de placa (plate margin).",
+            "Há quatro tipos de limite de placas.",
+            "Num limite construtivo (constructive), duas placas afastam-se.",
+            "O magma sobe de baixo, faz vulcões e forma crosta nova.",
+            "Num limite destrutivo (destructive), duas placas movem-se uma em direção à outra.",
+            "Uma placa é forçada para debaixo da outra e é destruída.",
+            "Num limite conservativo (conservative), duas placas deslizam uma pela outra ao longo de uma falha (fault).",
+            "As placas não mudam, mas o chão treme.",
+            "Num limite de colisão (collision), duas placas continentais chocam de frente.",
+            "A terra é empurrada para cima e forma montanhas.",
+            "Os Himalaias formaram-se assim.",
+            "Os sismos/terremotos acontecem nos quatro tipos de limite.",
+            "Os vulcões acontecem onde o magma consegue subir: nos limites construtivos e destrutivos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "meesha laba plate ku kulmaan, waxaa kaloo la yiraahdaa plate margin (plate boundary)",
+            "boundary laba plate ay ku kala fogaadaan oo crust cusub ku samaysmo (constructive)",
+            "boundary laba plate ay isu yimaadaan oo midkood kan kale hoostiisa lagu riixo (destructive)",
+            "boundary laba plate ay is dhaafaan oo is ag maraan (conservative)",
+            "boundary laba plate qaaradeed ay madax-madax isku dhacaan oo buuro kor u riixaan (collision)",
+            "dillaac crust-ka ku jira oo dhagaxa dhinac walba ka ah dhaqaaqay (fault)"
+          ],
+          "passage": [
+            "Meesha laba plate ku kulmaan waxaa la yiraahdaa plate boundary, ama plate margin.",
+            "Waxaa jira afar nooc oo plate boundary ah.",
+            "Constructive boundary, laba plate way kala fogaadaan.",
+            "Magma hoosta ayay ka soo kacdaa, foolkaanooyin ayay samaysaa, crust cusubna way dhistaa.",
+            "Destructive boundary, laba plate midba midka kale xaggiisa ayay u dhaqaaqaan.",
+            "Plate midkood kan kale hoostiisa ayaa lagu riixaa oo waa la burburiyaa.",
+            "Conservative boundary, laba plate ayaa is dhaafa oo fault ag mara.",
+            "Plates-ku isma beddelaan, laakiin dhulku wuu gariiraa.",
+            "Collision boundary, laba plate qaaradeed madax-madax ayay isku dhacaan.",
+            "Dhulka kor ayaa loo riixaa oo buuro ayuu noqdaa.",
+            "Buuraha Himalaya sidan ayaa loo sameeyay.",
+            "Dhulgariirro waxay ka dhacaan afarta nooc ee boundary oo dhan.",
+            "Foolkaanooyin waxay ka dhacaan meesha magma kor u kici karto: constructive iyo destructive boundaries."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "місце, де зустрічаються дві плити; також називається plate margin (plate boundary)",
+            "межа, де дві плити розходяться і утворюється нова кора (constructive)",
+            "межа, де дві плити сходяться і одна підсувається під іншу (destructive)",
+            "межа, де дві плити ковзають одна повз одну (conservative)",
+            "межа, де дві континентальні плити зустрічаються лоб у лоб і піднімають гори (collision)",
+            "тріщина в корі, де порода з кожного боку зсунулася (fault)"
+          ],
+          "passage": [
+            "Місце, де зустрічаються дві плити, називається межею плит (plate boundary або plate margin).",
+            "Є чотири типи меж плит.",
+            "На конструктивній межі (constructive boundary) дві плити розходяться.",
+            "Магма піднімається знизу, утворює вулкани і формує нову кору.",
+            "На деструктивній межі (destructive boundary) дві плити рухаються одна до одної.",
+            "Одна плита підсувається під іншу і руйнується.",
+            "На консервативній межі (conservative boundary) дві плити ковзають одна повз одну вздовж розлому (fault).",
+            "Плити не змінюються, але земля трясеться.",
+            "На межі зіткнення (collision boundary) дві континентальні плити зустрічаються лоб у лоб.",
+            "Земля виштовхується вгору і утворює гори.",
+            "Так утворилися Гімалаї.",
+            "Землетруси трапляються на всіх чотирьох типах меж.",
+            "Вулкани виникають там, де магма може піднятися: на конструктивних і деструктивних межах."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ جگہ جہاں دو plates ملتی ہیں، جسے plate margin بھی کہتے ہیں (plate boundary)",
+            "ایسی boundary جہاں دو plates ایک دوسرے سے دور ہوتی ہیں اور نئی crust بنتی ہے (constructive)",
+            "ایسی boundary جہاں دو plates ایک دوسرے کی طرف آتی ہیں اور ایک دوسری کے نیچے دھکیل دی جاتی ہے (destructive)",
+            "ایسی boundary جہاں دو plates ایک دوسرے کے ساتھ ساتھ سرکتی ہیں (conservative)",
+            "ایسی boundary جہاں دو براعظمی plates سامنے سے ٹکراتی ہیں اور پہاڑ اوپر اٹھا دیتی ہیں (collision)",
+            "crust میں ایک دراڑ جس کے دونوں طرف کی چٹان اپنی جگہ سے ہٹ گئی ہو (fault)"
+          ],
+          "passage": [
+            "جہاں دو plates ملتی ہیں، اسے plate boundary یا plate margin کہتے ہیں۔",
+            "plate boundary کی چار قسمیں ہیں۔",
+            "constructive boundary پر دو plates ایک دوسرے سے دور ہوتی ہیں۔",
+            "magma نیچے سے اوپر اٹھتا ہے، آتش فشاں بناتا ہے، اور نئی crust بناتا ہے۔",
+            "destructive boundary پر دو plates ایک دوسرے کی طرف آتی ہیں۔",
+            "ایک plate دوسری کے نیچے دھکیل دی جاتی ہے اور تباہ ہو جاتی ہے۔",
+            "conservative boundary پر دو plates ایک fault کے ساتھ ساتھ ایک دوسرے کے پاس سے سرکتی ہیں۔",
+            "plates بدلتی نہیں، لیکن زمین ہلتی ہے۔",
+            "collision boundary پر دو براعظمی plates سامنے سے ٹکراتی ہیں۔",
+            "زمین اوپر کی طرف دھکیلی جا کر پہاڑ بن جاتی ہے۔",
+            "ہمالیہ اسی طرح بنا تھا۔",
+            "زلزلے چاروں قسم کی boundaries پر آتے ہیں۔",
+            "آتش فشاں وہاں بنتے ہیں جہاں magma اوپر اٹھ سکے: constructive اور destructive boundaries پر۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Constructive: plates move apart",
@@ -717,8 +1197,168 @@ window.ASTRA_UNITS["geog-tectonics"] = {
           "The strongest shaking is felt at the epicentre.",
           "How strong an earthquake is, is called its magnitude.",
           "If an earthquake happens under the sea, it can cause a huge wave called a tsunami."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "اهتزاز قشرة الأرض بسبب حركة الصفائح (earthquake)",
+            "النقطة العميقة تحت الأرض التي يبدأ منها الزلزال (focus)",
+            "النقطة على السطح فوق البؤرة مباشرةً (epicentre)",
+            "الاهتزاز الذي ينتشر من البؤرة عبر الأرض (seismic waves)",
+            "مدى قوّة الزلزال (magnitude)",
+            "موجة بحرية ضخمة يسبّبها زلزال تحت البحر (tsunami)"
+          ],
+          "passage": [
+            "الزلزال (earthquake) هو اهتزاز قشرة الأرض.",
+            "وسببه حركة صفائح الأرض.",
+            "عند حدّ الصفائح، لا تتحرّك الصفائح بسلاسة إحداها بجانب الأخرى.",
+            "وأحيانًا تنحشر معًا.",
+            "يتراكم الضغط بين الصفيحتَين المنحشرتَين سنةً بعد سنة.",
+            "ثم يتحرّر الضغط فجأةً في حركة متشنّجة.",
+            "ذلك التحرّر المفاجئ هو الزلزال.",
+            "النقطة تحت الأرض التي يبدأ منها الزلزال هي البؤرة (focus).",
+            "النقطة على السطح فوق البؤرة مباشرةً هي المركز السطحي (epicentre).",
+            "ينتشر الاهتزاز من البؤرة على شكل موجات زلزالية (seismic waves).",
+            "يُحَسّ بأقوى اهتزاز عند المركز السطحي.",
+            "مدى قوّة الزلزال يُسمّى قدره (magnitude).",
+            "إذا حدث زلزال تحت البحر، فقد يسبّب موجة ضخمة تُسمّى تسونامي (tsunami)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "drżenie skorupy ziemskiej wywołane ruchem płyt (earthquake)",
+            "punkt głęboko pod ziemią, gdzie zaczyna się trzęsienie (focus)",
+            "punkt na powierzchni dokładnie nad ogniskiem (epicentre)",
+            "drgania, które rozchodzą się od ogniska przez ziemię (seismic waves)",
+            "jak silne jest trzęsienie ziemi (magnitude)",
+            "ogromna fala morska wywołana trzęsieniem ziemi pod morzem (tsunami)"
+          ],
+          "passage": [
+            "Trzęsienie ziemi (earthquake) to drżenie skorupy ziemskiej.",
+            "Wywołuje je ruch płyt Ziemi.",
+            "Na granicy płyt płyty nie przesuwają się gładko obok siebie.",
+            "Czasami się zaklinowują.",
+            "Między zaklinowanymi płytami rok po roku narasta napięcie.",
+            "Potem napięcie nagle się uwalnia w gwałtownym szarpnięciu.",
+            "To nagłe uwolnienie to właśnie trzęsienie ziemi.",
+            "Punkt pod ziemią, gdzie zaczyna się trzęsienie, to ognisko (focus).",
+            "Punkt na powierzchni dokładnie nad ogniskiem to epicentrum (epicentre).",
+            "Drgania rozchodzą się od ogniska jako fale sejsmiczne (seismic waves).",
+            "Najsilniejsze drgania czuje się w epicentrum.",
+            "To, jak silne jest trzęsienie ziemi, nazywamy jego magnitudą (magnitude).",
+            "Jeśli trzęsienie ziemi zdarzy się pod morzem, może wywołać ogromną falę zwaną tsunami."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o tremor da crosta da Terra causado pelas placas em movimento (earthquake, sismo/terremoto)",
+            "o ponto, bem fundo debaixo do solo, onde um sismo começa (focus, foco)",
+            "o ponto na superfície diretamente por cima do foco (epicentre, epicentro)",
+            "o tremor que se espalha a partir do foco pelo solo (seismic waves, ondas sísmicas)",
+            "a força de um sismo (magnitude)",
+            "uma onda gigante do mar causada por um sismo debaixo do mar (tsunami)"
+          ],
+          "passage": [
+            "Um sismo/terremoto (earthquake) é o tremor da crosta da Terra.",
+            "É causado pelo movimento das placas da Terra.",
+            "Num limite de placas, as placas não deslizam suavemente uma pela outra.",
+            "Às vezes ficam presas uma à outra.",
+            "A pressão acumula-se entre as placas presas, ano após ano.",
+            "Depois a pressão é libertada/liberada de repente, num movimento brusco.",
+            "Essa libertação/liberação repentina é o sismo.",
+            "O ponto debaixo do solo onde o sismo começa é o foco (focus).",
+            "O ponto na superfície diretamente por cima do foco é o epicentro (epicentre).",
+            "O tremor espalha-se a partir do foco em ondas sísmicas (seismic waves).",
+            "O tremor mais forte sente-se no epicentro.",
+            "A força de um sismo chama-se a sua magnitude.",
+            "Se um sismo acontece debaixo do mar, pode causar uma onda gigante chamada tsunami."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "gariirka crust-ka Dhulka oo ay keenaan plates dhaqaaqaya (earthquake)",
+            "barta hoose ee dhulka hoostiisa ah oo dhulgariir ka bilaabmo (focus)",
+            "barta dusha dhulka ah oo focus-ka si toos ah dul saaran (epicentre)",
+            "gariirka focus-ka ka kala fida oo dhulka dhex mara (seismic waves)",
+            "sida dhulgariir u xoog badan yahay (magnitude)",
+            "mowjad bad oo aad u weyn oo uu keeno dhulgariir badda hoosteeda ka dhaca (tsunami)"
+          ],
+          "passage": [
+            "Dhulgariir (earthquake) waa gariirka crust-ka Dhulka.",
+            "Waxaa keena dhaqdhaqaaqa plates-ka Dhulka.",
+            "Plate boundary, plates-ku si siman isma dhaafaan.",
+            "Mararka qaar way isku xiriiraan oo is qabtaan.",
+            "Cadaadis ayaa ka dhex kordha plates-ka is qabtay, sannad ka sannad.",
+            "Markaas cadaadiska si kedis ah ayaa loo sii daayaa, dhaqaaq rig-rig ah.",
+            "Sii-dayntaas kedista ah waa dhulgariirka.",
+            "Barta dhulka hoostiisa ah oo dhulgariirku ka bilaabmo waa focus.",
+            "Barta dusha dhulka ah oo focus-ka si toos ah dul saaran waa epicentre.",
+            "Gariirku focus-ka ayuu ka kala fidaa sida seismic waves.",
+            "Gariirka ugu xoog badan waxaa laga dareemaa epicentre-ka.",
+            "Sida dhulgariir u xoog badan yahay waxaa la yiraahdaa magnitude-kiisa.",
+            "Haddii dhulgariir ka dhaco badda hoosteeda, wuxuu keeni karaa mowjad aad u weyn oo la yiraahdo tsunami."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "струс земної кори, спричинений рухом плит (earthquake)",
+            "точка глибоко під землею, де починається землетрус (focus)",
+            "точка на поверхні прямо над фокусом (epicentre)",
+            "коливання, що розходяться від фокуса крізь землю (seismic waves)",
+            "наскільки сильний землетрус (magnitude)",
+            "величезна морська хвиля, спричинена землетрусом під морем (tsunami)"
+          ],
+          "passage": [
+            "Землетрус (earthquake) — це струс земної кори.",
+            "Його спричиняє рух земних плит.",
+            "На межі плит плити не ковзають одна повз одну плавно.",
+            "Іноді вони зчіплюються.",
+            "Між зчепленими плитами рік за роком наростає тиск.",
+            "Потім тиск раптово вивільняється різким рухом.",
+            "Це раптове вивільнення і є землетрусом.",
+            "Точка під землею, де починається землетрус, — це фокус (focus).",
+            "Точка на поверхні прямо над фокусом — це епіцентр (epicentre).",
+            "Коливання розходяться від фокуса як сейсмічні хвилі (seismic waves).",
+            "Найсильніший струс відчувається в епіцентрі.",
+            "Те, наскільки сильний землетрус, називається його магнітудою (magnitude).",
+            "Якщо землетрус стається під морем, він може спричинити величезну хвилю — цунамі (tsunami)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "حرکت کرتی plates کی وجہ سے زمین کی crust کا ہلنا (earthquake)",
+            "زمین کے اندر گہرائی میں وہ نقطہ جہاں سے زلزلہ شروع ہوتا ہے (focus)",
+            "سطح پر وہ نقطہ جو focus کے عین اوپر ہو (epicentre)",
+            "وہ ہلچل جو focus سے زمین کے اندر چاروں طرف پھیلتی ہے (seismic waves)",
+            "زلزلہ کتنا طاقت ور ہے (magnitude)",
+            "سمندر کے نیچے زلزلے سے بننے والی بہت بڑی سمندری لہر (tsunami)"
+          ],
+          "passage": [
+            "زلزلہ زمین کی crust کا ہلنا ہے۔",
+            "یہ زمین کی plates کی حرکت سے پیدا ہوتا ہے۔",
+            "plate boundary پر plates ہموار طریقے سے ایک دوسرے کے پاس سے نہیں گزرتیں۔",
+            "کبھی کبھی وہ آپس میں جکڑ جاتی ہیں۔",
+            "جکڑی ہوئی plates کے بیچ سال بہ سال دباؤ بڑھتا رہتا ہے۔",
+            "پھر یہ دباؤ ایک جھٹکے دار حرکت میں اچانک نکل جاتا ہے۔",
+            "یہی اچانک نکلنا زلزلہ ہے۔",
+            "زمین کے اندر وہ نقطہ جہاں سے زلزلہ شروع ہوتا ہے، focus ہے۔",
+            "سطح پر focus کے عین اوپر کا نقطہ epicentre ہے۔",
+            "ہلچل focus سے seismic waves کی صورت میں چاروں طرف پھیلتی ہے۔",
+            "سب سے زیادہ ہلچل epicentre پر محسوس ہوتی ہے۔",
+            "زلزلہ کتنا طاقت ور ہے، اسے اس کی magnitude کہتے ہیں۔",
+            "اگر زلزلہ سمندر کے نیچے آئے تو یہ ایک بہت بڑی لہر پیدا کر سکتا ہے جسے tsunami کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is an earthquake, and why does it happen?",
@@ -929,8 +1569,174 @@ window.ASTRA_UNITS["geog-tectonics"] = {
           "Volcanic ash makes the soil fertile, so crops grow well.",
           "Heat from under the ground can make cheap electricity.",
           "Volcanic rock makes strong building material, and tourists bring jobs."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مثال حقيقي يُدرَس بالتفصيل لفهم موضوع ما (case study)",
+            "اقتصاد ناشئ حديثًا: بلد يزداد ثراءً بسرعة (NEE)",
+            "شيء يحدث بسبب حدث ما (effect)",
+            "ما يفعله الناس للمساعدة بعد الكارثة (response)",
+            "صالح لزراعة المحاصيل (fertile)",
+            "مكان ترتفع فيه صخور شديدة الحرارة من أعماق الوشاح فتصنع البراكين (hot spot)"
+          ],
+          "passage": [
+            "يتعلّم الجغرافيون عن الأخطار بدراسة أحداث حقيقية بالتفصيل.",
+            "يُسمّى هذا دراسة حالة (case study).",
+            "دراسة الحالة عندنا هي زلزال سيتشوان (Sichuan) في الصين، في عام 2008.",
+            "الصين اقتصاد ناشئ حديثًا (NEE)، أي بلد ينمو اقتصاده بسرعة.",
+            "تسأل دراسة الحالة عن سبب الحدث ووقت حدوثه.",
+            "وتسأل عن آثاره على الناس وعلى المال وعلى الأرض.",
+            "وتسأل كيف استجاب الناس وما المساعدة التي قُدّمت.",
+            "الزلازل لا تقتل الناس مباشرةً.",
+            "بل تقتلهم المباني المتساقطة والانهيارات الأرضية والحرائق.",
+            "لذلك فإنّ وقت اليوم وقوّة المباني مهمّان جدًا.",
+            "البراكين خطرة أيضًا، ومع ذلك يعيش ملايين الناس قربها.",
+            "الرماد البركاني يجعل التربة خصبة (fertile)، فتنمو المحاصيل جيّدًا.",
+            "الحرارة من تحت الأرض يمكن أن تنتج كهرباء رخيصة.",
+            "الصخور البركانية تصنع موادّ بناء قوية، والسيّاح يجلبون الوظائف."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "prawdziwy przykład zbadany dokładnie, żeby zrozumieć temat (case study)",
+            "nowo rozwijająca się gospodarka: kraj, który szybko się bogaci (NEE)",
+            "coś, co dzieje się z powodu jakiegoś zdarzenia (effect)",
+            "to, co ludzie robią, żeby pomóc po katastrofie (response)",
+            "dobry do uprawy roślin (fertile)",
+            "miejsce, gdzie bardzo gorąca skała unosi się z głębi płaszcza i tworzy wulkany (hot spot)"
+          ],
+          "passage": [
+            "Geografowie poznają zagrożenia, badając dokładnie prawdziwe zdarzenia.",
+            "To nazywamy studium przypadku (case study).",
+            "Nasze studium przypadku to trzęsienie ziemi w Syczuanie (Sichuan) w Chinach, w 2008 roku.",
+            "Chiny to NEE, czyli kraj, którego gospodarka szybko rośnie.",
+            "Studium przypadku pyta, co spowodowało zdarzenie i kiedy do niego doszło.",
+            "Pyta, jakie były skutki (effects) dla ludzi, dla pieniędzy i dla ziemi.",
+            "Pyta, jak ludzie zareagowali i jakiej pomocy udzielono.",
+            "Trzęsienia ziemi nie zabijają ludzi bezpośrednio.",
+            "Zabijają walące się budynki, osuwiska i pożary.",
+            "Dlatego pora dnia i wytrzymałość budynków mają ogromne znaczenie.",
+            "Wulkany też są niebezpieczne, a mimo to miliony ludzi mieszkają w ich pobliżu.",
+            "Popiół wulkaniczny sprawia, że gleba jest żyzna (fertile), więc plony dobrze rosną.",
+            "Ciepło spod ziemi może dawać tanią energię elektryczną.",
+            "Skała wulkaniczna to mocny materiał budowlany, a turyści przynoszą miejsca pracy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um exemplo real estudado em detalhe para compreender um tema (case study, estudo de caso)",
+            "uma economia emergente: um país que está a enriquecer/enriquecendo depressa (NEE, newly emerging economy)",
+            "algo que acontece por causa de um acontecimento/evento (effect, efeito)",
+            "o que as pessoas fazem para ajudar depois de um desastre (response, resposta)",
+            "bom para cultivar plantas (fertile, fértil)",
+            "um lugar onde rocha muito quente sobe das profundezas do manto e forma vulcões (hot spot, ponto quente)"
+          ],
+          "passage": [
+            "Os geógrafos aprendem sobre os riscos naturais estudando acontecimentos reais em detalhe.",
+            "A isto chama-se um estudo de caso (case study).",
+            "O nosso estudo de caso é o sismo/terremoto de Sichuan, na China, em 2008.",
+            "A China é uma NEE, um país cuja economia está a crescer/crescendo depressa.",
+            "Um estudo de caso pergunta o que causou o acontecimento e quando aconteceu.",
+            "Pergunta quais foram os efeitos (effects) nas pessoas, no dinheiro e na terra.",
+            "Pergunta como as pessoas responderam e que ajuda foi dada.",
+            "Os sismos não matam as pessoas diretamente.",
+            "Os edifícios/prédios que caem, os deslizamentos de terra e os incêndios é que matam.",
+            "Por isso, a hora do dia e a resistência dos edifícios importam muito.",
+            "Os vulcões também são perigosos, mas milhões de pessoas vivem perto deles.",
+            "A cinza vulcânica torna o solo fértil (fertile), por isso as colheitas crescem bem.",
+            "O calor que vem de debaixo do solo pode produzir eletricidade barata.",
+            "A rocha vulcânica dá material de construção forte, e os turistas trazem empregos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tusaale dhab ah oo si faahfaahsan loo bartay si mowduuc loo fahmo (case study)",
+            "dhaqaale cusub oo soo koraya: dal si dhaqso ah u hodmaya (NEE)",
+            "wax dhaca dhacdo awgeed (effect)",
+            "waxa dadku sameeyaan si ay u caawiyaan masiibo ka dib (response)",
+            "u wanaagsan dalagga korintiisa (fertile)",
+            "meel dhagax aad u kulul uu ka soo kaco mantle-ka meel qoto dheer oo foolkaanooyin samayso (hot spot)"
+          ],
+          "passage": [
+            "Juqraafiyahannadu khataraha waxay ku bartaan iyagoo dhacdooyin dhab ah si faahfaahsan u baaraya.",
+            "Tan waxaa la yiraahdaa case study.",
+            "Case study-gayagu waa dhulgariirkii Sichuan ee Shiinaha, 2008.",
+            "Shiinuhu waa NEE, dal dhaqaalihiisu si dhaqso ah u korayo.",
+            "Case study wuxuu weydiiyaa waxa dhacdada keenay iyo goorta ay dhacday.",
+            "Wuxuu weydiiyaa saamaynta ay ku yeelatay dadka, lacagta iyo dhulka.",
+            "Wuxuu weydiiyaa sida dadku uga jawaabeen iyo caawimaadda la bixiyay.",
+            "Dhulgariirradu dadka si toos ah uma dilaan.",
+            "Dhismayaal dumaya, dhul-go'yo iyo dabab ayaa dila.",
+            "Sidaas darteed waqtiga maalinta iyo xoogga dhismayaasha aad ayay muhiim u yihiin.",
+            "Foolkaanooyinkuna khatar ayay yihiin, haddana malaayiin qof ayaa agtooda ku nool.",
+            "Dambaska foolkaanadu ciidda ayuu barwaaqo (fertile) ka dhigaa, sidaas darteed dalaggu si fiican ayuu u koraa.",
+            "Kulaylka dhulka hoostiisa ka imanaya wuxuu samayn karaa koronto jaban.",
+            "Dhagaxa foolkaanadu wuxuu samayn karaa walxo dhismo adag, dalxiisayaashuna shaqooyin ayay keenaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "справжній приклад, який докладно вивчають, щоб зрозуміти тему (case study)",
+            "країна з економікою, що швидко зростає; країна, яка швидко багатшає (NEE)",
+            "те, що стається внаслідок події (effect)",
+            "те, що роблять люди, щоб допомогти після катастрофи (response)",
+            "добрий для вирощування врожаю (fertile)",
+            "місце, де дуже гаряча порода піднімається з глибини мантії і утворює вулкани (hot spot)"
+          ],
+          "passage": [
+            "Географи вивчають небезпечні явища, докладно досліджуючи справжні події.",
+            "Це називається кейс-стаді (case study).",
+            "Наш кейс-стаді — землетрус у Сичуані (Sichuan), Китай, у 2008 році.",
+            "Китай — це NEE, країна, економіка якої швидко зростає.",
+            "Кейс-стаді запитує, що спричинило подію і коли вона сталася.",
+            "Він запитує, якими були наслідки для людей, для грошей і для землі.",
+            "Він запитує, як відреагували люди і яку допомогу надали.",
+            "Землетруси не вбивають людей безпосередньо.",
+            "Це роблять обвали будівель, зсуви та пожежі.",
+            "Тому час дня і міцність будівель мають дуже велике значення.",
+            "Вулкани теж небезпечні, але мільйони людей живуть поблизу них.",
+            "Вулканічний попіл робить ґрунт родючим (fertile), тому врожаї добре ростуть.",
+            "Тепло з-під землі може давати дешеву електроенергію.",
+            "Вулканічна порода — міцний будівельний матеріал, а туристи приносять робочі місця."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک حقیقی مثال جس کا تفصیل سے مطالعہ کیا جائے تاکہ موضوع سمجھا جا سکے (case study)",
+            "ایک نئی ابھرتی ہوئی معیشت: ایسا ملک جو تیزی سے امیر ہو رہا ہے (NEE)",
+            "کوئی چیز جو کسی واقعے کی وجہ سے ہوتی ہے (effect)",
+            "آفت کے بعد لوگ مدد کے لیے جو کچھ کرتے ہیں (response)",
+            "فصلیں اگانے کے لیے اچھی (fertile)",
+            "ایسی جگہ جہاں mantle کی گہرائی سے بہت گرم چٹان اوپر اٹھتی ہے اور آتش فشاں بناتی ہے (hot spot)"
+          ],
+          "passage": [
+            "جغرافیہ دان حقیقی واقعات کا تفصیل سے مطالعہ کر کے خطرات کے بارے میں سیکھتے ہیں۔",
+            "اسے case study کہتے ہیں۔",
+            "ہماری case study چین میں 2008 کا سیچوان (Sichuan) زلزلہ ہے۔",
+            "چین ایک NEE ہے، یعنی ایسا ملک جس کی معیشت تیزی سے بڑھ رہی ہے۔",
+            "case study پوچھتی ہے کہ واقعے کی وجہ کیا تھی اور یہ کب ہوا۔",
+            "یہ پوچھتی ہے کہ لوگوں، پیسے اور زمین پر اس کے کیا اثرات ہوئے۔",
+            "یہ پوچھتی ہے کہ لوگوں نے کیا ردِعمل دیا اور کیا مدد دی گئی۔",
+            "زلزلے لوگوں کو براہِ راست نہیں مارتے۔",
+            "گرتی عمارتیں، لینڈ سلائیڈ اور آگ مارتے ہیں۔",
+            "اس لیے دن کا وقت اور عمارتوں کی مضبوطی بہت اہم ہوتی ہے۔",
+            "آتش فشاں بھی خطرناک ہیں، پھر بھی لاکھوں لوگ ان کے قریب رہتے ہیں۔",
+            "آتش فشانی راکھ مٹی کو زرخیز بنا دیتی ہے، اس لیے فصلیں اچھی اگتی ہیں۔",
+            "زمین کے نیچے کی گرمی سے سستی بجلی بنائی جا سکتی ہے۔",
+            "آتش فشانی چٹان مضبوط تعمیری مواد بنتی ہے، اور سیاح روزگار لاتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A case study: the Sichuan earthquake, 2008",

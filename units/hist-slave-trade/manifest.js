@@ -97,8 +97,168 @@ window.ASTRA_UNITS["hist-slave-trade"] = {
           "This became a vicious circle.",
           "Villages lost farmers, parents and children.",
           "West Africa was weakened for hundreds of years."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "امتلاك الناس كأنهم ممتلكات وإجبارهم على العمل بلا أجر (slavery)",
+            "شخص جُعل ملكًا لشخص آخر (enslaved person)",
+            "مجموعة من البلاد يحكمها بلد واحد قوي (Empire)",
+            "أشياء مفيدة يريدها بلد ما، مثل المحاصيل والمعادن والقماش (resources)",
+            "مدى رغبة الناس في شراء شيء ما (demand)",
+            "سلسلة من الأحداث تجعل كلّ خطوة فيها الخطوة التالية أسوأ (vicious circle)"
+          ],
+          "passage": [
+            "في القرنَين السادس عشر والسابع عشر (1500s و1600s)، كانت الدول الأوروبية تبني إمبراطوريات.",
+            "كانت تريد موارد مثل السكّر والتبغ والقطن.",
+            "كانت زراعة هذه المحاصيل في الأمريكتَين تحتاج إلى عمّال كثيرين.",
+            "كان كثير من السكّان الأصليين هناك قد ماتوا بأمراض جلبها الأوروبيون.",
+            "لذلك بحث الأوروبيون عن عمّال في مكان آخر.",
+            "فاتّجهوا إلى غرب أفريقيا.",
+            "كانت بعض الممالك الأفريقية تبيع أصلًا أسرى الحرب والمجرمين للتجّار.",
+            "عرض الأوروبيون البنادق والمال والبضائع في مقابل أشخاص مُستعبَدين.",
+            "زاد الطلب (demand)، ودخلت الممالك في حروب لتأسر مزيدًا من الناس.",
+            "واشترت ممالك أخرى الأسلحة لتحمي نفسها.",
+            "صار هذا حلقة مفرغة (vicious circle).",
+            "فقدت القرى مزارعيها وآباءها وأمّهاتها وأطفالها.",
+            "وضعف غرب أفريقيا مئات السنين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "posiadanie ludzi jako własności i zmuszanie ich do pracy za nic (slavery, niewolnictwo)",
+            "człowiek, którego uczyniono czyjąś własnością (enslaved person)",
+            "grupa ziem rządzonych przez jeden potężny kraj (Empire, imperium)",
+            "przydatne rzeczy, których chce jakiś kraj, na przykład plony, metale i tkaniny (resources, zasoby)",
+            "to, jak bardzo ludzie chcą coś kupić (demand, popyt)",
+            "łańcuch zdarzeń, w którym każdy krok pogarsza następny (vicious circle, błędne koło)"
+          ],
+          "passage": [
+            "W XVI i XVII wieku (1500s i 1600s) kraje europejskie budowały imperia.",
+            "Chciały zasobów (resources) takich jak cukier, tytoń i bawełna.",
+            "Uprawa tych roślin w Amerykach wymagała wielu pracowników.",
+            "Wielu rdzennych mieszkańców zmarło tam na choroby, które przywieźli Europejczycy.",
+            "Europejczycy szukali więc pracowników gdzie indziej.",
+            "Zwrócili się do Afryki Zachodniej.",
+            "Niektóre afrykańskie królestwa już wcześniej sprzedawały kupcom jeńców wojennych i przestępców.",
+            "Europejczycy oferowali broń, pieniądze i towary w zamian za zniewolonych ludzi (enslaved people).",
+            "Popyt rósł, a królestwa prowadziły wojny, żeby pojmać więcej ludzi.",
+            "Inne królestwa kupowały broń, żeby się bronić.",
+            "Powstało z tego błędne koło (vicious circle).",
+            "Wioski traciły rolników, rodziców i dzieci.",
+            "Afryka Zachodnia była osłabiona przez setki lat."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ter pessoas como propriedade e obrigá-las a trabalhar sem receber nada (slavery, escravatura/escravidão)",
+            "uma pessoa que foi transformada em propriedade de outra (enslaved person, pessoa escravizada)",
+            "um conjunto de terras governado por um só país poderoso (Empire, Império)",
+            "coisas úteis que um país quer, como colheitas, metais e tecidos (resources, recursos)",
+            "quanto as pessoas querem comprar alguma coisa (demand, procura/demanda)",
+            "uma cadeia de acontecimentos em que cada passo piora o seguinte (vicious circle, círculo vicioso)"
+          ],
+          "passage": [
+            "Nos anos 1500 e 1600, os países europeus estavam a construir/construindo impérios.",
+            "Queriam recursos como açúcar, tabaco e algodão.",
+            "Cultivar essas plantas nas Américas exigia muitos trabalhadores.",
+            "Muitos povos nativos de lá tinham morrido de doenças que os europeus trouxeram.",
+            "Por isso, os europeus procuraram trabalhadores noutro/em outro lugar.",
+            "Viraram-se para a África Ocidental.",
+            "Alguns reinos africanos já vendiam prisioneiros de guerra e criminosos a comerciantes.",
+            "Os europeus ofereciam armas, dinheiro e mercadorias em troca de pessoas escravizadas (enslaved people).",
+            "A procura/demanda cresceu, e os reinos entraram em guerra para capturar mais pessoas.",
+            "Outros reinos compraram armas para se protegerem.",
+            "Isto tornou-se um círculo vicioso (vicious circle).",
+            "As aldeias perderam agricultores, pais, mães e filhos.",
+            "A África Ocidental ficou enfraquecida durante centenas de anos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dad hanti ahaan loo leeyahay oo lagu qasbo inay shaqeeyaan lacag la'aan (slavery, addoonsi)",
+            "qof hanti qof kale laga dhigay (enslaved person, qof la addoonsaday)",
+            "koox dhulal ah oo dal awood badan xukumo (Empire)",
+            "waxyaabo faa'iido leh oo dal rabo, sida dalag, biro iyo maro (resources)",
+            "inta dadku wax u doonayaan inay iibsadaan (demand)",
+            "silsilad dhacdooyin oo tallaabo kasta ka xumayso tan xigta (vicious circle)"
+          ],
+          "passage": [
+            "1500-meeyadii iyo 1600-meeyadii, dalalka Yurub boqortooyooyin waaweyn (empires) ayay dhisayeen.",
+            "Waxay doonayeen resources sida sonkor, tubaako iyo suuf.",
+            "Dalaggan beeristiisa Ameerikada shaqaale badan ayay qaadatay.",
+            "Dad badan oo asalka halkaas ka ahaa waxay u dhinteen cudurro ay Yurubiyaanku keeneen.",
+            "Sidaas darteed Yurubiyaanku shaqaale meel kale ayay ka raadiyeen.",
+            "Galbeedka Afrika ayay u jeesteen.",
+            "Boqortooyooyinka Afrika qaarkood horay ayay maxaabiis dagaal iyo dembiilayaal ganacsato uga iibin jireen.",
+            "Yurubiyaanku waxay bixiyeen qoryo, lacag iyo badeecado si ay dad la addoonsaday ku beddelaan.",
+            "Baahidu (demand) way kortay, boqortooyooyinkuna dagaal ayay galeen si ay dad badan u qabtaan.",
+            "Boqortooyooyin kale hub ayay iibsadeen si ay isu ilaaliyaan.",
+            "Tani waxay noqotay vicious circle.",
+            "Tuulooyinku waxay lumiyeen beeraley, waalidiin iyo carruur.",
+            "Galbeedka Afrika boqolaal sano ayuu daciif ahaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "володіння людьми як власністю і примушування їх працювати задарма (slavery)",
+            "людина, яку зробили чиєюсь власністю (enslaved person)",
+            "група земель, якими править одна могутня країна (Empire)",
+            "корисні речі, яких хоче країна, наприклад урожай, метали і тканини (resources)",
+            "наскільки сильно люди хочуть щось купити (demand)",
+            "ланцюг подій, у якому кожний крок робить наступний гіршим (vicious circle)"
+          ],
+          "passage": [
+            "У 1500-х і 1600-х роках європейські країни будували імперії.",
+            "Вони хотіли ресурсів, таких як цукор, тютюн і бавовна.",
+            "Вирощування цих культур в Америках потребувало багатьох працівників.",
+            "Багато корінних людей там померли від хвороб, які привезли європейці.",
+            "Тому європейці шукали працівників десь інде.",
+            "Вони звернулися до Західної Африки.",
+            "Деякі африканські королівства вже продавали торговцям полонених і злочинців.",
+            "Європейці пропонували зброю, гроші й товари в обмін на поневолених людей.",
+            "Попит зростав, і королівства йшли на війну, щоб захопити більше людей.",
+            "Інші королівства купували зброю, щоб захистити себе.",
+            "Це стало хибним колом (vicious circle).",
+            "Села втрачали землеробів, батьків і дітей.",
+            "Західна Африка була ослаблена на сотні років."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لوگوں کو جائیداد کی طرح اپنی ملکیت بنانا اور بغیر اجرت کام پر مجبور کرنا (slavery)",
+            "ایسا شخص جسے کسی دوسرے کی ملکیت بنا دیا گیا ہو (enslaved person)",
+            "زمینوں کا ایک گروہ جس پر ایک طاقت ور ملک حکومت کرے (Empire)",
+            "کارآمد چیزیں جو کوئی ملک چاہتا ہے، جیسے فصلیں، دھاتیں اور کپڑا (resources)",
+            "لوگ کوئی چیز کتنی زیادہ خریدنا چاہتے ہیں (demand)",
+            "واقعات کی ایک زنجیر جس میں ہر قدم اگلے کو اور بُرا بنا دیتا ہے (vicious circle)"
+          ],
+          "passage": [
+            "1500 اور 1600 کی دہائیوں میں یورپی ملک سلطنتیں بنا رہے تھے۔",
+            "وہ چینی، تمباکو اور کپاس جیسے وسائل چاہتے تھے۔",
+            "امریکی براعظموں میں یہ فصلیں اگانے کے لیے بہت سے مزدور درکار تھے۔",
+            "وہاں کے بہت سے مقامی لوگ ان بیماریوں سے مر چکے تھے جو یورپی اپنے ساتھ لائے تھے۔",
+            "اس لیے یورپیوں نے کہیں اور مزدور تلاش کیے۔",
+            "انھوں نے مغربی افریقہ کا رخ کیا۔",
+            "کچھ افریقی بادشاہتیں پہلے ہی جنگی قیدیوں اور مجرموں کو تاجروں کے ہاتھ بیچتی تھیں۔",
+            "یورپیوں نے غلام بنائے گئے لوگوں کے بدلے بندوقیں، پیسہ اور سامان پیش کیا۔",
+            "طلب (demand) بڑھی، اور بادشاہتیں زیادہ لوگوں کو پکڑنے کے لیے جنگ پر نکل پڑیں۔",
+            "دوسری بادشاہتوں نے اپنی حفاظت کے لیے ہتھیار خریدے۔",
+            "یہ ایک vicious circle بن گیا۔",
+            "گاؤں اپنے کسان، ماں باپ اور بچے کھو بیٹھے۔",
+            "مغربی افریقہ سینکڑوں سال کے لیے کمزور ہو گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What do slavery and the Slave Trade mean?",
@@ -303,8 +463,162 @@ window.ASTRA_UNITS["hist-slave-trade"] = {
           "British ports such as Liverpool and London sent thousands of voyages.",
           "Ship building gave people in those cities work.",
           "So many British people gained from the trade without ever seeing it."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "طريق تجارة الرقيق ذو الأضلاع الثلاثة عبر الأطلسي (Triangular Trade Route)",
+            "المرحلة الأولى، من أوروبا إلى غرب أفريقيا (outward journey)",
+            "المرحلة الثانية، من غرب أفريقيا إلى الأمريكتَين (Middle Passage)",
+            "المرحلة الثالثة، من الأمريكتَين عودةً إلى أوروبا (return voyage)",
+            "مدينة على البحر تُحمَّل فيها السفن وتُفرَّغ (port)",
+            "المال الذي يبقى بعد دفع تكاليف الرحلة (profit)"
+          ],
+          "passage": [
+            "كانت تجارة الرقيق (Slave Trade) تعمل على شكل مثلّث عبر المحيط الأطلسي.",
+            "كانت السفن تغادر أوروبا في رحلة الذهاب (outward journey).",
+            "وكانت تحمل البنادق والقماش والبضائع المصنوعة إلى غرب أفريقيا.",
+            "وهناك كانت البضائع تُبادَل بأشخاص مُستعبَدين.",
+            "كانت المرحلة الثانية هي المعبر الأوسط (Middle Passage)، من غرب أفريقيا إلى الأمريكتَين.",
+            "وهناك كان الأشخاص المُستعبَدون يُباعون.",
+            "ثم كانت السفن تُبحر عائدةً إلى بلادها في رحلة العودة (return voyage).",
+            "وكانت تحمل السكّر والقطن والتبغ والبنّ من المزارع الكبيرة.",
+            "وكان الربح (profit) يدفع تكاليف الرحلة التالية.",
+            "أرسلت مرافئ بريطانية مثل ليفربول (Liverpool) ولندن آلاف الرحلات.",
+            "ووفّر بناء السفن العمل للناس في تلك المدن.",
+            "وهكذا استفاد بريطانيون كثيرون من هذه التجارة دون أن يروها أبدًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "trójstronna trasa handlu zniewolonymi ludźmi przez Atlantyk (Triangular Trade Route)",
+            "pierwszy odcinek, z Europy do Afryki Zachodniej (outward journey)",
+            "drugi odcinek, z Afryki Zachodniej do Ameryk (Middle Passage)",
+            "trzeci odcinek, z Ameryk z powrotem do Europy (return voyage)",
+            "miasto nad morzem, gdzie statki ładują i rozładowują towary (port)",
+            "pieniądze, które zostawały po opłaceniu kosztów rejsu (profit, zysk)"
+          ],
+          "passage": [
+            "Handel zniewolonymi ludźmi (Slave Trade) działał jak trójkąt przez Ocean Atlantycki.",
+            "Statki wypływały z Europy w pierwszy rejs (outward journey).",
+            "Wiozły broń, tkaniny i wyroby przemysłowe do Afryki Zachodniej.",
+            "Tam towary wymieniano na zniewolonych ludzi.",
+            "Drugim odcinkiem było Przejście Środkowe (Middle Passage), z Afryki Zachodniej do Ameryk.",
+            "Tam sprzedawano zniewolonych ludzi.",
+            "Potem statki płynęły do domu w rejsie powrotnym (return voyage).",
+            "Wiozły cukier, bawełnę, tytoń i kawę z plantacji.",
+            "Zysk (profit) opłacał następny rejs.",
+            "Brytyjskie porty, takie jak Liverpool i Londyn, wysłały tysiące rejsów.",
+            "Budowa statków dawała pracę ludziom w tych miastach.",
+            "Tak wielu Brytyjczyków zyskiwało na tym handlu, choć nigdy go nie widzieli."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a rota de três lados do Tráfico de Escravizados através do Atlântico (Triangular Trade Route, Rota do Comércio Triangular)",
+            "a primeira etapa, da Europa para a África Ocidental (outward journey, viagem de ida)",
+            "a segunda etapa, da África Ocidental para as Américas (Middle Passage, Passagem do Meio)",
+            "a terceira etapa, das Américas de volta à Europa (return voyage, viagem de regresso/volta)",
+            "uma cidade junto ao mar onde os navios carregam e descarregam (port, porto)",
+            "o dinheiro que sobrava depois de pagar os custos de uma viagem (profit, lucro)"
+          ],
+          "passage": [
+            "O Tráfico de Escravizados (Slave Trade) funcionava como um triângulo através do Oceano Atlântico.",
+            "Os navios saíam da Europa na viagem de ida (outward journey).",
+            "Levavam armas, tecidos e produtos fabricados para a África Ocidental.",
+            "Lá, as mercadorias eram trocadas por pessoas escravizadas.",
+            "A segunda etapa era a Passagem do Meio (Middle Passage), da África Ocidental para as Américas.",
+            "As pessoas escravizadas eram vendidas lá.",
+            "Depois os navios voltavam para casa na viagem de regresso/volta (return voyage).",
+            "Levavam açúcar, algodão, tabaco e café das plantações.",
+            "O lucro (profit) pagava a viagem seguinte.",
+            "Portos britânicos como Liverpool e Londres mandaram milhares de viagens.",
+            "A construção de navios dava trabalho às pessoas dessas cidades.",
+            "Assim, muitos britânicos ganharam com o tráfico sem nunca o terem visto."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waddada saddex-dhinacle ee Ganacsigii Addoonsiga ee Atlantic-ka dhex martay (Triangular Trade Route)",
+            "lugta koowaad, Yurub ilaa Galbeedka Afrika (outward journey)",
+            "lugta labaad, Galbeedka Afrika ilaa Ameerikada (Middle Passage)",
+            "lugta saddexaad, Ameerikada dib ilaa Yurub (return voyage)",
+            "magaalo bad ag taal oo maraakiibtu wax ku rartaan oo ku dejiyaan (port)",
+            "lacagta hartay ka dib marka kharashka safarka la bixiyo (profit)"
+          ],
+          "passage": [
+            "Ganacsigii Addoonsiga (Slave Trade) wuxuu u shaqaynayay sida saddex-xagal Badweynta Atlantic dhex marta.",
+            "Maraakiibtu Yurub ayay ka baxeen safarka dibadda (outward journey).",
+            "Waxay u qaadeen qoryo, maro iyo badeecado la sameeyay Galbeedka Afrika.",
+            "Halkaas badeecaddii dad la addoonsaday ayaa lagu beddelay.",
+            "Lugtii labaad waxay ahayd Middle Passage, Galbeedka Afrika ilaa Ameerikada.",
+            "Dadkii la addoonsaday halkaas ayaa lagu iibiyay.",
+            "Maraakiibtu markaas guryahooda ayay ku noqdeen safarka celinta (return voyage).",
+            "Waxay sideen sonkor, suuf, tubaako iyo kafee beeraha waaweyn (plantations) ka yimid.",
+            "Faa'iidadu (profit) safarka xiga ayay bixisay.",
+            "Dekedo Ingiriis ah sida Liverpool iyo London kumanaan safar ayay direen.",
+            "Markab-dhisiddu dadka magaalooyinkaas shaqo ayay siisay.",
+            "Sidaas darteed dad badan oo Ingiriis ah ganacsiga ayay ka faa'iidaysteen iyagoo weligood aan arkin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "трикутний маршрут работоргівлі через Атлантику (Triangular Trade Route)",
+            "перший відрізок, з Європи до Західної Африки (outward journey)",
+            "другий відрізок, із Західної Африки до Америк (Middle Passage)",
+            "третій відрізок, з Америк назад до Європи (return voyage)",
+            "місто біля моря, де кораблі вантажать і розвантажують (port)",
+            "гроші, що залишаються після оплати витрат на плавання (profit)"
+          ],
+          "passage": [
+            "Работоргівля (Slave Trade) працювала як трикутник через Атлантичний океан.",
+            "Кораблі виходили з Європи в перший рейс (outward journey).",
+            "Вони везли зброю, тканини і фабричні товари до Західної Африки.",
+            "Там товари обмінювали на поневолених людей.",
+            "Другим відрізком був Середній перехід (Middle Passage), із Західної Африки до Америк.",
+            "Там поневолених людей продавали.",
+            "Потім кораблі пливли додому у зворотний рейс (return voyage).",
+            "Вони везли цукор, бавовну, тютюн і каву з плантацій.",
+            "Прибуток (profit) оплачував наступне плавання.",
+            "Британські порти, такі як Ліверпуль і Лондон, відправили тисячі рейсів.",
+            "Будівництво кораблів давало людям у цих містах роботу.",
+            "Тож багато британців мали зиск від торгівлі, ніколи її не бачивши."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بحرِ اوقیانوس کے آر پار غلامی کی تجارت کا تین کونوں والا راستہ (Triangular Trade Route)",
+            "پہلا مرحلہ، یورپ سے مغربی افریقہ تک (outward journey)",
+            "دوسرا مرحلہ، مغربی افریقہ سے امریکی براعظموں تک (Middle Passage)",
+            "تیسرا مرحلہ، امریکی براعظموں سے واپس یورپ تک (return voyage)",
+            "سمندر کے کنارے ایک شہر جہاں جہاز سامان لادتے اور اتارتے ہیں (port)",
+            "سفر کے خرچے ادا کرنے کے بعد جو پیسہ بچ جائے (profit)"
+          ],
+          "passage": [
+            "غلامی کی تجارت (Slave Trade) بحرِ اوقیانوس (Atlantic Ocean) کے آر پار ایک تکون کی طرح چلتی تھی۔",
+            "جہاز outward journey پر یورپ سے روانہ ہوتے تھے۔",
+            "وہ مغربی افریقہ تک بندوقیں، کپڑا اور کارخانوں کا سامان لے جاتے تھے۔",
+            "وہاں اس سامان کے بدلے غلام بنائے گئے لوگ لیے جاتے تھے۔",
+            "دوسرا مرحلہ Middle Passage تھا، مغربی افریقہ سے امریکی براعظموں تک۔",
+            "غلام بنائے گئے لوگوں کو وہاں بیچ دیا جاتا تھا۔",
+            "پھر جہاز return voyage پر گھر واپس روانہ ہوتے تھے۔",
+            "وہ باغات (plantations) سے چینی، کپاس، تمباکو اور کافی لاتے تھے۔",
+            "منافع (profit) سے اگلے سفر کا خرچ نکلتا تھا۔",
+            "لیورپول (Liverpool) اور لندن جیسی برطانوی بندرگاہوں نے ہزاروں سفر روانہ کیے۔",
+            "جہاز سازی سے ان شہروں کے لوگوں کو کام ملا۔",
+            "یوں بہت سے برطانوی لوگوں نے اس تجارت کو کبھی دیکھے بغیر اس سے فائدہ اٹھایا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Three legs of a triangle",
@@ -502,8 +816,168 @@ window.ASTRA_UNITS["hist-slave-trade"] = {
           "On a ship called the Zong, the captain threw more than 100 people into the sea.",
           "The owners then claimed their value from the insurance company.",
           "Those who survived the crossing were sold in the Americas."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أشخاص أُخذوا واحتُجزوا ضدّ إرادتهم (captives)",
+            "كيف يكون المكان للعيش فيه: المساحة والهواء والطعام والنظافة (conditions)",
+            "مرض ينتقل من شخص إلى شخص (disease)",
+            "نوافذ صغيرة في جانب السفينة (portholes)",
+            "سفينة بريطانية لنقل المُستعبَدين ألقى قبطانها أكثر من 100 شخص في البحر (the Zong)",
+            "مال يُدفع عندما يُفقد شيء تملكه أو يتضرّر (insurance)"
+          ],
+          "passage": [
+            "كان المعبر الأوسط (Middle Passage) هو الرحلة من غرب أفريقيا إلى الأمريكتَين.",
+            "وكان المرحلة الثانية من المثلّث.",
+            "أُجبر نحو اثني عشر مليون شخص على القيام بهذه الرحلة.",
+            "كان كلّ واحد منهم إنسانًا أُخذ من بيته.",
+            "كانت السفينة تحمل ما بين 250 و600 أسير.",
+            "كان الناس يُحشرون تحت سطح السفينة في مساحة ضيّقة جدًا.",
+            "إذا كان البحر هائجًا، كانت النوافذ الصغيرة (portholes) تُغلق، فيصير الهواء فاسدًا.",
+            "كان المرض ينتشر بسرعة.",
+            "وكان الطعام والماء قليلَين.",
+            "مات نحو واحد من كلّ خمسة أشخاص قبل أن تصل السفينة إلى اليابسة.",
+            "على سفينة تُسمّى زونغ (the Zong)، ألقى القبطان أكثر من 100 شخص في البحر.",
+            "ثم طالب المالكون شركة التأمين بقيمتهم.",
+            "ومن نجوا من رحلة العبور بِيعوا في الأمريكتَين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ludzie, których pojmano i trzymano wbrew ich woli (captives, pojmani)",
+            "to, jak się żyje w jakimś miejscu: przestrzeń, powietrze, jedzenie i czystość (conditions, warunki)",
+            "choroba, która przenosi się z człowieka na człowieka (disease)",
+            "małe okienka w burcie statku (portholes)",
+            "brytyjski statek niewolniczy, którego kapitan wyrzucił do morza ponad 100 osób (the Zong)",
+            "pieniądze wypłacane, gdy coś, co posiadasz, zostanie utracone lub zniszczone (insurance, ubezpieczenie)"
+          ],
+          "passage": [
+            "Przejście Środkowe (Middle Passage) to podróż z Afryki Zachodniej do Ameryk.",
+            "Był to drugi odcinek trójkąta.",
+            "Około dwunastu milionów ludzi zmuszono do tej podróży.",
+            "Każdy z nich był człowiekiem zabranym ze swojego domu.",
+            "Statek przewoził od 250 do 600 pojmanych (captives).",
+            "Ludzi stłoczono pod pokładem na bardzo małej przestrzeni.",
+            "Gdy morze było wzburzone, okienka (portholes) zamykano i powietrze stawało się cuchnące.",
+            "Choroby szerzyły się szybko.",
+            "Brakowało jedzenia i wody.",
+            "Około jedna osoba na pięć umierała, zanim statek dotarł do lądu.",
+            "Na statku o nazwie Zong kapitan wyrzucił do morza ponad 100 osób.",
+            "Właściciele zażądali potem ich wartości od firmy ubezpieczeniowej.",
+            "Ci, którzy przeżyli przeprawę, byli sprzedawani w Amerykach."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "pessoas que foram levadas e mantidas presas contra a sua vontade (captives, cativos)",
+            "como é um lugar para se viver: o espaço, o ar, a comida e a limpeza (conditions, condições)",
+            "doença que passa de pessoa para pessoa (disease, doença)",
+            "pequenas janelas no lado de um navio (portholes, vigias)",
+            "um navio de tráfico britânico cujo capitão atirou/jogou mais de 100 pessoas ao mar (the Zong)",
+            "dinheiro que é pago quando algo que você possui se perde ou se estraga (insurance, seguro)"
+          ],
+          "passage": [
+            "A Passagem do Meio (Middle Passage) era a viagem da África Ocidental para as Américas.",
+            "Era a segunda etapa do triângulo.",
+            "Cerca de doze milhões de pessoas foram obrigadas a fazer esta viagem.",
+            "Cada uma delas era uma pessoa arrancada da sua casa.",
+            "Um navio levava entre 250 e 600 cativos (captives).",
+            "As pessoas eram amontoadas debaixo do convés com muito pouco espaço.",
+            "Se o mar estava agitado, as vigias (portholes) eram fechadas, e o ar ficava podre.",
+            "As doenças espalhavam-se depressa.",
+            "A comida e a água eram escassas.",
+            "Cerca de uma em cada cinco pessoas morria antes de o navio chegar a terra.",
+            "Num navio chamado Zong, o capitão atirou/jogou mais de 100 pessoas ao mar.",
+            "Os donos do navio exigiram depois o valor delas à companhia de seguros.",
+            "Os que sobreviveram à travessia foram vendidos nas Américas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dad la qabtay oo la hayo iyagoo aan rabin (captives)",
+            "sida meel u tahay in lagu noolaado: meesha, hawada, cuntada iyo nadaafadda (conditions)",
+            "jirro qof ka qof u faafta (disease)",
+            "daaqado yaryar oo markab dhinaciisa ku yaal (portholes)",
+            "markab addoonsi oo Ingiriis ah oo kabtankiisu dad ka badan 100 badda ku tuuray (the Zong)",
+            "lacag la bixiyo marka wax aad leedahay lumo ama waxyeello gaarto (insurance)"
+          ],
+          "passage": [
+            "Middle Passage waxay ahayd safarka Galbeedka Afrika ilaa Ameerikada.",
+            "Waxay ahayd lugta labaad ee saddex-xagalka.",
+            "Qiyaastii laba iyo toban milyan qof ayaa lagu qasbay inay safarkan sameeyaan.",
+            "Mid kastaa wuxuu ahaa qof gurigiisa laga qaaday.",
+            "Markab wuxuu siday inta u dhexaysa 250 iyo 600 maxbuus (captives).",
+            "Dadka waxaa lagu cidhiidhiyay sagxadda hoosteeda iyagoo meel aad u yar haysta.",
+            "Haddii baddu kacsan tahay, portholes-ka ayaa la xirayay, hawaduna way qudhmaysay.",
+            "Cudurradu si dhaqso ah ayay u faafeen.",
+            "Cunto iyo biyo way yaraayeen.",
+            "Qiyaastii shan qof mid ayaa dhimanayay ka hor inta markabku dhul gaaro.",
+            "Markab la yiraahdo Zong, kabtankiisu dad ka badan 100 badda ayuu ku tuuray.",
+            "Milkiilayaashii markaas qiimahooda shirkadda insurance-ka ayay ka dalbadeen.",
+            "Kuwii badda ka badbaaday Ameerikada ayaa lagu iibiyay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "люди, яких захопили й утримують проти їхньої волі (captives)",
+            "яке місце для життя: простір, повітря, їжа і чистота (conditions)",
+            "хвороба, яка передається від людини до людини (disease)",
+            "маленькі вікна в борту корабля (portholes)",
+            "британський работорговельний корабель, капітан якого викинув у море понад 100 людей (the Zong)",
+            "гроші, які виплачують, коли те, що вам належить, втрачено або пошкоджено (insurance)"
+          ],
+          "passage": [
+            "Середній перехід (Middle Passage) — це шлях із Західної Африки до Америк.",
+            "Це був другий відрізок трикутника.",
+            "Близько дванадцяти мільйонів людей змусили здійснити цю подорож.",
+            "Кожен із них був людиною, яку забрали з дому.",
+            "Корабель перевозив від 250 до 600 полонених.",
+            "Людей набивали під палубою з дуже малим простором.",
+            "Якщо море було бурхливим, ілюмінатори (portholes) закривали, і повітря ставало смердючим.",
+            "Хвороби поширювалися швидко.",
+            "Їжі та води бракувало.",
+            "Приблизно одна людина з п’яти помирала, перш ніж корабель досягав землі.",
+            "На кораблі під назвою «Зонг» (the Zong) капітан викинув у море понад 100 людей.",
+            "Потім власники вимагали їхню вартість від страхової компанії.",
+            "Тих, хто пережив переправу, продавали в Америках."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسے لوگ جنھیں پکڑ کر ان کی مرضی کے خلاف قید رکھا گیا ہو (captives)",
+            "کوئی جگہ رہنے کے لیے کیسی ہے: جگہ، ہوا، خوراک اور صفائی (conditions)",
+            "بیماری جو ایک شخص سے دوسرے تک پھیلتی ہے (disease)",
+            "جہاز کے پہلو میں چھوٹی کھڑکیاں (portholes)",
+            "ایک برطانوی جہاز جس کے کپتان نے 100 سے زیادہ لوگوں کو سمندر میں پھینک دیا (the Zong)",
+            "وہ پیسہ جو آپ کی کوئی چیز کھو جانے یا خراب ہونے پر ادا کیا جاتا ہے (insurance)"
+          ],
+          "passage": [
+            "Middle Passage مغربی افریقہ سے امریکی براعظموں تک کا سفر تھا۔",
+            "یہ تکون کا دوسرا مرحلہ تھا۔",
+            "تقریباً ایک کروڑ بیس لاکھ لوگوں کو یہ سفر کرنے پر مجبور کیا گیا۔",
+            "ان میں سے ہر ایک ایک انسان تھا جسے اس کے گھر سے اٹھا لیا گیا تھا۔",
+            "ایک جہاز 250 سے 600 تک قیدی (captives) لے جاتا تھا۔",
+            "لوگوں کو عرشے کے نیچے بہت کم جگہ میں ٹھونس دیا جاتا تھا۔",
+            "اگر سمندر طوفانی ہوتا تو portholes بند کر دی جاتیں، اور ہوا بدبودار ہو جاتی۔",
+            "بیماری تیزی سے پھیلتی تھی۔",
+            "خوراک اور پانی کی قلت تھی۔",
+            "ہر پانچ میں سے تقریباً ایک شخص جہاز کے زمین تک پہنچنے سے پہلے مر جاتا تھا۔",
+            "Zong نامی ایک جہاز پر کپتان نے 100 سے زیادہ لوگوں کو سمندر میں پھینک دیا۔",
+            "پھر مالکوں نے انشورنس (insurance) کمپنی سے ان کی قیمت کا دعویٰ کیا۔",
+            "جو لوگ یہ سفر جھیل کر زندہ بچے، انھیں امریکی براعظموں میں بیچ دیا گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What was the Middle Passage?",
@@ -701,8 +1175,168 @@ window.ASTRA_UNITS["hist-slave-trade"] = {
           "Some ran away or rose up against their owners.",
           "Many more resisted in small ways every day.",
           "They worked slowly, broke tools, and kept their languages, songs and beliefs alive."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "بيع لمن يعرض أكثر مال (auction)",
+            "بيع يدفع فيه المشترون سعرًا محدّدًا ثم يندفعون لخطف الناس (scramble)",
+            "مزرعة ضخمة تزرع محصولًا واحدًا (plantation)",
+            "رجال كانوا يراقبون العمّال ويعاقبونهم (slave patrollers)",
+            "المقاومة ضدّ السيطرة، علنًا أو بطرق صغيرة (resistance)",
+            "جزيرة في الكاريبي كانت مزارع السكّر فيها الصناعة الرئيسية (Jamaica)"
+          ],
+          "passage": [
+            "عندما وصلت السفن، احتُجز الأشخاص المُستعبَدون في حظائر احتجاز (slave pens).",
+            "قبل البيع، كانوا يُغسَلون ويُدهَنون بالزيت ليبدوا أكثر صحّة.",
+            "في المزاد (auction)، كان الناس يُباعون واحدًا واحدًا، أو في مجموعات، لمن يدفع أعلى سعر.",
+            "كان يمكن أن تُفرَّق العائلات وتُباع لمشترين مختلفين.",
+            "في بيع التدافع (scramble)، كان المشترون يدفعون سعرًا محدّدًا ثم يندفعون لخطف الناس.",
+            "بعد البيع، كان الناس يُؤخذون إلى مزرعة كبيرة (plantation).",
+            "كانت المزارع الكبيرة مزارع ضخمة تزرع السكّر أو القطن أو التبغ أو البنّ.",
+            "كان الناس يعملون حتى ثماني عشرة ساعة في اليوم، يراقبهم حرّاس المزارع (slave patrollers).",
+            "وكانوا يعيشون في أكواخ خشبية صغيرة أرضها من التراب.",
+            "ومع ذلك وجد الأشخاص المُستعبَدون طرقًا للمقاومة.",
+            "فرّ بعضهم أو ثاروا على مالكيهم.",
+            "وقاوم كثيرون غيرهم بطرق صغيرة كلّ يوم.",
+            "كانوا يعملون ببطء، ويكسرون الأدوات، ويحافظون على لغاتهم وأغانيهم ومعتقداتهم حيّة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sprzedaż temu, kto zaoferuje najwięcej pieniędzy (auction, licytacja)",
+            "sprzedaż, w której kupujący płacili ustaloną cenę, a potem wbiegali i chwytali ludzi (scramble)",
+            "bardzo duże gospodarstwo uprawiające jedną roślinę (plantation, plantacja)",
+            "mężczyźni, którzy pilnowali pracujących i ich karali (slave patrollers, nadzorcy)",
+            "stawianie oporu kontroli, otwarcie lub na małe sposoby (resistance, opór)",
+            "karaibska wyspa, na której plantacje cukru były głównym przemysłem (Jamaica, Jamajka)"
+          ],
+          "passage": [
+            "Gdy statki przybywały, zniewolonych ludzi trzymano w zagrodach (slave pens).",
+            "Przed sprzedażą myto ich i natłuszczano, żeby wyglądali zdrowiej.",
+            "Na licytacji (auction) ludzi sprzedawano pojedynczo lub w grupach temu, kto dał najwięcej.",
+            "Rodziny mogły zostać rozdzielone i sprzedane różnym kupcom.",
+            "W scramble kupujący płacili ustaloną cenę, a potem wbiegali i chwytali ludzi.",
+            "Po sprzedaży ludzi zabierano na plantację (plantation).",
+            "Plantacje to ogromne gospodarstwa uprawiające cukier, bawełnę, tytoń lub kawę.",
+            "Ludzie pracowali nawet osiemnaście godzin dziennie, pilnowani przez nadzorców (slave patrollers).",
+            "Mieszkali w małych drewnianych szopach z klepiskiem zamiast podłogi.",
+            "A jednak zniewoleni ludzie znajdowali sposoby, by stawiać opór.",
+            "Niektórzy uciekali lub buntowali się przeciw swoim właścicielom.",
+            "O wiele więcej stawiało opór na małe sposoby każdego dnia.",
+            "Pracowali powoli, psuli narzędzia i zachowywali żywe swoje języki, pieśni i wierzenia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma venda a quem oferecer mais dinheiro (auction, leilão)",
+            "uma venda em que os compradores pagavam um preço fixo e depois corriam para agarrar pessoas (scramble)",
+            "uma propriedade agrícola muito grande que cultivava uma só planta (plantation, plantação)",
+            "homens que vigiavam os trabalhadores e os castigavam (slave patrollers, patrulheiros/capatazes)",
+            "lutar contra o controlo/controle, abertamente ou de pequenas maneiras (resistance, resistência)",
+            "uma ilha das Caraíbas/do Caribe onde as plantações de açúcar eram a indústria principal (Jamaica)"
+          ],
+          "passage": [
+            "Quando os navios chegavam, as pessoas escravizadas eram presas em currais (slave pens).",
+            "Antes de uma venda, eram lavadas e untadas com óleo para parecerem mais saudáveis.",
+            "Num leilão (auction), as pessoas eram vendidas uma a uma, ou em grupos, a quem oferecesse mais.",
+            "As famílias podiam ser separadas e vendidas a compradores diferentes.",
+            "Num scramble, os compradores pagavam um preço fixo e depois corriam para agarrar pessoas.",
+            "Depois da venda, as pessoas eram levadas para uma plantação (plantation).",
+            "As plantações eram quintas/fazendas enormes que cultivavam açúcar, algodão, tabaco ou café.",
+            "As pessoas trabalhavam até dezoito horas por dia, vigiadas pelos patrulheiros (slave patrollers).",
+            "Viviam em pequenas cabanas de madeira com chão de terra.",
+            "Mesmo assim, as pessoas escravizadas encontraram maneiras de resistir.",
+            "Algumas fugiram ou revoltaram-se contra os seus donos.",
+            "Muitas mais resistiram de pequenas maneiras todos os dias.",
+            "Trabalhavam devagar, partiam/quebravam ferramentas e mantinham vivas as suas línguas, canções e crenças."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "iib qofkii lacagta ugu badan bixiya la siiyo (auction)",
+            "iib iibsadayaashu qiimo go'an bixiyeen, kaddibna u yaaceen si ay dad u qabtaan (scramble)",
+            "beer aad u weyn oo hal dalag beerta (plantation)",
+            "rag shaqaalaha ilaalin jiray oo ciqaabi jiray (slave patrollers)",
+            "la dagaallanka xukun, si furan ama siyaabo yaryar (resistance)",
+            "jasiirad Caribbean ah oo beeraha sonkorta ay warshaddeeda ugu weyn ahaayeen (Jamaica)"
+          ],
+          "passage": [
+            "Markii maraakiibtu yimaadeen, dadka la addoonsaday xeryo (slave pens) ayaa lagu hayay.",
+            "Iib ka hor, waa la dhaqi jiray oo saliid lagu mari jiray si ay u muuqdaan caafimaad qaba.",
+            "Auction, dad ayaa mid mid, ama kooxo, loo iibin jiray qofkii lacagta ugu badan bixiya.",
+            "Qoysas waa la kala qaybin karay oo iibsadayaal kala duwan loo iibin karay.",
+            "Scramble, iibsadayaashu qiimo go'an ayay bixiyeen, kaddibna way u yaaceen si ay dad u qabtaan.",
+            "Iibka ka dib, dadka beer weyn (plantation) ayaa loo qaadi jiray.",
+            "Plantations waxay ahaayeen beero aad u waaweyn oo beeraya sonkor, suuf, tubaako ama kafee.",
+            "Dadku waxay shaqayn jireen ilaa siddeed iyo toban saacadood maalintii, iyagoo slave patrollers ilaaliyaan.",
+            "Waxay ku noolaayeen buulal alwaax ah oo yaryar oo dhulkoodu ciid yahay.",
+            "Haddana dadkii la addoonsaday siyaabo ay u iska caabbiyaan ayay heleen.",
+            "Qaar way carareen ama milkiilayaashooda ayay ku kaceen.",
+            "Kuwo badan oo ka badan siyaabo yaryar ayay maalin walba ku iska caabbiyeen.",
+            "Si tartiib ah ayay u shaqayn jireen, qalab ayay jebin jireen, luqaddooda, heesahooda iyo caqiidooyinkooda ayay noolayn jireen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "продаж тому, хто запропонує найбільше грошей (auction)",
+            "продаж, на якому покупці платили встановлену ціну, а потім кидалися хапати людей (scramble)",
+            "дуже велике господарство, де вирощують одну культуру (plantation)",
+            "чоловіки, які наглядали за працівниками і карали їх (slave patrollers)",
+            "опір контролю, відкрито або дрібними способами (resistance)",
+            "карибський острів, де цукрові плантації були головною галуззю (Jamaica)"
+          ],
+          "passage": [
+            "Коли кораблі прибували, поневолених людей тримали в загонах (slave pens).",
+            "Перед продажем їх мили і натирали олією, щоб вони виглядали здоровішими.",
+            "На аукціоні (auction) людей продавали одного за одним або групами тому, хто давав найбільше.",
+            "Родини могли розділити і продати різним покупцям.",
+            "На «розхваті» (scramble) покупці платили встановлену ціну, а потім кидалися хапати людей.",
+            "Після продажу людей везли на плантацію (plantation).",
+            "Плантації були величезними господарствами, де вирощували цукор, бавовну, тютюн або каву.",
+            "Люди працювали до вісімнадцяти годин на день під наглядом патрульних (slave patrollers).",
+            "Вони жили в маленьких дерев’яних хатинах із земляною підлогою.",
+            "Та все ж поневолені люди знаходили способи опору.",
+            "Деякі тікали або повставали проти своїх власників.",
+            "Набагато більше людей чинили опір дрібними способами кожного дня.",
+            "Вони працювали повільно, ламали знаряддя і зберігали свої мови, пісні та вірування."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسی فروخت جس میں چیز اسے ملتی ہے جو سب سے زیادہ پیسہ دے (auction)",
+            "ایسی فروخت جس میں خریدار ایک مقررہ قیمت دیتے، پھر لوگوں کو جھپٹنے کے لیے دوڑ پڑتے (scramble)",
+            "ایک بہت بڑا زرعی فارم جس پر ایک فصل اگائی جاتی ہے (plantation)",
+            "وہ آدمی جو مزدوروں پر نظر رکھتے اور انھیں سزا دیتے تھے (slave patrollers)",
+            "کھلے عام یا چھوٹے چھوٹے طریقوں سے قابو کے خلاف لڑنا (resistance)",
+            "کیریبین کا ایک جزیرہ جہاں چینی کے باغات سب سے بڑی صنعت تھے (Jamaica)"
+          ],
+          "passage": [
+            "جب جہاز پہنچتے تو غلام بنائے گئے لوگوں کو باڑوں (slave pens) میں رکھا جاتا تھا۔",
+            "فروخت سے پہلے انھیں نہلایا جاتا اور تیل لگایا جاتا تاکہ وہ زیادہ صحت مند دکھیں۔",
+            "نیلامی (auction) میں لوگوں کو ایک ایک کر کے، یا گروہوں میں، سب سے زیادہ بولی دینے والے کو بیچا جاتا تھا۔",
+            "خاندان الگ الگ کر کے الگ الگ خریداروں کو بیچے جا سکتے تھے۔",
+            "scramble میں خریدار ایک مقررہ قیمت دیتے اور پھر لوگوں کو جھپٹنے کے لیے دوڑ پڑتے۔",
+            "فروخت کے بعد لوگوں کو کسی plantation پر لے جایا جاتا تھا۔",
+            "plantations بہت بڑے فارم تھے جہاں چینی، کپاس، تمباکو یا کافی اگائی جاتی تھی۔",
+            "لوگ دن میں اٹھارہ گھنٹے تک کام کرتے تھے، اور slave patrollers ان پر نظر رکھتے تھے۔",
+            "وہ مٹی کے فرش والی لکڑی کی چھوٹی جھونپڑیوں میں رہتے تھے۔",
+            "پھر بھی غلام بنائے گئے لوگوں نے مزاحمت کے راستے نکالے۔",
+            "کچھ بھاگ گئے یا اپنے مالکوں کے خلاف اٹھ کھڑے ہوئے۔",
+            "اس سے کہیں زیادہ لوگ ہر دن چھوٹے چھوٹے طریقوں سے مزاحمت کرتے تھے۔",
+            "وہ سست کام کرتے، اوزار توڑ دیتے، اور اپنی زبانیں، گیت اور عقیدے زندہ رکھتے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Before and at the auction",
@@ -906,8 +1540,174 @@ window.ASTRA_UNITS["hist-slave-trade"] = {
           "Freed people had to work as apprentices until 1838.",
           "Slave owners were paid twenty million pounds in compensation.",
           "The people who had been enslaved received nothing."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "إنهاء شيء ما نهائيًا (abolition)",
+            "شخص ناضل لإنهاء تجارة الرقيق والعبودية (abolitionist)",
+            "جماعة مسيحية كانت تؤمن بأنّ الناس جميعًا متساوون أمام الله (Quakers)",
+            "مال يُدفع تعويضًا عن خسارة (compensation)",
+            "النظام الذي حلّ محلّ العبودية وربط المحرَّرين بمزارعهم القديمة حتى عام 1838 (apprenticeship)",
+            "عمل منظّم لتغيير شيء ما (campaign)"
+          ],
+          "passage": [
+            "الإلغاء (abolition) يعني إنهاء شيء ما نهائيًا.",
+            "كان دعاة الإلغاء (abolitionists) أشخاصًا ناضلوا لإنهاء تجارة الرقيق والعبودية.",
+            "تحدّث وكتب ضدّ العبودية أشخاص كانوا مُستعبَدين سابقًا مثل أولودا إكويانو (Olaudah Equiano) وأوتوبا كوغوانو (Ottobah Cugoano).",
+            "أسّس إكويانو في لندن جماعةً للأشخاص الذين كانوا مُستعبَدين سابقًا.",
+            "وصارت فيليس ويتلي (Phillis Wheatley)، التي استُعبدت وهي طفلة، شاعرةً منشورة الأعمال.",
+            "كان الكويكرز (Quakers)، وهم جماعة مسيحية، يؤمنون بأنّ الناس جميعًا متساوون أمام الله.",
+            "وعارض هذه التجارة أيضًا أبناء الطبقة العاملة في بريطانيا.",
+            "ونقل بعض السياسيين الحملة إلى البرلمان.",
+            "وكانت التجارة أيضًا تجني مالًا أقلّ من قبل.",
+            "في عام 1807، منع البرلمان شراء الأشخاص المُستعبَدين وبيعهم في الإمبراطورية البريطانية.",
+            "وفي عام 1833، أنهى قانون جديد العبودية نفسها في أنحاء الإمبراطورية كلّها.",
+            "كان على المحرَّرين أن يعملوا متدرّبين (apprentices) حتى عام 1838.",
+            "ودُفع لمالكي المُستعبَدين عشرون مليون جنيه تعويضًا.",
+            "أمّا الناس الذين كانوا مُستعبَدين فلم يحصلوا على شيء."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zakończenie czegoś na dobre (abolition, abolicja)",
+            "osoba, która walczyła o zakończenie handlu zniewolonymi ludźmi i niewolnictwa (abolitionist, abolicjonista)",
+            "grupa chrześcijan, którzy wierzyli, że wszyscy ludzie są równi wobec Boga (Quakers, kwakrzy)",
+            "pieniądze wypłacane, by wyrównać stratę (compensation, odszkodowanie)",
+            "system, który zastąpił niewolnictwo i przywiązywał uwolnionych ludzi do ich dawnych plantacji do 1838 roku (apprenticeship)",
+            "zorganizowane działanie, by coś zmienić (campaign, kampania)"
+          ],
+          "passage": [
+            "Abolicja (abolition) oznacza zakończenie czegoś na dobre.",
+            "Abolicjoniści (abolitionists) to ludzie, którzy walczyli o zakończenie handlu zniewolonymi ludźmi i niewolnictwa.",
+            "Dawniej zniewoleni ludzie, tacy jak Olaudah Equiano i Ottobah Cugoano, przemawiali i pisali przeciw niewolnictwu.",
+            "Equiano założył w Londynie grupę dla dawniej zniewolonych ludzi.",
+            "Phillis Wheatley, zniewolona jako dziecko, została publikowaną poetką.",
+            "Kwakrzy (Quakers), grupa chrześcijan, wierzyli, że wszyscy ludzie są równi wobec Boga.",
+            "Ludzie z klasy robotniczej w Wielkiej Brytanii też sprzeciwiali się temu handlowi.",
+            "Niektórzy politycy przenieśli kampanię do parlamentu.",
+            "Handel przynosił też mniej pieniędzy niż wcześniej.",
+            "W 1807 roku parlament zakazał kupowania i sprzedawania zniewolonych ludzi w Imperium Brytyjskim.",
+            "W 1833 roku nowa ustawa zakończyła samo niewolnictwo w całym Imperium.",
+            "Uwolnieni ludzie musieli pracować jako „terminatorzy” (apprentices) do 1838 roku.",
+            "Właściciele zniewolonych ludzi otrzymali dwadzieścia milionów funtów odszkodowania.",
+            "Ludzie, którzy byli zniewoleni, nie otrzymali nic."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "acabar com alguma coisa de uma vez por todas (abolition, abolição)",
+            "uma pessoa que fez campanha para acabar com o Tráfico de Escravizados e com a escravatura/escravidão (abolitionist, abolicionista)",
+            "um grupo cristão que acreditava que todas as pessoas eram iguais perante Deus (Quakers, quacres/quakers)",
+            "dinheiro pago para compensar uma perda (compensation, indemnização/indenização)",
+            "o sistema que substituiu a escravatura/escravidão e prendeu as pessoas libertadas às suas antigas plantações até 1838 (apprenticeship, aprendizagem)",
+            "ação organizada para mudar alguma coisa (campaign, campanha)"
+          ],
+          "passage": [
+            "Abolição (abolition) quer dizer acabar com alguma coisa de uma vez por todas.",
+            "Os abolicionistas (abolitionists) eram pessoas que fizeram campanha para acabar com o Tráfico de Escravizados e com a escravatura/escravidão.",
+            "Pessoas antes escravizadas, como Olaudah Equiano e Ottobah Cugoano, falaram e escreveram contra a escravatura/escravidão.",
+            "Equiano fundou em Londres um grupo para pessoas antes escravizadas.",
+            "Phillis Wheatley, que tinha sido escravizada em criança/quando criança, tornou-se uma poetisa publicada.",
+            "Os quacres/quakers (Quakers), um grupo cristão, acreditavam que todas as pessoas eram iguais perante Deus.",
+            "Pessoas da classe trabalhadora na Grã-Bretanha também se opuseram ao tráfico.",
+            "Alguns políticos levaram a campanha ao Parlamento.",
+            "O tráfico também estava a dar/dando menos dinheiro do que antes.",
+            "Em 1807, o Parlamento proibiu a compra e a venda de pessoas escravizadas no Império Britânico.",
+            "Em 1833, uma nova lei (Act) acabou com a própria escravatura/escravidão em todo o Império.",
+            "As pessoas libertadas tiveram de trabalhar como aprendizes até 1838.",
+            "Os donos de pessoas escravizadas receberam vinte milhões de libras de indemnização/indenização.",
+            "As pessoas que tinham sido escravizadas não receberam nada."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax si kama dambays ah loo joojiyo (abolition)",
+            "qof u ololeeyay in la joojiyo Ganacsigii Addoonsiga iyo addoonsiga (abolitionist)",
+            "koox Masiixiyiin ah oo rumaysnayd in dadku oo dhan Ilaah hortiis siman yihiin (Quakers)",
+            "lacag la bixiyo si khasaare loo buuxiyo (compensation)",
+            "nidaamkii beddelay addoonsiga oo dadkii la xoreeyay ku xiray beerahoodii hore ilaa 1838 (apprenticeship)",
+            "ficil abaabulan oo wax lagu beddelo (campaign)"
+          ],
+          "passage": [
+            "Abolition macnaheedu waa wax si kama dambays ah loo joojiyo.",
+            "Abolitionists waxay ahaayeen dad u ololeeyay in la joojiyo Ganacsigii Addoonsiga iyo addoonsiga.",
+            "Dad hore loo addoonsaday sida Olaudah Equiano iyo Ottobah Cugoano ayaa ka hadlay oo wax ka qoray addoonsiga.",
+            "Equiano London ayuu koox uga sameeyay dad hore loo addoonsaday.",
+            "Phillis Wheatley, oo la addoonsaday iyadoo ilmo ah, waxay noqotay gabayaa buugaag daabacday.",
+            "Quakers-ku, koox Masiixiyiin ah, waxay rumaysnaayeen in dadku oo dhan Ilaah hortiis siman yihiin.",
+            "Dadka shaqaalaha ah ee Britain-na ganacsiga way ka soo horjeesteen.",
+            "Siyaasiyiin qaar ololaha Baarlamaanka ayay geeyeen.",
+            "Ganacsiguna lacag ka yar sidii hore ayuu samaynayay.",
+            "1807, Baarlamaanku wuxuu mamnuucay iibsiga iyo iibinta dadka la addoonsaday Boqortooyadii Ingiriiska (British Empire) oo dhan.",
+            "1833, Sharci (Act) cusub ayaa addoonsiga laftiisa joojiyay Boqortooyada oo dhan.",
+            "Dadkii la xoreeyay waxay ahayd inay u shaqeeyaan sida apprentices ilaa 1838.",
+            "Kuwii dadka addoonsan jiray labaatan milyan pound ayaa magdhow (compensation) loo siiyay.",
+            "Dadkii la addoonsaday waxba ma helin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "припинення чогось назавжди (abolition)",
+            "людина, яка боролася за припинення работоргівлі та рабства (abolitionist)",
+            "християнська група, яка вірила, що всі люди рівні перед Богом (Quakers)",
+            "гроші, які виплачують, щоб відшкодувати втрату (compensation)",
+            "система, яка замінила рабство і прив’язувала звільнених людей до їхніх старих плантацій до 1838 року (apprenticeship)",
+            "організовані дії, щоб щось змінити (campaign)"
+          ],
+          "passage": [
+            "Скасування (abolition) означає припинення чогось назавжди.",
+            "Аболіціоністи (abolitionists) — це люди, які боролися за припинення работоргівлі та рабства.",
+            "Колись поневолені люди, такі як Олауда Еквіано (Olaudah Equiano) і Оттоба Куґоано (Ottobah Cugoano), виступали і писали проти рабства.",
+            "Еквіано заснував у Лондоні групу для колись поневолених людей.",
+            "Філліс Вітлі (Phillis Wheatley), яку поневолили в дитинстві, стала поетесою, чиї вірші друкували.",
+            "Квакери (Quakers), християнська група, вірили, що всі люди рівні перед Богом.",
+            "Робітники у Британії також виступали проти торгівлі.",
+            "Деякі політики винесли кампанію до Парламенту.",
+            "Торгівля також приносила менше грошей, ніж раніше.",
+            "У 1807 році Парламент заборонив купівлю і продаж поневолених людей у Британській імперії.",
+            "У 1833 році новий закон (Act) скасував саме рабство по всій імперії.",
+            "Звільнені люди мусили працювати як учні (apprentices) до 1838 року.",
+            "Власникам поневолених людей виплатили двадцять мільйонів фунтів компенсації.",
+            "Люди, яких поневолювали, не отримали нічого."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی چیز کو ہمیشہ کے لیے ختم کرنا (abolition)",
+            "ایسا شخص جس نے غلامی کی تجارت اور غلامی ختم کرنے کے لیے مہم چلائی (abolitionist)",
+            "ایک مسیحی گروہ جو مانتا تھا کہ خدا کے سامنے سب لوگ برابر ہیں (Quakers)",
+            "نقصان کی تلافی کے لیے ادا کیا جانے والا پیسہ (compensation)",
+            "وہ نظام جس نے غلامی کی جگہ لی اور آزاد کیے گئے لوگوں کو 1838 تک ان کے پرانے باغات سے باندھے رکھا (apprenticeship)",
+            "کسی چیز کو بدلنے کے لیے منظم کوشش (campaign)"
+          ],
+          "passage": [
+            "abolition کا مطلب ہے کسی چیز کو ہمیشہ کے لیے ختم کرنا۔",
+            "abolitionists وہ لوگ تھے جنھوں نے غلامی کی تجارت اور غلامی ختم کرنے کے لیے مہم چلائی۔",
+            "پہلے غلام بنائے گئے لوگوں، جیسے اولاؤڈا ایکویانو (Olaudah Equiano) اور اوٹوبا کوگوانو (Ottobah Cugoano)، نے غلامی کے خلاف تقریریں کیں اور لکھا۔",
+            "ایکویانو نے لندن میں پہلے غلام بنائے گئے لوگوں کے لیے ایک گروہ بنایا۔",
+            "فلس وھیٹلی (Phillis Wheatley)، جسے بچپن میں غلام بنایا گیا تھا، ایک شائع شدہ شاعرہ بنی۔",
+            "Quakers، ایک مسیحی گروہ، مانتے تھے کہ خدا کے سامنے سب لوگ برابر ہیں۔",
+            "برطانیہ کے محنت کش طبقے کے لوگ بھی اس تجارت کے خلاف تھے۔",
+            "کچھ سیاست دانوں نے یہ مہم پارلیمنٹ تک لے گئے۔",
+            "یہ تجارت پہلے کے مقابلے میں کم پیسہ بھی کما رہی تھی۔",
+            "1807 میں پارلیمنٹ نے برطانوی سلطنت میں غلام بنائے گئے لوگوں کی خرید و فروخت پر پابندی لگا دی۔",
+            "1833 میں ایک نئے قانون (Act) نے پوری سلطنت میں خود غلامی کو ختم کر دیا۔",
+            "آزاد کیے گئے لوگوں کو 1838 تک apprentices کے طور پر کام کرنا پڑا۔",
+            "غلام رکھنے والے مالکوں کو دو کروڑ پاؤنڈ معاوضہ (compensation) دیا گیا۔",
+            "جن لوگوں کو غلام بنایا گیا تھا، انھیں کچھ نہ ملا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who were the abolitionists?",
@@ -1105,8 +1905,168 @@ window.ASTRA_UNITS["hist-slave-trade"] = {
           "In 1778, a slave trader called Robert Norris told Parliament that the ships were comfortable.",
           "Your own knowledge tells you this was not true.",
           "His origin tells you why he said it."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء من الماضي يدرسه المؤرّخون: صورة أو رسالة أو خطبة أو مخطّط أو غرض (source)",
+            "ما يقوله المصدر أو يُظهره: فكرته الرئيسية (content)",
+            "أن تستنتج شيئًا من القرائن (infer)",
+            "من صنع المصدر، ومتى، ولماذا (origin)",
+            "كلمة أخرى تعني أصل المصدر (provenance)",
+            "يمكن الاعتماد عليه ليقول الحقيقة (trustworthy)"
+          ],
+          "passage": [
+            "يتعلّم المؤرّخون عن الماضي من المصادر (sources).",
+            "قد يكون المصدر صورة أو رسالة أو خطبة أو مخطّط سفينة.",
+            "أوّلًا، اسأل ما الذي يقوله المصدر أو يُظهره.",
+            "هذا هو محتواه (content).",
+            "ثم استخدم معرفتك أنت.",
+            "هل ما تعرفه يدعم المصدر، أم يتحدّاه؟",
+            "بعد ذلك، ابحث عن الأصل (origin): من صنعه، ومتى، ولماذا.",
+            "يُسمّى الأصل أيضًا المَنشأ (provenance).",
+            "الشخص الذي جنى مالًا من هذه التجارة قد لا يقول الحقيقة كلّها.",
+            "لذلك فإنّ الأصل يغيّر مدى ثقتك بالمصدر.",
+            "في عام 1778، قال تاجر في تجارة الرقيق يُسمّى روبرت نوريس (Robert Norris) للبرلمان إنّ السفن كانت مريحة.",
+            "معرفتك أنت تقول لك إنّ هذا لم يكن صحيحًا.",
+            "وأصله يقول لك لماذا قال ذلك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś z przeszłości, co badają historycy: obraz, list, przemowa, plan lub przedmiot (source, źródło)",
+            "to, co źródło mówi lub pokazuje: jego główna myśl (content, treść)",
+            "wywnioskować coś na podstawie wskazówek (infer)",
+            "kto stworzył źródło, kiedy i dlaczego (origin, pochodzenie)",
+            "inne słowo na pochodzenie źródła (provenance, proweniencja)",
+            "taki, na którym można polegać, że mówi prawdę (trustworthy, wiarygodny)"
+          ],
+          "passage": [
+            "Historycy poznają przeszłość ze źródeł (sources).",
+            "Źródłem może być obraz, list, przemowa lub plan statku.",
+            "Najpierw zapytaj, co źródło mówi lub pokazuje.",
+            "To jest jego treść (content).",
+            "Potem użyj własnej wiedzy.",
+            "Czy to, co wiesz, potwierdza źródło, czy mu przeczy?",
+            "Następnie znajdź pochodzenie (origin): kto to stworzył, kiedy i dlaczego.",
+            "Pochodzenie nazywa się też proweniencją (provenance).",
+            "Osoba, która zarabiała na tym handlu, mogła nie mówić całej prawdy.",
+            "Pochodzenie zmienia więc to, jak bardzo możesz ufać źródłu.",
+            "W 1778 roku handlarz zniewolonymi ludźmi Robert Norris powiedział parlamentowi, że statki były wygodne.",
+            "Twoja własna wiedza mówi ci, że to nie była prawda.",
+            "Jego pochodzenie mówi ci, dlaczego tak powiedział."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo do passado que os historiadores estudam: uma imagem, carta, discurso, planta ou objeto (source, fonte)",
+            "o que uma fonte diz ou mostra: a sua ideia principal (content, conteúdo)",
+            "descobrir alguma coisa a partir de pistas (infer, inferir)",
+            "quem fez a fonte, quando e porquê/por quê (origin, origem)",
+            "outra palavra para a origem de uma fonte (provenance, proveniência)",
+            "em que se pode confiar para dizer a verdade (trustworthy, fiável/confiável)"
+          ],
+          "passage": [
+            "Os historiadores aprendem sobre o passado através das fontes (sources).",
+            "Uma fonte pode ser uma imagem, uma carta, um discurso ou a planta de um navio.",
+            "Primeiro, pergunte o que a fonte diz ou mostra.",
+            "Isso é o seu conteúdo (content).",
+            "Depois use o seu próprio conhecimento (own knowledge).",
+            "O que você sabe apoia a fonte, ou põe/coloca a fonte em causa?",
+            "A seguir, descubra a origem (origin): quem a fez, quando e porquê/por quê.",
+            "A origem também se chama proveniência (provenance).",
+            "Uma pessoa que ganhava dinheiro com o tráfico talvez não dissesse toda a verdade.",
+            "Por isso, a origem muda até que ponto você pode confiar na fonte.",
+            "Em 1778, um traficante de escravizados chamado Robert Norris disse ao Parlamento que os navios eram confortáveis.",
+            "O seu próprio conhecimento diz-lhe que isto não era verdade.",
+            "A origem dele diz-lhe porquê/por que ele disse isso."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax waqtigii hore ka yimid oo taariikhyahannadu bartaan: sawir, warqad, khudbad, qorshe ama shay (source)",
+            "waxa source sheegto ama muujiso: fikraddeeda ugu weyn (content)",
+            "wax ka soo saarid tilmaamo (infer)",
+            "cidda source-ka samaysay, goorta iyo sababta (origin)",
+            "eray kale oo loola jeedo asalka source (provenance)",
+            "lagu kalsoonaan karo inuu runta sheego (trustworthy)"
+          ],
+          "passage": [
+            "Taariikhyahannadu waqtigii hore waxay ka bartaan sources.",
+            "Source wuxuu noqon karaa sawir, warqad, khudbad ama qorshe markab.",
+            "Marka hore, weydii waxa source-ku sheegayo ama muujinayo.",
+            "Tani waa content-kiisa.",
+            "Kaddib isticmaal aqoontaada.",
+            "Waxa aad taqaanno source-ka ma taageeraan, mise way ka hor yimaadaan?",
+            "Xiga, hel origin-ka: cidda samaysay, goorta iyo sababta.",
+            "Origin-ka waxaa kaloo la yiraahdaa provenance.",
+            "Qof lacag ka sameeyay ganacsiga runta oo dhan sheegi maayo.",
+            "Sidaas darteed origin-ku wuxuu beddelaa inta aad source-ka ku kalsoonaan karto.",
+            "1778, ganacsade addoonsi la yiraahdo Robert Norris wuxuu u sheegay Baarlamaanka in maraakiibtu raaxo lahaayeen.",
+            "Aqoontaada ayaa kuu sheegaysa in tani run ahayn.",
+            "Origin-kiisa ayaa kuu sheegaya sababta uu sidaas u yiri."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "щось із минулого, що вивчають історики: картина, лист, промова, план або предмет (source)",
+            "те, що джерело говорить або показує: його головна думка (content)",
+            "з’ясувати щось за підказками (infer)",
+            "хто створив джерело, коли і чому (origin)",
+            "інше слово для походження джерела (provenance)",
+            "такий, на який можна покластися, що він каже правду (trustworthy)"
+          ],
+          "passage": [
+            "Історики дізнаються про минуле з джерел (sources).",
+            "Джерелом може бути картина, лист, промова або план корабля.",
+            "Спершу запитайте, що джерело говорить або показує.",
+            "Це його зміст (content).",
+            "Потім використайте власні знання.",
+            "Чи те, що ви знаєте, підтверджує джерело, чи ставить його під сумнів?",
+            "Далі знайдіть походження (origin): хто його створив, коли і чому.",
+            "Походження також називають provenance.",
+            "Людина, яка заробляла гроші на торгівлі, може не казати всієї правди.",
+            "Тому походження змінює те, наскільки можна довіряти джерелу.",
+            "У 1778 році работорговець Роберт Норріс (Robert Norris) сказав Парламенту, що кораблі були зручними.",
+            "Ваші власні знання кажуть вам, що це було неправдою.",
+            "Його походження каже вам, чому він так сказав."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ماضی کی کوئی چیز جس کا مورخ مطالعہ کرتے ہیں: تصویر، خط، تقریر، نقشہ یا کوئی شے (source)",
+            "source کیا کہتا یا دکھاتا ہے: اس کا مرکزی خیال (content)",
+            "اشاروں سے کوئی بات معلوم کرنا (infer)",
+            "source کس نے بنایا، کب، اور کیوں (origin)",
+            "source کے origin کے لیے ایک اور لفظ (provenance)",
+            "جس پر سچ بولنے کے لیے بھروسا کیا جا سکے (trustworthy)"
+          ],
+          "passage": [
+            "مورخ ماضی کے بارے میں sources سے سیکھتے ہیں۔",
+            "source کوئی تصویر، خط، تقریر یا کسی جہاز کا نقشہ ہو سکتا ہے۔",
+            "پہلے پوچھیں کہ source کیا کہتا یا دکھاتا ہے۔",
+            "یہ اس کا content ہے۔",
+            "پھر اپنا علم استعمال کریں۔",
+            "جو آپ جانتے ہیں، کیا وہ source کی تائید کرتا ہے یا اسے چیلنج کرتا ہے؟",
+            "اس کے بعد origin معلوم کریں: اسے کس نے بنایا، کب، اور کیوں۔",
+            "origin کو provenance بھی کہتے ہیں۔",
+            "جس شخص نے اس تجارت سے پیسہ کمایا ہو، ہو سکتا ہے وہ پورا سچ نہ بتائے۔",
+            "اس لیے origin یہ بدل دیتا ہے کہ آپ source پر کتنا بھروسا کر سکتے ہیں۔",
+            "1778 میں رابرٹ نورس (Robert Norris) نامی غلامی کے ایک تاجر نے پارلیمنٹ کو بتایا کہ جہاز آرام دہ تھے۔",
+            "آپ کا اپنا علم آپ کو بتاتا ہے کہ یہ سچ نہیں تھا۔",
+            "اس کا origin آپ کو بتاتا ہے کہ اس نے یہ کیوں کہا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Step one: content",

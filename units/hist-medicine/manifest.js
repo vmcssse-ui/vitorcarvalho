@@ -104,8 +104,162 @@ window.ASTRA_UNITS["hist-medicine"] = {
           "Most people could not read, so the Church told them what to believe.",
           "Illness and disease were a constant worry.",
           "In this unit you will ask why medicine changed so little in these years."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "العصور الوسطى في إنجلترا، من 1066 إلى 1485 (medieval period)",
+            "شخص فقير كان يعمل في الأرض لصالح سيّد (peasant)",
+            "جمع المحاصيل في نهاية الصيف (harvest)",
+            "الطريقة التي كان المجتمع منظّمًا بها، الملك في القمّة والفلّاحون في القاعدة (feudal system)",
+            "نقص في الطعام يؤدّي إلى الجوع الشديد والموت (famine)",
+            "ضريبة كانت تُدفع للكنيسة (tithe)"
+          ],
+          "passage": [
+            "بدأت العصور الوسطى (medieval period) في إنجلترا في عام 1066.",
+            "في تلك السنة فتح النورمان إنجلترا.",
+            "وانتهت في عام 1485، عندما بدأ عهد ملوك وملكات آل تيودور (Tudor).",
+            "كان أكثر الناس فلّاحين (peasants) يعملون في الأرض.",
+            "كان الحصاد أهمّ حدث في السنة.",
+            "كان الحصاد السيّء يعني الجوع، وأحيانًا المجاعة (famine).",
+            "في ظلّ النظام الإقطاعي (feudal system)، كانت للفلّاحين حقوق وحرّيات قليلة.",
+            "كانت الكنيسة في قلب حياة القرية.",
+            "كان الناس يدفعون العُشر (tithe)، وهو ضريبة، للكنيسة.",
+            "لم يكن أكثر الناس يعرفون القراءة، فكانت الكنيسة تقول لهم بما يؤمنون.",
+            "كان المرض والوباء قلقًا دائمًا.",
+            "في هذه الوحدة ستسأل لماذا تغيّر الطبّ قليلًا جدًا في هذه السنوات."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "średniowiecze w Anglii, od 1066 do 1485 roku (medieval period)",
+            "biedny człowiek, który pracował na roli dla pana (peasant, chłop)",
+            "zbieranie plonów pod koniec lata (harvest, żniwa)",
+            "sposób, w jaki zorganizowane było społeczeństwo: król na szczycie, chłopi na dole (feudal system, system feudalny)",
+            "brak jedzenia, który prowadzi do głodu i śmierci (famine, klęska głodu)",
+            "podatek płacony Kościołowi (tithe, dziesięcina)"
+          ],
+          "passage": [
+            "Średniowiecze (medieval period) w Anglii zaczęło się w 1066 roku.",
+            "W tym roku Normanowie podbili Anglię.",
+            "Skończyło się w 1485 roku, kiedy zaczęli rządzić królowie i królowe z rodu Tudorów.",
+            "Większość ludzi to chłopi (peasants), którzy pracowali na roli.",
+            "Żniwa (harvest) były najważniejszym wydarzeniem roku.",
+            "Złe żniwa oznaczały głód, a czasem klęskę głodu (famine).",
+            "W systemie feudalnym (feudal system) chłopi mieli mało praw i wolności.",
+            "Kościół był w centrum życia wsi.",
+            "Ludzie płacili Kościołowi dziesięcinę (tithe), czyli podatek.",
+            "Większość ludzi nie umiała czytać, więc Kościół mówił im, w co wierzyć.",
+            "Choroby były ciągłym zmartwieniem.",
+            "W tym dziale zapytasz, dlaczego medycyna tak mało się zmieniła w tych latach."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a Idade Média em Inglaterra, de 1066 a 1485 (medieval period, período medieval)",
+            "uma pessoa pobre que trabalhava na terra para um senhor (peasant, camponês)",
+            "recolher as colheitas no fim do verão (harvest, colheita)",
+            "a maneira como a sociedade estava organizada, com o rei no topo e os camponeses em baixo (feudal system, sistema feudal)",
+            "uma falta de comida que leva à fome extrema e à morte (famine, fome)",
+            "um imposto pago à Igreja (tithe, dízimo)"
+          ],
+          "passage": [
+            "O período medieval (medieval period) em Inglaterra começou em 1066.",
+            "Nesse ano, os normandos conquistaram a Inglaterra.",
+            "Terminou em 1485, quando começaram os reis e rainhas Tudor.",
+            "A maior parte das pessoas eram camponeses (peasants) que trabalhavam na terra.",
+            "A colheita (harvest) era o acontecimento mais importante do ano.",
+            "Uma colheita má significava fome, e às vezes fome extrema (famine).",
+            "No sistema feudal (feudal system), os camponeses tinham poucos direitos e poucas liberdades.",
+            "A Igreja estava no centro da vida da aldeia.",
+            "As pessoas pagavam um dízimo (tithe), um imposto, à Igreja.",
+            "A maior parte das pessoas não sabia ler, por isso a Igreja dizia-lhes em que acreditar.",
+            "A doença era uma preocupação constante.",
+            "Nesta unidade você vai perguntar porquê/por que a medicina mudou tão pouco nestes anos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "Qarniyadii Dhexe ee England, 1066 ilaa 1485 (medieval period)",
+            "qof sabool ah oo dhulka u shaqayn jiray sayid (peasant)",
+            "ururinta dalagga dhammaadka xagaaga (harvest)",
+            "sida bulshada loo habeeyay, boqorka kor, beeraleyda hoos (feudal system)",
+            "cunto-yari keenta gaajo iyo dhimasho (famine)",
+            "canshuur Kaniisadda la siin jiray (tithe)"
+          ],
+          "passage": [
+            "Qarniyadii Dhexe (medieval period) ee England waxay bilaabatay 1066.",
+            "Sannadkaas Normans-ku England ayay qabsadeen.",
+            "Waxay dhammaatay 1485, markii boqorrada iyo boqoradaha Tudor bilaabmeen.",
+            "Dadka badankoodu beeraley (peasants) ayay ahaayeen oo dhulka ka shaqayn jiray.",
+            "Goosashadu (harvest) waxay ahayd dhacdada ugu muhiimsan sannadka.",
+            "Goosasho xun macnaheedu wuxuu ahaa gaajo, mararka qaarna macaluul (famine).",
+            "Feudal system-ka hoostiisa, beeraleyda xuquuq iyo xorriyad yar ayay lahaayeen.",
+            "Kaniisaddu waxay ahayd bartamaha nolosha tuulada.",
+            "Dadku waxay bixin jireen tithe, canshuur, Kaniisadda.",
+            "Dadka badankoodu wax ma akhrin karin, sidaas darteed Kaniisaddu waxay u sheegtay waxa ay rumaystaan.",
+            "Jirro iyo cudur walaac joogto ah ayay ahaayeen.",
+            "Unit-kan waxaad ku weydiin doontaa sababta daawadu sannadahan wax yar u is beddeshay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "Середньовіччя в Англії, з 1066 до 1485 року (medieval period)",
+            "бідна людина, яка працювала на землі для лорда (peasant)",
+            "збирання врожаю в кінці літа (harvest)",
+            "спосіб, яким було влаштоване суспільство: король нагорі, селяни внизу (feudal system)",
+            "нестача їжі, яка веде до голодування і смерті (famine)",
+            "податок, який платили Церкві (tithe)"
+          ],
+          "passage": [
+            "Середньовіччя (medieval period) в Англії почалося в 1066 році.",
+            "Того року нормани завоювали Англію.",
+            "Воно закінчилося в 1485 році, коли почали правити королі й королеви Тюдори (Tudors).",
+            "Більшість людей були селянами (peasants), які працювали на землі.",
+            "Жнива (harvest) були найважливішою подією року.",
+            "Поганий урожай означав нестачу їжі, а іноді й справжній голод (famine).",
+            "За феодальної системи (feudal system) селяни мали мало прав і свобод.",
+            "Церква була в центрі життя села.",
+            "Люди платили Церкві десятину (tithe) — податок.",
+            "Більшість людей не вміли читати, тому Церква казала їм, у що вірити.",
+            "Хвороби були постійною тривогою.",
+            "У цьому розділі ви запитаєте, чому медицина так мало змінилася за ці роки."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "انگلینڈ کے قرونِ وسطیٰ، 1066 سے 1485 تک (medieval period)",
+            "ایک غریب شخص جو کسی جاگیردار (lord) کے لیے زمین پر کام کرتا تھا (peasant)",
+            "گرمیوں کے آخر میں فصلیں کاٹ کر جمع کرنا (harvest)",
+            "معاشرے کی ترتیب کا وہ طریقہ جس میں بادشاہ سب سے اوپر اور کسان سب سے نیچے تھے (feudal system)",
+            "خوراک کی ایسی کمی جو بھوک سے موت تک لے جائے (famine)",
+            "کلیسا (Church) کو ادا کیا جانے والا ٹیکس (tithe)"
+          ],
+          "passage": [
+            "انگلینڈ میں قرونِ وسطیٰ (medieval period) 1066 میں شروع ہوا۔",
+            "اس سال نارمنوں (Normans) نے انگلینڈ فتح کیا۔",
+            "یہ 1485 میں ختم ہوا، جب ٹیوڈر (Tudor) بادشاہوں اور ملکاؤں کا دور شروع ہوا۔",
+            "زیادہ تر لوگ کسان (peasants) تھے جو زمین پر کام کرتے تھے۔",
+            "فصل کی کٹائی (harvest) سال کا سب سے اہم واقعہ تھا۔",
+            "بُری فصل کا مطلب بھوک تھا، اور کبھی کبھی قحط (famine)۔",
+            "feudal system کے تحت کسانوں کے حقوق اور آزادیاں بہت کم تھیں۔",
+            "کلیسا (Church) گاؤں کی زندگی کے مرکز میں تھا۔",
+            "لوگ کلیسا کو tithe، یعنی ایک ٹیکس، ادا کرتے تھے۔",
+            "زیادہ تر لوگ پڑھ نہیں سکتے تھے، اس لیے کلیسا انھیں بتاتا تھا کہ کیا مانیں۔",
+            "بیماری اور وبا ایک مستقل فکر تھی۔",
+            "اس یونٹ میں آپ پوچھیں گے کہ ان برسوں میں طب (medicine) اتنی کم کیوں بدلی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The big story of medicine",
@@ -296,8 +450,162 @@ window.ASTRA_UNITS["hist-medicine"] = {
           "Physicians also studied a patient's urine to find out what was wrong.",
           "These ideas were not based on science.",
           "But to people at the time, they made sense."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ما وراء العالم الطبيعي: الله والأرواح والنجوم (supernatural)",
+            "فعل الخطأ في نظر الله (sin)",
+            "هواء فاسد كان الناس يعتقدون أنه يحمل المرض (miasma)",
+            "الاعتقاد بأنّ النجوم والكواكب تؤثّر في الحياة على الأرض (astrology)",
+            "لوحة في الكنيسة تُظهر الأرواح وهي تذهب إلى الجحيم (Doom painting)",
+            "مبنيّ على أسباب تبدو معقولة (rational)"
+          ],
+          "passage": [
+            "في إنجلترا في العصور الوسطى، لم يكن أحد يعرف شيئًا عن الجراثيم.",
+            "كانت للناس أفكار أخرى عن سبب مرضهم.",
+            "كانت الكنيسة تعلّم أنّ الله هو الذي يرسل المرض.",
+            "كان الناس يعتقدون أنه عقاب على الخطيئة (sin)، أو اختبار للإيمان.",
+            "وكان بعضهم يظنّ أنّ الشيطان أو الأرواح الشرّيرة يمكن أن تُمرضك.",
+            "وكان آخرون يلومون النجوم والكواكب.",
+            "تُسمّى هذه الفكرة التنجيم (astrology).",
+            "وكان كثيرون يعتقدون أنّ الهواء الفاسد، المسمّى الميازما (miasma)، يسبّب المرض.",
+            "وكانت الروائح الكريهة تبدو دليلًا على ذلك.",
+            "وكان الأطبّاء أيضًا يدرسون بول المريض ليعرفوا ما الخطب.",
+            "لم تكن هذه الأفكار مبنيّة على العلم.",
+            "لكنّها كانت معقولة في نظر الناس في ذلك الزمن."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "poza światem przyrody: Bóg, duchy i gwiazdy (supernatural, nadprzyrodzony)",
+            "czynienie zła w oczach Boga (sin, grzech)",
+            "złe powietrze, które według ludzi przenosiło choroby (miasma, miazma)",
+            "wiara, że gwiazdy i planety wpływają na życie na Ziemi (astrology, astrologia)",
+            "obraz w kościele pokazujący dusze idące do piekła (Doom painting)",
+            "oparty na powodach, które wydają się mieć sens (rational, racjonalny)"
+          ],
+          "passage": [
+            "W średniowiecznej Anglii nikt nie wiedział o zarazkach.",
+            "Ludzie mieli inne pomysły na to, dlaczego chorują.",
+            "Kościół nauczał, że choroby zsyła Bóg.",
+            "Ludzie wierzyli, że to kara za grzech (sin) albo próba wiary.",
+            "Niektórzy myśleli, że diabeł lub złe duchy mogą sprawić, że zachorujesz.",
+            "Inni winili gwiazdy i planety.",
+            "Ten pomysł nazywamy astrologią (astrology).",
+            "Wielu wierzyło, że choroby powoduje złe powietrze, zwane miazmą (miasma).",
+            "Brzydkie zapachy zdawały się to potwierdzać.",
+            "Lekarze badali też mocz pacjenta, żeby dowiedzieć się, co mu dolega.",
+            "Te pomysły nie były oparte na nauce.",
+            "Ale dla ludzi w tamtych czasach miały sens."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "para além do mundo natural: Deus, os espíritos e as estrelas (supernatural, sobrenatural)",
+            "fazer o mal aos olhos de Deus (sin, pecado)",
+            "ar mau que as pessoas acreditavam que transportava a doença (miasma)",
+            "a crença de que as estrelas e os planetas afetam a vida na Terra (astrology, astrologia)",
+            "uma pintura de igreja que mostra almas a ir/indo para o inferno (Doom painting, pintura do Juízo Final)",
+            "baseado em razões que parecem fazer sentido (rational, racional)"
+          ],
+          "passage": [
+            "Na Inglaterra medieval, ninguém sabia dos germes/micróbios.",
+            "As pessoas tinham outras ideias sobre porquê/por que ficavam doentes.",
+            "A Igreja ensinava que Deus mandava a doença.",
+            "As pessoas acreditavam que era um castigo pelo pecado (sin), ou uma prova de fé.",
+            "Alguns pensavam que o diabo ou os espíritos maus podiam pôr/deixar uma pessoa doente.",
+            "Outros culpavam as estrelas e os planetas.",
+            "Esta ideia chama-se astrologia (astrology).",
+            "Muitos acreditavam que o ar mau, chamado miasma, causava a doença.",
+            "Os maus cheiros pareciam provar isso.",
+            "Os médicos (physicians) também estudavam a urina do doente para descobrir o que estava mal.",
+            "Estas ideias não se baseavam na ciência.",
+            "Mas, para as pessoas daquela época, faziam sentido."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "ka baxsan adduunka dabiiciga ah: Ilaah, ruuxaan iyo xiddigaha (supernatural)",
+            "wax khalad ah oo Ilaah hortiis la sameeyo (sin)",
+            "hawo xun oo dadku rumaysnaayeen inay cudur sidday (miasma)",
+            "caqiidada ah in xiddigaha iyo meerayaashu saamayn ku yeeshaan nolosha Dhulka (astrology)",
+            "rinji kaniisad oo muujinaya nafo cadaab u socda (Doom painting)",
+            "ku salaysan sababo u muuqda inay macno samaynayaan (rational)"
+          ],
+          "passage": [
+            "England-tii Qarniyadii Dhexe, qofna waxba kama ogayn jeermiska.",
+            "Dadku fikrado kale ayay ka lahaayeen sababta ay u bukaan.",
+            "Kaniisaddu waxay bartay in Ilaah cudurka soo diro.",
+            "Dadku waxay rumaysnaayeen inay tahay ciqaab dembi, ama tijaabo iimaan.",
+            "Qaar waxay u maleeyeen in shaydaanka ama ruuxaan shar leh ku bukaajin karaan.",
+            "Kuwo kale xiddigaha iyo meerayaasha ayay eedeeyeen.",
+            "Fikraddan waxaa la yiraahdaa astrology.",
+            "Dad badan waxay rumaysnaayeen in hawo xun, oo la yiraahdo miasma, cudur keento.",
+            "Urta xun waxay u muuqatay inay tan caddaynayso.",
+            "Dhakhaatiirtuna (physicians) kaadida bukaanka ayay baari jireen si ay u ogaadaan waxa khaldan.",
+            "Fikradahan sayniska kuma salaysnayn.",
+            "Laakiin dadkii waqtigaas, macno ayay u samaynayeen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "поза природним світом: Бог, духи і зорі (supernatural)",
+            "чинити зло в очах Бога (sin)",
+            "погане повітря, яке, як вірили люди, переносило хворобу (miasma)",
+            "віра в те, що зорі й планети впливають на життя на Землі (astrology)",
+            "церковна картина, на якій душі йдуть до пекла (Doom painting)",
+            "заснований на причинах, які здаються розумними (rational)"
+          ],
+          "passage": [
+            "У середньовічній Англії ніхто не знав про мікроби.",
+            "Люди мали інші уявлення про те, чому вони хворіють.",
+            "Церква вчила, що хворобу посилає Бог.",
+            "Люди вірили, що це покарання за гріх (sin) або випробування віри.",
+            "Деякі думали, що диявол або злі духи можуть зробити вас хворими.",
+            "Інші звинувачували зорі й планети.",
+            "Це уявлення називається астрологією (astrology).",
+            "Багато людей вірили, що погане повітря, яке називали міазмами (miasma), спричиняє хворобу.",
+            "Поганий запах ніби це доводив.",
+            "Лікарі також вивчали сечу пацієнта, щоб з’ясувати, що не так.",
+            "Ці уявлення не ґрунтувалися на науці.",
+            "Але для людей того часу вони мали сенс."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "قدرتی دنیا سے ماورا: خدا، روحیں اور ستارے (supernatural)",
+            "خدا کی نظر میں غلط کام کرنا (sin)",
+            "خراب ہوا جس کے بارے میں لوگ مانتے تھے کہ وہ بیماری لاتی ہے (miasma)",
+            "یہ عقیدہ کہ ستارے اور سیارے زمین پر زندگی پر اثر ڈالتے ہیں (astrology)",
+            "گرجے کی ایک پینٹنگ جس میں روحوں کو جہنم میں جاتے دکھایا جاتا تھا (Doom painting)",
+            "ایسی وجوہات پر مبنی جو سمجھ میں آتی معلوم ہوں (rational)"
+          ],
+          "passage": [
+            "قرونِ وسطیٰ کے انگلینڈ میں کوئی جراثیم (germs) کے بارے میں نہیں جانتا تھا۔",
+            "لوگوں کے پاس بیمار ہونے کی وجہ کے بارے میں دوسرے خیالات تھے۔",
+            "کلیسا سکھاتا تھا کہ خدا بیماری بھیجتا ہے۔",
+            "لوگ مانتے تھے کہ یہ گناہ (sin) کی سزا ہے، یا ایمان کی آزمائش۔",
+            "کچھ کا خیال تھا کہ شیطان یا بُری روحیں آپ کو بیمار کر سکتی ہیں۔",
+            "دوسرے ستاروں اور سیاروں کو ذمے دار ٹھہراتے تھے۔",
+            "اس خیال کو علمِ نجوم (astrology) کہتے ہیں۔",
+            "بہت سے لوگ مانتے تھے کہ خراب ہوا، جسے miasma کہتے تھے، بیماری پیدا کرتی ہے۔",
+            "بدبو اس کا ثبوت معلوم ہوتی تھی۔",
+            "طبیب (physicians) یہ معلوم کرنے کے لیے مریض کا پیشاب بھی جانچتے تھے کہ خرابی کیا ہے۔",
+            "یہ خیالات سائنس پر مبنی نہیں تھے۔",
+            "لیکن اس زمانے کے لوگوں کو یہ سمجھ میں آتے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "God, sin and the Doom painting",
@@ -499,8 +807,162 @@ window.ASTRA_UNITS["hist-medicine"] = {
           "Around the year 1000, their books were translated into Latin.",
           "The Church liked their ideas and taught them in its universities.",
           "For hundreds of years, nobody was allowed to prove them wrong."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "طبيب في اليونان القديمة، في القرن الخامس قبل الميلاد (Hippocrates)",
+            "طبيب يوناني عمل في روما القديمة، في القرن الثاني بعد الميلاد (Galen)",
+            "واحد من أربعة سوائل كان الناس يعتقدون أنّ الجسم يتكوّن منها (humour)",
+            "فكرة جالينوس في معالجة المرض بنقيضه (Theory of Opposites)",
+            "فتح جثّة ميّت لدراستها (dissection)",
+            "لغة الكنيسة والعلم (Latin)"
+          ],
+          "passage": [
+            "كانت أشهر فكرة عن المرض هي نظرية الأخلاط الأربعة (Theory of the Four Humours).",
+            "جاءت من هيبوقراط (Hippocrates)، وهو طبيب في اليونان القديمة.",
+            "عاش في القرن الخامس قبل الميلاد.",
+            "كان يظنّ أنّ الجسم يحوي أربعة سوائل، تُسمّى الأخلاط (humours).",
+            "وهي الدم والبلغم والصفراء والسوداء.",
+            "وكان يعتقد أنك تمرض إذا اختلّ توازن الأخلاط.",
+            "كان جالينوس (Galen) طبيبًا في روما القديمة، بعد ذلك بنحو خمسمئة سنة.",
+            "وأضاف نظرية الأضداد (Theory of Opposites).",
+            "قال إنّ المرض البارد يحتاج إلى علاج حارّ.",
+            "نحو عام 1000، تُرجمت كتبهما إلى اللاتينية.",
+            "أعجبت الكنيسة بأفكارهما وعلّمتها في جامعاتها.",
+            "ومئات السنين، لم يُسمح لأحد بأن يثبت خطأها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "lekarz w starożytnej Grecji, V wiek p.n.e. (Hippocrates, Hipokrates)",
+            "grecki lekarz, który pracował w starożytnym Rzymie, II wiek n.e. (Galen)",
+            "jeden z czterech płynów, z których według ludzi składało się ciało (humour, humor)",
+            "pomysł Galena, by leczyć chorobę jej przeciwieństwem (Theory of Opposites)",
+            "rozcinanie martwego ciała, żeby je badać (dissection, sekcja)",
+            "język Kościoła i nauki (Latin, łacina)"
+          ],
+          "passage": [
+            "Najpopularniejszym pomysłem na choroby była teoria czterech humorów (Theory of the Four Humours).",
+            "Pochodziła od Hipokratesa (Hippocrates), lekarza ze starożytnej Grecji.",
+            "Żył w V wieku p.n.e.",
+            "Uważał, że ciało zawiera cztery płyny, zwane humorami (humours).",
+            "Były to krew, flegma, żółta żółć i czarna żółć.",
+            "Wierzył, że jeśli humory nie są w równowadze, człowiek choruje.",
+            "Galen był lekarzem w starożytnym Rzymie, około pięćset lat później.",
+            "Dodał teorię przeciwieństw (Theory of Opposites).",
+            "Zimna choroba, mówił, potrzebuje gorącego leku.",
+            "Około roku 1000 ich księgi przetłumaczono na łacinę (Latin).",
+            "Kościołowi podobały się ich pomysły i nauczał ich na swoich uniwersytetach.",
+            "Przez setki lat nikomu nie wolno było udowodnić, że się mylili."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um médico da Grécia Antiga, do século V a.C. (Hippocrates, Hipócrates)",
+            "um médico grego que trabalhou na Roma Antiga, no século II d.C. (Galen, Galeno)",
+            "um dos quatro líquidos que as pessoas acreditavam que formavam o corpo (humour, humor)",
+            "a ideia de Galeno de tratar uma doença com o seu oposto (Theory of Opposites, Teoria dos Opostos)",
+            "abrir um corpo morto para o estudar (dissection, dissecação/dissecção)",
+            "a língua da Igreja e do saber (Latin, latim)"
+          ],
+          "passage": [
+            "A ideia mais popular sobre a doença era a Teoria dos Quatro Humores (Four Humours).",
+            "Veio de Hipócrates (Hippocrates), um médico da Grécia Antiga.",
+            "Ele viveu no século V a.C. (fifth century BC).",
+            "Ele pensava que o corpo tinha quatro líquidos, chamados humores (humours).",
+            "Eram o sangue, a fleuma, a bílis/bile amarela e a bílis/bile negra.",
+            "Se os humores estivessem desequilibrados, acreditava ele, a pessoa ficava doente.",
+            "Galeno (Galen) foi um médico da Roma Antiga, cerca de quinhentos anos depois.",
+            "Ele acrescentou a Teoria dos Opostos (Theory of Opposites).",
+            "Uma doença fria, dizia ele, precisava de uma cura quente.",
+            "Por volta do ano 1000, os livros deles foram traduzidos para latim.",
+            "A Igreja gostou das ideias deles e ensinou-as nas suas universidades.",
+            "Durante centenas de anos, ninguém teve permissão para provar que estavam errados."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhakhtar Giriiggii Hore, qarnigii shanaad BC (Hippocrates)",
+            "dhakhtar Giriig ah oo ka shaqayn jiray Roomaankii Hore, qarnigii labaad AD (Galen)",
+            "mid ka mid ah afar dareere oo dadku rumaysnaayeen in jirku ka samaysan yahay (humour)",
+            "fikradda Galen ee ah in jirro lagu daaweeyo lidkeeda (Theory of Opposites)",
+            "kala-goynta meyd si loo barto (dissection)",
+            "luqadda Kaniisadda iyo aqoonta (Latin)"
+          ],
+          "passage": [
+            "Fikradda ugu caansan ee cudurka waxay ahayd Theory of the Four Humours.",
+            "Waxay ka timid Hippocrates, dhakhtar Giriiggii Hore.",
+            "Wuxuu noolaa qarnigii shanaad BC.",
+            "Wuxuu u maleeyay in jirku hayo afar dareere, oo la yiraahdo humours.",
+            "Waxay ahaayeen dhiig, xaako (phlegm), xammeeti huruud ah (yellow bile) iyo xammeeti madow (black bile).",
+            "Haddii humours-ku dheelli-tir la'aan yihiin, wuxuu rumaysnaa, waad bukootaa.",
+            "Galen wuxuu ahaa dhakhtar Roomaankii Hore, qiyaastii shan boqol sano ka dib.",
+            "Wuxuu ku daray Theory of Opposites.",
+            "Jirro qabow, wuxuu yiri, waxay u baahan tahay daawo kulul.",
+            "Agagaarka sannadkii 1000, buugaagtoodii Laatiin ayaa loo turjumay.",
+            "Kaniisaddu fikradahooda way jeclaysatay oo jaamacadaheeda ayay ku bartay.",
+            "Boqolaal sano, qofna looma oggolaan inuu khaladkooda caddeeyo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "лікар у Стародавній Греції, п’яте століття до нашої ери (Hippocrates)",
+            "грецький лікар, який працював у Стародавньому Римі, друге століття нашої ери (Galen)",
+            "одна з чотирьох рідин, з яких, як вірили люди, складається тіло (humour)",
+            "ідея Галена лікувати хворобу її протилежністю (Theory of Opposites)",
+            "розрізання мертвого тіла, щоб його вивчити (dissection)",
+            "мова Церкви та науки (Latin)"
+          ],
+          "passage": [
+            "Найпопулярнішим уявленням про хворобу була теорія чотирьох гуморів (Theory of the Four Humours).",
+            "Вона походила від Гіппократа (Hippocrates), лікаря у Стародавній Греції.",
+            "Він жив у п’ятому столітті до нашої ери.",
+            "Він думав, що тіло містить чотири рідини, які називаються гуморами (humours).",
+            "Це були кров, слиз (phlegm), жовта жовч і чорна жовч.",
+            "Якщо гумори були не в рівновазі, вірив він, ви хворіли.",
+            "Гален (Galen) був лікарем у Стародавньому Римі, приблизно на п’ятсот років пізніше.",
+            "Він додав теорію протилежностей (Theory of Opposites).",
+            "Холодна хвороба, казав він, потребує гарячого лікування.",
+            "Близько 1000 року їхні книги переклали латиною (Latin).",
+            "Церкві подобалися їхні ідеї, і вона викладала їх у своїх університетах.",
+            "Сотні років нікому не дозволяли довести, що вони помилялися."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "قدیم یونان کا ایک طبیب، پانچویں صدی قبل مسیح (Hippocrates)",
+            "ایک یونانی طبیب جس نے قدیم روم میں کام کیا، دوسری صدی عیسوی (Galen)",
+            "ان چار رطوبتوں میں سے ایک جن سے لوگ مانتے تھے کہ جسم بنا ہے (humour)",
+            "گیلن کا یہ خیال کہ بیماری کا علاج اس کے الٹ سے کیا جائے (Theory of Opposites)",
+            "مطالعے کے لیے مردہ جسم کو کاٹ کر کھولنا (dissection)",
+            "کلیسا اور علم کی زبان (Latin)"
+          ],
+          "passage": [
+            "بیماری کے بارے میں سب سے مقبول خیال Theory of the Four Humours تھا۔",
+            "یہ قدیم یونان کے ایک طبیب ہپوکریٹس (Hippocrates) سے آیا۔",
+            "وہ پانچویں صدی قبل مسیح میں رہتا تھا۔",
+            "اس کا خیال تھا کہ جسم میں چار رطوبتیں ہیں، جنھیں humours کہتے تھے۔",
+            "یہ تھیں خون، بلغم، زرد صفرا اور سیاہ صفرا۔",
+            "اس کا ماننا تھا کہ اگر humours کا توازن بگڑ جائے تو آپ بیمار ہو جاتے ہیں۔",
+            "گیلن (Galen) قدیم روم کا ایک طبیب تھا، تقریباً پانچ سو سال بعد۔",
+            "اس نے Theory of Opposites کا اضافہ کیا۔",
+            "اس نے کہا کہ ٹھنڈی بیماری کے لیے گرم علاج چاہیے۔",
+            "سال 1000 کے آس پاس ان کی کتابوں کا لاطینی (Latin) میں ترجمہ ہوا۔",
+            "کلیسا کو ان کے خیالات پسند آئے اور اس نے انھیں اپنی یونیورسٹیوں میں پڑھایا۔",
+            "سینکڑوں سال تک کسی کو انھیں غلط ثابت کرنے کی اجازت نہ تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Hippocrates and the four liquids",
@@ -703,8 +1165,162 @@ window.ASTRA_UNITS["hist-medicine"] = {
           "People were told to live a clean, Christian life.",
           "They washed, exercised and avoided bad smells.",
           "Some of these habits we still keep today, for different reasons."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ما تفعله عندما تكون مريضًا بالفعل (treatment)",
+            "ما تفعله لتتجنّب الإصابة بالمرض (prevention)",
+            "إخراج الدم من المريض (bloodletting)",
+            "جعل المريض يتقيّأ أو يُفرغ أمعاءه (purging)",
+            "دواء، يُصنع عادةً من الأعشاب (remedy)",
+            "رحلة إلى مكان مقدّس لطلب عون الله (pilgrimage)"
+          ],
+          "passage": [
+            "العلاج (treatment) هو ما تفعله عندما تكون مريضًا بالفعل.",
+            "والوقاية (prevention) هي ما تفعله لتتجنّب المرض.",
+            "كانت علاجات العصور الوسطى تتبع الأفكار عن الأسباب.",
+            "إذا بدا أنّ توازن الأخلاط قد اختلّ، حاول الأطبّاء إصلاحه.",
+            "كانت الفِصادة (bloodletting) تُخرج الدم، بسكّين أو بالعلق أو بالحجامة.",
+            "وكان التطهير (purging) يجعل المريض يتقيّأ أو يُفرغ أمعاءه.",
+            "وكانت العلاجات العشبية تُشرب أو تُشَمّ أو تُدلَك بها البشرة.",
+            "وكان الناس يعتقدون أنه إذا كان الله هو الذي أرسل المرض، فقد تشفيه الصلاة والحجّ (pilgrimage).",
+            "كانت الوقاية مهمّة، لأنّ العلاجات كانت كثيرًا ما تفشل.",
+            "كان يُقال للناس أن يعيشوا حياةً نظيفة مسيحية.",
+            "فكانوا يغتسلون ويتريّضون ويتجنّبون الروائح الكريهة.",
+            "وما زلنا نحافظ على بعض هذه العادات اليوم، لأسباب مختلفة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "to, co robisz, kiedy już jesteś chory (treatment, leczenie)",
+            "to, co robisz, żeby nie zachorować (prevention, zapobieganie)",
+            "upuszczanie krwi pacjentowi (bloodletting)",
+            "wywoływanie u pacjenta wymiotów lub opróżnienia jelit (purging, przeczyszczanie)",
+            "lek, zwykle robiony z ziół (remedy)",
+            "podróż do świętego miejsca, by prosić Boga o pomoc (pilgrimage, pielgrzymka)"
+          ],
+          "passage": [
+            "Leczenie (treatment) to to, co robisz, kiedy już jesteś chory.",
+            "Zapobieganie (prevention) to to, co robisz, żeby nie zachorować.",
+            "Średniowieczne leczenie wynikało z pomysłów na przyczyny chorób.",
+            "Jeśli humory wydawały się nie w równowadze, lekarze próbowali je naprawić.",
+            "Upuszczanie krwi (bloodletting) usuwało krew za pomocą noża, pijawek lub baniek.",
+            "Przeczyszczanie (purging) sprawiało, że pacjent wymiotował lub opróżniał jelita.",
+            "Ziołowe leki (remedies) pito, wąchano lub wcierano w skórę.",
+            "Ludzie wierzyli, że jeśli chorobę zesłał Bóg, modlitwa i pielgrzymka (pilgrimage) mogą ją wyleczyć.",
+            "Zapobieganie było ważne, bo leczenie często zawodziło.",
+            "Ludziom mówiono, żeby żyli czysto i po chrześcijańsku.",
+            "Myli się, ćwiczyli i unikali brzydkich zapachów.",
+            "Niektóre z tych nawyków mamy do dziś, choć z innych powodów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o que se faz quando já se tem uma doença (treatment, tratamento)",
+            "o que se faz para evitar apanhar/pegar uma doença (prevention, prevenção)",
+            "tirar sangue a um doente (bloodletting, sangria)",
+            "fazer um doente vomitar ou esvaziar os intestinos (purging, purga)",
+            "um medicamento, normalmente feito de ervas (remedy, remédio)",
+            "uma viagem a um lugar sagrado para pedir a ajuda de Deus (pilgrimage, peregrinação)"
+          ],
+          "passage": [
+            "Tratamento (treatment) é o que se faz quando já se está doente.",
+            "Prevenção (prevention) é o que se faz para evitar ficar doente.",
+            "Os tratamentos medievais seguiam as ideias sobre as causas.",
+            "Se os humores pareciam desequilibrados, os médicos tentavam voltar a equilibrá-los.",
+            "A sangria (bloodletting) tirava sangue, com uma faca, sanguessugas ou ventosas.",
+            "A purga (purging) fazia o doente vomitar ou esvaziar os intestinos.",
+            "Os remédios de ervas eram bebidos, cheirados ou esfregados na pele.",
+            "Se Deus tinha mandado a doença, acreditavam as pessoas, a oração e a peregrinação (pilgrimage) podiam curá-la.",
+            "A prevenção era importante, porque os tratamentos muitas vezes falhavam.",
+            "Dizia-se às pessoas para viverem uma vida limpa e cristã.",
+            "Elas lavavam-se, faziam exercício e evitavam os maus cheiros.",
+            "Alguns destes hábitos ainda hoje mantemos, por razões diferentes."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waxa aad samayso marka aad horay u jirran tahay (treatment)",
+            "waxa aad samayso si aadan jirro u qaadin (prevention)",
+            "dhiig ka bixinta bukaan (bloodletting)",
+            "bukaan ka dhigidda inuu mantago ama caloosha madhiyo (purging)",
+            "daawo, inta badan geedo laga sameeyo (remedy)",
+            "safar meel barakaysan loo aado si Ilaah caawimaad looga weydiisto (pilgrimage)"
+          ],
+          "passage": [
+            "Treatment waa waxa aad samayso marka aad horay u jirran tahay.",
+            "Prevention waa waxa aad samayso si aadan u bukoon.",
+            "Daaweynta Qarniyadii Dhexe waxay raacday fikradaha sababaha.",
+            "Haddii humours-ku u muuqdaan dheelli-tir la'aan, dhakhaatiirtu waxay isku dayeen inay saxaan.",
+            "Bloodletting dhiig ayay ka bixin jirtay, iyadoo la isticmaalayo mindi, dhiig-nuugyo (leeches) ama koob (cupping).",
+            "Purging bukaanka waxay ka dhigtay inuu mantago ama caloosha madhiyo.",
+            "Daawooyinka geedaha waa la cabbi jiray, la uri jiray ama maqaarka lagu mari jiray.",
+            "Haddii Ilaah cudurka soo diray, dadku waxay rumaysnaayeen, salaad iyo pilgrimage way daawayn karaan.",
+            "Ka-hortaggu (prevention) muhiim ayuu ahaa, sababtoo ah daaweyntu inta badan way fashilmi jirtay.",
+            "Dadka waxaa lagu yiri ku noolaada nolol nadiif ah oo Masiixi ah.",
+            "Way maydhan jireen, jimicsan jireen oo urta xun ka fogaan jireen.",
+            "Caadooyinkan qaarkood maanta wali waan haynaa, sababo kala duwan awgood."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що ви робите, коли вже маєте хворобу (treatment)",
+            "те, що ви робите, щоб не захворіти (prevention)",
+            "випускання крові з пацієнта (bloodletting)",
+            "примушування пацієнта блювати або спорожнити кишківник (purging)",
+            "ліки, зазвичай зроблені з трав (remedy)",
+            "подорож до святого місця, щоб просити Божої допомоги (pilgrimage)"
+          ],
+          "passage": [
+            "Лікування (treatment) — це те, що ви робите, коли вже хворі.",
+            "Запобігання (prevention) — це те, що ви робите, щоб не захворіти.",
+            "Середньовічне лікування відповідало уявленням про причини.",
+            "Якщо гумори здавалися не в рівновазі, лікарі намагалися їх виправити.",
+            "Кровопускання (bloodletting) випускало кров — ножем, п’явками або банками.",
+            "Очищення (purging) змушувало пацієнта блювати або спорожнити кишківник.",
+            "Трав’яні ліки (remedies) пили, вдихали або втирали в шкіру.",
+            "Якщо хворобу послав Бог, вірили люди, молитва і паломництво (pilgrimage) могли її вилікувати.",
+            "Запобігання було важливим, бо лікування часто не допомагало.",
+            "Людям казали жити чистим християнським життям.",
+            "Вони милися, рухалися і уникали поганих запахів.",
+            "Деякі з цих звичок ми зберігаємо й сьогодні, але з інших причин."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جو آپ اس وقت کرتے ہیں جب آپ کو پہلے ہی کوئی بیماری ہو (treatment)",
+            "جو آپ بیماری سے بچنے کے لیے کرتے ہیں (prevention)",
+            "مریض کے جسم سے خون نکالنا (bloodletting)",
+            "مریض کو قے کرانا یا اس کا پیٹ خالی کرانا (purging)",
+            "ایک دوا، جو عام طور پر جڑی بوٹیوں سے بنتی تھی (remedy)",
+            "خدا کی مدد مانگنے کے لیے کسی مقدس جگہ کا سفر (pilgrimage)"
+          ],
+          "passage": [
+            "علاج (treatment) وہ ہے جو آپ اس وقت کرتے ہیں جب آپ پہلے ہی بیمار ہوں۔",
+            "بچاؤ (prevention) وہ ہے جو آپ بیمار ہونے سے بچنے کے لیے کرتے ہیں۔",
+            "قرونِ وسطیٰ کے علاج وجوہات کے بارے میں خیالات کے مطابق چلتے تھے۔",
+            "اگر humours کا توازن بگڑا معلوم ہوتا تو طبیب اسے درست کرنے کی کوشش کرتے۔",
+            "bloodletting میں چاقو، جونکوں یا کپنگ (cupping) سے خون نکالا جاتا تھا۔",
+            "purging سے مریض کو قے کرائی جاتی یا اس کا پیٹ خالی کرایا جاتا تھا۔",
+            "جڑی بوٹیوں کی دوائیں (remedies) پی جاتی، سونگھی جاتی یا جلد پر ملی جاتی تھیں۔",
+            "لوگ مانتے تھے کہ اگر بیماری خدا نے بھیجی ہے تو دعا اور زیارت (pilgrimage) اس کا علاج کر سکتی ہیں۔",
+            "بچاؤ اہم تھا، کیونکہ علاج اکثر ناکام رہتے تھے۔",
+            "لوگوں کو کہا جاتا تھا کہ پاک صاف، مسیحی زندگی گزاریں۔",
+            "وہ نہاتے، ورزش کرتے اور بدبو سے دور رہتے تھے۔",
+            "ان میں سے کچھ عادتیں ہم آج بھی رکھتے ہیں، مگر الگ وجوہات سے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Treating the humours",
@@ -907,8 +1523,162 @@ window.ASTRA_UNITS["hist-medicine"] = {
           "Patients got rest, clean beds and fresh food.",
           "People with infectious diseases were often turned away.",
           "Hospitals offered care, not cure."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "طبيب تدرّب في الجامعة (physician)",
+            "شخص كان يخلط الأدوية ويبيعها (apothecary)",
+            "معالج كان يُخرج الدم ويخلع الأسنان ويقصّ الشعر (barber surgeon)",
+            "امرأة من القرية كانت تعالج الناس في بيوتهم، كثيرًا ما كان ذلك بلا مقابل (wise woman)",
+            "مكان، تديره الكنيسة عادةً، كان يرعى المرضى (hospital)",
+            "قرار واضح عن مدى أهمّية شيء ما (judgement)"
+          ],
+          "passage": [
+            "عمل في إنجلترا في العصور الوسطى أربعة أنواع رئيسية من المعالجين.",
+            "كان الأطبّاء (physicians) يتدرّبون في الجامعة، وكانوا مكلفين جدًا.",
+            "وكان العطّارون (apothecaries) يخلطون الأدوية والمراهم، وكانوا أقلّ كلفة.",
+            "وكان الحلّاقون الجرّاحون (barber surgeons) يخلعون الأسنان ويُخرجون الدم ويقومون بعمليات صغيرة.",
+            "وكانت النساء الحكيمات (wise women) يعالجن الناس في بيوتهم، كثيرًا ما كان ذلك بلا مقابل.",
+            "كان أكثر المرضى يُرعَون في بيوتهم على أيدي نساء العائلة.",
+            "وهكذا كانت النساء هنّ من يقدّمن الرعاية في المقام الأوّل.",
+            "كانت المستشفيات (hospitals) تديرها الكنيسة عادةً.",
+            "وكانت ترعى الروح كما ترعى الجسد.",
+            "كان المرضى يحصلون على الراحة وأسرّة نظيفة وطعام طازج.",
+            "وكان المصابون بأمراض معدية كثيرًا ما يُرَدّون.",
+            "كانت المستشفيات تقدّم الرعاية، لا الشفاء."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "lekarz wykształcony na uniwersytecie (physician)",
+            "ktoś, kto przygotowywał i sprzedawał leki (apothecary, aptekarz)",
+            "medyk, który upuszczał krew, wyrywał zęby i strzygł włosy (barber surgeon, cyrulik)",
+            "wiejska kobieta, która leczyła ludzi w domu, często za darmo (wise woman)",
+            "miejsce, zwykle prowadzone przez Kościół, które opiekowało się chorymi (hospital, szpital)",
+            "jasna decyzja o tym, jak ważne było coś (judgement, osąd)"
+          ],
+          "passage": [
+            "W średniowiecznej Anglii pracowały cztery główne rodzaje medyków.",
+            "Lekarze (physicians) kształcili się na uniwersytecie i byli bardzo drodzy.",
+            "Aptekarze (apothecaries) przygotowywali leki i maści i kosztowali mniej.",
+            "Cyrulicy (barber surgeons) wyrywali zęby, upuszczali krew i robili małe operacje.",
+            "Mądre kobiety (wise women) leczyły ludzi w ich domach, często za darmo.",
+            "Większością chorych opiekowały się w domu kobiety z rodziny.",
+            "To kobiety były więc głównymi opiekunkami chorych.",
+            "Szpitale (hospitals) zwykle prowadził Kościół.",
+            "Dbały o duszę tak samo jak o ciało.",
+            "Pacjenci dostawali odpoczynek, czyste łóżka i świeże jedzenie.",
+            "Ludzi z chorobami zakaźnymi często odprawiano.",
+            "Szpitale oferowały opiekę, a nie leczenie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um médico formado na universidade (physician)",
+            "alguém que misturava e vendia medicamentos (apothecary, boticário)",
+            "um curandeiro que fazia sangrias, arrancava dentes e cortava cabelo (barber surgeon, barbeiro-cirurgião)",
+            "uma mulher da aldeia que tratava as pessoas em casa, muitas vezes de graça (wise woman, curandeira)",
+            "um lugar, normalmente dirigido pela Igreja, que cuidava dos doentes (hospital)",
+            "uma decisão clara sobre a importância de alguma coisa (judgement, juízo/julgamento)"
+          ],
+          "passage": [
+            "Quatro tipos principais de curadores trabalhavam na Inglaterra medieval.",
+            "Os médicos (physicians) formavam-se na universidade e eram muito caros.",
+            "Os boticários (apothecaries) misturavam medicamentos e pomadas e custavam menos.",
+            "Os barbeiros-cirurgiões (barber surgeons) arrancavam dentes, faziam sangrias e pequenas operações.",
+            "As curandeiras (wise women) tratavam as pessoas em casa, muitas vezes de graça.",
+            "A maior parte dos doentes era cuidada em casa pelas mulheres da família.",
+            "Por isso, as mulheres eram quem mais cuidava dos doentes.",
+            "Os hospitais eram normalmente dirigidos pela Igreja.",
+            "Cuidavam tanto da alma como do corpo.",
+            "Os doentes tinham descanso, camas limpas e comida fresca.",
+            "As pessoas com doenças contagiosas eram muitas vezes mandadas embora.",
+            "Os hospitais ofereciam cuidado, não cura."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhakhtar jaamacad ka tababaran (physician)",
+            "qof daawooyin isku dari jiray oo iibin jiray (apothecary)",
+            "daaweeye dhiig ka bixin jiray, ilko siibi jiray oo timo jari jiray (barber surgeon)",
+            "naag tuulo oo dadka gurigooda ku daawayn jirtay, inta badan lacag la'aan (wise woman)",
+            "meel, inta badan Kaniisaddu maamusho, oo bukaanka daryeeli jirtay (hospital)",
+            "go'aan cad oo ku saabsan sida wax muhiim u ahaayeen (judgement)"
+          ],
+          "passage": [
+            "Afar nooc oo waaweyn oo daaweeyayaal ah ayaa ka shaqayn jiray England-tii Qarniyadii Dhexe.",
+            "Physicians jaamacad ayay ka tababaran jireen, aadna ayay qaali u ahaayeen.",
+            "Apothecaries daawooyin iyo marmaris ayay isku dari jireen, lacag yarna ayay qaadi jireen.",
+            "Barber surgeons ilko ayay siibi jireen, dhiig ka bixin jireen, qalliin yaryarna samayn jireen.",
+            "Wise women dadka gurigooda ayay ku daawayn jireen, inta badan lacag la'aan.",
+            "Dadka bukaan badankood guriga ayaa lagu daryeeli jiray oo haweenka qoysku daryeeli jireen.",
+            "Sidaas darteed haweenku waxay ahaayeen kuwa ugu badan ee daryeel bixiya.",
+            "Isbitaallada inta badan Kaniisaddu ayaa maamuli jirtay.",
+            "Nafta ayay u daryeeli jireen sida jirka oo kale.",
+            "Bukaanku waxay heli jireen nasasho, sariiro nadiif ah iyo cunto cusub.",
+            "Dadka qaba cudurro faafa inta badan waa la celin jiray.",
+            "Isbitaalladu waxay bixin jireen daryeel, ma ahayn daawayn bogsiin leh."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "лікар, навчений в університеті (physician)",
+            "людина, яка змішувала і продавала ліки (apothecary)",
+            "медик, який пускав кров, виривав зуби і стриг волосся (barber surgeon)",
+            "сільська жінка, яка лікувала людей удома, часто безплатно (wise woman)",
+            "місце, зазвичай під управлінням Церкви, де доглядали хворих (hospital)",
+            "чітке рішення про те, наскільки щось було важливим (judgement)"
+          ],
+          "passage": [
+            "У середньовічній Англії працювали чотири головні види медиків.",
+            "Лікарі (physicians) навчалися в університеті і були дуже дорогими.",
+            "Аптекарі (apothecaries) змішували ліки й мазі і коштували менше.",
+            "Цирульники-хірурги (barber surgeons) виривали зуби, пускали кров і робили невеликі операції.",
+            "Знахарки (wise women) лікували людей у їхніх домівках, часто безплатно.",
+            "Більшість хворих доглядали вдома жінки з родини.",
+            "Тож саме жінки були головними, хто надавав догляд.",
+            "Лікарнями (hospitals) зазвичай керувала Церква.",
+            "Вони дбали про душу так само, як і про тіло.",
+            "Пацієнти отримували відпочинок, чисті ліжка і свіжу їжу.",
+            "Людей із заразними хворобами часто не приймали.",
+            "Лікарні пропонували догляд, а не лікування."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یونیورسٹی سے تربیت یافتہ ڈاکٹر (physician)",
+            "کوئی ایسا شخص جو دوائیں ملاتا اور بیچتا تھا (apothecary)",
+            "ایک معالج جو خون نکالتا، دانت نکالتا اور بال کاٹتا تھا (barber surgeon)",
+            "گاؤں کی ایک عورت جو لوگوں کا گھر پر علاج کرتی تھی، اکثر مفت (wise woman)",
+            "ایک جگہ، جو عام طور پر کلیسا چلاتا تھا، جہاں بیماروں کی دیکھ بھال ہوتی تھی (hospital)",
+            "اس بارے میں ایک واضح فیصلہ کہ کوئی چیز کتنی اہم تھی (judgement)"
+          ],
+          "passage": [
+            "قرونِ وسطیٰ کے انگلینڈ میں چار بڑی قسم کے معالج کام کرتے تھے۔",
+            "physicians یونیورسٹی سے تربیت لیتے تھے اور بہت مہنگے تھے۔",
+            "apothecaries دوائیں اور مرہم ملاتے تھے اور کم خرچ تھے۔",
+            "barber surgeons دانت نکالتے، خون نکالتے اور چھوٹے آپریشن کرتے تھے۔",
+            "wise women لوگوں کا ان کے گھروں میں علاج کرتی تھیں، اکثر مفت۔",
+            "زیادہ تر بیماروں کی دیکھ بھال گھر پر خاندان کی عورتیں کرتی تھیں۔",
+            "اس لیے عورتیں دیکھ بھال کرنے والوں میں سب سے بڑا حصہ تھیں۔",
+            "ہسپتال عام طور پر کلیسا چلاتا تھا۔",
+            "وہ جسم کے ساتھ روح کی بھی اتنی ہی دیکھ بھال کرتے تھے۔",
+            "مریضوں کو آرام، صاف بستر اور تازہ کھانا ملتا تھا۔",
+            "متعدی بیماریوں والے لوگوں کو اکثر واپس بھیج دیا جاتا تھا۔",
+            "ہسپتال دیکھ بھال دیتے تھے، علاج نہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The four medics",
@@ -1097,8 +1867,168 @@ window.ASTRA_UNITS["hist-medicine"] = {
           "They prayed, fasted and carried sweet herbs.",
           "Some towns shut their gates to outsiders.",
           "The old ideas were tested, and none of them worked."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الطاعون الذي وصل إلى إنجلترا في عام 1348 (Black Death)",
+            "المرض الذي يظنّ أكثر المؤرّخين أنّ الموت الأسود كان هو (bubonic plague)",
+            "انتفاخات مؤلمة مملوءة بالقيح (buboes)",
+            "شخص كان يجلد نفسه ليُظهر لله أنه نادم (flagellant)",
+            "سبب للتغيّر أو الاستمرار، مثل الكنيسة أو الحرب (factor)",
+            "بقاء الأشياء على حالها مع مرور الوقت (continuity)"
+          ],
+          "passage": [
+            "في عام 1347 وصل مرض جديد إلى أوروبا على سفن التجارة.",
+            "وفي عام 1348 وصل إلى إنجلترا.",
+            "نسمّيه الموت الأسود (Black Death).",
+            "يظنّ أكثر المؤرّخين اليوم أنه كان الطاعون الدبلي (bubonic plague).",
+            "كانت تحمله البراغيث التي تعيش على الجرذان السوداء.",
+            "كان المصابون يعانون من انتفاخات مؤلمة تُسمّى الدُبَل (buboes)، ومن الحمّى والتقيّؤ.",
+            "ومات أكثرهم في غضون أيام قليلة.",
+            "مات نحو ثلث السكّان.",
+            "كان الناس يعتقدون أنّ الله أرسل الطاعون عقابًا.",
+            "ولام آخرون الهواء الفاسد أو الكواكب أو الغرباء.",
+            "كانوا يصلّون ويصومون ويحملون أعشابًا عطرة.",
+            "وأغلقت بعض المدن أبوابها في وجه الغرباء.",
+            "وُضعت الأفكار القديمة على المحكّ، ولم ينجح أيّ منها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zaraza, która dotarła do Anglii w 1348 roku (Black Death, czarna śmierć)",
+            "choroba, którą według większości historyków była czarna śmierć (bubonic plague, dżuma dymienicza)",
+            "bolesne guzy wypełnione ropą (buboes, dymienice)",
+            "osoba, która biczowała się, żeby pokazać Bogu, że żałuje (flagellant, biczownik)",
+            "przyczyna zmiany lub ciągłości, na przykład Kościół lub wojna (factor, czynnik)",
+            "to, że rzeczy pozostają takie same przez długi czas (continuity, ciągłość)"
+          ],
+          "passage": [
+            "W 1347 roku nowa choroba dotarła do Europy na statkach handlowych.",
+            "W 1348 roku dotarła do Anglii.",
+            "Nazywamy ją czarną śmiercią (Black Death).",
+            "Większość dzisiejszych historyków uważa, że była to dżuma dymienicza (bubonic plague).",
+            "Przenosiły ją pchły żyjące na czarnych szczurach.",
+            "Chorzy mieli bolesne guzy zwane dymienicami (buboes), gorączkę i wymioty.",
+            "Większość umierała w ciągu kilku dni.",
+            "Zmarła około jedna trzecia ludności.",
+            "Ludzie wierzyli, że Bóg zesłał zarazę jako karę.",
+            "Inni winili złe powietrze, planety lub obcych.",
+            "Modlili się, pościli i nosili pachnące zioła.",
+            "Niektóre miasta zamykały bramy przed przyjezdnymi.",
+            "Stare pomysły zostały wystawione na próbę i żaden z nich nie zadziałał."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a peste que chegou a Inglaterra em 1348 (Black Death, Peste Negra)",
+            "a doença que a maior parte dos historiadores pensa que a Peste Negra foi (bubonic plague, peste bubónica/bubônica)",
+            "inchaços dolorosos cheios de pus (buboes, bubões)",
+            "uma pessoa que se chicoteava para mostrar a Deus que estava arrependida (flagellant, flagelante)",
+            "uma causa de mudança ou de continuidade, como a Igreja ou a guerra (factor, fator)",
+            "as coisas ficarem na mesma ao longo do tempo (continuity, continuidade)"
+          ],
+          "passage": [
+            "Em 1347 uma doença nova chegou à Europa em navios de comércio.",
+            "Em 1348 chegou a Inglaterra.",
+            "Chamamos-lhe a Peste Negra (Black Death).",
+            "A maior parte dos historiadores pensa hoje que foi a peste bubónica/bubônica (bubonic plague).",
+            "Era transportada por pulgas que viviam nas ratazanas pretas.",
+            "As vítimas tinham inchaços dolorosos chamados bubões (buboes), febre e vómitos/vômitos.",
+            "A maior parte morria em poucos dias.",
+            "Cerca de um terço da população morreu.",
+            "As pessoas acreditavam que Deus tinha mandado a peste como castigo.",
+            "Outras culpavam o ar mau, os planetas ou os estrangeiros.",
+            "Rezavam, jejuavam e levavam consigo ervas de cheiro doce.",
+            "Algumas cidades fecharam os portões aos forasteiros.",
+            "As velhas ideias foram postas à prova, e nenhuma delas funcionou."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "daacuunkii England gaaray 1348 (Black Death)",
+            "cudurka taariikhyahannada badankood u maleeyaan in Black Death ahayd (bubonic plague)",
+            "barar xanuun badan oo malax ka buuxo (buboes)",
+            "qof is karbaashi jiray si uu Ilaah u tuso inuu ka qoomamooday (flagellant)",
+            "sabab isbeddel ama sii-socod, sida Kaniisadda ama dagaal (factor)",
+            "waxyaabo waqti ka dib isku si u ahaanaya (continuity)"
+          ],
+          "passage": [
+            "1347 cudur cusub ayaa Yurub ku gaaray maraakiib ganacsi.",
+            "1348 wuxuu gaaray England.",
+            "Waxaan u yeernaa Black Death.",
+            "Taariikhyahannada badankood maanta waxay u maleeyaan inuu ahaa bubonic plague.",
+            "Waxaa siday injir ku noolayd jiirar madow.",
+            "Dhibbanayaashu waxay lahaayeen barar xanuun badan oo la yiraahdo buboes, qandho iyo mantag.",
+            "Badankoodu dhowr maalmood gudahood ayay dhinteen.",
+            "Qiyaastii saddex-meelood meel dadweynaha ayaa dhimatay.",
+            "Dadku waxay rumaysnaayeen in Ilaah daacuunka ciqaab ahaan u soo diray.",
+            "Kuwo kale waxay eedeeyeen hawo xun, meerayaasha ama dad shisheeye.",
+            "Way tukadeen, soomeen, geedo udgoonna way qaadeen.",
+            "Magaalooyin qaar irdahooda ayay u xireen dadka dibadda ka yimid.",
+            "Fikradihii hore waa la tijaabiyay, midkoodna ma shaqayn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "чума, яка дісталася Англії в 1348 році (Black Death)",
+            "хвороба, якою, на думку більшості істориків, була Чорна смерть (bubonic plague)",
+            "болючі набряки, наповнені гноєм (buboes)",
+            "людина, яка шмагала себе, щоб показати Богу, що кається (flagellant)",
+            "причина зміни або сталості, наприклад Церква чи війна (factor)",
+            "те, що речі залишаються такими самими з часом (continuity)"
+          ],
+          "passage": [
+            "У 1347 році нова хвороба дісталася Європи на торгових кораблях.",
+            "У 1348 році вона дісталася Англії.",
+            "Ми називаємо її Чорною смертю (Black Death).",
+            "Більшість істориків сьогодні думають, що це була бубонна чума (bubonic plague).",
+            "Її переносили блохи, що жили на чорних щурах.",
+            "У хворих були болючі набряки, які називаються бубонами (buboes), гарячка і блювання.",
+            "Більшість помирали за кілька днів.",
+            "Померла приблизно третина населення.",
+            "Люди вірили, що Бог послав чуму як покарання.",
+            "Інші звинувачували погане повітря, планети або чужинців.",
+            "Вони молилися, постили і носили з собою пахучі трави.",
+            "Деякі міста закривали свої ворота для чужинців.",
+            "Старі уявлення пройшли перевірку, і жодне з них не спрацювало."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ طاعون (plague) جو 1348 میں انگلینڈ پہنچا (Black Death)",
+            "وہ بیماری جو زیادہ تر مورخوں کے خیال میں Black Death تھی (bubonic plague)",
+            "پیپ سے بھری دردناک سوجنیں (buboes)",
+            "ایسا شخص جو خدا کو اپنی ندامت دکھانے کے لیے خود کو کوڑے مارتا تھا (flagellant)",
+            "تبدیلی یا تسلسل کی کوئی وجہ، جیسے کلیسا یا جنگ (factor)",
+            "وقت کے ساتھ چیزوں کا ویسا ہی رہنا (continuity)"
+          ],
+          "passage": [
+            "1347 میں ایک نئی بیماری تجارتی جہازوں پر یورپ پہنچی۔",
+            "1348 میں یہ انگلینڈ پہنچ گئی۔",
+            "ہم اسے Black Death کہتے ہیں۔",
+            "آج زیادہ تر مورخوں کا خیال ہے کہ یہ bubonic plague تھا۔",
+            "اسے کالے چوہوں پر رہنے والے پسو (fleas) پھیلاتے تھے۔",
+            "مریضوں کو buboes نامی دردناک سوجنیں، بخار اور قے ہوتی تھی۔",
+            "زیادہ تر چند دنوں میں مر جاتے تھے۔",
+            "آبادی کا تقریباً ایک تہائی حصہ مر گیا۔",
+            "لوگ مانتے تھے کہ خدا نے یہ طاعون سزا کے طور پر بھیجا ہے۔",
+            "دوسرے خراب ہوا، سیاروں یا اجنبیوں کو ذمے دار ٹھہراتے تھے۔",
+            "وہ دعا کرتے، روزے رکھتے اور خوشبودار جڑی بوٹیاں ساتھ رکھتے تھے۔",
+            "کچھ شہروں نے باہر والوں کے لیے اپنے دروازے بند کر دیے۔",
+            "پرانے خیالات آزمائے گئے، اور ان میں سے کوئی بھی کام نہ آیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A new disease, 1348–49",

@@ -97,8 +97,162 @@ window.ASTRA_UNITS["hist-hastings"] = {
           "Harold Godwinson acted fast.",
           "He was crowned King on 6 January, the day of Edward's funeral.",
           "But the contest for the throne was only just beginning."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الشخص الذي يتولّى الحكم عندما يموت الملك (heir)",
+            "رجل كان يحكم جزءًا من إنجلترا باسم الملك (earl)",
+            "سبب تقوله لتدّعي أنّ العرش يجب أن يكون لك (claim)",
+            "وعد جادّ جدًا، كثيرًا ما يُقطع على أشياء مقدّسة (oath)",
+            "الاحتفال الذي يُتوَّج فيه شخص ملكًا (coronation)"
+          ],
+          "passage": [
+            "في عام 1066 كانت إنجلترا تواجه مشكلة.",
+            "مات الملك إدوارد المعترف (Edward the Confessor) في 5 يناير.",
+            "لم يكن له أطفال، فلم يكن هناك وريث (heir) واضح.",
+            "قال ثلاثة رجال إنّ العرش يجب أن يكون لهم.",
+            "كان هارولد غودوينسون (Harold Godwinson) إيرل وِسِكس (Earl of Wessex) وصهر إدوارد.",
+            "قال إنّ إدوارد سمّاه وريثًا وهو على فراش الموت.",
+            "كان وليام (William) دوق نورماندي (Duke of Normandy)، عبر البحر في فرنسا.",
+            "قال إنّ إدوارد وعده بالعرش في عام 1051.",
+            "كان هارالد هاردرادا (Harald Hardrada) ملك النرويج، وهو من الفايكنغ.",
+            "قال إنّ العرش قد وُعدت به عائلته قبل ذلك بزمن طويل.",
+            "تصرّف هارولد غودوينسون بسرعة.",
+            "تُوّج ملكًا في 6 يناير، يوم جنازة إدوارد.",
+            "لكنّ الصراع على العرش كان قد بدأ للتوّ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osoba, która przejmuje władzę, gdy umiera król (heir, następca tronu)",
+            "człowiek, który rządził częścią Anglii w imieniu króla (earl, hrabia)",
+            "powód, by twierdzić, że tron powinien należeć do ciebie (claim)",
+            "bardzo poważna obietnica, często składana na świętych przedmiotach (oath, przysięga)",
+            "uroczystość, podczas której ktoś zostaje ukoronowany na króla (coronation, koronacja)"
+          ],
+          "passage": [
+            "W 1066 roku Anglia miała problem.",
+            "Król Edward Wyznawca (Edward the Confessor) zmarł 5 stycznia.",
+            "Nie miał dzieci, więc nie było jasnego następcy tronu (heir).",
+            "Trzech mężczyzn twierdziło, że tron powinien należeć do nich.",
+            "Harold Godwinson był hrabią (Earl) Wessexu i szwagrem Edwarda.",
+            "Mówił, że Edward na łożu śmierci wskazał go jako następcę.",
+            "William (Wilhelm) był księciem Normandii, za morzem, we Francji.",
+            "Mówił, że Edward obiecał mu tron w 1051 roku.",
+            "Harald Hardrada był królem Norwegii, wikingiem.",
+            "Mówił, że tron obiecano jego rodzinie dawno temu.",
+            "Harold Godwinson działał szybko.",
+            "Został ukoronowany na króla 6 stycznia, w dniu pogrzebu Edwarda.",
+            "Ale walka o tron dopiero się zaczynała."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a pessoa que fica no lugar de um rei quando ele morre (heir, herdeiro)",
+            "um homem que governava uma parte da Inglaterra em nome do rei (earl, conde)",
+            "um motivo para dizer que o trono devia ser seu (claim, pretensão/direito ao trono)",
+            "uma promessa muito séria, muitas vezes feita sobre objetos sagrados (oath, juramento)",
+            "a cerimónia/cerimônia em que alguém é coroado rei (coronation, coroação)"
+          ],
+          "passage": [
+            "Em 1066 a Inglaterra tinha um problema.",
+            "O rei Edward (Eduardo) o Confessor morreu a 5 de janeiro.",
+            "Não tinha filhos, por isso não havia um herdeiro (heir) claro.",
+            "Três homens disseram que o trono devia ser deles.",
+            "Harold Godwinson era o Conde (Earl) de Wessex e cunhado de Edward.",
+            "Ele disse que Edward o tinha nomeado herdeiro no leito de morte.",
+            "William (Guilherme) era o Duque da Normandia, do outro lado do mar, na França.",
+            "Ele disse que Edward lhe tinha prometido o trono em 1051.",
+            "Harald Hardrada era o Rei da Noruega, um viking.",
+            "Ele disse que o trono tinha sido prometido à sua família muito tempo antes.",
+            "Harold Godwinson agiu depressa.",
+            "Foi coroado Rei a 6 de janeiro, no dia do funeral de Edward.",
+            "Mas a luta pelo trono estava só a começar/começando."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qofka la wareega marka boqor dhinto (heir)",
+            "nin qayb England ka mid ah boqorka u xukumi jiray (earl)",
+            "sabab lagu sheegto in carshigu kaaga yahay (claim)",
+            "ballan aad u culus, oo inta badan lagu sameeyo waxyaabo barakaysan (oath)",
+            "xafladda qof lagu caleemo-saaro boqor (coronation)"
+          ],
+          "passage": [
+            "Sannadkii 1066 England dhibaato ayay qabtay.",
+            "Boqor Edward the Confessor wuxuu dhintay 5 Janaayo.",
+            "Carruur ma lahayn, sidaas darteed dhaxal-suge cad ma jirin.",
+            "Saddex nin ayaa yiri carshigu annaga ayuu noo yahay.",
+            "Harold Godwinson wuxuu ahaa Earl-ka Wessex iyo seeddigii Edward.",
+            "Wuxuu yiri Edward wuxuu ku magacaabay dhaxal-suge isagoo sariirta dhimashada saaran.",
+            "William wuxuu ahaa Duke-ka Normandy, badda ka shisheeya France.",
+            "Wuxuu yiri Edward wuxuu u ballan-qaaday carshiga 1051.",
+            "Harald Hardrada wuxuu ahaa Boqorka Norway, Viking ah.",
+            "Wuxuu yiri carshiga qoyskiisa ayaa loo ballan-qaaday waqti dheer ka hor.",
+            "Harold Godwinson si dhaqso ah ayuu u dhaqaaqay.",
+            "Boqor ayaa loo caleemo-saaray 6 Janaayo, maalintii aaska Edward.",
+            "Laakiin tartankii carshiga hadda ayuu bilaabmayay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "людина, яка переймає владу, коли король помирає (heir)",
+            "чоловік, який правив частиною Англії від імені короля (earl)",
+            "підстава стверджувати, що трон має бути твоїм (claim)",
+            "дуже серйозна обіцянка, часто дана на святих предметах (oath)",
+            "церемонія, на якій когось коронують королем (coronation)"
+          ],
+          "passage": [
+            "У 1066 році в Англії виникла проблема.",
+            "Король Едуард Сповідник (Edward the Confessor) помер 5 січня.",
+            "У нього не було дітей, тож не було очевидного спадкоємця (heir).",
+            "Троє чоловіків заявили, що трон має належати їм.",
+            "Гарольд Ґодвінсон (Harold Godwinson) був ерлом (earl) Вессексу і шваґром Едуарда.",
+            "Він казав, що Едуард назвав його спадкоємцем на смертному ложі.",
+            "Вільгельм (William) був герцогом Нормандії, за морем, у Франції.",
+            "Він казав, що Едуард пообіцяв йому трон у 1051 році.",
+            "Гаральд Суворий (Harald Hardrada) був королем Норвегії, вікінгом.",
+            "Він казав, що трон давно пообіцяли його родині.",
+            "Гарольд Ґодвінсон діяв швидко.",
+            "Його коронували 6 січня, у день похорону Едуарда.",
+            "Але боротьба за трон лише починалася."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جو بادشاہ کے مرنے پر اس کی جگہ لیتا ہے (heir)",
+            "ایک آدمی جو بادشاہ کی طرف سے انگلینڈ کے کسی حصے پر حکومت کرتا تھا (earl)",
+            "یہ کہنے کی کوئی وجہ کہ تخت آپ کا ہونا چاہیے (claim)",
+            "ایک بہت سنجیدہ وعدہ، جو اکثر مقدس چیزوں پر کیا جاتا تھا (oath)",
+            "وہ تقریب جس میں کسی کے سر پر بادشاہ کا تاج رکھا جاتا ہے (coronation)"
+          ],
+          "passage": [
+            "1066 میں انگلینڈ کو ایک مسئلہ درپیش تھا۔",
+            "بادشاہ ایڈورڈ دی کنفیسر (Edward the Confessor) 5 جنوری کو مر گیا۔",
+            "اس کی کوئی اولاد نہ تھی، اس لیے کوئی واضح وارث (heir) نہیں تھا۔",
+            "تین آدمیوں نے کہا کہ تخت ان کا ہونا چاہیے۔",
+            "ہیرلڈ گاڈونسن (Harold Godwinson) ویسیکس (Wessex) کا ارل اور ایڈورڈ کا بہنوئی تھا۔",
+            "اس نے کہا کہ ایڈورڈ نے مرتے وقت اسے اپنا وارث نامزد کیا تھا۔",
+            "ولیم (William) سمندر کے اس پار فرانس میں نارمنڈی (Normandy) کا ڈیوک تھا۔",
+            "اس نے کہا کہ ایڈورڈ نے 1051 میں اسے تخت کا وعدہ کیا تھا۔",
+            "ہیرلڈ ہارڈراڈا (Harald Hardrada) ناروے کا بادشاہ تھا، ایک وائکنگ۔",
+            "اس نے کہا کہ تخت کا وعدہ بہت پہلے اس کے خاندان سے کیا گیا تھا۔",
+            "ہیرلڈ گاڈونسن نے تیزی سے قدم اٹھایا۔",
+            "6 جنوری کو، ایڈورڈ کی تدفین کے دن، اس کی تاج پوشی (coronation) ہو گئی۔",
+            "لیکن تخت کی یہ کشمکش ابھی شروع ہی ہوئی تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where does 1066 fit?",
@@ -304,8 +458,156 @@ window.ASTRA_UNITS["hist-hastings"] = {
           "Keeping them together was also very expensive.",
           "On 8 September, Harold sent his army home.",
           "Ten days later, the Vikings landed in the north."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تدخل بلدًا بجيش للاستيلاء عليه (invade)",
+            "الوقت الذي تُجمع فيه المحاصيل من الحقول (harvest)",
+            "شخص عاديّ كان يعمل في الأرض (peasant)",
+            "البحر الضيّق بين إنجلترا وفرنسا (Channel)",
+            "رئيس الكنيسة المسيحية (Pope)"
+          ],
+          "passage": [
+            "كان هارولد ملكًا، لكنه لم يكن في أمان.",
+            "كان وليام في نورماندي، إلى الجنوب، عبر القنال (Channel).",
+            "وكان هاردرادا في النرويج، بعيدًا إلى الشمال الشرقي.",
+            "كان يمكن أن يُهاجَم هارولد من الشمال والجنوب في وقت واحد.",
+            "كانت مشكلته الأولى أين يضع جيشه.",
+            "اختار الساحل الجنوبي، لأنّ وليام كان أقرب وكان يملك أفضل جيش في أوروبا.",
+            "طوال الصيف كانت الرياح معاكسة، فلم تستطع سفن وليام أن تُبحر.",
+            "كانت مشكلة هارولد الثانية جنوده.",
+            "كان أكثرهم مزارعين، وكان سبتمبر وقت الحصاد.",
+            "وكان إبقاؤهم معًا مكلفًا جدًا أيضًا.",
+            "في 8 سبتمبر، أرسل هارولد جيشه إلى بيوتهم.",
+            "وبعد عشرة أيام، نزل الفايكنغ في الشمال."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wejść do kraju z armią, żeby go zająć (invade, najechać)",
+            "czas, kiedy zbiera się plony z pól (harvest, żniwa)",
+            "zwykły człowiek, który pracował na roli (peasant, chłop)",
+            "wąskie morze między Anglią a Francją (Channel, kanał La Manche)",
+            "głowa Kościoła chrześcijańskiego (Pope, papież)"
+          ],
+          "passage": [
+            "Harold był królem, ale nie był bezpieczny.",
+            "William był w Normandii, na południu, za kanałem La Manche (Channel).",
+            "Hardrada był w Norwegii, daleko na północnym wschodzie.",
+            "Harold mógł zostać zaatakowany z północy i z południa jednocześnie.",
+            "Jego pierwszym problemem było to, gdzie ustawić armię.",
+            "Wybrał południowe wybrzeże, bo William był bliżej i miał najlepszą armię w Europie.",
+            "Przez całe lato wiatry były niesprzyjające i statki Williama nie mogły wypłynąć.",
+            "Drugim problemem Harolda byli jego żołnierze.",
+            "Większość z nich była rolnikami, a wrzesień to czas żniw (harvest).",
+            "Utrzymywanie ich razem było też bardzo kosztowne.",
+            "8 września Harold odesłał swoją armię do domu.",
+            "Dziesięć dni później na północy wylądowali wikingowie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "entrar num país com um exército para o conquistar (invade, invadir)",
+            "a época em que as colheitas são recolhidas dos campos (harvest, colheita)",
+            "uma pessoa comum que trabalhava na terra (peasant, camponês)",
+            "o mar estreito entre a Inglaterra e a França (Channel, Canal da Mancha)",
+            "o chefe da Igreja Cristã (Pope, Papa)"
+          ],
+          "passage": [
+            "Harold era rei, mas não estava seguro.",
+            "William estava na Normandia, a sul, do outro lado do Canal da Mancha (the Channel).",
+            "Hardrada estava na Noruega, longe, a nordeste.",
+            "Harold podia ser atacado pelo norte e pelo sul ao mesmo tempo.",
+            "O seu primeiro problema era onde colocar o seu exército.",
+            "Escolheu a costa sul, porque William estava mais perto e tinha o melhor exército da Europa.",
+            "Durante todo o verão, os ventos estiveram contrários e os navios de William não puderam zarpar.",
+            "O segundo problema de Harold eram os seus soldados.",
+            "A maior parte deles eram agricultores, e setembro era a época da colheita.",
+            "Mantê-los juntos também era muito caro.",
+            "A 8 de setembro, Harold mandou o seu exército para casa.",
+            "Dez dias depois, os vikings desembarcaram no norte."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dal ciidan ku galid si loo qabsado (invade)",
+            "waqtiga dalagga beeraha laga soo ururiyo (harvest)",
+            "qof caadi ah oo dhulka ka shaqayn jiray (peasant)",
+            "badda cidhiidhi ah ee u dhexaysa England iyo France (the Channel)",
+            "madaxa Kaniisadda Masiixiyiinta (Pope)"
+          ],
+          "passage": [
+            "Harold boqor ayuu ahaa, laakiin ammaan ma ahayn.",
+            "William wuxuu joogay Normandy, dhanka koonfureed, Channel-ka ka shisheeya.",
+            "Hardrada wuxuu joogay Norway, waqooyi-bari meel fog.",
+            "Harold waxaa laga weerari karay waqooyi iyo koonfur isku mar.",
+            "Dhibaatadiisii koowaad waxay ahayd meesha uu ciidankiisa dhigo.",
+            "Wuxuu doortay xeebta koonfureed, sababtoo ah William ka dhow yahay oo ciidanka ugu fiican Yurub lahaa.",
+            "Xagaagii oo dhan, dabayshu khalad ayay ahayd, doonyihii William-na ma shiraacan karin.",
+            "Dhibaatadii labaad ee Harold waxay ahayd askartiisa.",
+            "Badankoodu beeraley ayay ahaayeen, Sebtembar-na waxay ahayd waqtiga goosashada (harvest).",
+            "Isku haynta ay isku haysta sidoo kale aad ayay qaali u ahayd.",
+            "8 Sebtembar, Harold ciidankiisa guryahooda ayuu u diray.",
+            "Toban maalmood ka dib, Vikings-ku waqooyi ayay ka soo degeen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "увійти в країну з армією, щоб захопити її (invade)",
+            "час, коли врожай збирають із полів (harvest)",
+            "звичайна людина, яка працювала на землі (peasant)",
+            "вузьке море між Англією і Францією (Channel)",
+            "голова християнської Церкви (Pope)"
+          ],
+          "passage": [
+            "Гарольд був королем, але він не був у безпеці.",
+            "Вільгельм був у Нормандії, на півдні, за Ла-Маншем (Channel).",
+            "Гаральд Суворий був у Норвегії, далеко на північному сході.",
+            "На Гарольда могли напасти з півночі й півдня одночасно.",
+            "Його перша проблема — де поставити армію.",
+            "Він вибрав південне узбережжя, бо Вільгельм був ближче і мав найкращу армію в Європі.",
+            "Усе літо вітри були несприятливі, і кораблі Вільгельма не могли відплисти.",
+            "Друга проблема Гарольда — його солдати.",
+            "Більшість із них були селянами, а вересень був часом жнив (harvest).",
+            "Тримати їх разом було також дуже дорого.",
+            "8 вересня Гарольд відпустив свою армію додому.",
+            "Через десять днів на півночі висадилися вікінги."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی ملک پر قبضہ کرنے کے لیے فوج کے ساتھ اس میں داخل ہونا (invade)",
+            "وہ وقت جب کھیتوں سے فصلیں کاٹ کر جمع کی جاتی ہیں (harvest)",
+            "ایک عام آدمی جو زمین پر کام کرتا تھا (peasant)",
+            "انگلینڈ اور فرانس کے بیچ کا تنگ سمندر (Channel)",
+            "مسیحی کلیسا کا سربراہ (Pope)"
+          ],
+          "passage": [
+            "ہیرلڈ بادشاہ تھا، لیکن محفوظ نہیں تھا۔",
+            "ولیم جنوب میں، چینل (Channel) کے اس پار نارمنڈی میں تھا۔",
+            "ہارڈراڈا ناروے میں تھا، دور شمال مشرق میں۔",
+            "ہیرلڈ پر شمال اور جنوب سے ایک ہی وقت میں حملہ ہو سکتا تھا۔",
+            "اس کا پہلا مسئلہ یہ تھا کہ اپنی فوج کہاں رکھے۔",
+            "اس نے جنوبی ساحل چنا، کیونکہ ولیم زیادہ قریب تھا اور اس کے پاس یورپ کی سب سے اچھی فوج تھی۔",
+            "پوری گرمیوں میں ہوائیں مخالف رہیں اور ولیم کے جہاز روانہ نہ ہو سکے۔",
+            "ہیرلڈ کا دوسرا مسئلہ اس کے سپاہی تھے۔",
+            "ان میں سے زیادہ تر کسان تھے، اور ستمبر فصل کٹائی (harvest) کا وقت تھا۔",
+            "انھیں اکٹھا رکھنا بھی بہت مہنگا تھا۔",
+            "8 ستمبر کو ہیرلڈ نے اپنی فوج کو گھر بھیج دیا۔",
+            "دس دن بعد وائکنگ شمال میں اتر آئے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Problem 1: north or south?",
@@ -460,8 +762,162 @@ window.ASTRA_UNITS["hist-hastings"] = {
           "The Vikings were outnumbered, 12,000 to 9,000.",
           "Hardrada was killed by an arrow, and his army was defeated.",
           "Harold had won his first battle as king."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "محارب من النرويج أو الدانمارك أو السويد كان يغزو إنجلترا ويستوطنها (Viking)",
+            "أن تهاجم عدوًّا لا يتوقّعك (surprise)",
+            "معدن أو جلد يُلبَس لحماية الجسم في المعركة (armour)",
+            "أن يكون جنودك أقلّ عددًا من جنود العدوّ (outnumbered)",
+            "حقائق تستخدمها لتدعم نقطة ما (evidence)"
+          ],
+          "passage": [
+            "في 18 سبتمبر 1066، نزل فايكنغ هاردرادا في شمال إنجلترا.",
+            "كان جيش هارولد قد عاد إلى بيوته للتوّ.",
+            "في غضون أيام هزم الفايكنغ إيرلات الشمال واستولوا على مدينة يورك (York).",
+            "لم يُصَب هارولد بالذعر.",
+            "سار شمالًا خمسة أيام، يجمع الجنود في طريقه.",
+            "في 25 سبتمبر وصل إلى ستامفورد بريدج (Stamford Bridge).",
+            "لم يكن الفايكنغ يتوقّعونه.",
+            "كان كثيرون منهم قد تركوا دروعهم عند السفن.",
+            "صمد فايكنغي شجاع واحد على الجسر وحده، حتى قتله جندي إنجليزي.",
+            "ثم عبر الإنجليز وقاتلوا الفايكنغ وجهًا لوجه.",
+            "كان الفايكنغ أقلّ عددًا، 12,000 مقابل 9,000.",
+            "قُتل هاردرادا بسهم، وهُزم جيشه.",
+            "كان هارولد قد انتصر في أوّل معركة له ملكًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wojownik z Norwegii, Danii lub Szwecji, który napadał na Anglię i się w niej osiedlał (Viking, wiking)",
+            "zaatakować wroga, który się ciebie nie spodziewa (surprise)",
+            "metal lub skóra noszone dla ochrony ciała w bitwie (armour, zbroja)",
+            "mający mniej żołnierzy niż wróg (outnumbered)",
+            "fakty, których używasz, żeby poprzeć swoją tezę (evidence, dowody)"
+          ],
+          "passage": [
+            "18 września 1066 roku wikingowie Hardrady wylądowali na północy Anglii.",
+            "Armia Harolda właśnie poszła do domu.",
+            "W ciągu kilku dni wikingowie pokonali hrabiów z północy i zajęli miasto York.",
+            "Harold nie wpadł w panikę.",
+            "Maszerował na północ przez pięć dni, zbierając po drodze żołnierzy.",
+            "25 września dotarł do Stamford Bridge.",
+            "Wikingowie się go nie spodziewali.",
+            "Wielu zostawiło swoje zbroje (armour) przy statkach.",
+            "Jeden odważny wiking sam bronił mostu, aż zabił go angielski żołnierz.",
+            "Potem Anglicy przeszli przez most i starli się z wikingami twarzą w twarz.",
+            "Wikingów było mniej (outnumbered): 12,000 do 9,000.",
+            "Hardrada zginął od strzały, a jego armia została pokonana.",
+            "Harold wygrał swoją pierwszą bitwę jako król."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um guerreiro da Noruega, da Dinamarca ou da Suécia que atacava e se fixava na Inglaterra (Viking, viking)",
+            "atacar um inimigo que não está à sua espera (surprise, surpreender)",
+            "metal ou couro usado para proteger o corpo na batalha (armour, armadura)",
+            "ter menos soldados do que o inimigo (outnumbered, em menor número)",
+            "factos/fatos que você usa para apoiar um argumento (evidence, provas/evidências)"
+          ],
+          "passage": [
+            "A 18 de setembro de 1066, os vikings de Hardrada desembarcaram no norte da Inglaterra.",
+            "O exército de Harold tinha acabado de ir para casa.",
+            "Em poucos dias os vikings derrotaram os condes do norte e tomaram a cidade de York.",
+            "Harold não entrou em pânico.",
+            "Marchou para norte durante cinco dias, juntando soldados pelo caminho.",
+            "A 25 de setembro chegou a Stamford Bridge.",
+            "Os vikings não estavam à espera dele.",
+            "Muitos tinham deixado as armaduras nos navios.",
+            "Um viking corajoso defendeu a ponte sozinho, até um soldado inglês o matar.",
+            "Depois os ingleses atravessaram e enfrentaram os vikings de frente.",
+            "Os vikings estavam em menor número (outnumbered), 12 000 contra 9 000.",
+            "Hardrada foi morto por uma flecha, e o seu exército foi derrotado.",
+            "Harold tinha ganhado a sua primeira batalha como rei."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dagaalyahan ka yimid Norway, Denmark ama Sweden oo England weerari jiray oo degi jiray (Viking)",
+            "weerarid cadow aan ku filayn (surprise)",
+            "bir ama maqaar la xirto si jirka dagaalka looga ilaaliyo (armour)",
+            "haysta askar ka yar kuwa cadowga (outnumbered)",
+            "xaqiiqooyin aad u isticmaasho si aad fikrad u taageerto (evidence)"
+          ],
+          "passage": [
+            "18 Sebtembar 1066, Vikings-kii Hardrada waqooyiga England ayay ka soo degeen.",
+            "Ciidankii Harold hadda ayuu guryahooda tagay.",
+            "Maalmo gudahood Vikings-ku earls-kii waqooyi ayay jabiyeen oo magaalada York qabsadeen.",
+            "Harold ma argagixin.",
+            "Shan maalmood ayuu waqooyi u socday, askarna wuu soo ururinayay intuu socday.",
+            "25 Sebtembar wuxuu gaaray Stamford Bridge.",
+            "Vikings-ku ma filayn.",
+            "Qaar badan armour-koodii doonyaha ayay kaga tageen.",
+            "Hal Viking geesi ah ayaa buundada keligiis haystay, ilaa askari Ingiriis ah dilay.",
+            "Markaas Ingiriisku way gudbeen oo Vikings-ka madax-madax la dagaallameen.",
+            "Vikings-ku tiro ayay ka yaraayeen (outnumbered), 12,000 ilaa 9,000.",
+            "Hardrada fallaar ayaa dishay, ciidankiisiina waa la jabiyay.",
+            "Harold wuxuu ku guulaystay dagaalkiisii ugu horreeyay isagoo boqor ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "воїн із Норвегії, Данії або Швеції, який грабував Англію і селився в ній (Viking)",
+            "напасти на ворога, який на вас не чекає (surprise)",
+            "метал або шкіра, які носили для захисту тіла в бою (armour)",
+            "мати менше солдатів, ніж ворог (outnumbered)",
+            "факти, якими ви підтверджуєте думку (evidence)"
+          ],
+          "passage": [
+            "18 вересня 1066 року вікінги Гаральда Суворого висадилися на півночі Англії.",
+            "Армія Гарольда щойно розійшлася додому.",
+            "За кілька днів вікінги розбили північних ерлів і взяли місто Йорк (York).",
+            "Гарольд не панікував.",
+            "Він п’ять днів ішов на північ, збираючи солдатів дорогою.",
+            "25 вересня він дійшов до Стемфорд-Бриджа (Stamford Bridge).",
+            "Вікінги на нього не чекали.",
+            "Багато з них залишили свої обладунки (armour) на кораблях.",
+            "Один хоробрий вікінг сам утримував міст, доки англійський солдат його не вбив.",
+            "Потім англійці перейшли міст і билися з вікінгами лоб у лоб.",
+            "Вікінгів було менше: 12,000 проти 9,000.",
+            "Гаральда Суворого вбила стріла, і його армію було розбито.",
+            "Гарольд виграв свою першу битву як король."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ناروے، ڈنمارک یا سویڈن کا ایک جنگجو جو انگلینڈ پر چھاپے مارتا اور وہاں آباد ہوتا تھا (Viking)",
+            "ایسے دشمن پر حملہ کرنا جو آپ کی توقع نہ کر رہا ہو (surprise)",
+            "جنگ میں جسم کی حفاظت کے لیے پہنا جانے والا دھات یا چمڑا (armour)",
+            "دشمن سے کم سپاہی ہونا (outnumbered)",
+            "وہ حقائق جو آپ کسی بات کی تائید میں استعمال کرتے ہیں (evidence)"
+          ],
+          "passage": [
+            "18 ستمبر 1066 کو ہارڈراڈا کے وائکنگ انگلینڈ کے شمال میں اتر آئے۔",
+            "ہیرلڈ کی فوج ابھی ابھی گھر گئی تھی۔",
+            "چند دنوں میں وائکنگوں نے شمالی ارلوں کو ہرا دیا اور یارک (York) شہر پر قبضہ کر لیا۔",
+            "ہیرلڈ گھبرایا نہیں۔",
+            "وہ پانچ دن شمال کی طرف چلتا رہا، اور راستے میں سپاہی جمع کرتا گیا۔",
+            "25 ستمبر کو وہ سٹیمفورڈ برج (Stamford Bridge) پہنچ گیا۔",
+            "وائکنگوں کو اس کی توقع نہ تھی۔",
+            "بہت سے اپنی زرہ (armour) جہازوں پر ہی چھوڑ آئے تھے۔",
+            "ایک بہادر وائکنگ نے اکیلے پل کو روکے رکھا، یہاں تک کہ ایک انگریز سپاہی نے اسے مار دیا۔",
+            "پھر انگریز پار اترے اور وائکنگوں سے سامنے کی لڑائی لڑی۔",
+            "وائکنگوں کی تعداد کم تھی، 12,000 کے مقابلے میں 9,000۔",
+            "ہارڈراڈا ایک تیر سے مارا گیا، اور اس کی فوج کو شکست ہوئی۔",
+            "ہیرلڈ نے بادشاہ کے طور پر اپنی پہلی جنگ جیت لی تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Disaster in the north",
@@ -667,8 +1123,156 @@ window.ASTRA_UNITS["hist-hastings"] = {
           "His army was made of huscarls, who were professional, and the fyrd, who were not.",
           "William's army had cavalry, foot soldiers and archers.",
           "Which army would you rather lead?"
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جندي محترف مدرَّب يتقاضى أجرًا في جيش هارولد (huscarl)",
+            "رجال عاديّون كانوا يقاتلون فقط عندما يدعوهم الملك (fyrd)",
+            "جنود يقاتلون على ظهور الخيل (cavalry)",
+            "مدرَّب ويتقاضى أجرًا للقيام بعمل ما (professional)",
+            "قطعة طويلة من القماش مُطرَّزة بالصور (tapestry)"
+          ],
+          "passage": [
+            "كان هارولد قد انتصر في ستامفورد بريدج، لكنّ ذلك كلّفه غاليًا.",
+            "كان قد أخذ نحو 15,000 جندي إلى الشمال.",
+            "مات نحو 5,000 منهم في المعركة.",
+            "ثم، في 28 سبتمبر، نزل وليام في الجنوب مع 9,000 رجل.",
+            "لم يكن هناك أحد ليوقفه، لأنّ جيش هارولد كان في الشمال.",
+            "بنى وليام معسكرًا، وأراح رجاله، وانتظر.",
+            "كان على جيش هارولد أن يسير الطريق كلّه عائدًا إلى الجنوب.",
+            "كان الرجال منهكين، وعاد بعضهم إلى بيوتهم.",
+            "وصل هارولد مع نحو 7,000 رجل.",
+            "كان جيشه مكوّنًا من الهوسكارل (huscarls)، وهم محترفون، ومن الفيرد (fyrd)، وهم ليسوا كذلك.",
+            "كان في جيش وليام فرسان (cavalry) وجنود مشاة ورماة.",
+            "أيّ الجيشَين تفضّل أن تقوده؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wyszkolony, opłacany zawodowy żołnierz w armii Harolda (huscarl)",
+            "zwykli mężczyźni, którzy walczyli tylko wtedy, gdy wezwał ich król (fyrd)",
+            "żołnierze walczący na koniach (cavalry, kawaleria)",
+            "wyszkolony i opłacany za wykonywanie pracy (professional, zawodowy)",
+            "długi kawałek tkaniny z wyszytymi obrazkami (tapestry, tkanina)"
+          ],
+          "passage": [
+            "Harold wygrał pod Stamford Bridge, ale drogo go to kosztowało.",
+            "Zabrał na północ około 15,000 żołnierzy.",
+            "Około 5,000 z nich zginęło w bitwie.",
+            "Potem, 28 września, William wylądował na południu z 9,000 ludzi.",
+            "Nikt go tam nie zatrzymał, bo armia Harolda była na północy.",
+            "William zbudował obóz, dał swoim ludziom odpocząć i czekał.",
+            "Armia Harolda musiała maszerować całą drogę z powrotem na południe.",
+            "Ludzie byli wyczerpani, a niektórzy poszli do domu.",
+            "Harold przybył z około 7,000 ludzi.",
+            "Jego armia składała się z huskarlów (huscarls), którzy byli zawodowcami, i z fyrdu (fyrd), który nie był.",
+            "Armia Williama miała kawalerię (cavalry), piechotę i łuczników.",
+            "Którą armią wolałbyś dowodzić?"
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um soldado profissional, treinado e pago, do exército de Harold (huscarl)",
+            "homens comuns que só lutavam quando o rei os chamava (fyrd)",
+            "soldados que lutam a cavalo (cavalry, cavalaria)",
+            "treinado e pago para fazer um trabalho (professional, profissional)",
+            "um pano comprido com imagens bordadas (tapestry, tapeçaria)"
+          ],
+          "passage": [
+            "Harold tinha ganhado em Stamford Bridge, mas isso custou-lhe caro.",
+            "Ele tinha levado cerca de 15 000 soldados para norte.",
+            "Cerca de 5 000 deles morreram na batalha.",
+            "Depois, a 28 de setembro, William desembarcou no sul com 9 000 homens.",
+            "Não havia ninguém lá para o travar, porque o exército de Harold estava no norte.",
+            "William construiu um acampamento, descansou os seus homens e esperou.",
+            "O exército de Harold teve de marchar todo o caminho de volta para sul.",
+            "Os homens estavam exaustos, e alguns foram para casa.",
+            "Harold chegou com cerca de 7 000 homens.",
+            "O seu exército era feito de huscarls, que eram profissionais, e do fyrd, que não era.",
+            "O exército de William tinha cavalaria, soldados a pé e arqueiros.",
+            "Qual dos exércitos você preferia comandar?"
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "askari xirfadle oo la tababaray oo la mushaharay oo ciidanka Harold ka tirsan (huscarl)",
+            "rag caadi ah oo dagaallami jiray keliya marka boqorku u yeero (fyrd)",
+            "askar fardo ku dagaallanta (cavalry)",
+            "la tababaray oo loo mushaharay shaqo (professional)",
+            "maro dheer oo sawirro lagu tolay (tapestry)"
+          ],
+          "passage": [
+            "Harold Stamford Bridge ayuu ku guulaystay, laakiin qiimo weyn ayuu bixiyay.",
+            "Qiyaastii 15,000 askari ayuu waqooyi u kaxaystay.",
+            "Qiyaastii 5,000 ka mid ah dagaalka ayay ku dhinteen.",
+            "Markaas, 28 Sebtembar, William koonfurta ayuu ka soo degay isagoo wata 9,000 nin.",
+            "Qofna ma joogin oo joojiya, sababtoo ah ciidankii Harold waqooyi ayuu joogay.",
+            "William xero ayuu dhisay, raggiisa nasiyay, oo sugay.",
+            "Ciidankii Harold waxay ahayd inuu dib u soo socdo ilaa koonfurta oo dhan.",
+            "Raggu aad ayay u daalanaayeen, qaarna guryahooda ayay tageen.",
+            "Harold wuxuu la yimid qiyaastii 7,000 nin.",
+            "Ciidankiisu wuxuu ka koobnaa huscarls, oo xirfadlayaal ahaa, iyo fyrd, oo aan ahayn.",
+            "Ciidankii William wuxuu lahaa cavalry, askar lugaynaysa iyo fallaar-tuurayaal.",
+            "Ciidankee ayaad doorbidi lahayd inaad hoggaamiso?"
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "навчений, оплачуваний професійний солдат в армії Гарольда (huscarl)",
+            "звичайні чоловіки, які билися лише тоді, коли король їх кликав (fyrd)",
+            "солдати, які б’ються верхи на конях (cavalry)",
+            "навчений і оплачуваний, щоб виконувати роботу (professional)",
+            "довге полотно з вишитими на ньому картинами (tapestry)"
+          ],
+          "passage": [
+            "Гарольд переміг біля Стемфорд-Бриджа, але це дорого йому коштувало.",
+            "Він повів на північ близько 15,000 солдатів.",
+            "Близько 5,000 із них загинули в битві.",
+            "Потім, 28 вересня, Вільгельм висадився на півдні з 9,000 людей.",
+            "Нікого не було, щоб його зупинити, бо армія Гарольда була на півночі.",
+            "Вільгельм побудував табір, дав людям відпочити і чекав.",
+            "Армії Гарольда довелося йти весь шлях назад на південь.",
+            "Люди були виснажені, і деякі пішли додому.",
+            "Гарольд прибув приблизно з 7,000 людей.",
+            "Його армія складалася з хускарлів (huscarls), які були професіоналами, і фірду (fyrd), який ними не був.",
+            "Армія Вільгельма мала кінноту (cavalry), піхоту і лучників.",
+            "Якою армією ви б радше командували?"
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہیرلڈ کی فوج کا ایک تربیت یافتہ، تنخواہ دار پیشہ ور سپاہی (huscarl)",
+            "عام آدمی جو صرف اس وقت لڑتے تھے جب بادشاہ انھیں بلاتا (fyrd)",
+            "گھوڑوں پر سوار ہو کر لڑنے والے سپاہی (cavalry)",
+            "کوئی کام کرنے کے لیے تربیت یافتہ اور تنخواہ دار (professional)",
+            "کپڑے کا ایک لمبا ٹکڑا جس پر تصویریں کاڑھی گئی ہوں (tapestry)"
+          ],
+          "passage": [
+            "ہیرلڈ سٹیمفورڈ برج پر جیت گیا تھا، لیکن اس کی بہت بھاری قیمت چکانی پڑی تھی۔",
+            "وہ تقریباً 15,000 سپاہی شمال میں لے گیا تھا۔",
+            "ان میں سے تقریباً 5,000 جنگ میں مارے گئے۔",
+            "پھر، 28 ستمبر کو، ولیم 9,000 آدمیوں کے ساتھ جنوب میں اتر آیا۔",
+            "اسے روکنے کے لیے وہاں کوئی نہ تھا، کیونکہ ہیرلڈ کی فوج شمال میں تھی۔",
+            "ولیم نے ایک کیمپ بنایا، اپنے آدمیوں کو آرام دیا اور انتظار کیا۔",
+            "ہیرلڈ کی فوج کو سارا راستہ واپس جنوب تک پیدل چلنا پڑا۔",
+            "آدمی تھک کر چور تھے، اور کچھ گھر چلے گئے۔",
+            "ہیرلڈ تقریباً 7,000 آدمیوں کے ساتھ پہنچا۔",
+            "اس کی فوج huscarls سے بنی تھی، جو پیشہ ور تھے، اور fyrd سے، جو پیشہ ور نہیں تھے۔",
+            "ولیم کی فوج میں گھڑسوار (cavalry)، پیدل سپاہی اور تیر انداز تھے۔",
+            "آپ کس فوج کی قیادت کرنا پسند کریں گے؟"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "William lands unopposed",
@@ -832,8 +1436,156 @@ window.ASTRA_UNITS["hist-hastings"] = {
           "English soldiers chased them down the hill, and the wall broke.",
           "The fighting went on for hours.",
           "Then Harold was killed, and William had won."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "صفّ من الجنود دروعهم متشابكة معًا (shield wall)",
+            "جنود إضافيون يصلون أثناء المعركة (reinforcements)",
+            "أن تتراجع أو تفرّ من العدوّ (retreat)",
+            "يحسم النتيجة نهائيًا (decisive)",
+            "الوقت الذي يحلّ فيه الظلام (nightfall)"
+          ],
+          "passage": [
+            "في 14 أكتوبر 1066، التقى الجيشان قرب هيستينغز (Hastings).",
+            "كان رجال هارولد منهكين، ولم يكن عددهم سوى نحو 7,000.",
+            "وكان رجال وليام مستريحين ومستعدّين.",
+            "وضع هارولد جيشه على قمّة تلّ سينلاك (Senlac Hill).",
+            "شابك رجاله دروعهم معًا ليصنعوا جدار الدروع (shield wall).",
+            "كان رماة وليام وجنود مشاته وفرسانه في الأسفل.",
+            "وهم يهاجمون صاعدين التلّ، لم يستطيعوا أن يخترقوا الجدار.",
+            "ثم جرّب النورمان (Normans) خدعة.",
+            "تظاهر بعضهم بالفرار.",
+            "طاردهم جنود إنجليز إلى أسفل التلّ، فانكسر الجدار.",
+            "استمرّ القتال ساعات.",
+            "ثم قُتل هارولد، وكان وليام قد انتصر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "szereg żołnierzy z tarczami złączonymi ze sobą (shield wall, mur tarcz)",
+            "dodatkowi żołnierze, którzy przybywają w trakcie bitwy (reinforcements, posiłki)",
+            "cofnąć się lub uciec przed wrogiem (retreat, odwrót)",
+            "rozstrzygający wynik raz na zawsze (decisive)",
+            "pora, kiedy robi się ciemno (nightfall, zmrok)"
+          ],
+          "passage": [
+            "14 października 1066 roku dwie armie spotkały się niedaleko Hastings.",
+            "Ludzie Harolda byli wyczerpani i było ich tylko około 7,000.",
+            "Ludzie Williama byli wypoczęci i gotowi.",
+            "Harold ustawił swoją armię na szczycie wzgórza Senlac Hill.",
+            "Jego ludzie złączyli tarcze, tworząc mur tarcz (shield wall).",
+            "Łucznicy, piechota i kawaleria Williama byli na dole.",
+            "Szarżując pod górę, nie mogli przebić muru.",
+            "Wtedy Normanowie spróbowali sztuczki.",
+            "Niektórzy z nich udawali, że uciekają.",
+            "Angielscy żołnierze pogonili za nimi w dół wzgórza i mur się rozpadł.",
+            "Walka trwała godzinami.",
+            "Potem Harold zginął i William zwyciężył."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma linha de soldados com os escudos encostados uns aos outros (shield wall, muro de escudos)",
+            "soldados extra que chegam durante uma batalha (reinforcements, reforços)",
+            "recuar ou fugir do inimigo (retreat, retirar/retirada)",
+            "que decide o resultado de uma vez por todas (decisive, decisivo)",
+            "a hora em que escurece (nightfall, anoitecer)"
+          ],
+          "passage": [
+            "A 14 de outubro de 1066, os dois exércitos encontraram-se perto de Hastings.",
+            "Os homens de Harold estavam exaustos, e eram só cerca de 7 000.",
+            "Os homens de William estavam descansados e prontos.",
+            "Harold colocou o seu exército no topo da colina de Senlac (Senlac Hill).",
+            "Os seus homens encostaram os escudos uns aos outros e fizeram um muro de escudos (shield wall).",
+            "Os arqueiros, os soldados a pé e a cavalaria de William estavam em baixo.",
+            "Atacando colina acima, não conseguiam quebrar o muro.",
+            "Então os normandos tentaram um truque.",
+            "Alguns deles fingiram fugir.",
+            "Soldados ingleses perseguiram-nos colina abaixo, e o muro quebrou-se.",
+            "A luta continuou durante horas.",
+            "Depois Harold foi morto, e William tinha ganhado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "saf askar ah oo gaashaammadooda isku xiray (shield wall)",
+            "askar dheeraad ah oo yimaada inta dagaalku socdo (reinforcements)",
+            "dib u gurasho ama cadowga ka cararid (retreat)",
+            "natiijada si kama dambays ah u go'aamiya (decisive)",
+            "waqtiga ay madoobaato (nightfall)"
+          ],
+          "passage": [
+            "14 Oktoobar 1066, labadii ciidan Hastings agteeda ayay isku arkeen.",
+            "Raggii Harold aad ayay u daalanaayeen, qiyaastii 7,000 keliya ayayna ahaayeen.",
+            "Raggii William way nastay oo diyaar ayay ahaayeen.",
+            "Harold ciidankiisa wuxuu dhigay Senlac Hill dusheeda.",
+            "Raggiisu gaashaammadooda ayay isku xireen si ay u samaystaan shield wall.",
+            "Fallaar-tuurayaashii William, askartii lugaynaysay iyo cavalry-gii hoosta ayay joogeen.",
+            "Iyagoo buurta kor u weeraraya, darbiga ma jabin karin.",
+            "Markaas Normans-ku khiyaano ayay isku dayeen.",
+            "Qaarkood waxay iska dhigeen inay carareen.",
+            "Askartii Ingiriisku buurta hoos ayay u eryadeen, darbigiina wuu jabay.",
+            "Dagaalku saacado ayuu socday.",
+            "Markaas Harold waa la dilay, William-na wuu guulaystay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "ряд солдатів зі щитами, зімкнутими разом (shield wall)",
+            "додаткові солдати, які прибувають під час битви (reinforcements)",
+            "відійти назад або втекти від ворога (retreat)",
+            "той, що вирішує результат раз і назавжди (decisive)",
+            "час, коли темніє (nightfall)"
+          ],
+          "passage": [
+            "14 жовтня 1066 року дві армії зустрілися біля Гастінгса (Hastings).",
+            "Люди Гарольда були виснажені, і їх було лише близько 7,000.",
+            "Люди Вільгельма відпочили і були готові.",
+            "Гарольд поставив свою армію на вершині пагорба Сенлак (Senlac Hill).",
+            "Його люди зімкнули щити і утворили стіну щитів (shield wall).",
+            "Лучники, піхота і кіннота Вільгельма були внизу.",
+            "Атакуючи вгору по схилу, вони не могли прорвати стіну.",
+            "Тоді нормани спробували хитрість.",
+            "Деякі з них зробили вигляд, що тікають.",
+            "Англійські солдати погналися за ними вниз по схилу, і стіна розірвалася.",
+            "Бій тривав годинами.",
+            "Потім Гарольда вбили, і Вільгельм переміг."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سپاہیوں کی ایک قطار جن کی ڈھالیں ایک دوسرے سے جڑی ہوں (shield wall)",
+            "اضافی سپاہی جو جنگ کے دوران پہنچتے ہیں (reinforcements)",
+            "دشمن سے پیچھے ہٹنا یا بھاگ جانا (retreat)",
+            "جو نتیجہ ہمیشہ کے لیے طے کر دے (decisive)",
+            "وہ وقت جب اندھیرا ہو جاتا ہے (nightfall)"
+          ],
+          "passage": [
+            "14 اکتوبر 1066 کو دونوں فوجیں ہیسٹنگز (Hastings) کے قریب آمنے سامنے ہوئیں۔",
+            "ہیرلڈ کے آدمی تھک کر چور تھے، اور وہ صرف تقریباً 7,000 تھے۔",
+            "ولیم کے آدمی تازہ دم اور تیار تھے۔",
+            "ہیرلڈ نے اپنی فوج سینلک پہاڑی (Senlac Hill) کی چوٹی پر رکھی۔",
+            "اس کے آدمیوں نے اپنی ڈھالیں جوڑ کر ایک shield wall بنا لی۔",
+            "ولیم کے تیر انداز، پیدل سپاہی اور گھڑسوار نیچے تھے۔",
+            "اوپر کی طرف چڑھ کر حملہ کرتے ہوئے وہ دیوار کو توڑ نہ سکے۔",
+            "پھر نارمنوں (Normans) نے ایک چال چلی۔",
+            "ان میں سے کچھ نے بھاگنے کا ڈرامہ کیا۔",
+            "انگریز سپاہی ان کے پیچھے پہاڑی سے نیچے دوڑے، اور دیوار ٹوٹ گئی۔",
+            "لڑائی گھنٹوں جاری رہی۔",
+            "پھر ہیرلڈ مارا گیا، اور ولیم جیت گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The two sides line up",
@@ -1020,8 +1772,162 @@ window.ASTRA_UNITS["hist-hastings"] = {
           "Harold's tired, mostly untrained army was his.",
           "Your job is to decide which factor mattered most.",
           "Then you can answer the big question: was William just lucky?"
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "سبب حدوث شيء ما (cause)",
+            "نوع من الأسباب، مثل الحظّ أو التكتيكات (factor)",
+            "شيء يحدث بالمصادفة ولا يمكن التحكّم فيه (luck)",
+            "الطريقة التي ينظّم بها القائد جيشه في المعركة (tactics)",
+            "أن توازن بين الأمور وتقرّر أيّها أهمّ (evaluate)"
+          ],
+          "passage": [
+            "الآن نعرف ما حدث في هيستينغز.",
+            "السؤال الأصعب هو لماذا انتصر وليام.",
+            "في التاريخ، تُسمّى أسباب حدوث شيء ما العِلل أو الأسباب (causes).",
+            "يمكن أن يكون السبب أيّ شيء ساعد وليام قبل المعركة أو أثناءها.",
+            "ويمكن أن يكون أيضًا أيّ شيء سار على نحو سيّء لهارولد.",
+            "يصنّف المؤرّخون الأسباب في مجموعات تُسمّى العوامل (factors).",
+            "في معركة هيستينغز نستخدم أربعة: الحظّ، والتكتيكات، واستعدادات وليام، واستعدادات هارولد.",
+            "تغيّر الرياح كان حظًّا.",
+            "والفرار المزيّف كان تكتيكًا.",
+            "وجيش وليام المدرَّب الذي يتقاضى أجرًا كان استعداده.",
+            "وجيش هارولد المتعب غير المدرَّب في أكثره كان استعداده.",
+            "مهمّتك أن تقرّر أيّ العوامل كان الأهمّ.",
+            "وعندئذٍ تستطيع أن تجيب عن السؤال الكبير: هل كان وليام محظوظًا فقط؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "powód, dla którego coś się wydarzyło (cause, przyczyna)",
+            "rodzaj przyczyny, na przykład szczęście albo taktyka (factor, czynnik)",
+            "coś, co zdarza się przypadkiem i nad czym nie da się zapanować (luck, szczęście)",
+            "sposób, w jaki dowódca organizuje swoją armię w bitwie (tactics, taktyka)",
+            "rozważyć różne rzeczy i zdecydować, która ma największe znaczenie (evaluate)"
+          ],
+          "passage": [
+            "Teraz wiemy, co się stało pod Hastings.",
+            "Trudniejsze pytanie brzmi: dlaczego William wygrał?",
+            "W historii powody, dla których coś się dzieje, nazywamy przyczynami (causes).",
+            "Przyczyną mogło być wszystko, co pomogło Williamowi przed bitwą lub w jej trakcie.",
+            "Mogło też być wszystko, co poszło źle dla Harolda.",
+            "Historycy dzielą przyczyny na grupy zwane czynnikami (factors).",
+            "Dla Hastings używamy czterech: szczęście, taktyka, przygotowania Williama i przygotowania Harolda.",
+            "Zmiana wiatru to było szczęście.",
+            "Udawany odwrót to była taktyka.",
+            "Wyszkolona, opłacana armia Williama to było jego przygotowanie.",
+            "Zmęczona, w większości niewyszkolona armia Harolda to było jego.",
+            "Twoim zadaniem jest zdecydować, który czynnik miał największe znaczenie.",
+            "Wtedy możesz odpowiedzieć na wielkie pytanie: czy William po prostu miał szczęście?"
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um motivo pelo qual algo aconteceu (cause, causa)",
+            "um tipo de causa, como a sorte ou a tática (factor, fator)",
+            "algo que acontece por acaso e não se pode controlar (luck, sorte)",
+            "a maneira como um líder organiza o seu exército numa batalha (tactics, tática)",
+            "pesar as coisas e decidir qual importa mais (evaluate, avaliar)"
+          ],
+          "passage": [
+            "Agora sabemos o que aconteceu em Hastings.",
+            "A pergunta mais difícil é porquê/por que William ganhou.",
+            "Em história, os motivos pelos quais algo acontece chamam-se causas (causes).",
+            "Uma causa pode ser qualquer coisa que ajudou William antes ou durante a batalha.",
+            "Também pode ser qualquer coisa que correu mal para Harold.",
+            "Os historiadores agrupam as causas em grupos chamados fatores (factors).",
+            "Para Hastings usamos quatro: sorte, tática, os preparativos de William e os preparativos de Harold.",
+            "A mudança do vento foi sorte.",
+            "A falsa retirada foi uma tática.",
+            "O exército treinado e pago de William foi a sua preparação.",
+            "O exército cansado e quase todo sem treino de Harold foi a dele.",
+            "O seu trabalho é decidir qual fator importou mais.",
+            "Depois pode responder à grande pergunta: William teve só sorte?"
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sabab wax u dhaceen (cause)",
+            "nooc sabab, sida nasiib ama xeelad (factor)",
+            "wax nasiib ku dhaca oo aan la xakamayn karin (luck)",
+            "sida hoggaamiye ciidankiisa u habeeyo dagaal (tactics)",
+            "wax miisaamid oo go'aaminta waxa ugu muhiimsan (evaluate)"
+          ],
+          "passage": [
+            "Hadda waan ognahay waxa Hastings ka dhacay.",
+            "Su'aasha ka adag waa sababta William u guulaystay.",
+            "Taariikhda, sababaha wax u dhacaan waxaa la yiraahdaa causes.",
+            "Cause wuxuu noqon karaa wax kasta oo William caawiyay dagaalka ka hor ama inta uu socday.",
+            "Wuxuu kaloo noqon karaa wax kasta oo Harold u xumaaday.",
+            "Taariikhyahannadu causes-ka waxay u kala saaraan kooxo la yiraahdo factors.",
+            "Hastings waxaan u isticmaalnaa afar: nasiib, xeelad (tactics), diyaargarowga William iyo diyaargarowga Harold.",
+            "Dabayshii is beddeshay nasiib ayay ahayd.",
+            "Dib-u-gurashadii beenta ahayd xeelad ayay ahayd.",
+            "Ciidankii William oo la tababaray oo la mushaharay diyaargarowgiisii ayuu ahaa.",
+            "Ciidankii Harold oo daallan oo inta badan aan la tababarin kiisii ayuu ahaa.",
+            "Shaqadaadu waa inaad go'aamiso factor-ka ugu muhiimsan.",
+            "Markaas waad ka jawaabi kartaa su'aasha weyn: William nasiib keliya ma lahaa?"
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "причина, чому щось сталося (cause)",
+            "тип причини, наприклад удача або тактика (factor)",
+            "те, що стається випадково і чого не можна контролювати (luck)",
+            "те, як командир організовує свою армію в битві (tactics)",
+            "зважити все і вирішити, що важить найбільше (evaluate)"
+          ],
+          "passage": [
+            "Тепер ми знаємо, що сталося біля Гастінгса.",
+            "Складніше питання — чому переміг Вільгельм.",
+            "В історії причини, через які щось стається, називаються causes.",
+            "Причиною може бути все, що допомогло Вільгельму до битви або під час неї.",
+            "Також це може бути все, що пішло погано для Гарольда.",
+            "Історики сортують причини на групи, які називаються факторами (factors).",
+            "Для Гастінгса ми використовуємо чотири: удача, тактика, підготовка Вільгельма і підготовка Гарольда.",
+            "Зміна вітру була удачею.",
+            "Удаваний відступ був тактикою.",
+            "Навчена, оплачувана армія Вільгельма була його підготовкою.",
+            "Втомлена, здебільшого ненавчена армія Гарольда була його підготовкою.",
+            "Ваше завдання — вирішити, який фактор важив найбільше.",
+            "Тоді ви зможете відповісти на головне питання: чи Вільгельму просто пощастило?"
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کوئی وجہ کہ کچھ کیوں ہوا (cause)",
+            "وجہ کی ایک قسم، جیسے قسمت یا جنگی چالیں (factor)",
+            "کوئی چیز جو اتفاق سے ہو اور جس پر قابو نہ پایا جا سکے (luck)",
+            "وہ طریقہ جس سے کوئی سردار جنگ میں اپنی فوج کو ترتیب دیتا ہے (tactics)",
+            "چیزوں کو تول کر فیصلہ کرنا کہ کون سی سب سے زیادہ اہم ہے (evaluate)"
+          ],
+          "passage": [
+            "اب ہم جانتے ہیں کہ ہیسٹنگز میں کیا ہوا۔",
+            "زیادہ مشکل سوال یہ ہے کہ ولیم کیوں جیتا۔",
+            "تاریخ میں، کسی چیز کے ہونے کی وجوہات کو causes کہتے ہیں۔",
+            "cause کوئی بھی ایسی چیز ہو سکتی ہے جس نے جنگ سے پہلے یا جنگ کے دوران ولیم کی مدد کی۔",
+            "یہ کوئی بھی ایسی چیز بھی ہو سکتی ہے جو ہیرلڈ کے لیے بُری ثابت ہوئی۔",
+            "مورخ causes کو گروہوں میں بانٹتے ہیں جنھیں factors کہتے ہیں۔",
+            "ہیسٹنگز کے لیے ہم چار استعمال کرتے ہیں: قسمت، جنگی چالیں، ولیم کی تیاریاں اور ہیرلڈ کی تیاریاں۔",
+            "ہوا کا بدلنا قسمت (luck) تھی۔",
+            "جھوٹی پسپائی ایک جنگی چال (tactic) تھی۔",
+            "ولیم کی تربیت یافتہ، تنخواہ دار فوج اس کی تیاری تھی۔",
+            "ہیرلڈ کی تھکی ہوئی، زیادہ تر غیر تربیت یافتہ فوج اس کی تیاری تھی۔",
+            "آپ کا کام یہ فیصلہ کرنا ہے کہ کون سا factor سب سے زیادہ اہم تھا۔",
+            "پھر آپ بڑے سوال کا جواب دے سکتے ہیں: کیا ولیم بس خوش قسمت تھا؟"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Causes and factors",

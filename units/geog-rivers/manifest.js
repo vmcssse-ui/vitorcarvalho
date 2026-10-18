@@ -106,8 +106,162 @@ window.ASTRA_UNITS["geog-rivers"] = {
           "This is precipitation.",
           "Some water soaks into the ground, and some runs over the surface into rivers.",
           "The rivers carry the water back to the sea, and the cycle starts again."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عندما تسخّن الشمس الماء فيتحوّل إلى بخار ماء (evaporation)",
+            "عندما يبرد بخار الماء ويعود قطرات صغيرة جدًا (condensation)",
+            "ماء يسقط من الغيوم على شكل مطر أو بَرَد أو مطر ثلجي أو ثلج (precipitation)",
+            "عندما تُخرج النباتات بخار الماء من أوراقها (transpiration)",
+            "ماء يجري فوق سطح الأرض نحو النهر (surface run-off)"
+          ],
+          "passage": [
+            "الماء لا يبقى ساكنًا أبدًا.",
+            "إنه يتحرّك دورةً بعد دورة في دورة الماء (water cycle).",
+            "تسخّن الشمس الماء في البحر وفي البحيرات وفي الأنهار.",
+            "يتحوّل الماء إلى بخار ماء ويرتفع في الهواء.",
+            "يُسمّى هذا التبخّر (evaporation).",
+            "النباتات أيضًا تُخرج بخار الماء من أوراقها.",
+            "يُسمّى هذا النتح (transpiration).",
+            "عاليًا في السماء يكون الهواء باردًا، فيتحوّل البخار إلى قطرات صغيرة جدًا.",
+            "هذا هو التكاثف (condensation)، وهو الذي يصنع الغيوم.",
+            "تتجمّع القطرات وتثقل وتسقط على شكل مطر أو بَرَد أو مطر ثلجي أو ثلج.",
+            "هذا هو الهطول (precipitation).",
+            "بعض الماء يتسرّب إلى داخل الأرض، وبعضه يجري فوق السطح إلى الأنهار.",
+            "تحمل الأنهار الماء عائدةً به إلى البحر، وتبدأ الدورة من جديد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kiedy słońce ogrzewa wodę i zamienia się ona w parę wodną (evaporation)",
+            "kiedy para wodna stygnie i zamienia się z powrotem w maleńkie kropelki (condensation)",
+            "woda spadająca z chmur jako deszcz, grad, deszcz ze śniegiem lub śnieg (precipitation)",
+            "kiedy rośliny oddają parę wodną przez swoje liście (transpiration)",
+            "woda płynąca po powierzchni ziemi w stronę rzeki (surface run-off)"
+          ],
+          "passage": [
+            "Woda nigdy nie stoi w miejscu.",
+            "Krąży w kółko w obiegu wody (water cycle).",
+            "Słońce ogrzewa wodę w morzu, w jeziorach i w rzekach.",
+            "Woda zamienia się w parę wodną i unosi się w powietrze.",
+            "To nazywamy parowaniem (evaporation).",
+            "Rośliny też oddają parę wodną, przez swoje liście.",
+            "To nazywamy transpiracją (transpiration).",
+            "Wysoko na niebie powietrze jest zimne, więc para zamienia się w maleńkie kropelki.",
+            "To jest kondensacja (condensation) i tak powstają chmury.",
+            "Kropelki łączą się, stają się ciężkie i spadają jako deszcz, grad, deszcz ze śniegiem lub śnieg.",
+            "To są opady (precipitation).",
+            "Część wody wsiąka w ziemię, a część spływa po powierzchni do rzek.",
+            "Rzeki niosą wodę z powrotem do morza i obieg zaczyna się od nowa."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "quando o sol aquece a água e ela se transforma em vapor de água (evaporation, evaporação)",
+            "quando o vapor de água arrefece/esfria e volta a transformar-se em gotinhas minúsculas (condensation, condensação)",
+            "água que cai das nuvens como chuva, granizo, chuva com neve ou neve (precipitation, precipitação)",
+            "quando as plantas libertam/liberam vapor de água pelas folhas (transpiration, transpiração)",
+            "água que escorre sobre o solo em direção a um rio (surface run-off, escoamento superficial)"
+          ],
+          "passage": [
+            "A água nunca fica parada.",
+            "Ela anda às voltas, sem parar, no ciclo da água.",
+            "O sol aquece a água no mar, nos lagos e nos rios.",
+            "A água transforma-se em vapor de água e sobe para o ar.",
+            "A isto chama-se evaporação (evaporation).",
+            "As plantas também libertam/liberam vapor de água, pelas folhas.",
+            "A isto chama-se transpiração (transpiration).",
+            "Lá no alto do céu o ar é frio, por isso o vapor transforma-se em gotinhas minúsculas.",
+            "Isto é a condensação (condensation), e é assim que se formam as nuvens.",
+            "As gotinhas juntam-se, ficam pesadas e caem como chuva, granizo, chuva com neve ou neve.",
+            "Isto é a precipitação (precipitation).",
+            "Parte da água infiltra-se no solo, e parte escorre pela superfície até aos rios.",
+            "Os rios levam a água de volta ao mar, e o ciclo começa outra vez."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "marka qorraxdu biyaha kululayso oo ay uumi biyo isu beddelaan (evaporation)",
+            "marka uumiga biyuhu qaboobo oo uu dib ugu noqdo dhibco yaryar (condensation)",
+            "biyo daruuraha ka soo dhacaya sida roob, roob-dhagax, baraf-roob ama baraf (precipitation)",
+            "marka dhirtu uumi biyo ka sii daayaan caleemahooda (transpiration)",
+            "biyo dusha dhulka kor ku socda oo webi u socda (surface run-off)"
+          ],
+          "passage": [
+            "Biyuhu weligood meel ma fariistaan.",
+            "Waxay wareeg-wareeg ku socdaan wareegga biyaha (water cycle).",
+            "Qorraxdu waxay kululaysaa biyaha badda, harooyinka iyo webiyada.",
+            "Biyuhu waxay isu beddelaan uumi biyo oo hawada kor ugu baxaan.",
+            "Tan waxaa la yiraahdaa evaporation.",
+            "Dhirtuna uumi biyo waa sii daayaan, caleemahooda ayuu ka baxaa.",
+            "Tan waxaa la yiraahdaa transpiration.",
+            "Cirka meel sare hawadu way qabow tahay, sidaas darteed uumigu wuxuu isu beddelaa dhibco yaryar.",
+            "Tani waa condensation, waxayna samaysaa daruuro.",
+            "Dhibcuhu way isku biiraan, way culus noqdaan oo waxay u soo dhacaan roob, roob-dhagax, baraf-roob ama baraf.",
+            "Tan waxaa la yiraahdaa precipitation.",
+            "Biyaha qaarkood dhulka ayay dhex galaan, qaarna dusha dhulka ayay ku ordaan oo webiyada galaan.",
+            "Webiyadu biyaha dib ayay badda ugu celiyaan, wareegguna mar kale ayuu bilaabmaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "коли сонце нагріває воду і вона перетворюється на водяну пару (evaporation)",
+            "коли водяна пара охолоджується і знову перетворюється на крихітні крапельки (condensation)",
+            "вода, що падає з хмар як дощ, град, мокрий сніг або сніг (precipitation)",
+            "коли рослини виділяють водяну пару зі своїх листків (transpiration)",
+            "вода, що тече по поверхні землі до річки (surface run-off)"
+          ],
+          "passage": [
+            "Вода ніколи не стоїть на місці.",
+            "Вона рухається по колу у кругообігу води (water cycle).",
+            "Сонце нагріває воду в морі, в озерах і в річках.",
+            "Вода перетворюється на водяну пару і піднімається в повітря.",
+            "Це називається випаровуванням (evaporation).",
+            "Рослини теж виділяють водяну пару — зі своїх листків.",
+            "Це називається транспірацією (transpiration).",
+            "Високо в небі повітря холодне, тому пара перетворюється на крихітні крапельки.",
+            "Це конденсація (condensation), і вона утворює хмари.",
+            "Крапельки з’єднуються, важчають і падають як дощ, град, мокрий сніг або сніг.",
+            "Це опади (precipitation).",
+            "Частина води просочується в землю, а частина стікає по поверхні в річки.",
+            "Річки несуть воду назад до моря, і кругообіг починається знову."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جب سورج پانی کو گرم کرتا ہے اور وہ آبی بخارات بن جاتا ہے (evaporation)",
+            "جب آبی بخارات ٹھنڈے ہو کر دوبارہ ننھی بوندوں میں بدل جاتے ہیں (condensation)",
+            "بادلوں سے گرنے والا پانی: بارش، ژالہ، برفیلی بارش یا برف (precipitation)",
+            "جب پودے اپنے پتوں سے آبی بخارات خارج کرتے ہیں (transpiration)",
+            "زمین کی سطح پر بہتا ہوا پانی جو دریا کی طرف جاتا ہے (surface run-off)"
+          ],
+          "passage": [
+            "پانی کبھی ایک جگہ ٹھہرا نہیں رہتا۔",
+            "یہ آبی چکر (water cycle) میں گھومتا ہی رہتا ہے۔",
+            "سورج سمندر، جھیلوں اور دریاؤں کے پانی کو گرم کرتا ہے۔",
+            "پانی آبی بخارات بن کر ہوا میں اوپر اٹھتا ہے۔",
+            "اسے بخارات بننا (evaporation) کہتے ہیں۔",
+            "پودے بھی اپنے پتوں سے آبی بخارات خارج کرتے ہیں۔",
+            "اسے transpiration کہتے ہیں۔",
+            "آسمان میں بہت اوپر ہوا ٹھنڈی ہوتی ہے، اس لیے بخارات ننھی بوندوں میں بدل جاتے ہیں۔",
+            "یہ condensation ہے، اور اس سے بادل بنتے ہیں۔",
+            "بوندیں آپس میں مل کر بھاری ہو جاتی ہیں اور بارش، ژالہ، برفیلی بارش یا برف کی صورت میں گرتی ہیں۔",
+            "اسے precipitation کہتے ہیں۔",
+            "کچھ پانی زمین میں جذب ہو جاتا ہے، اور کچھ سطح پر بہہ کر دریاؤں میں چلا جاتا ہے۔",
+            "دریا پانی کو واپس سمندر تک لے جاتے ہیں، اور چکر دوبارہ شروع ہو جاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where does the water in a river come from?",
@@ -305,8 +459,162 @@ window.ASTRA_UNITS["geog-rivers"] = {
           "At last it reaches the sea at its mouth.",
           "The Nile, the Amazon and the Yangtze are the three longest rivers in the world.",
           "People fish in rivers, farm beside them, travel on them and pray in them."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مساحة الأرض التي يجري ماؤها إلى نهر واحد (drainage basin)",
+            "المكان الذي يبدأ منه النهر (source)",
+            "نهر أصغر يلتحق بنهر أكبر (tributary)",
+            "النقطة التي يلتقي فيها نهران (confluence)",
+            "المكان الذي يصبّ فيه النهر في البحر (mouth)",
+            "الأرض المرتفعة حول حافّة حوض التصريف (watershed)"
+          ],
+          "passage": [
+            "لكلّ نهر مساحة من الأرض خاصّة به تغذّيه بالماء.",
+            "تُسمّى هذه المساحة حوض التصريف (drainage basin).",
+            "المطر الذي يسقط داخل الحوض يجري إلى ذلك النهر.",
+            "حافّة الحوض أرض مرتفعة تُسمّى خطّ تقسيم المياه (watershed).",
+            "يبدأ النهر من منبعه (source)، وغالبًا ما يكون نبعًا أو مستنقعًا في التلال.",
+            "تلتحق به جداول صغيرة في طريقه إلى الأسفل.",
+            "النهر الصغير الذي يلتحق بنهر أكبر يُسمّى رافدًا (tributary).",
+            "المكان الذي يلتقيان فيه يُسمّى ملتقى (confluence).",
+            "يجري النهر في مجرى، له قاع من الأسفل وضفّة على كلّ جانب.",
+            "وفي النهاية يصل إلى البحر عند مصبّه (mouth).",
+            "النيل والأمازون واليانغتسي هي أطول ثلاثة أنهار في العالم.",
+            "يصطاد الناس السمك في الأنهار، ويزرعون بجانبها، ويسافرون عليها، ويصلّون فيها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "obszar lądu, z którego woda spływa do jednej rzeki (drainage basin)",
+            "miejsce, gdzie rzeka się zaczyna (source)",
+            "mniejsza rzeka, która wpada do większej (tributary)",
+            "miejsce, gdzie dwie rzeki się łączą (confluence)",
+            "miejsce, gdzie rzeka wpada do morza (mouth)",
+            "wysoki teren wokół krawędzi dorzecza (watershed)"
+          ],
+          "passage": [
+            "Każda rzeka ma swój własny obszar lądu, który ją zasila.",
+            "Ten obszar nazywamy dorzeczem (drainage basin).",
+            "Deszcz, który spada w obrębie dorzecza, spływa do tej rzeki.",
+            "Krawędź dorzecza to wysoki teren zwany wododziałem (watershed).",
+            "Rzeka zaczyna się u źródła (source), często jest to źródełko albo bagno na wzgórzach.",
+            "Po drodze w dół wpadają do niej małe strumienie.",
+            "Mała rzeka, która wpada do większej, to dopływ (tributary).",
+            "Miejsce, gdzie się spotykają, to zbieg rzek (confluence).",
+            "Rzeka płynie w korycie (channel), z dnem na dole i brzegami po obu stronach.",
+            "W końcu dociera do morza przy swoim ujściu (mouth).",
+            "Nil, Amazonka i Jangcy to trzy najdłuższe rzeki świata.",
+            "Ludzie łowią w rzekach ryby, uprawiają przy nich ziemię, podróżują po nich i modlą się w nich."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a área de terra onde a água escorre para um só rio (drainage basin, bacia hidrográfica)",
+            "o lugar onde um rio começa (source, nascente)",
+            "um rio mais pequeno/menor que se junta a um maior (tributary, afluente)",
+            "o ponto onde dois rios se encontram (confluence, confluência)",
+            "o lugar onde um rio desagua/deságua no mar (mouth, foz)",
+            "as terras altas à volta/ao redor de uma bacia hidrográfica (watershed, linha divisória de águas)"
+          ],
+          "passage": [
+            "Cada rio tem a sua própria área de terra que o alimenta.",
+            "Essa área chama-se bacia hidrográfica (drainage basin).",
+            "A chuva que cai dentro da bacia escorre para esse rio.",
+            "A borda da bacia é uma zona de terras altas chamada linha divisória de águas (watershed).",
+            "Um rio começa na sua nascente (source), muitas vezes uma fonte ou um pântano nas colinas.",
+            "Pequenos ribeiros/riachos juntam-se a ele pelo caminho.",
+            "Um rio pequeno que se junta a um maior é um afluente (tributary).",
+            "O lugar onde eles se encontram é uma confluência (confluence).",
+            "O rio corre num canal, com um leito por baixo e margens de cada lado.",
+            "Por fim, chega ao mar na sua foz (mouth).",
+            "O Nilo, o Amazonas e o Yangtzé (Yangtze) são os três rios mais longos do mundo.",
+            "As pessoas pescam nos rios, cultivam a terra ao lado deles, viajam por eles e rezam neles."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "aagga dhulka oo biyihiisu hal webi galaan (drainage basin)",
+            "meesha webi ka bilaabmo (source)",
+            "webi ka yar oo ku biira webi ka weyn (tributary)",
+            "barta laba webi ku kulmaan (confluence)",
+            "meesha webi badda ku shubmo (mouth)",
+            "dhulka sare ee ku wareegsan cidhifka drainage basin-ka (watershed)"
+          ],
+          "passage": [
+            "Webi kastaa wuxuu leeyahay aag dhul oo u gaar ah oo biyo siiya.",
+            "Aaggan waxaa la yiraahdaa drainage basin.",
+            "Roobka ku da'a gudaha basin-ka wuxuu u qulqulaa webigaas.",
+            "Cidhifka basin-ka waa dhul sare oo la yiraahdo watershed.",
+            "Webi wuxuu ka bilaabmaa isha (source), inta badan il biyood ama dhul qoyan oo buuraha ku yaal.",
+            "Togag yaryar ayaa ku biira intuu hoos u socdo.",
+            "Webi yar oo ku biira webi ka weyn waa tributary.",
+            "Meesha ay ku kulmaan waa confluence.",
+            "Webigu wuxuu ku socdaa marin (channel), hoos ka leh sariir (bed) iyo daraf (banks) dhinac walba ka ah.",
+            "Ugu dambayn wuxuu badda ku gaaraa afkiisa (mouth).",
+            "Niil, Amazon iyo Yangtze waa saddexda webi ee ugu dheer adduunka.",
+            "Dadku webiyada ayay kalluun ka qabtaan, agtooda ayay beeraan, dushooda ayay ku safraan, dhexdoodana ayay ku tukadaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "ділянка землі, з якої вода стікає в одну річку (drainage basin)",
+            "місце, де річка починається (source)",
+            "менша річка, що впадає в більшу (tributary)",
+            "точка, де зустрічаються дві річки (confluence)",
+            "місце, де річка впадає в море (mouth)",
+            "підвищена земля по краю річкового басейну (watershed)"
+          ],
+          "passage": [
+            "Кожна річка має свою ділянку землі, яка її живить.",
+            "Ця ділянка називається річковим басейном (drainage basin).",
+            "Дощ, що падає всередині басейну, стікає в цю річку.",
+            "Край басейну — це підвищена земля, яку називають вододілом (watershed).",
+            "Річка починається біля свого витоку (source), часто це джерело або болото в горах.",
+            "Дорогою вниз до неї приєднуються малі струмки.",
+            "Мала річка, що впадає в більшу, — це притока (tributary).",
+            "Місце, де вони зустрічаються, — це злиття (confluence).",
+            "Річка тече в руслі (channel): унизу дно, а з кожного боку береги.",
+            "Нарешті вона досягає моря біля свого гирла (mouth).",
+            "Ніл, Амазонка та Янцзи — три найдовші річки у світі.",
+            "Люди ловлять у річках рибу, обробляють землю біля них, подорожують ними і моляться в них."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کا وہ علاقہ جہاں سے پانی بہہ کر ایک دریا میں جاتا ہے (drainage basin)",
+            "جہاں سے دریا شروع ہوتا ہے (source)",
+            "ایک چھوٹا دریا جو بڑے دریا میں مل جاتا ہے (tributary)",
+            "وہ جگہ جہاں دو دریا آپس میں ملتے ہیں (confluence)",
+            "جہاں دریا سمندر میں گرتا ہے (mouth)",
+            "drainage basin کے کنارے کی اونچی زمین (watershed)"
+          ],
+          "passage": [
+            "ہر دریا کا اپنا زمین کا ایک علاقہ ہوتا ہے جو اسے پانی دیتا ہے۔",
+            "اس علاقے کو drainage basin کہتے ہیں۔",
+            "جو بارش basin کے اندر گرتی ہے وہ بہہ کر اسی دریا میں جاتی ہے۔",
+            "basin کے کنارے کی اونچی زمین کو watershed کہتے ہیں۔",
+            "دریا اپنے منبع (source) سے شروع ہوتا ہے، جو اکثر پہاڑیوں میں کوئی چشمہ یا دلدل ہوتی ہے۔",
+            "نیچے آتے ہوئے چھوٹی چھوٹی ندیاں اس میں مل جاتی ہیں۔",
+            "ایک چھوٹا دریا جو بڑے دریا میں مل جائے، معاون دریا (tributary) کہلاتا ہے۔",
+            "جہاں وہ آپس میں ملتے ہیں، وہ جگہ confluence ہے۔",
+            "دریا ایک نالی (channel) میں بہتا ہے، جس کے نیچے تلا اور دونوں طرف کنارے ہوتے ہیں۔",
+            "آخر میں یہ اپنے دہانے (mouth) پر سمندر تک پہنچ جاتا ہے۔",
+            "نیل (Nile)، ایمیزون (Amazon) اور یانگسی (Yangtze) دنیا کے تین سب سے لمبے دریا ہیں۔",
+            "لوگ دریاؤں میں مچھلی پکڑتے ہیں، ان کے کنارے کھیتی کرتے ہیں، ان پر سفر کرتے ہیں اور ان میں عبادت کرتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is a drainage basin?",
@@ -503,8 +811,156 @@ window.ASTRA_UNITS["geog-rivers"] = {
           "Then it drops its load.",
           "This is called deposition.",
           "Erosion, transportation, deposition: a river is always at work."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تآكل الأرض وحمل موادّها (erosion)",
+            "حمل الموادّ مع مجرى النهر (transportation)",
+            "إلقاء الموادّ التي كان النهر يحملها (deposition)",
+            "كلّ الموادّ التي يحملها النهر (load)",
+            "قوّة الماء نفسها وهي تضرب الضفاف والقاع (hydraulic action)"
+          ],
+          "passage": [
+            "منبع النهر في التلال، حيث يسقط أكثر المطر.",
+            "قرب المنبع يكون النهر صغيرًا وسريعًا، وغالبًا ما يكون فيه شلّال.",
+            "وكلّما جرى في اتّجاه المصبّ صار أعرض وأعمق.",
+            "وذلك لأنّ النهر يُؤكّل الأرض.",
+            "التعرية (erosion) تعني تآكل الأرض وحمل موادّها.",
+            "يُؤكّل النهر الأرض بأربع طرق: الفعل الهيدروليكي (hydraulic action)، والبَري (abrasion)، والتحاتّ (attrition)، والإذابة (solution).",
+            "الموادّ التي يحملها النهر تُسمّى حِمله (load).",
+            "يحمل النهر حِمله بأربع طرق: الجرّ (traction)، والوثب (saltation)، والتعليق (suspension)، والإذابة (solution).",
+            "عندما يبطئ النهر يفقد طاقته.",
+            "وعندئذٍ يُلقي حِمله.",
+            "يُسمّى هذا الترسيب (deposition).",
+            "تعرية، ونقل، وترسيب: النهر يعمل دائمًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ścieranie lądu i podrywanie materiału (erosion)",
+            "niesienie materiału wzdłuż rzeki (transportation)",
+            "upuszczanie materiału, który rzeka niosła (deposition)",
+            "cały materiał, który niesie rzeka (load)",
+            "sama siła wody uderzającej w brzegi i dno (hydraulic action)"
+          ],
+          "passage": [
+            "Rzeka ma swoje źródło na wzgórzach, gdzie pada najwięcej deszczu.",
+            "Blisko źródła jest mała, szybka i często ma wodospad.",
+            "Płynąc w dół, staje się coraz szersza i głębsza.",
+            "Dzieje się tak, ponieważ rzeka niszczy ląd, czyli go eroduje.",
+            "Erozja (erosion) oznacza ścieranie i podrywanie materiału.",
+            "Rzeka eroduje na cztery sposoby: działanie hydrauliczne (hydraulic action), abrazja (abrasion), atrycja (attrition) i rozpuszczanie (solution).",
+            "Materiał, który niesie rzeka, nazywamy jej ładunkiem (load).",
+            "Rzeka niesie swój ładunek na cztery sposoby: trakcja (traction), saltacja (saltation), zawieszenie (suspension) i rozpuszczanie (solution).",
+            "Kiedy rzeka zwalnia, traci energię.",
+            "Wtedy upuszcza swój ładunek.",
+            "To nazywamy depozycją, czyli osadzaniem (deposition).",
+            "Erozja, transport, depozycja: rzeka zawsze pracuje."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "desgastar a terra e arrancar material (erosion, erosão)",
+            "levar o material ao longo do rio (transportation, transporte)",
+            "largar o material que o rio levava (deposition, deposição)",
+            "todo o material que um rio leva (load, carga)",
+            "a pura força da água a bater/batendo nas margens e no leito (hydraulic action, ação hidráulica)"
+          ],
+          "passage": [
+            "Um rio tem a sua nascente nas colinas, onde cai mais chuva.",
+            "Perto da nascente ele é pequeno, rápido e muitas vezes tem uma queda de água/cachoeira.",
+            "À medida que corre para jusante, vai ficando mais largo e mais fundo.",
+            "Isto acontece porque o rio erode a terra.",
+            "Erosão (erosion) quer dizer desgastar e arrancar material.",
+            "O rio erode de quatro maneiras: ação hidráulica (hydraulic action), abrasão (abrasion), atrito (attrition) e dissolução (solution).",
+            "O material que um rio leva chama-se a sua carga (load).",
+            "Um rio leva a sua carga de quatro maneiras: tração (traction), saltação (saltation), suspensão (suspension) e dissolução (solution).",
+            "Quando um rio abranda/desacelera, perde energia.",
+            "Então larga a sua carga.",
+            "A isto chama-se deposição (deposition).",
+            "Erosão, transporte, deposição: um rio está sempre a trabalhar/trabalhando."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "nabaad-guurka dhulka iyo qaadista waxyaabaha (erosion)",
+            "qaadista waxyaabaha oo webiga lala socdo (transportation)",
+            "dejinta waxyaabaha webigu siday (deposition)",
+            "dhammaan waxyaabaha webi sido (load)",
+            "xooggii biyaha oo daraafka iyo sariirta ku dhufta (hydraulic action)"
+          ],
+          "passage": [
+            "Webi ishiisa (source) buuraha ayay ku taal, halkaas oo roobka badankiisu ku da'o.",
+            "Isha agteeda wuxuu yar yahay, dhaqso badan yahay, inta badanna biyo-dhac (waterfall) leeyahay.",
+            "Markuu hoos u socdo wuxuu sii ballaadhaa oo sii qoto dheeraadaa.",
+            "Sababtu waxay tahay webigu dhulka ayuu nabaad-guuriyaa (erode).",
+            "Erosion macnaheedu waa nabaad-guur iyo qaadista waxyaabaha.",
+            "Webigu wuxuu ku nabaad-guuriyaa afar siyaabood: hydraulic action, abrasion, attrition iyo solution.",
+            "Waxyaabaha webigu sido waxaa la yiraahdaa load-kiisa.",
+            "Webi load-kiisa afar siyaabood ayuu u sidaa: traction, saltation, suspension iyo solution.",
+            "Marka webi gaabiyo tamar ayuu lumiyaa.",
+            "Markaas load-kiisa ayuu dejiyaa.",
+            "Tan waxaa la yiraahdaa deposition.",
+            "Erosion, transportation, deposition: webi mar walba shaqo ayuu ku jiraa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "руйнування землі та підхоплення матеріалу (erosion)",
+            "перенесення матеріалу вздовж річки (transportation)",
+            "скидання матеріалу, який річка несла (deposition)",
+            "увесь матеріал, який несе річка (load)",
+            "сама сила води, що б’є в береги та дно (hydraulic action)"
+          ],
+          "passage": [
+            "Витік річки лежить у горах, де випадає найбільше дощу.",
+            "Біля витоку річка мала, швидка і часто має водоспад.",
+            "Коли вона тече вниз за течією, то стає ширшою і глибшою.",
+            "Це тому, що річка руйнує землю.",
+            "Ерозія (erosion) означає руйнування землі та підхоплення матеріалу.",
+            "Річка руйнує чотирма способами: гідравлічна дія (hydraulic action), абразія (abrasion), стирання (attrition) і розчинення (solution).",
+            "Матеріал, який несе річка, називається її наносами (load).",
+            "Річка несе свої наноси чотирма способами: волочіння (traction), підскакування (saltation), у зваженому стані (suspension) і в розчині (solution).",
+            "Коли річка сповільнюється, вона втрачає енергію.",
+            "Тоді вона скидає свої наноси.",
+            "Це називається відкладанням (deposition).",
+            "Ерозія, перенесення, відкладання: річка завжди працює."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کو گھسانا اور مٹی پتھر اٹھا لینا (erosion)",
+            "مٹی اور پتھر کو دریا کے ساتھ لے جانا (transportation)",
+            "جو مٹی پتھر دریا لے جا رہا تھا، اسے گرا دینا (deposition)",
+            "وہ سارا مادہ جو دریا اپنے ساتھ لے جاتا ہے (load)",
+            "پانی کی خالص قوت جو کناروں اور تلے پر ٹکراتی ہے (hydraulic action)"
+          ],
+          "passage": [
+            "دریا کا منبع پہاڑیوں میں ہوتا ہے، جہاں سب سے زیادہ بارش ہوتی ہے۔",
+            "منبع کے قریب یہ چھوٹا اور تیز ہوتا ہے، اور اکثر اس میں کوئی آبشار ہوتی ہے۔",
+            "جیسے جیسے یہ نیچے کی طرف بہتا ہے، چوڑا اور گہرا ہوتا جاتا ہے۔",
+            "اس کی وجہ یہ ہے کہ دریا زمین کو گھساتا ہے۔",
+            "گھسائی (erosion) کا مطلب ہے زمین کو گھسانا اور مٹی پتھر اٹھا لینا۔",
+            "دریا چار طریقوں سے گھسائی کرتا ہے: hydraulic action، abrasion، attrition اور solution۔",
+            "جو مادہ دریا اپنے ساتھ لے جاتا ہے، اسے اس کا load کہتے ہیں۔",
+            "دریا اپنا load چار طریقوں سے لے جاتا ہے: traction، saltation، suspension اور solution۔",
+            "جب دریا کی رفتار کم ہوتی ہے تو اس کی توانائی کم ہو جاتی ہے۔",
+            "تب وہ اپنا load گرا دیتا ہے۔",
+            "اسے deposition کہتے ہیں۔",
+            "گھسائی، منتقلی، جمع کرنا: دریا ہر وقت کام میں لگا رہتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A river's journey",
@@ -708,8 +1164,162 @@ window.ASTRA_UNITS["geog-rivers"] = {
           "Each bend is a meander.",
           "Sometimes a meander is cut off from the river.",
           "It becomes a curved oxbow lake."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "منظر جانبي للنهر من المنبع إلى المصبّ (long profile)",
+            "وادٍ ضيّق شديد الانحدار في المجرى الأعلى (V-shaped valley)",
+            "البركة العميقة في أسفل الشلّال (plunge pool)",
+            "وادٍ ضيّق جوانبه شديدة الانحدار يتركه الشلّال وهو يتراجع (gorge)",
+            "انحناء كبير في النهر (meander)",
+            "بحيرة منحنية تبقى عندما يُقطع المنعطف عن النهر (oxbow lake)"
+          ],
+          "passage": [
+            "يمكن النظر إلى النهر بطريقتَين.",
+            "المقطع الطولي (long profile) منظر جانبي من المنبع إلى المصبّ.",
+            "يكون شديد الانحدار قرب المنبع ولطيف الانحدار قرب المصبّ.",
+            "المقطع العرضي (cross section) شريحة عبر الوادي.",
+            "في المجرى الأعلى يكون الوادي ضيّقًا وشديد الانحدار: وادٍ على شكل حرف V (V-shaped valley).",
+            "يتلوّى النهر بين أصابع من الأرض المرتفعة تُسمّى النتوءات المتشابكة (interlocking spurs).",
+            "حيث تقع صخور صلبة فوق صخور ليّنة، يتكوّن شلّال.",
+            "يتراجع الشلّال ببطء نحو أعلى المجرى ويترك خلفه خانقًا (gorge).",
+            "في المجرى الأوسط ينحني النهر من جانب إلى جانب.",
+            "كلّ انحناء يُسمّى منعطفًا (meander).",
+            "وأحيانًا يُقطع المنعطف عن النهر.",
+            "فيصبح بحيرة منحنية تُسمّى البحيرة الهلالية (oxbow lake)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "widok rzeki z boku, od źródła do ujścia (long profile)",
+            "stroma, wąska dolina w górnym biegu rzeki (V-shaped valley)",
+            "głębokie zagłębienie z wodą u podnóża wodospadu (plunge pool)",
+            "wąska dolina o stromych zboczach, pozostawiona przez cofający się wodospad (gorge)",
+            "duży zakręt rzeki (meander)",
+            "zakrzywione jezioro, które zostaje, gdy meander zostanie odcięty (oxbow lake)"
+          ],
+          "passage": [
+            "Na rzekę można patrzeć na dwa sposoby.",
+            "Profil podłużny (long profile) to widok z boku, od źródła do ujścia.",
+            "Jest stromy blisko źródła i łagodny blisko ujścia.",
+            "Przekrój poprzeczny (cross section) to przecięcie doliny w poprzek.",
+            "W górnym biegu dolina jest wąska i stroma: to dolina V-kształtna (V-shaped valley).",
+            "Rzeka wije się między wysuniętymi wzgórzami, zwanymi zazębiającymi się ostrogami (interlocking spurs).",
+            "Tam, gdzie twarda skała leży na miękkiej, powstaje wodospad.",
+            "Wodospad powoli cofa się w górę rzeki i zostawia za sobą wąwóz (gorge).",
+            "W środkowym biegu rzeka zakręca raz w jedną, raz w drugą stronę.",
+            "Każdy taki zakręt to meander.",
+            "Czasami meander zostaje odcięty od rzeki.",
+            "Staje się wtedy zakrzywionym starorzeczem (oxbow lake)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma vista de lado de um rio, da nascente até à foz (long profile, perfil longitudinal)",
+            "um vale estreito e íngreme no curso superior (V-shaped valley, vale em V)",
+            "a poça/o poço fundo ao pé de uma queda de água (plunge pool)",
+            "um vale estreito, de paredes íngremes, deixado por uma queda de água que recuou (gorge, garganta)",
+            "uma grande curva num rio (meander, meandro)",
+            "um lago curvo que fica quando um meandro é cortado do rio (oxbow lake, lago em ferradura)"
+          ],
+          "passage": [
+            "Podemos olhar para um rio de duas maneiras.",
+            "O perfil longitudinal (long profile) é uma vista de lado, da nascente até à foz.",
+            "É íngreme perto da nascente e suave perto da foz.",
+            "Um corte transversal (cross section) é uma fatia atravessando o vale.",
+            "No curso superior o vale é estreito e íngreme: um vale em V (V-shaped valley).",
+            "O rio serpenteia entre dedos de terra alta chamados esporões (interlocking spurs).",
+            "Onde há rocha dura por cima de rocha macia, forma-se uma queda de água/cachoeira (waterfall).",
+            "A queda de água recua devagar para montante e deixa uma garganta (gorge).",
+            "No curso médio o rio faz curvas de um lado para o outro.",
+            "Cada curva é um meandro (meander).",
+            "Às vezes um meandro é cortado do rio.",
+            "Transforma-se num lago curvo em ferradura (oxbow lake)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "muuqaalka dhinaca ee webi laga eego isha ilaa afka (long profile)",
+            "dooxo dheer oo cidhiidhi ah oo qaybta sare ku taal (V-shaped valley)",
+            "balli qoto dheer oo biyo-dhac hoostii ah (plunge pool)",
+            "dooxo cidhiidhi ah oo dhinacyo dheer leh oo biyo-dhac dib u guuray ka tagay (gorge)",
+            "leexo weyn oo webi ku jirta (meander)",
+            "haro qalloocan oo hartay marka meander la gooyo (oxbow lake)"
+          ],
+          "passage": [
+            "Webi laba siyaabood ayaa loo eegi karaa.",
+            "Long profile waa muuqaal dhinaca ah oo isha ilaa afka laga eego.",
+            "Isha agteeda wuxuu dheer yahay, afka agtiisana wuu fudud yahay.",
+            "Cross section waa gooyn dooxada laga sameeyo.",
+            "Qaybta sare dooxadu way cidhiidhi tahay oo dheer tahay: V-shaped valley.",
+            "Webigu wuxuu dhex maraa faro dhul sare oo la yiraahdo interlocking spurs.",
+            "Meesha dhagax adag dhagax jilicsan dul saaran yahay, biyo-dhac (waterfall) ayaa samaysma.",
+            "Biyo-dhacu si tartiib ah dib ayuu u guuraa oo wuxuu ka tagaa gorge.",
+            "Qaybta dhexe webigu dhinac ilaa dhinac ayuu u leexleexdaa.",
+            "Leexo kasta waa meander.",
+            "Mararka qaar meander webiga ayaa laga gooyaa.",
+            "Wuxuu noqdaa haro qalloocan oo la yiraahdo oxbow lake."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вигляд річки збоку від витоку до гирла (long profile)",
+            "крута вузька долина у верхній течії (V-shaped valley)",
+            "глибока водойма біля підніжжя водоспаду (plunge pool)",
+            "вузька долина з крутими схилами, яку залишає водоспад, що відступає (gorge)",
+            "великий вигин річки (meander)",
+            "вигнуте озеро, що залишається, коли меандр відрізається від річки (oxbow lake)"
+          ],
+          "passage": [
+            "На річку можна дивитися двома способами.",
+            "Поздовжній профіль (long profile) — це вигляд збоку від витоку до гирла.",
+            "Він крутий біля витоку і пологий біля гирла.",
+            "Поперечний переріз (cross section) — це зріз через долину.",
+            "У верхній течії долина вузька і крута: це V-подібна долина (V-shaped valley).",
+            "Річка в’ється між виступами підвищеної землі, які називаються interlocking spurs.",
+            "Там, де тверда порода лежить над м’якою, утворюється водоспад.",
+            "Водоспад повільно відступає вгору за течією і залишає ущелину (gorge).",
+            "У середній течії річка вигинається з боку в бік.",
+            "Кожен вигин — це меандр (meander).",
+            "Іноді меандр відрізається від річки.",
+            "Він стає вигнутим озером-старицею (oxbow lake)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "منبع سے دہانے تک دریا کا ایک پہلو سے منظر (long profile)",
+            "بالائی حصے کی ایک ڈھلوان، تنگ وادی (V-shaped valley)",
+            "آبشار کے نیچے کا گہرا تالاب (plunge pool)",
+            "ایک تنگ، کھڑی دیواروں والی وادی جو پیچھے ہٹتی آبشار چھوڑ جاتی ہے (gorge)",
+            "دریا کا ایک بڑا موڑ (meander)",
+            "ایک خم دار جھیل جو meander کے کٹ جانے پر رہ جاتی ہے (oxbow lake)"
+          ],
+          "passage": [
+            "دریا کو دو طرح سے دیکھا جا سکتا ہے۔",
+            "long profile منبع سے دہانے تک پہلو کا منظر ہے۔",
+            "یہ منبع کے قریب ڈھلوان اور دہانے کے قریب ہموار ہوتا ہے۔",
+            "cross section وادی کے آر پار ایک قاش ہے۔",
+            "بالائی حصے میں وادی تنگ اور ڈھلوان ہوتی ہے: ایک V-shaped valley۔",
+            "دریا اونچی زمین کی انگلیوں جیسی شاخوں کے بیچ سے گزرتا ہے، جنھیں interlocking spurs کہتے ہیں۔",
+            "جہاں سخت چٹان نرم چٹان کے اوپر ہو، وہاں آبشار بنتی ہے۔",
+            "آبشار آہستہ آہستہ پیچھے کی طرف ہٹتی جاتی ہے اور ایک gorge چھوڑ جاتی ہے۔",
+            "درمیانی حصے میں دریا ایک طرف سے دوسری طرف موڑ کھاتا ہے۔",
+            "ہر موڑ ایک meander ہے۔",
+            "کبھی کبھی کوئی meander دریا سے کٹ کر الگ ہو جاتا ہے۔",
+            "وہ ایک خم دار oxbow lake بن جاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Two ways to look at a river",
@@ -909,8 +1519,168 @@ window.ASTRA_UNITS["geog-rivers"] = {
           "In 2014 the Somerset Levels in England flooded for weeks.",
           "In 1998 most of Bangladesh was under water.",
           "A flood in a poorer country often hurts people much more."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عندما يكون في النهر ماء أكثر ممّا يستطيع مجراه أن يحمل (flood)",
+            "الأرض المنبسطة على جانبَي النهر التي تغمرها المياه (floodplain)",
+            "مملوء بالماء حتى إنه لا يستطيع أن يحمل المزيد (saturated)",
+            "تسرّب الماء إلى داخل التربة (infiltration)",
+            "ماء يجري فوق سطح الأرض إلى النهر (surface run-off)",
+            "فيضان مفاجئ بعد هطول مطر شديد جدًا (flash flood)"
+          ],
+          "passage": [
+            "يحدث الفيضان (flood) عندما يصل إلى النهر ماء أكثر ممّا يستطيع مجراه أن يحمل.",
+            "يفيض الماء فوق الضفاف إلى السهل الفيضي.",
+            "السهل الفيضي (floodplain) هو الأرض المنبسطة على جانبَي النهر.",
+            "تبدأ الفيضانات عادةً بمطر شديد يستمرّ وقتًا طويلًا.",
+            "تمتصّ التربة الماء حتى تتشبّع (saturated).",
+            "عندئذٍ يبطئ التسرّب (infiltration)، لأنّ الأرض مملوءة.",
+            "فيجري ماء أكثر فوق السطح على شكل جريان سطحي (run-off).",
+            "يرتفع النهر بسرعة ويفيض فوق ضفافه.",
+            "بعض أسباب الفيضان طبيعية، مثل المطر الشديد والمنحدرات الحادّة.",
+            "وبعضها بشرية، مثل قطع الأشجار والبناء على السهول الفيضية.",
+            "في عام 2014 غمرت المياه منطقة سومرست ليفلز (Somerset Levels) في إنجلترا أسابيع عدّة.",
+            "وفي عام 1998 كان معظم بنغلاديش تحت الماء.",
+            "الفيضان في بلد أفقر غالبًا ما يُلحق بالناس ضررًا أكبر بكثير."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kiedy w rzece jest więcej wody, niż mieści jej koryto (flood)",
+            "płaski teren po obu stronach rzeki, który zalewa woda (floodplain)",
+            "tak pełny wody, że nie może już przyjąć więcej (saturated)",
+            "wsiąkanie wody w głąb gleby (infiltration)",
+            "woda płynąca po powierzchni ziemi do rzeki (surface run-off)",
+            "nagła powódź po bardzo gwałtownej ulewie (flash flood)"
+          ],
+          "passage": [
+            "Powódź (flood) zdarza się, kiedy do rzeki trafia więcej wody, niż mieści jej koryto.",
+            "Woda przelewa się przez brzegi na równinę zalewową (floodplain).",
+            "Równina zalewowa to płaski teren po obu stronach rzeki.",
+            "Powodzie zwykle zaczynają się od ulewnego deszczu, który pada przez długi czas.",
+            "Gleba wchłania wodę, aż będzie nasycona (saturated).",
+            "Wtedy infiltracja (infiltration) zwalnia, bo ziemia jest już pełna.",
+            "Więcej wody płynie po powierzchni jako spływ powierzchniowy (run-off).",
+            "Rzeka szybko się podnosi i przelewa przez brzegi.",
+            "Niektóre przyczyny powodzi są naturalne, jak ulewny deszcz i strome zbocza.",
+            "Inne są związane z człowiekiem, jak wycinanie drzew i budowanie na równinach zalewowych.",
+            "W 2014 roku Somerset Levels w Anglii były zalane przez wiele tygodni.",
+            "W 1998 roku większość Bangladeszu znalazła się pod wodą.",
+            "Powódź w biedniejszym kraju często krzywdzi ludzi o wiele bardziej."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "quando um rio tem mais água do que o seu canal consegue conter (flood, cheia/enchente)",
+            "a terra plana de cada lado de um rio que fica inundada (floodplain, planície de inundação)",
+            "tão cheio de água que já não consegue conter mais (saturated, saturado)",
+            "água a infiltrar-se/se infiltrando no solo (infiltration, infiltração)",
+            "água que escorre sobre o solo para um rio (surface run-off, escoamento superficial)",
+            "uma cheia repentina depois de uma chuva muito forte (flash flood, enxurrada)"
+          ],
+          "passage": [
+            "Uma cheia/enchente (flood) acontece quando um rio recebe mais água do que o seu canal consegue conter.",
+            "A água passa por cima das margens e espalha-se pela planície de inundação (floodplain).",
+            "A planície de inundação é a terra plana de cada lado do rio.",
+            "As cheias costumam começar com chuva forte que dura muito tempo.",
+            "O solo absorve a água até ficar saturado (saturated).",
+            "Então a infiltração (infiltration) abranda, porque o solo está cheio.",
+            "Mais água escorre pela superfície como escoamento (run-off).",
+            "O rio sobe depressa e transborda das margens.",
+            "Algumas causas das cheias são físicas, como chuva forte e encostas íngremes.",
+            "Outras são humanas, como cortar árvores e construir em planícies de inundação.",
+            "Em 2014, os Somerset Levels, em Inglaterra, ficaram inundados durante semanas.",
+            "Em 1998, a maior parte do Bangladesh/Bangladeche ficou debaixo de água.",
+            "Uma cheia num país mais pobre costuma fazer muito mais mal às pessoas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "marka webi haysto biyo ka badan inta marinkiisu qaadi karo (flood)",
+            "dhulka siman ee webi labada dhinac ka ah oo fatahaada (floodplain)",
+            "aad u buuxa oo biyo dheeraad ah qaadi karin (saturated)",
+            "biyo hoos ugu dhex gala ciidda (infiltration)",
+            "biyo dusha dhulka ku socda oo webi gala (surface run-off)",
+            "fatahaad kedis ah oo ka dambaysa roob aad u culus (flash flood)"
+          ],
+          "passage": [
+            "Fatahaad (flood) waxay dhacdaa marka webi helo biyo ka badan inta marinkiisu qaadi karo.",
+            "Biyuhu darafka ayay ka soo buux-dhaafaan oo floodplain-ka ayay galaan.",
+            "Floodplain waa dhulka siman ee webiga labada dhinac ka ah.",
+            "Fatahaadaha inta badan waxay ku bilaabmaan roob culus oo waqti dheer socda.",
+            "Ciiddu biyo ayay nuugtaa ilaa ay buuxsanto (saturated).",
+            "Markaas infiltration-ku wuu gaabiyaa, sababtoo ah dhulku wuu buuxaa.",
+            "Biyo badan ayaa dusha dhulka ku socda sida run-off.",
+            "Webigu si dhaqso ah ayuu kor u kacaa oo darafkiisa ka soo buux-dhaafaa.",
+            "Sababaha fatahaadda qaarkood waa dabiici, sida roob culus iyo jiirar dheer.",
+            "Qaarna waa dad-sameeye, sida geed-jarista iyo floodplain-ka wax ka dhisidda.",
+            "Sannadkii 2014 Somerset Levels oo England ku taal toddobaadyo ayay fatahaad ku jirtay.",
+            "Sannadkii 1998 Bangladesh badankeeda biyo ayaa hoos joogay.",
+            "Fatahaad ka dhacda dal saboolsan inta badan dadka si aad u daran ayay u dhaawacdaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "коли в річці більше води, ніж може вмістити її русло (flood)",
+            "рівна земля по обидва боки річки, яку заливає вода (floodplain)",
+            "настільки повний води, що більше не може вмістити (saturated)",
+            "просочування води вниз у ґрунт (infiltration)",
+            "вода, що тече по поверхні землі в річку (surface run-off)",
+            "раптова повінь після дуже сильної зливи (flash flood)"
+          ],
+          "passage": [
+            "Повінь (flood) трапляється, коли в річку надходить більше води, ніж може вмістити її русло.",
+            "Вода переливається через береги на заплаву (floodplain).",
+            "Заплава — це рівна земля по обидва боки річки.",
+            "Повені зазвичай починаються з сильного дощу, який триває довго.",
+            "Ґрунт вбирає воду, доки не стане насиченим (saturated).",
+            "Тоді просочування (infiltration) сповільнюється, бо земля вже повна.",
+            "Більше води тече по поверхні як стік (run-off).",
+            "Річка швидко піднімається і переливається через береги.",
+            "Деякі причини повеней природні, наприклад сильний дощ і круті схили.",
+            "Деякі причини людські, наприклад вирубування дерев і будівництво на заплавах.",
+            "У 2014 році рівнина Somerset Levels в Англії була затоплена кілька тижнів.",
+            "У 1998 році більша частина Бангладеш була під водою.",
+            "Повінь у біднішій країні часто шкодить людям набагато більше."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جب دریا میں اتنا پانی آ جائے جتنا اس کی نالی سنبھال نہ سکے (flood)",
+            "دریا کے دونوں طرف کی ہموار زمین جو سیلاب میں ڈوب جاتی ہے (floodplain)",
+            "پانی سے اتنی بھری ہوئی کہ اور پانی نہ لے سکے (saturated)",
+            "پانی کا مٹی کے اندر جذب ہونا (infiltration)",
+            "زمین کی سطح پر بہتا ہوا پانی جو دریا میں جاتا ہے (surface run-off)",
+            "بہت تیز بارش کے جھونکے کے بعد اچانک آنے والا سیلاب (flash flood)"
+          ],
+          "passage": [
+            "سیلاب تب آتا ہے جب دریا میں اتنا پانی آ جائے جتنا اس کی نالی سنبھال نہ سکے۔",
+            "پانی کناروں سے باہر floodplain پر بہہ نکلتا ہے۔",
+            "floodplain دریا کے دونوں طرف کی ہموار زمین ہے۔",
+            "سیلاب عام طور پر ایسی تیز بارش سے شروع ہوتا ہے جو بہت دیر تک جاری رہے۔",
+            "مٹی پانی جذب کرتی رہتی ہے یہاں تک کہ وہ بھر جاتی ہے (saturated)۔",
+            "پھر infiltration سست ہو جاتا ہے، کیونکہ زمین بھر چکی ہوتی ہے۔",
+            "زیادہ پانی run-off کی صورت میں سطح پر بہنے لگتا ہے۔",
+            "دریا تیزی سے چڑھتا ہے اور کناروں سے باہر بہہ نکلتا ہے۔",
+            "سیلاب کی کچھ وجوہات طبعی ہیں، جیسے تیز بارش اور ڈھلوان زمین۔",
+            "کچھ انسانی ہیں، جیسے درخت کاٹنا اور floodplain پر عمارتیں بنانا۔",
+            "2014 میں انگلینڈ کے سمرسیٹ لیولز (Somerset Levels) کئی ہفتوں تک سیلاب میں ڈوبے رہے۔",
+            "1998 میں بنگلہ دیش کا بڑا حصہ پانی کے نیچے تھا۔",
+            "غریب ملک میں سیلاب اکثر لوگوں کو کہیں زیادہ نقصان پہنچاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is a flood, and how does one happen?",
@@ -1114,8 +1884,150 @@ window.ASTRA_UNITS["geog-rivers"] = {
           "When a high tide threatens London, the gates are raised.",
           "Choosing a flood defence means weighing up cost, time and how well it works.",
           "In your test, describe means say what, and explain means say why."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "يُنفَّذ قبل الفيضان مباشرةً أو أثناءه لمواجهته (short-term)",
+            "يُبنى أو يُخطَّط له لحماية الناس سنوات طويلة (long-term)",
+            "أيّ شيء يُبنى أو يُفعل لمنع الفيضان أو تقليل أضراره (flood defence)",
+            "ضفّة مرتفعة تُبنى على طول النهر ليحمل ماءً أكثر (embankment)",
+            "أن تُقدّر مدى جودة شيء ما باستخدام معايير (evaluate)"
+          ],
+          "passage": [
+            "لا يستطيع الناس أن يمنعوا المطر، لكنّهم يستطيعون أن يحموا أنفسهم من الفيضانات.",
+            "تُستخدم الطرق القصيرة المدى (short-term) قبل الفيضان مباشرةً أو أثناءه.",
+            "أكياس الرمل وتحذيرات الفيضان ونقل الناس إلى مكان آمن طرق قصيرة المدى.",
+            "الطرق الطويلة المدى (long-term) يستغرق بناؤها سنوات، لكنّها تدوم وقتًا طويلًا.",
+            "الجدران والسدود الترابية (embankments) والسدود والحواجز وزراعة الأشجار طرق طويلة المدى.",
+            "لندن يحميها حاجز التيمز (Thames Barrier).",
+            "تمتدّ بوّاباته الفولاذية العشر نحو 500 م عبر النهر.",
+            "استُخدم لأوّل مرّة في عام 1983.",
+            "عندما يهدّد مدّ عالٍ لندن، تُرفع البوّابات.",
+            "اختيار وسيلة الحماية من الفيضان يعني الموازنة بين الكلفة والوقت ومدى نجاحها.",
+            "في اختبارك، «صِف» (describe) تعني قُل ماذا، و«اشرح» (explain) تعني قُل لماذا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "robione tuż przed powodzią lub w jej trakcie, żeby sobie z nią poradzić (short-term)",
+            "zbudowane lub zaplanowane tak, by chronić ludzi przez wiele lat (long-term)",
+            "wszystko, co zbudowano lub zrobiono, żeby zatrzymać powódź albo zmniejszyć szkody (flood defence)",
+            "podwyższony wał zbudowany wzdłuż rzeki, żeby mieściła więcej wody (embankment)",
+            "ocenić, jak dobre jest coś, używając kryteriów (evaluate)"
+          ],
+          "passage": [
+            "Ludzie nie mogą zatrzymać deszczu, ale mogą chronić się przed powodziami.",
+            "Metody krótkoterminowe (short-term) stosuje się tuż przed powodzią lub w jej trakcie.",
+            "Worki z piaskiem, ostrzeżenia powodziowe i ewakuacja ludzi w bezpieczne miejsce to metody krótkoterminowe.",
+            "Metody długoterminowe (long-term) buduje się latami, ale służą przez długi czas.",
+            "Mury, wały (embankments), tamy, zapory i sadzenie drzew to metody długoterminowe.",
+            "Londyn chroni zapora Thames Barrier.",
+            "Jej dziesięć stalowych wrót rozciąga się na około 500 m przez rzekę.",
+            "Po raz pierwszy użyto jej w 1983 roku.",
+            "Kiedy wysoki przypływ zagraża Londynowi, wrota są podnoszone.",
+            "Wybór zabezpieczenia przeciwpowodziowego (flood defence) oznacza rozważenie kosztu, czasu i tego, jak dobrze działa.",
+            "Na sprawdzianie „opisz” (describe) znaczy powiedz co, a „wyjaśnij” (explain) znaczy powiedz dlaczego."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "feito mesmo antes de uma cheia, ou durante, para lidar com ela (short-term, a curto prazo)",
+            "construído ou planeado/planejado para proteger as pessoas durante muitos anos (long-term, a longo prazo)",
+            "qualquer coisa construída ou feita para impedir as cheias ou reduzir os danos (flood defence, defesa contra cheias)",
+            "uma margem elevada construída ao longo de um rio para ele conter mais água (embankment, dique)",
+            "pesar os prós e os contras de algo, usando critérios (evaluate, avaliar)"
+          ],
+          "passage": [
+            "As pessoas não podem parar a chuva, mas podem proteger-se das cheias.",
+            "Os métodos a curto prazo (short-term) usam-se mesmo antes de uma cheia, ou durante.",
+            "Sacos de areia, avisos de cheia e levar as pessoas para um lugar seguro são a curto prazo.",
+            "Os métodos a longo prazo (long-term) levam anos a construir, mas duram muito tempo.",
+            "Muros, diques, barragens, barreiras e plantar árvores são a longo prazo.",
+            "Londres é protegida pela Barreira do Tamisa (Thames Barrier).",
+            "As suas dez comportas de aço estendem-se por cerca de 500 m através do rio.",
+            "Foi usada pela primeira vez em 1983.",
+            "Quando uma maré alta ameaça Londres, as comportas são levantadas.",
+            "Escolher uma defesa contra cheias significa pesar o custo, o tempo e o quão bem funciona.",
+            "No seu teste, describe quer dizer dizer o quê, e explain quer dizer dizer porquê/por quê."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax la sameeyo wax yar ka hor ama inta fatahaaddu socoto si loola qabsado (short-term)",
+            "wax la dhiso ama la qorsheeyo si dadka loo ilaaliyo sannado badan (long-term)",
+            "wax kasta oo la dhiso ama la sameeyo si fatahaadda loo joojiyo ama khasaaraha loo yareeyo (flood defence)",
+            "daraf kor loo qaaday oo webi dhinaciisa laga dhiso si uu biyo badan u qaado (embankment)",
+            "miisaamidda sida wax u wanaagsan yihiin, iyadoo la isticmaalayo shuruudo (evaluate)"
+          ],
+          "passage": [
+            "Dadku roobka ma joojin karaan, laakiin fatahaadaha way iska ilaalin karaan.",
+            "Hababka short-term waxaa la isticmaalaa wax yar ka hor ama inta fatahaaddu socoto.",
+            "Kiishash ciid (sandbags), digniinaha fatahaadda iyo dadka meel ammaan ah u raridda waa short-term.",
+            "Hababka long-term sannado ayay qaadataa in la dhiso, laakiin waqti dheer ayay adkaystaan.",
+            "Darbiyo, embankments, biyo-xireenno (dams), caqabado iyo geed-beerid waa long-term.",
+            "London waxaa ilaaliya Thames Barrier.",
+            "Tobankeeda albaab ee birta ah waxay webiga ku fidsan yihiin qiyaastii 500 m.",
+            "Markii ugu horraysay waxaa la isticmaalay 1983.",
+            "Marka mowjad sare London hanjabto, albaabbada kor ayaa loo qaadaa.",
+            "Doorashada flood defence macnaheedu waa in la miisaamo kharashka, waqtiga iyo sida ay u shaqayso.",
+            "Imtixaankaaga, describe macnaheedu waa sheeg waxa, explain-na macnaheedu waa sheeg sababta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що роблять перед повінню або під час неї, щоб із нею впоратися (short-term)",
+            "те, що будують або планують, щоб захищати людей багато років (long-term)",
+            "усе, що будують або роблять, щоб зупинити повінь або зменшити шкоду (flood defence)",
+            "підвищений насип уздовж річки, щоб вона вміщувала більше води (embankment)",
+            "зважити, наскільки щось добре, за певними критеріями (evaluate)"
+          ],
+          "passage": [
+            "Люди не можуть зупинити дощ, але можуть захистити себе від повеней.",
+            "Короткострокові (short-term) методи застосовують перед повінню або під час неї.",
+            "Мішки з піском, попередження про повінь і вивезення людей у безпечне місце — це короткострокові методи.",
+            "Довгострокові (long-term) методи будують роками, але вони служать довго.",
+            "Стіни, насипи, дамби, бар’єри та висаджування дерев — це довгострокові методи.",
+            "Лондон захищає бар’єр на Темзі (Thames Barrier).",
+            "Його десять сталевих воріт простягаються приблизно на 500 m через річку.",
+            "Уперше його використали в 1983 році.",
+            "Коли високий приплив загрожує Лондону, ворота піднімають.",
+            "Вибрати захист від повені означає зважити вартість, час і те, наскільки добре він працює.",
+            "У вашому тесті describe означає сказати що, а explain означає сказати чому."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سیلاب سے ذرا پہلے یا اس کے دوران کیا جانے والا کام تاکہ اس سے نمٹا جا سکے (short-term)",
+            "ایسا کام جو کئی سالوں تک لوگوں کی حفاظت کے لیے بنایا یا منصوبہ بنایا جائے (long-term)",
+            "کوئی بھی چیز جو سیلاب روکنے یا نقصان کم کرنے کے لیے بنائی یا کی جائے (flood defence)",
+            "دریا کے ساتھ بنایا گیا اونچا کنارہ تاکہ وہ زیادہ پانی سنبھال سکے (embankment)",
+            "کسوٹیوں کی مدد سے یہ جانچنا کہ کوئی چیز کتنی اچھی ہے (evaluate)"
+          ],
+          "passage": [
+            "لوگ بارش کو نہیں روک سکتے، لیکن سیلاب سے اپنی حفاظت کر سکتے ہیں۔",
+            "قلیل مدتی (short-term) طریقے سیلاب سے ذرا پہلے یا اس کے دوران استعمال ہوتے ہیں۔",
+            "ریت کی بوریاں، سیلاب کی وارننگ اور لوگوں کو محفوظ جگہ لے جانا قلیل مدتی طریقے ہیں۔",
+            "طویل مدتی (long-term) طریقے بننے میں سال لگتے ہیں لیکن بہت دیر تک کام دیتے ہیں۔",
+            "دیواریں، embankments، ڈیم، بیریئر اور درخت لگانا طویل مدتی طریقے ہیں۔",
+            "لندن کی حفاظت ٹیمز بیریئر (Thames Barrier) کرتا ہے۔",
+            "اس کے دس فولادی دروازے دریا کے آر پار تقریباً 500 m تک پھیلے ہیں۔",
+            "یہ پہلی بار 1983 میں استعمال ہوا تھا۔",
+            "جب اونچی لہر (high tide) لندن کے لیے خطرہ بنتی ہے تو دروازے اوپر اٹھا دیے جاتے ہیں۔",
+            "flood defence چننے کا مطلب ہے لاگت، وقت اور اس کی کارآمدی کو تولنا۔",
+            "آپ کے ٹیسٹ میں describe کا مطلب ہے بتائیں کہ کیا ہوا، اور explain کا مطلب ہے بتائیں کہ کیوں ہوا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Short-term and long-term ways of coping",
