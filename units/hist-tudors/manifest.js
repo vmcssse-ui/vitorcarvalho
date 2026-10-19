@@ -102,8 +102,168 @@ window.ASTRA_UNITS["hist-tudors"] = {
           "His ideas spread like wildfire across Europe.",
           "People who followed his ideas were called Protestants.",
           "This great change is called the Reformation."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ملك أو ملكة (monarch)",
+            "رأس الكنيسة الكاثوليكية، ومقرّه روما (Pope)",
+            "مخالفة تعاليم الكنيسة (heresy)",
+            "مال يُدفع للكنيسة كان يُراد به تقليل العقاب على الخطايا (indulgence)",
+            "التغيّر الكبير الذي شقّ الكنيسة المسيحية في سنوات 1500 (Reformation)",
+            "مسيحي يتّبع أفكار لوثر الجديدة (Protestant)"
+          ],
+          "passage": [
+            "حكم التيودور إنجلترا من 1485 إلى 1603.",
+            "وقبل التيودور كان كلّ من في إنجلترا تقريبًا كاثوليكيًّا.",
+            "وكان البابا في روما رأس الكنيسة الكاثوليكية.",
+            "ومعظم الناس لم يكونوا يقرؤون، والكتاب المقدّس كان مكتوبًا باللاتينية.",
+            "فكان الناس يثقون بالكنيسة لتخبرهم عن الله والجنّة والنار.",
+            "ومخالفة تعاليم الكنيسة كانت جريمة تُسمّى الهرطقة (heresy).",
+            "وفي أكتوبر 1517 كتب راهب ألماني يُسمّى مارتن لوثر (Martin Luther) الأطروحات الـ95.",
+            "وقال إنّ الكنيسة مخطئة في بيع صكوك الغفران، وهي مال يُدفع لتُغفر الخطايا.",
+            "وكان لوثر يرى أنّ على المسيحيين أن يتّبعوا ما يقوله الكتاب المقدّس وحده.",
+            "وأراد أن يُطبع الكتاب المقدّس بلغات يفهمها الناس.",
+            "وانتشرت أفكاره كالنار في الهشيم في أوروبا.",
+            "وسُمّي الذين اتّبعوا أفكاره بروتستانتيّين.",
+            "ويُسمّى هذا التغيّر الكبير الإصلاح (Reformation)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "król albo królowa",
+            "głowa Kościoła katolickiego, w Rzymie (Pope)",
+            "występowanie przeciwko nauce Kościoła (heresy)",
+            "opłata dla Kościoła, która miała zmniejszyć karę za grzechy (indulgence)",
+            "wielka zmiana, która rozdzieliła Kościół chrześcijański w XVI wieku (Reformation)",
+            "chrześcijanin, który szedł za nowymi myślami Lutra (Protestant)"
+          ],
+          "passage": [
+            "Tudorowie rządzili Anglią od 1485 do 1603 roku.",
+            "Przed Tudorami niemal wszyscy w Anglii byli katolikami.",
+            "Papież w Rzymie był głową Kościoła katolickiego.",
+            "Większość ludzi nie umiała czytać, a Biblia była napisana po łacinie.",
+            "Dlatego ludzie zdawali się na Kościół, żeby mówił im o Bogu, o niebie i o piekle.",
+            "Występowanie przeciwko nauce Kościoła było przestępstwem zwanym herezją.",
+            "W październiku 1517 roku niemiecki mnich Martin Luther (Marcin Luter) napisał 95 tez.",
+            "Powiedział, że Kościół niesłusznie sprzedaje odpusty, czyli opłaty za odpuszczenie grzechów.",
+            "Luther wierzył, że chrześcijanie powinni słuchać tylko tego, co mówi Biblia.",
+            "Chciał, żeby Biblię wydrukowano w językach, które ludzie rozumieją.",
+            "Jego myśli rozeszły się po Europie jak pożar.",
+            "Ludzi, którzy szli za jego myślami, nazywano protestantami.",
+            "Tę wielką zmianę nazywamy reformacją."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um rei ou uma rainha (monarch, monarca)",
+            "o chefe da Igreja Católica, em Roma (Pope, Papa)",
+            "ir contra os ensinamentos da Igreja (heresy, heresia)",
+            "um pagamento à Igreja que devia reduzir o castigo pelos pecados (indulgence, indulgência)",
+            "a grande mudança que dividiu a Igreja cristã nos anos 1500 (Reformation, Reforma)",
+            "um cristão que seguia as ideias novas de Luther (Protestant, protestante)"
+          ],
+          "passage": [
+            "Os Tudor governaram a Inglaterra de 1485 a 1603.",
+            "Antes dos Tudor, quase todas as pessoas em Inglaterra eram católicas.",
+            "O Papa, em Roma, era o chefe da Igreja Católica.",
+            "Quase ninguém sabia ler, e a Bíblia estava escrita em latim.",
+            "Por isso as pessoas confiavam na Igreja para lhes falar de Deus, do céu e do inferno.",
+            "Ir contra os ensinamentos da Igreja era um crime chamado heresia.",
+            "Em outubro de 1517, um monge alemão chamado Martin Luther (Martinho Lutero) escreveu as 95 Teses.",
+            "Disse que a Igreja estava errada em vender indulgências, que eram pagamentos para perdoar pecados.",
+            "Luther acreditava que os cristãos só deviam seguir aquilo que a Bíblia diz.",
+            "Queria a Bíblia impressa em línguas que as pessoas conseguissem compreender.",
+            "As ideias dele espalharam-se a grande velocidade pela Europa.",
+            "As pessoas que seguiam as ideias dele passaram a chamar-se protestantes.",
+            "A esta grande mudança chama-se a Reforma (Reformation)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "boqor ama boqorad",
+            "madaxa Kaniisadda Katooligga, oo Rome jooga",
+            "in wax lagu diido waxbarista Kaniisadda",
+            "lacag Kaniisadda loo bixiyay oo loogu talagalay in ciqaabta dembiyada lagu yareeyo",
+            "isbeddelkii weynaa ee kala qaybiyay Kaniisadda Masiixiga 1500-meeyadii",
+            "Masiixi raacay fikradaha cusub ee Luther"
+          ],
+          "passage": [
+            "Tudors waxay England xukumeen 1485-kii ilaa 1603-dii.",
+            "Tudors-ka ka hor, ku dhowaad qof walba oo England joogay wuxuu ahaa Katoolig.",
+            "Baaba'ka Rome jooga wuxuu ahaa madaxa Kaniisadda Katooligga.",
+            "Dadka badankood akhris ma aqoon, Kitaabka Qudduuskana Laatiin ayaa lagu qoray.",
+            "Markaa dadku waxay ku kalsoonaayeen Kaniisadda inay uga sheekeeyso Ilaah, jannada iyo jahannamada.",
+            "In lagu diido waxbarista Kaniisadda wuxuu ahaa dembi la yiraahdo heresy.",
+            "Oktoobar 1517-kii, monk Jarmal ah oo la yiraahdo Martin Luther wuxuu qoray 95 Theses.",
+            "Wuxuu yiri Kaniisaddu way khaldantay markii ay iibisay indulgences, oo ahaa lacago dembi lagu cafiyo.",
+            "Luther wuxuu rumaystay in Masiixiyiintu ay raacaan oo keliya waxa Kitaabka Qudduusku leeyahay.",
+            "Wuxuu rabay in Kitaabka Qudduuska lagu daabaco luqado dadku fahmi karaan.",
+            "Fikradihiisa waxay sida dab oo kale ku faafeen Yurub oo dhan.",
+            "Dadka fikradihiisa raacay waxaa loo yiraahdaa Protestants.",
+            "Isbeddelkan weyn waxaa la yiraahdaa Reformation."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "король або королева (monarch)",
+            "голова Католицької Церкви, у Римі (Pope)",
+            "виступ проти вчення Церкви (heresy)",
+            "платіж Церкві, який мав зменшити покарання за гріхи (indulgence)",
+            "велика зміна, яка розколола християнську Церкву у 1500-х роках (Reformation)",
+            "християнин, який пішов за новими ідеями Лютера (Protestant)"
+          ],
+          "passage": [
+            "Тюдори правили Англією з 1485 до 1603 року.",
+            "До Тюдорів майже всі в Англії були католиками.",
+            "Папа в Римі був головою Католицької Церкви.",
+            "Більшість людей не вміла читати, а Біблія була написана латиною.",
+            "Тому люди довіряли Церкві розповідати їм про Бога, небеса і пекло.",
+            "Виступ проти вчення Церкви був злочином, який називали єрессю (heresy).",
+            "У жовтні 1517 року німецький монах на ім’я Мартін Лютер написав 95 тез.",
+            "Він казав, що Церква робить неправильно, продаючи індульгенції — платежі за прощення гріхів.",
+            "Лютер вірив, що християни мають іти лише за тим, що каже Біблія.",
+            "Він хотів, щоб Біблію друкували мовами, які люди можуть зрозуміти.",
+            "Його ідеї поширилися по Європі, наче пожежа.",
+            "Людей, які йшли за його ідеями, називали протестантами.",
+            "Цю велику зміну називають Реформацією."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بادشاہ یا ملکہ (monarch)",
+            "کیتھولک کلیسا کا سربراہ، جو روم میں ہے (Pope)",
+            "کلیسا کی تعلیمات کے خلاف جانا (heresy)",
+            "کلیسا کو دی جانے والی وہ رقم جس سے گناہوں کی سزا کم ہونی تھی (indulgence)",
+            "وہ بڑی تبدیلی جس نے 1500 کی دہائی میں مسیحی کلیسا کو تقسیم کر دیا (Reformation)",
+            "وہ مسیحی جو لوتھر کے نئے خیالوں پر چلا (Protestant)"
+          ],
+          "passage": [
+            "ٹیوڈر (Tudors) نے 1485 سے 1603 تک انگلینڈ پر حکومت کی۔",
+            "ٹیوڈروں سے پہلے انگلینڈ میں تقریباً سب لوگ کیتھولک تھے۔",
+            "روم میں بیٹھا پوپ کیتھولک کلیسا کا سربراہ تھا۔",
+            "زیادہ تر لوگ پڑھ نہیں سکتے تھے، اور بائبل لاطینی میں لکھی ہوئی تھی۔",
+            "اس لیے لوگ کلیسا پر بھروسہ کرتے تھے کہ وہ انھیں خدا، جنت اور دوزخ کے بارے میں بتائے۔",
+            "کلیسا کی تعلیمات کے خلاف جانا ایک جرم تھا، جسے heresy کہتے تھے۔",
+            "اکتوبر 1517 میں مارٹن لوتھر (Martin Luther) نامی ایک جرمن راہب نے 95 Theses لکھے۔",
+            "اس نے کہا کہ کلیسا indulgences بیچ کر غلط کرتا ہے، جو گناہ بخشوانے کے لیے دی جانے والی رقمیں تھیں۔",
+            "لوتھر مانتا تھا کہ مسیحیوں کو صرف اُس بات پر چلنا چاہیے جو بائبل کہتی ہے۔",
+            "وہ چاہتا تھا کہ بائبل اُن زبانوں میں چھاپی جائے جو لوگ سمجھ سکیں۔",
+            "اس کے خیال یورپ میں آگ کی طرح پھیل گئے۔",
+            "جو لوگ اس کے خیالوں پر چلے، انھیں Protestants کہا گیا۔",
+            "اس بڑی تبدیلی کو Reformation کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who were the Tudors?",
@@ -309,8 +469,168 @@ window.ASTRA_UNITS["hist-tudors"] = {
           "Henry also closed the monasteries and took their land and money.",
           "In 1538 the Pope excommunicated Henry, throwing him out of the Catholic Church.",
           "Yet Henry still thought of himself as a Catholic."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الشخص الذي سيكون الملك أو الملكة القادم (heir)",
+            "حكم بأنّ الزواج لم يكن صحيحًا أصلًا، فيُلغى (annulment)",
+            "رأس كنيسة إنجلترا (Supreme Head)",
+            "قانون 1534 الذي جعل هنري رأس الكنيسة (Act of Supremacy)",
+            "إغلاق الأديرة وأخذ ثروتها (Dissolution of the Monasteries)",
+            "أن يُخرجك البابا من الكنيسة الكاثوليكية (excommunication)"
+          ],
+          "passage": [
+            "صار هنري الثامن (Henry VIII) ملكًا في 1509، وعمره 17 سنة فقط.",
+            "وتزوّج كاترين أراغون (Catherine of Aragon)، زوجة أخيه الميّت.",
+            "وكان هنري يريد ابنًا يكون وارثه ويُبقي التيودور في الحكم.",
+            "وبعد سنوات كثيرة لم تكن كاترين قد أعطته إلّا ابنة واحدة هي ماري (Mary).",
+            "ثم أحبّ هنري آن بولين (Anne Boleyn).",
+            "وفي 1527 طلب من البابا أن يُبطل زواجه، أي أن يُلغيه.",
+            "فقال البابا: لا.",
+            "فأخذ هنري سلطة البابا في إنجلترا لنفسه.",
+            "وفي يناير 1533 تزوّج آن بولين.",
+            "وفي 1534 جعل قانون السيادة (Act of Supremacy) هنري الرأس الأعلى لكنيسة إنجلترا.",
+            "وأغلق هنري الأديرة أيضًا وأخذ أرضها ومالها.",
+            "وفي 1538 أخرج البابا هنري من الكنيسة الكاثوليكية.",
+            "ومع ذلك بقي هنري يرى نفسه كاثوليكيًّا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osoba, która będzie następnym królem albo królową (heir)",
+            "orzeczenie, że małżeństwo nigdy nie było ważne, więc zostaje unieważnione (annulment)",
+            "przywódca Kościoła Anglii (Supreme Head)",
+            "prawo z 1534 roku, które zrobiło Henry'ego głową Kościoła (Act of Supremacy)",
+            "zamknięcie klasztorów i zabranie ich majątku (Dissolution of the Monasteries)",
+            "wyrzucenie z Kościoła katolickiego przez papieża (excommunication)"
+          ],
+          "passage": [
+            "Henry VIII (Henryk VIII) został królem w 1509 roku, mając zaledwie 17 lat.",
+            "Ożenił się z Catherine of Aragon (Katarzyną Aragońską), żoną swojego zmarłego brata.",
+            "Henry chciał syna na następcę, żeby Tudorowie utrzymali władzę.",
+            "Po wielu latach Catherine dała mu tylko córkę, Mary.",
+            "Henry zakochał się w Anne Boleyn (Annie Boleyn).",
+            "W 1527 roku poprosił papieża o unieważnienie swojego małżeństwa, czyli o jego anulowanie.",
+            "Papież odmówił.",
+            "Dlatego Henry wziął władzę papieża w Anglii dla siebie.",
+            "W styczniu 1533 roku ożenił się z Anne Boleyn.",
+            "W 1534 roku Act of Supremacy zrobił Henry'ego Supreme Head Kościoła Anglii.",
+            "Henry zamknął też klasztory i zabrał ich ziemię oraz pieniądze.",
+            "W 1538 roku papież ekskomunikował Henry'ego, wyrzucając go z Kościoła katolickiego.",
+            "A jednak Henry wciąż uważał się za katolika."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a pessoa que vai ser o próximo rei ou a próxima rainha (heir, herdeiro)",
+            "uma decisão de que um casamento nunca foi válido, por isso é cancelado (annulment, anulação)",
+            "o chefe da Igreja de Inglaterra (Supreme Head)",
+            "a lei de 1534 que fez de Henry o chefe da Igreja (Act of Supremacy)",
+            "o fecho dos mosteiros e a tomada da sua riqueza (Dissolution of the Monasteries)",
+            "ser expulso da Igreja Católica pelo Papa (excommunication, excomunhão)"
+          ],
+          "passage": [
+            "Henry VIII (Henrique VIII) tornou-se rei em 1509, com apenas 17 anos.",
+            "Casou com Catherine of Aragon (Catarina de Aragão), a mulher do seu irmão morto.",
+            "Henry queria um filho para ser o seu herdeiro e manter os Tudor no poder.",
+            "Depois de muitos anos, Catherine só lhe tinha dado uma filha, Mary (Maria).",
+            "Henry apaixonou-se por Anne Boleyn (Ana Bolena).",
+            "Em 1527 pediu ao Papa para anular o seu casamento, ou seja, para o cancelar.",
+            "O Papa disse que não.",
+            "Então Henry tomou para si o poder que o Papa tinha em Inglaterra.",
+            "Em janeiro de 1533 casou com Anne Boleyn.",
+            "Em 1534 o Act of Supremacy fez de Henry o Supreme Head, o chefe da Igreja de Inglaterra.",
+            "Henry também fechou os mosteiros e ficou com as suas terras e o seu dinheiro.",
+            "Em 1538 o Papa excomungou Henry, expulsando-o da Igreja Católica.",
+            "Mesmo assim, Henry continuava a considerar-se católico."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qofka noqonaya boqorka ama boqoradda xigta",
+            "go'aan sheegaya in guurku waligii sax ahayn, markaa waa la buriyay",
+            "hoggaamiyaha Kaniisadda England",
+            "sharcigii 1534 ee Henry ka dhigay madaxa Kaniisadda",
+            "xidhidda monasteries-ka iyo qaadista hantidooda",
+            "in Baaba'ka Kaniisadda Katooligga kaa saaro"
+          ],
+          "passage": [
+            "Henry VIII wuxuu boqor noqday 1509-kii, isagoo 17 jir oo keliya ah.",
+            "Wuxuu guursaday Catherine of Aragon, oo ahayd xaaskii walaalkiisa dhintay.",
+            "Henry wuxuu rabay wiil inuu dhaxal-sugihiisa noqdo oo Tudors-ka awoodda ku sii hayo.",
+            "Sanado badan kadib, Catherine waxay hal gabadh oo keliya u dhashay, Mary.",
+            "Henry wuxuu jeclaaday Anne Boleyn.",
+            "1527-kii wuxuu Baaba'ka weydiistay inuu guurkiisa buriyo, taasoo macnaheedu yahay in la joojiyo.",
+            "Baaba'ka wuu diiday.",
+            "Markaa Henry wuxuu awoodda Baaba'ka ee England naftiisa u qaatay.",
+            "Janaayo 1533-dii wuxuu guursaday Anne Boleyn.",
+            "1534-kii Act of Supremacy wuxuu Henry ka dhigay Supreme Head ee Kaniisadda England.",
+            "Henry wuxuu sidoo kale xidhay monasteries-ka oo dhulkooda iyo lacagtooda qaatay.",
+            "1538-kii Baaba'ka wuxuu Henry ka saaray Kaniisadda Katooligga.",
+            "Hase yeeshee Henry weli naftiisa Katoolig ayuu u arkay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "людина, яка буде наступним королем або королевою (heir)",
+            "рішення, що шлюб ніколи не був чинним, тому його скасовують (annulment)",
+            "очільник Церкви Англії (Supreme Head)",
+            "закон 1534 року, який зробив Генріха головою Церкви (Act of Supremacy)",
+            "закриття монастирів і забирання їхніх багатств (Dissolution of the Monasteries)",
+            "коли Папа викидає когось із Католицької Церкви (excommunication)"
+          ],
+          "passage": [
+            "Генріх VIII став королем у 1509 році, коли йому було лише 17.",
+            "Він одружився з Катериною Арагонською, дружиною свого померлого брата.",
+            "Генріх хотів сина як спадкоємця, щоб Тюдори втримали владу.",
+            "Після багатьох років Катерина народила йому лише доньку, Марію.",
+            "Генріх закохався в Анну Болейн.",
+            "У 1527 році він попросив Папу анулювати його шлюб, тобто скасувати його.",
+            "Папа відмовив.",
+            "Тому Генріх забрав владу Папи в Англії собі.",
+            "У січні 1533 року він одружився з Анною Болейн.",
+            "У 1534 році Акт про верховенство зробив Генріха Верховним головою Церкви Англії.",
+            "Генріх також закрив монастирі й забрав їхню землю і гроші.",
+            "У 1538 році Папа відлучив Генріха, викинувши його з Католицької Церкви.",
+            "Та Генріх усе одно вважав себе католиком."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جو اگلا بادشاہ یا ملکہ بنے گا (heir)",
+            "یہ فیصلہ کہ شادی کبھی درست ہی نہ تھی، اس لیے وہ منسوخ ہے (annulment)",
+            "Church of England کا سربراہ (Supreme Head)",
+            "1534 کا وہ قانون جس نے ہنری کو کلیسا کا سربراہ بنا دیا (Act of Supremacy)",
+            "monasteries کو بند کرنا اور ان کی دولت لے لینا (Dissolution of the Monasteries)",
+            "پوپ کے ہاتھوں کیتھولک کلیسا سے باہر کر دیا جانا (excommunication)"
+          ],
+          "passage": [
+            "ہنری ہشتم 1509 میں، صرف 17 سال کی عمر میں، بادشاہ بنا۔",
+            "اس نے کیتھرین آف ایراگون (Catherine of Aragon) سے شادی کی، جو اس کے مرحوم بھائی کی بیوی تھی۔",
+            "ہنری چاہتا تھا کہ ایک بیٹا اس کا heir ہو اور ٹیوڈروں کی حکومت قائم رہے۔",
+            "بہت سال گزرنے پر بھی کیتھرین کے ہاں صرف ایک بیٹی، میری (Mary) ہوئی تھی۔",
+            "ہنری کو این بولین (Anne Boleyn) سے محبت ہو گئی۔",
+            "1527 میں اس نے پوپ سے کہا کہ اس کی شادی annul کر دے، یعنی منسوخ کر دے۔",
+            "پوپ نے انکار کر دیا۔",
+            "تو ہنری نے انگلینڈ میں پوپ کا اختیار خود لے لیا۔",
+            "جنوری 1533 میں اس نے این بولین سے شادی کی۔",
+            "1534 میں Act of Supremacy نے ہنری کو Church of England کا Supreme Head بنا دیا۔",
+            "ہنری نے monasteries بھی بند کر دیے اور ان کی زمین اور دولت لے لی۔",
+            "1538 میں پوپ نے ہنری کو کیتھولک کلیسا سے باہر کر دیا۔",
+            "پھر بھی ہنری خود کو کیتھولک ہی سمجھتا رہا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The king who needed a son",
@@ -498,8 +818,156 @@ window.ASTRA_UNITS["hist-tudors"] = {
           "A new prayer book was written in English, not Latin.",
           "Many Catholics were unhappy with these changes.",
           "Edward died in 1553, aged only 15."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخص يُعيَّن ليحكم نيابةً عن الملك (regent)",
+            "مسيحي يتّبع أفكار الإصلاح الجديدة (Protestant)",
+            "مسيحي يتّبع الكنيسة التقليدية التي يقودها البابا (Catholic)",
+            "الكتاب الذي يحدّد كلمات خدمات الكنيسة (prayer book)",
+            "أن تنتقل من دين أو معتقد إلى آخر (convert)"
+          ],
+          "passage": [
+            "مات هنري الثامن في يناير 1547.",
+            "فصار ابنه إدوارد الملك إدوارد السادس (Edward VI) وعمره تسع سنوات.",
+            "ولم يكن طفل يستطيع أن يحكم وحده، فحكم عنه الأوصياء.",
+            "والوصيّ شخص يُختار ليعمل نيابةً عن الملك.",
+            "وكان إدوارد، على خلاف أبيه، بروتستانتيًّا مخلصًا.",
+            "وكان أوّل ملك بروتستانتي لإنجلترا.",
+            "وفي عهد إدوارد صارت إنجلترا بلدًا بروتستانتيًّا.",
+            "فجُعلت الكنائس بسيطة خالية من الزينة.",
+            "وأُنزلت الصور والزخارف أو دُمّرت.",
+            "وكُتب كتاب صلوات جديد بالإنجليزية لا باللاتينية.",
+            "وكثير من الكاثوليكيين لم يرضَ بهذه التغييرات.",
+            "ومات إدوارد في 1553 وعمره 15 سنة فقط."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osoba wyznaczona do rządzenia w imieniu monarchy (regent)",
+            "chrześcijanin, który szedł za nowymi myślami reformacji (Protestant)",
+            "chrześcijanin, który trzymał się tradycyjnego Kościoła pod wodzą papieża (Catholic)",
+            "księga, która podaje słowa nabożeństw (prayer book)",
+            "przejść z jednej religii albo wiary do innej (convert)"
+          ],
+          "passage": [
+            "Henry VIII (Henryk VIII) umarł w styczniu 1547 roku.",
+            "Jego syn Edward został królem Edwardem VI w wieku dziewięciu lat.",
+            "Dziecko nie mogło rządzić samo, więc rządzili za niego regenci.",
+            "Regent to osoba wybrana, żeby działać w imieniu monarchy.",
+            "W przeciwieństwie do ojca Edward był przekonanym protestantem.",
+            "Był pierwszym protestanckim królem Anglii.",
+            "Pod rządami Edwarda Anglia stała się krajem protestanckim.",
+            "Kościoły uczyniono prostymi i surowymi.",
+            "Obrazy i ozdoby zdjęto albo zniszczono.",
+            "Napisano nową księgę nabożeństw, po angielsku, a nie po łacinie.",
+            "Wielu katolików było niezadowolonych z tych zmian.",
+            "Edward umarł w 1553 roku, mając zaledwie 15 lat."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pessoa nomeada para governar em nome do monarca (regent, regente)",
+            "um cristão que seguia as ideias novas da Reforma (Protestant, protestante)",
+            "um cristão que seguia a Igreja tradicional dirigida pelo Papa (Catholic, católico)",
+            "o livro que estabelece as palavras das celebrações religiosas (prayer book, livro de orações)",
+            "mudar de uma religião ou de uma crença para outra (convert, converter-se)"
+          ],
+          "passage": [
+            "Henry VIII morreu em janeiro de 1547.",
+            "O seu filho Edward tornou-se rei Edward VI (Eduardo VI) com nove anos.",
+            "Uma criança não podia governar sozinha, por isso governaram regentes por ele.",
+            "Um regente é uma pessoa escolhida para agir em nome do monarca.",
+            "Ao contrário do pai, Edward era um protestante convicto.",
+            "Foi o primeiro rei protestante de Inglaterra.",
+            "Com Edward, a Inglaterra tornou-se um país protestante.",
+            "As igrejas foram tornadas simples e despojadas.",
+            "Os quadros e as decorações foram retirados ou destruídos.",
+            "Foi escrito um novo livro de orações em inglês, não em latim.",
+            "Muitos católicos ficaram descontentes com estas mudanças.",
+            "Edward morreu em 1553, com apenas 15 anos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qof loo magacaabay inuu boqorka beddelkiisa xukumo",
+            "Masiixi raacay fikradaha cusub ee Reformation-ka",
+            "Masiixi raacay Kaniisadda hore ee Baaba'ka hoggaamiyo",
+            "buugga dhigaya erayada adeegyada kaniisadda",
+            "inaad diin ama caqiido mid ka mid u beddesho"
+          ],
+          "passage": [
+            "Henry VIII wuxuu dhintay Janaayo 1547-dii.",
+            "Wiilkiisa Edward wuxuu noqday Boqor Edward VI isagoo sagaal jir ah.",
+            "Ilmo kali ahaantii ma xukumi karin, markaa regents ayaa u xukumay.",
+            "Regent waa qof loo doortay inuu boqorka beddelkiisa tallaabo.",
+            "Si ka duwan aabbihiis, Edward wuxuu ahaa Protestant go'an.",
+            "Wuxuu ahaa boqorkii Protestant ee ugu horreeyay England.",
+            "Edward hoostiisa, England waxay noqotay dal Protestant ah.",
+            "Kaniisadaha waxaa laga dhigay kuwo caadi iyo fudud.",
+            "Sawirrada iyo qurxinta waa la dejiyay ama waa la burburiyay.",
+            "Buug tukasho cusub ayaa Ingiriisi lagu qoray, ee ma aha Laatiin.",
+            "Katoolig badan waxay isbeddelladan ka xumaadeen.",
+            "Edward wuxuu dhintay 1553-dii, isagoo 15 jir oo keliya ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "людина, призначена правити від імені монарха (regent)",
+            "християнин, який пішов за новими ідеями Реформації (Protestant)",
+            "християнин, який ішов за традиційною Церквою на чолі з Папою (Catholic)",
+            "книга, у якій викладені слова церковних служб (prayer book)",
+            "перейти з однієї релігії або віри до іншої (convert)"
+          ],
+          "passage": [
+            "Генріх VIII помер у січні 1547 року.",
+            "Його син Едуард став королем Едуардом VI у віці дев’яти років.",
+            "Дитина не могла правити сама, тому за нього правили регенти.",
+            "Регент — це людина, обрана діяти від імені монарха.",
+            "На відміну від свого батька, Едуард був переконаним протестантом.",
+            "Він був першим протестантським королем Англії.",
+            "За Едуарда Англія стала протестантською країною.",
+            "Церкви зробили простими й скромними.",
+            "Картини й оздоби зняли або знищили.",
+            "Нову книгу молитов написали англійською, а не латиною.",
+            "Багато католиків були незадоволені цими змінами.",
+            "Едуард помер у 1553 році у віці лише 15 років."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جو بادشاہ یا ملکہ کی طرف سے حکومت کرنے کے لیے مقرر ہو (regent)",
+            "وہ مسیحی جو Reformation کے نئے خیالوں پر چلا (Protestant)",
+            "وہ مسیحی جو پوپ کی سربراہی والے روایتی کلیسا پر چلا (Catholic)",
+            "وہ کتاب جس میں کلیسا کی عبادت کے الفاظ لکھے ہوتے ہیں (prayer book)",
+            "ایک مذہب یا عقیدے سے دوسرے کی طرف بدل جانا (convert)"
+          ],
+          "passage": [
+            "ہنری ہشتم جنوری 1547 میں مر گیا۔",
+            "اس کا بیٹا ایڈورڈ نو سال کی عمر میں بادشاہ ایڈورڈ ششم بنا۔",
+            "بچہ اکیلا حکومت نہیں کر سکتا تھا، اس لیے regents نے اس کی طرف سے حکومت کی۔",
+            "regent وہ شخص ہوتا ہے جو بادشاہ یا ملکہ کی طرف سے کام کرنے کے لیے چنا جائے۔",
+            "اپنے باپ کے برعکس، ایڈورڈ پکا Protestant تھا۔",
+            "وہ انگلینڈ کا پہلا Protestant بادشاہ تھا۔",
+            "ایڈورڈ کے دور میں انگلینڈ Protestant ملک بن گیا۔",
+            "کلیسا سادہ اور بے آرائش بنا دیے گئے۔",
+            "تصویریں اور سجاوٹ اتار دی گئیں یا توڑ دی گئیں۔",
+            "ایک نیا prayer book انگریزی میں لکھا گیا، لاطینی میں نہیں۔",
+            "بہت سے کیتھولک ان تبدیلیوں سے ناخوش تھے۔",
+            "ایڈورڈ 1553 میں، صرف 15 سال کی عمر میں مر گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A boy on the throne",
@@ -697,8 +1165,168 @@ window.ASTRA_UNITS["hist-tudors"] = {
           "About 300 Protestants were burned at the stake.",
           "Later, Protestants called her Bloody Mary.",
           "Mary died in 1558, and people in London celebrated."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تأخذ العرش بعد الملك الذي قبلك (succeed)",
+            "أن تعتقد شيئًا يخالف دين الملك (heresy)",
+            "معلومات مصنوعة لتُضلّ الناس (propaganda)",
+            "أسرة من الحكّام يتوارثون العرش واحدًا بعد واحد (dynasty)",
+            "أن تثور على الحاكم (rebel)"
+          ],
+          "passage": [
+            "مات إدوارد السادس في 1553 وعمره 15 سنة، ولم يكن له أولاد.",
+            "وكان يخشى أن تنقض أخته ماري تغييراته البروتستانتية.",
+            "فحاول أن يجعل ابنة عمّه البروتستانتية، الليدي جين غراي (Lady Jane Grey)، ملكة.",
+            "ولم تكن جين قد عُلمت بذلك، فبكت لمّا سمعت الخبر.",
+            "وفي أيّام ذاب تأييدها.",
+            "ودخلت ماري لندن راكبةً، وأُعلنت الملكة ماري الأولى (Mary I).",
+            "وكان عمر ماري 37 سنة، وكانت كاثوليكية مخلصة.",
+            "وتزوّجت الملك فيليب الثاني ملك إسبانيا، وهو ملك كاثوليكي.",
+            "وكثير من الناس في إنجلترا لم يرضَ، وبعضهم تمرّد.",
+            "وأعادت ماري كتب الصلوات اللاتينية والكنائس المزخرفة.",
+            "وجعلت الهرطقة جريمةً من جديد.",
+            "وأُحرق نحو 300 بروتستانتي على الخشبة.",
+            "وسمّاها البروتستانتيون بعد ذلك ماري الدمويّة (Bloody Mary).",
+            "وماتت ماري في 1558، فاحتفل الناس في لندن."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "objąć tron po poprzednim monarsze (succeed)",
+            "wierzenie w coś, co sprzeciwia się religii monarchy (heresy)",
+            "informacje przygotowane tak, żeby wprowadzać ludzi w błąd (propaganda)",
+            "rodzina władców, którzy przekazują sobie tron (dynasty)",
+            "powstać przeciwko władcy (rebel)"
+          ],
+          "passage": [
+            "Edward VI umarł w 1553 roku, mając 15 lat i nie mając dzieci.",
+            "Bał się, że jego siostra Mary (Maria) odwróci jego protestanckie zmiany.",
+            "Dlatego próbował zrobić królową swoją protestancką kuzynkę, Lady Jane Grey.",
+            "Jane nie powiedziano o tym wcześniej i rozpłakała się, kiedy usłyszała tę wiadomość.",
+            "W ciągu kilku dni poparcie dla niej się rozpłynęło.",
+            "Mary wjechała do Londynu i ogłoszono ją królową Mary I (Marią I).",
+            "Mary miała 37 lat i była przekonaną katoliczką.",
+            "Wyszła za króla Philipa II (Filipa II) z Hiszpanii, króla katolickiego.",
+            "Wielu ludzi w Anglii było niezadowolonych, a niektórzy się zbuntowali.",
+            "Mary przywróciła łacińskie księgi nabożeństw i ozdobione kościoły.",
+            "Znowu uczyniła herezję przestępstwem.",
+            "Około 300 protestantów spalono na stosie.",
+            "Później protestanci nazwali ją Bloody Mary, czyli Krwawą Marią.",
+            "Mary umarła w 1558 roku, a ludzie w Londynie świętowali."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ocupar o trono depois do monarca anterior (succeed, suceder)",
+            "acreditar em algo que vai contra a religião do monarca (heresy, heresia)",
+            "informação feita para enganar as pessoas (propaganda)",
+            "uma família de governantes que passa o trono de um para o seguinte (dynasty, dinastia)",
+            "levantar-se contra o governante (rebel, rebelar-se)"
+          ],
+          "passage": [
+            "Edward VI morreu em 1553, com 15 anos, sem filhos.",
+            "Tinha medo de que a sua irmã Mary desfizesse as suas mudanças protestantes.",
+            "Por isso tentou fazer rainha a sua prima protestante, Lady Jane Grey.",
+            "Ninguém tinha dito nada a Jane, e ela chorou quando soube da notícia.",
+            "Em poucos dias, o apoio que tinha desapareceu.",
+            "Mary entrou em Londres a cavalo e foi proclamada rainha Mary I (Maria I).",
+            "Mary tinha 37 anos e era uma católica convicta.",
+            "Casou com o rei Philip II (Filipe II) de Espanha, um rei católico.",
+            "Muitas pessoas em Inglaterra ficaram descontentes, e algumas rebelaram-se.",
+            "Mary trouxe de volta os livros de orações em latim e as igrejas decoradas.",
+            "Fez da heresia um crime outra vez.",
+            "Cerca de 300 protestantes foram queimados na fogueira.",
+            "Mais tarde, os protestantes chamaram-lhe Bloody Mary, Maria a Sanguinária.",
+            "Mary morreu em 1558, e as pessoas em Londres festejaram."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad carshiga qaadato boqorkii hore kadib",
+            "inaad rumaysato wax ka hor imanaya diinta boqorka",
+            "macluumaad loogu talagalay in dadka lagu khaldo",
+            "qoys taliyeyaal ah oo carshiga midba midka kale u dhaafo",
+            "inaad taliyaha ku kacdo"
+          ],
+          "passage": [
+            "Edward VI wuxuu dhintay 1553-dii, isagoo 15 jir ah, carruurna ma lahayn.",
+            "Wuxuu ka cabsaday in walaashiis Mary ay isbeddelladiisa Protestant burburiso.",
+            "Markaa wuxuu isku dayay inuu ina-adeertiis Protestant ah, Lady Jane Grey, boqorad ka dhigo.",
+            "Jane looma sheegin, warkana markay maqashay way ooyday.",
+            "Maalmo gudahood taageeradeedii way baabba'day.",
+            "Mary waxay London soo gashay oo waxaa lagu dhawaaqay Boqorad Mary I.",
+            "Mary waxay ahayd 37 jir iyo Katoolig go'an.",
+            "Waxay guursatay Boqor Philip II ee Spain, oo ahaa boqor Katoolig ah.",
+            "Dad badan oo England joogay way ka xumaadeen, qaarna way kaceen.",
+            "Mary waxay dib u soo celisay buugag tukasho Laatiin ah iyo kaniisado la qurxiyay.",
+            "Waxay heresy mar kale dembi ka dhigtay.",
+            "Qiyaastii 300 Protestant ayaa tiir lagu xiray oo lagu gubay.",
+            "Kadib, Protestants waxay ugu yeereen Bloody Mary.",
+            "Mary waxay dhintay 1558-kii, dadka London-na way dabbaaldegeen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "зайняти трон після попереднього монарха (succeed)",
+            "віра в те, що суперечить релігії монарха (heresy)",
+            "інформація, створена, щоб вводити людей в обман (propaganda)",
+            "родина правителів, які передають трон один одному (dynasty)",
+            "повстати проти правителя (rebel)"
+          ],
+          "passage": [
+            "Едуард VI помер у 1553 році у віці 15 років, не маючи дітей.",
+            "Він боявся, що його сестра Марія скасує його протестантські зміни.",
+            "Тому він спробував зробити королевою свою протестантську двоюрідну сестру, леді Джейн Ґрей.",
+            "Джейн про це не сказали, і вона плакала, коли почула цю новину.",
+            "За кілька днів її підтримка розтанула.",
+            "Марія в’їхала до Лондона, і її оголосили королевою Марією I.",
+            "Марії було 37, і вона була переконаною католичкою.",
+            "Вона одружилася з королем Філіпом II Іспанським, католицьким королем.",
+            "Багато людей в Англії були незадоволені, а деякі повстали.",
+            "Марія повернула латинські книги молитов і оздоблені церкви.",
+            "Вона знову зробила єресь злочином.",
+            "Близько 300 протестантів спалили на вогнищі.",
+            "Пізніше протестанти називали її Кривавою Мері (Bloody Mary).",
+            "Марія померла у 1558 році, і люди в Лондоні святкували."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پہلے بادشاہ یا ملکہ کے بعد تخت سنبھالنا (succeed)",
+            "ایسی بات ماننا جو بادشاہ یا ملکہ کے مذہب کے خلاف ہو (heresy)",
+            "وہ معلومات جو لوگوں کو گمراہ کرنے کے لیے بنائی جائیں (propaganda)",
+            "حاکموں کا وہ خاندان جو تخت ایک سے دوسرے کو دیتا جائے (dynasty)",
+            "حاکم کے خلاف اٹھ کھڑا ہونا (rebel)"
+          ],
+          "passage": [
+            "ایڈورڈ ششم 1553 میں، 15 سال کی عمر میں، بے اولاد مر گیا۔",
+            "اسے ڈر تھا کہ اس کی بہن میری اس کی Protestant تبدیلیاں اُلٹ دے گی۔",
+            "اس لیے اس نے کوشش کی کہ اس کی Protestant کزن، لیڈی جین گرے (Lady Jane Grey)، ملکہ بنے۔",
+            "جین کو بتایا ہی نہیں گیا تھا، اور خبر سن کر وہ رو پڑی۔",
+            "کچھ ہی دنوں میں اس کی حمایت ختم ہو گئی۔",
+            "میری لندن میں داخل ہوئی اور اسے ملکہ میری اوّل قرار دیا گیا۔",
+            "میری 37 سال کی تھی اور پکی کیتھولک تھی۔",
+            "اس نے سپین کے بادشاہ فلپ دوم سے شادی کی، جو کیتھولک بادشاہ تھا۔",
+            "انگلینڈ میں بہت لوگ ناخوش تھے، اور کچھ نے بغاوت کی۔",
+            "میری لاطینی prayer books اور سجے ہوئے کلیسا واپس لائی۔",
+            "اس نے heresy کو دوبارہ جرم بنا دیا۔",
+            "تقریباً 300 Protestants کو کھمبے سے باندھ کر جلا دیا گیا۔",
+            "بعد میں Protestants نے اسے Bloody Mary کہا۔",
+            "میری 1558 میں مر گئی، اور لندن کے لوگوں نے خوشیاں منائیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A troubled early life and a race for the crown",
@@ -897,8 +1525,168 @@ window.ASTRA_UNITS["hist-tudors"] = {
           "Under Elizabeth, England grew strong and explored the world.",
           "In 1588 England defeated the Spanish Armada.",
           "Historians call her reign a Golden Age."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "لقب إليزابيث قائدةً لكنيسة إنجلترا، وهو ألطف من الرأس الأعلى (Supreme Governor)",
+            "تسوية إليزابيث الدينية بين الكاثوليكيين والبروتستانتيين (Middle Way)",
+            "اتّفاق يحلّ خصومة (settlement)",
+            "أن يفعل الجميع الشيء نفسه (uniformity)",
+            "اتّفاق يتنازل فيه كلّ طرف عن شيء (compromise)",
+            "أسطول كبير من السفن الحربية (Armada)"
+          ],
+          "passage": [
+            "ماتت ماري في 17 نوفمبر 1558 ولم يكن لها وارث.",
+            "فصارت أختها غير الشقيقة إليزابيث ملكةً في اليوم نفسه، وعمرها 25 سنة.",
+            "وكانت إليزابيث ابنة هنري الثامن وآن بولين.",
+            "وقد نشأت بروتستانتية، ولكنها كانت قد تعلّمت أن تخفي نفسها.",
+            "وكانت إنجلترا قد عانت سنوات من الاضطراب الديني.",
+            "وأرادت إليزابيث طريقًا جديدًا يقبله الطرفان.",
+            "وفي 1559 أقرّ البرلمان تسويتها الدينية.",
+            "وصارت تُعرف بالطريق الوسط (Middle Way).",
+            "وكانت إليزابيث الحاكم الأعلى للكنيسة، لا الرأس الأعلى.",
+            "وكان على الجميع أن يذهبوا إلى الكنيسة، وكتاب الصلوات بالإنجليزية.",
+            "وفي عهد إليزابيث قويت إنجلترا واستكشفت العالم.",
+            "وفي 1588 هزمت إنجلترا الأرمادا الإسبانية.",
+            "ويسمّي المؤرّخون عهدها عصرًا ذهبيًّا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "tytuł Elizabeth jako przywódczyni Kościoła Anglii, łagodniejszy niż Supreme Head (Supreme Governor)",
+            "religijny kompromis Elizabeth między katolikami i protestantami (Middle Way)",
+            "umowa, która rozstrzyga spór (settlement)",
+            "sytuacja, w której wszyscy robią to samo (uniformity)",
+            "ugoda, w której każda strona z czegoś rezygnuje (compromise)",
+            "wielka flota okrętów wojennych (Armada)"
+          ],
+          "passage": [
+            "Mary umarła 17 listopada 1558 roku, nie zostawiając następcy.",
+            "Jej przyrodnia siostra Elizabeth (Elżbieta) została królową tego samego dnia, w wieku 25 lat.",
+            "Elizabeth była córką króla Henry'ego VIII i jego żony Anne Boleyn.",
+            "Wychowano ją jako protestantkę, ale nauczyła się nie zwracać na siebie uwagi.",
+            "Anglia przeszła lata religijnych wstrząsów.",
+            "Elizabeth chciała nowej drogi, którą obie strony mogłyby przyjąć.",
+            "W 1559 roku parlament uchwalił jej Religious Settlement, czyli ugodę religijną.",
+            "Zaczęto ją nazywać Middle Way, czyli drogą środka.",
+            "Elizabeth nosiła tytuł Supreme Governor (Najwyższy Zarządca) Kościoła, a nie Supreme Head.",
+            "Wszyscy musieli chodzić do kościoła, a księga nabożeństw była po angielsku.",
+            "Pod rządami Elizabeth Anglia wzmocniła się i badała świat.",
+            "W 1588 roku Anglia pobiła hiszpańską Armadę.",
+            "Historycy nazywają jej panowanie złotym wiekiem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o título de Elizabeth como chefe da Igreja de Inglaterra, mais suave do que Supreme Head (Supreme Governor)",
+            "o compromisso religioso de Elizabeth entre católicos e protestantes (Middle Way, Via Média)",
+            "um acordo que põe fim a uma disputa (settlement)",
+            "todos a fazer a mesma coisa (uniformity, uniformidade)",
+            "um acordo em que cada lado cede algo (compromise, compromisso)",
+            "uma grande frota de navios de guerra (Armada)"
+          ],
+          "passage": [
+            "Mary morreu a 17 de novembro de 1558 sem herdeiro.",
+            "A sua meia-irmã Elizabeth (Isabel) tornou-se rainha no mesmo dia, com 25 anos.",
+            "Elizabeth era filha de Henry VIII e de Anne Boleyn.",
+            "Tinha sido criada como protestante, mas tinha aprendido a não dar nas vistas.",
+            "A Inglaterra tinha sofrido anos de agitação religiosa.",
+            "Elizabeth queria um caminho novo que os dois lados conseguissem aceitar.",
+            "Em 1559 o Parlamento aprovou o seu Religious Settlement, o acordo religioso.",
+            "Ficou conhecido como a Via Média (Middle Way).",
+            "Elizabeth era Supreme Governor da Igreja, não Supreme Head.",
+            "Todos tinham de ir à igreja, e o livro de orações era em inglês.",
+            "Com Elizabeth, a Inglaterra ficou forte e explorou o mundo.",
+            "Em 1588 a Inglaterra derrotou a Armada Espanhola.",
+            "Os historiadores chamam ao seu reinado uma Idade de Ouro."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "cinwaankii Elizabeth ee hoggaamiyaha Kaniisadda England, oo ka jilicsan Supreme Head",
+            "tanaasulkii diineed ee Elizabeth ee u dhexeeyay Katooligga iyo Protestants",
+            "heshiis muran lagu dhammaystiro",
+            "qof walba oo isku shay sameeya",
+            "heshiis uu dhinac kastaa wax ka tago",
+            "maraakiib dagaal oo aad u badan"
+          ],
+          "passage": [
+            "Mary waxay dhintay 17 Noofembar 1558 iyadoon dhaxal-suge lahayn.",
+            "Walaasheed-nuska Elizabeth waxay isla maalintaas boqorad noqotay, iyadoo 25 jir ah.",
+            "Elizabeth waxay ahayd gabadhii Henry VIII iyo Anne Boleyn.",
+            "Protestant ayaa lagu koriyay, laakiin waxay bartay inay isha hoose iska dhigto.",
+            "England waxay la kulantay sanado qalalaase diineed.",
+            "Elizabeth waxay rabtay hab cusub oo labada dhinac aqbali karaan.",
+            "1559-kii Baarlamaanku wuxuu ansixiyay Religious Settlement-keeda.",
+            "Waxaa loo yaqaannay Middle Way.",
+            "Elizabeth waxay ahayd Supreme Governor ee Kaniisadda, ee ma ahayn Supreme Head.",
+            "Qof walba waa inuu kaniisadda tagaa, buugga tukashadana Ingiriisi ahaa.",
+            "Elizabeth hoostiisa, England way xoogaysatay oo dunida way sahamisay.",
+            "1588-kii England waxay garaacday Armada-dii Isbaanishka.",
+            "Taariikhyahannadu xukunkeeda waxay ugu yeeraan Xilligii Dahabka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "титул Єлизавети як очільниці Церкви Англії, м’якший за Supreme Head (Supreme Governor)",
+            "релігійний компроміс Єлизавети між католиками і протестантами (Middle Way)",
+            "домовленість, яка вирішує спір (settlement)",
+            "коли всі роблять те саме (uniformity)",
+            "угода, у якій кожна сторона від чогось відмовляється (compromise)",
+            "великий флот військових кораблів (Armada)"
+          ],
+          "passage": [
+            "Марія померла 17 листопада 1558 року, не маючи спадкоємця.",
+            "Її напівсестра Єлизавета стала королевою того самого дня, у віці 25 років.",
+            "Єлизавета була донькою Генріха VIII і Анни Болейн.",
+            "Її виховали протестанткою, але вона навчилася не привертати до себе уваги.",
+            "Англія пережила роки релігійних потрясінь.",
+            "Єлизавета хотіла нового шляху, який могли б прийняти обидві сторони.",
+            "У 1559 році парламент ухвалив її Релігійну угоду.",
+            "Вона стала відома як Середній шлях (the Middle Way).",
+            "Єлизавета була Верховною правительницею Церкви, а не Верховною головою.",
+            "Усі мусили ходити до церкви, а книга молитов була англійською.",
+            "За Єлизавети Англія зросла в силі й досліджувала світ.",
+            "У 1588 році Англія розбила Іспанську Армаду.",
+            "Історики називають її правління Золотою добою."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "Church of England کی سربراہی میں الزبتھ کا لقب، جو Supreme Head سے نرم تھا (Supreme Governor)",
+            "کیتھولکوں اور Protestants کے درمیان الزبتھ کا مذہبی سمجھوتہ (Middle Way)",
+            "وہ معاہدہ جو کسی جھگڑے کو طے کر دے (settlement)",
+            "سب کا ایک ہی طرح کرنا (uniformity)",
+            "ایسا سمجھوتہ جس میں ہر فریق کچھ چھوڑ دے (compromise)",
+            "جنگی جہازوں کا ایک بڑا بیڑا (Armada)"
+          ],
+          "passage": [
+            "میری 17 نومبر 1558 کو بے وارث مر گئی۔",
+            "اسی دن اس کی سوتیلی بہن الزبتھ، 25 سال کی عمر میں، ملکہ بنی۔",
+            "الزبتھ ہنری ہشتم اور این بولین کی بیٹی تھی۔",
+            "اس کی تربیت Protestant کے طور پر ہوئی تھی، مگر اس نے کم نمایاں رہنا سیکھ لیا تھا۔",
+            "انگلینڈ برسوں مذہبی ہلچل جھیل چکا تھا۔",
+            "الزبتھ ایک نیا راستہ چاہتی تھی جو دونوں فریق قبول کر لیں۔",
+            "1559 میں پارلیمنٹ نے اس کا Religious Settlement منظور کیا۔",
+            "یہ Middle Way کے نام سے مشہور ہوا۔",
+            "الزبتھ کلیسا کی Supreme Governor تھی، Supreme Head نہیں۔",
+            "سب کو کلیسا جانا پڑتا تھا، اور prayer book انگریزی میں تھا۔",
+            "الزبتھ کے دور میں انگلینڈ مضبوط ہوا اور اس نے دنیا کی سیر و دریافت کی۔",
+            "1588 میں انگلینڈ نے سپینی Armada کو ہرا دیا۔",
+            "مؤرخ اس کے دور کو سنہرا دور (Golden Age) کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A new queen after years of upheaval",
@@ -1095,8 +1883,156 @@ window.ASTRA_UNITS["hist-tudors"] = {
           "They ask how long it lasted.",
           "They ask whether it was something brand new.",
           "Use these three tests to make your own judgement."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "خطّة عمل يختارها حاكم أو حكومة (policy)",
+            "الأثر الذي يُحدثه الشيء في الناس (impact)",
+            "لا يزال يُحَسّ بعد زمن طويل (long-lasting)",
+            "حكمك بعد أن تزن الأدلّة (judgement)",
+            "وقائع تسند نقطةً (evidence)"
+          ],
+          "passage": [
+            "لقد عرفت الآن أربعة من ملوك التيودور غيّروا الدين في إنجلترا.",
+            "فهنري الثامن انفصل عن البابا وجعل نفسه الرأس الأعلى للكنيسة.",
+            "وأغلق الأديرة، ولكنه أبقى الخدمات الكاثوليكية.",
+            "وإدوارد السادس جعل إنجلترا بروتستانتية، بكنائس بسيطة وكتاب صلوات إنجليزي.",
+            "وماري الأولى أعادت الإيمان الكاثوليكي وأحرقت نحو 300 بروتستانتي.",
+            "وإليزابيث الأولى اختارت الطريق الوسط لتُنهي القتال.",
+            "وتقييمك يسألك: أيّ ملك أحدث أكبر التغييرات الدينية؟",
+            "والمؤرّخون يحكمون على التغيّر بأثره.",
+            "فهم يسألون: كم عدد الناس الذين أثّر فيهم؟",
+            "ويسألون: كم دام؟",
+            "ويسألون: هل كان شيئًا جديدًا كلّ الجدّة؟",
+            "فاستخدم هذه الاختبارات الثلاثة لتصل إلى حكمك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "plan działania wybrany przez władcę albo rząd (policy)",
+            "wpływ, jaki coś ma na ludzi (impact)",
+            "wciąż odczuwany długo potem (long-lasting)",
+            "twoja decyzja po rozważeniu dowodów (judgement)",
+            "fakty, które popierają jakąś myśl (evidence)"
+          ],
+          "passage": [
+            "Poznałeś już czterech monarchów Tudorów, którzy zmienili religię w Anglii.",
+            "Henry VIII (Henryk VIII) zerwał z papieżem i zrobił siebie Supreme Head Kościoła.",
+            "Zamknął klasztory, ale zachował katolickie nabożeństwa.",
+            "Edward VI uczynił Anglię protestancką, z prostymi kościołami i angielską księgą nabożeństw.",
+            "Mary I (Maria I) przywróciła wiarę katolicką i spaliła około 300 protestantów.",
+            "Elizabeth I (Elżbieta I) wybrała Middle Way, żeby zakończyć walki.",
+            "Twoje zadanie pyta, który monarcha dokonał największych zmian religijnych.",
+            "Historycy oceniają zmianę po jej wpływie.",
+            "Pytają, ilu ludzi dotknęła.",
+            "Pytają, jak długo trwała.",
+            "Pytają, czy była czymś zupełnie nowym.",
+            "Użyj tych trzech sprawdzeń, żeby wydać własny sąd."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um plano de ação escolhido por um governante ou por um governo (policy, política)",
+            "o efeito que uma coisa tem nas pessoas (impact, impacto)",
+            "que ainda se sente muito tempo depois (long-lasting, duradouro)",
+            "a tua decisão depois de pesares as provas (judgement, juízo)",
+            "factos/fatos que apoiam uma ideia (evidence, provas)"
+          ],
+          "passage": [
+            "Já conheceste quatro monarcas Tudor que mudaram a religião em Inglaterra.",
+            "Henry VIII rompeu com o Papa e fez-se Supreme Head da Igreja.",
+            "Fechou os mosteiros, mas manteve as celebrações católicas.",
+            "Edward VI tornou a Inglaterra protestante, com igrejas despojadas e um livro de orações em inglês.",
+            "Mary I trouxe de volta a fé católica e mandou queimar cerca de 300 protestantes.",
+            "Elizabeth I escolheu a Via Média para acabar com os conflitos.",
+            "A tua avaliação pergunta qual destes monarcas fez as maiores mudanças religiosas.",
+            "Os historiadores julgam uma mudança pelo seu impacto.",
+            "Perguntam a quantas pessoas ela afetou.",
+            "Perguntam quanto tempo ela durou.",
+            "Perguntam se era uma coisa completamente nova.",
+            "Usa estes três testes para fazeres o teu próprio juízo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qorshe tallaabo oo taliye ama dowlad dooratay",
+            "saameynta wax ku yeesho dadka",
+            "weli muddo dheer kadib la dareemayo",
+            "go'aankaaga kadib markaad caddaynta miisaantay",
+            "xaqiiqooyin taageeraya qodob"
+          ],
+          "passage": [
+            "Hadda waxaad la kulantay afar boqor Tudor ah oo diinta England beddelay.",
+            "Henry VIII wuxuu Baaba'ka ka go'ay oo naftiisa ka dhigay Supreme Head ee Kaniisadda.",
+            "Monasteries-ka wuu xidhay, laakiin adeegyada Katooligga wuu sii hayay.",
+            "Edward VI wuxuu England ka dhigay Protestant, oo leh kaniisado caadi ah iyo buug tukasho Ingiriisi ah.",
+            "Mary I waxay dib u soo celisay caqiidada Katooligga oo qiyaastii 300 Protestant way gubtay.",
+            "Elizabeth I waxay dooratay Middle Way si ay dagaalka u joojiso.",
+            "Qiimeyntaada waxay weydiinaysaa boqorkee isbeddelka diineed ugu weyn sameeyay.",
+            "Taariikhyahannadu isbeddel waxay ku qiimeeyaan saameyntiisa.",
+            "Waxay weydiiyaan inta qof ay saamaysay.",
+            "Waxay weydiiyaan inta muddo ay socotay.",
+            "Waxay weydiiyaan inay ahayd wax cusub oo dhammaystiran.",
+            "Isticmaal saddexdan tijaabo si aad go'aankaaga u gaarto."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "план дій, обраний правителем або урядом (policy)",
+            "вплив, який щось має на людей (impact)",
+            "той, що відчувається ще довго потім (long-lasting)",
+            "ваше рішення після того, як ви зважили свідчення (judgement)",
+            "факти, які підтверджують думку (evidence)"
+          ],
+          "passage": [
+            "Тепер ви познайомилися з чотирма монархами Тюдорів, які змінювали релігію в Англії.",
+            "Генріх VIII відірвався від Папи і зробив себе Верховним головою Церкви.",
+            "Він закрив монастирі, але зберіг католицькі служби.",
+            "Едуард VI зробив Англію протестантською, зі скромними церквами і книгою молитов англійською.",
+            "Марія I повернула католицьку віру і спалила близько 300 протестантів.",
+            "Єлизавета I обрала Середній шлях, щоб припинити ворожнечу.",
+            "Ваша контрольна робота питає, який монарх зробив найбільші релігійні зміни.",
+            "Історики оцінюють зміну за її впливом.",
+            "Вони питають, скількох людей вона торкнулася.",
+            "Вони питають, як довго вона тривала.",
+            "Вони питають, чи було це чимось цілком новим.",
+            "Використайте ці три перевірки, щоб зробити власний висновок."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی حاکم یا حکومت کا چنا ہوا منصوبۂ عمل (policy)",
+            "کسی چیز کا لوگوں پر ہونے والا اثر (impact)",
+            "جو بہت عرصے بعد بھی محسوس ہو (long-lasting)",
+            "شہادت کو تول کر کیا ہوا آپ کا فیصلہ (judgement)",
+            "وہ حقائق جو کسی بات کی تائید کریں (evidence)"
+          ],
+          "passage": [
+            "اب تک آپ چار ٹیوڈر حاکموں سے مل چکے ہیں جنھوں نے انگلینڈ میں مذہب بدلا۔",
+            "ہنری ہشتم نے پوپ سے ناتا توڑا اور خود کو کلیسا کا Supreme Head بنا لیا۔",
+            "اس نے monasteries بند کر دیے، مگر کیتھولک عبادت جاری رکھی۔",
+            "ایڈورڈ ششم نے انگلینڈ کو Protestant بنا دیا، سادہ کلیسا اور انگریزی prayer book کے ساتھ۔",
+            "میری اوّل کیتھولک عقیدہ واپس لائی اور تقریباً 300 Protestants کو جلا دیا۔",
+            "الزبتھ اوّل نے لڑائی ختم کرنے کے لیے Middle Way چنا۔",
+            "آپ کے امتحان میں پوچھا جاتا ہے کہ کس حاکم نے سب سے بڑی مذہبی تبدیلیاں کیں۔",
+            "مؤرخ کسی تبدیلی کو اس کے impact سے جانچتے ہیں۔",
+            "وہ پوچھتے ہیں کہ اس سے کتنے لوگ متاثر ہوئے۔",
+            "وہ پوچھتے ہیں کہ وہ کتنا عرصہ چلی۔",
+            "وہ پوچھتے ہیں کہ آیا وہ بالکل نئی بات تھی۔",
+            "ان تین جانچوں سے اپنا فیصلہ کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four monarchs, four policies",

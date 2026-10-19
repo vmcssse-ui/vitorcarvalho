@@ -107,8 +107,168 @@ window.ASTRA_UNITS["geog-local-place"] = {
           "We call this SEE analysis.",
           "The world has seven continents and five oceans.",
           "You will need their names all year."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخص يبحث في الأماكن وفي العالم ويدرسها (geographer)",
+            "دراسة أين يعيش الناس وكيف يعيشون (human geography)",
+            "دراسة المعالم والظواهر الطبيعية (physical geography)",
+            "حيث يؤثّر الناس والطبيعة كلٌّ في الآخر (environmental geography)",
+            "واحدة من مناطق اليابسة السبع الضخمة على الأرض (continent)",
+            "واحد من المسطّحات المائية المالحة الضخمة التي تغطّي معظم الأرض (ocean)"
+          ],
+          "passage": [
+            "الجغرافيا هي دراسة العالم الذي نعيش فيه.",
+            "إنها تنظر في المناظر الطبيعية والناس والأماكن والبيئات.",
+            "يسأل الجغرافي أين يقع المكان وكيف هو.",
+            "ثم يسأل لماذا هو على هذه الحال وكيف يتغيّر.",
+            "هناك ثلاثة أنواع من الجغرافيا.",
+            "الجغرافيا البشرية (human geography) تدرس أين يعيش الناس وكيف يعيشون.",
+            "الجغرافيا الطبيعية (physical geography) تدرس المعالم والظواهر الطبيعية، مثل الأنهار والطقس.",
+            "الجغرافيا البيئية (environmental geography) هي حيث تتّصل الجغرافيا البشرية بالجغرافيا الطبيعية.",
+            "التلوّث والاحترار العالمي من الجغرافيا البيئية.",
+            "يفكّر الجغرافيون أيضًا في العوامل الاجتماعية والاقتصادية والبيئية.",
+            "ونسمّي هذا تحليل SEE.",
+            "في العالم سبع قارّات وخمسة محيطات.",
+            "وستحتاج إلى أسمائها طوال العام."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osoba, która bada miejsca i świat",
+            "nauka o tym, gdzie i jak żyją ludzie",
+            "nauka o naturalnych formach terenu i zjawiskach przyrody",
+            "tam, gdzie ludzie i przyroda wpływają na siebie",
+            "jeden z siedmiu wielkich obszarów lądu na Ziemi",
+            "jeden z wielkich obszarów słonej wody, które pokrywają większość Ziemi"
+          ],
+          "passage": [
+            "Geografia to nauka o świecie, w którym żyjemy.",
+            "Zajmuje się krajobrazami, ludźmi, miejscami i środowiskiem.",
+            "Geograf pyta, gdzie leży dane miejsce i jakie ono jest.",
+            "Potem pyta, dlaczego takie jest i jak się zmienia.",
+            "Są trzy rodzaje geografii.",
+            "Geografia człowieka (human geography) mówi o tym, gdzie i jak żyją ludzie.",
+            "Geografia fizyczna (physical geography) mówi o formach terenu i zjawiskach przyrody, takich jak rzeki i pogoda.",
+            "Geografia środowiska (environmental geography) to miejsce, w którym te dwie łączą się ze sobą.",
+            "Zanieczyszczenie i globalne ocieplenie należą do geografii środowiska.",
+            "Geografowie myślą też o czynnikach społecznych, gospodarczych i środowiskowych.",
+            "Nazywamy to analizą SEE.",
+            "Świat ma siedem kontynentów i pięć oceanów.",
+            "Ich nazwy będą ci potrzebne przez cały rok."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pessoa que investiga lugares e o mundo (geographer, geógrafo)",
+            "o estudo de onde e como as pessoas vivem (human geography, geografia humana)",
+            "o estudo dos elementos e acontecimentos naturais (physical geography, geografia física)",
+            "onde as pessoas e a natureza se afetam uma à outra (environmental geography, geografia ambiental)",
+            "uma das sete enormes áreas de terra da Terra (continent, continente)",
+            "uma das enormes áreas de água salgada que cobrem quase toda a Terra (ocean, oceano)"
+          ],
+          "passage": [
+            "A Geografia é o estudo do mundo em que vivemos.",
+            "Olha para as paisagens, as pessoas, os lugares e os ambientes.",
+            "Um geógrafo (geographer) pergunta onde fica um lugar e como ele é.",
+            "Depois pergunta porque é assim e como está a mudar / como está mudando.",
+            "Há três tipos de geografia.",
+            "A geografia humana (human geography) trata de onde e como as pessoas vivem.",
+            "A geografia física (physical geography) trata de elementos e acontecimentos naturais, como os rios e o tempo.",
+            "A geografia ambiental (environmental geography) é onde a geografia humana e a física se ligam.",
+            "A poluição e o aquecimento global são geografia ambiental.",
+            "Os geógrafos também pensam em fatores sociais, económicos/econômicos e ambientais.",
+            "A isto chamamos análise SEE (SEE analysis).",
+            "O mundo tem sete continentes e cinco oceanos.",
+            "Vais precisar dos nomes deles durante todo o ano."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qof baaraya meelaha iyo dunida",
+            "barashada meesha iyo sida dadku ku noolyihiin",
+            "barashada astaamaha iyo dhacdooyinka dabiiciga ah",
+            "meesha dadka iyo dabeecadda ay isku saameeyaan",
+            "mid ka mid ah toddobada dhul-weyn ee Dhulka",
+            "mid ka mid ah meelaha waaweyn ee biyo cusbo leh oo qariya inta badan Dhulka"
+          ],
+          "passage": [
+            "Juqraafigu waa barashada dunida aan ku noolnahay.",
+            "Wuxuu eegaa muuqaalka dhulka, dadka, meelaha iyo deegaannada.",
+            "Juqraafi-yaqaanku wuxuu weydiiyaa meeshu halkee tahay iyo sida ay u eg tahay.",
+            "Kadibna wuxuu weydiiyaa maxay sidaas u tahay iyo sida ay u isbeddelayso.",
+            "Saddex nooc oo juqraafi ah ayaa jira.",
+            "Juqraafiga bani'aadmiga (human geography) wuxuu ka hadlaa meesha iyo sida dadku ku noolyihiin.",
+            "Juqraafiga dabiiciga (physical geography) wuxuu ka hadlaa astaamaha iyo dhacdooyinka dabiiciga ah, sida webiyada iyo hawada.",
+            "Juqraafiga deegaanka (environmental geography) waa meesha labada nooc kale ay isku xirmaan.",
+            "Wasakhaynta iyo kululaanshaha dunida waa juqraafiga deegaanka.",
+            "Juqraafi-yaqaannadu waxay sidoo kale ka fikiraan arrimaha bulsho, dhaqaale iyo deegaan.",
+            "Tan waxaa la yiraahdaa SEE analysis.",
+            "Dunida waxay leedahay toddoba qaarad iyo shan badweyn.",
+            "Magacyadooda sanadka oo dhan waad u baahan doontaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "особа, яка досліджує місця і світ (geographer)",
+            "вивчення того, де і як живуть люди (human geography)",
+            "вивчення природних об’єктів і явищ (physical geography)",
+            "те, де люди і природа впливають одне на одного (environmental geography)",
+            "один із семи величезних масивів землі на Землі (continent)",
+            "один з величезних просторів солоної води, що покривають більшу частину Землі (ocean)"
+          ],
+          "passage": [
+            "Географія — це вивчення світу, у якому ми живемо.",
+            "Вона розглядає ландшафти, людей, місця й довкілля.",
+            "Географ запитує, де розташоване місце і яке воно.",
+            "Потім він запитує, чому воно таке і як воно змінюється.",
+            "Є три види географії.",
+            "Суспільна географія — про те, де і як живуть люди.",
+            "Фізична географія — про природні об’єкти та явища, як-от річки й погоду.",
+            "Географія довкілля — це там, де суспільна і фізична географія поєднуються.",
+            "Забруднення і глобальне потепління — це географія довкілля.",
+            "Географи також думають про соціальні, економічні й екологічні фактори.",
+            "Ми називаємо це SEE-аналізом.",
+            "У світі сім континентів і п’ять океанів.",
+            "Їхні назви будуть вам потрібні цілий рік."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جو جگہوں اور دنیا کی تحقیق کرتا ہے (geographer)",
+            "اس بات کا مطالعہ کہ لوگ کہاں اور کیسے رہتے ہیں",
+            "قدرتی خصوصیات اور قدرتی واقعات کا مطالعہ",
+            "جہاں لوگ اور قدرت ایک دوسرے پر اثر ڈالتے ہیں",
+            "زمین پر خشکی کے سات بہت بڑے حصوں میں سے ایک (continent)",
+            "نمکین پانی کے ان بہت بڑے حصوں میں سے ایک جو زمین کا بڑا حصہ ڈھانپے ہوئے ہیں"
+          ],
+          "passage": [
+            "جغرافیہ اس دنیا کا مطالعہ ہے جس میں ہم رہتے ہیں۔",
+            "یہ مناظر، لوگوں، جگہوں اور ماحول کو دیکھتا ہے۔",
+            "ایک جغرافیہ دان پوچھتا ہے کہ کوئی جگہ کہاں ہے اور کیسی ہے۔",
+            "پھر وہ پوچھتے ہیں کہ وہ ایسی کیوں ہے اور کیسے بدل رہی ہے۔",
+            "جغرافیہ کی تین قسمیں ہیں۔",
+            "انسانی جغرافیہ (human geography) اس بارے میں ہے کہ لوگ کہاں اور کیسے رہتے ہیں۔",
+            "طبعی جغرافیہ (physical geography) قدرتی خصوصیات اور واقعات کے بارے میں ہے، جیسے دریا اور موسم۔",
+            "ماحولیاتی جغرافیہ (environmental geography) وہ جگہ ہے جہاں انسانی اور طبعی جغرافیہ آپس میں جڑ جاتے ہیں۔",
+            "آلودگی اور عالمی حدت (global warming) ماحولیاتی جغرافیہ میں آتے ہیں۔",
+            "جغرافیہ دان سماجی، معاشی اور ماحولیاتی عوامل کے بارے میں بھی سوچتے ہیں۔",
+            "ہم اسے SEE analysis کہتے ہیں۔",
+            "دنیا میں سات براعظم اور پانچ سمندر ہیں۔",
+            "آپ کو سارا سال ان کے نام یاد رکھنے ہوں گے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The study of the world we live in",
@@ -330,8 +490,168 @@ window.ASTRA_UNITS["geog-local-place"] = {
           "You count tenths across, then tenths up.",
           "The extra number goes after each pair.",
           "So 028 014 means 2 across, 8 tenths more, then 1 up, 4 tenths more."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الأرقام التي تحدّد مربّعًا أو نقطة على الخريطة (grid reference)",
+            "واحد من المربّعات التي تصنعها خطوط الخريطة (grid square)",
+            "الخطوط المرقّمة التي تمتدّ صعودًا في الخريطة وتُقرأ على الحاشية السفلى (eastings)",
+            "الخطوط المرقّمة التي تمتدّ عرضًا في الخريطة وتُقرأ على الحاشية الجانبية (northings)",
+            "صورة صغيرة على الخريطة ترمز إلى شيء حقيقي (symbol)",
+            "القائمة التي تخبرك بمعنى كلّ رمز على الخريطة (key)"
+          ],
+          "passage": [
+            "قد تغطّي الخريطة مئات الأميال.",
+            "ومراجع الشبكة (grid references) تمكّننا من إيجاد مكان محدّد بسرعة.",
+            "تصنع الخطوط على الخريطة مربّعات.",
+            "ولكلّ خطّ رقم من خانتين.",
+            "والقاعدة هي: الأرقام السفلى أوّلًا، ثم الأرقام الصاعدة على الجانب.",
+            "امشِ في الممرّ أوّلًا، ثم اصعد الدرج.",
+            "مرجع الشبكة ذو الأرقام الأربعة يحدّد مربّعًا واحدًا.",
+            "تقرأ الخطّ الذي على يسار المربّع، ثم الخطّ الذي تحته.",
+            "ومرجع الشبكة ذو الأرقام الستّة يحدّد نقطة واحدة داخل المربّع.",
+            "ينقسم كلّ مربّع إلى 100 مربّع صغير.",
+            "تعدّ الأعشار عرضًا، ثم تعدّ الأعشار صعودًا.",
+            "ويأتي الرقم الإضافي بعد كلّ زوج.",
+            "فـ 028 014 تعني 2 عرضًا و8 أعشار أكثر، ثم 1 صعودًا و4 أعشار أكثر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "liczby, które wskazują kwadrat lub punkt na mapie",
+            "jeden z kwadratów utworzonych przez linie na mapie",
+            "ponumerowane linie biegnące w górę mapy, które czyta się na dolnym brzegu (eastings)",
+            "ponumerowane linie biegnące w poprzek mapy, które czyta się na brzegu bocznym (northings)",
+            "mały obrazek na mapie, który oznacza prawdziwą rzecz",
+            "spis, który mówi, co znaczy każdy znak na mapie"
+          ],
+          "passage": [
+            "Mapa może obejmować setki mil.",
+            "Współrzędne siatki (grid references) pozwalają szybko znaleźć konkretne miejsce.",
+            "Linie na mapie tworzą kwadraty.",
+            "Każda linia ma dwucyfrowy numer.",
+            "Zasada jest taka: najpierw liczby z dołu, potem liczby z boku.",
+            "Najpierw korytarzem, a potem po schodach w górę.",
+            "Czterocyfrowa współrzędna wskazuje jeden kwadrat.",
+            "Czytasz linię po lewej stronie kwadratu, a potem linię pod nim.",
+            "Sześciocyfrowa współrzędna wskazuje jeden punkt wewnątrz kwadratu.",
+            "Każdy kwadrat dzieli się na 100 małych kwadratów.",
+            "Liczysz dziesiąte części w poprzek, a potem dziesiąte części w górę.",
+            "Dodatkowa cyfra stoi po każdej parze.",
+            "Zatem 028 014 znaczy: 2 w poprzek i jeszcze 8 dziesiątych, potem 1 w górę i jeszcze 4 dziesiąte."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "os números que dão nome a um quadrado ou a um ponto num mapa (grid reference, referência de grelha/grade)",
+            "um dos quadrados formados pelas linhas de um mapa (grid square, quadrado da grelha/grade)",
+            "as linhas numeradas que sobem no mapa e se leem pela base (eastings)",
+            "as linhas numeradas que atravessam o mapa e se leem pelo lado (northings)",
+            "um desenho pequeno num mapa que representa uma coisa real (symbol, símbolo)",
+            "a lista que diz o que significa cada símbolo do mapa (key, legenda)"
+          ],
+          "passage": [
+            "Os mapas podem cobrir centenas de milhas.",
+            "As referências de grelha/grade (grid references) deixam-nos encontrar depressa um lugar certo.",
+            "As linhas de um mapa formam quadrados.",
+            "Cada linha tem um número de dois dígitos.",
+            "A regra é esta: primeiro os números da base, depois os números do lado.",
+            "Ao longo do corredor, e só depois a subir as escadas.",
+            "Uma referência de quatro dígitos dá nome a um quadrado.",
+            "Lês a linha que fica à esquerda do quadrado e depois a linha que fica abaixo dele.",
+            "Uma referência de seis dígitos dá nome a um ponto dentro de um quadrado.",
+            "Cada quadrado é dividido em 100 quadradinhos.",
+            "Contas os décimos para o lado e depois os décimos para cima.",
+            "O número extra vem depois de cada par.",
+            "Então 028 014 quer dizer 2 para o lado, mais 8 décimos, depois 1 para cima, mais 4 décimos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tirooyinka magacaabaya afar-geesle ama bar gaar ah oo khariidad ku yaal",
+            "mid ka mid ah afar-geesleyaasha ay xariiqyada khariidadda sameeyaan",
+            "xariiqyada tiro leh ee khariidadda kor u mara, hoosta laga akhriyo",
+            "xariiqyada tiro leh ee khariidadda ka gudbaya, dhinaca laga akhriyo",
+            "sawir yar oo khariidad ku yaal oo wax dhab ah u taagan",
+            "liiska sheegaya waxa calaamad kasta oo khariidadda ay ka dhigan tahay"
+          ],
+          "passage": [
+            "Khariidad waxay qaadi kartaa boqollaal mayl oo dhul.",
+            "Tirooyinka grid reference waxay noo suurtogeliyaan inaan si dhaqso ah u helno meel gaar ah.",
+            "Xariiqyada khariidadda ku yaal waxay sameeyaan afar-geesleyaal.",
+            "Xariiq kastaa waxay leedahay tiro laba nambar ah.",
+            "Xeerku waa kan: marka hore tirooyinka hoose, kadibna tirooyinka dhinaca kor u socda.",
+            "Marinka dheer ayaad raacdaa, kadibna jaranjarada kor ayaad u fuushaa.",
+            "Tiro grid reference ah oo afar nambar ah waxay magacawdaa hal afar-geesle.",
+            "Waxaad akhridaa xariiqda bidixda afar-geesleha, kadibna xariiqda hoostiisa.",
+            "Tiro grid reference ah oo lix nambar ah waxay magacawdaa hal bar oo afar-geesleha gudihiisa ah.",
+            "Afar-geesle kasta waxaa loo qaybiyaa boqol afar-geesle oo yaryar.",
+            "Waxaad tiriyaa toban-meelood gudubsan, kadibna toban-meelood kor u socda.",
+            "Nambarka dheeraadka ah wuxuu ka dambeeyaa lammaane kasta.",
+            "Markaa 028 014 waxay ka dhigan tahay 2 gudubsan, 8 toban-meelood dheeraad, kadibna 1 kor, 4 toban-meelood dheeraad."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "числа, які називають квадрат або точку на карті (grid reference)",
+            "один із квадратів, утворених лініями на карті (grid square)",
+            "пронумеровані лінії, що йдуть уверх по карті і читаються вздовж низу (eastings)",
+            "пронумеровані лінії, що йдуть поперек карти і читаються вгору по боці (northings)",
+            "маленький малюнок на карті, який позначає справжню річ (symbol)",
+            "список, який пояснює, що означає кожний умовний знак карти (key)"
+          ],
+          "passage": [
+            "Карти можуть охоплювати сотні миль.",
+            "Координати сітки дають нам змогу швидко знайти конкретне місце.",
+            "Лінії на карті утворюють квадрати.",
+            "Кожна лінія має двоцифровий номер.",
+            "Правило таке: спочатку числа внизу, потім числа вгору по боці.",
+            "Спочатку коридором, потім нагору сходами.",
+            "Чотирицифрові координати сітки називають один квадрат.",
+            "Ви читаєте лінію ліворуч від квадрата, а потім лінію під ним.",
+            "Шестицифрові координати сітки називають одну точку всередині квадрата.",
+            "Кожний квадрат поділено на 100 малих квадратів.",
+            "Ви рахуєте десяті частини впоперек, а потім десяті частини вгору.",
+            "Додаткова цифра стоїть після кожної пари.",
+            "Отже, 028 014 означає 2 впоперек, ще 8 десятих, потім 1 вгору, ще 4 десятих."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ اعداد جو نقشے پر کسی خانے یا نقطے کا نام بتاتے ہیں (grid reference)",
+            "نقشے کی لکیروں سے بننے والے خانوں میں سے ایک (grid square)",
+            "وہ نمبر والی لکیریں جو نقشے میں اوپر کی طرف جاتی ہیں اور نیچے کے کنارے سے پڑھی جاتی ہیں (eastings)",
+            "وہ نمبر والی لکیریں جو نقشے میں آڑی جاتی ہیں اور بغلی کنارے پر اوپر کی طرف پڑھی جاتی ہیں (northings)",
+            "نقشے پر بنی ایک چھوٹی تصویر جو کسی اصل چیز کی نمائندگی کرتی ہے",
+            "وہ فہرست جو بتاتی ہے کہ نقشے کی ہر علامت کا کیا مطلب ہے (key)"
+          ],
+          "passage": [
+            "نقشے سینکڑوں میل کے علاقے کو دکھا سکتے ہیں۔",
+            "grid references کی مدد سے ہم کسی خاص جگہ کو جلدی ڈھونڈ لیتے ہیں۔",
+            "نقشے پر بنی لکیریں خانے بناتی ہیں۔",
+            "ہر لکیر کا ایک دو ہندسوں کا نمبر ہوتا ہے۔",
+            "قاعدہ یہ ہے: پہلے نیچے والے اعداد لیں، پھر بغلی کنارے پر اوپر جانے والے اعداد۔",
+            "پہلے راہداری میں چلیں، پھر سیڑھیاں چڑھیں۔",
+            "چار ہندسوں کا grid reference ایک خانے کا نام بتاتا ہے۔",
+            "آپ خانے کی بائیں طرف والی لکیر پڑھتے ہیں، پھر اس کے نیچے والی لکیر۔",
+            "چھ ہندسوں کا grid reference خانے کے اندر ایک نقطے کا نام بتاتا ہے۔",
+            "ہر خانہ 100 چھوٹے خانوں میں تقسیم ہوتا ہے۔",
+            "آپ آڑے رخ میں دسویں حصے گنتے ہیں، پھر اوپر کی طرف دسویں حصے۔",
+            "زائد ہندسہ ہر جوڑے کے بعد آتا ہے۔",
+            "تو 028 014 کا مطلب ہے: 2 آڑے رخ، مزید 8 دسویں حصے، پھر 1 اوپر، مزید 4 دسویں حصے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why do we use grid references?",
@@ -550,8 +870,168 @@ window.ASTRA_UNITS["geog-local-place"] = {
           "The new railway is called Crossrail, or the Elizabeth line.",
           "Blue plaques and time capsules keep the history of a place.",
           "Old maps show what a place used to look like."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "واحدة من المناطق التي تُقسَّم إليها لندن للإدارة المحلّية (borough)",
+            "إحصاء لكلّ من يعيش في البلد (census)",
+            "عدد الناس الذين يعيشون في مكان ما (population)",
+            "صناعة الأشياء في المصانع (industry)",
+            "لوحة تدلّ على مكان عاش فيه شخص مشهور أو وقع فيه حدث مشهور (blue plaque)",
+            "وعاء مُغلَق فيه أشياء يُفتَح بعد زمن طويل (time capsule)"
+          ],
+          "passage": [
+            "هايز (Hayes) بلدة في غرب لندن.",
+            "وهي تقع في بلدية هيلينغدون (Hillingdon).",
+            "تُظهر الصور القديمة كيف تغيّرت هايز.",
+            "كان شارع ستيشن رود (Station Road) مختلفًا جدًّا في أوائل سنوات 1900.",
+            "ونُقِل مُصلّى البلدة 100 ياردة عن مكانه القديم.",
+            "وكان مصنع كبير يصنع الأقراص الموسيقية لشركتي HMV وEMI.",
+            "وكانت شركة شوكولاتة تقوم إلى جانب القناة في سنوات 1920.",
+            "يَعُدّ الإحصاء (census) كلّ من في البلد مرّة كلّ عشر سنوات.",
+            "ويُظهر أنّ عدد سكّان هايز اليوم أكبر منه في 1981.",
+            "تشتهر هايز بمطار هيثرو (Heathrow) وبسكّة حديدها.",
+            "وتُسمّى السكّة الجديدة كروس ريل (Crossrail) أو خطّ إليزابيث.",
+            "واللوحات الزرقاء وكبسولات الزمن تحفظ تاريخ المكان.",
+            "وتُظهر الخرائط القديمة كيف كان شكل المكان."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jedna z dzielnic, na które podzielony jest Londyn dla potrzeb władz lokalnych",
+            "spis wszystkich ludzi mieszkających w kraju",
+            "liczba ludzi mieszkających w danym miejscu",
+            "wytwarzanie rzeczy w fabrykach",
+            "tablica pokazująca, gdzie mieszkała znana osoba albo gdzie zdarzyło się coś ważnego (blue plaque)",
+            "zamknięty pojemnik z przedmiotami, który ma być otwarty w dalekiej przyszłości (time capsule)"
+          ],
+          "passage": [
+            "Hayes to miasto w zachodnim Londynie.",
+            "Leży w dzielnicy Hillingdon.",
+            "Stare zdjęcia pokazują, jak Hayes się zmieniło.",
+            "Station Road wyglądała zupełnie inaczej na początku XX wieku (the early 1900s).",
+            "Kaplicę w mieście przeniesiono o 100 jardów ze starego miejsca.",
+            "Wielka fabryka wytwarzała płyty dla HMV i EMI.",
+            "W latach dwudziestych XX wieku (the 1920s) przy kanale stała fabryka czekolady.",
+            "Spis ludności (census) liczy wszystkich w kraju co dziesięć lat.",
+            "Pokazuje, że w Hayes mieszka teraz więcej ludzi niż w 1981 roku.",
+            "Hayes jest znane z lotniska Heathrow i ze swojej kolei.",
+            "Nowa linia kolejowa nazywa się Crossrail, czyli Elizabeth line.",
+            "Tablice pamiątkowe (blue plaques) i kapsuły czasu (time capsules) zachowują historię miejsca.",
+            "Stare mapy pokazują, jak dane miejsce wyglądało kiedyś."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma das áreas em que Londres se divide para a administração local (borough)",
+            "uma contagem de todas as pessoas que vivem no país (census, censo)",
+            "o número de pessoas que vivem num lugar (population, população)",
+            "fazer coisas em fábricas (industry, indústria)",
+            "uma placa que mostra onde viveu uma pessoa famosa ou onde aconteceu algo famoso (blue plaque)",
+            "um recipiente fechado com objetos, para ser aberto num futuro distante (time capsule, cápsula do tempo)"
+          ],
+          "passage": [
+            "Hayes é uma vila no oeste de Londres.",
+            "Fica no borough de Hillingdon.",
+            "Fotografias antigas mostram como Hayes mudou.",
+            "A Station Road era muito diferente no início dos anos 1900.",
+            "A capela da vila foi mudada 100 jardas do seu lugar antigo.",
+            "Uma fábrica grande fazia discos para a HMV e a EMI.",
+            "Uma fábrica de chocolate ficava ao lado do canal nos anos 1920.",
+            "O censo (census) conta todas as pessoas do país a cada dez anos.",
+            "Mostra que vivem mais pessoas em Hayes hoje do que em 1981.",
+            "Hayes é conhecida pelo aeroporto de Heathrow e pela sua linha de trem/comboio.",
+            "A linha nova chama-se Crossrail, ou Elizabeth line.",
+            "As blue plaques e as cápsulas do tempo guardam a história de um lugar.",
+            "Os mapas antigos mostram como era um lugar no passado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mid ka mid ah meelaha London loo qaybiyay si maamulka maxalliga ah u shaqeeyo",
+            "tirinta dadka oo dhan ee dalka ku nool",
+            "tirada dadka ku nool meel",
+            "samaynta waxyaabaha warshadaha gudahooda",
+            "calaamad muujinaysa halka qof caan ah ku noolaa ama dhacdo caan ah ka dhacday",
+            "weel xiran oo wax ku jiraan oo la furayo waqti fog oo mustaqbalka ah"
+          ],
+          "passage": [
+            "Hayes waa magaalo ku taal galbeedka London.",
+            "Waxay ku taal degmada Hillingdon (borough).",
+            "Sawirrada hore waxay muujinayaan sida Hayes u isbeddeshay.",
+            "Waddada Station Road aad ayay ka duwanayd horraantii 1900-meeyadii.",
+            "Kaniisadda yar ee magaalada waxaa loo wareejiyay 100 yaardi meeshii ay hore ku taal.",
+            "Warshad weyn ayaa rikoodhyo u samaysay HMV iyo EMI.",
+            "Shirkad shukulaato ayaa 1920-meeyadii taagnayd kanaalka agtiisa.",
+            "Tirakoobku (census) toban sano kasta wuxuu tiriyaa dadka dalka oo dhan.",
+            "Wuxuu muujinayaa in dad ka badan 1981-kii hadda Hayes ku nool yihiin.",
+            "Hayes waxaa ku caan ah garoonka diyaaradaha Heathrow iyo jidkeeda tareenka.",
+            "Jidka tareenka cusub waxaa la yiraahdaa Crossrail, ama Elizabeth line.",
+            "Calaamadaha buluugga (blue plaques) iyo weelasha waqtiga (time capsules) waxay ilaaliyaan taariikhda meel.",
+            "Khariidadaha hore waxay muujiyaan sidii meeshu u ekayd."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "один з районів, на які поділено Лондон для місцевого самоврядування (borough)",
+            "підрахунок усіх, хто живе в країні (census)",
+            "кількість людей, які живуть у якомусь місці (population)",
+            "виготовлення речей на фабриках (industry)",
+            "табличка, яка показує, де жила відома людина або сталася відома подія (blue plaque)",
+            "запечатаний контейнер з речами, який відкриють у далекому майбутньому (time capsule)"
+          ],
+          "passage": [
+            "Гейз (Hayes) — місто на заході Лондона.",
+            "Воно розташоване в районі Гіллінгдон (Hillingdon).",
+            "Старі фотографії показують, як Гейз змінився.",
+            "Стейшн-Роуд (Station Road) виглядала зовсім інакше на початку 1900-х років.",
+            "Міську капличку перенесли на 100 ярдів від її старого місця.",
+            "Велика фабрика виготовляла пластинки для HMV і EMI.",
+            "Шоколадна компанія стояла біля каналу у 1920-х роках.",
+            "Перепис рахує всіх у країні кожні десять років.",
+            "Він показує, що зараз у Гейзі живе більше людей, ніж у 1981 році.",
+            "Гейз відомий аеропортом Гітроу (Heathrow) і своєю залізницею.",
+            "Нова залізниця називається Crossrail, або лінія Елізабет.",
+            "Сині таблички й капсули часу зберігають історію місця.",
+            "Старі карти показують, як місце виглядало раніше."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لندن کو مقامی حکومت کے لیے جن علاقوں میں تقسیم کیا گیا ہے، ان میں سے ایک (borough)",
+            "ملک میں رہنے والے ہر فرد کی گنتی (census)",
+            "کسی جگہ پر رہنے والے لوگوں کی تعداد (population)",
+            "کارخانوں میں چیزیں بنانے کا کام",
+            "ایک تختی جو بتاتی ہے کہ کوئی مشہور شخص کہاں رہتا تھا یا کوئی مشہور واقعہ کہاں پیش آیا",
+            "چیزوں سے بھرا بند ڈبہ جو بہت دور مستقبل میں کھولا جائے گا"
+          ],
+          "passage": [
+            "ہیز (Hayes) مغربی لندن کا ایک قصبہ ہے۔",
+            "یہ ہلنگڈن (Hillingdon) کے borough میں ہے۔",
+            "پرانی تصویریں دکھاتی ہیں کہ ہیز کتنا بدل گیا ہے۔",
+            "1900 کی دہائی کے شروع میں Station Road بہت مختلف دکھائی دیتی تھی۔",
+            "قصبے کے چیپل کو اس کی پرانی جگہ سے 100 گز دور منتقل کیا گیا۔",
+            "ایک بڑے کارخانے میں HMV اور EMI کے لیے ریکارڈ بنتے تھے۔",
+            "1920 کی دہائی میں نہر کے کنارے چاکلیٹ بنانے والی ایک کمپنی تھی۔",
+            "census ہر دس سال بعد ملک کے ہر فرد کی گنتی کرتا ہے۔",
+            "اس سے پتا چلتا ہے کہ 1981 کے مقابلے میں اب ہیز میں زیادہ لوگ رہتے ہیں۔",
+            "ہیز ہیتھرو ہوائی اڈے (Heathrow) اور اپنی ریلوے کی وجہ سے مشہور ہے۔",
+            "نئی ریلوے کو Crossrail یا Elizabeth line کہا جاتا ہے۔",
+            "blue plaques اور time capsules کسی جگہ کی تاریخ کو محفوظ رکھتے ہیں۔",
+            "پرانے نقشے دکھاتے ہیں کہ کوئی جگہ پہلے کیسی دکھائی دیتی تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where is Hayes, and how has it changed?",
@@ -765,8 +1245,168 @@ window.ASTRA_UNITS["geog-local-place"] = {
           "Close together means steep; far apart means gentle or flat.",
           "A compass rose shows north, east, south and west.",
           "Never Eat Shredded Wheat helps you remember the order."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "العلاقة بين مسافة على الخريطة والمسافة الحقيقية على الأرض (scale)",
+            "مقياس مكتوب بالكلمات، مثل 1 سم = 500 م (stated scale)",
+            "مقياس مرسوم على شكل شريط يمكنك القياس عليه (linear scale)",
+            "مقياس مكتوب برقمين، مثل 1:50 000 (ratio scale)",
+            "خطّ بنّي على الخريطة يصل بين الأماكن المتساوية في الارتفاع (contour line)",
+            "الرسم الذي يبيّن الشمال والشرق والجنوب والغرب (compass rose)"
+          ],
+          "passage": [
+            "الخريطة أصغر كثيرًا من الأرض الحقيقية.",
+            "والمقياس (scale) هو العلاقة بين مسافة على الخريطة والمسافة الحقيقية.",
+            "يتيح لنا المقياس أن نرسم شيئًا لا يمكن أن يتّسع على الورق أبدًا.",
+            "وهناك ثلاث طرق لبيان المقياس.",
+            "المقياس المكتوب يستخدم الكلمات: 1 سم = 500 م.",
+            "والمقياس الخطّي شريط تقيس عليه بالمسطرة.",
+            "ومقياس النسبة يستخدم رقمين: 1:50 000.",
+            "وخرائط المساحة الوطنية (Ordnance Survey) تستخدم غالبًا 1:50 000 و1:25 000 و1:10 000.",
+            "تُسمّى الخطوط البنّية على خريطة OS خطوط الكنتور (contour lines).",
+            "وهي تبيّن ارتفاع الأرض.",
+            "فتقاربها يعني انحدارًا شديدًا، وتباعدها يعني انحدارًا لطيفًا أو أرضًا مستوية.",
+            "ووردة البوصلة تبيّن الشمال والشرق والجنوب والغرب.",
+            "وعبارة Never Eat Shredded Wheat تساعدك على تذكّر الترتيب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "związek między odległością na mapie a prawdziwą odległością w terenie",
+            "skala zapisana słowami, na przykład 1 cm = 500 m",
+            "skala narysowana jako pasek, do którego można przyłożyć linijkę",
+            "skala zapisana jako dwie liczby, na przykład 1:50 000",
+            "brązowa linia na mapie łącząca miejsca o tej samej wysokości",
+            "rysunek pokazujący północ, wschód, południe i zachód"
+          ],
+          "passage": [
+            "Mapa jest o wiele mniejsza niż prawdziwy teren.",
+            "Skala to związek między odległością na mapie a odległością prawdziwą.",
+            "Skala pozwala narysować coś, co nigdy nie zmieściłoby się na kartce.",
+            "Skalę można pokazać na trzy sposoby.",
+            "Skala opisowa używa słów: 1 cm = 500 m.",
+            "Skala liniowa to pasek, który mierzy się linijką.",
+            "Skala liczbowa używa dwóch liczb: 1:50 000.",
+            "Mapy Ordnance Survey często mają skalę 1:50 000, 1:25 000 i 1:10 000.",
+            "Brązowe linie na mapie OS nazywamy poziomicami (contour lines).",
+            "Pokazują wysokość terenu.",
+            "Blisko siebie znaczy stromo, daleko od siebie znaczy łagodnie albo płasko.",
+            "Róża kompasowa pokazuje północ, wschód, południe i zachód.",
+            "Angielskie zdanie „Never Eat Shredded Wheat” pomaga zapamiętać tę kolejność."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a ligação entre uma distância no mapa e a distância real no terreno (scale, escala)",
+            "uma escala escrita em palavras, como 1 cm = 500 m (stated scale)",
+            "uma escala desenhada como uma barra que podes medir (linear scale, escala gráfica)",
+            "uma escala escrita com dois números, como 1:50 000 (ratio scale, escala numérica)",
+            "uma linha castanha/marrom num mapa que une lugares da mesma altitude (contour line, curva de nível)",
+            "o desenho que mostra o norte, o leste, o sul e o oeste (compass rose, rosa dos ventos)"
+          ],
+          "passage": [
+            "Um mapa é muito mais pequeno do que o terreno real.",
+            "A escala é a ligação entre uma distância no mapa e a distância real.",
+            "A escala deixa-nos desenhar algo que nunca caberia numa folha de papel.",
+            "Há três maneiras de mostrar a escala.",
+            "Uma escala por palavras (stated scale) usa palavras: 1 cm = 500 m.",
+            "Uma escala gráfica (linear scale) é uma barra que podes medir com uma régua.",
+            "Uma escala numérica (ratio scale) usa dois números: 1:50 000.",
+            "Os mapas do Ordnance Survey usam muitas vezes 1:50 000, 1:25 000 e 1:10 000.",
+            "As linhas castanhas/marrons num mapa OS chamam-se curvas de nível (contour lines).",
+            "Elas mostram a altitude do terreno.",
+            "Juntas quer dizer encosta íngreme; afastadas quer dizer terreno suave ou plano.",
+            "Uma rosa dos ventos mostra o norte, o leste, o sul e o oeste.",
+            "A frase inglesa \"Never Eat Shredded Wheat\" ajuda a lembrar a ordem."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xiriirka ka dhexeeya masaafada khariidadda iyo masaafada dhabta ah ee dhulka",
+            "qiyaas erayo lagu qoray, sida 1 cm = 500 m",
+            "qiyaas loo sawiray sidii xariiq aad cabbiri karto",
+            "qiyaas laba tiro lagu qoray, sida 1:50 000",
+            "xariiq bunni ah oo khariidad ku yaal oo isku xirta meelo sarajoog isku mid leh",
+            "sawirka muujinaya waqooyi, bari, koonfur iyo galbeed"
+          ],
+          "passage": [
+            "Khariidad aad ayay uga yar tahay dhulka dhabta ah.",
+            "Qiyaasku (scale) waa xiriirka ka dhexeeya masaafada khariidadda iyo masaafada dhabta ah.",
+            "Qiyaasku wuxuu noo suurtogeliyaa inaan sawirno wax aan waligood warqad ku qaadan karin.",
+            "Saddex siyaabo ah ayaa qiyaaska lagu muujin karaa.",
+            "Qiyaaska la qoray (stated scale) wuxuu erayo isticmaalaa: 1 cm = 500 m.",
+            "Qiyaaska xariiqda (linear scale) waa xariiq aad mastarad ku cabbiri karto.",
+            "Qiyaaska saamiga (ratio scale) wuxuu laba tiro isticmaalaa: 1:50 000.",
+            "Khariidadaha Ordnance Survey waxay inta badan isticmaalaan 1:50 000, 1:25 000 iyo 1:10 000.",
+            "Xariiqyada bunni ee khariidad OS ah waxaa la yiraahdaa contour lines.",
+            "Waxay muujiyaan sarajoogga dhulka.",
+            "Marka ay isku dhow yihiin dhulku aad ayuu u kacsan yahay; marka ay kala fog yihiin dhulku waa mid jilicsan ama siman.",
+            "Sawirka jihooyinka (compass rose) wuxuu muujiyaa waqooyi, bari, koonfur iyo galbeed.",
+            "Erayada Ingiriisiga 'Never Eat Shredded Wheat' waxay ku caawinayaan inaad kala horreynta xasuusato."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "зв’язок між відстанню на карті і справжньою відстанню на землі (scale)",
+            "масштаб, записаний словами, наприклад 1 cm = 500 m (stated scale)",
+            "масштаб, намальований як смужка, до якої можна прикласти лінійку (linear scale)",
+            "масштаб, записаний двома числами, наприклад 1:50 000 (ratio scale)",
+            "коричнева лінія на карті, що з’єднує місця однакової висоти (contour line)",
+            "схема, яка показує північ, схід, південь і захід (compass rose)"
+          ],
+          "passage": [
+            "Карта набагато менша за справжню землю.",
+            "Масштаб — це зв’язок між відстанню на карті і справжньою відстанню.",
+            "Масштаб дає змогу намалювати те, що ніколи не вмістилося б на папері.",
+            "Є три способи показати масштаб.",
+            "Словесний масштаб (stated scale) використовує слова: 1 cm = 500 m.",
+            "Лінійний масштаб — це смужка, яку можна виміряти лінійкою.",
+            "Числовий масштаб (ratio scale) використовує два числа: 1:50 000.",
+            "Карти Ordnance Survey часто мають масштаб 1:50 000, 1:25 000 і 1:10 000.",
+            "Коричневі лінії на карті OS називають горизонталями (contour lines).",
+            "Вони показують висоту землі.",
+            "Близько одна до одної — означає крутий схил; далеко одна від одної — означає плавний або рівний.",
+            "Роза вітрів показує північ, схід, південь і захід.",
+            "Приказка Never Eat Shredded Wheat допомагає запам’ятати порядок."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "نقشے پر فاصلے اور زمین پر اصل فاصلے کے درمیان تعلق (scale)",
+            "لفظوں میں لکھا گیا پیمانہ، جیسے 1 cm = 500 m",
+            "ایک پٹی کی شکل میں بنا پیمانہ جس کے مقابل آپ ناپ سکتے ہیں",
+            "دو اعداد کی صورت میں لکھا پیمانہ، جیسے 1:50 000",
+            "نقشے پر بھوری لکیر جو ایک جیسی بلندی والی جگہوں کو ملاتی ہے (contour line)",
+            "وہ خاکہ جو شمال، مشرق، جنوب اور مغرب دکھاتا ہے (compass rose)"
+          ],
+          "passage": [
+            "نقشہ اصل زمین سے بہت چھوٹا ہوتا ہے۔",
+            "scale نقشے کے فاصلے اور اصل فاصلے کے درمیان تعلق ہے۔",
+            "پیمانے کی مدد سے ہم ایسی چیز بنا لیتے ہیں جو کاغذ پر کبھی نہ سما سکتی۔",
+            "پیمانہ دکھانے کے تین طریقے ہیں۔",
+            "stated scale میں پیمانہ لفظوں میں لکھا جاتا ہے: 1 cm = 500 m۔",
+            "linear scale ایک پٹی ہے جسے آپ رُول (ruler) سے ناپ سکتے ہیں۔",
+            "ratio scale دو اعداد استعمال کرتا ہے: 1:50 000۔",
+            "Ordnance Survey کے بنائے ہوئے نقشے عموماً یہ پیمانے استعمال کرتے ہیں: 1:50 000، 1:25 000 اور 1:10 000۔",
+            "OS نقشے پر بھوری لکیروں کو contour lines کہتے ہیں۔",
+            "یہ زمین کی بلندی دکھاتی ہیں۔",
+            "قریب قریب ہوں تو ڈھلان تیز ہے؛ دور دور ہوں تو ڈھلان ہلکی یا زمین ہموار ہے۔",
+            "compass rose شمال، مشرق، جنوب اور مغرب دکھاتا ہے۔",
+            "جملہ “Never Eat Shredded Wheat” آپ کو ان کی ترتیب یاد رکھنے میں مدد دیتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is scale?",
@@ -997,8 +1637,162 @@ window.ASTRA_UNITS["geog-local-place"] = {
           "London is by far the biggest city.",
           "It has over eight million people.",
           "Birmingham is next, with just over one million."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كلّ جزر بريطانيا وأيرلندا مجتمعةً (British Isles)",
+            "الجزيرة الكبيرة التي تتكوّن من إنجلترا واسكتلندا وويلز (Great Britain)",
+            "إنجلترا واسكتلندا وويلز وأيرلندا الشمالية مجتمعةً (United Kingdom)",
+            "المدينة التي تجتمع فيها حكومة البلد (capital city)",
+            "مَعلَم مشهور، بناءً كان أو معلمًا طبيعيًّا، يعرفه الناس (landmark)",
+            "مكان يعيش فيه الناس، كقرية أو بلدة أو مدينة (settlement)"
+          ],
+          "passage": [
+            "تتكوّن المملكة المتّحدة من أربعة بلدان.",
+            "وهي إنجلترا (England) واسكتلندا (Scotland) وويلز (Wales) وأيرلندا الشمالية (Northern Ireland).",
+            "وعواصمها لندن وإدنبرة (Edinburgh) وكارديف (Cardiff) وبلفاست (Belfast).",
+            "وبريطانيا العظمى هي الجزيرة الكبيرة: إنجلترا واسكتلندا وويلز.",
+            "أمّا الجزر البريطانية فتضمّ أيضًا جزيرة أيرلندا.",
+            "وجمهورية أيرلندا ليست جزءًا من المملكة المتّحدة.",
+            "لكلّ بلد تقاليده وطعامه وموسيقاه.",
+            "ولكلٍّ منها معالم مشهورة، مثل ستونهنج (Stonehenge) وجسر العملاق (Giant's Causeway).",
+            "وفي المملكة المتّحدة سواحل وأنهار وبلدات ومدن وشبكات نقل.",
+            "ولندن أكبر مدينة فيها بفارق كبير.",
+            "فيها أكثر من ثمانية ملايين نسمة.",
+            "ثم تأتي برمنغهام (Birmingham)، وفيها أكثر من مليون بقليل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wszystkie wyspy Wielkiej Brytanii i Irlandii razem",
+            "duża wyspa, na której leżą Anglia, Szkocja i Walia",
+            "Anglia, Szkocja, Walia i Irlandia Północna razem",
+            "miasto, w którym obraduje rząd kraju",
+            "znany budynek albo element przyrody, który ludzie rozpoznają",
+            "miejsce, w którym mieszkają ludzie: wieś, miasteczko albo miasto"
+          ],
+          "passage": [
+            "Zjednoczone Królestwo składa się z czterech krajów.",
+            "To Anglia, Szkocja, Walia i Irlandia Północna.",
+            "Ich stolice to Londyn, Edynburg, Cardiff i Belfast.",
+            "Wielka Brytania to ta duża wyspa: Anglia, Szkocja i Walia.",
+            "Wyspy Brytyjskie (British Isles) obejmują także wyspę Irlandię.",
+            "Republika Irlandii nie należy do Zjednoczonego Królestwa.",
+            "Każdy z tych krajów ma własne tradycje, jedzenie i muzykę.",
+            "Każdy ma słynne miejsca, takie jak Stonehenge i Giant's Causeway.",
+            "Zjednoczone Królestwo ma wybrzeża, rzeki, miasteczka, miasta i połączenia transportowe.",
+            "Londyn jest zdecydowanie największym miastem.",
+            "Ma ponad osiem milionów mieszkańców.",
+            "Następne jest Birmingham, z liczbą nieco ponad miliona."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "todas as ilhas da Grã-Bretanha e da Irlanda juntas (British Isles, Ilhas Britânicas)",
+            "a ilha grande formada pela Inglaterra, a Escócia e o País de Gales (Great Britain, Grã-Bretanha)",
+            "a Inglaterra, a Escócia, o País de Gales e a Irlanda do Norte juntos (United Kingdom, Reino Unido)",
+            "a cidade onde se reúne o governo de um país (capital city, capital)",
+            "um edifício famoso ou um elemento natural que as pessoas reconhecem (landmark)",
+            "um lugar onde as pessoas vivem, como uma aldeia, uma vila ou uma cidade (settlement, povoamento)"
+          ],
+          "passage": [
+            "O Reino Unido é formado por quatro países.",
+            "São a Inglaterra, a Escócia, o País de Gales e a Irlanda do Norte.",
+            "As suas capitais são Londres, Edimburgo, Cardiff e Belfast.",
+            "A Grã-Bretanha é a ilha grande: Inglaterra, Escócia e País de Gales.",
+            "As Ilhas Britânicas incluem também a ilha da Irlanda.",
+            "A República da Irlanda não faz parte do Reino Unido.",
+            "Cada país tem as suas próprias tradições, comida e música.",
+            "Cada um tem landmarks famosos, como Stonehenge e a Giant's Causeway.",
+            "O Reino Unido tem costas, rios, vilas, cidades e ligações de transporte.",
+            "Londres é, de longe, a maior cidade.",
+            "Tem mais de oito milhões de pessoas.",
+            "Birmingham vem depois, com pouco mais de um milhão."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "jasiiradaha Biritayn iyo Ireland oo dhan isku jira",
+            "jasiiradda weyn ee ka kooban England, Scotland iyo Wales",
+            "England, Scotland, Wales iyo Northern Ireland oo isku jira",
+            "magaalada ay dowladda dalku ku shirto",
+            "dhismo ama astaan dabiici ah oo caan ah oo dadku garto",
+            "meel dadku ku nool yihiin, sida tuulo, magaalo yar ama magaalo weyn"
+          ],
+          "passage": [
+            "Boqortooyada Midowday (United Kingdom) waxay ka kooban tahay afar dal.",
+            "Afartaas dal waa England, Scotland, Wales iyo Northern Ireland.",
+            "Caasimadahooda waa London, Edinburgh, Cardiff iyo Belfast.",
+            "Great Britain waa jasiiradda weyn: England, Scotland iyo Wales.",
+            "Jasiiradaha Biritishka (British Isles) waxay sidoo kale ku darsadaan jasiiradda Ireland.",
+            "Jamhuuriyadda Ireland qayb kama aha Boqortooyada Midowday.",
+            "Dal kastaa wuxuu leeyahay dhaqan, cunto iyo muusik u gaar ah.",
+            "Mid kastaa wuxuu leeyahay astaamo caan ah, sida Stonehenge iyo Giant's Causeway.",
+            "Boqortooyada Midowday waxay leedahay xeebo, webiyo, magaalooyin yaryar iyo waaweyn, iyo jidadka gaadiidka.",
+            "London aad ayay uga weyn tahay magaalo kasta kale.",
+            "Waxay leedahay in ka badan siddeed milyan oo qof.",
+            "Birmingham ayaa ku xigta, oo leh in yar ka badan hal milyan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "усі острови Британії та Ірландії разом (British Isles)",
+            "великий острів, що складається з Англії, Шотландії та Уельсу (Great Britain)",
+            "Англія, Шотландія, Уельс і Північна Ірландія разом (United Kingdom)",
+            "місто, де збирається уряд країни (capital city)",
+            "відома будівля або природний об’єкт, який люди впізнають (landmark)",
+            "місце, де живуть люди, наприклад село, містечко або місто (settlement)"
+          ],
+          "passage": [
+            "Об’єднане Королівство складається з чотирьох країн.",
+            "Це Англія, Шотландія, Уельс і Північна Ірландія.",
+            "Їхні столиці — Лондон, Единбург, Кардіфф і Белфаст.",
+            "Велика Британія — це великий острів: Англія, Шотландія та Уельс.",
+            "Британські острови включають також острів Ірландія.",
+            "Республіка Ірландія не входить до складу Об’єднаного Королівства.",
+            "Кожна країна має власні традиції, їжу і музику.",
+            "Кожна має відомі пам’ятки, як-от Стоунгендж (Stonehenge) і Дорогу Гігантів (Giant’s Causeway).",
+            "В Об’єднаному Королівстві є узбережжя, річки, містечка, міста й транспортні сполучення.",
+            "Лондон — найбільше місто, і то з великим відривом.",
+            "У ньому понад вісім мільйонів людей.",
+            "Далі Бірмінгем, у якому трохи більше ніж мільйон."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "برطانیہ اور آئرلینڈ کے تمام جزیرے مل کر (British Isles)",
+            "وہ بڑا جزیرہ جو انگلینڈ، سکاٹ لینڈ اور ویلز سے بنا ہے",
+            "انگلینڈ، سکاٹ لینڈ، ویلز اور شمالی آئرلینڈ مل کر",
+            "وہ شہر جہاں کسی ملک کی حکومت بیٹھتی ہے",
+            "کوئی مشہور عمارت یا قدرتی منظر جسے لوگ پہچانتے ہیں (landmark)",
+            "وہ جگہ جہاں لوگ رہتے ہیں، جیسے گاؤں، قصبہ یا شہر (settlement)"
+          ],
+          "passage": [
+            "برطانیہ (United Kingdom) چار ملکوں سے مل کر بنا ہے۔",
+            "یہ انگلینڈ، سکاٹ لینڈ، ویلز اور شمالی آئرلینڈ ہیں۔",
+            "ان کے دارالحکومت لندن، ایڈنبرا، کارڈف اور بیلفاسٹ ہیں۔",
+            "Great Britain بڑا جزیرہ ہے: انگلینڈ، سکاٹ لینڈ اور ویلز۔",
+            "British Isles میں آئرلینڈ کا جزیرہ بھی شامل ہے۔",
+            "جمہوریہ آئرلینڈ (Republic of Ireland) برطانیہ کا حصہ نہیں ہے۔",
+            "ہر ملک کی اپنی روایات، اپنا کھانا اور اپنی موسیقی ہے۔",
+            "ہر ایک کے مشہور مقامات ہیں، جیسے Stonehenge اور Giant’s Causeway۔",
+            "برطانیہ میں ساحل، دریا، قصبے، شہر اور آمد و رفت کے راستے ہیں۔",
+            "لندن سب سے بڑا شہر ہے، اور باقی سب سے بہت ہی بڑا۔",
+            "یہاں اسّی لاکھ سے زیادہ لوگ رہتے ہیں۔",
+            "اس کے بعد برمنگھم ہے، جہاں دس لاکھ سے کچھ زیادہ لوگ ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "British Isles, Great Britain, United Kingdom",
@@ -1211,8 +2005,168 @@ window.ASTRA_UNITS["geog-local-place"] = {
           "Maps from 1677, 1720, 1730 and 1843 show it growing bigger.",
           "London also means different things to different people.",
           "There is the real built city, the imagined city, and the city people live in."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "خطوط وهمية مرسومة متوازية حول الكرة الأرضية (latitude)",
+            "خطوط وهمية تمتدّ من القطب الشمالي إلى القطب الجنوبي (longitude)",
+            "خطّ العرض 0 درجة الذي يدور حول وسط الأرض (equator)",
+            "خطّ الطول 0 درجة، ويمرّ بغرينتش في لندن (Greenwich Meridian)",
+            "الوحدات المستخدمة لقياس خطوط العرض وخطوط الطول (degrees)",
+            "أن ترى شيئًا أو تتخيّله على نحو معيّن (perceive)"
+          ],
+          "passage": [
+            "خطوط العرض وخطوط الطول خطوط وهمية على الخرائط وعلى الكرات الأرضية.",
+            "وهي تقسّم العالم حتى تستطيع أن تعطي موقعًا دقيقًا.",
+            "تمتدّ خطوط العرض حول الأرض كحلقات مستوية.",
+            "وخطّ الاستواء هو خطّ العرض 0 درجة.",
+            "وخطوط العرض الأخرى تقع شمال خطّ الاستواء أو جنوبه.",
+            "أمّا خطوط الطول فتمتدّ من فوق، من قطب إلى قطب.",
+            "وخطّ غرينتش هو خطّ الطول 0 درجة.",
+            "وخطوط الطول الأخرى تقع شرقه أو غربه.",
+            "وكلاهما يُقاس بالدرجات.",
+            "ولندن أيضًا تغيّرت مع الزمن.",
+            "وخرائط من 1677 و1720 و1730 و1843 تُظهرها وهي تكبر.",
+            "ولندن تعني أيضًا أشياء مختلفة لأناس مختلفين.",
+            "فهناك المدينة المبنيّة الحقيقية، والمدينة المتخيّلة، والمدينة التي يعيش فيها الناس."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wyobrażone linie biegnące równolegle wokół kuli ziemskiej",
+            "wyobrażone linie biegnące od bieguna północnego do bieguna południowego",
+            "linia 0 stopni szerokości, biegnąca wokół środka Ziemi",
+            "linia 0 stopni długości, przechodząca przez Greenwich w Londynie",
+            "jednostki, w których mierzy się szerokość i długość geograficzną",
+            "widzieć albo wyobrażać sobie coś w określony sposób"
+          ],
+          "passage": [
+            "Linie szerokości (latitude) i długości geograficznej (longitude) to wyobrażone linie na mapach i globusach.",
+            "Dzielą świat tak, żeby można było podać dokładne położenie.",
+            "Linie szerokości biegną wokół Ziemi jak płaskie obręcze.",
+            "Równik to 0 stopni szerokości geograficznej.",
+            "Pozostałe linie szerokości leżą na północ albo na południe od równika.",
+            "Linie długości biegną przez górę, od bieguna do bieguna.",
+            "Południk zerowy (Greenwich Meridian) to 0 stopni długości geograficznej.",
+            "Pozostałe linie długości leżą na wschód albo na zachód od niego.",
+            "Jedne i drugie mierzy się w stopniach.",
+            "Londyn też zmieniał się z czasem.",
+            "Mapy z lat 1677, 1720, 1730 i 1843 pokazują, jak rósł.",
+            "Londyn znaczy też coś innego dla różnych ludzi.",
+            "Jest miasto zbudowane naprawdę, miasto wyobrażone i miasto, w którym ludzie żyją."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "linhas imaginárias desenhadas em paralelo à volta do globo (latitude)",
+            "linhas imaginárias que vão do Polo Norte ao Polo Sul (longitude)",
+            "a linha de 0 graus de latitude à volta do meio da Terra (equator, Equador)",
+            "a linha de 0 graus de longitude, que passa por Greenwich em Londres (Greenwich Meridian, Meridiano de Greenwich)",
+            "as unidades usadas para medir a latitude e a longitude (degrees, graus)",
+            "ver ou imaginar algo de uma certa maneira (perceive, perceber)"
+          ],
+          "passage": [
+            "As linhas de latitude e de longitude são linhas imaginárias nos mapas e nos globos.",
+            "Elas dividem o mundo para se poder dar uma localização exata.",
+            "As linhas de latitude dão a volta à Terra, como anéis deitados.",
+            "O Equador é a latitude de 0 graus.",
+            "As outras linhas de latitude ficam a norte ou a sul do Equador.",
+            "As linhas de longitude passam por cima, de polo a polo.",
+            "O Meridiano de Greenwich é a longitude de 0 graus.",
+            "As outras linhas de longitude ficam a leste ou a oeste dele.",
+            "As duas medem-se em graus.",
+            "Londres também mudou ao longo do tempo.",
+            "Mapas de 1677, 1720, 1730 e 1843 mostram-na a ficar cada vez maior.",
+            "Londres também significa coisas diferentes para pessoas diferentes.",
+            "Há a cidade real construída, a cidade imaginada e a cidade onde as pessoas vivem."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xariiqyo la male-awaalay oo barbar socda oo kurta dhulka ku wareegsan",
+            "xariiqyo la male-awaalay oo ka socda cirifka woqooyi ilaa cirifka koonfureed",
+            "xariiqda latitude ee eber darajo oo dhexda Dhulka ku wareegsan",
+            "xariiqda longitude ee eber darajo, taasoo Greenwich ee London dhex marta",
+            "halbeegga lagu cabbiro latitude iyo longitude",
+            "inaad wax si gaar ah u aragto ama u male-awaasho"
+          ],
+          "passage": [
+            "Xariiqyada latitude iyo longitude waa xariiqyo la male-awaalay oo khariidadaha iyo kurta dhulka ku yaal.",
+            "Waxay dunida u qaybiyaan si aad meel sax ah u sheegi karto.",
+            "Xariiqyada latitude waxay Dhulka ku wareegaan sidii siddooyin siman.",
+            "Dhulbaraha (equator) waa latitude eber darajo.",
+            "Xariiqyada latitude kale waxay waqooyi ama koonfur ka xigaan dhulbaraha.",
+            "Xariiqyada longitude waxay dusha ka gudbaan, cirif ilaa cirif.",
+            "Xariiqda Greenwich Meridian waa longitude eber darajo.",
+            "Xariiqyada longitude kale waxay bari ama galbeed ka xigaan.",
+            "Labadaba darajo ayaa lagu cabbiraa.",
+            "London iyaduna waqti ka waqti way isbeddeshay.",
+            "Khariidado laga sameeyay 1677, 1720, 1730 iyo 1843 waxay muujinayaan sida ay u sii weynaatay.",
+            "London sidoo kale wax kala duwan ayay u tahay dad kala duwan.",
+            "Waxaa jirta magaalada dhab ahaan la dhisay, tii la male-awaalay, iyo tii dadku ku nool yihiin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "уявні лінії, проведені паралельно навколо земної кулі (latitude)",
+            "уявні лінії, що йдуть від Північного полюса до Південного полюса (longitude)",
+            "лінія 0 градусів широти навколо середини Землі (equator)",
+            "лінія 0 градусів довготи, що проходить через Ґрінвіч у Лондоні (Greenwich Meridian)",
+            "одиниці, якими вимірюють широту і довготу (degrees)",
+            "бачити або уявляти щось у певний спосіб (perceive)"
+          ],
+          "passage": [
+            "Лінії широти й довготи — це уявні лінії на картах і глобусах.",
+            "Вони поділяють світ так, щоб можна було вказати точне розташування.",
+            "Лінії широти оточують Землю, як плоскі обручі.",
+            "Екватор — це 0 градусів широти.",
+            "Інші лінії широти лежать на північ або на південь від екватора.",
+            "Лінії довготи йдуть через верх, від полюса до полюса.",
+            "Ґрінвіцький меридіан — це 0 градусів довготи.",
+            "Інші лінії довготи лежать на схід або на захід від нього.",
+            "І ті, й ті вимірюють у градусах.",
+            "Лондон теж змінювався з часом.",
+            "Карти 1677, 1720, 1730 і 1843 років показують, як він ставав більшим.",
+            "Лондон також означає різні речі для різних людей.",
+            "Є справжнє забудоване місто, уявне місто і місто, у якому живуть люди."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کے گرد ایک دوسرے کے متوازی کھینچی گئی خیالی لکیریں (latitude)",
+            "وہ خیالی لکیریں جو قطب شمالی سے قطب جنوبی تک جاتی ہیں (longitude)",
+            "زمین کے بیچ میں 0 درجے latitude کی لکیر (equator)",
+            "0 درجے longitude کی لکیر، جو لندن کے گرینچ سے گزرتی ہے",
+            "وہ اکائیاں جن سے latitude اور longitude ناپے جاتے ہیں",
+            "کسی چیز کو ایک خاص انداز میں دیکھنا یا تصور کرنا"
+          ],
+          "passage": [
+            "latitude اور longitude کی لکیریں نقشوں اور گلوب پر خیالی لکیریں ہیں۔",
+            "یہ دنیا کو بانٹ دیتی ہیں تاکہ آپ کسی جگہ کا بالکل درست پتا بتا سکیں۔",
+            "latitude کی لکیریں زمین کے گرد چکر لگاتی ہیں، چپٹے چھلّوں کی طرح۔",
+            "equator 0 درجے latitude پر ہے۔",
+            "latitude کی باقی لکیریں equator سے شمال یا جنوب میں ہوتی ہیں۔",
+            "longitude کی لکیریں اوپر سے گزرتی ہیں، ایک قطب سے دوسرے قطب تک۔",
+            "Greenwich Meridian 0 درجے longitude پر ہے۔",
+            "longitude کی باقی لکیریں اس سے مشرق یا مغرب میں ہوتی ہیں۔",
+            "دونوں کو درجوں میں ناپا جاتا ہے۔",
+            "لندن بھی وقت کے ساتھ بدلا ہے۔",
+            "1677، 1720، 1730 اور 1843 کے نقشے دکھاتے ہیں کہ یہ بڑا ہوتا گیا۔",
+            "لندن کا مطلب مختلف لوگوں کے لیے مختلف بھی ہے۔",
+            "ایک اصل تعمیر شدہ شہر ہے، ایک تصور کا شہر، اور ایک وہ شہر جس میں لوگ رہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Lines around and lines over",

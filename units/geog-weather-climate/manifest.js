@@ -111,8 +111,156 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
           "An arrow shows the wind, with its speed in miles per hour.",
           "The arrow points the way the wind is blowing.",
           "A forecast uses these symbols to predict the weather for the days ahead."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حال الهواء في الخارج في مكان واحد ووقت واحد (weather)",
+            "الطقس المعتاد لمكان ما، مقيسًا على سنوات كثيرة (climate)",
+            "توقّع لما سيكون عليه الطقس قريبًا (forecast)",
+            "مدى حرارة الهواء أو برودته، وتُقاس بالدرجات السيلسيوسية (temperature)",
+            "صورة صغيرة ترمز إلى نوع من الطقس على الخريطة (symbol)"
+          ],
+          "passage": [
+            "الطقس هو حال الهواء الآن، في مكان واحد.",
+            "فقد يكون مشمسًا أو غائمًا أو ممطرًا أو عاصفًا أو مثلجًا أو هائجًا.",
+            "والطقس قد يتغيّر من ساعة إلى ساعة.",
+            "أمّا المناخ فشيء آخر.",
+            "المناخ هو الطقس المعتاد لمكان ما على سنوات كثيرة.",
+            "ومناخ المملكة المتّحدة معتدل ورطب، حتى لو كان يوم واحد حارًّا وجافًّا.",
+            "وتستخدم خرائط الطقس رموزًا لبيان الطقس.",
+            "فالشمس تعني طقسًا مشمسًا، والغيمة ذات القطرات تعني مطرًا.",
+            "والرقم يخبرك بدرجة الحرارة بالدرجات السيلسيوسية.",
+            "والسهم يبيّن الريح وسرعتها بالأميال في الساعة.",
+            "ويشير السهم إلى الجهة التي تهبّ إليها الريح.",
+            "وتستخدم النشرة الجوّية (forecast) هذه الرموز لتتوقّع الطقس في الأيام المقبلة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "to, jakie jest powietrze na zewnątrz w jednym miejscu i w jednej chwili",
+            "zwykła pogoda danego miejsca, mierzona przez wiele lat",
+            "przewidywanie tego, jaka wkrótce będzie pogoda (forecast)",
+            "jak gorące albo zimne jest powietrze, mierzone w stopniach Celsjusza",
+            "mały obrazek, który oznacza rodzaj pogody na mapie"
+          ],
+          "passage": [
+            "Pogoda to to, jakie jest powietrze w tej chwili, w jednym miejscu.",
+            "Może być słonecznie, pochmurno, deszczowo, wietrznie, śnieżnie albo burzowo.",
+            "Pogoda potrafi się zmieniać z godziny na godzinę.",
+            "Z klimatem jest inaczej.",
+            "Klimat to zwykła pogoda danego miejsca przez wiele lat.",
+            "Zjednoczone Królestwo ma klimat łagodny i wilgotny, nawet jeśli jeden dzień jest gorący i suchy.",
+            "Mapy pogody pokazują pogodę za pomocą znaków.",
+            "Słońce znaczy słonecznie, a chmura z kroplami znaczy deszcz.",
+            "Liczba mówi, jaka jest temperatura w stopniach Celsjusza.",
+            "Strzałka pokazuje wiatr, a przy niej podana jest jego prędkość w milach na godzinę.",
+            "Strzałka wskazuje kierunek, w którym wieje wiatr.",
+            "Prognoza używa tych znaków, żeby przewidzieć pogodę na najbliższe dni."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "como está o ar lá fora, num lugar e num momento (weather, o tempo)",
+            "o tempo habitual de um lugar, medido ao longo de muitos anos (climate, clima)",
+            "uma previsão de como vai estar o tempo em breve (forecast, previsão)",
+            "o quão quente ou frio está o ar, medido em graus Celsius (temperature, temperatura)",
+            "um desenho pequeno que representa um tipo de tempo num mapa (symbol, símbolo)"
+          ],
+          "passage": [
+            "O tempo (weather) é como está o ar agora mesmo, num lugar.",
+            "Pode estar com sol, nublado, com chuva, com vento, com neve ou com tempestade.",
+            "O tempo pode mudar de hora para hora.",
+            "O clima é diferente.",
+            "O clima é o tempo habitual de um lugar ao longo de muitos anos.",
+            "O Reino Unido tem um clima ameno e chuvoso, mesmo quando um dia está quente e seco.",
+            "Os mapas do tempo usam símbolos para mostrar o tempo.",
+            "Um sol quer dizer sol, e uma nuvem com gotas quer dizer chuva.",
+            "Um número diz-te a temperatura em graus Celsius.",
+            "Uma seta mostra o vento, com a sua velocidade em milhas por hora.",
+            "A seta aponta para o lado para onde o vento está a soprar / está soprando.",
+            "Uma previsão usa estes símbolos para prever o tempo dos próximos dias."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida hawada bannaanka ay tahay meel keliya iyo waqti keliya",
+            "hawada caadiga ah ee meel, oo sanado badan lagu cabbiray",
+            "saadaal ah sida hawadu ay noqon doonto wakhti dhow",
+            "sida hawadu u kululdahay ama u qabow tahay, oo lagu cabbiro darajo Celsius",
+            "sawir yar oo u taagan nooc hawo ah oo khariidad ku yaal"
+          ],
+          "passage": [
+            "Hawadu waa sida hawo bannaanku hadda tahay, meel keliya.",
+            "Waxay noqon kartaa qorraxeysan, daruureysan, roobeysan, dabeyl leh, baraf leh ama duufaaneysan.",
+            "Hawadu saacad ka saacad way isbeddeli kartaa.",
+            "Cimiladu (climate) way ka duwan tahay.",
+            "Cimiladu waa hawada caadiga ah ee meel sanado badan.",
+            "Boqortooyada Midowday waxay leedahay cimilo dhexdhexaad ah oo qoyan, xataa marka maalin keliya ay kululaato oo qallasho.",
+            "Khariidadaha hawada waxay calaamado u isticmaalaan muujinta hawada.",
+            "Qorrax macnaheedu waa qorraxeysan, daruur dhibco leh macnaheedu waa roob.",
+            "Tiro ayaa kuu sheegaysa heerkulka oo lagu cabbiray darajo Celsius.",
+            "Fallaar ayaa dabeysha muujisa, iyadoo xawaarihiisa lagu qoray mayl saacaddii.",
+            "Fallaartu waxay tilmaamaysaa jihada dabeyshu u socoto.",
+            "Saadaasha hawada waxay calaamadahan u isticmaashaa saadaalinta hawada maalmaha soo socda."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "яке повітря надворі в одному місці й в один час (weather)",
+            "звичайна погода місця, виміряна за багато років (climate)",
+            "передбачення того, якою буде погода найближчим часом (forecast)",
+            "наскільки гаряче або холодне повітря, виміряне в градусах Цельсія (temperature)",
+            "маленький малюнок, який позначає тип погоди на карті (symbol)"
+          ],
+          "passage": [
+            "Погода — це те, яке повітря зараз, в одному місці.",
+            "Може бути сонячно, хмарно, дощово, вітряно, снігово або штормово.",
+            "Погода може змінюватися щогодини.",
+            "Клімат — це інше.",
+            "Клімат — це звичайна погода місця за багато років.",
+            "В Об’єднаному Королівстві м’який, вологий клімат, навіть коли один день гарячий і сухий.",
+            "Карти погоди використовують умовні знаки, щоб показати погоду.",
+            "Сонце означає сонячно, а хмара з краплями — дощ.",
+            "Число повідомляє вам температуру в градусах Цельсія.",
+            "Стрілка показує вітер, а біля неї — його швидкість у милях на годину.",
+            "Стрілка вказує напрямок, у який дме вітер.",
+            "Прогноз використовує ці знаки, щоб передбачити погоду на наступні дні."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی ایک جگہ اور ایک وقت پر باہر کی ہوا کیسی ہے (weather)",
+            "کسی جگہ کا عام موسم، جو کئی برسوں میں ناپا جائے (climate)",
+            "اس بات کی پیشین گوئی کہ جلد ہی موسم کیسا ہوگا (forecast)",
+            "ہوا کتنی گرم یا ٹھنڈی ہے، ڈگری سیلسیس میں ناپی جاتی ہے",
+            "ایک چھوٹی تصویر جو نقشے پر موسم کی کسی قسم کی نمائندگی کرتی ہے"
+          ],
+          "passage": [
+            "weather یہ ہے کہ ابھی، ایک جگہ پر، ہوا کیسی ہے۔",
+            "یہ دھوپ، بادل، بارش، ہوا، برف یا طوفان والا ہو سکتا ہے۔",
+            "موسم گھنٹے گھنٹے بدل سکتا ہے۔",
+            "climate اس سے مختلف ہے۔",
+            "climate کسی جگہ کا کئی برسوں کا عام موسم ہے۔",
+            "برطانیہ کا climate معتدل اور نم ہے، چاہے کسی ایک دن گرمی اور خشکی ہو۔",
+            "موسم کے نقشے موسم دکھانے کے لیے علامتیں استعمال کرتے ہیں۔",
+            "سورج کا مطلب دھوپ ہے، اور بوندوں والے بادل کا مطلب بارش۔",
+            "ایک عدد آپ کو ڈگری سیلسیس میں درجۂ حرارت بتاتا ہے۔",
+            "ایک تیر ہوا دکھاتا ہے، اور ساتھ اس کی رفتار میل فی گھنٹہ میں۔",
+            "تیر اُس طرف اشارہ کرتا ہے جس طرف ہوا چل رہی ہے۔",
+            "forecast ان علامتوں سے آنے والے دنوں کے موسم کی پیشین گوئی کرتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Weather or climate?",
@@ -324,8 +472,168 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
           "The Earth has three giant loops of air in each hemisphere.",
           "They are called the Hadley cell, the Ferrel cell and the Polar cell.",
           "What happens north of the Equator also happens south of it."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مقدار ضغط الهواء على سطح الأرض (air pressure)",
+            "ثقيل بالنسبة إلى حجمه، وجزيئاته متراصّة متقاربة (dense)",
+            "أن ينتشر ويأخذ حيّزًا أكبر (expand)",
+            "الخطّ الوهمي الذي يدور حول وسط الأرض (Equator)",
+            "نصف الأرض، شمال خطّ الاستواء أو جنوبه (hemisphere)",
+            "حلقة عملاقة واحدة من الهواء الدائر (cell)"
+          ],
+          "passage": [
+            "يتحكّم في الطقس حركةُ الهواء.",
+            "فالهواء إذا دَفِئ تمدّد وارتفع.",
+            "والهواء الدافئ أقلّ كثافة، فهو أخفّ.",
+            "والهواء الصاعد يترك ضغطًا منخفضًا عند سطح الأرض.",
+            "والضغط المنخفض يجلب الغيوم والمطر.",
+            "وأمّا الهواء البارد فهو أكثر كثافة، فهو أثقل.",
+            "والهواء البارد يهبط ويضغط على سطح الأرض.",
+            "وهذا يعطي ضغطًا مرتفعًا.",
+            "والضغط المرتفع يجلب طقسًا مستقرًّا بلا غيوم ولا مطر.",
+            "وهذا النمط من صعود الهواء وهبوطه يحدث في العالم كلّه.",
+            "وللأرض ثلاث حلقات هواء عملاقة في كلّ نصف من نصفيها.",
+            "وتُسمّى خليّة هادلي (Hadley cell) وخليّة فيريل (Ferrel cell) والخليّة القطبية (Polar cell).",
+            "وما يحدث شمال خطّ الاستواء يحدث جنوبه أيضًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak mocno powietrze naciska na ziemię (air pressure)",
+            "ciężki w stosunku do swojej wielkości, z gęsto upakowanymi drobinkami",
+            "rozszerzać się i zajmować więcej miejsca",
+            "wyobrażona linia wokół środka Ziemi",
+            "połowa Ziemi, na północ albo na południe od równika",
+            "jedna ogromna pętla krążącego powietrza (cell)"
+          ],
+          "passage": [
+            "Pogodą rządzi ruch powietrza.",
+            "Kiedy powietrze jest ciepłe, rozszerza się i unosi.",
+            "Ciepłe powietrze jest mniej gęste, więc jest lżejsze.",
+            "Unoszące się powietrze zostawia przy ziemi niskie ciśnienie.",
+            "Niskie ciśnienie przynosi chmury i deszcz.",
+            "Kiedy powietrze jest zimne, jest gęstsze, więc jest cięższe.",
+            "Zimne powietrze opada i naciska na ziemię.",
+            "Tak powstaje wysokie ciśnienie.",
+            "Wysokie ciśnienie przynosi spokojną pogodę, bez chmur i deszczu.",
+            "Taki układ unoszącego się i opadającego powietrza zdarza się na całym świecie.",
+            "Na Ziemi są trzy ogromne pętle powietrza na każdej półkuli.",
+            "Nazywamy je komórką Hadleya, komórką Ferrela i komórką polarną.",
+            "To, co dzieje się na północ od równika, dzieje się także na południe od niego."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "com quanta força o ar está a pressionar / pressionando o solo (air pressure, pressão atmosférica)",
+            "pesado para o seu tamanho, com as partículas muito juntas (dense, denso)",
+            "espalhar-se e ocupar mais espaço (expand, expandir)",
+            "a linha imaginária em volta do meio da Terra (Equator, Equador)",
+            "metade da Terra, a norte ou a sul do Equador (hemisphere, hemisfério)",
+            "uma enorme volta de ar em circulação (cell, célula)"
+          ],
+          "passage": [
+            "O tempo é controlado pelo movimento do ar.",
+            "Quando o ar está quente, expande-se e sobe.",
+            "O ar quente é menos denso, por isso é mais leve.",
+            "O ar que sobe deixa baixa pressão junto ao solo.",
+            "A baixa pressão traz nuvens e chuva.",
+            "Quando o ar está frio, é mais denso, por isso é mais pesado.",
+            "O ar frio desce e pressiona o solo.",
+            "Isto dá alta pressão.",
+            "A alta pressão traz tempo estável, sem nuvens nem chuva.",
+            "Este padrão de ar a subir e a descer acontece em todo o mundo.",
+            "A Terra tem três enormes voltas de ar em cada hemisfério.",
+            "Chamam-se célula de Hadley, célula de Ferrel e célula Polar.",
+            "O que acontece a norte do Equador também acontece a sul dele."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inta hawadu ay dhulka hoos ugu riixayso",
+            "culus marka loo eego cabbirkiisa, oo walxihiisu aad isugu dhow yihiin",
+            "inuu fido oo meel badan qaato",
+            "xariiqda la male-awaalay ee dhexda Dhulka ku wareegsan",
+            "nus Dhulka, waqooyi ama koonfur ka xigta dhulbaraha",
+            "hal wareeg weyn oo hawo wareegaysa ah"
+          ],
+          "passage": [
+            "Hawada maalinlaha waxaa maamula socodka hawada.",
+            "Marka hawadu diirran tahay way fidaa oo kor ayay u kacdaa.",
+            "Hawada diirran ayaa cufnaan yar leh, sidaa darteed way fudud tahay.",
+            "Hawada kor u kacaysa waxay dhulka ka tagtaa cadaadis hooseeya.",
+            "Cadaadiska hooseeya wuxuu keenaa daruuro iyo roob.",
+            "Marka hawadu qabow tahay way cufan tahay, sidaa darteed way culus tahay.",
+            "Hawada qabow hoos ayay u degtaa oo dhulka ayay ku riixdaa.",
+            "Tan waxay siisaa cadaadis sare.",
+            "Cadaadiska sare wuxuu keenaa hawo degan oo daruuro iyo roob aan lahayn.",
+            "Qaabkan kor-u-kac iyo hoos-u-dhac ee hawada wuxuu dhacaa dunida oo dhan.",
+            "Dhulku wuxuu leeyahay saddex wareeg oo waaweyn oo hawo ah nus kasta.",
+            "Waxaa la yiraahdaa Hadley cell, Ferrel cell iyo Polar cell.",
+            "Waxa waqooyiga dhulbaraha dhaca, koonfurtiisana wuu dhacaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "наскільки сильно повітря тисне вниз на землю (air pressure)",
+            "важкий для свого розміру, з частинками, щільно упакованими разом (dense)",
+            "розширюватися й займати більше місця (expand)",
+            "уявна лінія навколо середини Землі (Equator)",
+            "одна половина Землі, на північ або на південь від екватора (hemisphere)",
+            "одна велетенська петля повітря, що циркулює (cell)"
+          ],
+          "passage": [
+            "Погоду визначає рух повітря.",
+            "Коли повітря тепле, воно розширюється і піднімається.",
+            "Тепле повітря менш щільне, тому воно легше.",
+            "Повітря, що піднімається, залишає біля землі низький тиск.",
+            "Низький тиск приносить хмари й дощ.",
+            "Коли повітря холодне, воно щільніше, тому воно важче.",
+            "Холодне повітря опускається і тисне на землю.",
+            "Це дає високий тиск.",
+            "Високий тиск приносить спокійну погоду без хмар і дощу.",
+            "Цей порядок повітря, що піднімається й опускається, повторюється по всьому світу.",
+            "Земля має три велетенські петлі повітря в кожній півкулі.",
+            "Їх називають комірка Гадлі, комірка Феррела і полярна комірка.",
+            "Те, що відбувається на північ від екватора, відбувається і на південь від нього."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہوا زمین پر کتنے زور سے دباؤ ڈال رہی ہے (air pressure)",
+            "اپنے حجم کے حساب سے بھاری، جس کے ذرات قریب قریب جمع ہوں (dense)",
+            "پھیل جانا اور زیادہ جگہ لے لینا",
+            "زمین کے بیچ میں کھینچی گئی خیالی لکیر (Equator)",
+            "زمین کا ایک نصف حصہ، Equator سے شمال یا جنوب (hemisphere)",
+            "گھومتی ہوئی ہوا کا ایک بہت بڑا چکر (cell)"
+          ],
+          "passage": [
+            "موسم کو ہوا کی حرکت قابو میں رکھتی ہے۔",
+            "جب ہوا گرم ہوتی ہے تو پھیل کر اوپر اٹھتی ہے۔",
+            "گرم ہوا کم کثیف ہوتی ہے، اس لیے ہلکی ہوتی ہے۔",
+            "اوپر اٹھتی ہوئی ہوا زمین پر کم دباؤ (low pressure) چھوڑ جاتی ہے۔",
+            "کم دباؤ بادل اور بارش لاتا ہے۔",
+            "جب ہوا ٹھنڈی ہوتی ہے تو زیادہ کثیف ہوتی ہے، اس لیے بھاری ہوتی ہے۔",
+            "ٹھنڈی ہوا نیچے بیٹھتی ہے اور زمین پر دباؤ ڈالتی ہے۔",
+            "اس سے زیادہ دباؤ (high pressure) بنتا ہے۔",
+            "زیادہ دباؤ ٹھہرا ہوا موسم لاتا ہے، بغیر بادل اور بارش کے۔",
+            "ہوا کے اوپر اٹھنے اور نیچے بیٹھنے کا یہ نمونہ ساری دنیا میں ہوتا ہے۔",
+            "زمین کے ہر نصف کرے میں ہوا کے تین بہت بڑے چکر ہیں۔",
+            "انھیں Hadley cell، Ferrel cell اور Polar cell کہتے ہیں۔",
+            "جو Equator کے شمال میں ہوتا ہے، وہی اس کے جنوب میں بھی ہوتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Warm air rises, cold air sinks",
@@ -524,8 +832,168 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
           "The warm, damp air rises and cools.",
           "The water vapour condenses into tiny droplets, which make clouds.",
           "The droplets join together, grow heavy and fall as rain."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كتلة هواء ضخمة حرارتها واحدة تقريبًا في كلّ أجزائها (air mass)",
+            "المنطقة المتجمّدة حول القطب الشمالي (Arctic)",
+            "المحيط الذي يقع غرب المملكة المتّحدة (Atlantic)",
+            "عدّة أيّام من طقس أحرّ كثيرًا من المعتاد (heatwave)",
+            "مدّة طويلة يسقط فيها مطر أقلّ كثيرًا من المعتاد (drought)",
+            "منطقة ضغط منخفض يلتقي فيها الهواء الدافئ بالهواء البارد (depression)"
+          ],
+          "passage": [
+            "المملكة المتّحدة كالدوّار الذي تدور فيه أنواع الطقس.",
+            "فالهواء يصلها من جهات عدّة، وكلّ جهة تجلب طقسها.",
+            "فالهواء القطبي من الشمال يجلب ثلجًا غزيرًا وبردًا قارسًا.",
+            "وقد يأتي الطقس الشتوي الشديد من الشرق.",
+            "والهواء الحارّ المشمس من الجنوب قد يجلب موجات حرّ وموجات جفاف.",
+            "والعواصف من المحيط الأطلسي تجلب مطرًا غزيرًا ورياحًا قويّة.",
+            "وتُسمّى كتلة الهواء الضخمة هذه كتلة هوائية (air mass).",
+            "وحيث يلتقي الهواء الدافئ بالهواء البارد يتكوّن منخفض جوّي (depression).",
+            "والمنخفض الجوّي منطقة ضغط منخفض فيها غيوم ومطر وريح.",
+            "ويبدأ المطر عندما تسخّن الشمس الماء فيتبخّر.",
+            "فيرتفع الهواء الدافئ الرطب ويبرد.",
+            "فيتكاثف بخار الماء قطرات صغيرة جدًّا تصنع الغيوم.",
+            "ثم تتّصل القطرات وتثقل وتسقط مطرًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ogromna masa powietrza o niemal tej samej temperaturze w całej swojej objętości (air mass)",
+            "zamarznięty obszar wokół bieguna północnego",
+            "ocean na zachód od Zjednoczonego Królestwa",
+            "kilka dni pogody o wiele cieplejszej niż zwykle (heatwave)",
+            "długi czas, w którym spada o wiele mniej deszczu niż zwykle (drought)",
+            "obszar niskiego ciśnienia, w którym ciepłe powietrze spotyka się z zimnym (depression)"
+          ],
+          "passage": [
+            "Zjednoczone Królestwo jest dla pogody jak rondo.",
+            "Powietrze przychodzi z kilku stron i każda przynosi swoją pogodę.",
+            "Powietrze arktyczne z północy przynosi obfity śnieg i siarczysty mróz.",
+            "Ostra zimowa pogoda może przyjść ze wschodu.",
+            "Gorące, słoneczne powietrze z południa może przynieść fale upałów i susze.",
+            "Burze z Atlantyku przynoszą ulewny deszcz i silny wiatr.",
+            "Taką ogromną masę powietrza nazywamy masą powietrzną (air mass).",
+            "Tam, gdzie ciepłe powietrze spotyka się z zimnym, powstaje niż (depression).",
+            "Niż to obszar niskiego ciśnienia z chmurami, deszczem i wiatrem.",
+            "Deszcz zaczyna się od tego, że słońce ogrzewa wodę i ona paruje.",
+            "Ciepłe, wilgotne powietrze unosi się i stygnie.",
+            "Para wodna skrapla się w maleńkie kropelki, z których powstają chmury.",
+            "Kropelki łączą się, stają się ciężkie i spadają jako deszcz."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um enorme corpo de ar com quase a mesma temperatura em toda a sua espessura (air mass, massa de ar)",
+            "a região gelada em volta do Polo Norte (Arctic, Ártico)",
+            "o oceano a oeste do Reino Unido (Atlantic, Atlântico)",
+            "vários dias de tempo muito mais quente do que o habitual (heatwave, onda de calor)",
+            "um período longo com muito menos chuva do que o habitual (drought, seca)",
+            "uma área de baixa pressão onde o ar quente encontra o ar frio (depression, depressão)"
+          ],
+          "passage": [
+            "O Reino Unido é como uma rotunda/rotatória para o tempo.",
+            "O ar chega de várias direções, e cada um traz o seu próprio tempo.",
+            "O ar ártico que vem do norte traz neve forte e frio cortante.",
+            "O tempo rigoroso de inverno pode vir do leste.",
+            "O ar quente e com sol que vem do sul pode trazer ondas de calor e secas.",
+            "As tempestades do Atlântico trazem chuva forte e ventos fortes.",
+            "Um corpo de ar tão grande como este chama-se massa de ar (air mass).",
+            "Onde o ar quente encontra o ar frio, forma-se uma depressão.",
+            "Uma depressão (depression) é uma área de baixa pressão com nuvens, chuva e vento.",
+            "A chuva começa quando o sol aquece a água e ela se evapora.",
+            "O ar quente e húmido/úmido sobe e arrefece/esfria.",
+            "O vapor de água condensa-se em gotinhas minúsculas, que formam as nuvens.",
+            "As gotinhas juntam-se, ficam pesadas e caem como chuva."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "hawo aad u weyn oo heerkulkeedu dhammaantii isku mid yahay",
+            "gobolka barafoobay ee ku wareegsan cirifka woqooyi",
+            "badweynta ku taal galbeedka Boqortooyada Midowday",
+            "maalmo dhowr ah oo hawadu aad uga kululdahay caadiga",
+            "muddo dheer oo roob aad uga yar caadiga ah",
+            "meel cadaadis hooseeya leh oo hawada diirran ay hawada qabow kula kulanto"
+          ],
+          "passage": [
+            "Boqortooyada Midowday waxay la mid tahay wareeg jid oo hawada.",
+            "Hawo waxay ka timaaddaa dhowr jiho, mid kastaana waxay keentaa hawadeeda u gaar ah.",
+            "Hawada Arctic ee waqooyiga ka timaadda waxay keentaa baraf culus iyo qabow daran.",
+            "Hawo jiilaal oo xun waxay bariga ka iman kartaa.",
+            "Hawo kulul oo qorraxeysan oo koonfurta ka timaadda waxay keeni kartaa mowjado kulayl iyo abaaro.",
+            "Duufaannada Atlantic-ka ka yimaadda waxay keenaan roob culus iyo dabeylo xoog leh.",
+            "Hawo weyn sidan oo kale waxaa loo yiraahdaa air mass.",
+            "Meesha hawada diirran ay hawada qabow kula kulanto, waxaa samaysmaa depression.",
+            "Depression waa meel cadaadis hooseeya leh oo daruur, roob iyo dabeyl leh.",
+            "Roobku wuxuu bilaabmaa marka qorraxdu biyaha kululayso oo ay uumi noqdaan.",
+            "Hawada diirran oo qoyan kor ayay u kacdaa oo way qaboowdaa.",
+            "Uumiga biyuhu wuxuu isu beddelaa dhibco yaryar, kuwaasoo daruuro sameeya.",
+            "Dhibcuhu way isku biiraan, way culus noqdaan oo roob ahaan ayay u da'aan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "величезна маса повітря, яка майже однакова за температурою по всій своїй товщі (air mass)",
+            "замерзлий регіон навколо Північного полюса (Arctic)",
+            "океан на заході від Об’єднаного Королівства (Atlantic)",
+            "кілька днів погоди, значно гарячішої за звичайну (heatwave)",
+            "довгий час зі значно меншою кількістю дощу, ніж звичайно (drought)",
+            "область низького тиску, де тепле повітря зустрічається з холодним (depression)"
+          ],
+          "passage": [
+            "Об’єднане Королівство — наче кільцева розв’язка для погоди.",
+            "Повітря надходить із кількох напрямків, і кожний приносить свою погоду.",
+            "Арктичне повітря з півночі приносить сильний снігопад і люту холоднечу.",
+            "Сувора зимова погода може приходити зі сходу.",
+            "Гаряче сонячне повітря з півдня може приносити хвилі спеки й засухи.",
+            "Шторми з Атлантики приносять сильний дощ і сильні вітри.",
+            "Таку величезну масу повітря називають повітряною масою (air mass).",
+            "Там, де тепле повітря зустрічається з холодним, утворюється циклон (depression).",
+            "Циклон — це область низького тиску з хмарами, дощем і вітром.",
+            "Дощ починається тоді, коли сонце нагріває воду і вона випаровується.",
+            "Тепле вологе повітря піднімається й охолоджується.",
+            "Водяна пара конденсується в крихітні краплі, які утворюють хмари.",
+            "Краплі з’єднуються, важчають і падають дощем."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہوا کا ایک بہت بڑا حصہ جو اندر تک تقریباً ایک ہی درجۂ حرارت کا ہو (air mass)",
+            "قطب شمالی کے گرد برف سے جما ہوا علاقہ (Arctic)",
+            "برطانیہ کے مغرب میں واقع سمندر (Atlantic)",
+            "کئی دن کا ایسا موسم جو عام سے بہت زیادہ گرم ہو (heatwave)",
+            "ایک لمبا عرصہ جس میں عام سے بہت کم بارش ہو (drought)",
+            "کم دباؤ کا ایک علاقہ جہاں گرم ہوا ٹھنڈی ہوا سے ملتی ہے (depression)"
+          ],
+          "passage": [
+            "برطانیہ موسم کے لیے ایک گول چکر (roundabout) جیسا ہے۔",
+            "ہوا کئی طرفوں سے آتی ہے، اور ہر ہوا اپنا موسم ساتھ لاتی ہے۔",
+            "شمال سے آنے والی Arctic ہوا بھاری برف اور کڑی سردی لاتی ہے۔",
+            "سردیوں کا سخت موسم مشرق سے بھی آ سکتا ہے۔",
+            "جنوب سے آنے والی گرم، دھوپ والی ہوا heatwaves اور droughts لا سکتی ہے۔",
+            "Atlantic سے آنے والے طوفان تیز بارش اور تیز ہوائیں لاتے ہیں۔",
+            "ہوا کے اتنے بڑے حصے کو air mass کہتے ہیں۔",
+            "جہاں گرم ہوا ٹھنڈی ہوا سے ملتی ہے، وہاں depression بنتا ہے۔",
+            "depression کم دباؤ کا علاقہ ہے جس میں بادل، بارش اور ہوا ہوتی ہے۔",
+            "بارش اس وقت شروع ہوتی ہے جب سورج پانی کو گرم کرتا ہے اور وہ بخارات بن جاتا ہے۔",
+            "گرم، نم ہوا اوپر اٹھتی ہے اور ٹھنڈی ہو جاتی ہے۔",
+            "آبی بخارات ننھی بوندوں میں بدل جاتے ہیں، جن سے بادل بنتے ہیں۔",
+            "بوندیں آپس میں مل کر بھاری ہو جاتی ہیں اور بارش بن کر گرتی ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four directions, four kinds of weather",
@@ -724,8 +1192,168 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
           "There are two main types of cloud.",
           "Cumulus clouds are heaped and fluffy.",
           "Stratus clouds are flat, grey sheets."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "سببه صعود الهواء الدافئ عن سطح ساخن (convectional)",
+            "شكل الأرض، كالتلال والجبال (relief)",
+            "يحدث على الجبهة التي يلتقي فيها الهواء الدافئ بالهواء البارد (frontal)",
+            "غيمة مكوّمة منتفخة قاعدتها مستوية (cumulus)",
+            "صفيحة غيم رمادية مستوية (stratus)"
+          ],
+          "passage": [
+            "هناك ثلاثة أنواع من المطر.",
+            "وثلاثتها تحدث لأنّ الهواء يرتفع ويبرد فيتكاثف بخار الماء فيه.",
+            "والذي يختلف هو سبب ارتفاع الهواء.",
+            "في المطر الحملي تسخّن الشمس سطح الأرض.",
+            "فيرتفع الهواء الدافئ فوقه ويبرد ويصنع غيمة.",
+            "وهذا يجلب غالبًا أمطارًا غزيرة وعواصف رعدية في أصائل الأيّام الحارّة.",
+            "وفي المطر التصادمي يصل الهواء المتحرّك إلى تلال أو جبال.",
+            "فيُدفع الهواء إلى الصعود فوق الأرض المرتفعة، فيبرد ويسقط المطر.",
+            "وفي المطر الجبهي تلتقي كتلة هواء دافئة بكتلة هواء باردة.",
+            "فيُدفع الهواء الدافئ الأخفّ إلى أعلى فوق الهواء البارد، ويسقط المطر على الجبهة.",
+            "وقبل المطر تتكوّن الغيوم.",
+            "وللغيوم نوعان رئيسان.",
+            "فغيوم الركام (cumulus) مكوّمة منتفخة.",
+            "وغيوم الطَبَقة (stratus) صفائح رمادية مستوية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wywołany przez ciepłe powietrze unoszące się z nagrzanej powierzchni (convectional)",
+            "kształt terenu, na przykład wzgórza i góry (relief)",
+            "zachodzący na froncie, tam gdzie ciepłe powietrze spotyka się z zimnym (frontal)",
+            "spiętrzona, puszysta chmura o płaskiej podstawie (cumulus)",
+            "płaska, szara warstwa chmur (stratus)"
+          ],
+          "passage": [
+            "Są trzy rodzaje opadów deszczu.",
+            "Wszystkie trzy zdarzają się dlatego, że powietrze się unosi, stygnie, a jego para wodna się skrapla.",
+            "Różni je powód, dla którego powietrze się unosi.",
+            "W opadzie konwekcyjnym (convectional) słońce nagrzewa ziemię.",
+            "Ciepłe powietrze nad nią unosi się, stygnie i tworzy chmurę.",
+            "W gorące popołudnia przynosi to często ulewne przelotne opady i burze.",
+            "W opadzie orograficznym (relief) poruszające się powietrze napotyka wzgórza albo góry.",
+            "Powietrze musi wznieść się nad wysoki teren, więc stygnie i spada deszcz.",
+            "W opadzie frontalnym (frontal) ciepła masa powietrza spotyka się z zimną.",
+            "Lżejsze ciepłe powietrze jest wypychane w górę nad zimne i deszcz spada wzdłuż frontu.",
+            "Przed deszczem tworzą się chmury.",
+            "Są dwa główne rodzaje chmur.",
+            "Chmury kłębiaste (cumulus) są spiętrzone i puszyste.",
+            "Chmury warstwowe (stratus) to płaskie, szare warstwy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "causado pelo ar quente que sobe de uma superfície aquecida (convectional, convectiva)",
+            "a forma do terreno, como as colinas e as montanhas (relief, relevo)",
+            "que acontece ao longo da frente onde o ar quente encontra o ar frio (frontal)",
+            "uma nuvem amontoada e fofa, com a base plana (cumulus, cúmulo)",
+            "uma camada de nuvem plana e cinzenta (stratus, estrato)"
+          ],
+          "passage": [
+            "Há três tipos de precipitação.",
+            "Os três acontecem porque o ar sobe, arrefece/esfria e o seu vapor de água se condensa.",
+            "O que é diferente é a razão por que o ar sobe.",
+            "Na chuva convectiva (convectional rainfall), o sol aquece o solo.",
+            "O ar quente que está acima dele sobe, arrefece/esfria e forma uma nuvem.",
+            "Isto traz muitas vezes chuvadas fortes e trovoadas nas tardes quentes.",
+            "Na chuva de relevo (relief rainfall), o ar em movimento encontra colinas ou montanhas.",
+            "O ar é obrigado a subir por cima do terreno alto, por isso arrefece/esfria e cai chuva.",
+            "Na chuva frontal (frontal rainfall), uma massa de ar quente encontra uma massa de ar frio.",
+            "O ar quente, mais leve, é empurrado para cima do ar frio e a chuva cai ao longo da frente.",
+            "Antes da chuva, formam-se nuvens.",
+            "Há dois tipos principais de nuvem.",
+            "As nuvens cúmulos (cumulus) são amontoadas e fofas.",
+            "As nuvens estratos (stratus) são camadas planas e cinzentas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waxaa sababa hawo diirran oo ka kacaysa dhul la kululeeyay",
+            "qaabka dhulka, sida kuraha iyo buuraha",
+            "waxa dhaca xariiqda ay hawada diirran kula kulanto hawada qabow",
+            "daruur tuulan oo buuran oo saldhig siman leh",
+            "daruur siman oo cawl ah oo sida go' u fidsan"
+          ],
+          "passage": [
+            "Saddex nooc oo roob ah ayaa jira.",
+            "Saddexdaas oo dhan waxay u dhacaan hawadu way kacdaa, way qaboowdaa oo uumigeeda biyuhu wuxuu isu beddelaa dhibco.",
+            "Waxa kala duwani waa sababta hawadu u kacdo.",
+            "Roobka convectional, qorraxdu dhulka ayay kululaysaa.",
+            "Hawada diirran ee korkiisa kor ayay u kacdaa, way qaboowdaa oo daruur ayay samaysaa.",
+            "Tan waxay inta badan keentaa tiixo culus iyo duufaanno onkod leh galabnimada kulul.",
+            "Roobka relief, hawada socota waxay la kulantaa kuro ama buuro.",
+            "Hawada waxaa lagu qasbaa inay dhulka sare kor uga gudubto, markaasna way qaboowdaa oo roob ayuu da'aa.",
+            "Roobka frontal, hawo diirran oo weyn waxay la kulantaa hawo qabow oo weyn.",
+            "Hawada diirran ee fudud waxaa kor loo riixaa hawada qabow, roobkana wuxuu da'aa xariiqda ay ku kulmaan.",
+            "Roobka ka hor, daruuro ayaa samaysma.",
+            "Laba nooc oo daruur ah ayaa muhiim ah.",
+            "Daruuraha cumulus waa kuwo tuulan oo buuran.",
+            "Daruuraha stratus waa go'yaal siman oo cawl ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "спричинений теплим повітрям, що піднімається від нагрітої поверхні (convectional)",
+            "форма поверхні землі, як-от пагорби і гори (relief)",
+            "те, що відбувається вздовж фронту, де тепле повітря зустрічається з холодним (frontal)",
+            "купчаста пухнаста хмара з плоскою основою (cumulus)",
+            "плоский сірий шар хмар (stratus)"
+          ],
+          "passage": [
+            "Є три типи дощу.",
+            "Усі три бувають через те, що повітря піднімається, охолоджується і його водяна пара конденсується.",
+            "Різниться причина, чому повітря піднімається.",
+            "У конвекційному дощі (convectional) сонце нагріває землю.",
+            "Тепле повітря над нею піднімається, охолоджується й утворює хмару.",
+            "Це часто приносить сильні зливи і грози гарячими пополуднями.",
+            "В орографічному дощі (relief) рухоме повітря зустрічає пагорби або гори.",
+            "Повітря змушене піднятися над високою землею, тому воно охолоджується і падає дощ.",
+            "У фронтальному дощі (frontal) тепла повітряна маса зустрічається з холодною повітряною масою.",
+            "Легше тепле повітря виштовхується вгору над холодним, і дощ падає вздовж фронту.",
+            "Перед дощем утворюються хмари.",
+            "Є два основні типи хмар.",
+            "Хмари типу cumulus зібрані в купи й пухнасті.",
+            "Хмари типу stratus — це плоскі сірі шари."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "گرم سطح سے اوپر اٹھتی ہوئی گرم ہوا کے باعث ہونے والا (convectional)",
+            "زمین کی شکل، جیسے پہاڑیاں اور پہاڑ (relief)",
+            "اس کنارے پر ہونے والا جہاں گرم ہوا ٹھنڈی ہوا سے ملتی ہے (frontal)",
+            "ڈھیر جیسا، روئی کی طرح بادل جس کی تہہ چپٹی ہوتی ہے (cumulus)",
+            "بادل کی ایک چپٹی، سرمئی چادر (stratus)"
+          ],
+          "passage": [
+            "بارش کی تین قسمیں ہیں۔",
+            "تینوں اس لیے ہوتی ہیں کہ ہوا اوپر اٹھتی ہے، ٹھنڈی ہوتی ہے اور اس کے آبی بخارات بوندوں میں بدل جاتے ہیں۔",
+            "فرق صرف یہ ہے کہ ہوا اوپر کیوں اٹھتی ہے۔",
+            "convectional rainfall میں سورج زمین کو گرم کرتا ہے۔",
+            "اس کے اوپر کی گرم ہوا اٹھتی ہے، ٹھنڈی ہوتی ہے اور بادل بناتی ہے۔",
+            "اس سے گرم دوپہروں میں اکثر تیز بارش اور گرج چمک ہوتی ہے۔",
+            "relief rainfall میں چلتی ہوئی ہوا پہاڑیوں یا پہاڑوں سے ٹکراتی ہے۔",
+            "ہوا کو بلند زمین کے اوپر چڑھنا پڑتا ہے، اس لیے وہ ٹھنڈی ہوتی ہے اور بارش ہوتی ہے۔",
+            "frontal rainfall میں گرم air mass ٹھنڈے air mass سے ملتا ہے۔",
+            "ہلکی گرم ہوا ٹھنڈی ہوا کے اوپر دھکیل دی جاتی ہے اور اس کنارے (front) کے ساتھ ساتھ بارش ہوتی ہے۔",
+            "بارش سے پہلے بادل بنتے ہیں۔",
+            "بادل کی دو بڑی قسمیں ہیں۔",
+            "cumulus بادل ڈھیر جیسے اور روئی کی طرح ہوتے ہیں۔",
+            "stratus بادل چپٹی، سرمئی چادریں ہوتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Convectional rainfall",
@@ -933,8 +1561,156 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
           "Geographers study real storms to understand them.",
           "A real-life example is called a case study.",
           "Our case study is Hurricane Dorian, which happened in 2019."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عاصفة دوّارة ضخمة تتكوّن فوق المحيطات المدارية الدافئة (tropical cyclone)",
+            "اسم الإعصار المداري في المحيط الأطلسي (hurricane)",
+            "المراحل التي يمرّ بها الشيء من بدايته إلى نهايته (life cycle)",
+            "مثال واقعي لشيء ندرسه في الجغرافيا (case study)",
+            "طقس أشدّ كثيرًا من المعتاد (extreme weather)"
+          ],
+          "passage": [
+            "بعض الطقس أشدّ كثيرًا من المعتاد.",
+            "ونسمّيه الطقس المتطرّف (extreme weather).",
+            "والإعصار المداري (tropical cyclone) مثال على ذلك.",
+            "وهو عاصفة دوّارة ضخمة فيها رياح قويّة جدًّا ومطر غزير.",
+            "وتتكوّن الأعاصير المدارية فوق المحيطات الدافئة قرب المدارين.",
+            "وللعاصفة نفسها أسماء مختلفة في أماكن مختلفة.",
+            "فهي في المحيط الأطلسي تُسمّى هاريكين (hurricane).",
+            "وللإعصار المداري دورة حياة.",
+            "فهو يُولَد فوق الماء الدافئ، ويقوى، ويموت عندما يصل إلى اليابسة أو إلى ماء بارد.",
+            "ويدرس الجغرافيون عواصف حقيقية ليفهموها.",
+            "ويُسمّى المثال الواقعي دراسة حالة (case study).",
+            "ودراسة حالتنا هي إعصار دوريان (Dorian) الذي حدث في 2019."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wielka wirująca burza, która powstaje nad ciepłymi oceanami w tropikach (tropical cyclone)",
+            "nazwa cyklonu tropikalnego na Oceanie Atlantyckim (hurricane)",
+            "etapy, przez które coś przechodzi od swojego początku do końca",
+            "prawdziwy przykład czegoś, co badamy na geografii (case study)",
+            "pogoda o wiele gwałtowniejsza niż zwykle (extreme weather)"
+          ],
+          "passage": [
+            "Niektóra pogoda jest o wiele gwałtowniejsza niż zwykle.",
+            "Nazywamy ją pogodą ekstremalną (extreme weather).",
+            "Cyklon tropikalny (tropical cyclone) jest jednym z przykładów.",
+            "To ogromna wirująca burza z bardzo silnym wiatrem i ulewnym deszczem.",
+            "Cyklony tropikalne powstają nad ciepłymi oceanami blisko tropików.",
+            "Ta sama burza ma różne nazwy w różnych częściach świata.",
+            "Na Atlantyku nazywa się huraganem.",
+            "Cyklon tropikalny ma swój cykl życia.",
+            "Rodzi się nad ciepłą wodą, nabiera siły i zamiera, gdy dotrze nad ląd albo nad zimną wodę.",
+            "Geografowie badają prawdziwe burze, żeby je zrozumieć.",
+            "Prawdziwy przykład nazywamy studium przypadku (case study).",
+            "Naszym studium przypadku jest huragan Dorian, który wydarzył się w 2019 roku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma enorme tempestade giratória que se forma sobre oceanos tropicais quentes (tropical cyclone, ciclone tropical)",
+            "o nome que se dá a um ciclone tropical no oceano Atlântico (hurricane, furacão)",
+            "as fases por que uma coisa passa, do início ao fim (life cycle, ciclo de vida)",
+            "um exemplo da vida real de algo que estudamos em geografia (case study, estudo de caso)",
+            "tempo muito mais severo do que o habitual (extreme weather)"
+          ],
+          "passage": [
+            "Há tempo muito mais severo do que o habitual.",
+            "Chamamos-lhe tempo extremo (extreme weather).",
+            "Um ciclone tropical é um exemplo.",
+            "É uma enorme tempestade giratória, com ventos muito fortes e chuva forte.",
+            "Os ciclones tropicais formam-se sobre oceanos quentes, perto dos trópicos.",
+            "O mesmo tipo de tempestade tem nomes diferentes em lugares diferentes.",
+            "No Atlântico chama-se furacão (hurricane).",
+            "Um ciclone tropical tem um ciclo de vida.",
+            "Nasce sobre água quente, fica mais forte e morre quando chega a terra ou a água fria.",
+            "Os geógrafos estudam tempestades reais para as compreender.",
+            "Um exemplo da vida real chama-se estudo de caso (case study).",
+            "O nosso estudo de caso é o furacão Dorian, que aconteceu em 2019."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "duufaan weyn oo wareegaya oo ka samaysma badweynaha kulul ee kulaylaha",
+            "magaca loo bixiyo duufaanka kulaylaha ee Badweynta Atlantic",
+            "marxaladaha wax ay ka soo maro bilowgiisa ilaa dhammaadkiisa",
+            "tusaale nolol dhab ah oo wax aan juqraafi ku baranno",
+            "hawo aad uga daran caadiga ah"
+          ],
+          "passage": [
+            "Hawo qaar aad ayay uga daran tahay caadiga ah.",
+            "Waxaan ugu yeeraa extreme weather.",
+            "Duufaanka kulaylaha (tropical cyclone) waa hal tusaale.",
+            "Waa duufaan weyn oo wareegaya oo leh dabeylo aad u xoog leh iyo roob culus.",
+            "Duufaannada kulaylaha waxay ka samaysmaan badweynaha diirran ee kulaylaha u dhow.",
+            "Duufaankan isku nooca ah magacyo kala duwan ayuu leeyahay meelo kala duwan.",
+            "Atlantic-ka waxaa loo yiraahdaa hurricane.",
+            "Duufaanka kulaylaha wuxuu leeyahay wareeg nololeed.",
+            "Wuxuu ku dhashaa biyo diirran, wuu sii xoogaystaa, wuuna dhintaa marka dhul ama biyo qabow gaaro.",
+            "Juqraafi-yaqaannadu waxay bartaan duufaanno dhab ah si ay u fahmaan.",
+            "Tusaalaha nolosha dhabta ah waxaa loo yiraahdaa case study.",
+            "Case study-geenna waa Hurricane Dorian, oo dhacay 2019-kii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "величезний обертовий шторм, що утворюється над теплими тропічними океанами (tropical cyclone)",
+            "назва тропічного циклону в Атлантичному океані (hurricane)",
+            "етапи, які щось проходить від свого початку до кінця (life cycle)",
+            "приклад із реального життя того, що ми вивчаємо в географії (case study)",
+            "погода, яка значно суворіша за звичайну (extreme weather)"
+          ],
+          "passage": [
+            "Деяка погода значно суворіша за звичайну.",
+            "Ми називаємо її екстремальною погодою (extreme weather).",
+            "Тропічний циклон (tropical cyclone) — один із прикладів.",
+            "Це величезний обертовий шторм з дуже сильними вітрами і сильним дощем.",
+            "Тропічні циклони утворюються над теплими океанами біля тропіків.",
+            "Такий самий шторм має різні назви в різних місцях.",
+            "В Атлантиці його називають ураганом (hurricane).",
+            "Тропічний циклон має життєвий цикл (life cycle).",
+            "Він народжується над теплою водою, набирає сили і згасає, коли досягає землі або холодної води.",
+            "Географи вивчають справжні шторми, щоб їх зрозуміти.",
+            "Приклад із реального життя називають кейс-стаді (case study).",
+            "Наше кейс-стаді — ураган Доріан (Hurricane Dorian), який стався у 2019 році."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک بہت بڑا گھومتا طوفان جو گرم اشنکٹبندی سمندروں پر بنتا ہے (tropical cyclone)",
+            "بحرِ اوقیانوس میں tropical cyclone کا نام (hurricane)",
+            "وہ مرحلے جن سے کوئی چیز اپنے آغاز سے انجام تک گزرتی ہے (life cycle)",
+            "جغرافیہ میں پڑھی جانے والی کسی چیز کی حقیقی مثال (case study)",
+            "ایسا موسم جو عام سے بہت زیادہ سخت ہو (extreme weather)"
+          ],
+          "passage": [
+            "کچھ موسم عام سے بہت زیادہ سخت ہوتا ہے۔",
+            "ہم اسے extreme weather کہتے ہیں۔",
+            "tropical cyclone اس کی ایک مثال ہے۔",
+            "یہ ایک بہت بڑا گھومتا طوفان ہے جس میں بہت تیز ہوائیں اور تیز بارش ہوتی ہے۔",
+            "tropical cyclones اشنکٹبندی علاقوں کے قریب گرم سمندروں پر بنتے ہیں۔",
+            "اسی قسم کے طوفان کے مختلف جگہوں پر مختلف نام ہیں۔",
+            "بحرِ اوقیانوس میں اسے hurricane کہتے ہیں۔",
+            "tropical cyclone کا ایک life cycle ہوتا ہے۔",
+            "یہ گرم پانی پر جنم لیتا ہے، زور پکڑتا ہے، اور خشکی یا ٹھنڈے پانی تک پہنچ کر ختم ہو جاتا ہے۔",
+            "جغرافیہ دان حقیقی طوفانوں کا مطالعہ کرتے ہیں تاکہ انھیں سمجھ سکیں۔",
+            "حقیقی مثال کو case study کہتے ہیں۔",
+            "ہمارا case study Hurricane Dorian ہے، جو 2019 میں آیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is a tropical cyclone?",
@@ -1139,8 +1915,174 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
           "Some causes are human, such as burning fossil fuels.",
           "Greenhouse gases like carbon dioxide trap heat in the air.",
           "Climate change affects people and the environment all over the world."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كتلة جليد كبيرة تتدفّق ببطء شديد نزولًا في المنحدر (glacier)",
+            "طبقة جليد ضخمة تغطّي منطقة كاملة (ice sheet)",
+            "هبوط الأرض تحت الجليد ثم ارتفاعها من جديد بعد ذوبانه (isostatic change)",
+            "غاز يحبس الحرارة في الغلاف الجوّي (greenhouse gas)",
+            "الفحم أو النفط أو الغاز، وقد تكوّن من كائنات حيّة ماتت قبل زمن طويل (fossil fuel)",
+            "تغيّر طويل الأجل في الطقس المعتاد للأرض (climate change)"
+          ],
+          "passage": [
+            "لم يكن مناخ الأرض واحدًا في كلّ العصور.",
+            "فقبل نحو 20 000 سنة كان هناك عصر جليدي.",
+            "وغطّى الجليد جزءًا كبيرًا من أوروبا، ومنه معظم المملكة المتّحدة.",
+            "واليوم يغطّي الجليد نحو 10 في المئة من سطح يابسة الأرض.",
+            "وهذا الجليد في الأنهار الجليدية والقِباب الجليدية والصفائح الجليدية.",
+            "والنهر الجليدي (glacier) كتلة جليد كبيرة تتدفّق ببطء شديد، كنهر متجمّد.",
+            "وقد دفع ثِقَل الجليد الأرض إلى أسفل.",
+            "وعندما ذاب الجليد ارتفعت الأرض من جديد ببطء.",
+            "ويُسمّى هذا التغيّر الأيزوستاتيكي (isostatic change).",
+            "واليوم يتغيّر المناخ من جديد، وهو يزداد حرارةً.",
+            "وبعض الأسباب طبيعية، كالانفجارات البركانية.",
+            "وبعضها بشريّة، كحرق الوقود الأحفوري.",
+            "وغازات الدفيئة كثاني أكسيد الكربون تحبس الحرارة في الهواء.",
+            "وتغيّر المناخ يؤثّر في الناس وفي البيئة في العالم كلّه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wielka masa lodu, która bardzo wolno spływa w dół (glacier)",
+            "ogromna warstwa lodu pokrywająca cały region (ice sheet)",
+            "obniżanie się lądu pod ciężarem lodu i jego podnoszenie po stopnieniu lodu (isostatic change)",
+            "gaz, który zatrzymuje ciepło w atmosferze (greenhouse gas)",
+            "węgiel, ropa albo gaz, powstałe z organizmów, które umarły bardzo dawno (fossil fuel)",
+            "długotrwała zmiana zwykłej pogody na Ziemi (climate change)"
+          ],
+          "passage": [
+            "Klimat Ziemi nie zawsze był taki sam.",
+            "Około 20 000 lat temu była epoka lodowa.",
+            "Lód pokrywał dużą część Europy, w tym większość Zjednoczonego Królestwa.",
+            "Dziś lód pokrywa około 10 procent powierzchni lądów Ziemi.",
+            "Ten lód jest w lodowcach, czapach lodowych i lądolodach.",
+            "Lodowiec (glacier) to wielka masa lodu, która spływa bardzo wolno, jak zamarznięta rzeka.",
+            "Ciężar lodu wciskał ląd w dół.",
+            "Kiedy lód stopniał, ląd powoli podniósł się z powrotem.",
+            "Nazywamy to zmianą izostatyczną (isostatic change).",
+            "Dziś klimat znowu się zmienia i staje się coraz cieplejszy.",
+            "Niektóre przyczyny są naturalne, na przykład wybuchy wulkanów.",
+            "Niektóre przyczyny są dziełem ludzi, na przykład spalanie paliw kopalnych.",
+            "Gazy cieplarniane, takie jak dwutlenek węgla, zatrzymują ciepło w powietrzu.",
+            "Zmiana klimatu wpływa na ludzi i na środowisko na całym świecie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma grande massa de gelo que desce a encosta muito lentamente (glacier, glaciar/geleira)",
+            "uma enorme camada de gelo que cobre uma região inteira (ice sheet, manto de gelo)",
+            "o terreno a afundar-se sob o gelo e a subir outra vez depois de ele derreter (isostatic change)",
+            "um gás que retém o calor na atmosfera (greenhouse gas, gás com efeito de estufa / gás de efeito estufa)",
+            "carvão, petróleo ou gás, feitos de seres vivos que morreram há muito tempo (fossil fuel, combustível fóssil)",
+            "uma mudança de longo prazo no tempo habitual da Terra (climate change, mudanças climáticas)"
+          ],
+          "passage": [
+            "O clima da Terra não foi sempre o mesmo.",
+            "Há cerca de 20 000 anos houve uma Idade do Gelo.",
+            "O gelo cobria grande parte da Europa, incluindo quase todo o Reino Unido.",
+            "Hoje o gelo cobre cerca de 10 por cento da superfície terrestre do planeta.",
+            "Este gelo está em glaciares/geleiras, em calotas de gelo e em mantos de gelo.",
+            "Um glaciar/geleira é uma grande massa de gelo que corre muito lentamente, como um rio gelado.",
+            "O peso do gelo empurrou o terreno para baixo.",
+            "Quando o gelo derreteu, o terreno subiu outra vez, devagar.",
+            "A isto chama-se mudança isostática (isostatic change).",
+            "Hoje o clima está a mudar / está mudando outra vez, e está a ficar / ficando mais quente.",
+            "Algumas causas são naturais, como as erupções vulcânicas.",
+            "Algumas causas são humanas, como a queima de combustíveis fósseis.",
+            "Os gases com efeito de estufa, como o dióxido de carbono, retêm o calor no ar.",
+            "As mudanças climáticas afetam as pessoas e o ambiente em todo o mundo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "baraf weyn oo si aad u gaabis ah buurta hoos uga qulqulaya",
+            "lakab baraf aad u weyn oo gobol oo dhan qariya",
+            "dhulka oo barafka hoos u riixo oo markuu dhalaalo dib u kaco",
+            "gaas kulaylka ku xanniba jawiga",
+            "dhuxul, saliid ama gaas, oo laga sameeyay noolaha waagii hore dhintay",
+            "isbeddel muddo dheer socda oo ku dhaca hawada caadiga ah ee Dhulka"
+          ],
+          "passage": [
+            "Cimilada Dhulka weligeed isku mid ma ahayn.",
+            "Qiyaastii 20 000 sano ka hor waxaa jiray Xilligii Barafka (Ice Age).",
+            "Barafku wuxuu qariyay inta badan Yurub, oo ay ku jirto inta badan Boqortooyada Midowday.",
+            "Maanta barafku wuxuu qariyaa qiyaastii 10 boqolkiiba dusha dhulka ee Dhulka.",
+            "Barafkan wuxuu ku jiraa glaciers, ice caps iyo ice sheets.",
+            "Glacier waa baraf weyn oo si aad u gaabis ah qulqulaya, sidii webi barafoobay.",
+            "Culayska barafka wuxuu dhulka hoos u riixay.",
+            "Markii barafku dhalaalay, dhulku si tartiib ah ayuu dib u kacay.",
+            "Tan waxaa la yiraahdaa isostatic change.",
+            "Maanta cimiladu mar kale way isbeddelaysaa, waxayna sii kululaanaysaa.",
+            "Sababo qaar waa dabiici, sida qaraxyada foolkaanaha.",
+            "Sababo qaarna waa kuwo bani'aadmiga, sida gubidda shidaalka fosil (fossil fuels).",
+            "Gaasaska sida kaarboon dioksaydh waxay kulaylka ku xannibaan hawada.",
+            "Isbeddelka cimilada wuxuu saameeyaa dadka iyo deegaanka dunida oo dhan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "велика маса льоду, яка дуже повільно тече вниз схилом (glacier)",
+            "величезний шар льоду, що покриває цілий регіон (ice sheet)",
+            "опускання землі під льодом і її підняття знову після того, як лід розтає (isostatic change)",
+            "газ, який затримує тепло в атмосфері (greenhouse gas)",
+            "вугілля, нафта або газ, утворені з живих істот, які померли дуже давно (fossil fuel)",
+            "довготривала зміна звичайної погоди Землі (climate change)"
+          ],
+          "passage": [
+            "Клімат Землі не завжди був однаковий.",
+            "Близько 20 000 років тому був льодовиковий період.",
+            "Лід покривав значну частину Європи, зокрема більшу частину Об’єднаного Королівства.",
+            "Сьогодні лід покриває приблизно 10 відсотків суходолу Землі.",
+            "Цей лід — у льодовиках, льодових шапках і льодових щитах.",
+            "Льодовик (glacier) — це велика маса льоду, яка тече дуже повільно, наче замерзла річка.",
+            "Вага льоду притиснула землю вниз.",
+            "Коли лід розтанув, земля поволі піднялася знову.",
+            "Це називають ізостатичною зміною (isostatic change).",
+            "Сьогодні клімат змінюється знову, і він стає теплішим.",
+            "Деякі причини природні, як-от вулканічні виверження.",
+            "Деякі причини людські, як-от спалювання викопного палива.",
+            "Парникові гази, як-от вуглекислий газ, затримують тепло в повітрі.",
+            "Зміна клімату впливає на людей і довкілля по всьому світу."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "برف کا ایک بڑا تودہ جو بہت آہستہ ڈھلان پر بہتا ہے (glacier)",
+            "برف کی ایک بہت بڑی تہہ جو پورے علاقے کو ڈھانپ لے (ice sheet)",
+            "برف کے نیچے زمین کا دب جانا اور برف پگھلنے کے بعد دوبارہ اوپر اٹھنا (isostatic change)",
+            "وہ گیس جو فضا میں حرارت روک لیتی ہے (greenhouse gas)",
+            "کوئلہ، تیل یا گیس، جو بہت پہلے مر جانے والی جانداروں سے بنے (fossil fuel)",
+            "زمین کے عام موسم میں طویل مدت کی تبدیلی (climate change)"
+          ],
+          "passage": [
+            "زمین کا climate ہمیشہ ایک جیسا نہیں رہا۔",
+            "تقریباً 20 000 سال پہلے برفانی دور (Ice Age) تھا۔",
+            "برف نے یورپ کا بڑا حصہ ڈھانپ لیا تھا، جس میں برطانیہ کا بھی زیادہ تر حصہ شامل تھا۔",
+            "آج برف زمین کی خشکی کے تقریباً 10 فیصد حصے پر ہے۔",
+            "یہ برف glaciers، ice caps اور ice sheets کی شکل میں ہے۔",
+            "glacier برف کا بڑا تودہ ہے جو بہت آہستہ بہتا ہے، جمے ہوئے دریا کی طرح۔",
+            "برف کے وزن نے زمین کو نیچے دبا دیا۔",
+            "جب برف پگھلی تو زمین آہستہ آہستہ دوبارہ اوپر اٹھی۔",
+            "اسے isostatic change کہتے ہیں۔",
+            "آج climate پھر بدل رہا ہے، اور گرم ہوتا جا رہا ہے۔",
+            "کچھ وجوہات قدرتی ہیں، جیسے آتش فشاں کا پھٹنا۔",
+            "کچھ وجوہات انسانی ہیں، جیسے fossil fuels جلانا۔",
+            "کاربن ڈائی آکسائیڈ جیسی greenhouse gases ہوا میں حرارت روک لیتی ہیں۔",
+            "climate change ساری دنیا میں لوگوں اور ماحول پر اثر ڈالتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The last Ice Age",

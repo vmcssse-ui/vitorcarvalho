@@ -107,8 +107,156 @@ window.ASTRA_UNITS["geog-asia-china"] = {
           "Africa had only two megacities.",
           "Geographers call this pattern the distribution of megacities.",
           "Describing a distribution means saying where things are, and where they are not."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "واحدة من كتل اليابسة السبع الكبرى في العالم (continent)",
+            "الخطّ الذي يلتقي عنده بلد ببلد آخر (border)",
+            "مدينة فيها أكثر من 10 ملايين نسمة (megacity)",
+            "كيف تتوزّع الأشياء في منطقة ما (distribution)",
+            "واحد من المسطّحات المائية المالحة الضخمة التي تغطّي معظم الأرض (ocean)"
+          ],
+          "passage": [
+            "آسيا أكبر قارّة في العالم.",
+            "وفيها 48 بلدًا، من تركيا في الغرب إلى اليابان في الشرق.",
+            "ويقع المحيط الهادئ شرق آسيا، والمحيط الهندي جنوبها.",
+            "ويعيش في آسيا من الناس أكثر ممّا يعيش في أيّ قارّة أخرى.",
+            "وبعض مدنها هائلة الحجم.",
+            "والمدينة التي فيها أكثر من 10 ملايين نسمة تُسمّى مدينة عظمى (megacity).",
+            "وفي حدود 2015 كان في العالم 30 مدينة عظمى.",
+            "وكانت سبعة عشرة منها في آسيا.",
+            "وطوكيو (Tokyo) وشنغهاي (Shanghai) من أكبرها.",
+            "ولم يكن في أفريقيا إلّا مدينتان عظميان.",
+            "ويسمّي الجغرافيون هذا النمط توزّع المدن العظمى.",
+            "ووصف التوزّع يعني أن تقول أين توجد الأشياء، وأين لا توجد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jeden z siedmiu wielkich obszarów lądu na świecie",
+            "linia, na której jeden kraj styka się z drugim",
+            "miasto, w którym mieszka więcej niż 10 milionów ludzi (megacity)",
+            "to, jak rzeczy są rozłożone na jakimś obszarze (distribution)",
+            "jeden z wielkich obszarów słonej wody, które pokrywają większość Ziemi"
+          ],
+          "passage": [
+            "Azja jest największym kontynentem na świecie.",
+            "Jest w niej 48 krajów, od Turcji na zachodzie do Japonii na wschodzie.",
+            "Na wschód od Azji leży Ocean Spokojny, a na południe Ocean Indyjski.",
+            "W Azji mieszka więcej ludzi niż na którymkolwiek innym kontynencie.",
+            "Niektóre jej miasta są ogromne.",
+            "Miasto, w którym mieszka więcej niż 10 milionów ludzi, nazywamy megamiastem (megacity).",
+            "Około 2015 roku na świecie było 30 megamiast.",
+            "Siedemnaście z nich leżało w Azji.",
+            "Tokyo (Tokio) i Shanghai (Szanghaj) to dwa z największych.",
+            "W Afryce były tylko dwa megamiasta.",
+            "Geografowie nazywają ten układ rozmieszczeniem megamiast (distribution).",
+            "Opisywanie rozmieszczenia znaczy mówienie, gdzie coś jest, a gdzie tego nie ma."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma das sete grandes massas de terra do mundo (continent, continente)",
+            "a linha onde um país encontra outro (border, fronteira)",
+            "uma cidade com mais de 10 milhões de pessoas (megacity, megacidade)",
+            "como as coisas estão espalhadas por uma área (distribution, distribuição)",
+            "uma das enormes áreas de água salgada que cobrem quase toda a Terra (ocean, oceano)"
+          ],
+          "passage": [
+            "A Ásia é o maior continente do mundo.",
+            "Tem 48 países, da Turquia no oeste até ao Japão no leste.",
+            "O oceano Pacífico fica a leste da Ásia e o oceano Índico a sul.",
+            "Vivem mais pessoas na Ásia do que em qualquer outro continente.",
+            "Algumas das suas cidades são enormes.",
+            "Uma cidade com mais de 10 milhões de pessoas chama-se megacidade (megacity).",
+            "Por volta de 2015 havia 30 megacidades no mundo.",
+            "Dezassete/Dezessete delas ficavam na Ásia.",
+            "Tóquio e Shanghai (Xangai) são duas das maiores.",
+            "A África tinha só duas megacidades.",
+            "Os geógrafos chamam a este padrão a distribuição das megacidades.",
+            "Descrever uma distribuição é dizer onde as coisas estão, e onde não estão."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mid ka mid ah toddobada dhul-weyn ee dunida",
+            "xariiqda ay dal kula kulmo mid kale",
+            "magaalo leh in ka badan 10 milyan oo qof",
+            "sida waxyaalo u kala firdhsan yihiin meel",
+            "mid ka mid ah meelaha waaweyn ee biyo cusbo leh oo qariya inta badan Dhulka"
+          ],
+          "passage": [
+            "Aasiya waa qaaradda ugu weyn dunida.",
+            "Waxay leedahay 48 dal, laga bilaabo Turkiga ee galbeedka ilaa Jabaan ee bariga.",
+            "Badweynta Pacific waxay ku taal bariga Aasiya, Badweynta Hindiyana koonfurta.",
+            "Dad badan ayaa Aasiya ku nool marka loo eego qaarad kasta kale.",
+            "Magaalooyinkeeda qaar aad ayay u waaweyn yihiin.",
+            "Magaalada leh in ka badan 10 milyan oo qof waxaa loo yiraahdaa megacity.",
+            "Qiyaastii 2015-kii waxaa dunida ka jiray 30 megacity.",
+            "Toddoba iyo toban ka mid ah waxay Aasiya ku yaalleen.",
+            "Tokyo iyo Shanghai waa laba ka mid ah kuwa ugu waaweyn.",
+            "Afrika waxay lahayd laba megacity oo keliya.",
+            "Juqraafi-yaqaannadu qaabkan waxay ugu yeeraan distribution-ka megacities.",
+            "Sharraxidda distribution macnaheedu waa inaad sheegto meesha waxyaalo yaallaan, iyo meesha aanay joogin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "один із семи великих масивів землі у світі (continent)",
+            "лінія, де одна країна межує з іншою (border)",
+            "місто, у якому понад 10 мільйонів людей (megacity)",
+            "те, як речі розподілені по території (distribution)",
+            "один з величезних просторів солоної води, що покривають більшу частину Землі (ocean)"
+          ],
+          "passage": [
+            "Азія — найбільший континент у світі.",
+            "У ній 48 країн, від Туреччини на заході до Японії на сході.",
+            "Тихий океан лежить на схід від Азії, а Індійський океан — на південь.",
+            "В Азії живе більше людей, ніж на будь-якому іншому континенті.",
+            "Деякі її міста величезні.",
+            "Місто, у якому понад 10 мільйонів людей, називають мегаполісом (megacity).",
+            "Близько 2015 року у світі було 30 мегаполісів.",
+            "Сімнадцять із них були в Азії.",
+            "Токіо і Шанхай (Shanghai) — два з найбільших.",
+            "В Африці було лише два мегаполіси.",
+            "Географи називають цей порядок розподілом мегаполісів (distribution).",
+            "Описати розподіл означає сказати, де речі є, а де їх немає."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دنیا کی خشکی کے سات بہت بڑے حصوں میں سے ایک (continent)",
+            "وہ لکیر جہاں ایک ملک دوسرے سے ملتا ہے",
+            "ایک کروڑ سے زیادہ لوگوں کا شہر (megacity)",
+            "چیزیں کسی علاقے میں کیسے پھیلی ہوئی ہیں (distribution)",
+            "نمکین پانی کے ان بہت بڑے حصوں میں سے ایک جو زمین کا بڑا حصہ ڈھانپے ہوئے ہیں"
+          ],
+          "passage": [
+            "ایشیا دنیا کا سب سے بڑا براعظم ہے۔",
+            "اس میں 48 ملک ہیں، مغرب میں ترکی سے لے کر مشرق میں جاپان تک۔",
+            "بحرالکاہل (Pacific Ocean) ایشیا کے مشرق میں ہے اور بحرِ ہند (Indian Ocean) جنوب میں۔",
+            "ایشیا میں کسی بھی دوسرے براعظم سے زیادہ لوگ رہتے ہیں۔",
+            "اس کے کچھ شہر بہت ہی بڑے ہیں۔",
+            "ایک کروڑ سے زیادہ لوگوں والے شہر کو megacity کہتے ہیں۔",
+            "تقریباً 2015 میں دنیا میں 30 megacities تھیں۔",
+            "ان میں سے سترہ ایشیا میں تھیں۔",
+            "ٹوکیو (Tokyo) اور شنگھائی (Shanghai) سب سے بڑے شہروں میں سے دو ہیں۔",
+            "افریقہ میں صرف دو megacities تھیں۔",
+            "جغرافیہ دان اس نمونے کو megacities کی distribution کہتے ہیں۔",
+            "distribution بیان کرنے کا مطلب ہے بتانا کہ چیزیں کہاں ہیں، اور کہاں نہیں ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where is Asia?",
@@ -311,8 +459,162 @@ window.ASTRA_UNITS["geog-asia-china"] = {
           "The Yangtze is China's longest river.",
           "When you map these features, use symbols and colour shading.",
           "Always add a key so others can read your map."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تقول أين يقع المكان بالضبط (locate)",
+            "المعالم الطبيعية للأرض، كالأنهار والجبال والصحاري (physical geography)",
+            "المعالم التي يصنعها الناس، كالمدن والمزارع والمصانع (human geography)",
+            "صورة أو شكل صغير على الخريطة يرمز إلى معلَم (symbol)",
+            "الصندوق على الخريطة الذي يشرح معنى كلّ رمز وكلّ لون (key)",
+            "كم يبعد المكان شمال خطّ الاستواء أو جنوبه (latitude)"
+          ],
+          "passage": [
+            "الصين بلد ضخم في شرق آسيا.",
+            "ويقع المحيط الهادئ إلى شرقها.",
+            "ولها حدود مع بلدان كثيرة، منها روسيا ومنغوليا والهند وفييتنام.",
+            "وعاصمتها بكين (Beijing).",
+            "وشنغهاي (Shanghai) على الساحل من أكبر المدن العظمى في العالم.",
+            "والجغرافيا الطبيعية تدرس المعالم الطبيعية كالأنهار والجبال والصحاري.",
+            "أمّا الجغرافيا البشرية فتدرس الناس وما يبنونه.",
+            "وفي غرب الصين جبال عالية وهِضاب.",
+            "وفي شمالها صحاري، وفي شرقها سهول منخفضة واسعة وأنهار.",
+            "واليانغتسي (Yangtze) أطول نهر في الصين.",
+            "وعندما ترسم هذه المعالم على خريطة، استخدم الرموز وتظليل الألوان.",
+            "وأضِف دائمًا مفتاحًا (key) حتى يستطيع غيرك قراءة خريطتك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "powiedzieć dokładnie, gdzie leży dane miejsce",
+            "naturalne elementy Ziemi, takie jak rzeki, góry i pustynie",
+            "to, co tworzą ludzie: miasta, gospodarstwa i fabryki",
+            "mały obrazek albo kształt na mapie, który oznacza jakiś element terenu",
+            "ramka na mapie, która wyjaśnia, co znaczy każdy znak i każdy kolor",
+            "jak daleko na północ albo na południe od równika leży dane miejsce (latitude)"
+          ],
+          "passage": [
+            "Chiny to wielki kraj na wschodzie Azji.",
+            "Na wschód od nich leży Ocean Spokojny.",
+            "Graniczą z wieloma krajami, między innymi z Rosją, Mongolią, Indiami i Wietnamem.",
+            "Ich stolicą jest Beijing (Pekin).",
+            "Shanghai (Szanghaj) na wybrzeżu jest jednym z największych megamiast świata.",
+            "Geografia fizyczna mówi o naturalnych elementach, takich jak rzeki, góry i pustynie.",
+            "Geografia człowieka mówi o ludziach i o tym, co budują.",
+            "Na zachodzie Chin są wysokie góry i wyżyny.",
+            "Na północy są pustynie, a na wschodzie szerokie niziny i rzeki.",
+            "Yangtze (Jangcy) to najdłuższa rzeka Chin.",
+            "Kiedy nanosisz te elementy na mapę, używaj znaków i kolorowego cieniowania.",
+            "Zawsze dodaj legendę, żeby inni mogli przeczytać twoją mapę."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "dizer exatamente onde fica um lugar (locate, localizar)",
+            "os elementos naturais da Terra, como rios, montanhas e desertos (physical geography, geografia física)",
+            "os elementos que as pessoas fazem, como cidades, quintas/fazendas e fábricas (human geography, geografia humana)",
+            "um desenho ou uma forma pequena num mapa que representa um elemento (symbol, símbolo)",
+            "a caixa de um mapa que explica o que significa cada símbolo e cada cor (key, legenda)",
+            "a que distância a norte ou a sul do Equador fica um lugar (latitude)"
+          ],
+          "passage": [
+            "A China é um país enorme no leste da Ásia.",
+            "A leste dela fica o oceano Pacífico.",
+            "Tem fronteiras com muitos países, incluindo a Rússia, a Mongólia, a Índia e o Vietname/Vietnã.",
+            "A sua capital é Beijing (Pequim).",
+            "Shanghai (Xangai), na costa, é uma das maiores megacidades do mundo.",
+            "A geografia física trata de elementos naturais como rios, montanhas e desertos.",
+            "A geografia humana trata das pessoas e das coisas que elas constroem.",
+            "A China tem montanhas altas e planaltos no oeste.",
+            "Tem desertos no norte e grandes planícies e rios no leste.",
+            "O Yangtze (Yangtzé) é o rio mais comprido da China.",
+            "Quando fizeres o mapa destes elementos, usa símbolos e cores.",
+            "Põe sempre uma legenda, para os outros conseguirem ler o teu mapa."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad si sax ah u sheegto halka meel ay tahay",
+            "astaamaha dabiiciga ah ee Dhulka, sida webiyada, buuraha iyo saxarooyinka",
+            "astaamaha dadku sameeyaan, sida magaalooyinka, beeraha iyo warshadaha",
+            "sawir yar ama qaab khariidad ku yaal oo astaan u taagan",
+            "sanduuqa khariidadda ku yaal oo sharraxaya macnaha calaamad iyo midab kasta",
+            "inta meel ay waqooyi ama koonfur uga jirto dhulbaraha"
+          ],
+          "passage": [
+            "Shiinaha waa dal aad u weyn oo ku yaal bariga Aasiya.",
+            "Bariga ka xigta waxaa ku taal Badweynta Pacific.",
+            "Xadad wuxuu la wadaagaa dalal badan, oo ay ku jiraan Ruushka, Mongolia, Hindiya iyo Vietnam.",
+            "Caasimaddiisa waa Beijing.",
+            "Shanghai, oo xeebta ku taal, waa mid ka mid ah megacities-ka ugu waaweyn dunida.",
+            "Juqraafiga dabiiciga wuxuu ka hadlaa astaamaha dabiiciga ah sida webiyada, buuraha iyo saxarooyinka.",
+            "Juqraafiga bani'aadmiga wuxuu ka hadlaa dadka iyo waxyaalaha ay dhistaan.",
+            "Shiinaha wuxuu leeyahay buuro dhaadheer iyo dhulal sare oo siman (plateaus) galbeedka.",
+            "Wuxuu leeyahay saxarooyin waqooyiga iyo dhul hooseeya ballaaran iyo webiyo bariga.",
+            "Yangtze waa webiga ugu dheer Shiinaha.",
+            "Marka aad astaamahan khariidad ku sameyso, isticmaal calaamado iyo midabbo.",
+            "Had iyo jeer ku dar key si dad kale ay khariidaddaada u akhriyaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "сказати точно, де розташоване місце (locate)",
+            "природні об’єкти Землі, як-от річки, гори й пустелі (physical geography)",
+            "об’єкти, які створюють люди, як-от міста, фермерські господарства і фабрики (human geography)",
+            "маленький малюнок або фігура на карті, що позначає об’єкт (symbol)",
+            "рамка на карті, яка пояснює, що означає кожний знак і колір (key)",
+            "наскільки далеко на північ або на південь від екватора розташоване місце (latitude)"
+          ],
+          "passage": [
+            "Китай — величезна країна на сході Азії.",
+            "На схід від нього лежить Тихий океан.",
+            "Він межує з багатьма країнами, зокрема з Росією, Монголією, Індією і В’єтнамом.",
+            "Його столиця — Пекін (Beijing).",
+            "Шанхай на узбережжі — один із найбільших мегаполісів світу.",
+            "Фізична географія — про природні об’єкти, як-от річки, гори й пустелі.",
+            "Суспільна географія — про людей і те, що вони будують.",
+            "Китай має високі гори й плато на заході.",
+            "Він має пустелі на півночі та широкі низовини й річки на сході.",
+            "Янцзи (Yangtze) — найдовша річка Китаю.",
+            "Коли ви наносите ці об’єкти на карту, використовуйте умовні знаки і кольорове затінення.",
+            "Завжди додавайте легенду (key), щоб інші могли прочитати вашу карту."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بالکل درست بتانا کہ کوئی جگہ کہاں ہے",
+            "زمین کی قدرتی خصوصیات، جیسے دریا، پہاڑ اور صحرا",
+            "وہ خصوصیات جو لوگ بناتے ہیں، جیسے شہر، کھیت اور کارخانے",
+            "نقشے پر ایک چھوٹی تصویر یا شکل جو کسی خصوصیت کی نمائندگی کرتی ہے",
+            "نقشے پر وہ خانہ جو بتاتا ہے کہ ہر علامت اور ہر رنگ کا کیا مطلب ہے (key)",
+            "کوئی جگہ Equator سے کتنی شمال یا جنوب میں ہے (latitude)"
+          ],
+          "passage": [
+            "چین ایشیا کے مشرق میں ایک بہت بڑا ملک ہے۔",
+            "اس کے مشرق میں بحرالکاہل ہے۔",
+            "اس کی سرحدیں بہت سے ملکوں سے ملتی ہیں، جن میں روس، منگولیا، بھارت اور ویت نام شامل ہیں۔",
+            "اس کا دارالحکومت بیجنگ (Beijing) ہے۔",
+            "ساحل پر واقع شنگھائی دنیا کی سب سے بڑی megacities میں سے ایک ہے۔",
+            "physical geography قدرتی خصوصیات کے بارے میں ہے، جیسے دریا، پہاڑ اور صحرا۔",
+            "human geography لوگوں اور ان کی بنائی ہوئی چیزوں کے بارے میں ہے۔",
+            "چین کے مغرب میں بلند پہاڑ اور سطح مرتفع ہیں۔",
+            "شمال میں صحرا ہیں اور مشرق میں کھلے نچلے میدان اور دریا۔",
+            "یانگسی (Yangtze) چین کا سب سے لمبا دریا ہے۔",
+            "جب آپ ان خصوصیات کا نقشہ بنائیں تو علامتیں اور رنگ کی چھاؤں استعمال کریں۔",
+            "ہمیشہ key بنائیں تاکہ دوسرے آپ کا نقشہ پڑھ سکیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Describing where China is",
@@ -516,8 +818,162 @@ window.ASTRA_UNITS["geog-asia-china"] = {
           "The west is sparsely populated.",
           "It has high mountains, cold plateaus and dry deserts.",
           "A large population has advantages and disadvantages."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عدد الناس الذين يعيشون في مكان ما (population)",
+            "الاتّجاه العامّ للرسم البياني مع الزمن (trend)",
+            "نقطة لا تتّفق مع النمط (anomaly)",
+            "كثير من الناس يعيشون في كلّ كيلومتر مربّع (densely populated)",
+            "قليل جدًّا من الناس يعيشون في كلّ كيلومتر مربّع (sparsely populated)",
+            "مدى سرعة زيادة شيء ما (rate of growth)"
+          ],
+          "passage": [
+            "في 1950 كان في الصين نحو 550 مليون نسمة.",
+            "وبحلول 2020 صار فيها نحو 1390 مليونًا، أي 1.39 مليار.",
+            "وهذا 840 مليون نسمة أكثر في 70 سنة.",
+            "وكان السكّان ينمون أسرع ما يكون في سنوات 1970.",
+            "ومنذ 2000 تباطأ هذا النموّ.",
+            "وبحلول 2030 يُتوقّع أن يكون عدد السكّان نحو 1400 مليون.",
+            "والناس لا يتوزّعون بالتساوي.",
+            "فشرق الصين كثيف السكّان.",
+            "ومعظم المدن الكبيرة هناك، قرب الساحل وقرب الأنهار العظيمة.",
+            "أمّا الغرب فقليل السكّان.",
+            "ففيه جبال عالية وهِضاب باردة وصحاري جافّة.",
+            "وللسكّان الكثيرين مزايا وعيوب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "liczba ludzi mieszkających w danym miejscu",
+            "ogólny kierunek wykresu w czasie (trend)",
+            "punkt, który nie pasuje do układu (anomaly)",
+            "wielu ludzi mieszkających na każdym kilometrze kwadratowym (densely populated)",
+            "bardzo niewielu ludzi mieszkających na każdym kilometrze kwadratowym (sparsely populated)",
+            "jak szybko coś rośnie (rate of growth)"
+          ],
+          "passage": [
+            "W 1950 roku Chiny miały około 550 milionów ludzi.",
+            "Do roku 2020 miały około 1390 milionów, czyli 1.39 miliarda.",
+            "To o 840 milionów ludzi więcej w ciągu 70 lat.",
+            "Ludność rosła najszybciej w latach siedemdziesiątych XX wieku (the 1970s).",
+            "Od 2000 roku wzrost zwolnił.",
+            "Do roku 2030 ludność ma wynieść około 1400 milionów.",
+            "Ludzie nie są rozłożeni równomiernie.",
+            "Wschód Chin jest gęsto zaludniony.",
+            "Większość dużych miast leży tam, blisko wybrzeża i wielkich rzek.",
+            "Zachód jest słabo zaludniony.",
+            "Są tam wysokie góry, zimne wyżyny i suche pustynie.",
+            "Duża liczba ludności ma swoje zalety i wady."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o número de pessoas que vivem num lugar (population, população)",
+            "a direção geral de um gráfico ao longo do tempo (trend, tendência)",
+            "um ponto que não encaixa no padrão (anomaly, anomalia)",
+            "com muitas pessoas a viver em cada quilómetro/quilômetro quadrado (densely populated, densamente povoado)",
+            "com muito poucas pessoas a viver em cada quilómetro/quilômetro quadrado (sparsely populated, pouco povoado)",
+            "a rapidez com que uma coisa aumenta (rate of growth, taxa de crescimento)"
+          ],
+          "passage": [
+            "Em 1950 a China tinha cerca de 550 milhões de pessoas.",
+            "Em 2020 tinha cerca de 1390 milhões, ou seja 1.39 mil milhões/bilhões.",
+            "São 840 milhões de pessoas a mais em 70 anos.",
+            "A população cresceu mais depressa nos anos 1970.",
+            "Desde 2000 o crescimento abrandou/desacelerou.",
+            "Espera-se que em 2030 a população seja de cerca de 1400 milhões.",
+            "As pessoas não estão espalhadas de maneira igual.",
+            "O leste da China é densamente povoado.",
+            "É lá que estão quase todas as grandes cidades, perto da costa e dos grandes rios.",
+            "O oeste é pouco povoado.",
+            "Tem montanhas altas, planaltos frios e desertos secos.",
+            "Uma população grande tem vantagens e desvantagens."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tirada dadka ku nool meel",
+            "jihada guud ee garaaf waqti ka waqti",
+            "bar aan qaabka ku habboonayn",
+            "dad badan oo ku nool kiiloomitir afargeesle kasta",
+            "dad aad u yar oo ku nool kiiloomitir afargeesle kasta",
+            "sida wax u dhaqso sare u kaco"
+          ],
+          "passage": [
+            "1950-kii Shiinaha waxaa ku noolaa qiyaastii 550 milyan oo qof.",
+            "2020-kii waxay gaartay qiyaastii 1390 milyan, ama 1.39 bilyan.",
+            "Taasi waa 840 milyan oo qof dheeraad ah 70 sano gudahood.",
+            "Dadweynuhu si dhaqso ah ayuu u kordhay 1970-meeyadii.",
+            "2000-kii ka dib korodhku wuu yaraaday.",
+            "2030-kii waxaa la filayaa in dadweynuhu noqdo qiyaastii 1400 milyan.",
+            "Dadku si siman u kala firdhsan maaha.",
+            "Bariga Shiinaha dadweynuhu aad ayuu u cufan yahay.",
+            "Inta badan magaalooyinka waaweyn halkaas ayay yaallaan, xeebta iyo webiyada waaweyn agtooda.",
+            "Galbeedka dad aad u yar ayaa ku nool.",
+            "Wuxuu leeyahay buuro dhaadheer, dhulal sare oo qabow iyo saxarooyin qalalan.",
+            "Dadweyne badan waxay leeyihiin faa'iido iyo waxyeello labadaba."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "кількість людей, які живуть у якомусь місці (population)",
+            "загальний напрямок графіка з часом (trend)",
+            "точка, яка не відповідає загальному порядку (anomaly)",
+            "багато людей, які живуть на кожному квадратному кілометрі (densely populated)",
+            "дуже мало людей, які живуть на кожному квадратному кілометрі (sparsely populated)",
+            "наскільки швидко щось збільшується (rate of growth)"
+          ],
+          "passage": [
+            "У 1950 році в Китаї було близько 550 мільйонів людей.",
+            "До 2020 року було близько 1390 мільйонів, або 1.39 мільярда.",
+            "Це на 840 мільйонів людей більше за 70 років.",
+            "Населення зростало найшвидше у 1970-х роках.",
+            "Із 2000 року зростання вповільнилося.",
+            "До 2030 року населення, як очікують, становитиме близько 1400 мільйонів.",
+            "Люди розподілені нерівномірно.",
+            "Схід Китаю густо заселений.",
+            "Більшість великих міст саме там, біля узбережжя і великих річок.",
+            "Захід заселений рідко.",
+            "Там високі гори, холодні плато і сухі пустелі.",
+            "Велике населення має переваги й недоліки."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی جگہ رہنے والے لوگوں کی تعداد (population)",
+            "وقت کے ساتھ گراف کا عام رخ (trend)",
+            "وہ نقطہ جو نمونے میں فٹ نہیں بیٹھتا (anomaly)",
+            "ہر مربع کلومیٹر میں بہت لوگ رہتے ہوں (densely populated)",
+            "ہر مربع کلومیٹر میں بہت کم لوگ رہتے ہوں (sparsely populated)",
+            "کوئی چیز کتنی تیزی سے بڑھتی ہے (rate of growth)"
+          ],
+          "passage": [
+            "1950 میں چین میں تقریباً 55 کروڑ لوگ تھے۔",
+            "2020 تک تقریباً 139 کروڑ، یعنی 1.39 ارب ہو گئے۔",
+            "یہ 70 سال میں 84 کروڑ لوگ زیادہ ہیں۔",
+            "آبادی سب سے تیزی سے 1970 کی دہائی میں بڑھی۔",
+            "2000 کے بعد یہ بڑھوتری سست پڑ گئی ہے۔",
+            "2030 تک آبادی تقریباً 140 کروڑ ہونے کی توقع ہے۔",
+            "لوگ برابر برابر پھیلے ہوئے نہیں ہیں۔",
+            "چین کا مشرقی حصہ densely populated ہے۔",
+            "بڑے شہر زیادہ تر وہیں ہیں، ساحل اور بڑے دریاؤں کے قریب۔",
+            "مغربی حصہ sparsely populated ہے۔",
+            "وہاں بلند پہاڑ، ٹھنڈے سطح مرتفع اور خشک صحرا ہیں۔",
+            "بڑی آبادی کے فائدے بھی ہیں اور نقصان بھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Reading the growth table",
@@ -726,8 +1182,162 @@ window.ASTRA_UNITS["geog-asia-china"] = {
           "Workers often work six days a week, up to 12 hours a day.",
           "The pay is low, about US$130 a month.",
           "This has brought jobs to China, but also hard lives for many workers."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "انتقال المجتمع من أعمال الزراعة إلى العمل في المصانع (industrialisation)",
+            "شركة تنتج سلعًا أو خدمات في أكثر من بلد (transnational corporation)",
+            "المال الذي يُدفع للعامل مقابل عمله (wage)",
+            "ساعات إضافية يُعمل بها بعد أسبوع العمل المعتاد (overtime)",
+            "بناء كبير ينام فيه عمّال كثيرون (dormitory)",
+            "أن تدفع الحكومة جزءًا من تكاليف شركة لمساعدتها (subsidise)"
+          ],
+          "passage": [
+            "في 1970 كانت شنتشن (Shenzhen) بلدة صيد صغيرة في جنوب الصين.",
+            "وهي اليوم مدينة فيها ملايين كثيرة من الناس.",
+            "وقد كبرت لأنّ المصانع بُنيت فيها.",
+            "والتصنيع (industrialisation) يعني انتقال المجتمع من أعمال الزراعة إلى العمل في المصانع.",
+            "وكثير من هذه المصانع ينتج سلعًا لشركات عابرة للحدود، أو TNCs.",
+            "والشركة العابرة للحدود شركة تنتج سلعًا أو خدمات في أكثر من بلد.",
+            "وأبل (Apple) شركة عابرة للحدود مركزها الولايات المتّحدة.",
+            "وهواتفها الآيفون تُجمَع في شنتشن في شركة تُسمّى فوكسكون (Foxconn).",
+            "وتشغّل فوكسكون نحو 230 000 شخص في شنتشن.",
+            "ويعمل العمّال غالبًا ستّة أيّام في الأسبوع، وحتى 12 ساعة في اليوم.",
+            "والأجر منخفض، نحو 130 دولارًا أمريكيًّا في الشهر.",
+            "وقد جلب هذا أعمالًا إلى الصين، ولكنه جلب أيضًا حياةً شاقّة لعمّال كثيرين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przejście społeczeństwa od pracy w rolnictwie do pracy w fabrykach (industrialisation)",
+            "firma, która wytwarza towary albo usługi w więcej niż jednym kraju (transnational corporation)",
+            "pieniądze, które pracownik dostaje za swoją pracę",
+            "dodatkowe godziny pracy poza zwykłym tygodniem pracy (overtime)",
+            "duży budynek, w którym sypia wielu pracowników",
+            "kiedy rząd pokrywa część kosztów firmy, żeby jej pomóc"
+          ],
+          "passage": [
+            "W 1970 roku Shenzhen było małym miasteczkiem rybackim na południu Chin.",
+            "Dziś jest miastem wielu milionów ludzi.",
+            "Wyrosło, bo zbudowano tam fabryki.",
+            "Industrializacja (industrialisation) to przejście społeczeństwa od pracy w rolnictwie do pracy w fabrykach.",
+            "Wiele z tych fabryk wytwarza towary dla korporacji transnarodowych, czyli TNC.",
+            "TNC to firma, która wytwarza towary albo usługi w więcej niż jednym kraju.",
+            "Apple to TNC z siedzibą w USA.",
+            "Jego telefony iPhone składa w Shenzhen firma Foxconn.",
+            "Foxconn zatrudnia w Shenzhen około 230 000 ludzi.",
+            "Pracownicy często pracują sześć dni w tygodniu, do 12 godzin na dobę.",
+            "Płaca jest niska, około 130 dolarów amerykańskich (US$130) miesięcznie.",
+            "To dało Chinom miejsca pracy, ale wielu pracownikom także ciężkie życie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "quando uma sociedade passa dos empregos na agricultura para o trabalho nas fábricas (industrialisation, industrialização)",
+            "uma empresa que faz produtos ou serviços em mais de um país (transnational corporation, empresa transnacional)",
+            "o dinheiro que um trabalhador recebe pelo seu trabalho (wage, salário)",
+            "horas de trabalho a mais, para além da semana normal (overtime, horas extra)",
+            "um edifício grande onde dormem muitos trabalhadores (dormitory, dormitório)",
+            "quando um governo paga parte dos custos de uma empresa para a ajudar (subsidise, subsidiar)"
+          ],
+          "passage": [
+            "Em 1970 Shenzhen era uma pequena vila de pescadores no sul da China.",
+            "Hoje é uma cidade de muitos milhões de pessoas.",
+            "Cresceu porque foram construídas lá fábricas.",
+            "Industrialização quer dizer uma sociedade a passar dos empregos na agricultura para o trabalho nas fábricas.",
+            "Muitas das fábricas fazem produtos para empresas transnacionais, ou TNCs.",
+            "Uma TNC é uma empresa que faz produtos ou serviços em mais de um país.",
+            "A Apple é uma TNC com sede nos EUA.",
+            "Os seus iPhones são montados por uma empresa chamada Foxconn, em Shenzhen.",
+            "A Foxconn emprega cerca de 230 000 pessoas em Shenzhen.",
+            "Os trabalhadores trabalham muitas vezes seis dias por semana, até 12 horas por dia.",
+            "O salário é baixo, cerca de US$130 por mês.",
+            "Isto trouxe empregos à China, mas também vidas duras para muitos trabalhadores."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "marka bulsho ay shaqada beeraha uga guurto shaqada warshadaha",
+            "shirkad badeeco ama adeeg ka samaysa in ka badan hal dal",
+            "lacagta shaqaalaha laga siiyo shaqadiisa",
+            "saacado dheeraad ah oo lagu shaqeeyo ka baxsan toddobaadka shaqada caadiga",
+            "dhismo weyn oo shaqaale badan ku seexdo",
+            "marka dowladdu qayb ka mid ah kharashka shirkad bixiso si ay u caawiso"
+          ],
+          "passage": [
+            "1970-kii Shenzhen waxay ahayd magaalo yar oo kalluumaysato ah oo ku taal koonfurta Shiinaha.",
+            "Maanta waa magaalo leh malaayiin badan oo dad.",
+            "Way kortay maxaa yeelay warshado halkaas lagu dhisay.",
+            "Industrialisation macnaheedu waa bulsho oo shaqada beeraha uga guurtay shaqada warshadaha.",
+            "Warshadahaas badidood waxay badeeco u sameeyaan shirkadaha caalamiga (transnational corporations), ama TNCs.",
+            "TNC waa shirkad badeeco ama adeeg ka samaysa in ka badan hal dal.",
+            "Apple waa TNC oo xarunteedu Maraykanka tahay.",
+            "iPhones-keeda waxaa isku xira shirkad la yiraahdo Foxconn oo Shenzhen ku taal.",
+            "Foxconn waxay Shenzhen ku shaqaalaysiisaa qiyaastii 230 000 oo qof.",
+            "Shaqaaluhu inta badan waxay shaqeeyaan lix maalin toddobaadkii, ilaa 12 saac maalintii.",
+            "Mushaharku hooseeya, qiyaastii US$130 bishii.",
+            "Tan waxay shaqo u keentay Shiinaha, laakiin sidoo kale nolol adag u keentay shaqaale badan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "коли суспільство переходить від роботи в землеробстві до роботи на фабриках (industrialisation)",
+            "фірма, яка виробляє товари або послуги більше ніж в одній країні (transnational corporation)",
+            "гроші, які платять робітникові за його роботу (wage)",
+            "додаткові години роботи понад звичайний робочий тиждень (overtime)",
+            "велика будівля, де спить багато робітників (dormitory)",
+            "коли уряд оплачує частину витрат фірми, щоб їй допомогти (subsidise)"
+          ],
+          "passage": [
+            "У 1970 році Шеньчжень (Shenzhen) був маленьким рибальським містечком на півдні Китаю.",
+            "Сьогодні це місто з багатьма мільйонами людей.",
+            "Воно виросло, бо там побудували фабрики.",
+            "Індустріалізація означає перехід суспільства від роботи в землеробстві до роботи на фабриках.",
+            "Багато цих фабрик виробляють товари для транснаціональних корпорацій, або TNCs.",
+            "TNC — це фірма, яка виробляє товари або послуги більше ніж в одній країні.",
+            "Apple — це TNC із базою у США.",
+            "Її телефони iPhone складає компанія Foxconn у Шеньчжені.",
+            "Foxconn наймає близько 230 000 людей у Шеньчжені.",
+            "Робітники часто працюють шість днів на тиждень, до 12 годин на день.",
+            "Платня низька, близько US$130 на місяць.",
+            "Це принесло Китаю робочі місця, але також важке життя для багатьох робітників."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جب کوئی معاشرہ کھیتی باڑی کے کاموں سے کارخانوں کے کام کی طرف بڑھتا ہے (industrialisation)",
+            "ایک ایسی کمپنی جو ایک سے زیادہ ملکوں میں چیزیں یا خدمات بناتی ہے (transnational corporation)",
+            "وہ پیسے جو مزدور کو اس کے کام کے بدلے ملتے ہیں (wage)",
+            "عام ہفتے کے کام سے زیادہ کیے گئے گھنٹے (overtime)",
+            "ایک بڑی عمارت جہاں بہت سے مزدور سوتے ہیں (dormitory)",
+            "جب حکومت کسی کمپنی کے کچھ اخراجات خود دے کر اس کی مدد کرے (subsidise)"
+          ],
+          "passage": [
+            "1970 میں شینزن (Shenzhen) جنوبی چین کا ایک چھوٹا ماہی گیر قصبہ تھا۔",
+            "آج یہ ایک بہت بڑا شہر ہے جہاں کئی ملین لوگ رہتے ہیں۔",
+            "یہ اس لیے بڑھا کہ وہاں کارخانے بنائے گئے۔",
+            "industrialisation کا مطلب ہے کسی معاشرے کا کھیتی باڑی کے کاموں سے کارخانے کے کام کی طرف بڑھنا۔",
+            "بہت سے کارخانے transnational corporations، یعنی TNCs کے لیے سامان بناتے ہیں۔",
+            "TNC ایک ایسی کمپنی ہے جو ایک سے زیادہ ملکوں میں چیزیں یا خدمات بناتی ہے۔",
+            "Apple ایک TNC ہے جس کا مرکز امریکہ میں ہے۔",
+            "اس کے iPhones شینزن میں Foxconn نامی کمپنی جوڑتی ہے۔",
+            "Foxconn شینزن میں تقریباً 230 000 لوگوں کو کام پر رکھتی ہے۔",
+            "مزدور اکثر ہفتے میں چھ دن، روز 12 گھنٹے تک کام کرتے ہیں۔",
+            "تنخواہ کم ہے، مہینے کے تقریباً US$130۔",
+            "اس سے چین میں روزگار آیا، مگر بہت سے مزدوروں کی زندگی مشکل بھی ہوئی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "From fishing village to megacity",
@@ -933,8 +1543,162 @@ window.ASTRA_UNITS["geog-asia-china"] = {
           "Liu is 18 and lives on a small rice farm in Sichuan Province.",
           "She dreams of moving to Shanghai to earn money for her family.",
           "Life in the city brings new chances, but also long hours in a factory."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الريف: القرى والمزارع والأرض المفتوحة (rural)",
+            "البلدات والمدن (urban)",
+            "أن يصير نصيب أكبر من سكّان البلد عائشًا في المدن (urbanisation)",
+            "انتقال الناس من مكان ليعيشوا في مكان آخر (migration)",
+            "شيء يجعل الناس يريدون مغادرة مكان ما (push factor)",
+            "شيء يجعل الناس يريدون الانتقال إلى مكان ما (pull factor)"
+          ],
+          "passage": [
+            "المناطق الريفية هي الريف، والمناطق الحضرية هي البلدات والمدن.",
+            "والتحضّر (urbanisation) هو أن يعيش نصيب أكبر من السكّان في المدن.",
+            "وفي الصين انتقل نحو 100 مليون شخص من الريف إلى المدن في عشر سنوات.",
+            "وتُسمّى هذه الحركة الهجرة من الريف إلى المدينة.",
+            "والناس ينتقلون لأسباب كثيرة.",
+            "فعوامل الدفع تجعل الناس يريدون مغادرة مكان ما.",
+            "والعمل الشاقّ في مزرعة بمال قليل عامل دفع.",
+            "وعوامل الجذب تجعل الناس يريدون الانتقال إلى مكان ما.",
+            "والمستشفيات الأفضل والأجور الأعلى عوامل جذب.",
+            "وليو (Liu) عمرها 18 سنة، وتعيش في مزرعة أرزّ صغيرة في مقاطعة سيتشوان (Sichuan).",
+            "وهي تحلم بالانتقال إلى شنغهاي لتكسب مالًا لأسرتها.",
+            "والحياة في المدينة تجلب فرصًا جديدة، ولكنها تجلب أيضًا ساعات طويلة في مصنع."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wieś: wioski, gospodarstwa i otwarty teren (rural)",
+            "miasteczka i miasta (urban)",
+            "kiedy coraz większa część ludności kraju mieszka w miastach (urbanisation)",
+            "przenoszenie się ludzi z jednego miejsca, żeby zamieszkać w innym (migration)",
+            "coś, co sprawia, że ludzie chcą opuścić jakieś miejsce (push factor)",
+            "coś, co sprawia, że ludzie chcą przenieść się do jakiegoś miejsca (pull factor)"
+          ],
+          "passage": [
+            "Obszary wiejskie (rural) to wieś, a obszary miejskie (urban) to miasteczka i miasta.",
+            "Urbanizacja (urbanisation) to sytuacja, w której coraz większa część ludności mieszka w miastach.",
+            "W Chinach w ciągu dziesięciu lat około 100 milionów ludzi przeniosło się ze wsi do miast.",
+            "Ten ruch nazywamy migracją ze wsi do miast.",
+            "Ludzie przenoszą się z wielu powodów.",
+            "Czynniki wypychające (push factors) sprawiają, że ludzie chcą opuścić jakieś miejsce.",
+            "Ciężka praca w gospodarstwie za małe pieniądze to czynnik wypychający.",
+            "Czynniki przyciągające (pull factors) sprawiają, że ludzie chcą przenieść się do jakiegoś miejsca.",
+            "Lepsze szpitale i wyższe zarobki to czynniki przyciągające.",
+            "Liu ma 18 lat i mieszka w małym gospodarstwie ryżowym w prowincji Sichuan (Syczuan).",
+            "Marzy o przeniesieniu się do Shanghai (Szanghaju), żeby zarobić pieniądze dla rodziny.",
+            "Życie w mieście daje nowe szanse, ale też długie godziny w fabryce."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o campo: as aldeias, as quintas/fazendas e os terrenos abertos (rural)",
+            "as vilas e as cidades (urban, urbano)",
+            "quando uma parte maior das pessoas de um país passa a viver nas cidades (urbanisation, urbanização)",
+            "pessoas que se mudam de um lugar para ir viver noutro (migration, migração)",
+            "algo que faz as pessoas quererem sair de um lugar (push factor)",
+            "algo que faz as pessoas quererem mudar-se para um lugar (pull factor)"
+          ],
+          "passage": [
+            "As áreas rurais são o campo; as áreas urbanas são as vilas e as cidades.",
+            "A urbanização (urbanisation) é quando uma parte maior da população vive nas cidades.",
+            "Na China, cerca de 100 milhões de pessoas mudaram-se do campo para as cidades em dez anos.",
+            "A este movimento chama-se migração do campo para a cidade (rural to urban migration).",
+            "As pessoas mudam-se por muitas razões.",
+            "Os push factors fazem as pessoas quererem sair de um lugar.",
+            "Trabalhar muito numa quinta/fazenda por pouco dinheiro é um push factor.",
+            "Os pull factors fazem as pessoas quererem mudar-se para um lugar.",
+            "Hospitais melhores e salários mais altos são pull factors.",
+            "A Liu tem 18 anos e vive numa pequena quinta/fazenda de arroz na província de Sichuan.",
+            "Ela sonha mudar-se para Shanghai (Xangai) para ganhar dinheiro para a família.",
+            "A vida na cidade traz oportunidades novas, mas também longas horas numa fábrica."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "miyiga: tuulooyinka, beeraha iyo dhulka bannaan",
+            "magaalooyinka yaryar iyo waaweyn",
+            "marka qayb weyn oo dadka dalka ay magaalooyinka ku noolaato",
+            "dad oo meel ka guuraya si ay mid kale ku noolaadaan",
+            "wax ka dhigaya in dadku doonaan inay meel ka tagaan",
+            "wax ka dhigaya in dadku doonaan inay meel u guuraan"
+          ],
+          "passage": [
+            "Meelaha miyiga waa baadiyaha; meelaha magaalada waa magaalooyinka yaryar iyo waaweyn.",
+            "Urbanisation waa marka qayb weyn oo dadweynaha ay magaalooyinka ku noolaato.",
+            "Shiinaha, qiyaastii 100 milyan oo qof baadiyaha ayay magaalooyinka uga guureen toban sano gudahood.",
+            "Guurkan waxaa loo yiraahdaa rural to urban migration.",
+            "Dadku sababo badan ayay u guuraan.",
+            "Push factors waxay ka dhigaan in dadku doonaan inay meel ka tagaan.",
+            "Shaqo adag oo beerta ah oo lacag yar laga helo waa push factor.",
+            "Pull factors waxay ka dhigaan in dadku doonaan inay meel u guuraan.",
+            "Isbitaallo wanaagsan iyo mushahar sare waa pull factors.",
+            "Liu waa 18 jir waxayna ku nooshahay beer bariis yar oo ku taal gobolka Sichuan.",
+            "Waxay ku riyootaa inay Shanghai u guurto si ay qoyskeeda lacag u soo gaarsiiso.",
+            "Nolosha magaalada waxay keentaa fursado cusub, laakiin sidoo kale saacado dheer oo warshad."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "село: селища, фермерські господарства і відкрита земля (rural)",
+            "містечка і міста (urban)",
+            "коли більша частка людей країни живе в містах (urbanisation)",
+            "люди, які переїжджають з одного місця жити в інше (migration)",
+            "те, що змушує людей хотіти покинути місце (push factor)",
+            "те, що змушує людей хотіти переїхати в якесь місце (pull factor)"
+          ],
+          "passage": [
+            "Сільські райони — це село; міські райони — це містечка і міста.",
+            "Урбанізація (urbanisation) — це коли більша частка населення живе в містах.",
+            "У Китаї близько 100 мільйонів людей переїхали з села до міст за десять років.",
+            "Цей рух називають міграцією з села до міста.",
+            "Люди переїжджають із багатьох причин.",
+            "Чинники виштовхування (push factors) змушують людей хотіти покинути місце.",
+            "Важка праця на фермі за малі гроші — це чинник виштовхування.",
+            "Чинники притягування (pull factors) змушують людей хотіти переїхати в якесь місце.",
+            "Кращі лікарні і вищі заробітки — це чинники притягування.",
+            "Лю (Liu) має 18 років і живе на маленькій рисовій фермі в провінції Сичуань (Sichuan).",
+            "Вона мріє переїхати до Шанхаю, щоб заробляти гроші для своєї родини.",
+            "Життя в місті дає нові можливості, але також довгі години на фабриці."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دیہات: گاؤں، کھیت اور کھلی زمین (rural)",
+            "قصبے اور شہر (urban)",
+            "جب کسی ملک کے لوگوں کا بڑا حصہ شہروں میں رہنے لگے (urbanisation)",
+            "لوگوں کا ایک جگہ سے دوسری جگہ رہنے کے لیے جانا (migration)",
+            "وہ چیز جو لوگوں کو کسی جگہ چھوڑنے پر مائل کرے (push factor)",
+            "وہ چیز جو لوگوں کو کسی جگہ جانے پر مائل کرے (pull factor)"
+          ],
+          "passage": [
+            "rural علاقے دیہات ہیں؛ urban علاقے قصبے اور شہر ہیں۔",
+            "urbanisation یہ ہے کہ آبادی کا بڑا حصہ شہروں میں رہنے لگے۔",
+            "چین میں دس سال کے اندر تقریباً 10 کروڑ لوگ دیہات سے شہروں میں منتقل ہوئے۔",
+            "اس نقل مکانی کو rural to urban migration کہتے ہیں۔",
+            "لوگ بہت سی وجہوں سے منتقل ہوتے ہیں۔",
+            "push factors لوگوں کو کسی جگہ چھوڑنے پر مائل کرتے ہیں۔",
+            "کھیت پر تھوڑے پیسوں کے لیے سخت مزدوری ایک push factor ہے۔",
+            "pull factors لوگوں کو کسی جگہ جانے پر مائل کرتے ہیں۔",
+            "بہتر ہسپتال اور زیادہ تنخواہ pull factors ہیں۔",
+            "لیو (Liu) اٹھارہ سال کی ہے اور سیچوان صوبے میں چاول کے ایک چھوٹے کھیت پر رہتی ہے۔",
+            "وہ خواب دیکھتی ہے کہ شنگھائی جا کر اپنے گھر والوں کے لیے پیسے کمائے۔",
+            "شہر کی زندگی نئے مواقع لاتی ہے، مگر کارخانے میں لمبے گھنٹے بھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Urbanisation and migration",
@@ -1142,8 +1906,162 @@ window.ASTRA_UNITS["geog-asia-china"] = {
           "Some people see this as investment that builds roads and railways.",
           "Others see it as exploitation of Africa's resources.",
           "Geographers test ideas like these against evidence before deciding."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جزيئات وغازات ضارّة في الهواء (air pollution)",
+            "قطع الغابات دون أن تُزرع من جديد (deforestation)",
+            "توليد الكهرباء من ماء ساقط يحجزه سدّ (hydroelectric)",
+            "قادر على الاستمرار دون أن يستنفد ما يحتاج إليه المستقبل (sustainable)",
+            "وضع المال في مكان أو عمل ليكبر (investment)",
+            "استخدام مكان أو ناس استخدامًا جائرًا لمصلحتك (exploitation)"
+          ],
+          "passage": [
+            "جاء النموّ الاقتصادي السريع في الصين بثمن على البيئة.",
+            "ومشكلاتها الرئيسة تلوّث الهواء وقطع الغابات والانهيارات الأرضية وتعرية التربة.",
+            "وفي أغسطس 2010 بلغ هواء بكين 604 على مقياس للتلوّث.",
+            "وبلغ هواء لندن 38 فقط في الشهر نفسه.",
+            "ويعبر سدّ الخوانق الثلاثة (Three Gorges Dam) نهر اليانغتسي في مقاطعة هوبي (Hubei).",
+            "وهو أكبر محطّة كهرباء مائية في العالم.",
+            "وهو يولّد الكهرباء دون حرق الفحم، ولكنه سبّب مشكلات اجتماعية واقتصادية وبيئية.",
+            "والتنمية المستدامة تلبّي احتياجات اليوم دون أن تضرّ بالأجيال المقبلة.",
+            "والصين تتاجر أيضًا مع بلدان أفريقية كثيرة وتستثمر فيها.",
+            "وبعض الناس يرى هذا استثمارًا يبني الطرق والسكك الحديدية.",
+            "وآخرون يرونه استغلالًا لموارد أفريقيا.",
+            "والجغرافيون يقيسون أفكارًا كهذه على الأدلّة قبل أن يحكموا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "szkodliwe drobinki i gazy w powietrzu (air pollution)",
+            "wycinanie lasów bez sadzenia nowych (deforestation)",
+            "wytwarzający prąd z wody spadającej z zapory (hydroelectric)",
+            "taki, który może trwać dalej, nie zużywając tego, co będzie potrzebne w przyszłości (sustainable)",
+            "wkładanie pieniędzy w jakieś miejsce albo firmę, żeby się rozwijały (investment)",
+            "niesprawiedliwe wykorzystywanie miejsca albo ludzi dla własnego zysku (exploitation)"
+          ],
+          "passage": [
+            "Szybki wzrost gospodarczy Chin kosztował środowisko.",
+            "Ich główne problemy to zanieczyszczenie powietrza, wycinanie lasów, osuwiska i erozja gleby.",
+            "W sierpniu 2010 roku powietrze w Pekinie (Beijing) uzyskało 604 punkty na skali zanieczyszczenia.",
+            "Powietrze w Londynie uzyskało w tym samym miesiącu tylko 38 punktów.",
+            "Zapora Trzech Przełomów (Three Gorges Dam) przegradza rzekę Yangtze (Jangcy) w prowincji Hubei.",
+            "To największa elektrownia wodna na świecie.",
+            "Wytwarza prąd bez spalania węgla, ale spowodowała problemy społeczne, gospodarcze i środowiskowe.",
+            "Rozwój zrównoważony (sustainable development) zaspokaja dzisiejsze potrzeby, nie szkodząc przyszłym pokoleniom.",
+            "Chiny handlują też z wieloma krajami afrykańskimi i inwestują w nich.",
+            "Niektórzy widzą w tym inwestycje, które budują drogi i koleje.",
+            "Inni widzą w tym wyzysk afrykańskich zasobów.",
+            "Geografowie sprawdzają takie opinie, zestawiając je z dowodami, zanim coś rozstrzygną."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "partículas e gases prejudiciais no ar (air pollution, poluição do ar)",
+            "cortar florestas sem as substituir (deforestation, desflorestação/desmatamento)",
+            "fazer eletricidade com a queda de água retida por uma barragem/represa (hydroelectric, hidroelétrico)",
+            "que pode continuar sem gastar aquilo de que o futuro precisa (sustainable, sustentável)",
+            "pôr dinheiro num lugar ou num negócio para o fazer crescer (investment, investimento)",
+            "usar um lugar ou pessoas de forma injusta, em proveito próprio (exploitation, exploração)"
+          ],
+          "passage": [
+            "O crescimento económico/econômico rápido da China teve um custo para o ambiente.",
+            "Os seus principais problemas são a poluição do ar, a desflorestação/desmatamento, os deslizamentos de terra e a erosão (erosion) do solo.",
+            "Em agosto de 2010, o ar de Beijing (Pequim) marcou 604 numa medida de poluição.",
+            "O ar de Londres marcou apenas 38 no mesmo mês.",
+            "A Barragem das Três Gargantas (Three Gorges Dam) atravessa o rio Yangtze (Yangtzé), na província de Hubei.",
+            "É a maior central hidroelétrica do mundo.",
+            "Faz eletricidade sem queimar carvão, mas causou problemas sociais, económicos/econômicos e ambientais.",
+            "O desenvolvimento sustentável responde às necessidades de hoje sem prejudicar as gerações futuras.",
+            "A China também comercia com muitos países africanos e investe neles.",
+            "Há quem veja isto como investimento, que constrói estradas e ferrovias/caminhos de ferro.",
+            "Outros veem isto como exploração dos recursos da África.",
+            "Os geógrafos confrontam ideias como estas com as provas antes de decidir."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "walxo iyo gaasas waxyeello leh oo hawada ku jira",
+            "jaridda kaymaha iyadoon wax lagu beddelin",
+            "koronto laga sameeyo biyo hoos u dhacaya oo biyo-xireen xanniba",
+            "wax sii socon kara iyadoon la dhammaysan waxa mustaqbalku u baahan yahay",
+            "lacag la geliyo meel ama ganacsi si ay u korto",
+            "isticmaalka meel ama dad si aan caddaaladaysnayn oo danahaaga ah"
+          ],
+          "passage": [
+            "Korodhka dhaqaalaha degdegga ah ee Shiinaha waxaa ka dhashay qiime uu deegaanku bixiyay.",
+            "Dhibaatooyinkiisa waaweyn waa wasakhaynta hawada, deforestation, dumidda dhulka iyo nabaad-guurka ciidda.",
+            "Agoosto 2010-kii hawada Beijing waxay 604 ka dhaliday cabbirka wasakhaynta.",
+            "Hawada London waxay isla bishaas 38 oo keliya dhaliday.",
+            "Biyo-xireenka Three Gorges wuxuu ka gudbaa webiga Yangtze ee gobolka Hubei.",
+            "Waa warshadda korontada hydroelectric ee ugu weyn dunida.",
+            "Koronto wuxuu sameeyaa isagoon dhuxul gubin, laakiin wuxuu keenay dhibaatooyin bulsho, dhaqaale iyo deegaan.",
+            "Horumarka sustainable wuxuu buuxiyaa baahiyaha maanta isagoon waxyeelleyn jiilalka mustaqbalka.",
+            "Shiinaha sidoo kale wuxuu la ganacsadaa oo maalgashi ku sameeyaa dalal Afrikaan ah oo badan.",
+            "Dadka qaar waxay u arkaan maalgashi dhisaya waddooyin iyo jidad tareen.",
+            "Kuwa kalena waxay u arkaan ka faa'iidaysi xun oo kheyraadka Afrika.",
+            "Juqraafi-yaqaannadu fikradaha noocan oo kale waxay caddaynta ku tijaabiyaan intaanay go'aansan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "шкідливі частинки і гази в повітрі (air pollution)",
+            "вирубування лісів без їхнього відновлення (deforestation)",
+            "виробництво електроенергії з падаючої води, яку стримує гребля (hydroelectric)",
+            "здатний продовжуватися, не витрачаючи того, що потрібно майбутньому (sustainable)",
+            "вкладання грошей у місце або бізнес, щоб він зростав (investment)",
+            "несправедливе використання місця або людей для власної вигоди (exploitation)"
+          ],
+          "passage": [
+            "Швидке економічне зростання Китаю далося ціною шкоди довкіллю.",
+            "Його головні проблеми — забруднення повітря, вирубування лісів, зсуви і змив ґрунту.",
+            "У серпні 2010 року повітря Пекіна отримало 604 бали за одним показником забруднення.",
+            "Повітря Лондона отримало лише 38 балів того самого місяця.",
+            "Гребля «Три ущелини» (Three Gorges Dam) перетинає річку Янцзи в провінції Хубей.",
+            "Це найбільша гідроелектростанція у світі.",
+            "Вона виробляє електроенергію без спалювання вугілля, але спричинила соціальні, економічні й екологічні проблеми.",
+            "Сталий розвиток (sustainable development) задовольняє сьогоднішні потреби, не шкодячи майбутнім поколінням.",
+            "Китай також торгує з багатьма африканськими країнами та вкладає в них гроші.",
+            "Деякі люди бачать у цьому інвестиції, які будують дороги й залізниці.",
+            "Інші бачать у цьому експлуатацію ресурсів Африки.",
+            "Географи перевіряють такі думки доказами, перш ніж вирішити."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہوا میں نقصان دہ ذرات اور گیسیں (air pollution)",
+            "جنگلوں کو کاٹ دینا اور ان کی جگہ نئے درخت نہ لگانا (deforestation)",
+            "بند سے روکے ہوئے گرتے پانی سے بجلی بنانا (hydroelectric)",
+            "ایسا جو آنے والے وقت کی ضرورتیں ختم کیے بغیر چلتا رہ سکے (sustainable)",
+            "کسی جگہ یا کاروبار میں پیسہ لگانا تاکہ وہ بڑھے (investment)",
+            "کسی جگہ یا لوگوں کو اپنے فائدے کے لیے ناانصافی سے استعمال کرنا (exploitation)"
+          ],
+          "passage": [
+            "چین کی تیز معاشی بڑھوتری کی قیمت ماحول نے چکائی ہے۔",
+            "اس کے بڑے مسئلے ہوا کی آلودگی، جنگلوں کی کٹائی، لینڈ سلائیڈ اور مٹی کا کٹاؤ ہیں۔",
+            "اگست 2010 میں بیجنگ کی ہوا آلودگی کے ایک پیمانے پر 604 پر تھی۔",
+            "اسی مہینے لندن کی ہوا صرف 38 پر تھی۔",
+            "Three Gorges Dam صوبہ ہوبے میں دریائے یانگسی کے آڑے بنایا گیا ہے۔",
+            "یہ دنیا کا سب سے بڑا hydroelectric بجلی گھر ہے۔",
+            "یہ کوئلہ جلائے بغیر بجلی بناتا ہے، مگر اس سے سماجی، معاشی اور ماحولیاتی مسئلے پیدا ہوئے ہیں۔",
+            "sustainable development آج کی ضرورتیں پوری کرتی ہے مگر آنے والی نسلوں کو نقصان نہیں پہنچاتی۔",
+            "چین بہت سے افریقی ملکوں سے تجارت بھی کرتا ہے اور وہاں پیسہ بھی لگاتا ہے۔",
+            "کچھ لوگ اسے investment سمجھتے ہیں جس سے سڑکیں اور ریلوے بنتی ہیں۔",
+            "دوسرے اسے افریقہ کے وسائل کا exploitation سمجھتے ہیں۔",
+            "جغرافیہ دان فیصلہ کرنے سے پہلے ایسے خیالوں کو شہادت کے مقابل جانچتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The cost of growth: Beijing's air",

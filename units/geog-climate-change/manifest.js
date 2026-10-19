@@ -112,8 +112,156 @@ window.ASTRA_UNITS["geog-climate-change"] = {
           "Ice cores hold layers of snow that fell thousands of years ago.",
           "Glaciers that are shrinking tell us the ice is melting faster than it forms.",
           "Put together, these records show temperatures are higher now than at any time in the last 2000 years."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مطر المكان وحرارته من يوم إلى يوم (weather)",
+            "نمط الطقس في مكان ما على سنوات كثيرة (climate)",
+            "الاتّجاه العامّ الذي يسير إليه الرسم البياني (trend)",
+            "عيّنة طويلة تُستخرج بالحفر من طبقات قديمة من الثلج والجليد (ice core)",
+            "طبقة الخشب التي تضيفها الشجرة كلّ سنة (tree ring)",
+            "تقهقر النهر الجليدي صاعدًا في واديه (glacial retreat)"
+          ],
+          "passage": [
+            "الطقس هو ما يحدث من يوم إلى يوم.",
+            "والمناخ هو نمط الطقس في مكان ما على سنوات كثيرة.",
+            "وتغيّر المناخ تغيّر طويل الأجل في ذلك النمط.",
+            "وصيف حارّ واحد أو ربيع جافّ واحد لا يُثبت أنّ المناخ تغيّر.",
+            "ولا نستطيع أن نتيقّن إلّا عندما تتغيّر الأرقام وتبقى متغيّرة سنوات كثيرة.",
+            "وسجلّات الحرارة بالمِحرار تعود إلى نحو 1880، وهي تُظهر العالم وهو يزداد حرارةً.",
+            "وللأزمنة الأسبق يقرأ العلماء القرائن التي تتركها الطبيعة.",
+            "فالأشجار تضيف حلقة جديدة كلّ سنة، والحلقة العريضة تعني سنة دافئة رطبة.",
+            "واللُّبّات الجليدية تحفظ طبقات من ثلج سقط قبل آلاف السنين.",
+            "والأنهار الجليدية التي تصغر تخبرنا أنّ الجليد يذوب أسرع ممّا يتكوّن.",
+            "وهذه السجلّات مجتمعةً تُظهر أنّ الحرارة اليوم أعلى منها في أيّ وقت في آخر 2000 سنة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "opady i temperatura w danym miejscu z dnia na dzień (weather)",
+            "układ pogody w danym miejscu przez wiele lat (climate)",
+            "ogólny kierunek, w którym idzie wykres (trend)",
+            "długa próbka wywiercona ze starych warstw śniegu i lodu (ice core)",
+            "warstwa drewna, którą drzewo dokłada każdego roku (tree ring)",
+            "lodowiec cofający się w górę swojej doliny (glacial retreat)"
+          ],
+          "passage": [
+            "Pogoda to to, co dzieje się z dnia na dzień.",
+            "Klimat to układ pogody w danym miejscu przez wiele lat.",
+            "Zmiana klimatu to długotrwała zmiana tego układu.",
+            "Jedno gorące lato albo jedna sucha wiosna nie dowodzą, że klimat się zmienił.",
+            "Pewni możemy być tylko wtedy, gdy liczby się zmienią i pozostaną zmienione przez wiele lat.",
+            "Zapisy z termometrów sięgają około 1880 roku i pokazują, że świat się ociepla.",
+            "O dawniejszych czasach naukowcy czytają ze śladów, które zostawia przyroda.",
+            "Drzewa dokładają co roku nowy pierścień, a szeroki pierścień znaczy ciepły i wilgotny rok.",
+            "Rdzenie lodowe trzymają warstwy śniegu, który spadł tysiące lat temu.",
+            "Lodowce, które się zmniejszają, mówią nam, że lód topi się szybciej, niż powstaje.",
+            "Razem te zapisy pokazują, że temperatury są dziś wyższe niż kiedykolwiek w ostatnich 2000 lat."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a chuva e a temperatura de um lugar de dia para dia (weather, o tempo)",
+            "o padrão do tempo num lugar ao longo de muitos anos (climate, clima)",
+            "a direção geral que um gráfico está a seguir (trend, tendência)",
+            "uma amostra comprida retirada de camadas antigas de neve e gelo (ice core, testemunho de gelo)",
+            "a camada de madeira que uma árvore acrescenta cada ano (tree ring, anel de crescimento)",
+            "um glaciar/geleira a encolher e a recuar pelo seu vale (glacial retreat, recuo glaciar)"
+          ],
+          "passage": [
+            "O tempo é o que acontece de dia para dia.",
+            "O clima é o padrão do tempo num lugar ao longo de muitos anos.",
+            "As mudanças climáticas são uma mudança de longo prazo nesse padrão.",
+            "Um verão quente ou uma primavera seca não provam que o clima mudou.",
+            "Só podemos ter a certeza quando os números mudam e ficam mudados durante muitos anos.",
+            "Os registos/registros de termómetro/termômetro vão até cerca de 1880 e mostram o mundo a ficar mais quente.",
+            "Para os tempos mais antigos, os cientistas leem as pistas que a natureza deixa.",
+            "As árvores acrescentam um anel novo cada ano, e um anel largo quer dizer um ano quente e chuvoso.",
+            "Os testemunhos de gelo guardam camadas de neve que caiu há milhares de anos.",
+            "Os glaciares/geleiras que estão a encolher dizem-nos que o gelo derrete mais depressa do que se forma.",
+            "Juntos, estes registos/registros mostram que as temperaturas estão hoje mais altas do que em qualquer momento dos últimos 2000 anos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "roobka iyo heerkulka meel maalin ka maalin",
+            "qaabka hawada meel sanado badan",
+            "jihada guud ee garaafku u socdo",
+            "tusaale dheer oo laga qoday lakabyo baraf duugoobay",
+            "lakabka alwaax ee geedku sanad kasta ku daro",
+            "glacier oo dooxadiisa kor ugu yaraanaya"
+          ],
+          "passage": [
+            "Hawadu waa waxa maalin ka maalin dhaca.",
+            "Cimiladu waa qaabka hawada meel sanado badan.",
+            "Isbeddelka cimiladu waa isbeddel muddo dheer socda oo qaabkaas ku dhaca.",
+            "Hal xagaa kulul ama hal gu' qallalan ma caddeyn karo in cimiladu isbeddeshay.",
+            "Waxaan hubin karnaa kaliya marka tirooyinku isbeddelaan oo sanado badan sidaas sii ahaadaan.",
+            "Diiwaannada heerkul-cabbirka waxay dib u socdaan qiyaastii 1880-kii waxayna muujinayaan dunida oo sii kululaanaysa.",
+            "Waqtiyadii ka hor, saynisyahannadu waxay akhriyaan tilmaamaha dabeecaddu ka tagto.",
+            "Geeduhu waxay sanad kasta siddo cusub ku daraan, siddo ballaaranna macnaheedu waa sanad diirran oo qoyan.",
+            "Ice cores waxay hayaan lakabyo baraf oo kumanaan sano ka hor da'ay.",
+            "Glaciers-ka yaraanayaa waxay noo sheegayaan in barafku si ka dhaqso ah u dhalaalayo intuu samaysmayo.",
+            "Marka la isku geeyo, diiwaannadan waxay muujinayaan in heerkulku hadda ka sarreeyo waqti kasta oo 2000 sano ee la soo dhaafay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "опади і температура місця день за днем (weather)",
+            "порядок погоди в якомусь місці за багато років (climate)",
+            "загальний напрямок, у який іде графік (trend)",
+            "довгий зразок, пробурений зі старих шарів снігу і льоду (ice core)",
+            "шар дерева, який дерево додає щороку (tree ring)",
+            "льодовик, що відступає вгору своєю долиною (glacial retreat)"
+          ],
+          "passage": [
+            "Погода — це те, що відбувається день за днем.",
+            "Клімат — це порядок погоди в якомусь місці за багато років.",
+            "Зміна клімату — це довготривала зміна цього порядку.",
+            "Одне гаряче літо або одна суха весна не доводять, що клімат змінився.",
+            "Ми можемо бути впевнені лише тоді, коли показники змінюються і залишаються зміненими багато років.",
+            "Записи термометрів ідуть приблизно з 1880 року і показують, що світ теплішає.",
+            "Про давніші часи науковці читають підказки, які залишає природа.",
+            "Дерева додають нове кільце щороку, і широке кільце означає теплий, вологий рік.",
+            "Льодові колонки (ice cores) тримають шари снігу, який упав тисячі років тому.",
+            "Льодовики, які зменшуються, кажуть нам, що лід тане швидше, ніж утворюється.",
+            "Разом ці записи показують, що температури тепер вищі, ніж будь-коли за останні 2000 років."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی جگہ کی دن بہ دن کی بارش اور درجۂ حرارت (weather)",
+            "کسی جگہ میں کئی برسوں کے موسم کا نمونہ (climate)",
+            "گراف جس مجموعی رخ پر جا رہا ہو (trend)",
+            "برف اور برفباری کی پرانی تہوں سے کھود کر نکالا گیا لمبا نمونہ (ice core)",
+            "لکڑی کی وہ تہہ جو درخت ہر سال بڑھاتا ہے (tree ring)",
+            "glacier کا سکڑ کر اپنی وادی میں پیچھے ہٹ جانا (glacial retreat)"
+          ],
+          "passage": [
+            "weather وہ ہے جو دن بہ دن ہوتا ہے۔",
+            "climate کسی جگہ میں کئی برسوں کے موسم کا نمونہ ہے۔",
+            "climate change اُس نمونے میں طویل مدت کی تبدیلی ہے۔",
+            "ایک گرم گرمی یا ایک خشک بہار یہ ثابت نہیں کرتی کہ climate بدل گیا ہے۔",
+            "ہم صرف اس وقت یقین کر سکتے ہیں جب اعداد بدلیں اور کئی برس بدلے ہی رہیں۔",
+            "تھرمامیٹر کے ریکارڈ تقریباً 1880 تک جاتے ہیں اور دکھاتے ہیں کہ دنیا گرم ہو رہی ہے۔",
+            "اس سے پہلے کے زمانوں کے لیے سائنس دان وہ اشارے پڑھتے ہیں جو قدرت پیچھے چھوڑ جاتی ہے۔",
+            "درخت ہر سال ایک نیا حلقہ بڑھاتے ہیں، اور چوڑے حلقے کا مطلب گرم، نم سال ہے۔",
+            "ice cores میں وہ برف کی تہیں موجود ہیں جو ہزاروں سال پہلے گری تھیں۔",
+            "سکڑتے ہوئے glaciers ہمیں بتاتے ہیں کہ برف بننے سے زیادہ تیزی سے پگھل رہی ہے۔",
+            "یہ سب ریکارڈ ملا کر دکھاتے ہیں کہ درجۂ حرارت اب پچھلے 2000 سال کے کسی بھی وقت سے زیادہ ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Weather, climate and climate change",
@@ -324,8 +472,162 @@ window.ASTRA_UNITS["geog-climate-change"] = {
           "Agriculture releases methane from cattle and rice fields.",
           "These gases trap heat in the atmosphere, so the Earth warms.",
           "Burning fossil fuels is the biggest cause of all."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "سبب يحدث من غير الناس (natural cause)",
+            "سبب يأتي من عمل الناس (human cause)",
+            "الفحم والنفط والغاز، وقد تكوّنت من نباتات وحيوانات قديمة (fossil fuels)",
+            "قطع الغابات دون أن تُزرع من جديد (deforestation)",
+            "غاز يحبس الحرارة في الغلاف الجوّي (greenhouse gas)",
+            "بقعة مظلمة على الشمس، وكثرتها تعني أنّ الشمس أنشط (sunspot)"
+          ],
+          "passage": [
+            "المناخ تغيّر على مرّ الأزمنة، قبل أن يكون هناك ناس بزمن طويل.",
+            "وأربعة أسباب طبيعية تفعل هذا.",
+            "فمدار الأرض حول الشمس يتغيّر شكله وميله ببطء.",
+            "وإنتاج الشمس يرتفع ويهبط، وكثرة البقع الشمسية تعني طاقة أكثر.",
+            "والانفجارات البركانية الكبيرة تقذف الرماد عاليًا في الهواء فتبرّد الأرض حينًا.",
+            "وتيّارات المحيط تنقل الحرارة حول الكوكب، وعندما تتحرّك يتحرّك الطقس معها.",
+            "واليوم تضيف ثلاثة أسباب بشرية إلى الأسباب الطبيعية.",
+            "فحرق الوقود الأحفوري كالفحم والنفط والغاز يُطلق ثاني أكسيد الكربون.",
+            "وقطع الغابات يقضي على الأشجار التي كانت ستمتصّ ذلك الكربون.",
+            "والزراعة تُطلق الميثان من الأبقار وحقول الأرزّ.",
+            "وهذه الغازات تحبس الحرارة في الغلاف الجوّي، فتسخن الأرض.",
+            "وحرق الوقود الأحفوري أكبر الأسباب كلّها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przyczyna, która zdarzyłaby się i bez ludzi (natural cause)",
+            "przyczyna, która bierze się z tego, co robią ludzie (human cause)",
+            "węgiel, ropa i gaz, powstałe z dawnych roślin i zwierząt (fossil fuels)",
+            "wycinanie lasów bez sadzenia nowych (deforestation)",
+            "gaz, który zatrzymuje ciepło w atmosferze (greenhouse gas)",
+            "ciemna plama na Słońcu; wiele plam znaczy, że Słońce jest bardziej aktywne (sunspot)"
+          ],
+          "passage": [
+            "Klimat zmieniał się zawsze, na długo przed pojawieniem się ludzi.",
+            "Robią to cztery przyczyny naturalne.",
+            "Orbita Ziemi wokół Słońca powoli zmienia kształt, a Ziemia zmienia nachylenie.",
+            "Moc Słońca rośnie i spada, a więcej plam słonecznych znaczy więcej energii.",
+            "Wielkie wybuchy wulkanów wyrzucają popiół wysoko w powietrze i na jakiś czas ochładzają Ziemię.",
+            "Prądy oceaniczne przenoszą ciepło po planecie, a kiedy się przesuwają, przesuwa się też pogoda.",
+            "Dziś do przyczyn naturalnych dochodzą trzy przyczyny ludzkie.",
+            "Spalanie paliw kopalnych, takich jak węgiel, ropa i gaz, wydziela dwutlenek węgla.",
+            "Wycinanie lasów usuwa drzewa, które wchłonęłyby ten węgiel.",
+            "Rolnictwo wydziela metan z bydła i z pól ryżowych.",
+            "Te gazy zatrzymują ciepło w atmosferze, więc Ziemia się ociepla.",
+            "Spalanie paliw kopalnych jest największą przyczyną ze wszystkich."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma causa que aconteceria mesmo sem as pessoas (natural cause, causa natural)",
+            "uma causa que vem daquilo que as pessoas fazem (human cause, causa humana)",
+            "carvão, petróleo e gás, feitos de plantas e animais antigos (fossil fuels, combustíveis fósseis)",
+            "cortar florestas e não as substituir (deforestation, desflorestação/desmatamento)",
+            "um gás que retém o calor na atmosfera (greenhouse gas, gás com efeito de estufa / gás de efeito estufa)",
+            "uma mancha escura no Sol; muitas delas querem dizer que o Sol está mais ativo (sunspot, mancha solar)"
+          ],
+          "passage": [
+            "O clima sempre mudou, muito antes de haver pessoas.",
+            "Há quatro causas naturais que fazem isso.",
+            "A órbita da Terra em volta do Sol muda lentamente de forma e de inclinação.",
+            "A energia que o Sol emite sobe e desce, e mais manchas solares querem dizer mais energia.",
+            "As grandes erupções vulcânicas lançam cinzas muito alto no ar e arrefecem/esfriam a Terra por algum tempo.",
+            "As correntes oceânicas levam o calor pelo planeta, e quando mudam, o tempo também muda.",
+            "Hoje, há três causas humanas que se somam às naturais.",
+            "Queimar combustíveis fósseis como o carvão, o petróleo e o gás liberta/libera dióxido de carbono.",
+            "A desflorestação/desmatamento corta as árvores que teriam absorvido esse carbono.",
+            "A agricultura liberta/libera metano do gado e dos campos de arroz.",
+            "Estes gases retêm o calor na atmosfera, por isso a Terra aquece.",
+            "Queimar combustíveis fósseis é a maior causa de todas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sabab dhacaysa haddii dadku jiri waayaanba",
+            "sabab ka timid waxa dadku sameeyaan",
+            "dhuxul, saliid iyo gaas, oo laga sameeyay dhir iyo xayawaan hore",
+            "jaridda keymaha iyadoon wax lagu beddelin",
+            "gaas kulaylka ku xanniba jawiga",
+            "bar madow oo Qorraxda ku taal; haddii ay badan yihiin Qorraxdu way firfircoon tahay"
+          ],
+          "passage": [
+            "Cimiladu weligeed way isbeddeshay, dadku ka hor wakhti dheer.",
+            "Afar sabab dabiici ah ayaa tan sameeya.",
+            "Wareegga Dhulka ee Qorraxda ku xeeran si tartiib ah ayuu qaabkiisa iyo janjeerkiisa beddelaa.",
+            "Waxa Qorraxdu soo saarto wuu kacaa oo wuu dhacaa, sunspots badanna macnaheedu waa tamar badan.",
+            "Qaraxyo foolkaano waaweyn waxay dambas hawada sare u tuuraan oo Dhulka muddo ayay qaboojiyaan.",
+            "Socodyada badweynta waxay kulaylka meeraha ku wareejiyaan, marka ay beddelaanna hawaduna way beddelantaa.",
+            "Maanta, saddex sabab bani'aadmi ah ayaa kuwa dabiiciga lagu darayaa.",
+            "Gubidda shidaalka fosil sida dhuxusha, saliidda iyo gaaska waxay sii daysaa kaarboon dioksaydh.",
+            "Deforestation waxay jartaa geedihii kaarboonkaas nuugi lahaa.",
+            "Beeruhu waxay methane ka sii daayaan lo'da iyo beeraha bariiska.",
+            "Gaasaskan waxay kulaylka ku xannibaan jawiga, markaa Dhulku wuu kululaadaa.",
+            "Gubidda shidaalka fosil waa sababta ugu weyn oo dhan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "причина, яка діяла б і без людей (natural cause)",
+            "причина, яка походить від того, що роблять люди (human cause)",
+            "вугілля, нафта і газ, утворені з давніх рослин і тварин (fossil fuels)",
+            "вирубування лісів без їхнього відновлення (deforestation)",
+            "газ, який затримує тепло в атмосфері (greenhouse gas)",
+            "темна пляма на Сонці; багато їх означає, що Сонце активніше (sunspot)"
+          ],
+          "passage": [
+            "Клімат завжди змінювався, задовго до того, як з’явилися люди.",
+            "Це роблять чотири природні причини.",
+            "Орбіта Землі навколо Сонця поволі змінює форму і нахил.",
+            "Віддача Сонця зростає і падає, і більше сонячних плям означає більше енергії.",
+            "Великі вулканічні виверження закидають попіл високо в повітря і на якийсь час охолоджують Землю.",
+            "Океанічні течії переносять тепло по планеті, і коли вони зсуваються, погода теж зсувається.",
+            "Сьогодні до природних причин додаються три людські.",
+            "Спалювання викопного палива, як-от вугілля, нафти і газу, випускає вуглекислий газ.",
+            "Вирубування лісів зводить дерева, які поглинули б цей вуглець.",
+            "Землеробство випускає метан від худоби і з рисових полів.",
+            "Ці гази затримують тепло в атмосфері, тому Земля теплішає.",
+            "Спалювання викопного палива — найбільша причина з усіх."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ سبب جو لوگوں کے بغیر بھی پیش آتا (natural cause)",
+            "وہ سبب جو لوگوں کے کاموں سے آتا ہے (human cause)",
+            "کوئلہ، تیل اور گیس، جو پرانے پودوں اور جانوروں سے بنے (fossil fuels)",
+            "جنگلوں کو کاٹ دینا اور ان کی جگہ نئے درخت نہ لگانا (deforestation)",
+            "وہ گیس جو فضا میں حرارت روک لیتی ہے (greenhouse gas)",
+            "سورج پر ایک کالا دھبہ؛ ان کی زیادہ تعداد کا مطلب ہے کہ سورج زیادہ متحرک ہے (sunspot)"
+          ],
+          "passage": [
+            "climate ہمیشہ بدلتا رہا ہے، لوگوں کے وجود سے بھی بہت پہلے۔",
+            "چار قدرتی اسباب ایسا کرتے ہیں۔",
+            "سورج کے گرد زمین کا مدار آہستہ آہستہ اپنی شکل اور جھکاؤ بدلتا ہے۔",
+            "سورج کی پیداوار بڑھتی گھٹتی ہے، اور زیادہ sunspots کا مطلب زیادہ توانائی ہے۔",
+            "آتش فشاں کے بڑے دھماکے راکھ کو ہوا میں بہت اوپر پھینک دیتے ہیں اور کچھ عرصے کے لیے زمین کو ٹھنڈا کر دیتے ہیں۔",
+            "سمندری دھارے حرارت کو کرّے پر گھماتے ہیں، اور جب وہ رخ بدلتے ہیں تو موسم بھی بدل جاتا ہے۔",
+            "آج تین انسانی اسباب ان قدرتی اسباب کے ساتھ شامل ہو گئے ہیں۔",
+            "کوئلہ، تیل اور گیس جیسے fossil fuels جلانے سے کاربن ڈائی آکسائیڈ نکلتی ہے۔",
+            "deforestation وہ درخت کاٹ دیتی ہے جو اس کاربن کو جذب کر لیتے۔",
+            "کھیتی باڑی سے مویشیوں اور چاول کے کھیتوں سے میتھین نکلتی ہے۔",
+            "یہ گیسیں فضا میں حرارت روک لیتی ہیں، اس لیے زمین گرم ہو جاتی ہے۔",
+            "fossil fuels جلانا سب سے بڑا سبب ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Sorting the causes",
@@ -527,8 +829,162 @@ window.ASTRA_UNITS["geog-climate-change"] = {
           "There may be more conflict over land and water.",
           "Energy supplies and transport networks come under strain.",
           "Some of these effects hit the environment first; others hit people first."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء يحدث نتيجةً لتغيّر ما (effect)",
+            "البيت الطبيعي للنبات أو الحيوان (habitat)",
+            "مقدار المحصول الذي تنتجه المزرعة (yield)",
+            "انتقال الناس ليعيشوا في مكان آخر (migration)",
+            "طقس شديد جدًّا، كالسيول وموجات الحرّ والجفاف (extreme weather)",
+            "مهمّ، له نتائج كبيرة (significant)"
+          ],
+          "passage": [
+            "العالم الأدفأ يغيّر أشياء كثيرة في وقت واحد.",
+            "فالصفائح الجليدية والأنهار الجليدية تذوب، ويرتفع مستوى سطح البحر.",
+            "والسواحل والجزر المنخفضة معرّضة لخطر الغرق.",
+            "والبيوت الطبيعية تُدمَّر، وحيوانات كالدِّببة القطبية تفقد بيوتها.",
+            "والطقس المتطرّف، كالسيول وموجات الحرّ والجفاف، يصير أكثر شيوعًا.",
+            "والمزارعون يجدون محاصيلهم تعطي غِلالًا مختلفة مع تغيّر المطر والحرارة.",
+            "وبعض الأماكن يَشُحّ فيه الماء.",
+            "والأمراض تنتشر إلى مناطق جديدة كلّما ازدادت حرارتها.",
+            "ومخاطر الصحّة ترتفع، وقد يُجبر ناس أكثر على الهجرة.",
+            "وقد يزيد الصراع على الأرض والماء.",
+            "وموارد الطاقة وشبكات النقل تتعرّض للإجهاد.",
+            "وبعض هذه الآثار يصيب البيئة أوّلًا، وبعضها يصيب الناس أوّلًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś, co dzieje się w wyniku jakiejś zmiany (effect)",
+            "naturalny dom rośliny albo zwierzęcia (habitat)",
+            "ilość plonu, którą daje gospodarstwo (yield)",
+            "przenoszenie się ludzi, żeby mieszkać w innym miejscu (migration)",
+            "bardzo gwałtowna pogoda, taka jak powodzie, fale upałów i susze (extreme weather)",
+            "ważny, mający duże następstwa (significant)"
+          ],
+          "passage": [
+            "Cieplejszy świat zmienia wiele rzeczy naraz.",
+            "Lądolody i lodowce topią się, a poziom morza się podnosi.",
+            "Niskie wybrzeża i wyspy są narażone na zalanie.",
+            "Naturalne siedliska są niszczone, a zwierzęta takie jak niedźwiedzie polarne tracą swoje domy.",
+            "Pogoda ekstremalna, taka jak powodzie, fale upałów i susze, zdarza się częściej.",
+            "Rolnicy widzą, że ich uprawy dają inne plony, bo zmieniają się opady i temperatura.",
+            "W niektórych miejscach zaczyna brakować wody.",
+            "Choroby rozprzestrzeniają się na nowe obszary, które się ocieplają.",
+            "Rośnie ryzyko dla zdrowia i więcej ludzi może być zmuszonych do przeprowadzki.",
+            "Może być więcej konfliktów o ziemię i wodę.",
+            "Dostawy energii i sieci transportowe są pod coraz większym obciążeniem.",
+            "Część tych skutków uderza najpierw w środowisko, a część najpierw w ludzi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo que acontece em consequência de uma mudança (effect, efeito)",
+            "a casa natural de uma planta ou de um animal (habitat)",
+            "a quantidade de colheita que uma exploração agrícola produz (yield, rendimento)",
+            "pessoas que se mudam para viver noutro lugar (migration, migração)",
+            "tempo muito severo, como cheias/enchentes, ondas de calor e secas (extreme weather)",
+            "importante, com grandes consequências (significant, significativo)"
+          ],
+          "passage": [
+            "Um mundo mais quente muda muitas coisas ao mesmo tempo.",
+            "Os mantos de gelo e os glaciares/geleiras derretem, e o nível do mar sobe.",
+            "As costas baixas e as ilhas correm risco de inundação.",
+            "Os habitats naturais são destruídos, e animais como os ursos polares perdem as suas casas.",
+            "O tempo extremo, como as cheias/enchentes, as ondas de calor e as secas, fica mais frequente.",
+            "Os agricultores notam que as suas culturas dão rendimentos diferentes à medida que a chuva e a temperatura mudam.",
+            "Há lugares que ficam com falta de água.",
+            "As doenças espalham-se por áreas novas, à medida que elas aquecem.",
+            "Os riscos para a saúde aumentam, e mais pessoas podem ter de migrar.",
+            "Pode haver mais conflitos por causa da terra e da água.",
+            "O fornecimento de energia e as redes de transportes ficam sob pressão.",
+            "Alguns destes efeitos atingem primeiro o ambiente; outros atingem primeiro as pessoas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax dhacay isbeddel dartii",
+            "hoyga dabiiciga ah ee dhir ama xayawaan",
+            "inta dalag ah oo beer soo saarto",
+            "dad oo meel kale u guuraya si ay ku noolaadaan",
+            "hawo aad u daran sida fatahaad, mowjado kulayl iyo abaaro",
+            "muhiim, oo cawaaqib waaweyn leh"
+          ],
+          "passage": [
+            "Dunida sii kululaanaysa waxay waxyaalo badan isku mar beddeshaa.",
+            "Ice sheets iyo glaciers way dhalaalaan, heerka baddana wuu kacaa.",
+            "Xeebaha hooseeya iyo jasiiradaha waxay khatar fatahaad ku jiraan.",
+            "Hoyga dabiiciga ah waa la burburiyaa, xayawaanka sida polar bears-kana hoygooda way lumiyaan.",
+            "Hawada aad u daran, sida fatahaad, mowjado kulayl iyo abaaro, way sii caan noqonaysaa.",
+            "Beeraleydu waxay arkaan in dalagyadoodu wax kala duwan soo saaraan marka roobka iyo heerkulku isbeddelaan.",
+            "Meelo qaar biyo ayay ka yaraadaan.",
+            "Cudurro waxay meelo cusub gelaan marka ay sii kululaadaan.",
+            "Khataraha caafimaadka way kordhaan, dad badanna waxay qasbanaan karaan inay guuraan.",
+            "Waxaa noqon kara khilaaf badan oo dhulka iyo biyaha ah.",
+            "Sahayda tamarta iyo shabakadaha gaadiidka cadaadis ayay la kulmaan.",
+            "Saameynta qaar deegaanka ayay marka hore saamaysaa; qaarna dadka ayay marka hore saamaysaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що відбувається внаслідок якоїсь зміни (effect)",
+            "природний дім рослини або тварини (habitat)",
+            "кількість врожаю, яку дає господарство (yield)",
+            "люди, які переїжджають жити в інше місце (migration)",
+            "дуже сувора погода, як-от повені, хвилі спеки й засухи (extreme weather)",
+            "важливий, із великими наслідками (significant)"
+          ],
+          "passage": [
+            "Тепліший світ змінює багато речей водночас.",
+            "Льодові щити й льодовики тануть, і рівень моря піднімається.",
+            "Низькі береги й острови під загрозою затоплення.",
+            "Природні оселі руйнуються, і такі тварини, як полярні ведмеді, втрачають свої домівки.",
+            "Екстремальна погода, як-от повені, хвилі спеки й засухи, стає частішою.",
+            "Фермери бачать, що їхні культури дають інші врожаї, бо змінюються опади й температура.",
+            "У деяких місцях бракує води.",
+            "Хвороби поширюються в нові місця, коли ті теплішають.",
+            "Загрози здоров’ю зростають, і більше людей може бути змушене переїхати.",
+            "Може бути більше конфліктів за землю й воду.",
+            "Постачання енергії й транспортні мережі потрапляють під навантаження.",
+            "Деякі з цих наслідків б’ють спершу по довкіллю; інші — спершу по людях."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ بات جو کسی تبدیلی کے نتیجے میں پیش آئے (effect)",
+            "کسی پودے یا جانور کا قدرتی گھر (habitat)",
+            "کسی کھیت سے حاصل ہونے والی فصل کی مقدار (yield)",
+            "لوگوں کا کسی دوسری جگہ رہنے کے لیے جانا (migration)",
+            "بہت سخت موسم، جیسے سیلاب، heatwaves اور قحط (extreme weather)",
+            "اہم، جس کے بڑے نتیجے ہوں (significant)"
+          ],
+          "passage": [
+            "گرم تر دنیا ایک ہی وقت میں بہت کچھ بدل دیتی ہے۔",
+            "ice sheets اور glaciers پگھلتے ہیں، اور سمندر کی سطح بلند ہو جاتی ہے۔",
+            "نچلے ساحل اور جزیرے سیلاب کے خطرے میں ہیں۔",
+            "قدرتی habitats تباہ ہو جاتے ہیں، اور قطبی ریچھ جیسے جانور اپنے گھر کھو دیتے ہیں۔",
+            "extreme weather، جیسے سیلاب، heatwaves اور قحط، زیادہ عام ہو جاتا ہے۔",
+            "بارش اور درجۂ حرارت بدلنے سے کسانوں کو اپنی فصلوں کے yields مختلف ملتے ہیں۔",
+            "کچھ جگہوں پر پانی کم پڑ جاتا ہے۔",
+            "جیسے جیسے نئے علاقے گرم ہوتے ہیں، بیماریاں وہاں پھیل جاتی ہیں۔",
+            "صحت کے خطرے بڑھتے ہیں، اور زیادہ لوگوں کو ہجرت کرنا پڑ سکتی ہے۔",
+            "زمین اور پانی پر جھگڑے زیادہ ہو سکتے ہیں۔",
+            "توانائی کی رسد اور آمد و رفت کے نظام پر دباؤ آ جاتا ہے۔",
+            "ان میں سے کچھ اثر پہلے ماحول پر پڑتے ہیں؛ کچھ پہلے لوگوں پر۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Fourteen effects",
@@ -731,8 +1187,162 @@ window.ASTRA_UNITS["geog-climate-change"] = {
           "In 2009, at Copenhagen, 183 countries agreed to try to limit warming to 2 degrees.",
           "In 2015, in Paris, 194 countries agreed to keep the rise below 2 degrees and to help poorer nations.",
           "Each agreement went further than the one before."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أعمال تقلّل أسباب تغيّر المناخ (mitigation)",
+            "أعمال تستجيب لتغيّر المناخ وآثاره (adaptation)",
+            "ثاني أكسيد الكربون الذي يُطلق في الهواء بحرق الوقود (carbon emissions)",
+            "شيء تتشارك فيه كلّ البلدان، كالغلاف الجوّي (global common)",
+            "اتّفاق بين بلدان كثيرة على العمل معًا (international agreement)",
+            "مال من البلدان الأغنى لمساعدة الأفقر على مواجهة تغيّر المناخ (climate finance)"
+          ],
+          "passage": [
+            "هناك طريقتان لإدارة تغيّر المناخ.",
+            "فالتخفيف (mitigation) يعني تقليل الأسباب، كخفض انبعاثات الكربون.",
+            "والتكيّف (adaptation) يعني الاستجابة للتغيّر، كبناء جُدُر بحرية أعلى.",
+            "وهذا الفصل عن التخفيف.",
+            "والغلاف الجوّي يتشارك فيه كلّ بلد على الأرض.",
+            "وثاني أكسيد الكربون الذي يُطلق في مكان واحد يُدفئ الكوكب كلّه.",
+            "فلا يستطيع بلد واحد أن يُصلح المشكلة وحده.",
+            "وعلى البلدان أن تتّفق على العمل معًا.",
+            "وفي 1997 في كيوتو اتّفق 162 بلدًا على خفض انبعاثات الكربون.",
+            "وفي 2009 في كوبنهاغن اتّفق 183 بلدًا على السعي لحدّ الاحترار عند 2 درجتين.",
+            "وفي 2015 في باريس اتّفق 194 بلدًا على إبقاء الارتفاع تحت 2 درجتين وعلى مساعدة الأمم الأفقر.",
+            "وكلّ اتّفاق ذهب أبعد من الذي قبله."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "działania, które zmniejszają przyczyny zmiany klimatu (mitigation)",
+            "działania, które odpowiadają na zmianę klimatu i jej skutki (adaptation)",
+            "dwutlenek węgla wypuszczany do powietrza przez spalanie paliw (carbon emissions)",
+            "coś, co jest wspólne dla każdego kraju, na przykład atmosfera (global common)",
+            "umowa między wieloma krajami, żeby działać razem (international agreement)",
+            "pieniądze od bogatszych krajów na pomoc biedniejszym w radzeniu sobie ze zmianą klimatu (climate finance)"
+          ],
+          "passage": [
+            "Są dwa sposoby zarządzania zmianą klimatu.",
+            "Łagodzenie (mitigation) znaczy zmniejszanie przyczyn, na przykład ograniczanie emisji dwutlenku węgla.",
+            "Adaptacja (adaptation) znaczy odpowiadanie na tę zmianę, na przykład budowanie wyższych murów nadmorskich.",
+            "Ten rozdział jest o łagodzeniu.",
+            "Atmosfera jest wspólna dla każdego kraju na Ziemi.",
+            "Dwutlenek węgla wypuszczony w jednym miejscu ociepla całą planetę.",
+            "Dlatego żaden kraj nie naprawi tego problemu sam.",
+            "Kraje muszą się umówić, że będą działać razem.",
+            "W 1997 roku w Kioto 162 kraje zgodziły się ograniczyć swoje emisje dwutlenku węgla.",
+            "W 2009 roku w Kopenhadze 183 kraje zgodziły się próbować ograniczyć ocieplenie do 2 stopni.",
+            "W 2015 roku w Paryżu 194 kraje zgodziły się utrzymać wzrost poniżej 2 stopni i pomagać biedniejszym państwom.",
+            "Każda umowa posuwała się dalej niż poprzednia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ações que reduzem as causas das mudanças climáticas (mitigation, mitigação)",
+            "ações que respondem às mudanças climáticas e aos seus efeitos (adaptation, adaptação)",
+            "o dióxido de carbono lançado no ar pela queima de combustíveis (carbon emissions, emissões de carbono)",
+            "algo que é partilhado/compartilhado por todos os países, como a atmosfera (global common, bem comum global)",
+            "um acordo entre muitos países para agirem em conjunto (international agreement, acordo internacional)",
+            "dinheiro dos países mais ricos para ajudar os mais pobres a lidar com as mudanças climáticas (climate finance)"
+          ],
+          "passage": [
+            "Há duas maneiras de gerir as mudanças climáticas.",
+            "Mitigação quer dizer reduzir as causas, como cortar as emissões de carbono.",
+            "Adaptação quer dizer responder à mudança, como construir muros do mar mais altos.",
+            "Este capítulo é sobre a mitigação.",
+            "A atmosfera é partilhada/compartilhada por todos os países da Terra.",
+            "O dióxido de carbono lançado num lugar aquece o planeta todo.",
+            "Por isso nenhum país consegue resolver o problema sozinho.",
+            "Os países têm de concordar em agir em conjunto.",
+            "Em 1997, em Quioto (Kyoto), 162 países concordaram em cortar as suas emissões de carbono.",
+            "Em 2009, em Copenhaga/Copenhague, 183 países concordaram em tentar limitar o aquecimento a 2 graus.",
+            "Em 2015, em Paris, 194 países concordaram em manter a subida abaixo dos 2 graus e em ajudar as nações mais pobres.",
+            "Cada acordo foi mais longe do que o anterior."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tallaabooyin yareeya sababaha isbeddelka cimilada",
+            "tallaabooyin ka jawaabaya isbeddelka cimilada iyo saameyntiisa",
+            "kaarboon dioksaydhka hawada loo sii daayo gubidda shidaalka",
+            "wax dal kasta wadaago, sida jawiga",
+            "heshiis dalal badan ah oo ay wada tallaabsadaan",
+            "lacag ka timid dalalka hodanka si loo caawiyo kuwa faqiirka ah ee isbeddelka cimilada la ildaran"
+          ],
+          "passage": [
+            "Laba siyaabood ayaa jira oo isbeddelka cimilada lagu maamulo.",
+            "Mitigation macnaheedu waa yareynta sababaha, sida gooynta carbon emissions.",
+            "Adaptation macnaheedu waa ka jawaabidda isbeddelka, sida dhisidda darbiyo badda ka sarreeya.",
+            "Cutubkan wuxuu ku saabsan yahay mitigation.",
+            "Jawiga waxaa wadaagta dal kasta oo Dhulka ku yaal.",
+            "Kaarboon dioksaydh meel laga sii daayay wuxuu meeraha oo dhan kululeeyaa.",
+            "Markaa dalna kali ahaantii dhibaatada ma xallin karo.",
+            "Dalalku waa inay isku raacaan inay wada tallaabsadaan.",
+            "1997-kii, Kyoto, 162 dal waxay isku raaceen inay carbon emissions-kooda gooyaan.",
+            "2009-kii, Copenhagen, 183 dal waxay isku raaceen inay isku dayaan inay kululaanshaha 2 darajo ku xadeeyaan.",
+            "2015-kii, Paris, 194 dal waxay isku raaceen inay kor u kaca ka hooseysiiyaan 2 darajo oo ay dalalka faqiirka caawiyaan.",
+            "Heshiis kastaa wuxuu intii ka horreysay ka sii fogaaday."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "дії, які зменшують причини зміни клімату (mitigation)",
+            "дії, які відповідають на зміну клімату і її наслідки (adaptation)",
+            "вуглекислий газ, випущений у повітря через спалювання палива (carbon emissions)",
+            "те, що спільне для кожної країни, як-от атмосфера (global common)",
+            "угода між багатьма країнами діяти разом (international agreement)",
+            "гроші від багатших країн, щоб допомогти біднішим країнам справлятися зі зміною клімату (climate finance)"
+          ],
+          "passage": [
+            "Є два способи керувати зміною клімату.",
+            "Мітигація (mitigation) означає зменшення причин, як-от скорочення викидів вуглецю.",
+            "Адаптація (adaptation) означає відповідь на зміну, як-от будівництво вищих захисних стін від моря.",
+            "Цей розділ — про мітигацію.",
+            "Атмосфера є спільною для кожної країни на Землі.",
+            "Вуглекислий газ, випущений в одному місці, нагріває всю планету.",
+            "Тому жодна країна не може вирішити цю проблему сама.",
+            "Країни мусять домовитися діяти разом.",
+            "У 1997 році в Кіото 162 країни домовилися скоротити свої викиди вуглецю.",
+            "У 2009 році в Копенгагені 183 країни домовилися спробувати обмежити потепління до 2 градусів.",
+            "У 2015 році в Парижі 194 країни домовилися втримати зростання нижче за 2 градуси і допомагати біднішим країнам.",
+            "Кожна угода йшла далі за попередню."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ کام جو climate change کے اسباب کم کرتے ہیں (mitigation)",
+            "وہ کام جو climate change اور اس کے اثروں کا جواب دیتے ہیں (adaptation)",
+            "ایندھن جلانے سے ہوا میں چھوڑی جانے والی کاربن ڈائی آکسائیڈ (carbon emissions)",
+            "وہ چیز جو ہر ملک کی مشترکہ ہے، جیسے فضا (global common)",
+            "بہت سے ملکوں کے درمیان مل کر کام کرنے کا معاہدہ (international agreement)",
+            "امیر ملکوں کا وہ پیسہ جو غریب ملکوں کو climate change سے نمٹنے میں مدد دے (climate finance)"
+          ],
+          "passage": [
+            "climate change سے نمٹنے کے دو طریقے ہیں۔",
+            "mitigation کا مطلب اسباب کم کرنا ہے، جیسے carbon emissions گھٹانا۔",
+            "adaptation کا مطلب تبدیلی کا جواب دینا ہے، جیسے اونچی سمندری دیواریں بنانا۔",
+            "یہ باب mitigation کے بارے میں ہے۔",
+            "فضا زمین کے ہر ملک کی مشترکہ ہے۔",
+            "ایک جگہ چھوڑی ہوئی کاربن ڈائی آکسائیڈ پورے کرّے کو گرم کرتی ہے۔",
+            "اس لیے کوئی ملک یہ مسئلہ اکیلا حل نہیں کر سکتا۔",
+            "ملکوں کو مل کر کام کرنے پر رضامند ہونا پڑتا ہے۔",
+            "1997 میں کیوٹو (Kyoto) میں 162 ملکوں نے اپنی carbon emissions کم کرنے پر اتفاق کیا۔",
+            "2009 میں کوپن ہیگن (Copenhagen) میں 183 ملکوں نے گرمی کو 2 درجے تک محدود رکھنے کی کوشش پر اتفاق کیا۔",
+            "2015 میں پیرس میں 194 ملکوں نے اتفاق کیا کہ اضافہ 2 درجے سے نیچے رکھا جائے اور غریب ملکوں کی مدد کی جائے۔",
+            "ہر معاہدہ پچھلے سے آگے گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Mitigation and adaptation",
@@ -944,8 +1554,162 @@ window.ASTRA_UNITS["geog-climate-change"] = {
           "Forest covered 5 per cent of the UK in 1920 and 13 per cent in 2020.",
           "Carbon capture catches carbon dioxide from a power station before it reaches the air.",
           "The gas is turned into a liquid and stored deep under the sea in old oil fields."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "طاقة من مصادر لا تنفد ولا تُطلق ثاني أكسيد الكربون (renewable energy)",
+            "نصيب كلّ مصدر طاقة يستخدمه البلد (energy mix)",
+            "مجموعة من عَنَفات الريح قائمة في البحر (offshore wind farm)",
+            "شيء يأخذ ثاني أكسيد الكربون من الهواء ويخزّنه (carbon sink)",
+            "غرس غابات جديدة في مواضع لم تكن فيها غابات (afforestation)",
+            "التقاط ثاني أكسيد الكربون من محطّة الكهرباء وتخزينه تحت الأرض (carbon capture)"
+          ],
+          "passage": [
+            "التخفيف يعني خفض أسباب تغيّر المناخ.",
+            "وأكبر سبب هو حرق الوقود الأحفوري للطاقة.",
+            "فالخطوة الأولى أن نولّد الكهرباء بطريقة أخرى.",
+            "وطاقة الريح والشمس والمدّ والكهرباء المائية والحرارة الأرضية لا تُطلق ثاني أكسيد الكربون.",
+            "وفي 1980 كان الوقود الأحفوري يصنع 91 في المئة من طاقة المملكة المتّحدة.",
+            "وبحلول 2015 هبطت النسبة إلى 50 في المئة.",
+            "ومزرعة ريح ثانيت (Thanet) البحرية، قبالة مارغيت في كنت، فيها 100 عَنَفة.",
+            "وهي تولّد كهرباءً تكفي نحو 220 000 بيت في السنة.",
+            "والأشجار مصارف للكربون: فهي تأخذ ثاني أكسيد الكربون وهي تنمو وتخزّن الكربون.",
+            "وكانت الغابة تغطّي 5 في المئة من المملكة المتّحدة في 1920 و13 في المئة في 2020.",
+            "والتقاط الكربون يلتقط ثاني أكسيد الكربون من محطّة الكهرباء قبل أن يصل إلى الهواء.",
+            "ويُحوّل الغاز سائلًا ويُخزّن في عمق البحر في حقول نفط قديمة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "energia ze źródeł, które się nie wyczerpują i nie wydzielają dwutlenku węgla (renewable energy)",
+            "udział każdego źródła energii, z którego korzysta kraj (energy mix)",
+            "grupa turbin wiatrowych stojących w morzu (offshore wind farm)",
+            "coś, co zabiera dwutlenek węgla z powietrza i go magazynuje (carbon sink)",
+            "sadzenie nowych lasów tam, gdzie ich nie było (afforestation)",
+            "wychwytywanie dwutlenku węgla z elektrowni i magazynowanie go pod ziemią (carbon capture)"
+          ],
+          "passage": [
+            "Łagodzenie znaczy ograniczanie przyczyn zmiany klimatu.",
+            "Największą przyczyną jest spalanie paliw kopalnych na energię.",
+            "Dlatego pierwszym krokiem jest wytwarzanie prądu w inny sposób.",
+            "Energia wiatru, słońca, pływów, wody i ciepła Ziemi nie wydziela dwutlenku węgla.",
+            "W 1980 roku paliwa kopalne dawały 91 procent energii Zjednoczonego Królestwa.",
+            "Do roku 2015 spadło to do 50 procent.",
+            "Morska farma wiatrowa Thanet, u brzegów Margate w Kent, ma 100 turbin.",
+            "Wytwarza dość prądu dla około 220 000 domów na rok.",
+            "Drzewa są pochłaniaczami węgla (carbon sinks): rosnąc, wchłaniają dwutlenek węgla i magazynują węgiel.",
+            "Las pokrywał 5 procent Zjednoczonego Królestwa w 1920 roku i 13 procent w 2020 roku.",
+            "Wychwytywanie węgla łapie dwutlenek węgla z elektrowni, zanim dotrze on do powietrza.",
+            "Gaz zamienia się w ciecz i magazynuje głęboko pod morzem, w starych złożach ropy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "energia de fontes que não se esgotam e não libertam/liberam dióxido de carbono (renewable energy, energia renovável)",
+            "a parte de cada fonte de energia que um país usa (energy mix)",
+            "um conjunto de turbinas eólicas instaladas no mar (offshore wind farm, parque eólico no mar)",
+            "algo que retira dióxido de carbono do ar e o guarda (carbon sink, sumidouro de carbono)",
+            "plantar florestas novas onde não havia nenhuma (afforestation, florestação/reflorestamento)",
+            "apanhar o dióxido de carbono de uma central elétrica e guardá-lo no subsolo (carbon capture, captura de carbono)"
+          ],
+          "passage": [
+            "Mitigação quer dizer cortar as causas das mudanças climáticas.",
+            "A maior causa é queimar combustíveis fósseis para dar energia.",
+            "Por isso o primeiro passo é fazer eletricidade de outra maneira.",
+            "A energia do vento, solar, das marés, hidroelétrica e geotérmica não liberta/libera dióxido de carbono.",
+            "Em 1980, os combustíveis fósseis faziam 91 por cento da energia do Reino Unido.",
+            "Em 2015 isso já tinha descido para 50 por cento.",
+            "O parque eólico no mar de Thanet, ao largo de Margate, em Kent, tem 100 turbinas.",
+            "Faz eletricidade suficiente para cerca de 220 000 casas por ano.",
+            "As árvores são sumidouros de carbono: absorvem dióxido de carbono enquanto crescem e guardam o carbono.",
+            "A floresta cobria 5 por cento do Reino Unido em 1920 e 13 por cento em 2020.",
+            "A captura de carbono apanha o dióxido de carbono de uma central elétrica antes de ele chegar ao ar.",
+            "O gás é transformado em líquido e guardado bem fundo debaixo do mar, em antigos campos de petróleo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tamar ka timid ilo aan dhammaan oo aan kaarboon dioksaydh sii dayn",
+            "saamiga il tamar kasta oo dal isticmaalo",
+            "koox turbines dabeyl ah oo badda dhexdeeda taagan",
+            "wax kaarboon dioksaydh hawada ka qaada oo kaydiya",
+            "beeridda keymo cusub meelo aan hore keymo lahayn",
+            "qabashada kaarboon dioksaydh warshad koronto oo dhulka hoostiisa lagu kaydiyo"
+          ],
+          "passage": [
+            "Mitigation macnaheedu waa gooynta sababaha isbeddelka cimilada.",
+            "Sababta ugu weyn waa gubidda shidaalka fosil ee tamarta.",
+            "Markaa tallaabada koowaad waa in korontada si kale loo sameeyo.",
+            "Tamarta dabeysha, qorraxda, mawjadaha, biyaha iyo geothermal kaarboon dioksaydh ma sii dayso.",
+            "1980-kii, shidaalka fosil wuxuu sameeyay 91 boqolkiiba tamarta Boqortooyada Midowday.",
+            "2015-kii taasi waxay hoos u dhacday ilaa 50 boqolkiiba.",
+            "Beerta dabeysha ee Thanet, oo Margate ee Kent ka baxsan, waxay leedahay 100 turbine.",
+            "Waxay samaysaa koronto ku filan qiyaastii 220 000 oo guri sanadkii.",
+            "Geeduhu waa carbon sinks: kaarboon dioksaydh ayay nuugaan markay koraan oo kaarboonka way kaydiyaan.",
+            "Keyntu waxay qarisay 5 boqolkiiba Boqortooyada Midowday 1920-kii iyo 13 boqolkiiba 2020-kii.",
+            "Carbon capture waxay kaarboon dioksaydh ka qabataa warshad koronto intaanu hawada gaarin.",
+            "Gaaska waxaa dareere laga dhigaa oo waxaa lagu kaydiyaa badda hoosta fog ee beeraha saliidda duugoobay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "енергія з джерел, які не закінчуються і не випускають вуглекислого газу (renewable energy)",
+            "частка кожного джерела енергії, яку використовує країна (energy mix)",
+            "група вітрових турбін, що стоять у морі (offshore wind farm)",
+            "те, що забирає вуглекислий газ із повітря і зберігає його (carbon sink)",
+            "висаджування нових лісів там, де їх не було (afforestation)",
+            "уловлювання вуглекислого газу з електростанції і його зберігання під землею (carbon capture)"
+          ],
+          "passage": [
+            "Мітигація означає скорочення причин зміни клімату.",
+            "Найбільша причина — спалювання викопного палива для енергії.",
+            "Тому перший крок — виробляти електроенергію інакше.",
+            "Вітрова, сонячна, припливна, гідроелектрична і геотермальна енергія не випускають вуглекислого газу.",
+            "У 1980 році викопне паливо давало 91 відсоток енергії Об’єднаного Королівства.",
+            "До 2015 року це впало до 50 відсотків.",
+            "Морська вітрова ферма Thanet біля Маргейта в Кенті має 100 турбін.",
+            "Вона виробляє достатньо електроенергії приблизно для 220 000 домівок на рік.",
+            "Дерева — це поглиначі вуглецю (carbon sinks): вони вбирають вуглекислий газ, коли ростуть, і зберігають вуглець.",
+            "Ліс покривав 5 відсотків Об’єднаного Королівства у 1920 році і 13 відсотків у 2020 році.",
+            "Уловлювання вуглецю (carbon capture) ловить вуглекислий газ з електростанції, перш ніж він потрапить у повітря.",
+            "Газ перетворюють на рідину і зберігають глибоко під морем у старих нафтових родовищах."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسے ذریعوں سے توانائی جو ختم نہ ہوں اور کاربن ڈائی آکسائیڈ نہ چھوڑیں (renewable energy)",
+            "کوئی ملک توانائی کے ہر ذریعے کا کتنا حصہ استعمال کرتا ہے (energy mix)",
+            "سمندر میں کھڑے wind turbines کا ایک گروہ (offshore wind farm)",
+            "وہ چیز جو ہوا سے کاربن ڈائی آکسائیڈ لے کر اپنے اندر رکھ لے (carbon sink)",
+            "ایسی جگہوں پر نئے جنگل لگانا جہاں پہلے جنگل نہ تھے (afforestation)",
+            "بجلی گھر سے کاربن ڈائی آکسائیڈ پکڑ کر زمین کے نیچے جمع کرنا (carbon capture)"
+          ],
+          "passage": [
+            "mitigation کا مطلب climate change کے اسباب کم کرنا ہے۔",
+            "سب سے بڑا سبب توانائی کے لیے fossil fuels جلانا ہے۔",
+            "اس لیے پہلا قدم یہ ہے کہ بجلی کسی اور طریقے سے بنائی جائے۔",
+            "ہوا، شمسی، جوار بھاٹا، hydro-electric اور geothermal بجلی کاربن ڈائی آکسائیڈ نہیں چھوڑتیں۔",
+            "1980 میں برطانیہ کی توانائی کا 91 فیصد fossil fuels سے بنتا تھا۔",
+            "2015 تک یہ 50 فیصد پر آ گیا۔",
+            "کینٹ میں Margate کے قریب Thanet کے offshore wind farm میں 100 turbines ہیں۔",
+            "یہ سال میں تقریباً 220 000 گھروں کے لیے کافی بجلی بناتا ہے۔",
+            "درخت carbon sinks ہیں: وہ بڑھتے ہوئے کاربن ڈائی آکسائیڈ لیتے ہیں اور کاربن اپنے اندر رکھ لیتے ہیں۔",
+            "1920 میں برطانیہ کے 5 فیصد حصے پر جنگل تھا اور 2020 میں 13 فیصد پر۔",
+            "carbon capture، بجلی گھر سے نکلنے والی کاربن ڈائی آکسائیڈ کو ہوا تک پہنچنے سے پہلے پکڑ لیتی ہے۔",
+            "یہ گیس مائع میں بدل کر سمندر کے نیچے پرانے تیل کے ذخیروں میں گہرائی میں رکھ دی جاتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Alternative energy and the UK's energy mix",
@@ -1176,8 +1940,162 @@ window.ASTRA_UNITS["geog-climate-change"] = {
           "The Maldives has built sea walls, including a 3 m wall around its capital.",
           "The Thames Barrier protects London, and its defences are being raised.",
           "Adaptation protects people now, while mitigation works on the causes."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تغيير طريقة حياتنا لنتعامل مع تغيّر المناخ (adaptation)",
+            "نوع الزراعة في مكان ما والمحاصيل التي تُزرع فيه (agricultural system)",
+            "إزالة الملح من ماء البحر لصنع ماء عذب (desalination)",
+            "بحيرة صناعية كبيرة تخزّن الماء (reservoir)",
+            "نقل الماء من منطقة عندها كثير إلى منطقة عندها نقص (water transfer)",
+            "سدّ يُبنى عبر مصبّ النهر كلّه ليحجز البحر (barrage)"
+          ],
+          "passage": [
+            "التكيّف يعني الاستجابة لتغيّر المناخ، لا إيقافه.",
+            "وهناك ثلاث طرق رئيسة للتكيّف.",
+            "فالأولى تغيير الزراعة.",
+            "فالأرزّ ينمو في الأماكن الحارّة الرطبة، والشوفان ينمو في الأبرد منها.",
+            "وكلّما دَفِئ المناخ غيّر المزارعون ما يزرعون، فالعنب ينمو اليوم في ويست سسكس (West Sussex).",
+            "والثانية إدارة مَورد الماء كلّما صار الجفاف أكثر شيوعًا.",
+            "فالبلدان تستخدم الماء بعناية أكثر وتبني خزّانات وتنقل الماء من المناطق الرطبة إلى الجافّة.",
+            "وفي بيكتون (Beckton) على مصبّ التيمز يُزيل مصنع الملح من ماء النهر.",
+            "والثالثة تقليل خطر ارتفاع مستوى سطح البحر.",
+            "وجزر المالديف بنت جُدُرًا بحرية، منها جدار بارتفاع 3 أمتار حول عاصمتها.",
+            "وحاجز التيمز (Thames Barrier) يحمي لندن، ودفاعاته تُرفَع اليوم.",
+            "والتكيّف يحمي الناس اليوم، أمّا التخفيف فيعمل على الأسباب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zmienianie tego, jak żyjemy, żeby poradzić sobie ze zmianą klimatu (adaptation)",
+            "rodzaj rolnictwa w danym miejscu i rośliny, które się tam uprawia (agricultural system)",
+            "usuwanie soli z wody morskiej, żeby zrobić wodę słodką (desalination)",
+            "duże sztuczne jezioro, które magazynuje wodę (reservoir)",
+            "przesyłanie wody z regionu, gdzie jest jej dużo, do regionu, gdzie jej brakuje (water transfer)",
+            "zapora zbudowana w poprzek całego estuarium, żeby powstrzymać morze (barrage)"
+          ],
+          "passage": [
+            "Adaptacja znaczy odpowiadanie na zmianę klimatu, a nie zatrzymywanie jej.",
+            "Są trzy główne sposoby przystosowania się.",
+            "Pierwszy to zmiana rolnictwa.",
+            "Ryż rośnie w miejscach gorących i wilgotnych, a owies w chłodniejszych.",
+            "W miarę ocieplania się klimatu rolnicy zmieniają to, co uprawiają, i winorośl rośnie teraz w West Sussex.",
+            "Drugi to zarządzanie dostawami wody, bo susze zdarzają się coraz częściej.",
+            "Kraje gospodarują wodą uważniej, budują zbiorniki i przesyłają wodę z obszarów wilgotnych do suchych.",
+            "W Beckton, nad estuarium Tamizy, zakład usuwa sól z wody rzecznej.",
+            "Trzeci to zmniejszanie ryzyka od podnoszącego się poziomu morza.",
+            "Malediwy zbudowały mury nadmorskie, w tym mur wysoki na 3 m wokół swojej stolicy.",
+            "Thames Barrier chroni Londyn, a jego zabezpieczenia są podnoszone.",
+            "Adaptacja chroni ludzi teraz, a łagodzenie pracuje nad przyczynami."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "mudar a maneira como vivemos para lidar com as mudanças climáticas (adaptation, adaptação)",
+            "o tipo de agricultura de um lugar e as culturas que lá se cultivam (agricultural system, sistema agrícola)",
+            "retirar o sal da água do mar para fazer água doce (desalination, dessalinização)",
+            "um grande lago artificial que guarda água (reservoir, reservatório/represa)",
+            "levar água de uma região com muita para uma região com falta (water transfer, transferência de água)",
+            "uma barreira construída de lado a lado de um estuário para travar o mar (barrage)"
+          ],
+          "passage": [
+            "Adaptação quer dizer responder às mudanças climáticas, não travá-las.",
+            "Há três maneiras principais de nos adaptarmos.",
+            "A primeira é mudar a agricultura.",
+            "O arroz cresce em lugares quentes e húmidos/úmidos, e a aveia cresce em lugares mais frescos.",
+            "À medida que o clima aquece, os agricultores mudam o que cultivam, e já há vinhas a crescer em West Sussex.",
+            "A segunda é gerir o fornecimento de água, à medida que as secas ficam mais frequentes.",
+            "Os países usam a água com mais cuidado, constroem reservatórios/represas e levam água das áreas chuvosas para as secas.",
+            "Em Beckton, no estuário do Tamisa, uma estação retira o sal da água do rio.",
+            "A terceira é reduzir o risco da subida do nível do mar.",
+            "As Maldivas construíram muros do mar, incluindo um muro de 3 m em volta da sua capital.",
+            "A Barreira do Tamisa (Thames Barrier) protege Londres, e as suas defesas estão a ser levantadas.",
+            "A adaptação protege as pessoas agora, enquanto a mitigação trabalha nas causas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "beddelidda sida aan u noolnahay si aan isbeddelka cimilada ula qabsanno",
+            "nooca beeridda meel iyo dalagga ay beerto",
+            "ka saaridda cusbada biyaha badda si biyo macaan loo sameeyo",
+            "haro weyn oo la dhisay oo biyo kaydisa",
+            "u raridda biyaha gobol ay ka badan yihiin ilaa gobol ay ka yar yihiin",
+            "xanniban oo af webi oo dhan laga dhisay si baddu dib loo hayo"
+          ],
+          "passage": [
+            "Adaptation macnaheedu waa ka jawaabidda isbeddelka cimilada, ma aha joojintiisa.",
+            "Saddex siyaabo waaweyn ayaa jira oo lagu la qabsado.",
+            "Tan koowaad waa in beeridda la beddelo.",
+            "Bariisku wuxuu ku baxaa meelo kulul oo qoyan, oats-kuna meelo ka qabow.",
+            "Marka cimiladu kululaato, beeraleydu waxay beddelaan waxa ay beertaan, canabkuna hadda West Sussex ayuu ka baxaa.",
+            "Tan labaad waa in sahayda biyaha la maareeyo marka abaartu sii caan noqonayso.",
+            "Dalalku biyaha si taxaddar leh ayay u isticmaalaan, berkedo way dhisaan oo biyo waxay ka raraan meelaha qoyan ilaa kuwa qalalan.",
+            "Beckton, oo ku taal Thames Estuary, warshad ayaa cusbada ka saarta biyaha webiga.",
+            "Tan saddexaad waa in khatarta kor u kaca heerka badda la yareeyo.",
+            "Maldives waxay dhistay darbiyo badda, oo ay ku jiro darbi 3 m ah oo caasimaddeeda ku wareegsan.",
+            "Thames Barrier waxay ilaalisaa London, difaacyadeedana kor loo qaadayaa.",
+            "Adaptation waxay dadka hadda ilaalisaa, halka mitigation uu sababaha ka shaqeeyo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "зміна того, як ми живемо, щоб давати раду зі зміною клімату (adaptation)",
+            "вид господарства в якомусь місці і культури, які воно вирощує (agricultural system)",
+            "видалення солі з морської води, щоб отримати свіжу воду (desalination)",
+            "велике штучне озеро, яке зберігає воду (reservoir)",
+            "перекидання води з регіону, де її багато, до регіону, де її брак (water transfer)",
+            "загорожа, побудована через усе устя річки, щоб стримувати море (barrage)"
+          ],
+          "passage": [
+            "Адаптація означає відповідь на зміну клімату, а не її припинення.",
+            "Є три головні способи адаптуватися.",
+            "Перший — змінити господарство.",
+            "Рис росте в гарячих, вологих місцях, а овес росте в прохолодніших.",
+            "Що тепліше стає клімат, то більше фермери змінюють те, що вирощують, і виноград тепер росте в Західному Сассексі.",
+            "Другий — керувати постачанням води, бо засухи стають частішими.",
+            "Країни використовують воду обережніше, будують водосховища і перекидають воду з вологих районів у сухі.",
+            "У Бектоні (Beckton) на Темзькому усті завод видаляє сіль із річкової води.",
+            "Третій — зменшити ризик від підняття рівня моря.",
+            "Мальдіви побудували захисні стіни від моря, зокрема стіну 3 m навколо своєї столиці.",
+            "Бар’єр на Темзі (Thames Barrier) захищає Лондон, і його укріплення нарощують.",
+            "Адаптація захищає людей зараз, а мітигація працює над причинами."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "climate change سے نمٹنے کے لیے اپنے رہنے سہنے کے طریقے بدلنا (adaptation)",
+            "کسی جگہ کی کھیتی کی قسم اور وہاں اگنے والی فصلیں (agricultural system)",
+            "سمندری پانی سے نمک نکال کر میٹھا پانی بنانا (desalination)",
+            "پانی جمع کرنے کے لیے بنائی گئی ایک بڑی مصنوعی جھیل (reservoir)",
+            "پانی کو اُس علاقے سے، جہاں بہت ہے، اُس علاقے میں لے جانا جہاں کمی ہے (water transfer)",
+            "دریا کے دہانے کے آڑے بنا وہ بند جو سمندر کو روکتا ہے (barrage)"
+          ],
+          "passage": [
+            "adaptation کا مطلب climate change کا جواب دینا ہے، اسے روکنا نہیں۔",
+            "ڈھلنے کے تین بڑے طریقے ہیں۔",
+            "پہلا یہ کہ کھیتی بدلی جائے۔",
+            "چاول گرم، نم جگہوں پر اگتا ہے، اور oats ٹھنڈی جگہوں پر۔",
+            "جیسے جیسے climate گرم ہوتا ہے، کسان اپنی فصلیں بدل لیتے ہیں، اور اب West Sussex میں انگور کی بیلیں اگتی ہیں۔",
+            "دوسرا یہ کہ قحط عام ہوتے جانے کے ساتھ پانی کی رسد کو سنبھالا جائے۔",
+            "ملک پانی زیادہ احتیاط سے استعمال کرتے ہیں، reservoirs بناتے ہیں اور گیلے علاقوں سے خشک علاقوں تک پانی لے جاتے ہیں۔",
+            "Thames Estuary پر Beckton میں ایک پلانٹ دریا کے پانی سے نمک نکالتا ہے۔",
+            "تیسرا یہ کہ سمندر کی بلند ہوتی سطح کا خطرہ کم کیا جائے۔",
+            "مالدیپ نے سمندری دیواریں بنائی ہیں، جن میں اس کے دارالحکومت کے گرد 3 m کی دیوار بھی شامل ہے۔",
+            "Thames Barrier لندن کی حفاظت کرتا ہے، اور اس کے دفاع کو اونچا کیا جا رہا ہے۔",
+            "adaptation لوگوں کو ابھی بچاتی ہے، جبکہ mitigation اسباب پر کام کرتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Changing agricultural systems",

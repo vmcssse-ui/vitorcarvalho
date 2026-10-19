@@ -121,8 +121,174 @@ window.ASTRA_UNITS["geog-urban"] = {
           "A city with more than 10 million people is a megacity.",
           "In 1950 there were only three megacities.",
           "By 2014 there were 28."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ما يتعلّق بالبلدات والمدن (urban)",
+            "ما يتعلّق بالريف (rural)",
+            "أن يزيد نصيب الناس العائشين في البلدات والمدن (urbanisation)",
+            "شيء يجعل الناس يريدون مغادرة مكان ما (push factor)",
+            "شيء يجذب الناس إلى مكان ما (pull factor)",
+            "مدينة فيها أكثر من 10 ملايين نسمة (megacity)"
+          ],
+          "passage": [
+            "يعيش في البلدات والمدن عدد من أهل العالم يزداد باستمرار.",
+            "وفي 1800 لم يكن يعيش في المناطق الحضرية إلّا نحو 3% من الناس.",
+            "وبحلول 2014 صارت النسبة 54%، أي أكثر من النصف.",
+            "وبحلول 2050 يُتوقّع أن تبلغ 66%.",
+            "ويُسمّى هذا التغيّر التحضّر (urbanisation).",
+            "والمدن تكبر لسببين.",
+            "فالناس يأتون إليها من الريف، تدفعهم المشقّة ويجذبهم العمل.",
+            "وفي المدن ولادات أكثر من الوفيات، ويُسمّى هذا الزيادة الطبيعية.",
+            "وأسرع نموّ اليوم في آسيا وأفريقيا.",
+            "ولاغوس (Lagos) في نيجيريا تكسب نحو 85 شخصًا كلّ ساعة.",
+            "والمدينة التي فيها أكثر من 1 مليون نسمة مدينة مليونية.",
+            "والمدينة التي فيها أكثر من 10 ملايين نسمة مدينة عظمى.",
+            "وفي 1950 لم يكن هناك إلّا ثلاث مدن عظمى.",
+            "وبحلول 2014 صار عددها 28."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "dotyczący miasteczek i miast (urban)",
+            "dotyczący wsi (rural)",
+            "rosnący udział ludzi mieszkających w miasteczkach i miastach (urbanisation)",
+            "coś, co sprawia, że ludzie chcą opuścić jakieś miejsce (push factor)",
+            "coś, co przyciąga ludzi do jakiegoś miejsca (pull factor)",
+            "miasto, w którym mieszka więcej niż 10 milionów ludzi (megacity)"
+          ],
+          "passage": [
+            "Coraz więcej ludzi na świecie mieszka w miasteczkach i miastach.",
+            "W 1800 roku tylko około 3% ludzi mieszkało na obszarach miejskich.",
+            "Do roku 2014 było to 54%, czyli więcej niż połowa.",
+            "Do roku 2050 ma to sięgnąć 66%.",
+            "Tę zmianę nazywamy urbanizacją (urbanisation).",
+            "Miasta rosną z dwóch powodów.",
+            "Ludzie przenoszą się ze wsi, wypychani biedą i przyciągani pracą.",
+            "A w miastach rodzi się więcej ludzi, niż umiera, co nazywamy przyrostem naturalnym.",
+            "Najszybszy wzrost jest dziś w Azji i w Afryce.",
+            "Lagos w Nigerii zyskuje około 85 osób na godzinę.",
+            "Miasto, w którym mieszka więcej niż 1 milion ludzi, to miasto milionowe.",
+            "Miasto, w którym mieszka więcej niż 10 milionów ludzi, to megamiasto.",
+            "W 1950 roku były tylko trzy megamiasta.",
+            "Do roku 2014 było ich 28."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "que tem a ver com as vilas e as cidades (urban, urbano)",
+            "que tem a ver com o campo (rural)",
+            "uma parte cada vez maior das pessoas a viver em vilas e cidades (urbanisation, urbanização)",
+            "algo que faz as pessoas quererem sair de um lugar (push factor)",
+            "algo que atrai as pessoas a um lugar (pull factor)",
+            "uma cidade com mais de 10 milhões de pessoas (megacity, megacidade)"
+          ],
+          "passage": [
+            "Cada vez mais pessoas do mundo vivem em vilas e cidades.",
+            "Em 1800, só cerca de 3% das pessoas viviam em áreas urbanas.",
+            "Em 2014 eram 54%, mais de metade.",
+            "Espera-se que em 2050 cheguem aos 66%.",
+            "A esta mudança chama-se urbanização (urbanisation).",
+            "As cidades crescem por duas razões.",
+            "Há pessoas que vêm do campo, empurradas pelas dificuldades e atraídas pelos empregos.",
+            "E as cidades têm mais nascimentos do que mortes, a que se chama crescimento natural.",
+            "O crescimento mais rápido de hoje é na Ásia e na África.",
+            "Lagos, na Nigéria, ganha cerca de 85 pessoas por hora.",
+            "Uma cidade com mais de 1 milhão de pessoas é uma cidade milionária.",
+            "Uma cidade com mais de 10 milhões de pessoas é uma megacidade.",
+            "Em 1950 havia só três megacidades.",
+            "Em 2014 já havia 28."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waxa la xiriira magaalooyinka yaryar iyo waaweyn",
+            "waxa la xiriira miyiga",
+            "qayb sii kordhaysa oo dad ah oo magaalooyinka ku nool",
+            "wax ka dhigaya in dadku doonaan inay meel ka tagaan",
+            "wax dadka meel u soo jiita",
+            "magaalo leh in ka badan 10 milyan oo qof"
+          ],
+          "passage": [
+            "Dadka dunida ayaa sii kordhaya oo magaalooyinka yaryar iyo waaweyn ku nool.",
+            "1800-kii, qiyaastii 3% dadka oo keliya waxay ku noolaayeen meelaha magaalada.",
+            "2014-kii waxay noqday 54%, oo ka badan nus.",
+            "2050-kii waxaa la filayaa inay gaarto 66%.",
+            "Isbeddelkan waxaa la yiraahdaa urbanisation.",
+            "Magaalooyinku laba sababood ayay u kordhaan.",
+            "Dadku miyiga ayay ka soo guuraan, adkaantu way riixdaa, shaqaduna way soo jiidataa.",
+            "Magaalooyinkuna dhalasho badan ayay leeyihiin marka loo eego dhimasho, taasina waxaa la yiraahdaa natural increase.",
+            "Korodhka ugu dhaqsiyaha badan maanta waa Aasiya iyo Afrika.",
+            "Lagos ee Nigeria waxay saacad kasta heshaa qiyaastii 85 qof.",
+            "Magaalada leh in ka badan 1 milyan oo qof waa millionaire city.",
+            "Magaalada leh in ka badan 10 milyan oo qof waa megacity.",
+            "1950-kii waxaa jiray saddex megacity oo keliya.",
+            "2014-kii waxaa jiray 28."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що стосується містечок і міст (urban)",
+            "те, що стосується села (rural)",
+            "зростання частки людей, які живуть у містечках і містах (urbanisation)",
+            "те, що змушує людей хотіти покинути місце (push factor)",
+            "те, що притягує людей до якогось місця (pull factor)",
+            "місто, у якому понад 10 мільйонів людей (megacity)"
+          ],
+          "passage": [
+            "Усе більше людей світу живе в містечках і містах.",
+            "У 1800 році лише близько 3% людей жили в міських районах.",
+            "До 2014 року це було 54%, більше ніж половина.",
+            "До 2050 року, як очікують, це досягне 66%.",
+            "Цю зміну називають урбанізацією.",
+            "Міста зростають із двох причин.",
+            "Люди переїжджають із села, виштовхані злиднями і притягнуті роботою.",
+            "А ще в містах більше народжень, ніж смертей, і це називають природним приростом.",
+            "Найшвидше зростання сьогодні — в Азії та Африці.",
+            "Лагос (Lagos) у Нігерії прибавляє близько 85 людей щогодини.",
+            "Місто, у якому понад 1 мільйон людей, — це місто-мільйонник.",
+            "Місто, у якому понад 10 мільйонів людей, — це мегаполіс (megacity).",
+            "У 1950 році було лише три мегаполіси.",
+            "До 2014 року їх було 28."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "قصبوں اور شہروں سے متعلق (urban)",
+            "دیہات سے متعلق (rural)",
+            "قصبوں اور شہروں میں رہنے والے لوگوں کے حصے کا بڑھنا (urbanisation)",
+            "وہ چیز جو لوگوں کو کسی جگہ چھوڑنے پر مائل کرے (push factor)",
+            "وہ چیز جو لوگوں کو کسی جگہ کی طرف کھینچے (pull factor)",
+            "ایک کروڑ سے زیادہ لوگوں کا شہر (megacity)"
+          ],
+          "passage": [
+            "دنیا کے زیادہ سے زیادہ لوگ قصبوں اور شہروں میں رہتے ہیں۔",
+            "1800 میں صرف تقریباً 3% لوگ urban علاقوں میں رہتے تھے۔",
+            "2014 تک یہ 54% ہو گئے، یعنی آدھے سے زیادہ۔",
+            "2050 تک اس کے 66% تک پہنچنے کی توقع ہے۔",
+            "اس تبدیلی کو urbanisation کہتے ہیں۔",
+            "شہر دو وجہوں سے بڑھتے ہیں۔",
+            "لوگ دیہات سے شہر آ جاتے ہیں، تنگی انھیں دھکیلتی ہے اور روزگار انھیں کھینچتا ہے۔",
+            "اور شہروں میں پیدائشیں موتوں سے زیادہ ہوتی ہیں، جسے natural increase کہتے ہیں۔",
+            "آج سب سے تیز بڑھوتری ایشیا اور افریقہ میں ہے۔",
+            "نائجیریا کے شہر لاگوس (Lagos) میں ہر گھنٹے تقریباً 85 لوگ بڑھ جاتے ہیں۔",
+            "دس لاکھ سے زیادہ لوگوں کا شہر millionaire city کہلاتا ہے۔",
+            "ایک کروڑ سے زیادہ لوگوں کا شہر megacity کہلاتا ہے۔",
+            "1950 میں صرف تین megacities تھیں۔",
+            "2014 تک 28 ہو گئیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A world that is moving to the city",
@@ -328,8 +494,156 @@ window.ASTRA_UNITS["geog-urban"] = {
           "Rio also offers economic opportunities: jobs.",
           "The largest steelworks in South America is at Sepetiba, in Rio.",
           "It gives work in manufacturing, construction, sales and cleaning."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "اقتصاد ناشئ حديثًا: بلد يزداد غنًى بسرعة، كالبرازيل (NEE)",
+            "فرصة لتحسين جودة الحياة (social opportunity)",
+            "فرصة لكسب المال بعمل ما (economic opportunity)",
+            "مصنع يُصنع فيه الفولاذ (steelworks)",
+            "النقطة والدليل والشرح والربط: طريقة لبناء فقرة (PEEL)"
+          ],
+          "passage": [
+            "ريو دي جانيرو (Rio de Janeiro) مدينة في البرازيل، في أمريكا الجنوبية.",
+            "وهي تقع على الساحل الجنوبي الشرقي للبرازيل، إلى جانب المحيط الأطلسي.",
+            "وتقع شمال مدار الجدي بقليل.",
+            "والبرازيل اقتصاد ناشئ حديثًا، أي NEE.",
+            "وقد كبرت ريو لأنّ الناس انتقلوا إليها من الريف.",
+            "وكثير منهم جاء من الأمازون ومن شمال شرق البرازيل الذي أصابه الجفاف.",
+            "وكانوا يرجون حياةً أفضل في المدينة.",
+            "وريو تعرض فرصًا اجتماعية: الرعاية الصحّية والتعليم والماء والطاقة.",
+            "وفي ريو ستّة مستشفيات، فالوصول إلى الرعاية الصحّية فيها أسهل منه في المناطق الريفية.",
+            "وريو تعرض أيضًا فرصًا اقتصادية: أي الأعمال.",
+            "وأكبر مصنع للفولاذ في أمريكا الجنوبية في سيبيتيبا (Sepetiba) في ريو.",
+            "وهو يعطي عملًا في الصناعة والبناء والبيع والتنظيف."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "nowa, wschodząca gospodarka: kraj szybko się bogacący, taki jak Brazylia (NEE)",
+            "szansa na poprawę jakości życia (social opportunity)",
+            "szansa na zarobek w pracy (economic opportunity)",
+            "zakład, w którym wytwarza się stal",
+            "Point, Evidence, Explanation, Link: sposób budowania akapitu (PEEL)"
+          ],
+          "passage": [
+            "Rio de Janeiro to miasto w Brazylii, w Ameryce Południowej.",
+            "Leży na południowo-wschodnim wybrzeżu Brazylii, nad Oceanem Atlantyckim.",
+            "Leży trochę na północ od Zwrotnika Koziorożca.",
+            "Brazylia jest nową, wschodzącą gospodarką, czyli NEE.",
+            "Rio wyrosło, bo ludzie przenosili się tam ze wsi.",
+            "Wielu przybyło z Amazonii i z nawiedzanego suszą północno-wschodniego krańca Brazylii.",
+            "Liczyli na lepsze życie w mieście.",
+            "Rio daje możliwości społeczne: opiekę zdrowotną, edukację, wodę i energię.",
+            "W Rio jest sześć szpitali, więc opieka zdrowotna jest łatwiej dostępna niż na wsi.",
+            "Rio daje też możliwości gospodarcze: pracę.",
+            "Największa stalownia w Ameryce Południowej stoi w Sepetibie, w Rio.",
+            "Daje pracę w produkcji, budownictwie, sprzedaży i sprzątaniu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma economia emergente: um país que está a enriquecer / enriquecendo depressa, como o Brasil (NEE)",
+            "uma oportunidade de melhorar a qualidade de vida (social opportunity)",
+            "uma oportunidade de ganhar dinheiro com um emprego (economic opportunity)",
+            "uma fábrica onde se faz aço (steelworks, siderúrgica)",
+            "Point, Evidence, Explanation, Link: uma maneira de construir um parágrafo (PEEL)"
+          ],
+          "passage": [
+            "O Rio de Janeiro é uma cidade do Brasil, na América do Sul.",
+            "Fica na costa sudeste do Brasil, ao lado do oceano Atlântico.",
+            "Fica logo a norte do Trópico de Capricórnio.",
+            "O Brasil é uma economia emergente, ou NEE.",
+            "O Rio cresceu porque houve pessoas que se mudaram para lá, vindas do campo.",
+            "Muitas vieram da Amazonia (Amazónia/Amazônia) e do nordeste do Brasil, castigado pela seca.",
+            "Esperavam uma vida melhor na cidade.",
+            "O Rio oferece oportunidades sociais: saúde, educação, água e energia.",
+            "O Rio tem seis hospitais, por isso os cuidados de saúde ficam mais perto do que nas áreas rurais.",
+            "O Rio também oferece oportunidades económicas/econômicas: empregos.",
+            "A maior siderúrgica da América do Sul fica em Sepetiba, no Rio.",
+            "Dá trabalho na indústria, na construção, nas vendas e na limpeza."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhaqaale cusub oo soo koraya: dal si dhaqso ah u sii hodmaya, sida Brazil",
+            "fursad lagu wanaajiyo tayada nolosha",
+            "fursad lacag lagu kasbado shaqo",
+            "warshad birta lagu sameeyo",
+            "Point, Evidence, Explanation, Link: hab cutub lagu dhiso"
+          ],
+          "passage": [
+            "Rio de Janeiro waa magaalo ku taal Brazil, oo ah Koonfurta Ameerika.",
+            "Waxay ku fadhidaa xeebta koonfur-bari ee Brazil, oo Badweynta Atlantic ku xigta.",
+            "Waxay ku taal waqooyiga Tropic of Capricorn.",
+            "Brazil waa dhaqaale cusub oo soo koraya, ama NEE.",
+            "Rio way kortay maxaa yeelay dad ayaa miyiga uga soo guuray.",
+            "Qaar badan waxay ka yimaaddeen Amazonia iyo waqooyi-barigii abaartu saamaysay ee Brazil.",
+            "Waxay rajeeyeen nolol ka fiican magaalada.",
+            "Rio waxay bixisaa fursado bulsho: daryeel caafimaad, waxbarasho, biyo iyo tamar.",
+            "Rio waxay leedahay lix isbitaal, markaa daryeelka caafimaadka si fudud looga helaa marka loo eego miyiga.",
+            "Rio sidoo kale waxay bixisaa fursado dhaqaale: shaqo.",
+            "Warshadda birta ugu weyn Koonfurta Ameerika waxay ku taal Sepetiba, ee Rio.",
+            "Waxay shaqo siisaa warshadeyn, dhisme, iibin iyo nadiifin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "нова економіка, що виникає: країна, яка швидко багатіє, як Бразилія (NEE)",
+            "можливість поліпшити якість життя (social opportunity)",
+            "можливість заробити гроші роботою (economic opportunity)",
+            "завод, де виробляють сталь (steelworks)",
+            "Point, Evidence, Explanation, Link: спосіб побудувати абзац (PEEL)"
+          ],
+          "passage": [
+            "Ріо-де-Жанейро — місто в Бразилії, у Південній Америці.",
+            "Воно лежить на південно-східному узбережжі Бразилії, біля Атлантичного океану.",
+            "Воно розташоване трохи на північ від тропіка Козерога.",
+            "Бразилія — це нова економіка, що виникає, або NEE.",
+            "Ріо зросло, бо люди переїжджали туди з села.",
+            "Багато хто приїхав з Амазонії та з ураженого засухою північного сходу Бразилії.",
+            "Вони сподівалися на краще життя в місті.",
+            "Ріо дає соціальні можливості: охорону здоров’я, освіту, воду й енергію.",
+            "У Ріо шість лікарень, тому дістатися до медичної допомоги легше, ніж у сільських районах.",
+            "Ріо також дає економічні можливості: роботу.",
+            "Найбільший сталеливарний завод у Південній Америці — у Сепетібі, в Ріо.",
+            "Він дає роботу у виробництві, будівництві, торгівлі та прибиранні."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "نئی ابھرتی ہوئی معیشت: وہ ملک جو تیزی سے امیر ہو رہا ہے، جیسے برازیل (NEE)",
+            "معیارِ زندگی بہتر بنانے کا موقع (social opportunity)",
+            "روزگار کے ذریعے پیسے کمانے کا موقع (economic opportunity)",
+            "وہ کارخانہ جہاں فولاد بنتا ہے (steelworks)",
+            "Point, Evidence, Explanation, Link: پیراگراف بنانے کا ایک طریقہ (PEEL)"
+          ],
+          "passage": [
+            "ریو ڈی جنیرو (Rio de Janeiro) جنوبی امریکہ کے ملک برازیل کا ایک شہر ہے۔",
+            "یہ برازیل کے جنوب مشرقی ساحل پر، بحرِ اوقیانوس کے کنارے ہے۔",
+            "یہ Tropic of Capricorn سے ذرا شمال میں ہے۔",
+            "برازیل ایک نئی ابھرتی ہوئی معیشت، یعنی NEE ہے۔",
+            "ریو اس لیے بڑھا کہ لوگ دیہات سے وہاں منتقل ہوئے۔",
+            "بہت سے لوگ امیزونیا (Amazonia) سے اور برازیل کے قحط زدہ شمال مشرق سے آئے۔",
+            "انھیں شہر میں بہتر زندگی کی امید تھی۔",
+            "ریو social opportunities دیتا ہے: صحت کی دیکھ بھال، تعلیم، پانی اور توانائی۔",
+            "ریو میں چھ ہسپتال ہیں، اس لیے صحت کی دیکھ بھال دیہی علاقوں کے مقابلے میں زیادہ آسانی سے ملتی ہے۔",
+            "ریو economic opportunities بھی دیتا ہے: یعنی روزگار۔",
+            "جنوبی امریکہ کا سب سے بڑا steelworks ریو کے Sepetiba میں ہے۔",
+            "یہ مینوفیکچرنگ، تعمیر، فروخت اور صفائی کے کام دیتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where is Rio, and why has it grown?",
@@ -540,8 +854,168 @@ window.ASTRA_UNITS["geog-urban"] = {
           "Street crime and drug gangs are a serious problem.",
           "Rapid growth and industry have polluted Rio's air, water and land.",
           "Some of its water has become anoxic: it has lost its oxygen, so fish die."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عمل لا تفرض عليه الحكومة ضريبةً ولا تراقبه (informal sector)",
+            "أعمال لها عقد وأجر منتظم وضريبة (formal sector)",
+            "وقت ينقبض فيه اقتصاد البلد وتُفقد فيه الأعمال (recession)",
+            "كهرباء تُولّد من قوّة ماء النهر الجاري (hydropower)",
+            "بلا أكسجين (anoxic)",
+            "نموّ المصانع والصناعة (industrialisation)"
+          ],
+          "passage": [
+            "المدينة سريعة النموّ تكافح لتلحق بأهلها.",
+            "ولريو أربعة تحدّيات اجتماعية: الرعاية الصحّية والتعليم وإمداد الماء وإمداد الطاقة.",
+            "فليس كلّ أحد يستطيع أن يصل إلى مستشفى أو مدرسة.",
+            "والجفاف والسكّان سريعو النموّ يعنيان أنّ الماء لا يكفي.",
+            "وكثير من كهرباء ريو يأتي من الطاقة المائية، وهي تحتاج إلى ماء النهر.",
+            "وقلّة الماء في الأنهار تعني كهرباء أقلّ.",
+            "ولريو تحدّيات اقتصادية أيضًا.",
+            "فقد أصاب اقتصاد البرازيل انقباض عميق في 2015.",
+            "وفي الفافيلات أكثر من 20% من الناس بلا عمل.",
+            "وكثير من الناس يعمل في القطاع غير النظامي (informal sector)، وأجره فيه ضعيف وغير منتظم.",
+            "وجرائم الشوارع وعصابات المخدّرات مشكلة خطيرة.",
+            "والنموّ السريع والصناعة لوّثا هواء ريو وماءها وأرضها.",
+            "وبعض ماء ريو صار عديم الأكسجين (anoxic): فقد أكسجينه، فتموت فيه الأسماك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "praca, która nie jest opodatkowana ani sprawdzana przez państwo (informal sector)",
+            "praca z umową, regularną zapłatą i podatkiem (formal sector)",
+            "czas, kiedy gospodarka kraju się kurczy i giną miejsca pracy (recession)",
+            "prąd wytwarzany z siły płynącej wody w rzece (hydropower)",
+            "bez tlenu (anoxic)",
+            "rozwój fabryk i przemysłu (industrialisation)"
+          ],
+          "passage": [
+            "Szybko rosnące miasto z trudem nadąża za swoimi mieszkańcami.",
+            "Rio ma cztery wyzwania społeczne: opiekę zdrowotną, edukację, dostawy wody i dostawy energii.",
+            "Nie każdy może dotrzeć do szpitala albo do szkoły.",
+            "Susze i szybko rosnąca liczba ludności sprawiają, że wody jest za mało.",
+            "Duża część prądu w Rio pochodzi z elektrowni wodnych (hydropower), które potrzebują wody z rzek.",
+            "Mniej wody w rzekach znaczy mniej prądu.",
+            "Rio ma też wyzwania gospodarcze.",
+            "Gospodarkę Brazylii uderzyła w 2015 roku głęboka recesja.",
+            "W fawelach bez pracy jest ponad 20% ludzi.",
+            "Wielu ludzi pracuje w szarej strefie (informal sector), gdzie zapłata jest niska i nieregularna.",
+            "Przestępczość uliczna i gangi narkotykowe są poważnym problemem.",
+            "Szybki wzrost i przemysł zanieczyściły w Rio powietrze, wodę i ziemię.",
+            "Część wody stała się beztlenowa (anoxic): straciła tlen, więc ryby giną."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "trabalho que não é taxado nem fiscalizado pelo governo (informal sector, setor informal)",
+            "empregos com contrato, salário regular e impostos (formal sector, setor formal)",
+            "um período em que a economia de um país encolhe e se perdem empregos (recession, recessão)",
+            "eletricidade feita com a força da água que corre nos rios (hydropower, energia hidroelétrica)",
+            "sem oxigénio/oxigênio (anoxic, anóxico)",
+            "o crescimento das fábricas e da indústria (industrialisation, industrialização)"
+          ],
+          "passage": [
+            "Uma cidade que cresce depressa tem dificuldade em acompanhar a sua população.",
+            "O Rio tem quatro desafios sociais: a saúde, a educação, o fornecimento de água e o fornecimento de energia.",
+            "Não é todo o mundo que consegue chegar a um hospital ou a uma escola.",
+            "As secas e uma população que cresce depressa fazem com que não haja água suficiente.",
+            "Grande parte da eletricidade do Rio vem da energia hidroelétrica, que precisa da água dos rios.",
+            "Menos água nos rios quer dizer menos eletricidade.",
+            "O Rio também tem desafios económicos/econômicos.",
+            "A economia do Brasil foi atingida por uma recessão profunda em 2015.",
+            "Nas favelas, mais de 20% das pessoas estão desempregadas.",
+            "Muitas pessoas trabalham no setor informal, onde o salário é baixo e irregular.",
+            "A criminalidade na rua e as gangues/quadrilhas da droga são um problema grave.",
+            "O crescimento rápido e a indústria poluíram o ar, a água e os solos do Rio.",
+            "Parte da sua água ficou anóxica: perdeu o oxigénio/oxigênio, por isso os peixes morrem."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "shaqo aan canshuur lahayn oo dowladdu aan hubin",
+            "shaqo qandaraas leh, mushahar joogto ah iyo canshuur",
+            "waqti dhaqaalaha dal uu yaraado oo shaqooyin lumaan",
+            "koronto laga sameeyo xoogga biyaha webiga socda",
+            "oksijiin la'aan",
+            "korodhka warshadaha iyo wax-soo-saarka"
+          ],
+          "passage": [
+            "Magaalo si dhaqso ah u korayso way ku dhibtoontaa inay dadkeeda la socoto.",
+            "Rio waxay leedahay afar caqabad bulsho: daryeel caafimaad, waxbarasho, sahay biyo iyo sahay tamar.",
+            "Qof walba ma gaari karo isbitaal ama iskuul.",
+            "Abaaruhu iyo dadweyne si dhaqso ah u koraya macnaheedu waa in biyo ku filan aanay jirin.",
+            "Inta badan korontada Rio waxay ka timaaddaa korontada biyaha (hydropower), taasoo u baahan biyaha webiga.",
+            "Biyo yar oo webiyada ku jira macnaheedu waa koronto yar.",
+            "Rio sidoo kale waxay leedahay caqabado dhaqaale.",
+            "Dhaqaalaha Brazil wuxuu la kulmay recession aad u daran 2015-kii.",
+            "Favelas-ka, in ka badan 20% dadka shaqo la'yihiin.",
+            "Dad badan waxay ka shaqeeyaan informal sector-ka, halkaasoo mushaharku liito oo aan joogto ahayn.",
+            "Dembiyada waddooyinka iyo kooxaha maandooriyaha waa dhibaato weyn.",
+            "Korodhka degdegga ah iyo warshadaha waxay wasakheeyeen hawada, biyaha iyo dhulka Rio.",
+            "Biyaheeda qaar waxay noqdeen anoxic: oksijiinkooda way lumiyeen, markaa kalluunku wuu dhintaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "робота, яка не оподатковується і не перевіряється урядом (informal sector)",
+            "робота з договором, регулярною платою і податками (formal sector)",
+            "час, коли економіка країни зменшується і люди втрачають роботу (recession)",
+            "електроенергія, вироблена силою води, що тече в річці (hydropower)",
+            "без кисню (anoxic)",
+            "зростання фабрик і промисловості (industrialisation)"
+          ],
+          "passage": [
+            "Місто, яке швидко зростає, важко встигає за своїми людьми.",
+            "Ріо має чотири соціальні проблеми: охорона здоров’я, освіта, постачання води і постачання енергії.",
+            "Не кожний може дістатися до лікарні або до школи.",
+            "Засухи і населення, що швидко зростає, означають, що води не досить.",
+            "Велика частина електроенергії Ріо походить із гідроенергетики (hydropower), якій потрібна річкова вода.",
+            "Менше води в річках означає менше електроенергії.",
+            "Ріо має також економічні проблеми.",
+            "Економіку Бразилії вдарила глибока рецесія у 2015 році.",
+            "У фавелах понад 20% людей не мають роботи.",
+            "Багато людей працює в неформальному секторі (informal sector), де плата низька і нерегулярна.",
+            "Вулична злочинність і наркобанди — серйозна проблема.",
+            "Швидке зростання і промисловість забруднили повітря, воду й землю Ріо.",
+            "Частина його води стала без кисню (anoxic): вона втратила кисень, тому риба гине."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ کام جس پر نہ ٹیکس لگتا ہے اور نہ حکومت اس کی جانچ کرتی ہے (informal sector)",
+            "وہ روزگار جس میں معاہدہ، مقررہ تنخواہ اور ٹیکس ہوتا ہے (formal sector)",
+            "وہ وقت جب کسی ملک کی معیشت سکڑ جائے اور روزگار ختم ہوں (recession)",
+            "بہتے دریائی پانی کے زور سے بنائی گئی بجلی (hydropower)",
+            "آکسیجن کے بغیر (anoxic)",
+            "کارخانوں اور صنعت کا بڑھنا (industrialisation)"
+          ],
+          "passage": [
+            "تیزی سے بڑھتا شہر اپنے لوگوں کا ساتھ دینے میں مشکل میں پڑ جاتا ہے۔",
+            "ریو کے چار social challenges ہیں: صحت کی دیکھ بھال، تعلیم، پانی کی رسد اور توانائی کی رسد۔",
+            "ہر کوئی ہسپتال یا سکول تک نہیں پہنچ سکتا۔",
+            "قحط اور تیزی سے بڑھتی آبادی کا مطلب ہے کہ پانی کافی نہیں۔",
+            "ریو کی زیادہ تر بجلی hydropower سے آتی ہے، جس کے لیے دریا کا پانی چاہیے۔",
+            "دریاؤں میں پانی کم ہو تو بجلی بھی کم ہوتی ہے۔",
+            "ریو کے economic challenges بھی ہیں۔",
+            "برازیل کی معیشت 2015 میں ایک گہری recession کا شکار ہوئی۔",
+            "favelas میں 20% سے زیادہ لوگ بے روزگار ہیں۔",
+            "بہت سے لوگ informal sector میں کام کرتے ہیں، جہاں تنخواہ کم اور بے قاعدہ ہوتی ہے۔",
+            "گلیوں کا جرم اور نشے کے گروہ ایک سنگین مسئلہ ہیں۔",
+            "تیز بڑھوتری اور صنعت نے ریو کی ہوا، پانی اور زمین کو آلودہ کر دیا ہے۔",
+            "اس کا کچھ پانی anoxic ہو گیا ہے: اس کی آکسیجن ختم ہو گئی ہے، اس لیے مچھلیاں مر جاتی ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Social challenges: four services under strain",
@@ -743,8 +1217,168 @@ window.ASTRA_UNITS["geog-urban"] = {
           "It has brought new local health centres and other services.",
           "Some people say favelas should be demolished.",
           "Others say they are people's homes and communities."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الاسم البرازيلي لمستقرّة المستقطنين، أي حيّ الصفيح في المدينة أو قربها (favela)",
+            "بيوت يبنيها الناس على أرض لا يملكونها ولا يستأجرونها (squatter settlement)",
+            "خدمات أساسية كالماء الجاري والمراحيض والكهرباء (amenities)",
+            "انتقال الناس من الريف إلى المدينة (rural-urban migration)",
+            "اعرض الوجهين ثم اخلُص إلى حكم (evaluate)"
+          ],
+          "passage": [
+            "الفافيلا (favela) حيّ صفيح، أي حيّ فقير، في المدينة أو قربها.",
+            "والناس يبنون بيوتهم فيها من موادّ بسيطة على أرض لا يملكونها ولا يستأجرونها.",
+            "ونحو 25% من أهل ريو يعيشون في الفافيلات.",
+            "وأكبر فافيلا في ريو تُسمّى روسينيا (Rocinha).",
+            "والفافيلات تكبر بسبب الهجرة من الريف إلى المدينة.",
+            "فالناس يصلون من الأمازون ومن الشمال الشرقي الذي أصابه الجفاف وليس معهم مال كثير.",
+            "والحكومة لا توفّر الخدمات في الفافيلات.",
+            "فغالبًا لا يوجد جمع للنفايات، ولا ماء جارٍ، ولا مراحيض.",
+            "والأمراض كالكوليرا والزُّحار تنتشر بسهولة.",
+            "وكثير من الناس ليس له عمل نظامي، وعصابات المخدّرات تجلب الجريمة.",
+            "ومشروع فافيلا بايرو (Favela Bairro) حاول أن يحسّن الفافيلات.",
+            "وقد جلب مراكز صحّية محلّية جديدة وخدمات أخرى.",
+            "وبعض الناس يقول إنّ الفافيلات ينبغي أن تُهدَم.",
+            "وآخرون يقولون إنها بيوت الناس ومجتمعاتهم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "brazylijska nazwa osiedla zbudowanego na dziko, czyli slumsów w mieście albo przy mieście (favela)",
+            "domy budowane przez ludzi na ziemi, której nie mają ani nie wynajmują (squatter settlement)",
+            "podstawowe usługi, takie jak bieżąca woda, toalety i prąd (amenities)",
+            "przenoszenie się ludzi ze wsi do miasta (rural-urban migration)",
+            "przedstaw obie strony i wydaj ocenę (evaluate)"
+          ],
+          "passage": [
+            "Fawela to slumsy w mieście albo przy mieście.",
+            "Ludzie budują tam swoje domy z prostych materiałów, na ziemi, której nie mają ani nie wynajmują.",
+            "Około 25% mieszkańców Rio żyje w fawelach.",
+            "Największa fawela w Rio nazywa się Rocinha.",
+            "Fawele rosną z powodu migracji ze wsi do miasta.",
+            "Ludzie przyjeżdżają z Amazonii i z nawiedzanego suszą północno-wschodniego krańca kraju, mając niewiele pieniędzy.",
+            "Państwo nie zapewnia w fawelach usług.",
+            "Często nie ma tam wywozu śmieci, bieżącej wody ani toalet.",
+            "Choroby takie jak cholera i czerwonka łatwo się rozprzestrzeniają.",
+            "Wielu ludzi nie ma stałej pracy, a gangi narkotykowe przynoszą przestępczość.",
+            "Projekt Favela Bairro próbował poprawić warunki w fawelach.",
+            "Przyniósł nowe miejscowe przychodnie i inne usługi.",
+            "Niektórzy mówią, że fawele należy wyburzyć.",
+            "Inni mówią, że to domy i społeczności konkretnych ludzi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o nome brasileiro de um bairro de construção informal, numa cidade ou perto dela (favela)",
+            "casas construídas por pessoas em terrenos que não são seus nem alugados por elas (squatter settlement)",
+            "serviços básicos como água corrente, sanitários/banheiros e eletricidade (amenities)",
+            "pessoas que se mudam do campo para a cidade (rural-urban migration)",
+            "apresentar os dois lados e chegar a um juízo (evaluate, avaliar)"
+          ],
+          "passage": [
+            "Uma favela é um bairro de construção informal, numa cidade ou perto dela.",
+            "As pessoas constroem as suas casas com materiais simples, em terrenos que não são seus nem alugados por elas.",
+            "Cerca de 25% das pessoas do Rio vivem em favelas.",
+            "A maior favela do Rio chama-se Rocinha.",
+            "As favelas crescem por causa da migração do campo para a cidade.",
+            "As pessoas chegam da Amazonia (Amazónia/Amazônia) e do nordeste castigado pela seca, com pouco dinheiro.",
+            "O governo não fornece serviços nas favelas.",
+            "Muitas vezes não há recolha/coleta de lixo, nem água corrente, nem sanitários/banheiros.",
+            "Doenças como a cólera e a disenteria espalham-se com facilidade.",
+            "Muitas pessoas não têm emprego formal, e as gangues/quadrilhas da droga trazem crime.",
+            "O projeto Favela Bairro tentou melhorar as favelas.",
+            "Trouxe novos centros de saúde locais e outros serviços.",
+            "Há quem diga que as favelas deviam ser demolidas.",
+            "Outros dizem que elas são as casas e as comunidades das pessoas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "magaca Brazil ee degmo aan sharci lahayn, oo ah xaafad guryo baaquli oo magaalo ku jirta ama ag taal",
+            "guryo dad ka dhistay dhul aanay lahayn ama kireysan",
+            "adeegyo aasaasi ah sida biyo tuubo ah, musqulo iyo koronto",
+            "dad oo miyiga magaalada u guuraya",
+            "labada dhinac sheeg oo go'aan gaar"
+          ],
+          "passage": [
+            "Favela waa xaafad guryo baaquli ah, oo magaalo ku jirta ama ag taal.",
+            "Dadku guryahooda waxay ka dhistaan alaab aasaasi ah oo dhul aanay lahayn ama kireysan.",
+            "Qiyaastii 25% dadka Rio waxay ku nool yihiin favelas.",
+            "Favela-da ugu weyn Rio waxaa la yiraahdaa Rocinha.",
+            "Favelas way kordhaan rural-urban migration dartiis.",
+            "Dadku waxay ka yimaaddaan Amazonia iyo waqooyi-barigii abaartu saamaysay iyagoo lacag yar haysta.",
+            "Dowladdu adeegyo kuma bixiso favelas-ka.",
+            "Inta badan waxba ma jiro qashin-qaadis, biyo tuubo ah iyo musqulo.",
+            "Cudurro sida daacuunka iyo shubanka dhiigga si fudud ayay u faafaan.",
+            "Dad badan shaqo rasmi ah ma haystaan, kooxaha maandooriyahana dembi ayay keenaan.",
+            "Mashruuca Favela Bairro wuxuu isku dayay inuu favelas-ka hagaajiyo.",
+            "Wuxuu keenay xarumo caafimaad maxalli ah iyo adeegyo kale.",
+            "Dadka qaar waxay yiraahdaan favelas waa in la dumiyo.",
+            "Kuwa kalena waxay yiraahdaan waa guryaha iyo bulshada dadka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "бразильська назва самозбудованого поселення, нетрів у місті або біля нього (favela)",
+            "житло, яке люди побудували на землі, що не є їхньою власністю і яку вони не наймають (squatter settlement)",
+            "основні послуги, як-от водопровід, туалети й електроенергія (amenities)",
+            "люди, які переїжджають із села до міста (rural-urban migration)",
+            "подати обидві сторони і дійти висновку (evaluate)"
+          ],
+          "passage": [
+            "Фавела — це нетрі, або трущоби, у місті чи біля нього.",
+            "Люди будують собі житло з простих матеріалів на землі, яка не є їхньою і яку вони не наймають.",
+            "Близько 25% людей Ріо живе у фавелах.",
+            "Найбільша фавела в Ріо називається Росінья (Rocinha).",
+            "Фавели зростають через міграцію з села до міста.",
+            "Люди приїжджають з Амазонії та з ураженого засухою північного сходу з малими грошима.",
+            "Уряд не надає послуг у фавелах.",
+            "Часто там немає вивезення сміття, водопроводу й туалетів.",
+            "Хвороби, як-от холера й дизентерія, легко поширюються.",
+            "Багато людей не має офіційної роботи, а наркобанди приносять злочинність.",
+            "Проєкт Favela Bairro намагався поліпшити фавели.",
+            "Він приніс нові місцеві медичні центри та інші послуги.",
+            "Деякі люди кажуть, що фавели треба знести.",
+            "Інші кажуть, що це домівки і громади людей."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "شہر میں یا اس کے قریب جھگی بستی کا برازیلی نام (favela)",
+            "ایسے گھر جو لوگ ایسی زمین پر بناتے ہیں جو نہ ان کی ملکیت ہو اور نہ کرائے پر (squatter settlement)",
+            "بنیادی سہولتیں، جیسے بہتا پانی، بیت الخلا اور بجلی (amenities)",
+            "لوگوں کا دیہات سے شہر منتقل ہونا (rural-urban migration)",
+            "دونوں طرف کی بات بتا کر فیصلہ دینا (evaluate)"
+          ],
+          "passage": [
+            "favela شہر میں یا اس کے قریب ایک جھگی بستی یا slum ہے۔",
+            "لوگ اپنے گھر سادہ سامان سے ایسی زمین پر بناتے ہیں جو نہ ان کی ملکیت ہے اور نہ کرائے پر۔",
+            "ریو کے تقریباً 25% لوگ favelas میں رہتے ہیں۔",
+            "ریو کی سب سے بڑی favela کا نام روسینیا (Rocinha) ہے۔",
+            "favelas، rural-urban migration کی وجہ سے بڑھتی ہیں۔",
+            "لوگ امیزونیا اور قحط زدہ شمال مشرق سے تھوڑے سے پیسوں کے ساتھ پہنچتے ہیں۔",
+            "حکومت favelas میں سہولتیں نہیں دیتی۔",
+            "اکثر نہ کوڑا اٹھانے کا بندوبست ہوتا ہے، نہ بہتا پانی اور نہ بیت الخلا۔",
+            "ہیضہ اور پیچش جیسی بیماریاں آسانی سے پھیلتی ہیں۔",
+            "بہت سے لوگوں کے پاس باقاعدہ روزگار نہیں، اور نشے کے گروہ جرم لاتے ہیں۔",
+            "Favela Bairro منصوبے نے favelas کو بہتر بنانے کی کوشش کی ہے۔",
+            "اس سے نئے مقامی صحت مراکز اور دوسری سہولتیں آئی ہیں۔",
+            "کچھ لوگ کہتے ہیں کہ favelas گرا دی جائیں۔",
+            "دوسرے کہتے ہیں کہ یہ لوگوں کے گھر اور ان کی برادریاں ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is a favela, and why do favelas grow?",
@@ -950,8 +1584,162 @@ window.ASTRA_UNITS["geog-urban"] = {
           "Urban change there has created social opportunities in culture, sport and shopping.",
           "It has created economic opportunities in high-tech industries.",
           "And it has created environmental opportunities: cleaner energy, better transport and more green space."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كيف ينتشر الشيء في منطقة ما (distribution)",
+            "عدد الناس الذين يعيشون في كلّ كيلومتر مربّع (population density)",
+            "فيه ناس قليلون (sparsely populated)",
+            "فيه ناس كثيرون (densely populated)",
+            "انتقال الناس من المدن إلى الريف (counter-urbanisation)",
+            "أعمال تستخدم تقنية متقدّمة، كتصميم رقائق الحاسوب (high-tech industry)"
+          ],
+          "passage": [
+            "نما سكّان المملكة المتّحدة من 41 مليونًا في 1900 إلى 64 مليونًا في 2015.",
+            "والناس لا ينتشرون بالتساوي في البلد.",
+            "و82% منهم يعيشون في المناطق الحضرية.",
+            "ولندن والجنوب الشرقي كثيفة السكّان.",
+            "وكثير من اسكتلندا وويلز قليل السكّان.",
+            "وكثير من المدن الكبيرة نما في الثورة الصناعية، قرب الفحم وخامة الحديد.",
+            "والعواصم كلندن وإدنبرة نمت كمراكز للحكم.",
+            "والمرافئ كليفربول وبريستول (Bristol) نمت بالتجارة.",
+            "وبريستول هي دراسة الحالة البريطانية في هذه الوحدة.",
+            "والتغيّر الحضري فيها خلق فرصًا اجتماعية في الثقافة والرياضة والتسوّق.",
+            "وخلق فرصًا اقتصادية في الصناعات عالية التقنية.",
+            "وخلق فرصًا بيئية: طاقة أنظف ونقل أفضل ومساحات خضراء أكثر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sposób, w jaki coś jest rozłożone na jakimś obszarze (distribution)",
+            "liczba ludzi mieszkających na każdym kilometrze kwadratowym (population density)",
+            "z małą liczbą ludzi (sparsely populated)",
+            "z dużą liczbą ludzi (densely populated)",
+            "wyprowadzanie się ludzi z miast na wieś (counter-urbanisation)",
+            "firmy, które używają zaawansowanej technologii, na przykład projektują układy komputerowe (high-tech industry)"
+          ],
+          "passage": [
+            "Ludność Zjednoczonego Królestwa wzrosła z 41 milionów w 1900 roku do 64 milionów w 2015 roku.",
+            "Ludzie nie są rozłożeni równomiernie po całym kraju.",
+            "82% ludzi mieszka na obszarach miejskich.",
+            "Londyn i południowy wschód są gęsto zaludnione.",
+            "Duża część Szkocji i Walii jest słabo zaludniona.",
+            "Wiele dużych miast wyrosło w czasie rewolucji przemysłowej, blisko węgla i rudy żelaza.",
+            "Stolice, takie jak Londyn i Edynburg, wyrosły jako ośrodki władzy.",
+            "Porty, takie jak Liverpool i Bristol, wyrosły dzięki handlowi.",
+            "Bristol to brytyjskie studium przypadku w tym temacie.",
+            "Zmiany w mieście dały tam możliwości społeczne w kulturze, sporcie i handlu.",
+            "Dały też możliwości gospodarcze w przemysłach zaawansowanej technologii.",
+            "I dały możliwości środowiskowe: czystszą energię, lepszy transport i więcej zieleni."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a maneira como uma coisa está espalhada por uma área (distribution, distribuição)",
+            "o número de pessoas que vivem em cada quilómetro/quilômetro quadrado (population density, densidade populacional)",
+            "com poucas pessoas (sparsely populated, pouco povoado)",
+            "com muitas pessoas (densely populated, densamente povoado)",
+            "pessoas que saem das cidades para ir viver no campo (counter-urbanisation, contraurbanização)",
+            "empresas que usam tecnologia avançada, como o desenho de chips de computador (high-tech industry)"
+          ],
+          "passage": [
+            "A população do Reino Unido cresceu de 41 milhões em 1900 para 64 milhões em 2015.",
+            "As pessoas não estão espalhadas de maneira igual pelo país.",
+            "82% das pessoas vivem em áreas urbanas.",
+            "Londres e o sudeste são densamente povoados.",
+            "Grande parte da Escócia e do País de Gales é pouco povoada.",
+            "Muitas grandes cidades cresceram na revolução industrial, perto do carvão e do minério de ferro.",
+            "Capitais como Londres e Edimburgo cresceram como centros de governo.",
+            "Portos como Liverpool e Bristol cresceram com o comércio.",
+            "Bristol é o estudo de caso do Reino Unido nesta unidade.",
+            "A mudança urbana criou lá oportunidades sociais na cultura, no desporto/esporte e nas compras.",
+            "Criou oportunidades económicas/econômicas nas indústrias de alta tecnologia.",
+            "E criou oportunidades ambientais: energia mais limpa, melhores transportes e mais espaços verdes."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida wax meel ku kala firdhsan yahay",
+            "tirada dadka ku nool kiiloomitir afargeesle kasta",
+            "dad yar leh",
+            "dad badan leh",
+            "dad oo magaalooyinka ka baxaya oo miyiga u guuraya",
+            "ganacsiyo isticmaala tignoolajiyo horumarsan, sida naqshadeynta chips-ka kombuyuutarka"
+          ],
+          "passage": [
+            "Dadweynaha Boqortooyada Midowday wuxuu ka kacay 41 milyan 1900-kii ilaa 64 milyan 2015-kii.",
+            "Dadku si siman uma kala firdhsana dalka oo dhan.",
+            "82% dadka waxay ku nool yihiin meelaha magaalada.",
+            "London iyo koonfur-bari dad aad ayay u badan yihiin.",
+            "Inta badan Scotland iyo Wales dad yar ayaa ku nool.",
+            "Magaalooyin waaweyn oo badan waxay kortay kacaankii warshadaha, dhuxusha iyo macdanta birta agtooda.",
+            "Caasimado sida London iyo Edinburgh waxay kortay iyagoo xarumo dowladnimo ah.",
+            "Dekedo sida Liverpool iyo Bristol waxay ku kortay ganacsiga.",
+            "Bristol waa case study-ga Boqortooyada Midowday ee cutubkan.",
+            "Isbeddelka magaalada halkaas wuxuu abuuray fursado bulsho oo dhaqan, ciyaaro iyo dukaamaysi ah.",
+            "Wuxuu abuuray fursado dhaqaale oo warshadaha tignoolajiyada sare.",
+            "Wuxuuna abuuray fursado deegaan: tamar nadiif ah, gaadiid ka fiican iyo meelo cagaaran badan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, як щось розподілене по території (distribution)",
+            "кількість людей, які живуть на кожному квадратному кілометрі (population density)",
+            "з малою кількістю людей (sparsely populated)",
+            "з великою кількістю людей (densely populated)",
+            "люди, які виїжджають із міст у село (counter-urbanisation)",
+            "підприємства, що використовують передові технології, як-от проєктування комп’ютерних чипів (high-tech industry)"
+          ],
+          "passage": [
+            "Населення Об’єднаного Королівства зросло з 41 мільйона в 1900 році до 64 мільйонів у 2015 році.",
+            "Люди розподілені по країні нерівномірно.",
+            "82% людей живе в міських районах.",
+            "Лондон і південний схід густо заселені.",
+            "Велика частина Шотландії та Уельсу заселена рідко.",
+            "Багато великих міст виросло під час промислової революції, біля вугілля і залізної руди.",
+            "Столиці, як-от Лондон і Единбург, виросли як осередки влади.",
+            "Порти, як-от Ліверпуль і Бристоль, виросли завдяки торгівлі.",
+            "Бристоль (Bristol) — британське кейс-стаді цього розділу.",
+            "Міські зміни там створили соціальні можливості в культурі, спорті й торгівлі.",
+            "Вони створили економічні можливості у високотехнологічних галузях.",
+            "І вони створили екологічні можливості: чистішу енергію, кращий транспорт і більше зелених місць."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کوئی چیز کسی علاقے میں کس طرح پھیلی ہوئی ہے (distribution)",
+            "ہر مربع کلومیٹر میں رہنے والے لوگوں کی تعداد (population density)",
+            "جہاں لوگ کم ہوں (sparsely populated)",
+            "جہاں لوگ بہت ہوں (densely populated)",
+            "لوگوں کا شہروں سے نکل کر دیہات میں جا بسنا (counter-urbanisation)",
+            "وہ کاروبار جو جدید ٹیکنالوجی استعمال کرتے ہیں، جیسے کمپیوٹر چپ کا ڈیزائن (high-tech industry)"
+          ],
+          "passage": [
+            "برطانیہ کی آبادی 1900 میں 4 کروڑ 10 لاکھ سے بڑھ کر 2015 میں 6 کروڑ 40 لاکھ ہو گئی۔",
+            "لوگ ملک میں برابر برابر پھیلے ہوئے نہیں ہیں۔",
+            "82% لوگ urban علاقوں میں رہتے ہیں۔",
+            "لندن اور جنوب مشرق densely populated ہیں۔",
+            "سکاٹ لینڈ اور ویلز کا بڑا حصہ sparsely populated ہے۔",
+            "بہت سے بڑے شہر صنعتی انقلاب میں بڑھے، کوئلے اور لوہے کی کان کے قریب۔",
+            "لندن اور ایڈنبرا جیسے دارالحکومت حکومت کے مرکز کے طور پر بڑھے۔",
+            "لیورپول اور برسٹل جیسی بندرگاہیں تجارت سے بڑھیں۔",
+            "اس یونٹ میں برسٹل (Bristol) برطانیہ کا case study ہے۔",
+            "وہاں شہری تبدیلی نے ثقافت، کھیل اور خریداری میں social opportunities پیدا کیے ہیں۔",
+            "اس نے high-tech industries میں economic opportunities پیدا کیے ہیں۔",
+            "اور اس نے environmental opportunities پیدا کیے ہیں: صاف توانائی، بہتر آمد و رفت اور زیادہ سبزہ۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where do people live in the UK?",
@@ -1160,8 +1948,168 @@ window.ASTRA_UNITS["geog-urban"] = {
           "Most new homes in Bristol are built on brownfield sites, land that was used before.",
           "Some are built on greenfield sites, such as Harry Stoke, which has never been built on.",
           "The Temple Quarter, by Temple Meads station, is Bristol's biggest regeneration project."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أبنية متروكة وأرض خراب (dereliction)",
+            "انتشار المدينة في الريف انتشارًا غير مخطّط (urban sprawl)",
+            "أن ينقص الناس ما يملكه معظم غيرهم من الأساسيات، كالسكن اللائق والتعليم والصحّة (social deprivation)",
+            "غنيّ (affluent)",
+            "تحسين منطقة متدهورة بتحسين سكنها وبيئتها (regeneration)",
+            "موقع تُدفن فيه النفايات في الأرض (landfill)"
+          ],
+          "passage": [
+            "جلب التغيّر الحضري إلى بريستول تحدّيات كما جلب فرصًا.",
+            "فعندما أُغلقت الصناعات تركت أبنية خرابًا وأرضًا خرابًا في المدينة الداخلية.",
+            "والسكّان المتزايدون يحتاجون إلى بيوت جديدة، وأحياء جديدة نشرت المدينة إلى الخارج.",
+            "ويُسمّى هذا الانتشار غير المخطّط في الريف الزحف الحضري (urban sprawl).",
+            "وبريستول تنظّف بيئتها أيضًا.",
+            "فهي ترسل نفايات أقلّ إلى مدافن النفايات وتعيد تدوير أكثر.",
+            "وهي تقلّل تلوّث الهواء بتخفيض حدود السرعة وبالمشي والدرّاجات والسيّارات الكهربائية والنقل العامّ.",
+            "ولبريستول أيضًا لا مساواة اجتماعية.",
+            "ففي فيلوود (Filwood) مستويات عالية من الحرمان الاجتماعي، أمّا ستوك بيشوب (Stoke Bishop) فغنيّ جدًّا.",
+            "والحزام الأخضر حول بريستول وباث (Bath) يمنع المدينتين من الاندماج.",
+            "ومعظم البيوت الجديدة في بريستول يُبنى على مواقع brownfield، أي أرض استُخدمت قبلًا.",
+            "وبعضها يُبنى على مواقع خضراء لم يُبنَ عليها قبلًا، كهاري ستوك (Harry Stoke).",
+            "وحيّ تمبل كوارتر (Temple Quarter)، قرب محطّة تمبل ميدز، أكبر مشروع تجديد في بريستول."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "porzucone budynki i nieużytki (dereliction)",
+            "niezaplanowane rozlewanie się miasta na wieś (urban sprawl)",
+            "sytuacja, w której ludziom brakuje podstawowych rzeczy, jakie ma większość innych: przyzwoitego mieszkania, edukacji i zdrowia (social deprivation)",
+            "zamożny (affluent)",
+            "poprawianie zaniedbanego obszaru przez poprawę mieszkań i otoczenia (regeneration)",
+            "miejsce, w którym śmieci zakopuje się w ziemi (landfill)"
+          ],
+          "passage": [
+            "Zmiany w mieście przyniosły Bristolowi nie tylko możliwości, ale i wyzwania.",
+            "Kiedy zakłady się zamknęły, zostawiły w śródmieściu opuszczone budynki i nieużytki.",
+            "Rosnąca liczba ludności potrzebuje nowych domów, a nowe osiedla rozciągnęły miasto na zewnątrz.",
+            "To niezaplanowane rozlewanie się na wieś nazywamy urban sprawl.",
+            "Bristol czyści też swoje środowisko.",
+            "Wysyła mniej odpadów na składowiska i więcej segreguje.",
+            "Zmniejsza zanieczyszczenie powietrza przez niższe ograniczenia prędkości, chodzenie pieszo, jazdę na rowerze, samochody elektryczne i transport publiczny.",
+            "Bristol ma też nierówności społeczne.",
+            "W Filwood poziom ubóstwa społecznego jest wysoki, a Stoke Bishop jest bardzo zamożne.",
+            "Pas zieleni wokół Bristolu i Bath nie pozwala obu miastom zrosnąć się w jedno.",
+            "Większość nowych domów w Bristolu stoi na terenach poprzemysłowych (brownfield sites), czyli na ziemi używanej już wcześniej.",
+            "Część stoi na terenach niezabudowanych (greenfield sites), jak Harry Stoke, gdzie nigdy nic nie stało.",
+            "Temple Quarter przy dworcu Temple Meads to największy projekt odnowy w Bristolu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "edifícios abandonados e terrenos ao abandono (dereliction, degradação urbana)",
+            "o alastrar sem planeamento/planejamento de uma cidade para o campo (urban sprawl, expansão urbana)",
+            "quando faltam às pessoas as coisas básicas que quase todos têm, como habitação, educação e saúde dignas (social deprivation, carência social)",
+            "rico (affluent, abastado)",
+            "melhorar uma área degradada melhorando a sua habitação e o seu ambiente (regeneration, regeneração)",
+            "um local onde o lixo é enterrado no solo (landfill, aterro sanitário)"
+          ],
+          "passage": [
+            "A mudança urbana trouxe a Bristol desafios e também oportunidades.",
+            "Quando as indústrias fecharam, deixaram edifícios abandonados e terrenos ao abandono no centro da cidade.",
+            "Uma população que cresce precisa de casas novas, e os bairros novos espalharam a cidade para fora.",
+            "A este alastrar sem planeamento/planejamento para o campo chama-se urban sprawl.",
+            "Bristol também está a limpar / limpando o seu ambiente.",
+            "Manda menos resíduos para o aterro sanitário e recicla mais.",
+            "Reduz a poluição do ar com limites de velocidade mais baixos, com caminhadas, bicicletas, veículos elétricos e transportes públicos.",
+            "Bristol também tem desigualdade social.",
+            "Filwood tem níveis altos de carência social, enquanto Stoke Bishop é muito abastado.",
+            "O cinturão verde em volta de Bristol e de Bath impede que as duas cidades se juntem.",
+            "Quase todas as casas novas de Bristol são construídas em brownfield sites, terrenos que já foram usados antes.",
+            "Algumas são construídas em greenfield sites, como Harry Stoke, onde nunca se construiu.",
+            "O Temple Quarter, junto à estação de Temple Meads, é o maior projeto de regeneração de Bristol."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhismayaal laga tagay iyo dhul bannaan oo luntay",
+            "fiditaanka aan qorsheysneyn ee magaalo oo miyiga gasha",
+            "marka dadku waayaan waxyaalaha aasaasiga ah ee inta kale haysato, sida guri habboon, waxbarasho iyo caafimaad",
+            "hodan",
+            "hagaajinta meel burbursan iyadoo guryaheeda iyo deegaankeeda la wanaajiyo",
+            "meel qashinka dhulka lagu aaso"
+          ],
+          "passage": [
+            "Isbeddelka magaalada waxay Bristol u keentay caqabado iyo fursado labadaba.",
+            "Markii warshadihii xidhmeen, waxay ka tageen dhismayaal laga tagay iyo dhul luntay magaalada gudaheeda.",
+            "Dadweyne soo koraya wuxuu u baahan yahay guryo cusub, degmooyin cusubna waxay magaalada dibadda u fidiyeen.",
+            "Fiditaankan aan qorsheysneyn ee miyiga gelaya waxaa la yiraahdaa urban sprawl.",
+            "Bristol deegaankeeda ayay sidoo kale nadiifinaysaa.",
+            "Qashin yar ayay landfill u dirtaa, wax badanna way dib u warshadaysaa.",
+            "Wasakhda hawada waxay ku yareysaa xadaynta xawaaraha, lug-socod, baaskiil, gaadiid koronto iyo gaadiidka dadweynaha.",
+            "Bristol sidoo kale waxay leedahay sinnaan-la'aan bulsho.",
+            "Filwood waxay leedahay social deprivation sare, halka Stoke Bishop ay aad u hodan tahay.",
+            "Suunka cagaaran (green belt) ee ku wareegsan Bristol iyo Bath wuxuu ka hor istaagaa isku-dhafka labada magaalo.",
+            "Inta badan guryaha cusub ee Bristol waxaa lagu dhisaa brownfield sites, oo ah dhul hore loo isticmaalay.",
+            "Qaar waxaa lagu dhisaa greenfield sites, sida Harry Stoke, oo aan waligeed wax lagu dhisin.",
+            "Temple Quarter, oo ku yaal saldhigga Temple Meads agtiisa, waa mashruucii dib-u-cusbooneysiinta ugu weyn Bristol."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "покинуті будівлі й пустирі (dereliction)",
+            "незаплановане розповзання міста в село (urban sprawl)",
+            "коли людям бракує основних речей, які має більшість інших, як-от гідного житла, освіти й охорони здоров’я (social deprivation)",
+            "багатий (affluent)",
+            "поліпшення занедбаного району через поліпшення житла і довкілля (regeneration)",
+            "місце, де відходи закопують у землю (landfill)"
+          ],
+          "passage": [
+            "Міські зміни принесли Бристолю і проблеми, і можливості.",
+            "Коли підприємства закрилися, вони залишили покинуті будівлі й пустирі у внутрішньому місті.",
+            "Населенню, що зростає, потрібне нове житло, і нові квартали розповзли місто назовні.",
+            "Це незаплановане розповзання в село називають urban sprawl.",
+            "Бристоль також очищає своє довкілля.",
+            "Він відправляє менше відходів на звалища і більше переробляє.",
+            "Він зменшує забруднення повітря через нижчі обмеження швидкості, ходіння пішки, велосипеди, електромобілі й громадський транспорт.",
+            "Бристоль має також соціальну нерівність.",
+            "Філвуд (Filwood) має високий рівень соціальних злиднів, а Сток-Бішоп (Stoke Bishop) дуже багатий.",
+            "Зелений пояс навколо Бристоля і Бата не дає цим двом містам зростися.",
+            "Більшість нового житла в Бристолі будують на brownfield sites, тобто на землі, яку використовували раніше.",
+            "Частину будують на greenfield sites, як-от Гаррі-Сток (Harry Stoke), де ніколи не будували.",
+            "Темпл-Квотер (Temple Quarter) біля станції Temple Meads — найбільший проєкт відновлення в Бристолі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ویران عمارتیں اور بے کار پڑی زمین (dereliction)",
+            "کسی شہر کا بغیر منصوبہ بندی دیہات کی طرف پھیلتا جانا (urban sprawl)",
+            "جب لوگوں کے پاس وہ بنیادی چیزیں نہ ہوں جو باقی اکثر لوگوں کے پاس ہیں، جیسے ٹھیک گھر، تعلیم اور صحت (social deprivation)",
+            "خوشحال (affluent)",
+            "کسی خستہ علاقے کے گھروں اور ماحول کو بہتر بنا کر اسے سنوارنا (regeneration)",
+            "وہ جگہ جہاں کوڑا زمین میں دفن کیا جاتا ہے (landfill)"
+          ],
+          "passage": [
+            "شہری تبدیلی برسٹل کے لیے مواقع کے ساتھ ساتھ مشکلیں بھی لائی ہے۔",
+            "جب صنعتیں بند ہوئیں تو انھوں نے اندرونی شہر میں ویران عمارتیں اور بے کار زمین چھوڑ دی۔",
+            "بڑھتی آبادی کو نئے گھر چاہیے، اور نئی بستیوں نے شہر کو باہر کی طرف پھیلا دیا ہے۔",
+            "دیہات کی طرف اس بے منصوبہ پھیلاؤ کو urban sprawl کہتے ہیں۔",
+            "برسٹل اپنا ماحول بھی صاف کر رہا ہے۔",
+            "یہ landfill میں کم کوڑا بھیجتا ہے اور زیادہ recycle کرتا ہے۔",
+            "یہ ہوا کی آلودگی کم رفتار کی حدوں، پیدل چلنے، سائیکل، بجلی کی گاڑیوں اور عوامی آمد و رفت سے کم کرتا ہے۔",
+            "برسٹل میں سماجی ناہمواری بھی ہے۔",
+            "Filwood میں social deprivation بہت زیادہ ہے، جبکہ Stoke Bishop بہت خوشحال ہے۔",
+            "برسٹل اور باتھ کے گرد green belt دونوں شہروں کو آپس میں ملنے سے روکتی ہے۔",
+            "برسٹل میں زیادہ تر نئے گھر brownfield جگہوں پر بنتے ہیں، یعنی اس زمین پر جو پہلے استعمال ہو چکی ہے۔",
+            "کچھ greenfield جگہوں پر بنتے ہیں، جیسے Harry Stoke، جہاں پہلے کبھی تعمیر نہیں ہوئی۔",
+            "Temple Meads سٹیشن کے پاس Temple Quarter برسٹل کا سب سے بڑا regeneration منصوبہ ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Dereliction, urban sprawl and a cleaner city",

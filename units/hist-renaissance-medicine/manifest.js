@@ -110,8 +110,168 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           "So people felt freer to question old ideas about medicine.",
           "But changing an idea is not the same as changing a treatment.",
           "In this unit you will ask how much really changed, and who changed it."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المدّة من نحو 1500 إلى 1700، والتفكير الجديد الذي جاء معها (Renaissance)",
+            "أن يُولد الشيء من جديد، أو أن يبدأ من جديد (rebirth)",
+            "طريقة تفكير تُعلي قيمة علم الإنسان والنظر بنفسك (humanism)",
+            "الانشقاق في الكنيسة المسيحية في سنوات 1500 (Reformation)",
+            "غير أمين، يستخدم السلطة لمصلحته (corrupt)",
+            "أن تبقى الأشياء كما هي مع الزمن (continuity)"
+          ],
+          "passage": [
+            "دام عصر النهضة في إنجلترا من نحو 1500 إلى 1700.",
+            "وكلمة النهضة (Renaissance) تعني الولادة من جديد.",
+            "وكان زمن فنّ جديد وعلم جديد وأسئلة جديدة.",
+            "وانتشرت في أوروبا طريقة تفكير جديدة تُسمّى الإنسانية (humanism).",
+            "وأحبّ الإنسانيّون العلم وأرادوا أن يعرفوا الأشياء بأنفسهم.",
+            "ولم يقبلوا أنّ كلّ جواب يأتي من الكنيسة.",
+            "وكان حدثان قد أضعفا الكنيسة أصلًا.",
+            "فالأوّل الموت الأسود، ولم تُوقفه الصلاة.",
+            "والثاني الإصلاح (Reformation)، وقد شقّ الكنيسة شقّين.",
+            "وكثير من الناس كان قد بدأ يرى أنّ رؤساء الكنيسة غير أمناء.",
+            "فصار الناس يشعرون بحرّية أكبر في مساءلة الأفكار القديمة عن الطبّ.",
+            "ولكنّ تغيير فكرة ليس كتغيير علاج.",
+            "وفي هذه الوحدة ستسأل: كم تغيّر حقًّا؟ ومَن غيّره؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "okres od około 1500 do 1700 roku i nowe myślenie, które z nim przyszło (Renaissance)",
+            "narodzenie się na nowo albo rozpoczęcie od nowa (rebirth)",
+            "sposób myślenia, który cenił ludzką naukę i samodzielne szukanie (humanism)",
+            "rozłam w Kościele chrześcijańskim w XVI wieku (Reformation)",
+            "nieuczciwy, używający władzy dla własnego zysku (corrupt)",
+            "kiedy rzeczy pozostają takie same z upływem czasu (continuity)"
+          ],
+          "passage": [
+            "Renesans w Anglii trwał od około 1500 do 1700 roku.",
+            "Słowo renesans znaczy odrodzenie.",
+            "Był to czas nowej sztuki, nowej nauki i nowych pytań.",
+            "Po Europie rozszedł się nowy sposób myślenia zwany humanizmem.",
+            "Humaniści kochali naukę i chcieli sami dowiadywać się o różnych rzeczach.",
+            "Nie przyjmowali tego, że każda odpowiedź pochodzi od Kościoła.",
+            "Dwa wydarzenia już wcześniej osłabiły Kościół.",
+            "Pierwszym była czarna śmierć, której modlitwa nie zatrzymała.",
+            "Drugim była reformacja, która rozdzieliła Kościół na dwie części.",
+            "Wielu ludzi zaczęło myśleć, że przywódcy Kościoła są nieuczciwi.",
+            "Dlatego ludzie czuli się swobodniej, kwestionując dawne poglądy na medycynę.",
+            "Ale zmiana poglądu to nie to samo co zmiana leczenia.",
+            "W tym temacie zapytasz, jak wiele naprawdę się zmieniło i kto to zmienił."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o período de cerca de 1500 a 1700, e o pensamento novo que veio com ele (Renaissance, Renascimento)",
+            "nascer outra vez, ou começar de novo (rebirth, renascimento)",
+            "uma maneira de pensar que valorizava o saber humano e o procurar por si mesmo (humanism, humanismo)",
+            "a divisão da Igreja cristã nos anos 1500 (Reformation, Reforma)",
+            "desonesto, que usa o poder em proveito próprio (corrupt, corrupto)",
+            "quando as coisas ficam iguais ao longo do tempo (continuity, continuidade)"
+          ],
+          "passage": [
+            "O Renascimento em Inglaterra durou de cerca de 1500 a 1700.",
+            "A palavra Renascimento quer dizer nascer outra vez.",
+            "Foi um tempo de arte nova, de saber novo e de perguntas novas.",
+            "Uma nova maneira de pensar, chamada humanismo, espalhou-se pela Europa.",
+            "Os humanistas adoravam aprender e queriam descobrir as coisas por si mesmos.",
+            "Não aceitavam que todas as respostas viessem da Igreja.",
+            "Dois acontecimentos já tinham enfraquecido a Igreja.",
+            "O primeiro foi a Peste Negra, que a oração não travou.",
+            "O segundo foi a Reforma, que dividiu a Igreja em duas.",
+            "Muitas pessoas tinham começado a pensar que os chefes da Igreja eram desonestos.",
+            "Por isso as pessoas sentiam-se mais livres para questionar as ideias antigas sobre a medicina.",
+            "Mas mudar uma ideia não é o mesmo que mudar um tratamento.",
+            "Nesta unidade vais perguntar quanto é que mudou de facto/fato, e quem o mudou."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "muddada qiyaastii 1500 ilaa 1700, iyo fikirka cusub ee la socday",
+            "in dib la dhasho, ama mar kale la bilaabo",
+            "hab fikir oo qiimeeyay waxbarashada dadka iyo in qofku naftiisa wax u raadiyo",
+            "kala qaybsanaantii Kaniisadda Masiixiga ee 1500-meeyadii",
+            "aan daacad ahayn, oo awoodda danahaaga u isticmaalaya",
+            "marka waxyaalo waqti ka waqti sidii ay ahaayeen u sii ahaadaan"
+          ],
+          "passage": [
+            "Renaissance-ka England wuxuu socday qiyaastii 1500 ilaa 1700.",
+            "Erayga Renaissance macnaheedu waa dib-u-dhalasho.",
+            "Waxay ahayd waqti farshaxan cusub, waxbarasho cusub iyo su'aalo cusub.",
+            "Hab fikir cusub oo la yiraahdo humanism ayaa Yurub oo dhan ku faafay.",
+            "Humanists-ku waxay jeclaayeen waxbarashada oo waxay rabeen inay naftooda wax u helaan.",
+            "Ma aqbalin in jawaab kastaa Kaniisadda ka timid.",
+            "Laba dhacdo ayaa horay Kaniisadda daciifisay.",
+            "Tan koowaad waxay ahayd Black Death, oo tukashada ay joojin weyday.",
+            "Tan labaad waxay ahayd Reformation-ka, oo Kaniisadda laba u kala qaybiyay.",
+            "Dad badan waxay bilaabeen inay u maleeyaan in hoggaamiyeyaasha Kaniisadda aanay daacad ahayn.",
+            "Markaa dadku waxay dareemeen inay xor yihiin inay su'aalaan fikradaha duugoobay ee daawada.",
+            "Laakiin in fikrad la beddelo isku mid maaha in daaweyn la beddelo.",
+            "Cutubkan waxaad weydiinaysaa inta dhab ahaan isbeddeshay, iyo cidda beddeshay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "період приблизно з 1500 до 1700 року і нове мислення, що з ним прийшло (Renaissance)",
+            "народження знову або початок наново (rebirth)",
+            "спосіб мислення, який цінував людське навчання і самостійний пошук (humanism)",
+            "розкол у християнській Церкві у 1500-х роках (Reformation)",
+            "нечесний, той, хто використовує владу для власної вигоди (corrupt)",
+            "коли речі залишаються такими самими з часом (continuity)"
+          ],
+          "passage": [
+            "Ренесанс в Англії тривав приблизно з 1500 до 1700 року.",
+            "Слово «Ренесанс» означає відродження.",
+            "Це був час нового мистецтва, нового навчання і нових запитань.",
+            "По Європі поширився новий спосіб мислення, який називали гуманізмом.",
+            "Гуманісти любили навчання і хотіли дізнаватися про речі самостійно.",
+            "Вони не приймали, що кожна відповідь походить від Церкви.",
+            "Дві події вже ослабили Церкву.",
+            "Першою була Чорна смерть, якої молитва не зупинила.",
+            "Другою була Реформація, яка розколола Церкву на дві частини.",
+            "Багато людей почали думати, що церковні провідники нечесні.",
+            "Тому люди відчували більшу свободу піддавати сумніву старі ідеї про медицину.",
+            "Але змінити ідею — це не те саме, що змінити лікування.",
+            "У цьому розділі ви спитаєте, як багато насправді змінилося і хто це змінив."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "تقریباً 1500 سے 1700 تک کا دور، اور اس کے ساتھ آنے والی نئی سوچ (Renaissance)",
+            "دوبارہ جنم لینا، یا نئے سرے سے شروع ہونا (rebirth)",
+            "سوچ کا وہ انداز جو انسانی علم اور خود دیکھنے پرکھنے کو قدر دیتا تھا (humanism)",
+            "1500 کی دہائی میں مسیحی کلیسا کی تقسیم (Reformation)",
+            "بدعنوان، جو اپنے فائدے کے لیے اختیار استعمال کرے (corrupt)",
+            "جب چیزیں وقت کے ساتھ ویسی ہی رہیں (continuity)"
+          ],
+          "passage": [
+            "انگلینڈ میں Renaissance تقریباً 1500 سے 1700 تک رہا۔",
+            "لفظ Renaissance کا مطلب ہے دوبارہ جنم۔",
+            "یہ نئے فن، نئے علم اور نئے سوالوں کا زمانہ تھا۔",
+            "سوچ کا ایک نیا انداز، جسے humanism کہتے ہیں، یورپ میں پھیل گیا۔",
+            "humanists کو علم سے محبت تھی اور وہ باتیں خود معلوم کرنا چاہتے تھے۔",
+            "وہ یہ نہیں مانتے تھے کہ ہر جواب کلیسا سے آتا ہے۔",
+            "دو واقعات پہلے ہی کلیسا کو کمزور کر چکے تھے۔",
+            "پہلا Black Death تھا، جسے دعا نے نہ روکا۔",
+            "دوسرا Reformation تھا، جس نے کلیسا کو دو حصوں میں بانٹ دیا۔",
+            "بہت سے لوگ یہ سوچنے لگے تھے کہ کلیسا کے رہنما بدعنوان ہیں۔",
+            "اس لیے لوگ طب کے پرانے خیالوں پر سوال اٹھانے میں زیادہ آزاد محسوس کرنے لگے۔",
+            "مگر کسی خیال کو بدلنا، علاج بدلنے کے برابر نہیں ہے۔",
+            "اس یونٹ میں آپ پوچھیں گے کہ حقیقت میں کتنا بدلا، اور کس نے بدلا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What the Renaissance was",
@@ -317,8 +477,162 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           "Thomas Sydenham changed something else: the way patients were examined.",
           "He watched his patients closely and wrote down their symptoms.",
           "He treated the disease, not each symptom on its own."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الاعتقاد أنّ الهواء الفاسد من القذر والمتعفّن يسبّب المرض (miasma)",
+            "معرفة أيّ مرض عند المريض (diagnosis)",
+            "علامة مرض، كالطَّفَح أو الكحّة أو الحُمّى (symptom)",
+            "مراقبة شيء وتسجيله بعناية (observation)",
+            "ثبت خطؤه، فكفّ الناس عن الثقة به (discredited)"
+          ],
+          "passage": [
+            "كان الناس في إنجلترا النهضة لا يزالون يريدون أن يعرفوا لماذا يمرضون.",
+            "وأشهر فكرة كانت الميازما (miasma)، أي الهواء الفاسد.",
+            "وكان الناس يعتقدون أنّ النفايات المتعفّنة والأماكن القذرة تجعل الهواء ضارًّا.",
+            "والأخلاط الأربعة كان لا يزال يعتقدها معظم عامّة الناس.",
+            "وبحلول 1700 كان كثير من العلماء والأطبّاء قد رفض تلك النظرية.",
+            "ولكن لم يكن قد وُجد شيء جديد يُوضع في محلّها.",
+            "ولم تكن هناك أجهزة جيّدة بما يكفي لتُظهر ما يسبّب المرض حقًّا.",
+            "وبنى روبرت هوك (Robert Hooke) مِجهرًا أفضل كثيرًا في هذه المدّة.",
+            "وفي 1683 رأى أنتوني فان ليوفنهوك (Antonie van Leeuwenhoek) كائنات حيّة صغيرة جدًّا بعدسة.",
+            "ولم يربطها أحد بالمرض مئتي سنة أخرى.",
+            "وغيّر توماس سيدنهام (Thomas Sydenham) شيئًا آخر: طريقة فحص المرضى.",
+            "فكان يراقب مرضاه مراقبةً دقيقة ويكتب أعراضهم.",
+            "وكان يعالج المرض، لا كلّ عَرَض وحده."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przekonanie, że choroby powoduje złe powietrze z brudu i gnijących rzeczy (miasma)",
+            "ustalanie, którą chorobę ma pacjent (diagnosis)",
+            "objaw choroby, taki jak wysypka, kaszel albo gorączka (symptom)",
+            "uważne patrzenie i zapisywanie tego, co się widzi (observation)",
+            "wykazany jako błędny, więc ludzie przestają mu wierzyć (discredited)"
+          ],
+          "passage": [
+            "Ludzie w renesansowej Anglii nadal chcieli wiedzieć, dlaczego chorują.",
+            "Najpopularniejszym poglądem była miazma, czyli złe powietrze.",
+            "Ludzie wierzyli, że gnijące śmieci i brudne miejsca czynią powietrze szkodliwym.",
+            "W teorię czterech humorów nadal wierzyła większość zwykłych ludzi.",
+            "Do 1700 roku wielu naukowców i lekarzy tę teorię odrzuciło.",
+            "Ale nie znaleziono nic nowego, co można by postawić na jej miejscu.",
+            "Nie było przyrządów dość dobrych, żeby pokazać, co naprawdę powoduje choroby.",
+            "Robert Hooke zbudował w tym okresie o wiele lepszy mikroskop.",
+            "W 1683 roku Antonie van Leeuwenhoek zobaczył przez szkiełko maleńkie żywe stworzenia.",
+            "Nikt nie powiązał ich z chorobami jeszcze przez dwieście lat.",
+            "Thomas Sydenham zmienił coś innego: sposób badania pacjentów.",
+            "Uważnie obserwował swoich pacjentów i zapisywał ich objawy.",
+            "Leczył chorobę, a nie każdy objaw osobno."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a crença de que o ar mau, vindo da sujidade e da matéria em decomposição, causava doenças (miasma)",
+            "descobrir que doença é que um doente tem (diagnosis, diagnóstico)",
+            "um sinal de doença, como uma erupção na pele, uma tosse ou febre (symptom, sintoma)",
+            "observar e registar/registrar algo com cuidado (observation, observação)",
+            "mostrado como errado, de maneira que as pessoas deixam de confiar nele (discredited, desacreditado)"
+          ],
+          "passage": [
+            "As pessoas na Inglaterra do Renascimento continuavam a querer saber porque é que ficavam doentes.",
+            "A ideia mais popular era o miasma, ou ar mau.",
+            "As pessoas acreditavam que o lixo em decomposição e os lugares sujos tornavam o ar prejudicial.",
+            "Quase todas as pessoas comuns continuavam a acreditar nos Quatro Humores.",
+            "Em 1700 muitos cientistas e physicians já tinham rejeitado essa teoria.",
+            "Mas não se tinha descoberto nada de novo para pôr no lugar dela.",
+            "Não havia instrumentos bons o suficiente para mostrar o que causava as doenças de facto/fato.",
+            "Robert Hooke construiu um microscópio muito melhor neste período.",
+            "Em 1683 Antonie van Leeuwenhoek viu seres vivos minúsculos através de uma lente.",
+            "Ninguém os ligou às doenças durante mais duzentos anos.",
+            "Thomas Sydenham mudou outra coisa: a maneira como os doentes eram examinados.",
+            "Observava os seus doentes com atenção e escrevia os sintomas deles.",
+            "Tratava a doença, e não cada sintoma por si."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "caqiidada ah in hawada xun ee wasakhda iyo waxa qudhmaya ay cudur keento",
+            "ogaanshaha cudurka qofka bukaan ah uu qabo",
+            "calaamad cudur, sida finan, qufac ama qandho",
+            "in wax si taxaddar leh loo daawado oo loo diiwaangeliyo",
+            "waa la caddeeyay inay khaldan tahay, markaa dadku way ka kalsoonaan waayaan"
+          ],
+          "passage": [
+            "Dadka Renaissance-ka England weli waxay rabeen inay ogaadaan sababta ay u bukoodeen.",
+            "Fikradda ugu caansanayd waxay ahayd miasma, ama hawada xun.",
+            "Dadku waxay rumaysnaayeen in qashinka qudhmaya iyo meelaha wasakhsan ay hawada waxyeello ka dhigeen.",
+            "Four Humours-ka weli waxay rumaysnaayeen dadka caadiga ah badidood.",
+            "1700-kii saynisyahanno iyo physicians badan ayaa fikraddaas diiday.",
+            "Laakiin wax cusub lama helin oo meesheeda la geliyo.",
+            "Ma jirin qalab wanaagsan oo ku filan oo muujiya waxa dhab ahaan cudurka keenay.",
+            "Robert Hooke wuxuu muddadan dhisay microscope aad ka fiican.",
+            "1683-dii Antonie van Leeuwenhoek wuxuu lens ku arkay noolaha yaryar.",
+            "Cidna kuma xirin cudurka ilaa laba boqol oo sano kale.",
+            "Thomas Sydenham wuxuu wax kale beddelay: sida bukaanka loo baaro.",
+            "Bukaannadiisa si dhow ayuu u daawaday oo calaamadahooda cudurka ayuu qoray.",
+            "Cudurka ayuu daaweeyay, ee ma ahayn calaamad kasta kali ahaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "віра в те, що хворобу спричиняло погане повітря від бруду і гнилі (miasma)",
+            "визначення того, яку хворобу має пацієнт (diagnosis)",
+            "ознака хвороби, як-от висип, кашель або гарячка (symptom)",
+            "уважне спостереження і записування (observation)",
+            "той, про якого показали, що він помилковий, тому люди перестають йому довіряти (discredited)"
+          ],
+          "passage": [
+            "Люди в Англії часів Ренесансу все ще хотіли знати, чому вони хворіють.",
+            "Найпоширенішою ідеєю були міазми (miasma), тобто погане повітря.",
+            "Люди вірили, що гниле сміття і брудні місця робили повітря шкідливим.",
+            "У чотири гумори (the Four Humours) все ще вірила більшість простих людей.",
+            "До 1700 року багато науковців і лікарів відкинули цю теорію.",
+            "Але нічого нового не знайшли, щоб поставити на її місце.",
+            "Не було достатньо добрих приладів, щоб показати, що насправді спричиняє хвороби.",
+            "Роберт Гук (Robert Hooke) побудував у цей період значно кращий мікроскоп.",
+            "У 1683 році Антоні ван Левенгук побачив крізь лінзу крихітні живі істоти.",
+            "Ніхто не пов’язав їх із хворобами ще двісті років.",
+            "Томас Сайденгем (Thomas Sydenham) змінив інше: те, як оглядали пацієнтів.",
+            "Він уважно спостерігав за своїми пацієнтами і записував їхні ознаки хвороби.",
+            "Він лікував хворобу, а не кожну ознаку окремо."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہ عقیدہ کہ گندگی اور گلتے سڑتے مادے سے بننے والی بری ہوا بیماری پیدا کرتی ہے (miasma)",
+            "یہ معلوم کرنا کہ مریض کو کون سی بیماری ہے (diagnosis)",
+            "بیماری کی کوئی نشانی، جیسے دانے، کھانسی یا بخار (symptom)",
+            "کسی چیز کو احتیاط سے دیکھنا اور لکھ لینا (observation)",
+            "جس کا غلط ہونا دکھا دیا جائے، اس لیے لوگ اس پر بھروسہ چھوڑ دیں (discredited)"
+          ],
+          "passage": [
+            "Renaissance کے انگلینڈ میں لوگ اب بھی جاننا چاہتے تھے کہ وہ بیمار کیوں پڑتے ہیں۔",
+            "سب سے مقبول خیال miasma، یعنی بری ہوا، تھا۔",
+            "لوگ مانتے تھے کہ گلتا سڑتا کوڑا اور گندی جگہیں ہوا کو نقصان دہ بنا دیتی ہیں۔",
+            "زیادہ تر عام لوگ اب بھی Four Humours کو مانتے تھے۔",
+            "1700 تک بہت سے سائنس دانوں اور physicians نے یہ نظریہ رد کر دیا تھا۔",
+            "مگر اس کی جگہ رکھنے کے لیے کوئی نئی چیز نہ ملی تھی۔",
+            "ایسے آلات موجود نہ تھے جو دکھا سکتے کہ بیماری اصل میں کس سے ہوتی ہے۔",
+            "رابرٹ ہُک (Robert Hooke) نے اسی دور میں ایک بہت بہتر microscope بنایا۔",
+            "1683 میں آنٹونی وان لیوین ہوک (Antonie van Leeuwenhoek) نے عدسے سے ننھے جاندار دیکھے۔",
+            "مزید دو سو سال تک کسی نے انھیں بیماری سے نہ جوڑا۔",
+            "تھامس سڈنہم (Thomas Sydenham) نے ایک اور چیز بدلی: مریضوں کو جانچنے کا طریقہ۔",
+            "وہ اپنے مریضوں کو غور سے دیکھتا اور ان کی symptoms لکھ لیتا تھا۔",
+            "وہ بیماری کا علاج کرتا تھا، ہر symptom کا الگ الگ نہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What people believed caused disease",
@@ -533,8 +847,168 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           "In 1662 King Charles II gave the Society a royal charter.",
           "From 1665 it published a journal in plain English, not Latin.",
           "Ideas could now travel faster than any one person could."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخص كان عمله نسخ الكتب باليد (scribe)",
+            "آلة لها حروف متحرّكة تطبع الصفحات بسرعة (printing press)",
+            "القدرة على القراءة والكتابة (literacy)",
+            "جماعة من العلماء أُنشئت في 1660 لتشارُك الأفكار واختبارها (Royal Society)",
+            "وثيقة رسمية من حاكم تُعطي جماعةً حقوقًا أو إقرارًا (charter)",
+            "منشور منتظم يُبلّغ فيه العلماء عن عملهم (journal)"
+          ],
+          "passage": [
+            "قبل الطباعة كان كلّ كتاب في أوروبا يُنسخ باليد.",
+            "وكان الناسخ قد يستغرق شهورًا لنسخ كتاب واحد.",
+            "وكانت النسخ غالية، وكانت الأخطاء تتسلّل إلى كلّ نسخة.",
+            "وكانت الكنيسة تختار ما يُنسَخ من الكتب، فكانت تتحكّم في الأفكار الجديدة.",
+            "وفي نحو 1440 بنى يوهانس غوتنبرغ (Johannes Gutenberg) مطبعة في أوروبا.",
+            "وكانت تستخدم حروفًا معدنية متحرّكة، فصار يمكن طبع الصفحات بسرعة.",
+            "وبحلول 1500 كانت المطابع قد أنتجت أكثر من عشرين مليون نسخة.",
+            "وكانت القراءة والكتابة تتحسّن أيضًا، فصار يستطيع قراءتها ناس أكثر.",
+            "وفي 1660 أنشأ العلماء الجمعية الملكية (Royal Society) لتشارُك الأفكار.",
+            "وشجّعوا السؤال والجدل لاختبار النظريات الجديدة.",
+            "وفي 1662 أعطى الملك تشارلز الثاني الجمعية امتيازًا ملكيًّا.",
+            "ومن 1665 نشرت مجلّة بالإنجليزية البسيطة لا باللاتينية.",
+            "فصارت الأفكار تستطيع أن تسافر أسرع من أيّ شخص واحد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "człowiek, którego pracą było przepisywanie książek ręcznie (scribe)",
+            "maszyna z ruchomymi literami, która szybko drukowała strony (printing press)",
+            "umiejętność czytania i pisania (literacy)",
+            "grupa naukowców utworzona w 1660 roku, żeby dzielić się pomysłami i je sprawdzać (Royal Society)",
+            "oficjalny dokument od władcy, który daje grupie prawa albo zatwierdzenie (charter)",
+            "regularne wydawnictwo, w którym naukowcy opisują swoją pracę (journal)"
+          ],
+          "passage": [
+            "Przed wynalezieniem druku każdą książkę w Europie przepisywano ręcznie.",
+            "Skrybie przepisanie jednej książki mogło zająć miesiące.",
+            "Kopie były drogie, a przy każdej wkradały się błędy.",
+            "Kościół wybierał, które książki się przepisuje, więc panował nad nowymi myślami.",
+            "Około 1440 roku Johannes Gutenberg zbudował w Europie prasę drukarską.",
+            "Używała ruchomych metalowych liter, więc strony można było drukować szybko.",
+            "Do 1500 roku prasy drukarskie wydały ponad dwadzieścia milionów egzemplarzy.",
+            "Umiejętność czytania też rosła, więc więcej ludzi mogło je czytać.",
+            "W 1660 roku naukowcy utworzyli Royal Society, żeby dzielić się pomysłami.",
+            "Zachęcali do pytań i sporów, żeby sprawdzać nowe teorie.",
+            "W 1662 roku król Charles II (Karol II) nadał Towarzystwu przywilej królewski.",
+            "Od 1665 roku wydawało ono czasopismo w prostym angielskim, a nie po łacinie.",
+            "Pomysły mogły teraz podróżować szybciej niż jakikolwiek człowiek."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pessoa cujo trabalho era copiar livros à mão (scribe, escriba)",
+            "uma máquina com letras móveis que imprimia páginas depressa (printing press, prensa)",
+            "ser capaz de ler e escrever (literacy, literacia/alfabetização)",
+            "um grupo de cientistas criado em 1660 para partilhar/compartilhar e testar ideias (Royal Society)",
+            "um documento oficial de um governante que dá direitos ou aprovação a um grupo (charter, carta)",
+            "uma publicação regular em que os cientistas dão conta do seu trabalho (journal, revista científica)"
+          ],
+          "passage": [
+            "Antes da prensa, todos os livros da Europa eram copiados à mão.",
+            "Um escriba podia levar meses a copiar um livro.",
+            "As cópias eram caras, e em cada uma iam entrando erros.",
+            "A Igreja escolhia quais os livros que eram copiados, por isso controlava as ideias novas.",
+            "Por volta de 1440 Johannes Gutenberg construiu uma prensa na Europa.",
+            "Usava letras de metal móveis, por isso as páginas podiam ser impressas depressa.",
+            "Em 1500 as prensas já tinham produzido mais de vinte milhões de cópias.",
+            "A literacia/alfabetização também estava a melhorar, por isso mais pessoas as podiam ler.",
+            "Em 1660 os cientistas criaram a Royal Society para partilharem/compartilharem ideias.",
+            "Encorajavam as perguntas e a discussão para testar as teorias novas.",
+            "Em 1662 o rei Charles II (Carlos II) deu à Society uma carta régia.",
+            "A partir de 1665 publicou uma revista em inglês simples, e não em latim.",
+            "As ideias podiam agora viajar mais depressa do que qualquer pessoa sozinha."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qof shaqadiisu ahayd inuu buugag gacanta ku qoro",
+            "mishiin xuruuf dhaqdhaqaaqa leh oo bogag si dhaqso ah u daabacay",
+            "inaad akhrin oo qorin karto",
+            "koox saynisyahanno ah oo la sameeyay 1660-kii si fikrado loo wadaago oo loo tijaabiyo",
+            "warqad rasmi ah oo taliye ka timid oo koox siinaysa xuquuq ama ansixin",
+            "daabacaad joogto ah oo saynisyahannadu shaqadooda ku soo sheegaan"
+          ],
+          "passage": [
+            "Daabacaadda ka hor, buug kasta oo Yurub ku jiray gacan ayaa lagu qoray.",
+            "Scribe wuxuu bilo qaadan karay inuu hal buug qoro.",
+            "Nuqulladu waxay ahaayeen kuwo qaali ah, khaladaadna mid kasta ayay ku soo galeen.",
+            "Kaniisaddu waxay dooratay buugaagta la qorayo, markaa fikradaha cusub ayay xukuntay.",
+            "Qiyaastii 1440-kii Johannes Gutenberg wuxuu Yurub ka dhisay printing press.",
+            "Wuxuu isticmaalay xuruuf bir ah oo dhaqaaqa, markaa bogagga si dhaqso ah waa la daabici karay.",
+            "1500-kii printing presses waxay soo saareen in ka badan labaatan milyan oo nuqul.",
+            "Akhris-qoriskuna wuu hagaagayay, markaa dad badan ayaa akhriyi karay.",
+            "1660-kii saynisyahannadu waxay sameeyeen Royal Society si fikrado loo wadaago.",
+            "Waxay dhiirrigeliyeen su'aalid iyo dood si fikrado cusub loo tijaabiyo.",
+            "1662-dii Boqor Charles II wuxuu Society-ga siiyay charter boqortooyo.",
+            "1665-kii wixii ka dambeeyay waxay daabacday joornaal Ingiriisi cad ah, ee ma ahayn Laatiin.",
+            "Fikradaha hadda waxay ka sii dhaqso bixi karayeen qof kasta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "людина, чиєю роботою було переписувати книги від руки (scribe)",
+            "машина з рухомими літерами, яка швидко друкувала сторінки (printing press)",
+            "уміння читати й писати (literacy)",
+            "група науковців, створена у 1660 році, щоб обмінюватися ідеями і перевіряти їх (Royal Society)",
+            "офіційний документ від правителя, що дає групі права або схвалення (charter)",
+            "регулярне видання, у якому науковці повідомляють про свою роботу (journal)"
+          ],
+          "passage": [
+            "До друку кожну книгу в Європі переписували від руки.",
+            "Переписувачеві могли піти місяці, щоб переписати одну книгу.",
+            "Копії були дорогі, і в кожну з них закрадалися помилки.",
+            "Церква обирала, які книги переписувати, тому вона контролювала нові ідеї.",
+            "Приблизно у 1440 році Йоганн Ґутенберґ побудував у Європі друкарський станок.",
+            "Він використовував рухомі металеві літери, тому сторінки можна було друкувати швидко.",
+            "До 1500 року друкарські станки випустили понад двадцять мільйонів копій.",
+            "Уміння читати теж поліпшувалося, тому більше людей могло їх прочитати.",
+            "У 1660 році науковці створили Королівське товариство, щоб обмінюватися ідеями.",
+            "Вони підтримували запитання і суперечку, щоб перевіряти нові теорії.",
+            "У 1662 році король Карл II дав Товариству королівську грамоту.",
+            "З 1665 року воно видавало журнал простою англійською, а не латиною.",
+            "Тепер ідеї могли подорожувати швидше, ніж будь-яка одна людина."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جس کا کام ہاتھ سے کتابیں نقل کرنا تھا (scribe)",
+            "وہ مشین جس میں حرکت پذیر حروف سے صفحے تیزی سے چھاپے جاتے تھے (printing press)",
+            "پڑھ لکھ سکنا (literacy)",
+            "سائنس دانوں کا وہ گروہ جو 1660 میں خیالات بانٹنے اور جانچنے کے لیے بنا (Royal Society)",
+            "کسی حاکم کی طرف سے دی گئی سرکاری دستاویز، جو کسی گروہ کو حق یا منظوری دے (charter)",
+            "وہ باقاعدہ اشاعت جس میں سائنس دان اپنا کام بتاتے ہیں (journal)"
+          ],
+          "passage": [
+            "چھپائی سے پہلے یورپ کی ہر کتاب ہاتھ سے نقل کی جاتی تھی۔",
+            "ایک scribe کو ایک کتاب نقل کرنے میں مہینے لگ سکتے تھے۔",
+            "نقلیں مہنگی ہوتی تھیں، اور ہر نقل میں غلطیاں در آتی تھیں۔",
+            "کلیسا طے کرتا تھا کہ کون سی کتابیں نقل ہوں گی، اس لیے نئے خیالوں پر اس کا قابو تھا۔",
+            "تقریباً 1440 میں یوہانس گوٹن برگ (Johannes Gutenberg) نے یورپ میں printing press بنائی۔",
+            "اس میں حرکت پذیر دھاتی حروف تھے، اس لیے صفحے تیزی سے چھپ سکتے تھے۔",
+            "1500 تک printing presses دو کروڑ سے زیادہ نقلیں چھاپ چکی تھیں۔",
+            "literacy بھی بہتر ہو رہی تھی، اس لیے زیادہ لوگ انھیں پڑھ سکتے تھے۔",
+            "1660 میں سائنس دانوں نے خیالات بانٹنے کے لیے Royal Society بنائی۔",
+            "وہ نئے نظریوں کو جانچنے کے لیے سوال اٹھانے اور بحث کی ہمت افزائی کرتے تھے۔",
+            "1662 میں بادشاہ چارلس دوم نے Society کو شاہی charter دیا۔",
+            "1665 سے اس نے ایک journal سادہ انگریزی میں چھاپا، لاطینی میں نہیں۔",
+            "اب خیال کسی ایک شخص سے زیادہ تیزی سے سفر کر سکتے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Before printing: the hand-copied book",
@@ -739,8 +1213,168 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           "People also moved away from places they thought were unhealthy.",
           "Hospitals changed when Henry VIII closed the monasteries from 1536.",
           "New pest houses kept people with one disease away from everyone else."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الاعتقاد أنّ المرض يمكن نقله إلى شيء أو إلى حيوان (transference)",
+            "نظام يكتبه الطبيب لمريض واحد ليبقى صحيحًا (regimen sanitatis)",
+            "صورة قديمة من الكيمياء تُخلط فيها الموادّ لصنع موادّ جديدة (alchemy)",
+            "طبيب يخلط الأدوية ويبيعها (apothecary)",
+            "بناء يُخصَّص للناس المصابين بمرض واحد بعينه (pest house)",
+            "إغلاق الأديرة على يد هنري الثامن من 1536 (dissolution)"
+          ],
+          "passage": [
+            "معظم علاجات النهضة كانت معروفة في العصر الوسيط.",
+            "فالفِصادة والتطهير استمرّا، والمقصود منهما إعادة توازن الأخلاط.",
+            "واستمرّت العلاجات العشبية أيضًا، ومعها لمسة جديدة واحدة.",
+            "فكان العلاج يُختار كثيرًا لأنّ لونه يطابق المرض.",
+            "وبعض العلاجات كان جديدًا، كالنقل (transference).",
+            "وكان الناس يعتقدون أنّ المرض يمكن نقله إلى شيء أو إلى حيوان.",
+            "والكيمياء القديمة (alchemy) أنتجت علاجات كيميائية جديدة.",
+            "وأحصى كتاب من 1618 أكثر من ألفي علاج للبيع.",
+            "والوقاية تغيّرت أكثر ممّا تغيّر العلاج.",
+            "فنُظّفت الشوارع وجُفّفت المستنقعات وأُزيلت النفايات.",
+            "والناس أيضًا انتقلوا بعيدًا عن أماكن كانوا يرونها غير صحّية.",
+            "وتغيّرت المستشفيات لمّا أغلق هنري الثامن الأديرة من 1536.",
+            "وأبعدت بيوت الوباء الجديدة المصابين بمرض واحد عن الناس جميعًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przekonanie, że chorobę można przenieść w jakiś przedmiot albo w zwierzę (transference)",
+            "zestaw zaleceń, które lekarz pisał jednemu pacjentowi, żeby ten pozostał zdrowy (regimen sanitatis)",
+            "wczesna forma chemii, w której mieszano substancje, żeby zrobić nowe (alchemy)",
+            "medyk, który mieszał i sprzedawał lekarstwa (apothecary)",
+            "budynek przeznaczony dla ludzi z jedną określoną chorobą (pest house)",
+            "zamykanie klasztorów przez Henry'ego VIII od 1536 roku (dissolution)"
+          ],
+          "passage": [
+            "Większość leczenia w renesansie byłaby znana już w średniowieczu.",
+            "Upuszczanie krwi i oczyszczanie trwały dalej i miały przywracać równowagę humorów.",
+            "Lekarstwa z roślin też trwały dalej, z jedną nowością.",
+            "Lekarstwo często wybierano dlatego, że jego kolor pasował do choroby.",
+            "Część leczenia była nowa, na przykład przenoszenie choroby (transference).",
+            "Ludzie wierzyli, że chorobę można przenieść w jakiś przedmiot albo w zwierzę.",
+            "Alchemia, wczesna chemia, dała nowe lekarstwa chemiczne.",
+            "Książka z 1618 roku wymieniała ponad dwa tysiące lekarstw na sprzedaż.",
+            "Zapobieganie zmieniło się bardziej niż leczenie.",
+            "Czyszczono ulice, osuszano bagna i wywożono śmieci.",
+            "Ludzie wyjeżdżali też z miejsc, które uważali za niezdrowe.",
+            "Szpitale zmieniły się, kiedy Henry VIII (Henryk VIII) zaczął od 1536 roku zamykać klasztory.",
+            "Nowe pest houses trzymały ludzi z jedną chorobą z dala od wszystkich innych."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a crença de que uma doença podia ser transferida para um objeto ou para um animal (transference, transferência)",
+            "uma rotina que um physician escrevia para um doente, para o manter saudável (regimen sanitatis)",
+            "uma forma antiga de química, em que se misturavam substâncias para fazer outras novas (alchemy, alquimia)",
+            "um profissional que misturava e vendia medicamentos (apothecary, boticário)",
+            "um edifício reservado para pessoas com uma determinada doença (pest house)",
+            "o fecho dos mosteiros por Henry VIII a partir de 1536 (dissolution, dissolução)"
+          ],
+          "passage": [
+            "Quase todos os tratamentos do Renascimento seriam familiares no período medieval.",
+            "A sangria e a purga continuaram, com a intenção de reequilibrar os humores.",
+            "Os remédios de ervas também continuaram, com uma novidade.",
+            "Muitas vezes escolhia-se um remédio porque a cor dele correspondia à doença.",
+            "Alguns tratamentos eram novos, como a transferência.",
+            "As pessoas acreditavam que uma doença podia ser transferida para um objeto ou para um animal.",
+            "A alquimia, uma química antiga, produziu remédios químicos novos.",
+            "Um livro de 1618 listava mais de dois mil remédios à venda.",
+            "A prevenção mudou mais do que o tratamento.",
+            "As ruas foram limpas, os pântanos drenados e o lixo retirado.",
+            "As pessoas também se mudavam para longe dos lugares que julgavam insalubres.",
+            "Os hospitais mudaram quando Henry VIII fechou os mosteiros, a partir de 1536.",
+            "As novas pest houses mantinham as pessoas com uma determinada doença longe de todas as outras."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "caqiidada ah in cudur shay ama xayawaan loo gudbin karo",
+            "jadwal physician qoray oo hal bukaan ah si caafimaadkiisa loo ilaaliyo",
+            "nooc hore oo kiimiko ah oo walxo la isku darayay si kuwo cusub loo sameeyo",
+            "dhakhtar daawooyinka isku dara oo iibiya",
+            "dhisme loo gooniyeeyay dadka qaba hal cudur gaar ah",
+            "xidhidda monasteries-ka oo Henry VIII sameeyay laga bilaabo 1536-kii"
+          ],
+          "passage": [
+            "Inta badan daaweynta Renaissance-ka waxaa la garan lahaa qarniyadii dhexe.",
+            "Bloodletting iyo purging way sii socdeen, waxaana loogu talagalay in humours-ka dib loo dheellitiro.",
+            "Daawooyinka dhirtuna way sii socdeen, iyagoo leh hal shay cusub.",
+            "Daawo waxaa inta badan loo doortay maxaa yeelay midabkeedu cudurka u ekaa.",
+            "Daaweyn qaar waxay cusub ahaayeen, sida transference.",
+            "Dadku waxay rumaysnaayeen in cudur shay ama xayawaan loo gudbin karo.",
+            "Alchemy, oo ahaa kiimiko hore, waxay soo saartay daawooyin kiimiko ah oo cusub.",
+            "Buug 1618-kii wuxuu liistay in ka badan laba kun oo daawo oo iib ah.",
+            "Ka-hortagga wuu ka sii beddelmay daaweynta.",
+            "Waddooyinka waa la nadiifiyay, dhiiqooyinka waa la miiray, qashinkana waa la saaray.",
+            "Dadku sidoo kale waxay ka guureen meelo ay u maleeyeen inaanay caafimaad lahayn.",
+            "Isbitaallada way isbeddeleen markii Henry VIII xidhay monasteries-ka laga bilaabo 1536-kii.",
+            "Pest houses cusub waxay dadka qaba hal cudur ka fogeeyeen dadka kale."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "віра в те, що хворобу можна було перенести в якусь річ або тварину (transference)",
+            "розпорядок, який лікар писав для одного пацієнта, щоб тримати його здоровим (regimen sanitatis)",
+            "рання форма хімії, у якій речовини змішували, щоб утворити нові (alchemy)",
+            "медик, який змішував і продавав лікарські засоби (apothecary)",
+            "будівля, відведена для людей з однією певною хворобою (pest house)",
+            "закриття монастирів Генріхом VIII, починаючи з 1536 року (dissolution)"
+          ],
+          "passage": [
+            "Більшість лікувань часів Ренесансу була б знайомою й у середньовіччі.",
+            "Кровопускання й очищення продовжувалися, щоб урівноважити гумори.",
+            "Трав’яні засоби теж продовжувалися, з однією новою рисою.",
+            "Засіб часто обирали тому, що його колір відповідав хворобі.",
+            "Деякі лікування були новими, як-от перенесення (transference).",
+            "Люди вірили, що хворобу можна перенести в якусь річ або тварину.",
+            "Алхімія, рання хімія, дала нові хімічні засоби.",
+            "Книга 1618 року перелічувала понад дві тисячі засобів на продаж.",
+            "Запобігання змінилося більше, ніж лікування.",
+            "Вулиці прибирали, болота осушували, а сміття вивозили.",
+            "Люди також виїжджали з місць, які вважали нездоровими.",
+            "Лікарні змінилися, коли Генріх VIII почав закривати монастирі з 1536 року.",
+            "Нові чумні доми (pest houses) тримали людей з однією хворобою подалі від усіх інших."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہ عقیدہ کہ بیماری کو کسی چیز یا جانور میں منتقل کیا جا سکتا ہے (transference)",
+            "وہ معمول جو کوئی physician ایک مریض کے لیے لکھتا تھا تاکہ وہ صحت مند رہے (regimen sanitatis)",
+            "کیمیا کی ایک ابتدائی شکل، جس میں مادے ملا کر نئے مادے بنائے جاتے تھے (alchemy)",
+            "وہ طبی آدمی جو دوائیں ملاتا اور بیچتا تھا (apothecary)",
+            "وہ عمارت جو ایک خاص بیماری والے لوگوں کے لیے الگ رکھی جاتی تھی (pest house)",
+            "ہنری ہشتم کے ہاتھوں 1536 سے monasteries کا بند کیا جانا (dissolution)"
+          ],
+          "passage": [
+            "Renaissance کے زیادہ تر علاج قرونِ وسطیٰ میں بھی جانے پہچانے ہوتے۔",
+            "bloodletting اور purging جاری رہے، جن کا مقصد humours کا توازن بحال کرنا تھا۔",
+            "جڑی بوٹیوں کے علاج بھی جاری رہے، ایک نئے موڑ کے ساتھ۔",
+            "علاج اکثر اس لیے چنا جاتا تھا کہ اس کا رنگ بیماری سے ملتا تھا۔",
+            "کچھ علاج نئے تھے، جیسے transference۔",
+            "لوگ مانتے تھے کہ بیماری کو کسی چیز یا جانور میں منتقل کیا جا سکتا ہے۔",
+            "alchemy، یعنی ابتدائی کیمیا، سے نئے کیمیائی علاج نکلے۔",
+            "1618 کی ایک کتاب میں بکنے والے دو ہزار سے زیادہ علاج درج تھے۔",
+            "بچاؤ میں علاج سے زیادہ تبدیلی آئی۔",
+            "گلیاں صاف کی گئیں، دلدلیں خشک کی گئیں اور کوڑا ہٹایا گیا۔",
+            "لوگ ان جگہوں سے دور بھی چلے جاتے تھے جنھیں وہ غیر صحت مند سمجھتے تھے۔",
+            "ہسپتال اس وقت بدلے جب ہنری ہشتم نے 1536 سے monasteries بند کر دیے۔",
+            "نئے pest houses ایک بیماری والے لوگوں کو باقی سب سے دور رکھتے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Treatments: what carried on, and what was new",
@@ -950,8 +1584,168 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           "Galen had taught that blood was made in the liver.",
           "Harvey published his findings in 1628.",
           "Both men changed what was known, but not what doctors did."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "دراسة بنية الجسم (anatomy)",
+            "فتح جسم ميّت لدراسته (dissection)",
+            "رسم مفصّل في كتاب (illustration)",
+            "وعاء دموي يحمل الدم نحو القلب (vein)",
+            "وعاء دموي يحمل الدم بعيدًا عن القلب (artery)",
+            "حركة الدم دورةً بعد دورة في الجسم (circulation)"
+          ],
+          "passage": [
+            "أراد أندرياس فيزاليوس (Andreas Vesalius) أن يعرف كيف هو جسم الإنسان حقًّا.",
+            "وكانت تشريحات العصر الوسيط تُجرى لتأكيد ما كتبه جالينوس.",
+            "فكان أستاذ يقرأ الكتاب بصوت عالٍ وشخص آخر يُجري القطع.",
+            "أمّا فيزاليوس فأجرى القطع بنفسه وعلّم ممّا رآه.",
+            "وفي 1543 نشر كتابًا فيه رسوم مفصّلة جدًّا.",
+            "ووجد أكثر من ثلاث مئة خطأ في عمل جالينوس.",
+            "وكان جالينوس قد وقع فيها لأنه شرّح حيوانات لا بشرًا.",
+            "ودرس وليام هارفي (William Harvey) الجسم بالتشريح والمراقبة أيضًا.",
+            "فأظهر أنّ الأوردة تحمل الدم إلى القلب.",
+            "وأظهر أنّ القلب يضخّ الدم دورةً بعد دورة في الجسم.",
+            "وكان جالينوس قد علّم أنّ الدم يُصنع في الكبد.",
+            "ونشر هارفي نتائجه في 1628.",
+            "وكلا الرجلين غيّر ما كان معروفًا، ولكنه لم يغيّر ما كان الأطبّاء يفعلونه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "nauka o budowie ciała (anatomy)",
+            "rozcinanie martwego ciała, żeby je zbadać (dissection)",
+            "dokładny rysunek w książce (illustration)",
+            "naczynie krwionośne, które prowadzi krew w stronę serca (vein)",
+            "naczynie krwionośne, które prowadzi krew od serca (artery)",
+            "ruch krwi w kółko po całym ciele (circulation)"
+          ],
+          "passage": [
+            "Andreas Vesalius chciał wiedzieć, jakie naprawdę jest ludzkie ciało.",
+            "Średniowieczne sekcje robiono, żeby potwierdzić to, co napisał Galen.",
+            "Profesor czytał książkę na głos, a ktoś inny rozcinał ciało.",
+            "Vesalius rozcinał sam i uczył z tego, co zobaczył.",
+            "W 1543 roku wydał książkę z bardzo dokładnymi rysunkami.",
+            "Znalazł w pracy Galena ponad trzysta błędów.",
+            "Galen popełnił je, bo robił sekcje zwierząt, a nie ludzi.",
+            "William Harvey też badał ciało przez sekcje i obserwację.",
+            "Pokazał, że żyły prowadzą krew do serca.",
+            "Pokazał, że serce pompuje krew w kółko po całym ciele.",
+            "Galen nauczał, że krew powstaje w wątrobie.",
+            "Harvey wydał swoje odkrycia w 1628 roku.",
+            "Obaj zmienili to, co było wiadomo, ale nie to, co robili lekarze."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o estudo da estrutura do corpo (anatomy, anatomia)",
+            "abrir um corpo morto para o estudar (dissection, dissecação)",
+            "um desenho detalhado num livro (illustration, ilustração)",
+            "um vaso sanguíneo que leva o sangue em direção ao coração (vein, veia)",
+            "um vaso sanguíneo que leva o sangue para longe do coração (artery, artéria)",
+            "o movimento do sangue às voltas pelo corpo (circulation, circulação)"
+          ],
+          "passage": [
+            "Andreas Vesalius queria saber como era realmente o corpo humano.",
+            "As dissecações medievais faziam-se para confirmar o que Galeno tinha escrito.",
+            "Um professor lia o livro em voz alta enquanto outra pessoa fazia os cortes.",
+            "Vesalius fazia ele próprio os cortes e ensinava a partir daquilo que via.",
+            "Em 1543 publicou um livro com ilustrações muito detalhadas.",
+            "Encontrou mais de trezentos erros na obra de Galeno.",
+            "Galeno tinha-os cometido porque dissecava animais, e não pessoas.",
+            "William Harvey também estudou o corpo pela dissecação e pela observação.",
+            "Mostrou que as veias levam o sangue até ao coração.",
+            "Mostrou que o coração bombeia o sangue às voltas pelo corpo.",
+            "Galeno tinha ensinado que o sangue era feito no fígado.",
+            "Harvey publicou as suas descobertas em 1628.",
+            "Os dois homens mudaram aquilo que se sabia, mas não aquilo que os médicos faziam."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "barashada qaab-dhismeedka jidhka",
+            "in meyd la furo si loo barto",
+            "sawir faahfaahsan oo buug ku jira",
+            "xidid dhiigga qalbiga u geeya",
+            "xidid dhiigga qalbiga ka qaada",
+            "socodka dhiigga oo jidhka ku wareegaya"
+          ],
+          "passage": [
+            "Andreas Vesalius wuxuu rabay inuu ogaado sida jidhka bini'aadamka dhab ahaantii yahay.",
+            "Dissections-kii qarniyadii dhexe waxaa loo qabtay in la xaqiijiyo waxa Galen qoray.",
+            "Borofisar ayaa buugga kor u akhriyay halka qof kale uu furayay.",
+            "Vesalius naftiisa ayuu furay oo wuxuu baray waxa uu arkay.",
+            "1543-kii wuxuu daabacay buug sawirro aad u faahfaahsan leh.",
+            "Wuxuu shaqada Galen ka helay in ka badan saddex boqol oo khalad.",
+            "Galen wuxuu sameeyay maxaa yeelay xayawaan ayuu furay, ee ma ahayn dad.",
+            "William Harvey wuxuu jidhka iyana ku bartay furitaan iyo fiirsasho.",
+            "Wuxuu muujiyay in veins-ku dhiigga qalbiga u qaadaan.",
+            "Wuxuu muujiyay in qalbigu dhiigga jidhka ku wareejiyo.",
+            "Galen wuxuu baray in dhiigga beerka laga sameeyo.",
+            "Harvey waxa uu helay wuxuu daabacay 1628-kii.",
+            "Labada nin waxay beddeleen waxa la ogaa, laakiin ma beddelin waxa dhakhaatiirtu samaysay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вивчення будови тіла (anatomy)",
+            "розтин мертвого тіла, щоб його вивчити (dissection)",
+            "докладний малюнок у книзі (illustration)",
+            "судина, яка несе кров до серця (vein)",
+            "судина, яка несе кров від серця (artery)",
+            "рух крові по колу навколо тіла (circulation)"
+          ],
+          "passage": [
+            "Андреас Везалій хотів знати, яким насправді є людське тіло.",
+            "Середньовічні розтини робили, щоб підтвердити те, що написав Гален.",
+            "Професор читав книгу вголос, а хтось інший робив розтин.",
+            "Везалій робив розтин сам і навчав із того, що бачив.",
+            "У 1543 році він видав книгу з дуже докладними малюнками.",
+            "Він знайшов понад триста помилок у праці Галена.",
+            "Гален зробив їх тому, що розтинав тварин, а не людей.",
+            "Вільям Гарвей (William Harvey) теж вивчав тіло розтином і спостереженням.",
+            "Він показав, що вени несуть кров до серця.",
+            "Він показав, що серце жене кров по колу навколо тіла.",
+            "Гален навчав, що кров утворюється в печінці.",
+            "Гарвей видав свої висновки у 1628 році.",
+            "Обидва змінили те, що було відомо, але не те, що робили лікарі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جسم کی ساخت کا مطالعہ (anatomy)",
+            "مطالعے کے لیے کسی مرے ہوئے جسم کو کاٹ کر کھولنا (dissection)",
+            "کتاب میں بنی باریک تفصیل والی تصویر (illustration)",
+            "وہ خون کی نالی جو خون دل کی طرف لے جاتی ہے (vein)",
+            "وہ خون کی نالی جو خون دل سے دور لے جاتی ہے (artery)",
+            "خون کا جسم میں گھوم گھوم کر چلنا (circulation)"
+          ],
+          "passage": [
+            "آندریاس ویسالیس (Andreas Vesalius) جاننا چاہتا تھا کہ انسانی جسم اصل میں کیسا ہے۔",
+            "قرونِ وسطیٰ میں dissections اس لیے کی جاتی تھیں کہ گیلن کی لکھی ہوئی بات کی تصدیق ہو۔",
+            "ایک پروفیسر کتاب اونچی آواز میں پڑھتا، جبکہ کاٹنے کا کام کوئی اور کرتا تھا۔",
+            "ویسالیس نے کاٹنے کا کام خود کیا اور جو دیکھا، اسی سے پڑھایا۔",
+            "1543 میں اس نے بہت باریک تصویروں والی ایک کتاب شائع کی۔",
+            "اسے گیلن کے کام میں تین سو سے زیادہ غلطیاں ملیں۔",
+            "گیلن نے یہ غلطیاں اس لیے کی تھیں کہ اس نے جانوروں کی dissection کی تھی، انسانوں کی نہیں۔",
+            "ولیم ہاروی (William Harvey) نے بھی جسم کا مطالعہ dissection اور observation سے کیا۔",
+            "اس نے دکھایا کہ veins خون دل کی طرف لے جاتی ہیں۔",
+            "اس نے دکھایا کہ دل خون کو جسم میں گھما گھما کر پمپ کرتا ہے۔",
+            "گیلن نے پڑھایا تھا کہ خون جگر میں بنتا ہے۔",
+            "ہاروی نے اپنے نتائج 1628 میں شائع کیے۔",
+            "دونوں نے معلومات بدل دیں، مگر ڈاکٹروں کا عمل نہ بدلا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Andreas Vesalius and the body itself",
@@ -1169,8 +1963,162 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           "Prevention had changed, because the government acted.",
           "Public meetings were banned and the theatres were closed.",
           "In the village of Eyam, the people shut themselves off to protect their neighbours."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الموجة الكبيرة من الطاعون في إنجلترا في 1665 (Great Plague)",
+            "ارتفاع مفاجئ في عدد المصابين بمرض (outbreak)",
+            "إبعاد الناس الذين قد يحملون مرضًا عن غيرهم مدّةً محدّدة (quarantine)",
+            "شخص لا تدريب له كان يبيع علاجات لا تنفع (quack doctor)",
+            "مثال واحد يُدرس بالتفصيل لاختبار سؤال أكبر (case study)"
+          ],
+          "passage": [
+            "لم يختفِ الطاعون بعد الموت الأسود في 1348.",
+            "فكانت هناك موجات محلّية أصغر في ثلاث مئة سنة بعده.",
+            "وأُصيبت لندن إصابةً شديدة في 1603 ثم في 1625.",
+            "ثم جاءت بين يونيو ونوفمبر 1665 موجة كبيرة.",
+            "وفي أسوأ أحوالها كان يموت 7,000 شخص في الأسبوع.",
+            "ومات في لندن أكثر من 100,000 شخص، أي نحو خُمس المدينة.",
+            "ويقول المؤرّخون اليوم إنّ المرض كان ينقله البراغيث على الجرذان.",
+            "ولم يكن أحد في 1665 يعرف ذلك.",
+            "وكان الناس لا يزالون يلومون الهواء الفاسد أو النجوم أو الله.",
+            "والعلاجات لم تكن قد تغيّرت إلّا قليلًا جدًّا منذ 1348.",
+            "أمّا الوقاية فقد تغيّرت، لأنّ الحكومة تحرّكت.",
+            "فمُنعت الاجتماعات العامّة وأُغلقت المسارح.",
+            "وفي قرية آيام (Eyam) حجز أهلها أنفسهم ليحموا جيرانهم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wielka epidemia dżumy w Anglii w 1665 roku (Great Plague)",
+            "nagły wzrost liczby ludzi z jakąś chorobą (outbreak)",
+            "trzymanie ludzi, którzy mogą przenosić chorobę, z dala od innych przez określony czas (quarantine)",
+            "ktoś bez wykształcenia, kto sprzedawał lekarstwa, które nie działały (quack doctor)",
+            "jeden przykład badany szczegółowo, żeby sprawdzić większe pytanie (case study)"
+          ],
+          "passage": [
+            "Dżuma nie zniknęła po czarnej śmierci z 1348 roku.",
+            "Przez następne trzysta lat zdarzały się mniejsze miejscowe epidemie.",
+            "Londyn został mocno uderzony w 1603 roku i znowu w 1625 roku.",
+            "Potem, między czerwcem i listopadem 1665 roku, przyszła wielka epidemia.",
+            "W najgorszym momencie umierało 7,000 ludzi na tydzień.",
+            "W Londynie umarło ponad 100,000 ludzi, około jednej piątej mieszkańców miasta.",
+            "Historycy dzisiaj mówią, że chorobę przenosiły pchły na szczurach.",
+            "Nikt w 1665 roku o tym nie wiedział.",
+            "Ludzie nadal winili złe powietrze, gwiazdy albo Boga.",
+            "Leczenie prawie nie zmieniło się od 1348 roku.",
+            "Zapobieganie się zmieniło, bo rząd podjął działania.",
+            "Zakazano publicznych zgromadzeń i zamknięto teatry.",
+            "W wiosce Eyam ludzie odcięli się od świata, żeby ochronić swoich sąsiadów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o grande surto de peste em Inglaterra em 1665 (Great Plague, Grande Peste)",
+            "uma subida repentina no número de pessoas com uma doença (outbreak, surto)",
+            "manter longe das outras, durante um tempo determinado, as pessoas que podem transportar uma doença (quarantine, quarentena)",
+            "alguém sem formação que vendia remédios que não funcionavam (quack doctor, charlatão)",
+            "um exemplo estudado em detalhe para testar uma pergunta mais ampla (case study, estudo de caso)"
+          ],
+          "passage": [
+            "A peste não desapareceu depois da Peste Negra de 1348.",
+            "Houve surtos locais mais pequenos durante os trezentos anos seguintes.",
+            "Londres foi muito atingida em 1603 e outra vez em 1625.",
+            "Depois, entre junho e novembro de 1665, veio um grande surto.",
+            "No pior momento, morriam 7 000 pessoas por semana.",
+            "Morreram mais de 100 000 pessoas em Londres, cerca de um quinto da cidade.",
+            "Os historiadores de hoje dizem que a doença era transportada por pulgas nos ratos.",
+            "Ninguém sabia isso em 1665.",
+            "As pessoas continuavam a culpar o ar mau, as estrelas ou Deus.",
+            "Os tratamentos quase não tinham mudado desde 1348.",
+            "A prevenção tinha mudado, porque o governo agiu.",
+            "As reuniões públicas foram proibidas e os teatros foram fechados.",
+            "Na aldeia de Eyam, as pessoas fecharam-se do mundo para proteger os seus vizinhos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "daacuunkii weynaa ee England ka dhacay 1665-kii",
+            "kor u kac degdeg ah oo tirada dadka cudurka qaba",
+            "in dadka cudur sidi kara laga fogeeyo dadka kale muddo go'an",
+            "qof aan tababbar lahayn oo iibiyay daawooyin aan shaqeyn",
+            "hal tusaale oo si qoto dheer loo barto si su'aal ka weyn loo tijaabiyo"
+          ],
+          "passage": [
+            "Daacuunku ma baabba'in kadib Black Death-kii 1348-kii.",
+            "Waxaa jiray kor u kacyo maxalli ah oo yaryar saddex boqol oo sano ee xigtay.",
+            "London si xun ayaa loo dhuftay 1603-dii iyo mar kale 1625-kii.",
+            "Kadibna, intii u dhexeysay Juun iyo Noofembar 1665-kii, waxaa yimid kor u kac weyn.",
+            "Markii ugu xumaa, 7,000 qof toddobaadkii ayaa dhimanayay.",
+            "In ka badan 100,000 oo qof ayaa London ku dhintay, oo ah qiyaastii shan-meelood meel magaalada.",
+            "Taariikhyahannada maanta waxay yiraahdaan cudurka waxaa siday injirta jiirarka saaran.",
+            "Cidna 1665-kii taas ma ogeyn.",
+            "Dadku weli waxay ku eedeeyeen hawada xun, xiddigaha ama Ilaah.",
+            "Daaweyntu si yar ayay isbeddeshay 1348-kii.",
+            "Ka-hortaggu wuu isbeddelay, maxaa yeelay dowladdu wax bay qabatay.",
+            "Shirarka dadweynaha waa la mamnuucay, tiyaatarradana waa la xidhay.",
+            "Tuulada Eyam, dadku waxay naftooda gooni iska dhigeen si ay deriskooda u ilaaliyaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "великий спалах чуми в Англії у 1665 році (Great Plague)",
+            "раптове зростання кількості людей із хворобою (outbreak)",
+            "тримання людей, які можуть переносити хворобу, окремо від інших певний час (quarantine)",
+            "той, хто не мав навчання і продавав засоби, які не діяли (quack doctor)",
+            "один приклад, вивчений докладно, щоб перевірити більше запитання (case study)"
+          ],
+          "passage": [
+            "Чума не зникла після Чорної смерті 1348 року.",
+            "Наступні триста років були менші місцеві спалахи.",
+            "Лондон тяжко постраждав у 1603 році і знову в 1625 році.",
+            "Потім, між червнем і листопадом 1665 року, прийшов великий спалах.",
+            "У найгірший час помирало 7,000 людей на тиждень.",
+            "У Лондоні померло понад 100,000 людей, приблизно п’ята частина міста.",
+            "Історики сьогодні кажуть, що хворобу переносили блохи на щурах.",
+            "У 1665 році цього ніхто не знав.",
+            "Люди все ще звинувачували погане повітря, зорі або Бога.",
+            "Лікування майже не змінилися з 1348 року.",
+            "Запобігання змінилося, бо уряд почав діяти.",
+            "Публічні збори заборонили, а театри закрили.",
+            "У селі Ейам (Eyam) люди відрізали себе від світу, щоб захистити своїх сусідів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "1665 میں انگلینڈ میں طاعون کا بڑا پھیلاؤ (Great Plague)",
+            "کسی بیماری کے مریضوں کی تعداد کا اچانک بڑھ جانا (outbreak)",
+            "ایسے لوگوں کو، جو بیماری پھیلا سکتے ہوں، مقررہ مدت تک دوسروں سے دور رکھنا (quarantine)",
+            "وہ شخص جس کی کوئی تربیت نہ ہو اور جو ایسے علاج بیچے جو کام نہ کرتے ہوں (quack doctor)",
+            "ایک مثال جس کا تفصیلی مطالعہ کسی بڑے سوال کو جانچنے کے لیے کیا جائے (case study)"
+          ],
+          "passage": [
+            "1348 کے Black Death کے بعد طاعون غائب نہ ہوا۔",
+            "اگلے تین سو سال تک چھوٹے مقامی پھیلاؤ ہوتے رہے۔",
+            "لندن 1603 میں اور پھر 1625 میں بری طرح متاثر ہوا۔",
+            "پھر، جون اور نومبر 1665 کے درمیان، ایک بڑا پھیلاؤ آیا۔",
+            "اپنے بدترین دنوں میں ہفتے کے 7,000 لوگ فوت ہو رہے تھے۔",
+            "لندن میں 100,000 سے زیادہ لوگ فوت ہوئے، یعنی شہر کا تقریباً پانچواں حصہ۔",
+            "آج مؤرخ کہتے ہیں کہ یہ بیماری چوہوں پر بیٹھے پسوؤں سے پھیلی۔",
+            "1665 میں یہ کسی کو معلوم نہ تھا۔",
+            "لوگ اب بھی بری ہوا، ستاروں یا خدا کو ذمہ دار ٹھہراتے تھے۔",
+            "1348 سے علاج میں بہت کم تبدیلی آئی تھی۔",
+            "بچاؤ میں تبدیلی آئی تھی، کیونکہ حکومت نے قدم اٹھائے۔",
+            "عوامی اجتماعوں پر پابندی لگا دی گئی اور تھیٹر بند کر دیے گئے۔",
+            "اییم (Eyam) کے گاؤں میں لوگوں نے اپنے پڑوسیوں کو بچانے کے لیے خود کو الگ کر لیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The plague never really left",

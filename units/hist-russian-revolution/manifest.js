@@ -105,8 +105,168 @@ window.ASTRA_UNITS["hist-russian-revolution"] = {
           "He was a quiet family man who had never wanted the job.",
           "When Russia built factories, a new group grew in the cities.",
           "These workers had long hours, low pay and no voice either."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الكلمة الروسية للملك: حاكم الإمبراطورية الروسية (Tsar)",
+            "حاكم يحمل كلّ السلطة السياسية بنفسه (autocrat)",
+            "أسرة تحكم بلدًا وتتوارث السلطة من الأب إلى الابن (dynasty)",
+            "شخص كان يعمل في الأرض، وكان فقيرًا جدًّا في الغالب (peasant)",
+            "بناء المصانع والمناجم والسكك الحديدية (industrialisation)"
+          ],
+          "passage": [
+            "في سنوات 1800 كانت الإمبراطورية الروسية أكبر بلد في العالم.",
+            "وحكمتها أسرة واحدة: آل رومانوف (Romanovs).",
+            "وقد وصلوا إلى السلطة في 1613.",
+            "وكان حاكمهم يُسمّى القيصر (Tsar)، وهي الكلمة الروسية للملك.",
+            "وكان القيصر حاكمًا مطلقًا.",
+            "ومعنى ذلك أنّ شخصًا واحدًا كان يحمل كلّ السلطة السياسية.",
+            "ولم يكن هناك برلمان منتخب ولا طريق قانوني لمنازعته.",
+            "وكانت ثلاث ركائز تسنده: الجيش، والجهاز الإداري، والكنيسة الأرثوذكسية.",
+            "وكان نحو 85 في المئة من الروس فلّاحين يزرعون الأرض.",
+            "ومعظمهم كان فقيرًا جدًّا.",
+            "وصار نيقولا الثاني (Nicholas II) قيصرًا في 1894.",
+            "وكان رجلًا هادئًا يحبّ أسرته ولم يكن يريد هذا المنصب أبدًا.",
+            "ولمّا بنت روسيا المصانع نشأت في المدن فئة جديدة.",
+            "وكان هؤلاء العمّال يعملون ساعات طويلة بأجر قليل، ولم يكن لهم صوت هم أيضًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "rosyjskie słowo oznaczające króla: władca imperium rosyjskiego (Tsar)",
+            "władca, który sam trzyma całą władzę polityczną (autocrat)",
+            "rodzina, która rządzi krajem, przekazując władzę z rodzica na dziecko (dynasty)",
+            "człowiek, który pracował na ziemi, zwykle bardzo biedny (peasant)",
+            "budowanie fabryk, kopalń i kolei (industrialisation)"
+          ],
+          "passage": [
+            "W XIX wieku (the 1800s) imperium rosyjskie było największym krajem na świecie.",
+            "Rządziła nim jedna rodzina: Romanowowie.",
+            "Doszli do władzy w 1613 roku.",
+            "Ich władcę nazywano carem, bo to rosyjskie słowo oznaczające króla.",
+            "Car był autokratą.",
+            "To znaczy, że jedna osoba trzymała całą władzę polityczną.",
+            "Nie było wybieranego parlamentu ani zgodnego z prawem sposobu, żeby mu się sprzeciwić.",
+            "Podtrzymywały go trzy filary: armia, urzędy państwowe i Kościół prawosławny.",
+            "Około 85 procent Rosjan to byli chłopi, którzy uprawiali ziemię.",
+            "Większość z nich była bardzo biedna.",
+            "Nicholas II (Mikołaj II) został carem w 1894 roku.",
+            "Był cichym człowiekiem rodzinnym, który nigdy nie chciał tego zadania.",
+            "Kiedy Rosja zbudowała fabryki, w miastach wyrosła nowa grupa.",
+            "Ci robotnicy mieli długie godziny pracy, niskie zarobki i też nie mieli głosu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a palavra russa para rei: o governante do Império Russo (Tsar, czar/tsar)",
+            "um governante que detém ele próprio todo o poder político (autocrat, autocrata)",
+            "uma família que governa um país, passando o poder de pais para filhos (dynasty, dinastia)",
+            "uma pessoa que trabalhava a terra, normalmente muito pobre (peasant, camponês)",
+            "a construção de fábricas, minas e ferrovias/caminhos de ferro (industrialisation, industrialização)"
+          ],
+          "passage": [
+            "Nos anos 1800 o Império Russo era o maior país do mundo.",
+            "Era governado por uma só família: os Romanov.",
+            "Tinham chegado ao poder em 1613.",
+            "O seu governante chamava-se czar/tsar, a palavra russa para rei.",
+            "O czar era um autocrata.",
+            "Isso quer dizer que uma só pessoa detinha todo o poder político.",
+            "Não havia parlamento eleito nem maneira legal de o contestar.",
+            "Três pilares o sustentavam: o exército, a função pública e a Igreja Ortodoxa.",
+            "Cerca de 85 por cento dos russos eram camponeses que cultivavam a terra.",
+            "Quase todos eram muito pobres.",
+            "Nicholas II (Nicolau II) tornou-se czar em 1894.",
+            "Era um homem de família, discreto, que nunca tinha querido o cargo.",
+            "Quando a Rússia construiu fábricas, cresceu um novo grupo nas cidades.",
+            "Estes trabalhadores tinham longas horas, salários baixos e também não tinham voz."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "erayga Ruushka ee boqor: taliyihii Boqortooyadii Ruushka",
+            "taliye awoodda siyaasadeed oo dhan naftiisa ku haya",
+            "qoys dal xukuma, oo awoodda waalid u gudbiyo ilmo",
+            "qof dhulka ka shaqeeyay, oo caadi ahaan aad u faqiir ahaa",
+            "dhisidda warshado, macdan-qodisyo iyo jidad tareen"
+          ],
+          "passage": [
+            "1800-meeyadii Boqortooyadii Ruushka waxay ahayd dalkii ugu weynaa dunida.",
+            "Hal qoys ayaa xukumay: Romanovs.",
+            "Awoodda waxay qaateen 1613-kii.",
+            "Taliyahooda waxaa loo yiraahdaa Tsar, oo ah erayga Ruushka ee boqor.",
+            "Tsar-ku wuxuu ahaa autocrat.",
+            "Taasi macnaheedu waa in hal qof awoodda siyaasadeed oo dhan haystay.",
+            "Ma jirin baarlamaan la doortay, ma jirinna hab sharci ah oo lagu caabbiyo.",
+            "Saddex tiir ayaa kor u qabtay: ciidanka, shaqaalaha dowladda iyo Kaniisadda Orthodox.",
+            "Qiyaastii 85 boqolkiiba Ruushka waxay ahaayeen beeraley oo dhulka beeray.",
+            "Badidood aad ayay u faqiir ahaayeen.",
+            "Nicholas II wuxuu Tsar noqday 1894-kii.",
+            "Wuxuu ahaa nin aamusan oo qoys jecel oo weligii shaqadan ma rabin.",
+            "Markii Ruushku warshado dhisay, koox cusub ayaa magaalooyinka ku kortay.",
+            "Shaqaalahaas waxay lahaayeen saacado dheer, mushahar hooseeya oo codna ma lahayn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "російське слово, що означає короля: правитель Російської імперії (Tsar)",
+            "правитель, який сам тримає всю політичну владу (autocrat)",
+            "родина, яка править країною, передаючи владу від батька до дитини (dynasty)",
+            "людина, яка обробляла землю, зазвичай дуже бідна (peasant)",
+            "будування фабрик, копалень і залізниць (industrialisation)"
+          ],
+          "passage": [
+            "У 1800-х роках Російська імперія була найбільшою країною у світі.",
+            "Нею правила одна родина: Романови.",
+            "Вони прийшли до влади у 1613 році.",
+            "Їхнього правителя називали царем, що російською означає король.",
+            "Цар був самодержцем (autocrat).",
+            "Це означає, що одна людина тримала всю політичну владу.",
+            "Не було ні обраного парламенту, ні законного способу йому заперечити.",
+            "Його тримали три опори: військо, державна служба і Православна Церква.",
+            "Приблизно 85 відсотків росіян були селянами, які обробляли землю.",
+            "Більшість із них була дуже бідною.",
+            "Микола II став царем у 1894 році.",
+            "Він був тихим сімейним чоловіком, який ніколи не хотів цієї роботи.",
+            "Коли в Росії будували фабрики, у містах виросла нова група людей.",
+            "Ці робітники мали довгі години, низьку плату і теж не мали голосу."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بادشاہ کا روسی لفظ: روسی سلطنت کا حاکم (Tsar)",
+            "وہ حاکم جو ساری سیاسی طاقت خود اپنے پاس رکھے (autocrat)",
+            "وہ خاندان جو کسی ملک پر حکومت کرے اور اقتدار ماں باپ سے اولاد کو دیتا جائے (dynasty)",
+            "وہ شخص جو زمین پر کام کرتا تھا، عموماً بہت غریب (peasant)",
+            "کارخانوں، کانوں اور ریلوے کی تعمیر (industrialisation)"
+          ],
+          "passage": [
+            "1800 کی دہائی میں روسی سلطنت دنیا کا سب سے بڑا ملک تھی۔",
+            "اس پر ایک ہی خاندان حکومت کرتا تھا: رومانوف (Romanovs)۔",
+            "وہ 1613 میں اقتدار میں آئے تھے۔",
+            "ان کے حاکم کو Tsar کہا جاتا تھا، جو بادشاہ کا روسی لفظ ہے۔",
+            "Tsar ایک autocrat تھا۔",
+            "اس کا مطلب ہے کہ ساری سیاسی طاقت ایک ہی شخص کے پاس تھی۔",
+            "کوئی منتخب پارلیمنٹ نہ تھی، اور اسے چیلنج کرنے کا کوئی قانونی راستہ نہ تھا۔",
+            "تین ستون اسے سہارا دیتے تھے: فوج، سرکاری ملازمت کا نظام، اور آرتھوڈوکس کلیسا۔",
+            "تقریباً 85 فیصد روسی کسان تھے جو زمین پر کھیتی کرتے تھے۔",
+            "ان میں زیادہ تر بہت غریب تھے۔",
+            "نکولس دوم 1894 میں Tsar بنا۔",
+            "وہ ایک خاموش، گھریلو آدمی تھا جس نے یہ عہدہ کبھی چاہا ہی نہ تھا۔",
+            "جب روس میں کارخانے بنے تو شہروں میں ایک نیا گروہ بڑھا۔",
+            "ان مزدوروں کے کام کے گھنٹے لمبے، تنخواہ کم، اور ان کی بھی کوئی آواز نہ تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Russia in the 1800s: huge, cold and unequal",
@@ -315,8 +475,174 @@ window.ASTRA_UNITS["hist-russian-revolution"] = {
           "It promised free speech and an elected parliament, the Duma.",
           "Then he used the army to crush what was left of the revolt.",
           "Within months he took most of the promises back."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "فلّاح كان يملكه صاحب الأرض (serf)",
+            "أن يرفض الجنود أو البحّارة طاعة الأوامر (mutiny)",
+            "خطّة منشورة لإدارة البلد (manifesto)",
+            "الكلمة الروسية للبرلمان (Duma)",
+            "تغييرات تُحدثها الحكومة لتحاول تحسين الأحوال (reforms)",
+            "تغيّر سريع في الحكم أو في النظام الاجتماعي (revolution)"
+          ],
+          "passage": [
+            "بحلول 1905 كانت جماعات كثيرة في روسيا تريد التغيير.",
+            "فالفلّاحون كانوا غاضبين على الأرض والإيجار والمجاعة.",
+            "وأبناء الطبقة الوسطى الروس كانوا يريدون قولًا في القرارات.",
+            "ثم خسرت روسيا حربًا ضدّ اليابان.",
+            "وكانت الخسارة أمام بلد كانوا يرونه ضعيفًا مُذِلّة.",
+            "وفي 22 يناير 1905 بالتقويم الجديد سار العمّال إلى قصر الشتاء.",
+            "وكانوا يحملون عريضة إلى القيصر، وجاؤوا بأسرهم.",
+            "فأطلق الجنود النار وقتلوا أكثر من 100 شخص.",
+            "ويُسمّى هذا اليوم الأحد الدموي.",
+            "وانتشرت الإضرابات والشَّغَب والعصيان في الإمبراطورية كلّها.",
+            "وفي أكتوبر نشر القيصر بيان أكتوبر.",
+            "فوعد بحرّية الكلام وببرلمان منتخب هو الدوما (Duma).",
+            "ثم استخدم الجيش ليسحق ما بقي من الثورة.",
+            "وفي شهور سحب معظم وعوده."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "chłop, który był własnością właściciela ziemi (serf)",
+            "kiedy żołnierze albo marynarze odmawiają wykonania rozkazów (mutiny)",
+            "ogłoszony publicznie plan rządzenia krajem (manifesto)",
+            "rosyjskie słowo oznaczające parlament (Duma)",
+            "zmiany, które rząd wprowadza, żeby spróbować poprawić sytuację (reforms)",
+            "szybka zmiana rządu albo porządku społecznego (revolution)"
+          ],
+          "passage": [
+            "Do 1905 roku wiele grup w Rosji chciało zmian.",
+            "Chłopi byli wściekli o ziemię, czynsze i głód.",
+            "Rosjanie z klasy średniej chcieli mieć wpływ na decyzje.",
+            "Potem Rosja przegrała wojnę z Japonią.",
+            "Przegrana z krajem, który uważali za słaby, była upokarzająca.",
+            "22 stycznia 1905 roku, w nowym stylu (New Style), robotnicy poszli pod Pałac Zimowy.",
+            "Nieśli petycję do cara i przyprowadzili swoje rodziny.",
+            "Żołnierze otworzyli ogień i zabili ponad 100 ludzi.",
+            "Ten dzień nazywamy Krwawą Niedzielą.",
+            "Strajki, zamieszki i bunty rozlały się po całym imperium.",
+            "W październiku car ogłosił Manifest Październikowy.",
+            "Obiecywał wolność słowa i wybierany parlament, czyli Dumę.",
+            "Potem użył armii, żeby zdusić to, co zostało z buntu.",
+            "W ciągu kilku miesięcy odebrał większość obietnic."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um camponês que pertencia a um proprietário de terras (serf, servo)",
+            "quando os soldados ou os marinheiros se recusam a cumprir ordens (mutiny, motim)",
+            "um plano publicado para governar o país (manifesto)",
+            "a palavra russa para parlamento (Duma)",
+            "mudanças que um governo faz para tentar melhorar as coisas (reforms, reformas)",
+            "uma mudança rápida de governo ou de ordem social (revolution, revolução)"
+          ],
+          "passage": [
+            "Em 1905 havia muitos grupos na Rússia a querer mudança.",
+            "Os camponeses estavam furiosos por causa da terra, das rendas e da fome.",
+            "Os russos da classe média queriam ter voz nas decisões.",
+            "Depois a Rússia perdeu uma guerra contra o Japão.",
+            "Perder contra um país que julgavam fraco foi humilhante.",
+            "A 22 de janeiro de 1905, New Style, os trabalhadores marcharam até ao Palácio de Inverno.",
+            "Levavam uma petição para o czar e levaram as suas famílias.",
+            "Os soldados abriram fogo e mataram mais de 100 pessoas.",
+            "A este dia chama-se Domingo Sangrento (Bloody Sunday).",
+            "As greves, os tumultos e os motins espalharam-se pelo império.",
+            "Em outubro o czar publicou o Manifesto de Outubro.",
+            "Prometia liberdade de expressão e um parlamento eleito, a Duma.",
+            "Depois usou o exército para esmagar o que restava da revolta.",
+            "Em poucos meses retirou quase todas as promessas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "beeraley oo milkiile dhul lahaa",
+            "marka askar ama badmaax ay diidaan inay amar raacaan",
+            "qorshe la daabacay oo dalka lagu wado",
+            "erayga Ruushka ee baarlamaan",
+            "isbeddello dowladdu samayso si ay waxyaalo u hagaajiso",
+            "isbeddel degdeg ah oo dowladda ama nidaamka bulshada"
+          ],
+          "passage": [
+            "1905-tii kooxo badan oo Ruushka ah waxay rabeen isbeddel.",
+            "Beeraleydu waxay ka careysnaayeen dhulka, kirada iyo macaluusha.",
+            "Dadka dabaqadda dhexe ee Ruushka waxay rabeen hadal ku yeesho go'aannada.",
+            "Kadibna Ruushku wuxuu lumiyay dagaal ka dhan ahaa Jabaan.",
+            "In lagu garaaco dal ay u maleeyeen tabar yar ayay bahdil ku ahayd.",
+            "22 Janaayo 1905, New Style, shaqaaluhu waxay u socod tageen Winter Palace.",
+            "Waxay u qaadeen codsi wadajir ah Tsar-ka, qoysaskoodana way keeneen.",
+            "Askartu rasaas ayay furtay oo in ka badan 100 qof ayay dileen.",
+            "Maalintan waxaa loo yiraahdaa Bloody Sunday.",
+            "Shaqo-joojinno, rabshado iyo mutinies ayaa boqortooyada oo dhan ku faafay.",
+            "Oktoobar Tsar-ku wuxuu daabacay October Manifesto.",
+            "Waxay ballanqaaday hadal xor ah iyo baarlamaan la doortay, oo ah Duma.",
+            "Kadibna wuxuu ciidanka u isticmaalay inuu burburiyo waxa kacdoonka ka hadhay.",
+            "Bilo gudahood ballanqaadyadii badankood wuu dib u qaatay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "селянин, який належав землевласникові (serf)",
+            "коли вояки або моряки відмовляються виконувати накази (mutiny)",
+            "опублікований план управління країною (manifesto)",
+            "російське слово, що означає парламент (Duma)",
+            "зміни, які уряд робить, щоб спробувати поліпшити справи (reforms)",
+            "швидка зміна уряду або суспільного ладу (revolution)"
+          ],
+          "passage": [
+            "До 1905 року багато груп у Росії хотіли змін.",
+            "Селяни були розгнівані через землю, оренду і голод.",
+            "Росіяни середнього класу хотіли мати слово в рішеннях.",
+            "Потім Росія втратила війну проти Японії.",
+            "Поразка від країни, яку вони вважали слабкою, була принизливою.",
+            "22 січня 1905 року, за новим стилем (New Style), робітники пішли походом до Зимового палацу.",
+            "Вони несли петицію до царя і взяли з собою свої родини.",
+            "Вояки відкрили вогонь і вбили понад 100 людей.",
+            "Цей день називають Кривавою неділею.",
+            "По всій імперії поширилися страйки, бунти і заколоти.",
+            "У жовтні цар опублікував Жовтневий маніфест.",
+            "Він обіцяв свободу слова й обраний парламент, Думу.",
+            "Потім він використав військо, щоб розчавити те, що залишилося від повстання.",
+            "За кілька місяців він забрав назад більшість обіцянок."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ کسان جو کسی زمیندار کی ملکیت ہوتا تھا (serf)",
+            "جب سپاہی یا ملاح حکم ماننے سے انکار کر دیں (mutiny)",
+            "ملک چلانے کا شائع کیا ہوا منصوبہ (manifesto)",
+            "پارلیمنٹ کا روسی لفظ (Duma)",
+            "وہ تبدیلیاں جو حکومت حالات بہتر کرنے کے لیے کرتی ہے (reforms)",
+            "حکومت یا سماجی نظام کی تیز تبدیلی (revolution)"
+          ],
+          "passage": [
+            "1905 تک روس کے بہت سے گروہ تبدیلی چاہتے تھے۔",
+            "کسان زمین، کرائے اور قحط پر غصے میں تھے۔",
+            "متوسط طبقے کے روسی فیصلوں میں اپنی بات چاہتے تھے۔",
+            "پھر روس جاپان کے خلاف جنگ ہار گیا۔",
+            "جس ملک کو وہ کمزور سمجھتے تھے، اس سے ہارنا ذلت تھی۔",
+            "22 جنوری 1905 (New Style) کو مزدوروں نے Winter Palace تک مارچ کیا۔",
+            "وہ Tsar کے لیے ایک درخواست لے کر آئے تھے، اور اپنے گھر والوں کو ساتھ لائے تھے۔",
+            "سپاہیوں نے گولی چلا دی اور 100 سے زیادہ لوگ مارے گئے۔",
+            "اس دن کو Bloody Sunday کہا جاتا ہے۔",
+            "ہڑتالیں، ہنگامے اور mutinies ساری سلطنت میں پھیل گئے۔",
+            "اکتوبر میں Tsar نے October Manifesto شائع کیا۔",
+            "اس میں آزادیِ تقریر اور ایک منتخب پارلیمنٹ، یعنی Duma، کا وعدہ تھا۔",
+            "پھر اس نے بغاوت کے باقی حصے کو کچلنے کے لیے فوج استعمال کی۔",
+            "کچھ ہی مہینوں میں اس نے زیادہ تر وعدے واپس لے لیے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Long-term causes: land, class and a weak Tsar",
@@ -529,8 +855,168 @@ window.ASTRA_UNITS["hist-russian-revolution"] = {
           "So did many of his own generals.",
           "The Okhrana had removed his critics, not his problems.",
           "By February 1917 the workers of Petrograd were starving."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شرطة القيصر السرّية، وكانت تُستخدم للتجسّس على معارضيه وإزالتهم (Okhrana)",
+            "ارتفاع في الأسعار، فيشتري الأجر نفسه طعامًا أقلّ (inflation)",
+            "العاصمة الروسية، وقد غُيّر اسمها من سانت بطرسبرغ في أثناء الحرب (Petrograd)",
+            "رجل أرغمه القانون على الانضمام إلى الجيش (conscript)",
+            "مُعالج كانت القيصرة تثق به، وقد سبّب نفوذه فضيحةً عامّة (Rasputin)"
+          ],
+          "passage": [
+            "بحلول 1917 كانت روسيا في الحرب أكثر من سنتين.",
+            "وكانت الحرب العالمية الأولى سيّئة من أوّلها.",
+            "فكان الجنود يُرسلون إلى الجبهة بغير ما يكفي من البنادق والرصاص والطعام.",
+            "وكانت القطارات تحمل الجنود لا الحبوب، فشحّ الخبز في المدن.",
+            "وارتفعت الأسعار 400 في المئة بين 1914 و1917.",
+            "وفي 1915 جعل القيصر نفسه قائدًا للجيش.",
+            "فصارت كلّ هزيمة بعد ذلك ذنبه.",
+            "وترك زوجته القيصرة مسؤولةً في الداخل.",
+            "وكانت تثق بمُعالج يُسمّى راسبوتين (Rasputin)، وقد سبّب ذلك فضيحة.",
+            "وقُتل راسبوتين في 1916، ولكنّ الضرر كان قد وقع.",
+            "وانقلبت الدوما على القيصر.",
+            "وانقلب عليه كثير من جنرالاته هو.",
+            "والأوخرانا كانت قد أزالت ناقديه، لا مشكلاته.",
+            "وبحلول فبراير 1917 كان عمّال بتروغراد (Petrograd) يجوعون."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "tajna policja cara, używana do szpiegowania i usuwania jego przeciwników (Okhrana)",
+            "wzrost cen, przy którym ta sama płaca kupuje mniej jedzenia (inflation)",
+            "stolica Rosji, przemianowana z St Petersburg w czasie wojny (Petrograd)",
+            "mężczyzna zmuszony przez prawo do wstąpienia do armii (conscript)",
+            "uzdrowiciel, któremu wierzyła carowa, a jego wpływ wywołał publiczny skandal (Rasputin)"
+          ],
+          "passage": [
+            "Do 1917 roku Rosja była na wojnie już ponad dwa lata.",
+            "Pierwsza wojna światowa szła źle od samego początku.",
+            "Żołnierzy wysyłano na front bez dość karabinów, kul i jedzenia.",
+            "Pociągi wiozły wojsko, a nie zboże, więc w miastach brakowało chleba.",
+            "Ceny wzrosły o 400 procent między 1914 i 1917 rokiem.",
+            "W 1915 roku car sam został dowódcą armii.",
+            "Od tej pory każda przegrana była jego winą.",
+            "Zostawił żonę, carową, na czele kraju.",
+            "Wierzyła ona uzdrowicielowi zwanemu Rasputin, a to wywołało skandal.",
+            "Rasputina zamordowano w 1916 roku, ale szkoda była już zrobiona.",
+            "Duma zwróciła się przeciwko carowi.",
+            "Tak samo zrobiło wielu jego własnych generałów.",
+            "Okhrana usunęła jego krytyków, a nie jego problemy.",
+            "Do lutego 1917 roku robotnicy Petrogradu głodowali."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a polícia secreta do czar, usada para espiar e afastar os seus opositores (Okhrana)",
+            "uma subida dos preços, de maneira que o mesmo salário compra menos comida (inflation, inflação)",
+            "a capital russa, que durante a guerra deixou de se chamar São Petersburgo (Petrograd, Petrogrado)",
+            "um homem obrigado por lei a entrar no exército (conscript, recruta)",
+            "um curandeiro em quem a czarina confiava, e cuja influência causou um escândalo público (Rasputin, Rasputine)"
+          ],
+          "passage": [
+            "Em 1917 a Rússia já estava em guerra há mais de dois anos.",
+            "A Primeira Guerra Mundial corria mal desde o início.",
+            "Os soldados eram enviados para a frente sem espingardas, balas ou comida suficientes.",
+            "Os trens/comboios levavam tropas, não cereais, por isso faltou pão nas cidades.",
+            "Os preços subiram 400 por cento entre 1914 e 1917.",
+            "Em 1915 o czar fez-se comandante do exército.",
+            "A partir daí, cada derrota era culpa dele.",
+            "Deixou a mulher, a czarina, encarregada do país.",
+            "Ela confiava num curandeiro chamado Rasputine, e isso causou um escândalo.",
+            "Rasputine foi assassinado em 1916, mas o dano já estava feito.",
+            "A Duma virou-se contra o czar.",
+            "Muitos dos seus próprios generais também.",
+            "A Okhrana tinha afastado os seus críticos, não os seus problemas.",
+            "Em fevereiro de 1917 os trabalhadores de Petrogrado passavam fome."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "booliiska sirdoonka Tsar-ka, oo loo isticmaalay basaasidda iyo ka saaridda kuwa ka soo horjeeday",
+            "kor u kaca qiimaha, markaa isla mushaharkii cunto ka yar ayuu iibsadaa",
+            "caasimaddii Ruushka, oo laga beddelay St Petersburg intii dagaalku socday",
+            "nin sharci lagu qasbay inuu ciidanka galo",
+            "bogsiiye oo Tsarina-du ku kalsoonayd, oo saameyntiisu keentay faqash dadweyne"
+          ],
+          "passage": [
+            "1917-kii Ruushku wuxuu dagaalka ku jiray in ka badan laba sano.",
+            "Dagaalkii Koowaad ee Adduunka si xun ayuu u socday bilowgii.",
+            "Askarta waxaa safka hore loo diray iyagoon qoryo, xabbado ama cunto ku filan lahayn.",
+            "Tareennada waxay askar qaadeen, ee ma ahayn badar, markaa magaalooyinka rooti ayaa ka yaraaday.",
+            "Qiimayaashu waxay kaceen 400 boqolkiiba intii u dhexeysay 1914-kii iyo 1917-kii.",
+            "1915-kii Tsar-ku naftiisa wuxuu ka dhigay taliyaha ciidanka.",
+            "Taas kadib, guuldarro kastaa wuxuu ahaa gefkiisa.",
+            "Xaaskiisa, Tsarina-da, ayuu guriga kaga tegay inay maamusho.",
+            "Waxay ku kalsoonayd bogsiiye la yiraahdo Rasputin, taasina faqash ayay keentay.",
+            "Rasputin waa la dilay 1916-kii, laakiin waxyeelladu way dhacday.",
+            "Duma-du waxay Tsar-ka ka soo horjeesatay.",
+            "Sidoo kale jeneraaladiisa badankood.",
+            "Okhrana-du waxay ka saartay kuwa wax ka yiri, ee ma ahayn dhibaatooyinkiisa.",
+            "Febraayo 1917-kii shaqaalihii Petrograd waxay gaajo la il daran yihiin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "таємна поліція царя, яку використовували, щоб шпигувати за його противниками й усувати їх (Okhrana)",
+            "зростання цін, через яке та сама платня купує менше їжі (inflation)",
+            "російська столиця, перейменована зі Санкт-Петербурга під час війни (Petrograd)",
+            "чоловік, якого закон змушує вступити до війська (conscript)",
+            "цілитель, якому довіряла цариця і чий вплив спричинив публічний скандал (Rasputin)"
+          ],
+          "passage": [
+            "До 1917 року Росія була у війні понад два роки.",
+            "Перша світова війна йшла погано із самого початку.",
+            "Вояків відправляли на фронт без достатньої кількості рушниць, куль і їжі.",
+            "Поїзди везли військо, а не зерно, тому в містах не стало вистачати хліба.",
+            "Ціни зросли на 400 відсотків між 1914 і 1917 роками.",
+            "У 1915 році цар зробив себе командувачем війська.",
+            "Після цього кожна поразка була його виною.",
+            "Він залишив свою дружину, царицю, керувати вдома.",
+            "Вона довіряла цілителю на ім’я Распутін, і це спричинило скандал.",
+            "Распутіна вбили у 1916 році, але шкода вже була зроблена.",
+            "Дума обернулася проти царя.",
+            "Так само зробили й багато його власних генералів.",
+            "Охранка усунула його критиків, але не його проблеми.",
+            "До лютого 1917 року робітники Петрограда голодували."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "Tsar کی خفیہ پولیس، جو اس کے مخالفوں کی جاسوسی کرتی اور انھیں ہٹا دیتی تھی (Okhrana)",
+            "قیمتوں کا بڑھنا، جس سے اتنی ہی تنخواہ میں کم خوراک آتی ہے (inflation)",
+            "روس کا دارالحکومت، جس کا نام جنگ کے دوران سینٹ پیٹرزبرگ سے بدلا گیا (Petrograd)",
+            "وہ شخص جسے قانون کے زور پر فوج میں بھرتی کیا جائے (conscript)",
+            "ایک شخص جو روحانی علاج کرتا تھا اور جس پر Tsarina بھروسہ کرتی تھیں؛ اس کے اثر نے عوامی سکینڈل پیدا کیا (Rasputin)"
+          ],
+          "passage": [
+            "1917 تک روس دو سال سے زیادہ عرصے سے جنگ میں تھا۔",
+            "پہلی جنگِ عظیم شروع ہی سے بری گزری۔",
+            "سپاہیوں کو محاذ پر کافی رائفلوں، گولیوں اور خوراک کے بغیر بھیجا گیا۔",
+            "ریل گاڑیاں اناج کے بجائے فوجی دستے لے جاتی تھیں، اس لیے شہروں میں روٹی کم پڑ گئی۔",
+            "1914 اور 1917 کے درمیان قیمتیں 400 فیصد بڑھ گئیں۔",
+            "1915 میں Tsar نے خود کو فوج کا سپہ سالار بنا لیا۔",
+            "اس کے بعد ہر ہار اس کا قصور تھی۔",
+            "اس نے گھر پر اپنی بیوی، Tsarina، کو نگران چھوڑ دیا۔",
+            "وہ راسپوتن (Rasputin) نامی ایک عامل پر بھروسہ کرتی تھیں، اور اس سے سکینڈل پیدا ہوا۔",
+            "راسپوتن 1916 میں قتل کر دیا گیا، مگر نقصان ہو چکا تھا۔",
+            "Duma، Tsar کے خلاف ہو گئی۔",
+            "اس کے اپنے بہت سے جنرل بھی۔",
+            "Okhrana نے اس کے نقاد ہٹائے تھے، اس کے مسئلے نہیں۔",
+            "فروری 1917 تک Petrograd کے مزدور بھوکوں مر رہے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The ABC of the February Revolution",
@@ -739,8 +1225,168 @@ window.ASTRA_UNITS["hist-russian-revolution"] = {
           "A Petrograd Soviet of workers and soldiers took charge of the city.",
           "On 15 March, New Style, Nicholas II abdicated.",
           "Three hundred years of Romanov rule were over."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تاريخ بالتقويم اليولياني الأقدم الذي استخدمته روسيا حتى 1918 (Old Style)",
+            "تاريخ بالتقويم الذي نستخدمه، وكان يسبق تقويم روسيا بثلاثة عشر يومًا (New Style)",
+            "أن يتنازل عن العرش (abdicate)",
+            "مجلس من العمّال والجنود يُنتخب ليعمل عنهم (soviet)",
+            "الحكومة المؤقّتة التي أنشأها سياسيّو الدوما (Provisional Government)"
+          ],
+          "passage": [
+            "في 1917 كانت روسيا تستخدم تقويمًا أقدم من تقويمنا.",
+            "وكان يتأخّر ثلاثة عشر يومًا، ونسمّي تواريخه بالتقويم القديم (Old Style).",
+            "فثورة فبراير حدثت في مارس بتواريخنا.",
+            "ودرسك يسمّيها ثورة فبراير وثورة مارس كلتيهما.",
+            "وقد بدأت بإضرابات على الخبز في بتروغراد.",
+            "وفي 7 مارس بالتقويم الجديد خرج عمّال مصنع الفولاذ بوتيلوف (Putilov) مضربين.",
+            "وفي اليوم التالي انضمّت إليهم آلاف النساء في اليوم العالمي للمرأة.",
+            "وسرعان ما صار 250,000 عامل مضربين وتوقّفت المدينة.",
+            "فأمر القيصر الدوما بأن تُغلق والجيش بأن يعيد النظام.",
+            "فرفضاه كلاهما.",
+            "وعصى الجنود وانتقلوا إلى صفّ الحشود.",
+            "وتولّى سوفييت بتروغراد من العمّال والجنود شؤون المدينة.",
+            "وفي 15 مارس بالتقويم الجديد تنازل نيقولا الثاني عن العرش.",
+            "فانتهى ثلاث مئة سنة من حكم آل رومانوف."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "data w starszym kalendarzu juliańskim, którego Rosja używała do 1918 roku (Old Style)",
+            "data w kalendarzu, którego używamy my, a który wyprzedzał rosyjski o trzynaście dni (New Style)",
+            "zrzec się tronu (abdicate)",
+            "rada robotników i żołnierzy wybrana, żeby działać w ich imieniu (soviet)",
+            "tymczasowy rząd utworzony przez polityków Dumy (Provisional Government)"
+          ],
+          "passage": [
+            "W 1917 roku Rosja używała starszego kalendarza niż nasz.",
+            "Szedł trzynaście dni później, a jego daty nazywamy starym stylem (Old Style).",
+            "Dlatego rewolucja lutowa zdarzyła się według naszych dat w marcu.",
+            "Twoja lekcja nazywa ją i rewolucją lutową, i rewolucją marcową.",
+            "Zaczęła się od strajków o chleb w Petrogradzie.",
+            "7 marca, w nowym stylu (New Style), robotnicy zakładów stalowych Putiłowa wyszli z pracy.",
+            "Następnego dnia przyłączyły się do nich tysiące kobiet, z okazji Międzynarodowego Dnia Kobiet.",
+            "Wkrótce strajkowało 250,000 robotników i miasto się zatrzymało.",
+            "Car rozkazał zamknąć Dumę, a armii przywrócić porządek.",
+            "Jedni i drudzy mu odmówili.",
+            "Żołnierze zbuntowali się i stanęli po stronie tłumów.",
+            "Rada robotników i żołnierzy, Sowiet Petrogradzki, przejęła władzę w mieście.",
+            "15 marca, w nowym stylu (New Style), Nicholas II (Mikołaj II) abdykował.",
+            "Trzysta lat panowania Romanowów się skończyło."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma data no calendário juliano, mais antigo, que a Rússia usou até 1918 (Old Style)",
+            "uma data no calendário que nós usamos, que ia treze dias à frente do da Rússia (New Style)",
+            "deixar o trono (abdicate, abdicar)",
+            "um conselho de trabalhadores e soldados eleito para agir por eles (soviet, soviete)",
+            "o governo temporário formado por políticos da Duma (Provisional Government, Governo Provisório)"
+          ],
+          "passage": [
+            "Em 1917 a Rússia usava um calendário mais antigo do que o nosso.",
+            "Ia treze dias atrás, e às datas dele chamamos Old Style.",
+            "Por isso a Revolução de Fevereiro aconteceu em março, nas nossas datas.",
+            "A tua aula chama-lhe tanto Revolução de Fevereiro como Revolução de Março.",
+            "Começou com greves por causa do pão, em Petrogrado.",
+            "A 7 de março, New Style, os trabalhadores da siderúrgica Putilov saíram em greve.",
+            "No dia seguinte juntaram-se-lhes milhares de mulheres, no Dia Internacional da Mulher.",
+            "Em pouco tempo havia 250 000 trabalhadores em greve e a cidade parou.",
+            "O czar mandou fechar a Duma e mandou o exército restabelecer a ordem.",
+            "Os dois recusaram-se.",
+            "Os soldados amotinaram-se e ficaram do lado das multidões.",
+            "Um Soviete de Petrogrado, de trabalhadores e soldados, tomou conta da cidade.",
+            "A 15 de março, New Style, Nicholas II abdicou.",
+            "Trezentos anos de governo dos Romanov tinham acabado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "taariikh ku saabsan kalandarkii hore ee Julian oo Ruushku isticmaalay ilaa 1918-kii",
+            "taariikh ku saabsan kalandarka aan isticmaalno, oo saddex iyo toban maalin ka horreeyay kii Ruushka",
+            "inaad carshiga ka tagto",
+            "gole shaqaale iyo askar oo la doortay inay u matalaan",
+            "dowladdii ku meel gaarka ahayd ee siyaasiyiinta Duma ay sameeyeen"
+          ],
+          "passage": [
+            "1917-kii Ruushku wuxuu isticmaalay kalandar ka duqoobay keenna.",
+            "Wuxuu saddex iyo toban maalin ka dambeeyay, taariikhyadiisana waxaan ugu yeerraa Old Style.",
+            "Markaa Kacaankii Febraayo wuxuu dhacay bishii Maarso marka la eego taariikhdeenna.",
+            "Casharkaagu wuxuu ugu yeeraa Kacaankii Febraayo iyo Kacaankii Maarso labadaba.",
+            "Wuxuu ku bilaabmay shaqo-joojinno oo rooti ah oo Petrograd ka dhacay.",
+            "7 Maarso, New Style, shaqaalaha warshadda birta Putilov way shaqada ka baxeen.",
+            "Maalintii xigtay kumanaan haween ah ayaa ku biiray Maalinta Caalamiga ah ee Haweenka.",
+            "Dhakhso 250,000 oo shaqaale ayaa shaqo joojiyay, magaaladuna way istaagtay.",
+            "Tsar-ku wuxuu amray in Duma-du xidhanto oo ciidanku nidaamka soo celiyo.",
+            "Labaduba way diideen.",
+            "Askartu way kaceen oo waxay dadweynaha dhinac galeen.",
+            "Petrograd Soviet oo shaqaale iyo askar ah ayaa magaalada la wareegay.",
+            "15 Maarso, New Style, Nicholas II wuxuu carshiga ka tegay.",
+            "Saddex boqol oo sano oo xukunkii Romanov wuu dhammaaday."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "дата за старішим юліанським календарем, яким Росія користувалася до 1918 року (Old Style)",
+            "дата за календарем, яким користуємося ми і який був на тринадцять днів попереду російського (New Style)",
+            "відмовитися від трону (abdicate)",
+            "рада робітників і вояків, обрана діяти від їхнього імені (soviet)",
+            "тимчасовий уряд, створений політиками Думи (Provisional Government)"
+          ],
+          "passage": [
+            "У 1917 році Росія користувалася старішим календарем, ніж наш.",
+            "Він ішов на тринадцять днів позаду, і його дати ми називаємо старим стилем (Old Style).",
+            "Тому Лютнева революція за нашими датами сталася в березні.",
+            "Ваш урок називає її і Лютневою, і Березневою революцією.",
+            "Вона почалася зі страйків через хліб у Петрограді.",
+            "7 березня, за новим стилем (New Style), робітники Путиловського сталеливарного заводу покинули роботу.",
+            "Наступного дня до них долучилися тисячі жінок на Міжнародний жіночий день.",
+            "Скоро страйкувало 250,000 робітників, і місто зупинилося.",
+            "Цар наказав Думі закритися, а військові — відновити порядок.",
+            "Обидва йому відмовили.",
+            "Вояки збунтувалися і стали на бік натовпів.",
+            "Петроградська рада (Soviet) робітників і вояків узяла місто під свій контроль.",
+            "15 березня, за новим стилем (New Style), Микола II відмовився від трону.",
+            "Триста років правління Романових закінчилися."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پرانے جولینی کیلنڈر کی تاریخ، جو روس 1918 تک استعمال کرتا رہا (Old Style)",
+            "اُس کیلنڈر کی تاریخ جو ہم استعمال کرتے ہیں، اور جو روس کے کیلنڈر سے تیرہ دن آگے تھا (New Style)",
+            "تخت چھوڑ دینا (abdicate)",
+            "مزدوروں اور سپاہیوں کی منتخب کونسل، جو ان کی طرف سے کام کرتی تھی (soviet)",
+            "Duma کے سیاست دانوں کی بنائی ہوئی عارضی حکومت (Provisional Government)"
+          ],
+          "passage": [
+            "1917 میں روس ہمارے کیلنڈر سے پرانا کیلنڈر استعمال کرتا تھا۔",
+            "وہ تیرہ دن پیچھے چلتا تھا، اور اس کی تاریخوں کو ہم Old Style کہتے ہیں۔",
+            "اس لیے فروری کا انقلاب ہماری تاریخوں کے حساب سے مارچ میں ہوا۔",
+            "آپ کا سبق اسے فروری کا انقلاب بھی کہتا ہے اور مارچ کا انقلاب بھی۔",
+            "اس کا آغاز Petrograd میں روٹی کی ہڑتالوں سے ہوا۔",
+            "7 مارچ (New Style) کو Putilov کے فولاد کے کارخانے کے مزدور کام چھوڑ کر نکل آئے۔",
+            "اگلے دن ہزاروں عورتیں International Women's Day کے موقع پر ان کے ساتھ شامل ہو گئیں۔",
+            "جلد ہی 250,000 مزدور ہڑتال پر تھے اور شہر رک گیا۔",
+            "Tsar نے حکم دیا کہ Duma بند کر دی جائے اور فوج نظم بحال کرے۔",
+            "دونوں نے اس کا حکم ماننے سے انکار کر دیا۔",
+            "سپاہیوں نے بغاوت کی اور ہجوم کا ساتھ دیا۔",
+            "مزدوروں اور سپاہیوں کی ایک Petrograd Soviet نے شہر کا نظم سنبھال لیا۔",
+            "15 مارچ (New Style) کو نکولس دوم نے تخت چھوڑ دیا۔",
+            "رومانوف خاندان کی تین سو سال کی حکومت ختم ہو گئی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "February or March? A note on the calendar",
@@ -949,8 +1595,168 @@ window.ASTRA_UNITS["hist-russian-revolution"] = {
           "On 25 October, Old Style, the Red Guards surrounded the Winter Palace.",
           "By our calendar that was 7 November, New Style.",
           "The Provisional Government surrendered, and the Bolsheviks held the capital."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الحزب الثوري الذي قاده فلاديمير لينين (Bolsheviks)",
+            "أنصار البلاشفة المسلّحون، وقد دُرّبوا في السرّ (Red Guards)",
+            "قصر القيصر القديم في بتروغراد، وكانت الحكومة المؤقّتة تجتمع فيه (Winter Palace)",
+            "معلومات تُنشر لتجعل الناس يعتقدون شيئًا، صحيحًا كان أو غير صحيح (propaganda)",
+            "عبارة قصيرة تُكرَّر لكسب التأييد (slogan)"
+          ],
+          "passage": [
+            "بعد فبراير كان في روسيا مصدران متنافسان للسلطة.",
+            "فالحكومة المؤقّتة أبقت روسيا في الحرب.",
+            "وكان الطعام لا يزال شاحًّا والأسعار لا تزال ترتفع.",
+            "وكان فلاديمير لينين (Vladimir Lenin) يقود حزبًا يُسمّى البلاشفة.",
+            "وقد عاد من منفاه في الخارج في أبريل 1917.",
+            "وكان شعاره قصيرًا: الخبز والسلام والأرض.",
+            "وفي يوليو فشل هجوم الحكومة الجديد على ألمانيا فشلًا شديدًا.",
+            "فاحتجّ الجنود والبحّارة، واضطرّ لينين أن يهرب من جديد.",
+            "وفي أغسطس حاول جنرال يُسمّى كورنيلوف (Kornilov) أن يستولي على السلطة.",
+            "فسلّح كيرينسكي (Kerensky) الحرس الأحمر البلشفي ليوقفه.",
+            "فأوقفوا كورنيلوف، ثم أبقوا بنادقهم.",
+            "وفي 25 أكتوبر بالتقويم القديم أحاط الحرس الأحمر بقصر الشتاء.",
+            "وكان ذلك بتقويمنا 7 نوفمبر بالتقويم الجديد.",
+            "فاستسلمت الحكومة المؤقّتة، وصارت العاصمة في يد البلاشفة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "partia rewolucyjna, którą kierował Vladimir Lenin (Bolsheviks)",
+            "uzbrojeni popierający bolszewików, szkoleni w tajemnicy (Red Guards)",
+            "stary pałac cara w Petrogradzie, w którym zbierał się Rząd Tymczasowy (Winter Palace)",
+            "informacje rozpowszechniane, żeby ludzie w coś uwierzyli, prawdziwe albo nie (propaganda)",
+            "krótkie zdanie powtarzane, żeby zdobyć poparcie (slogan)"
+          ],
+          "passage": [
+            "Po lutym Rosja miała dwa konkurujące ośrodki władzy.",
+            "Rząd Tymczasowy trzymał Rosję w wojnie.",
+            "Jedzenia nadal brakowało, a ceny nadal rosły.",
+            "Vladimir Lenin (Włodzimierz Lenin) kierował partią zwaną bolszewikami.",
+            "Wrócił z wygnania za granicą w kwietniu 1917 roku.",
+            "Jego hasło było krótkie: chleb, pokój i ziemia.",
+            "W lipcu nowy atak rządu na Niemcy mocno się nie udał.",
+            "Żołnierze i marynarze protestowali, a Lenin musiał znowu uciekać.",
+            "W sierpniu generał Kornilov próbował przejąć władzę.",
+            "Kerensky uzbroił bolszewicką Czerwoną Gwardię, żeby go zatrzymać.",
+            "Zatrzymali Kornilova, a potem zatrzymali swoją broń.",
+            "25 października, w starym stylu (Old Style), Czerwona Gwardia okrążyła Pałac Zimowy.",
+            "Według naszego kalendarza było to 7 listopada, w nowym stylu (New Style).",
+            "Rząd Tymczasowy się poddał, a bolszewicy opanowali stolicę."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o partido revolucionário liderado por Vladimir Lenin (Bolsheviks, bolcheviques)",
+            "apoiantes bolcheviques armados, treinados em segredo (Red Guards, Guardas Vermelhos)",
+            "o antigo palácio do czar em Petrogrado, onde o Governo Provisório se reunia (Winter Palace, Palácio de Inverno)",
+            "informação espalhada para fazer as pessoas acreditarem em algo, verdadeiro ou não (propaganda)",
+            "uma frase curta repetida para ganhar apoio (slogan, lema)"
+          ],
+          "passage": [
+            "Depois de fevereiro, a Rússia tinha duas fontes de poder rivais.",
+            "O Governo Provisório manteve a Rússia na guerra.",
+            "Continuava a faltar comida e os preços continuavam a subir.",
+            "Vladimir Lenin liderava um partido chamado bolcheviques.",
+            "Regressou do exílio no estrangeiro em abril de 1917.",
+            "O lema dele era curto: pão, paz e terra.",
+            "Em julho o novo ataque do governo à Alemanha falhou por completo.",
+            "Soldados e marinheiros protestaram, e Lenin teve de fugir outra vez.",
+            "Em agosto um general chamado Kornilov tentou tomar o poder.",
+            "Kerensky armou os Guardas Vermelhos bolcheviques para o travar.",
+            "Eles travaram Kornilov, e depois ficaram com as armas.",
+            "A 25 de outubro, Old Style, os Guardas Vermelhos cercaram o Palácio de Inverno.",
+            "No nosso calendário isso foi a 7 de novembro, New Style.",
+            "O Governo Provisório rendeu-se, e os bolcheviques ficaram com a capital."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xisbiga kacaanka oo Vladimir Lenin hoggaamiyay",
+            "taageerayaasha Bolshevik ee hubaysan, oo si qarsoodi ah loo tababbaray",
+            "daarta duqoobay ee Tsar-ka oo Petrograd ku taal, halkaasoo Provisional Government-ku ku kulmay",
+            "macluumaad la faafiyo si dadka wax loo rumaysiiyo, run iyo been",
+            "weedh gaaban oo la celceliyo si taageero loo helo"
+          ],
+          "passage": [
+            "Febraayo kadib, Ruushku wuxuu lahaa laba il awood oo iska hor imanayay.",
+            "Provisional Government-ku wuxuu Ruushka dagaalka ku sii hayay.",
+            "Cuntadu weli way yarayd, qiimayaashuna weli way kacayeen.",
+            "Vladimir Lenin wuxuu hoggaamiyay xisbi la yiraahdo Bolsheviks.",
+            "Wuxuu dibadda masaafuriska ka soo noqday Abriil 1917-kii.",
+            "Hal-ku-dhiggiisa wuu gaabnaa: wuxuu ballanqaaday rooti, nabad iyo dhul.",
+            "Luulyo weerarkii cusub ee dowladda ku qaadday Jarmalka si xun ayuu u guuldarraystay.",
+            "Askar iyo badmaax ayaa mudaaharaaday, Lenin-na wuxuu ku qasbanaaday inuu mar kale carara.",
+            "Agoosto jeneraal la yiraahdo Kornilov wuxuu isku dayay inuu awoodda qabsato.",
+            "Kerensky wuxuu hubeeyay Red Guards-ka Bolshevik si uu u joojiyo.",
+            "Waxay Kornilov joojiyeen, kadibna hubkooda way sii hayeen.",
+            "25 Oktoobar, Old Style, Red Guards-ku waxay hareereeyeen Winter Palace.",
+            "Kalandarkeenna taasi waxay ahayd 7 Noofembar, New Style.",
+            "Provisional Government-ku wuu is dhiibay, Bolsheviks-kuna caasimadda way hayeen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "революційна партія на чолі з Володимиром Леніним (Bolsheviks)",
+            "озброєні прибічники більшовиків, навчені потай (Red Guards)",
+            "старий палац царя в Петрограді, де збирався Тимчасовий уряд (Winter Palace)",
+            "інформація, яку поширюють, щоб люди в щось повірили, правдиве чи ні (propaganda)",
+            "коротка фраза, яку повторюють, щоб здобути підтримку (slogan)"
+          ],
+          "passage": [
+            "Після лютого в Росії було двоє суперників за владу.",
+            "Тимчасовий уряд тримав Росію у війні.",
+            "Їжі все ще не вистачало, а ціни все ще зростали.",
+            "Володимир Ленін очолював партію, яка називалася більшовики.",
+            "Він повернувся із заслання за кордоном у квітні 1917 року.",
+            "Його гасло було коротке: хліб, мир і земля.",
+            "У липні новий наступ уряду на Німеччину тяжко провалився.",
+            "Вояки й моряки протестували, і Ленін мусив знову втікати.",
+            "У серпні генерал на ім’я Корнілов спробував захопити владу.",
+            "Керенський озброїв більшовицьку Червону гвардію, щоб його зупинити.",
+            "Вони зупинили Корнілова, а потім залишили свою зброю собі.",
+            "25 жовтня, за старим стилем (Old Style), Червона гвардія оточила Зимовий палац.",
+            "За нашим календарем це було 7 листопада, за новим стилем (New Style).",
+            "Тимчасовий уряд здався, і більшовики втримали столицю."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ولادیمیر لینن کی قیادت والی انقلابی جماعت (Bolsheviks)",
+            "Bolshevik کے مسلح حامی، جنھیں خفیہ طور پر تربیت دی گئی (Red Guards)",
+            "Petrograd میں Tsar کا پرانا محل، جہاں Provisional Government بیٹھتی تھی (Winter Palace)",
+            "وہ معلومات جو لوگوں کو کوئی بات منوانے کے لیے پھیلائی جائیں، چاہے وہ سچ ہو یا نہ ہو (propaganda)",
+            "حمایت جیتنے کے لیے بار بار دہرایا جانے والا مختصر جملہ (slogan)"
+          ],
+          "passage": [
+            "فروری کے بعد روس میں طاقت کے دو مخالف مرکز تھے۔",
+            "Provisional Government نے روس کو جنگ میں رکھا۔",
+            "خوراک اب بھی کم تھی اور قیمتیں اب بھی بڑھ رہی تھیں۔",
+            "ولادیمیر لینن (Vladimir Lenin) ایک جماعت کی قیادت کرتا تھا، جسے Bolsheviks کہتے تھے۔",
+            "وہ اپریل 1917 میں بیرونِ ملک جلاوطنی سے واپس آیا۔",
+            "اس کے نعرے میں صرف تین باتیں تھیں: روٹی، امن اور زمین۔",
+            "جولائی میں جرمنی پر حکومت کا نیا حملہ بری طرح ناکام ہوا۔",
+            "سپاہیوں اور ملاحوں نے احتجاج کیا، اور لینن کو پھر بھاگنا پڑا۔",
+            "اگست میں کورنیلوف (Kornilov) نامی ایک جنرل نے اقتدار پر قبضہ کرنے کی کوشش کی۔",
+            "کیرنسکی (Kerensky) نے اسے روکنے کے لیے Bolshevik Red Guards کو ہتھیار دیے۔",
+            "انھوں نے کورنیلوف کو روک دیا، اور پھر اپنی بندوقیں اپنے پاس ہی رکھ لیں۔",
+            "25 اکتوبر (Old Style) کو Red Guards نے Winter Palace کو گھیر لیا۔",
+            "ہمارے کیلنڈر کے حساب سے وہ 7 نومبر (New Style) تھا۔",
+            "Provisional Government نے ہتھیار ڈال دیے، اور Bolsheviks نے دارالحکومت سنبھال لیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why a second revolution? The Provisional Government's mistakes",
@@ -1166,8 +1972,168 @@ window.ASTRA_UNITS["hist-russian-revolution"] = {
           "Only communist newspapers and only one political party were allowed.",
           "In 1922 the new country was named the Soviet Union.",
           "Your assessment asks how much really changed."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الفكرة أنّ الملكية يجب أن تكون للمجتمع كلّه (communism)",
+            "المفكّر الذي طوّر فكرة الشيوعية (Karl Marx)",
+            "الكلمة التي قيل للروس أن يستخدموها بدلًا من الألقاب والرُّتَب (comrade)",
+            "البلد الجديد الذي أُنشئ من الإمبراطورية الروسية القديمة في 1922 (Soviet Union)",
+            "شيء يحدث نتيجةً لحدث ما (consequence)"
+          ],
+          "passage": [
+            "كان البلاشفة شيوعيّين.",
+            "والشيوعية جاءت من أفكار كارل ماركس (Karl Marx).",
+            "وقال ماركس إنّ أصحاب المصانع يغتنون وعمّالهم يبقون فقراء.",
+            "وكان يرى أنّ العمّال سيثورون يومًا ويقسمون كلّ شيء بينهم.",
+            "ومات ماركس في 1883 ولم يرَ ذلك مُجرَّبًا أبدًا.",
+            "وكان لينين ماركسيًّا، فصارت روسيا أوّل دولة شيوعية.",
+            "وأُسقطت الألقاب والرُّتَب وصار كلّ أحد يُسمّى رفيقًا.",
+            "وأُعلنت النساء متساويات مع الرجال.",
+            "وقيل للعمّال أن يُديروا مصانعهم بلجان.",
+            "وقيل للفلّاحين أن يقسموا الأرض بينهم.",
+            "وأخذت الدولة السيطرة على المصارف.",
+            "ولم يُسمح إلّا بالصحف الشيوعية ولا بحزب سياسي واحد غيره.",
+            "وفي 1922 سُمّي البلد الجديد الاتّحاد السوفييتي.",
+            "وتقييمك يسألك: كم تغيّر حقًّا؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "myśl, że własność powinna należeć do całej wspólnoty (communism)",
+            "myśliciel, który rozwinął ideę komunizmu (Karl Marx)",
+            "słowo, którego Rosjanom kazano używać zamiast tytułów i stopni (comrade)",
+            "nowy kraj utworzony w 1922 roku ze starego imperium rosyjskiego (Soviet Union)",
+            "coś, co dzieje się w wyniku jakiegoś wydarzenia (consequence)"
+          ],
+          "passage": [
+            "Bolszewicy byli komunistami.",
+            "Komunizm wyrósł z myśli Karla Marxa (Karola Marksa).",
+            "Marx mówił, że właściciele fabryk bogacą się, a ich robotnicy zostają biedni.",
+            "Wierzył, że robotnicy kiedyś powstaną i podzielą wszystko między siebie.",
+            "Marx umarł w 1883 roku, nie zobaczywszy nigdy próby wprowadzenia tego w życie.",
+            "Lenin był marksistą, a Rosja stała się pierwszym państwem komunistycznym.",
+            "Zniesiono tytuły i stopnie, a wszystkich nazywano towarzyszami.",
+            "Ogłoszono, że kobiety są równe mężczyznom.",
+            "Robotnikom powiedziano, żeby zarządzali swoimi fabrykami przez komitety.",
+            "Chłopom powiedziano, żeby podzielili między siebie ziemię.",
+            "Państwo przejęło kontrolę nad bankami.",
+            "Dopuszczone były tylko gazety komunistyczne i tylko jedna partia polityczna.",
+            "W 1922 roku nowy kraj nazwano Związkiem Radzieckim.",
+            "Twoje zadanie pyta, jak wiele naprawdę się zmieniło."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a ideia de que a propriedade deve pertencer a toda a comunidade (communism, comunismo)",
+            "o pensador que desenvolveu a ideia do comunismo (Karl Marx)",
+            "a palavra que os russos foram mandados usar em vez de títulos e postos (comrade, camarada)",
+            "o novo país criado a partir do antigo Império Russo em 1922 (Soviet Union, União Soviética)",
+            "algo que acontece como resultado de um acontecimento (consequence, consequência)"
+          ],
+          "passage": [
+            "Os bolcheviques eram comunistas.",
+            "O comunismo veio das ideias de Karl Marx.",
+            "Marx dizia que os donos das fábricas enriqueciam enquanto os seus trabalhadores continuavam pobres.",
+            "Acreditava que um dia os trabalhadores se levantariam e repartiriam tudo.",
+            "Marx morreu em 1883 sem nunca ver isso ser tentado.",
+            "Lenin era marxista, e a Rússia tornou-se o primeiro Estado comunista.",
+            "Os títulos e os postos foram abandonados e todos passaram a chamar-se camarada.",
+            "As mulheres foram declaradas iguais aos homens.",
+            "Os trabalhadores foram mandados dirigir as suas fábricas por comité/comitê.",
+            "Os camponeses foram mandados repartir a terra entre si.",
+            "O Estado tomou o controlo dos bancos.",
+            "Só eram permitidos jornais comunistas e um único partido político.",
+            "Em 1922 o novo país recebeu o nome de União Soviética.",
+            "A tua avaliação pergunta quanto é que mudou de facto/fato."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "fikradda ah in hantida ay bulshada oo dhan iska leedahay",
+            "fikirkii horumariyay fikradda hantiwadaagga",
+            "erayga Ruushka loo sheegay inay isticmaalaan halkii cinwaanno iyo darajooyin",
+            "dalka cusub oo laga sameeyay Boqortooyadii Ruushka hore 1922-dii",
+            "wax dhacay dhacdo dartii"
+          ],
+          "passage": [
+            "Bolsheviks-ku waxay ahaayeen hantiwadaagyaal.",
+            "Hantiwadaaggu wuxuu ka yimid fikradaha Karl Marx.",
+            "Marx wuxuu yiri milkiilayaasha warshadaha way hodmeen halka shaqaalahooda faqiir ahaanayeen.",
+            "Wuxuu rumaystay in shaqaaluhu maalin ay kacdoon sameeyaan oo wax walba qaybsadaan.",
+            "Marx wuxuu dhintay 1883-dii isagoon waligii arkin in la tijaabiyo.",
+            "Lenin wuxuu ahaa Marxist, Ruushkuna wuxuu noqday dalkii hantiwadaag ee ugu horreeyay.",
+            "Cinwaannada iyo darajooyinka waa la dejiyay, qof walbana waxaa loo yiraahdaa comrade.",
+            "Haweenka waxaa lagu dhawaaqay inay ragga la mid yihiin.",
+            "Shaqaalaha waxaa loo sheegay inay warshadahooda guddi ku maamulaan.",
+            "Beeraleyda waxaa loo sheegay inay dhulka qaybsadaan.",
+            "Dowladdu waxay la wareegtay bangiyada.",
+            "Oo keliya wargeysyo hantiwadaag iyo hal xisbi siyaasadeed ayaa loo ogolaaday.",
+            "1922-dii dalka cusub waxaa loo bixiyay Midowga Soofiyeeti.",
+            "Qiimeyntaada waxay weydiinaysaa inta dhab ahaan isbeddeshay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "ідея, що власність має належати всій спільноті (communism)",
+            "мислитель, який розвинув ідею комунізму (Karl Marx)",
+            "слово, яке росіянам сказали вживати замість титулів і звань (comrade)",
+            "нова країна, створена зі старої Російської імперії у 1922 році (Soviet Union)",
+            "те, що відбувається внаслідок якоїсь події (consequence)"
+          ],
+          "passage": [
+            "Більшовики були комуністами.",
+            "Комунізм походив з ідей Карла Маркса.",
+            "Маркс казав, що власники фабрик багатіють, а їхні робітники залишаються бідними.",
+            "Він вірив, що робітники одного дня повстануть і все поділять між собою.",
+            "Маркс помер у 1883 році, так і не побачивши, щоб це спробували.",
+            "Ленін був марксистом, і Росія стала першою комуністичною державою.",
+            "Титули й звання відкинули, і всіх називали товаришем.",
+            "Жінок оголосили рівними чоловікам.",
+            "Робітникам сказали керувати своїми фабриками через комітети.",
+            "Селянам сказали поділити землю між собою.",
+            "Держава взяла під контроль банки.",
+            "Дозволяли лише комуністичні газети і лише одну політичну партію.",
+            "У 1922 році нову країну назвали Радянським Союзом.",
+            "Ваша контрольна робота питає, як багато насправді змінилося."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہ خیال کہ جائیداد پوری برادری کی ملکیت ہونی چاہیے (communism)",
+            "وہ مفکر جس نے communism کا خیال پیش کیا (Karl Marx)",
+            "وہ لفظ جو روسیوں کو خطابوں اور عہدوں کی جگہ استعمال کرنے کو کہا گیا (comrade)",
+            "پرانی روسی سلطنت سے 1922 میں بننے والا نیا ملک (Soviet Union)",
+            "وہ بات جو کسی واقعے کے نتیجے میں پیش آئے (consequence)"
+          ],
+          "passage": [
+            "Bolsheviks کمیونسٹ تھے۔",
+            "communism کارل مارکس (Karl Marx) کے خیالوں سے آیا۔",
+            "مارکس نے کہا کہ کارخانوں کے مالک امیر ہوتے گئے جبکہ ان کے مزدور غریب ہی رہے۔",
+            "اس کا یقین تھا کہ مزدور ایک دن اٹھ کھڑے ہوں گے اور سب کچھ بانٹ لیں گے۔",
+            "مارکس 1883 میں مر گیا، اور یہ آزمائش اس نے کبھی نہ دیکھی۔",
+            "لینن مارکس کا پیروکار تھا، اور روس دنیا کی پہلی کمیونسٹ ریاست بن گیا۔",
+            "خطاب اور عہدے ختم کر دیے گئے اور سب کو comrade کہا جانے لگا۔",
+            "عورتوں کو مردوں کے برابر قرار دیا گیا۔",
+            "مزدوروں سے کہا گیا کہ وہ اپنے کارخانے کمیٹی کے ذریعے چلائیں۔",
+            "کسانوں سے کہا گیا کہ وہ زمین بانٹ لیں۔",
+            "ریاست نے بینکوں کا قابو سنبھال لیا۔",
+            "صرف کمیونسٹ اخباروں اور صرف ایک سیاسی جماعت کی اجازت تھی۔",
+            "1922 میں اس نئے ملک کا نام Soviet Union رکھا گیا۔",
+            "آپ کے امتحان میں پوچھا جاتا ہے کہ حقیقت میں کتنا کچھ بدلا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Karl Marx and the idea of communism",

@@ -101,8 +101,156 @@ window.ASTRA_UNITS["geog-gis"] = {
           "Long before computers, Dr Snow used a paper map to study a deadly disease.",
           "He marked where each person had died and looked for a pattern.",
           "His map showed that the deaths were clustered around one water pump."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كم يبعد المكان شمال خطّ الاستواء أو جنوبه (latitude)",
+            "كم يبعد المكان شرق خطّ غرينتش أو غربه (longitude)",
+            "خطّ العرض 0° الذي يدور حول وسط الأرض (Equator)",
+            "رمز رقمي يحدّد مربّعًا أو نقطة على الخريطة (grid reference)",
+            "شيء يتكرّر أو يتجمّع حتى تستطيع ملاحظته (pattern)"
+          ],
+          "passage": [
+            "لكلّ مكان على الأرض عنوان مكوّن من رقمين.",
+            "والرقم الأوّل هو خطّ عرضه.",
+            "وخطّ العرض يخبرك كم يبعد المكان شمال خطّ الاستواء أو جنوبه.",
+            "وخطّ الاستواء هو خطّ العرض 0°.",
+            "والرقم الثاني هو خطّ طوله.",
+            "وخطّ الطول يخبرك كم يبعد المكان شرق خطّ غرينتش أو غربه.",
+            "وخطّ غرينتش هو خطّ الطول 0°، وهو يمرّ بلندن.",
+            "وعلى الخريطة المحلّية نستخدم مراجع الشبكة (grid references) بدلًا من ذلك.",
+            "اقرأ الرقم على الحاشية السفلى أوّلًا، ثم الرقم الصاعد على الجانب.",
+            "وقبل الحاسوب بزمن طويل استخدم الطبيب سنو (Dr Snow) خريطة ورقية ليدرس مرضًا قاتلًا.",
+            "فأشّر على المكان الذي مات فيه كلّ شخص، وبحث عن نمط.",
+            "وأظهرت خريطته أنّ الوفيات متجمّعة حول مضخّة ماء واحدة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak daleko na północ albo na południe od równika leży dane miejsce (latitude)",
+            "jak daleko na wschód albo na zachód od południka zerowego leży dane miejsce (longitude)",
+            "linia 0° szerokości geograficznej wokół środka Ziemi",
+            "kod z liczb, który wskazuje kwadrat albo punkt na mapie (grid reference)",
+            "coś, co się powtarza albo skupia w jednym miejscu, tak że można to zauważyć"
+          ],
+          "passage": [
+            "Każde miejsce na Ziemi ma adres zrobiony z dwóch liczb.",
+            "Pierwsza liczba to jego szerokość geograficzna.",
+            "Szerokość geograficzna mówi, jak daleko na północ albo na południe od równika leży dane miejsce.",
+            "Równik to linia 0° szerokości geograficznej.",
+            "Druga liczba to jego długość geograficzna.",
+            "Długość geograficzna mówi, jak daleko na wschód albo na zachód od południka zerowego (Greenwich Meridian) leży dane miejsce.",
+            "Południk zerowy to linia 0° długości geograficznej i przechodzi przez Londyn.",
+            "Na mapie okolicy używamy zamiast tego współrzędnych siatki (grid references).",
+            "Najpierw czytaj liczbę na dolnym brzegu, a potem liczbę na brzegu bocznym.",
+            "Długo przed komputerami doktor Snow użył papierowej mapy, żeby zbadać groźną chorobę.",
+            "Zaznaczył, gdzie umarła każda osoba, i szukał prawidłowości.",
+            "Jego mapa pokazała, że zgony skupiały się wokół jednej pompy wodnej."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a que distância a norte ou a sul do Equador fica um lugar (latitude)",
+            "a que distância a leste ou a oeste do Meridiano de Greenwich fica um lugar (longitude)",
+            "a linha de 0° de latitude em volta do meio da Terra (Equator, Equador)",
+            "um código de números que dá nome a um quadrado ou a um ponto num mapa (grid reference)",
+            "algo que se repete ou se agrupa, de maneira a que consigas vê-lo (pattern, padrão)"
+          ],
+          "passage": [
+            "Todos os lugares da Terra têm um endereço feito de dois números.",
+            "O primeiro número é a sua latitude.",
+            "A latitude diz-te a que distância a norte ou a sul do Equador fica um lugar.",
+            "O Equador é a linha de latitude de 0°.",
+            "O segundo número é a sua longitude.",
+            "A longitude diz-te a que distância a leste ou a oeste do Meridiano de Greenwich fica um lugar.",
+            "O Meridiano de Greenwich é a linha de longitude de 0°, e passa por Londres.",
+            "Num mapa local usamos grid references em vez disso.",
+            "Lê primeiro o número que está na base e depois o número que está no lado.",
+            "Muito antes dos computadores, o Dr Snow usou um mapa de papel para estudar uma doença mortal.",
+            "Ele marcou onde cada pessoa tinha morrido e procurou um padrão.",
+            "O mapa dele mostrou que as mortes estavam agrupadas em volta de uma bomba de água."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inta meel ay waqooyi ama koonfur uga jirto dhulbaraha",
+            "inta meel ay bari ama galbeed uga jirto xariiqda Greenwich Meridian",
+            "xariiqda 0° latitude oo dhexda Dhulka ku wareegsan",
+            "nambar sheegaya afar-geesle ama bar khariidad ku yaal",
+            "wax isku celcelinaya ama isugu tuulan, oo aad arki karto"
+          ],
+          "passage": [
+            "Meel kasta oo Dhulka ku taal waxay leedahay cinwaan laba tiro ka kooban.",
+            "Tirada koowaad waa latitude-keeda.",
+            "Latitude wuxuu kuu sheegaa inta meel ay waqooyi ama koonfur uga jirto dhulbaraha.",
+            "Dhulbaraha waa xariiqda 0° ee latitude.",
+            "Tirada labaad waa longitude-keeda.",
+            "Longitude wuxuu kuu sheegaa inta meel ay bari ama galbeed uga jirto xariiqda Greenwich Meridian.",
+            "Greenwich Meridian waa xariiqda 0° ee longitude, waxayna dhex martaa London.",
+            "Khariidad maxalli ah waxaan isticmaalnaa tirooyinka grid reference.",
+            "Marka hore akhri tirada hoose, kadibna tirada dhinaca kor u socota.",
+            "Kombuyuutarrada ka hor wakhti dheer, Dr Snow wuxuu khariidad warqad ah u isticmaalay inuu cudur dilaa ku barto.",
+            "Wuxuu calaamadeeyay halka qof kasta ku dhintay oo wuxuu raadiyay qaab.",
+            "Khariidaddiisa waxay muujisay in dhimashadu ku tuulnayd hal bam biyo agtiisa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "наскільки далеко на північ або на південь від екватора розташоване місце (latitude)",
+            "наскільки далеко на схід або на захід від Ґрінвіцького меридіана розташоване місце (longitude)",
+            "лінія 0° широти навколо середини Землі (Equator)",
+            "числовий код, який називає квадрат або точку на карті (grid reference)",
+            "те, що повторюється або збирається купками, так що це можна помітити (pattern)"
+          ],
+          "passage": [
+            "Кожне місце на Землі має адресу з двох чисел.",
+            "Перше число — це його широта.",
+            "Широта повідомляє, наскільки далеко на північ або на південь від екватора розташоване місце.",
+            "Екватор — це лінія 0° широти.",
+            "Друге число — це його довгота.",
+            "Довгота повідомляє, наскільки далеко на схід або на захід від Ґрінвіцького меридіана розташоване місце.",
+            "Ґрінвіцький меридіан — це лінія 0° довготи, і вона проходить через Лондон.",
+            "На місцевій карті ми замість цього використовуємо координати сітки.",
+            "Читайте спочатку число вздовж низу, потім число вгору по боці.",
+            "Задовго до комп’ютерів лікар Сноу (Dr Snow) використав паперову карту, щоб дослідити смертельну хворобу.",
+            "Він позначив, де померла кожна людина, і шукав закономірність.",
+            "Його карта показала, що смерті зібралися купкою навколо однієї водяної колонки."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کوئی جگہ Equator سے کتنی شمال یا جنوب میں ہے (latitude)",
+            "کوئی جگہ Greenwich Meridian سے کتنی مشرق یا مغرب میں ہے (longitude)",
+            "زمین کے بیچ میں 0° latitude کی لکیر (Equator)",
+            "وہ عددی کوڈ جو نقشے پر کسی خانے یا نقطے کا نام بتاتا ہے (grid reference)",
+            "وہ چیز جو دہرائی جائے یا ایک جگہ جمع ہو جائے، تاکہ آپ اسے پہچان سکیں (pattern)"
+          ],
+          "passage": [
+            "زمین پر ہر جگہ کا ایک پتا ہے جو دو اعداد سے بنتا ہے۔",
+            "پہلا عدد اس کا latitude ہے۔",
+            "latitude بتاتا ہے کہ کوئی جگہ Equator سے کتنی شمال یا جنوب میں ہے۔",
+            "Equator latitude کی 0° والی لکیر ہے۔",
+            "دوسرا عدد اس کا longitude ہے۔",
+            "longitude بتاتا ہے کہ کوئی جگہ Greenwich Meridian سے کتنی مشرق یا مغرب میں ہے۔",
+            "Greenwich Meridian longitude کی 0° والی لکیر ہے، اور یہ لندن سے گزرتی ہے۔",
+            "مقامی نقشے پر ہم اس کی جگہ grid references استعمال کرتے ہیں۔",
+            "پہلے نیچے کے کنارے والا عدد پڑھیں، پھر بغلی کنارے پر اوپر جانے والا عدد۔",
+            "کمپیوٹروں سے بہت پہلے، ڈاکٹر سنو (Dr Snow) نے ایک جان لیوا بیماری کے مطالعے کے لیے کاغذ کا نقشہ استعمال کیا۔",
+            "انھوں نے نشان لگایا کہ ہر فرد کہاں فوت ہوا، اور کوئی نمونہ ڈھونڈنے لگے۔",
+            "ان کے نقشے نے دکھایا کہ یہ موتیں پانی کے ایک پمپ کے گرد جمع تھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Latitude and longitude: the Earth's address system",
@@ -303,8 +451,168 @@ window.ASTRA_UNITS["geog-gis"] = {
           "That is how the computer knows where to put it on the map.",
           "A heat map uses colour to show where there is more or less of something.",
           "In the UK, a company called Esri makes the GIS software ArcGIS."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "نظام المعلومات الجغرافية: نظام حاسوبي يخزّن بيانات عن الأماكن ويعرضها على خريطة (GIS)",
+            "معلومات جُمِعت، وتكون غالبًا أرقامًا أو وقائع (data)",
+            "مجموعة واحدة من البيانات في نظام المعلومات الجغرافية، تُوضع فوق الخريطة (layer)",
+            "خريطة تستخدم اللون لبيان أين يكون الشيء أكثر وأين يكون أقلّ (heat map)",
+            "البرنامج الذي يعمل على الحاسوب (software)",
+            "الحاسوب أو اللوح نفسه، أي الجزء الذي تلمسه (hardware)"
+          ],
+          "passage": [
+            "GIS اختصار لنظام المعلومات الجغرافية.",
+            "وهو نظام حاسوبي يخزّن معلومات عن الأماكن ويعرضها على خريطة.",
+            "ولنظام المعلومات الجغرافية أربعة مكوّنات.",
+            "فالعتاد (hardware) هو الحاسوب نفسه.",
+            "والبرمجية (software) هي البرنامج الذي يرسم الخرائط.",
+            "والبيانات (data) هي المعلومات عن الأماكن.",
+            "والناس هم المستخدمون الذين يسألون ويقرؤون الخرائط.",
+            "وفي نظام المعلومات الجغرافية تُسمّى كلّ مجموعة بيانات طبقة (layer).",
+            "ويمكنك أن تُكدّس طبقات كثيرة على خريطة واحدة، كصفائح البلاستيك الشفّاف.",
+            "ولكلّ قطعة بيانات لا بدّ من خطّ عرضها وخطّ طولها.",
+            "فبهذا يعرف الحاسوب أين يضعها على الخريطة.",
+            "وخريطة الحرارة اللونية (heat map) تستخدم اللون لبيان أين يكون الشيء أكثر وأين يكون أقلّ.",
+            "وفي المملكة المتّحدة تصنع شركة تُسمّى Esri برمجية المعلومات الجغرافية ArcGIS."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "Geographic Information System: system komputerowy, który przechowuje dane o miejscach i pokazuje je na mapie (GIS)",
+            "informacje, często liczby albo fakty, które zostały zebrane (data)",
+            "jeden zestaw danych w systemie GIS, nałożony na mapę (layer)",
+            "mapa, która kolorem pokazuje, gdzie czegoś jest więcej, a gdzie mniej (heat map)",
+            "program, który działa na komputerze (software)",
+            "sam komputer albo tablet, czyli ta część, której można dotknąć (hardware)"
+          ],
+          "passage": [
+            "Skrót GIS pochodzi od angielskich słów Geographic Information System.",
+            "To system komputerowy, który przechowuje informacje o miejscach i pokazuje je na mapie.",
+            "System GIS ma cztery części składowe.",
+            "Sprzęt (hardware) to sam komputer.",
+            "Oprogramowanie (software) to program, który rysuje mapy.",
+            "Dane (data) to informacje o miejscach.",
+            "Ludzie to użytkownicy, którzy zadają pytania i czytają mapy.",
+            "W systemie GIS każdy zestaw danych nazywamy warstwą (layer).",
+            "Na jednej mapie można ułożyć wiele warstw, jak arkusze przezroczystego plastiku.",
+            "Każda dana potrzebuje swojej szerokości i długości geograficznej.",
+            "W ten sposób komputer wie, gdzie ją umieścić na mapie.",
+            "Mapa cieplna (heat map) kolorem pokazuje, gdzie czegoś jest więcej, a gdzie mniej.",
+            "W Zjednoczonym Królestwie firma Esri tworzy oprogramowanie GIS o nazwie ArcGIS."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "GIS = Geographic Information System: um sistema de computador que guarda dados sobre lugares e os mostra num mapa",
+            "informação, muitas vezes números ou factos/fatos, que foi recolhida/coletada (data, dados)",
+            "um conjunto de dados num GIS, colocado por cima do mapa (layer, camada)",
+            "um mapa que usa a cor para mostrar onde há mais e onde há menos de uma coisa (heat map, mapa de calor)",
+            "o programa que corre num computador (software)",
+            "o computador ou o tablet em si, a parte que podes tocar (hardware)"
+          ],
+          "passage": [
+            "GIS quer dizer Geographic Information System, ou sistema de informação geográfica.",
+            "É um sistema de computador que guarda informação sobre lugares e a mostra num mapa.",
+            "Um GIS tem quatro componentes.",
+            "O hardware é o computador em si.",
+            "O software é o programa que desenha os mapas.",
+            "Os dados (data) são a informação sobre os lugares.",
+            "As pessoas são os utilizadores/usuários que fazem perguntas e leem os mapas.",
+            "Num GIS, cada conjunto de dados chama-se camada (layer).",
+            "Podes empilhar muitas camadas num só mapa, como folhas de plástico transparente.",
+            "Cada dado precisa da sua latitude e da sua longitude.",
+            "É assim que o computador sabe onde o pôr no mapa.",
+            "Um mapa de calor (heat map) usa a cor para mostrar onde há mais e onde há menos de uma coisa.",
+            "No Reino Unido, uma empresa chamada Esri faz o software de GIS ArcGIS."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "Geographic Information System: nidaam kombuyuutar oo kaydiya xog ku saabsan meelo oo khariidad ku muujiya",
+            "macluumaad, oo inta badan tirooyin ama xaqiiqooyin ah, oo la soo ururiyay",
+            "hal urur xog oo GIS ku jira, oo khariidadda lagu dul saaray",
+            "khariidad midab ku muujisa halka wax badan ama wax yar ka jiro",
+            "barnaamijka kombuyuutarka ku shaqeeya",
+            "kombuyuutarka ama tablet-ka laftiisa, qaybta aad taaban karto"
+          ],
+          "passage": [
+            "GIS waxay ka kooban tahay erayada Geographic Information System.",
+            "Waa nidaam kombuyuutar oo kaydiya macluumaad ku saabsan meelo oo khariidad ku muujiya.",
+            "GIS wuxuu leeyahay afar qaybood.",
+            "Hardware-ku waa kombuyuutarka laftiisa.",
+            "Software-ku waa barnaamijka khariidadaha sawira.",
+            "Xogtu waa macluumaadka ku saabsan meelaha.",
+            "Dadku waa kuwa isticmaala, oo su'aalo weydiiya oo khariidadaha akhriya.",
+            "GIS dhexdiisa, urur kasta oo xog ah waxaa loo yiraahdaa lakab (layer).",
+            "Lakabyo badan ayaad hal khariidad ku dul saari kartaa, sidii go'yaal balaastig oo caddaan ah.",
+            "Xog kastaa waxay u baahan tahay latitude-keeda iyo longitude-keeda.",
+            "Sidaas ayuu kombuyuutarku ku ogaadaa halka khariidadda uu ku dhigayo.",
+            "Heat map wuxuu midab u isticmaalaa muujinta halka wax badan ama wax yar ka jiro.",
+            "Boqortooyada Midowday, shirkad la yiraahdo Esri ayaa samaysa barnaamijka GIS ee ArcGIS."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "Geographic Information System: комп’ютерна система, яка зберігає дані про місця і показує їх на карті (GIS)",
+            "інформація, часто числа або факти, яку зібрали (data)",
+            "один набір даних у GIS, накладений на карту (layer)",
+            "карта, яка кольором показує, де чогось більше, а де менше (heat map)",
+            "програма, що працює на комп’ютері (software)",
+            "сам комп’ютер або планшет, та частина, якої можна торкнутися (hardware)"
+          ],
+          "passage": [
+            "GIS означає Geographic Information System, тобто географічна інформаційна система.",
+            "Це комп’ютерна система, яка зберігає інформацію про місця і показує її на карті.",
+            "GIS має чотири складові.",
+            "Обладнання (hardware) — це сам комп’ютер.",
+            "Програма (software) — це програма, яка малює карти.",
+            "Дані (data) — це інформація про місця.",
+            "Люди — це користувачі, які ставлять запитання і читають карти.",
+            "У GIS кожний набір даних називають шаром (layer).",
+            "Можна накласти багато шарів на одну карту, наче аркуші прозорого пластику.",
+            "Кожна частинка даних потребує своєї широти і довготи.",
+            "Саме так комп’ютер знає, де розмістити її на карті.",
+            "Теплова карта (heat map) кольором показує, де чогось більше, а де менше.",
+            "В Об’єднаному Королівстві компанія Esri виготовляє програму для GIS під назвою ArcGIS."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "Geographic Information System: ایک کمپیوٹر نظام جو جگہوں کے بارے میں اعداد و شمار رکھتا ہے اور انھیں نقشے پر دکھاتا ہے (GIS)",
+            "جمع کی گئی معلومات، اکثر اعداد یا حقائق کی صورت میں (data)",
+            "GIS میں اعداد و شمار کا ایک سیٹ، جو نقشے پر رکھا جاتا ہے (layer)",
+            "وہ نقشہ جو رنگ سے دکھاتا ہے کہ کہاں کوئی چیز زیادہ ہے اور کہاں کم (heat map)",
+            "وہ پروگرام جو کمپیوٹر پر چلتا ہے (software)",
+            "خود کمپیوٹر یا ٹیبلٹ، یعنی وہ حصہ جسے آپ چھو سکتے ہیں (hardware)"
+          ],
+          "passage": [
+            "GIS کا مطلب Geographic Information System ہے۔",
+            "یہ ایک کمپیوٹر نظام ہے جو جگہوں کے بارے میں معلومات رکھتا ہے اور انھیں نقشے پر دکھاتا ہے۔",
+            "GIS کے چار اجزا ہوتے ہیں۔",
+            "hardware خود کمپیوٹر ہے۔",
+            "software وہ پروگرام ہے جو نقشے بناتا ہے۔",
+            "data جگہوں کے بارے میں معلومات ہے۔",
+            "لوگ وہ استعمال کرنے والے ہیں جو سوال پوچھتے اور نقشے پڑھتے ہیں۔",
+            "GIS میں اعداد و شمار کے ہر سیٹ کو layer کہتے ہیں۔",
+            "آپ ایک نقشے پر کئی layers رکھ سکتے ہیں، شفاف پلاسٹک کی چادروں کی طرح۔",
+            "اعداد و شمار کے ہر ٹکڑے کے لیے اس کا latitude اور longitude ضروری ہے۔",
+            "اسی سے کمپیوٹر کو پتا چلتا ہے کہ اسے نقشے پر کہاں رکھنا ہے۔",
+            "heat map رنگ سے دکھاتا ہے کہ کہاں کوئی چیز زیادہ ہے اور کہاں کم۔",
+            "برطانیہ میں Esri نامی کمپنی GIS کا سافٹ ویئر ArcGIS بناتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four components, one system",
@@ -507,8 +815,156 @@ window.ASTRA_UNITS["geog-gis"] = {
           "That helps people study the causes, reduce the impacts and improve the response.",
           "You could add a layer, like street lights, to help explain a pattern.",
           "Every use starts with the same question: where is it happening?"
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء بناه الناس أو صنعوه، كالطريق أو المدرسة (human feature)",
+            "جزء طبيعي من المنظر، كالنهر أو التلّ (physical feature)",
+            "الإحصاء الرسمي لكلّ من يعيش في البلد (census)",
+            "مجموعة من الأشياء متجمّعة متقاربة في مكان واحد (cluster)",
+            "شيء طبيعي قد يضرّ بالناس، كالزلزال (hazard)"
+          ],
+          "passage": [
+            "يستطيع نظام المعلومات الجغرافية أن يعرض المعالم البشرية والمعالم الطبيعية.",
+            "فالمعالم البشرية أشياء بناها الناس، كالطرق والمدارس والمتاجر.",
+            "والمعالم الطبيعية طبيعية، كالأنهار والتلال والسواحل.",
+            "ويستطيع النظام أن يعرض عدد الولادات في كلّ منطقة من بيانات الإحصاء.",
+            "ويستطيع أن يعرض أين مات الناس بمرض ما، ككوفيد-19 أو الكوليرا.",
+            "وهذا يساعد العلماء على دراسة أين ينتشر المرض ولماذا.",
+            "وتستخدم الشرطة النظام لرسم خريطة لأماكن وقوع الجرائم.",
+            "فإذا تجمّعت سرقات سيّارات كثيرة في شارع واحد، عرفت الشرطة أين تبحث.",
+            "ويستطيع النظام أن يرسم خرائط الزلازل والبراكين وغيرها من المخاطر.",
+            "وهذا يساعد الناس على دراسة الأسباب وتقليل الآثار وتحسين الاستجابة.",
+            "ويمكنك أن تضيف طبقة، كأعمدة إنارة الشوارع، لتساعد في تفسير نمط ما.",
+            "وكلّ استخدام يبدأ بالسؤال نفسه: أين يحدث هذا؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś, co ludzie zbudowali albo wytworzyli, na przykład droga albo szkoła (human feature)",
+            "naturalna część krajobrazu, na przykład rzeka albo wzgórze (physical feature)",
+            "oficjalny spis wszystkich ludzi mieszkających w kraju (census)",
+            "grupa rzeczy zebranych blisko siebie w jednym miejscu (cluster)",
+            "coś naturalnego, co może zaszkodzić ludziom, na przykład trzęsienie ziemi (hazard)"
+          ],
+          "passage": [
+            "System GIS może pokazywać elementy stworzone przez ludzi i elementy naturalne.",
+            "Elementy stworzone przez ludzi to rzeczy przez nich zbudowane: drogi, szkoły i sklepy.",
+            "Elementy naturalne są dziełem przyrody: rzeki, wzgórza i wybrzeża.",
+            "System GIS może pokazać liczbę urodzeń w każdym obszarze, wziętą ze spisu ludności (census).",
+            "Może pokazać, gdzie ludzie umarli na jakąś chorobę, taką jak Covid-19 albo cholera.",
+            "To pomaga naukowcom badać, gdzie choroba się rozprzestrzenia i dlaczego.",
+            "Policja używa systemu GIS, żeby nanosić na mapę miejsca przestępstw.",
+            "Jeśli wiele kradzieży samochodów skupia się na jednej ulicy, policja wie, gdzie szukać.",
+            "System GIS może nanosić na mapę trzęsienia ziemi, wulkany i inne zagrożenia (hazards).",
+            "To pomaga ludziom badać przyczyny, zmniejszać skutki i lepiej reagować.",
+            "Można dodać warstwę, na przykład latarnie uliczne, żeby pomóc wyjaśnić jakąś prawidłowość.",
+            "Każde zastosowanie zaczyna się od tego samego pytania: gdzie to się dzieje?"
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo que as pessoas construíram ou fizeram, como uma estrada ou uma escola (human feature)",
+            "uma parte natural da paisagem, como um rio ou uma colina (physical feature)",
+            "a contagem oficial de todas as pessoas que vivem no país (census, censo)",
+            "um grupo de coisas juntas num mesmo lugar (cluster, agrupamento)",
+            "algo natural que pode fazer mal às pessoas, como um sismo/terremoto (hazard, risco natural)"
+          ],
+          "passage": [
+            "Um GIS pode mostrar human features e physical features.",
+            "As human features são coisas que as pessoas construíram, como estradas, escolas e lojas.",
+            "As physical features são naturais, como rios, colinas e costas.",
+            "Um GIS pode mostrar o número de nascimentos em cada área, a partir do censo.",
+            "Pode mostrar onde morreram pessoas por causa de uma doença, como a Covid-19 ou a cólera.",
+            "Isso ajuda os cientistas a estudar onde a doença se está a espalhar / está espalhando e porquê.",
+            "A polícia usa um GIS para mapear onde acontecem os crimes.",
+            "Se muitos roubos de carros se agruparem numa rua, a polícia sabe onde procurar.",
+            "Um GIS pode mapear sismos/terremotos, vulcões e outros riscos naturais.",
+            "Isso ajuda as pessoas a estudar as causas, a reduzir os impactos e a melhorar a resposta.",
+            "Podias acrescentar uma camada, como a iluminação das ruas, para ajudar a explicar um padrão.",
+            "Qualquer utilização começa com a mesma pergunta: onde é que isto está a acontecer / está acontecendo?"
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax dadku dhiseen ama sameeyeen, sida waddo ama iskuul",
+            "qayb dabiici ah oo muuqaalka dhulka, sida webi ama kur",
+            "tirinta rasmiga ah ee dadka oo dhan ee dalka ku nool",
+            "koox waxyaalo ah oo isugu dhow meel keliya",
+            "wax dabiici ah oo dadka waxyeelleyn kara, sida dhulgariir"
+          ],
+          "passage": [
+            "GIS wuxuu muujin karaa astaamaha bani'aadmiga iyo astaamaha dabiiciga ah.",
+            "Astaamaha bani'aadmiga waa waxyaalo dadku dhiseen, sida waddooyinka, iskuullada iyo dukaammada.",
+            "Astaamaha dabiiciga waa kuwo dabiici ah, sida webiyada, kuraha iyo xeebaha.",
+            "GIS wuxuu tirakoobka kaga muujin karaa tirada dhallaanka ku dhasha meel kasta.",
+            "Wuxuu muujin karaa halka dad cudur ugu dhintay, sida Covid-19 ama daacuunka shubanka.",
+            "Taasi waxay saynisyahannada ka caawisaa inay bartaan halka cudurku ku faafayo iyo sababta.",
+            "Booliisku GIS wuxuu u isticmaalaa khariidadeynta halka dembiyadu ka dhacaan.",
+            "Haddii xatooyooyin baabuur badan ay hal waddo isugu tuulmaan, booliisku wuu garanayaa halka uu eegayo.",
+            "GIS wuxuu khariidad ku samayn karaa dhulgariirrada, foolkaanaha iyo khataro kale.",
+            "Taasi waxay dadka ka caawisaa inay bartaan sababaha, yareeyaan saameynta oo wanaajiyaan jawaabta.",
+            "Waxaad lakab ku dari kartaa, sida nalalka waddooyinka, si uu qaab u sharraxo.",
+            "Isticmaal kastaa wuxuu ku bilaabmaa isla su'aashaas: xaggee ayuu ka dhacayaa?"
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що люди побудували або зробили, наприклад дорога чи школа (human feature)",
+            "природна частина ландшафту, наприклад річка чи пагорб (physical feature)",
+            "офіційний підрахунок усіх, хто живе в країні (census)",
+            "група речей, зібраних близько одна до одної в одному місці (cluster)",
+            "щось природне, що може зашкодити людям, наприклад землетрус (hazard)"
+          ],
+          "passage": [
+            "GIS може показувати створені людьми об’єкти і природні об’єкти.",
+            "Створені людьми об’єкти — це те, що побудували люди, як-от дороги, школи й крамниці.",
+            "Природні об’єкти є природними, як-от річки, пагорби й узбережжя.",
+            "GIS може показати кількість народжень у кожному районі за даними перепису.",
+            "Він може показати, де люди померли від хвороби, як-от Covid-19 або холери.",
+            "Це допомагає науковцям досліджувати, де поширюється хвороба і чому.",
+            "Поліція використовує GIS, щоб наносити на карту місця злочинів.",
+            "Якщо багато крадіжок автомобілів збирається на одній вулиці, поліція знає, де шукати.",
+            "GIS може наносити на карту землетруси, вулкани й інші небезпеки.",
+            "Це допомагає людям досліджувати причини, зменшувати наслідки і краще реагувати.",
+            "Ви могли б додати шар, як-от вуличні ліхтарі, щоб допомогти пояснити закономірність.",
+            "Кожне використання починається з того самого запитання: де це відбувається?"
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ چیز جو لوگوں نے بنائی ہو، جیسے سڑک یا سکول (human feature)",
+            "منظر کا قدرتی حصہ، جیسے دریا یا پہاڑی (physical feature)",
+            "ملک میں رہنے والے ہر فرد کی سرکاری گنتی (census)",
+            "چیزوں کا ایک گروہ جو ایک جگہ قریب قریب جمع ہو (cluster)",
+            "کوئی قدرتی چیز جو لوگوں کو نقصان پہنچا سکے، جیسے زلزلہ (hazard)"
+          ],
+          "passage": [
+            "GIS human features اور physical features دونوں دکھا سکتا ہے۔",
+            "human features وہ چیزیں ہیں جو لوگوں نے بنائی ہیں، جیسے سڑکیں، سکول اور دکانیں۔",
+            "physical features قدرتی ہیں، جیسے دریا، پہاڑیاں اور ساحل۔",
+            "GIS، census کی مدد سے، ہر علاقے میں پیدائشوں کی تعداد دکھا سکتا ہے۔",
+            "یہ دکھا سکتا ہے کہ کسی بیماری سے، جیسے Covid-19 یا ہیضہ، لوگ کہاں فوت ہوئے۔",
+            "اس سے سائنس دانوں کو مطالعہ کرنے میں مدد ملتی ہے کہ بیماری کہاں اور کیوں پھیل رہی ہے۔",
+            "پولیس GIS سے نقشہ بناتی ہے کہ جرائم کہاں ہوتے ہیں۔",
+            "اگر گاڑیوں کی بہت سی چوریاں ایک ہی گلی میں جمع ہوں تو پولیس کو پتا چل جاتا ہے کہ کہاں دیکھنا ہے۔",
+            "GIS زلزلوں، آتش فشانوں اور دوسرے hazards کا نقشہ بنا سکتا ہے۔",
+            "اس سے لوگوں کو وجوہات سمجھنے، اثر کم کرنے اور ردِعمل بہتر بنانے میں مدد ملتی ہے۔",
+            "آپ کوئی layer، جیسے گلی کی بتیاں، شامل کر کے کسی نمونے کی وضاحت کر سکتے ہیں۔",
+            "ہر استعمال اسی ایک سوال سے شروع ہوتا ہے: یہ کہاں ہو رہا ہے؟"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Human and physical on the same map",
@@ -705,8 +1161,168 @@ window.ASTRA_UNITS["geog-gis"] = {
           "Use the location tool to read the latitude and longitude of the school.",
           "Click Save As and name your map Harlington School.",
           "Your saved maps are kept in My Content."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "برمجية المعلومات الجغرافية التي تستخدمها عبر متصفّح الوِب (ArcGIS Online)",
+            "الأداة التي تتيح لك إضافة رموزك وعناوينك إلى الخريطة (map notes)",
+            "مجموعة رموز جاهزة تختار منها (template)",
+            "الأداة التي تجد المسافة بين نقطتين على الخريطة (measure tool)",
+            "الأداة التي تبيّن خطّ عرض نقطة وخطّ طولها (location tool)",
+            "المكان في ArcGIS Online الذي تُحفظ فيه خرائطك (My Content)"
+          ],
+          "passage": [
+            "ArcGIS Online هي برمجية المعلومات الجغرافية التي تستخدمها في هذه الوحدة.",
+            "تسجّل الدخول، ثم تذهب إلى Maps وتفتح عارض الخرائط.",
+            "اكتب Pinkwell Lane في صندوق العنوان واختر العنوان الكامل الذي يظهر.",
+            "وقرّب الصورة حتى ترى المدرسة والشوارع القريبة منها.",
+            "انقر على زرّ Add، ثم اختر Add Map Notes.",
+            "وسمِّ ملاحظاتك على الخريطة human features واختر قالب general infrastructure.",
+            "وتنقّل بين الرموز حتى تجد رمز المدرسة.",
+            "انقر على الرمز، ثم انقر على المدرسة لتضعه فيها.",
+            "وغيّر العنوان إلى Harlington School واكتب وصفًا قصيرًا.",
+            "واستخدم أداة القياس لتجد المسافة بين مكانين.",
+            "واستخدم أداة الموقع لتقرأ خطّ عرض المدرسة وخطّ طولها.",
+            "انقر على Save As وسمِّ خريطتك Harlington School.",
+            "وخرائطك المحفوظة تبقى في My Content."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "oprogramowanie GIS, którego używa się przez przeglądarkę internetową (ArcGIS Online)",
+            "narzędzie, które pozwala dodać do mapy własne znaki i opisy (map notes)",
+            "gotowy zestaw znaków do wyboru (template)",
+            "narzędzie, które znajduje odległość między dwoma punktami na mapie (measure tool)",
+            "narzędzie, które pokazuje szerokość i długość geograficzną punktu (location tool)",
+            "miejsce w ArcGIS Online, w którym przechowywane są twoje zapisane mapy (My Content)"
+          ],
+          "passage": [
+            "ArcGIS Online to oprogramowanie GIS, którego używasz w tym temacie.",
+            "Logujesz się, wchodzisz w Maps i otwierasz przeglądarkę map.",
+            "Wpisz Pinkwell Lane w okienku adresu i wybierz pełny adres, który się pojawi.",
+            "Przybliż widok, aż zobaczysz szkołę i okoliczne ulice.",
+            "Kliknij przycisk Add, a następnie wybierz Add Map Notes.",
+            "Nazwij swoje map notes „human features” i wybierz gotowy szablon general infrastructure.",
+            "Przewijaj znaki, dopóki nie znajdziesz szkoły.",
+            "Kliknij ten znak, a potem kliknij na szkołę, żeby go umieścić.",
+            "Zmień tytuł na Harlington School i napisz krótki opis.",
+            "Użyj narzędzia measure tool, żeby znaleźć odległość między dwoma miejscami.",
+            "Użyj narzędzia location tool, żeby odczytać szerokość i długość geograficzną szkoły.",
+            "Kliknij Save As i nazwij swoją mapę Harlington School.",
+            "Twoje zapisane mapy są przechowywane w My Content."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o software de GIS que usas através de um navegador de internet (ArcGIS Online)",
+            "a ferramenta que te deixa acrescentar os teus próprios símbolos e etiquetas a um mapa (map notes)",
+            "um conjunto de símbolos já feito, à tua escolha (template, modelo)",
+            "a ferramenta que descobre a distância entre dois pontos do mapa (measure tool)",
+            "a ferramenta que mostra a latitude e a longitude de um ponto (location tool)",
+            "o lugar do ArcGIS Online onde ficam guardados os teus mapas (My Content)"
+          ],
+          "passage": [
+            "O ArcGIS Online é o software de GIS que usas nesta unidade.",
+            "Entras na tua conta, vais a Maps e abres o visualizador de mapas.",
+            "Escreve Pinkwell Lane na caixa do endereço e escolhe o endereço completo que aparece.",
+            "Aumenta o zoom até conseguires ver a escola e as ruas ao lado.",
+            "Clica em Add e depois em Add Map Notes.",
+            "Dá às tuas map notes o nome human features e escolhe o modelo general infrastructure.",
+            "Percorre os símbolos até encontrares a escola.",
+            "Clica no símbolo e depois clica na escola para o colocar.",
+            "Muda o título para Harlington School e escreve uma descrição curta.",
+            "Usa a measure tool para descobrir a distância entre dois lugares.",
+            "Usa a location tool para ler a latitude e a longitude da escola.",
+            "Clica em Save As e dá ao teu mapa o nome Harlington School.",
+            "Os teus mapas guardados ficam em My Content."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "barnaamijka GIS ee aad browser-ka internetka ku isticmaasho",
+            "qalabka kuu ogolaanaya inaad calaamado iyo magacyo adiga u gaar ah khariidad ku darto",
+            "urur calaamado diyaarsan oo aad ka dooranayso",
+            "qalabka helaya masaafada u dhexeysa laba bar oo khariidadda ku yaal",
+            "qalabka muujiya latitude iyo longitude ee bar",
+            "meesha ArcGIS Online ay khariidadahaaga la kaydiyay ku jiraan"
+          ],
+          "passage": [
+            "ArcGIS Online waa barnaamijka GIS ee cutubkan aad isticmaalayso.",
+            "Waxaad gashaa, Maps ayaad u tagtaa oo waxaad furtaa map viewer-ka.",
+            "Ku qor Pinkwell Lane sanduuqa cinwaanka oo dooro cinwaanka buuxa ee soo baxa.",
+            "Soo dhoweey ilaa aad arki karto iskuulka iyo waddooyinka u dhow.",
+            "Riix badhanka Add, kadibna riix Add Map Notes.",
+            "Map notes-kaaga u bixi human features oo dooro template-ka general infrastructure.",
+            "Hoos u rog calaamadaha ilaa aad hesho iskuulka.",
+            "Riix calaamadda, kadibna riix iskuulka si aad halkaas u dhigto.",
+            "U beddel cinwaanka Harlington School oo qor sharraxaad gaaban.",
+            "Isticmaal measure tool si aad u hesho masaafada u dhexeysa laba meel.",
+            "Isticmaal location tool si aad u akhrido latitude iyo longitude ee iskuulka.",
+            "Riix Save As oo khariidaddaada u bixi Harlington School.",
+            "Khariidadahaaga la kaydiyay waxay ku jiraan My Content."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "програма для GIS, якою ви користуєтеся через веб-браузер (ArcGIS Online)",
+            "інструмент, що дає змогу додавати на карту власні знаки і підписи (map notes)",
+            "готовий набір знаків, з якого можна вибирати (template)",
+            "інструмент, який знаходить відстань між двома точками на карті (measure tool)",
+            "інструмент, який показує широту і довготу точки (location tool)",
+            "місце в ArcGIS Online, де зберігаються ваші збережені карти (My Content)"
+          ],
+          "passage": [
+            "ArcGIS Online — це програма для GIS, якою ви користуєтеся в цьому розділі.",
+            "Ви входите в систему, переходите до Maps і відкриваєте переглядач карт.",
+            "Введіть Pinkwell Lane у поле адреси і виберіть повну адресу, яка з’явиться.",
+            "Збільшуйте масштаб, доки не побачите школу і сусідні вулиці.",
+            "Натисніть кнопку Add, а потім Add Map Notes.",
+            "Назвіть свої map notes словами human features і виберіть шаблон general infrastructure.",
+            "Прокручуйте знаки, доки не знайдете школу.",
+            "Натисніть на знак, а потім натисніть на школу, щоб його поставити.",
+            "Змініть назву на Harlington School і напишіть короткий опис.",
+            "Скористайтеся інструментом measure tool, щоб знайти відстань між двома місцями.",
+            "Скористайтеся інструментом location tool, щоб прочитати широту і довготу школи.",
+            "Натисніть Save As і назвіть свою карту Harlington School.",
+            "Ваші збережені карти зберігаються в My Content."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ GIS سافٹ ویئر جو آپ ویب براؤزر میں استعمال کرتے ہیں (ArcGIS Online)",
+            "وہ آلہ جس سے آپ نقشے پر اپنی علامتیں اور نام لگا سکتے ہیں (map notes)",
+            "پہلے سے تیار علامتوں کا سیٹ جن میں سے آپ چن سکتے ہیں (template)",
+            "وہ آلہ جو نقشے پر دو نقطوں کے درمیان فاصلہ معلوم کرتا ہے (measure tool)",
+            "وہ آلہ جو کسی نقطے کا latitude اور longitude دکھاتا ہے (location tool)",
+            "ArcGIS Online میں وہ جگہ جہاں آپ کے محفوظ کیے ہوئے نقشے رکھے جاتے ہیں (My Content)"
+          ],
+          "passage": [
+            "اس یونٹ میں آپ ArcGIS Online سافٹ ویئر استعمال کرتے ہیں۔",
+            "لاگ اِن کریں، Maps پر جائیں اور map viewer کھولیں۔",
+            "پتے کے خانے میں Pinkwell Lane لکھیں اور جو پورا پتا آئے اسے چنیں۔",
+            "اتنا zoom کریں کہ سکول اور قریب کی گلیاں دکھائی دیں۔",
+            "Add پر کلک کریں، پھر Add Map Notes پر۔",
+            "اپنے map notes کا نام human features رکھیں اور general infrastructure کا template چنیں۔",
+            "علامتوں میں نیچے تک دیکھتے جائیں جب تک سکول کی علامت نہ مل جائے۔",
+            "علامت پر کلک کریں، پھر سکول پر کلک کر کے اسے رکھ دیں۔",
+            "عنوان بدل کر Harlington School کریں اور مختصر تعارف لکھیں۔",
+            "دو جگہوں کے درمیان فاصلہ معلوم کرنے کے لیے measure tool استعمال کریں۔",
+            "سکول کا latitude اور longitude پڑھنے کے لیے location tool استعمال کریں۔",
+            "Save As پر کلک کریں اور اپنے نقشے کا نام Harlington School رکھیں۔",
+            "آپ کے محفوظ کیے ہوئے نقشے My Content میں رکھے جاتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Finding the place",
@@ -867,8 +1483,156 @@ window.ASTRA_UNITS["geog-gis"] = {
           "Five maps are marked, with 10 marks for each, so 50 marks in total.",
           "The progress check is a short written test worth 10 marks.",
           "Revise your notes on what a GIS is, its four components, layers, heat maps and uses."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مكتبة من طبقات البيانات الجاهزة يمكنك إضافتها إلى خريطتك (Living Atlas)",
+            "الجزء من الخريطة الذي يشرح معنى الرموز والألوان (legend)",
+            "عندما يقذف البركان الحِمم أو الرماد أو الغاز (eruption)",
+            "مجتمع من الكائنات الحيّة والمكان الذي تعيش فيه (ecosystem)",
+            "الاختبار الكتابي القصير في نهاية الوحدة (progress check)"
+          ],
+          "passage": [
+            "في خرائط العالم لا ترسم المعالم بنفسك.",
+            "بل تضيف طبقات جاهزة من مكتبة Living Atlas.",
+            "أعِد الخطوات الستّ الأولى، ولكن استخدم هذه المرّة خريطة العالم.",
+            "وفي الخطوة السادسة اختر Living Atlas Layers بدلًا من ملاحظات الخريطة.",
+            "وابحث عن الزلازل earthquakes وأضِف طبقة recent earthquakes أو طبقة major earthquakes.",
+            "وابحث عن الانفجارات البركانية وأضِف طبقة الانفجارات، لا طبقة حرائق الغابات.",
+            "وابحث عن النظم البيئية وأضِف طبقة world terrestrial ecosystems.",
+            "وأضِف دائمًا مفتاح الخريطة (legend) حتى يعرف القارئ معنى الرموز والألوان.",
+            "واحفظ كلّ خريطة في My Content بعنوانها الصحيح.",
+            "وتُصحَّح خمس خرائط، لكلّ واحدة 10 درجات، فالمجموع 50 درجة.",
+            "واختبار التقدّم اختبار كتابي قصير من 10 درجات.",
+            "وراجِع ملاحظاتك عن معنى نظام المعلومات الجغرافية ومكوّناته الأربعة والطبقات وخرائط الحرارة اللونية واستخداماتها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "biblioteka gotowych warstw danych, które możesz dodać do swojej mapy (Living Atlas)",
+            "część mapy, która wyjaśnia, co znaczą znaki i kolory (legend)",
+            "kiedy wulkan wyrzuca lawę, popiół albo gaz (eruption)",
+            "wspólnota organizmów żywych i miejsce, w którym żyją (ecosystem)",
+            "krótki test pisemny na końcu tematu (progress check)"
+          ],
+          "passage": [
+            "Przy mapach świata nie rysujesz elementów samodzielnie.",
+            "Zamiast tego dodajesz gotowe warstwy z Living Atlas.",
+            "Powtórz pierwsze sześć kroków, ale tym razem użyj mapy świata.",
+            "W kroku szóstym wybierz Living Atlas Layers zamiast map notes.",
+            "Wyszukaj earthquakes i dodaj warstwę recent earthquakes albo major earthquakes.",
+            "Wyszukaj volcanic eruptions i dodaj warstwę z wybuchami wulkanów, a nie warstwę z pożarami.",
+            "Wyszukaj ecosystems i dodaj gotową warstwę world terrestrial ecosystems.",
+            "Zawsze dodawaj legendę, żeby czytelnik wiedział, co znaczą znaki i kolory.",
+            "Zapisz każdą mapę w My Content z właściwym tytułem.",
+            "Ocenianych jest pięć map, każda po 10 punktów, czyli razem 50 punktów.",
+            "Sprawdzenie postępów (progress check) to krótki test pisemny za 10 punktów.",
+            "Powtórz notatki o tym, czym jest GIS, o jego czterech częściach, o warstwach, mapach cieplnych i zastosowaniach."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma biblioteca de camadas de dados já feitas que podes juntar ao teu mapa (Living Atlas)",
+            "a parte de um mapa que explica o que significam os símbolos e as cores (legend, legenda)",
+            "quando um vulcão lança lava, cinzas ou gás (eruption, erupção)",
+            "uma comunidade de seres vivos e o lugar onde eles vivem (ecosystem, ecossistema)",
+            "o pequeno teste escrito no fim da unidade (progress check)"
+          ],
+          "passage": [
+            "Para os mapas do mundo não desenhas tu os elementos.",
+            "Em vez disso, juntas camadas já feitas, vindas do Living Atlas.",
+            "Repete os seis primeiros passos, mas desta vez usa o mapa do mundo.",
+            "No sexto passo, escolhe Living Atlas Layers em vez de map notes.",
+            "Procura earthquakes e junta a camada recent earthquakes ou major earthquakes.",
+            "Procura volcanic eruptions e junta a camada das erupções, não a dos incêndios.",
+            "Procura ecosystems e junta a camada world terrestrial ecosystems.",
+            "Põe sempre uma legenda, para quem lê saber o que significam os símbolos e as cores.",
+            "Guarda cada mapa em My Content com o título certo.",
+            "São avaliados cinco mapas, com 10 pontos cada um, ou seja 50 pontos no total.",
+            "O progress check é um pequeno teste escrito que vale 10 pontos.",
+            "Revê os teus apontamentos/anotações sobre o que é um GIS, os seus quatro componentes, as camadas, os mapas de calor e as utilizações."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "maktabad lakabyo xog diyaarsan oo aad khariidaddaada ku dari karto",
+            "qaybta khariidadda ee sharraxaysa macnaha calaamadaha iyo midabbada",
+            "marka foolkaano uu soo tuuro lava, dambas ama gaas",
+            "bulsho noolaha iyo meesha ay ku nool yihiin",
+            "imtixaanka qoraal gaaban ee cutubka dhammaadkiisa"
+          ],
+          "passage": [
+            "Khariidadaha dunida, astaamaha adiga ma sawirto.",
+            "Taa beddelkeeda, waxaad ku darsataa lakabyo diyaarsan oo Living Atlas ka yimid.",
+            "Ku celi lixda tallaabo ee hore, laakiin markan isticmaal khariidadda dunida.",
+            "Tallaabada lixaad, dooro Living Atlas Layers halkii map notes.",
+            "Raadi earthquakes oo ku dar lakabka recent earthquakes ama major earthquakes.",
+            "Raadi volcanic eruptions oo ku dar lakabka eruption, ee ha darin lakabka wildfire.",
+            "Raadi ecosystems oo ku dar lakabka world terrestrial ecosystems.",
+            "Had iyo jeer ku dar legend si akhristuhu u ogaado macnaha calaamadaha iyo midabbada.",
+            "Khariidad kasta ku kaydi My Content oo cinwaan sax ah u dheji.",
+            "Shan khariidad ayaa la dhibcaynayaa, mid kastaa 10 dhibcood, markaa 50 dhibcood oo isku jira.",
+            "Progress check-gu waa imtixaan qoraal gaaban oo 10 dhibcood u qalma.",
+            "Dib u eeg qoraalladaada ku saabsan waxa GIS yahay, afarta qaybtiisa, lakabyada, heat maps iyo isticmaalladiisa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "бібліотека готових шарів даних, які можна додати до вашої карти (Living Atlas)",
+            "частина карти, яка пояснює, що означають знаки і кольори (legend)",
+            "коли вулкан викидає лаву, попіл або газ (eruption)",
+            "спільнота живих істот і місце, де вони живуть (ecosystem)",
+            "коротка письмова перевірка в кінці розділу (progress check)"
+          ],
+          "passage": [
+            "Для світових карт ви не малюєте об’єкти самі.",
+            "Замість цього ви додаєте готові шари з Living Atlas.",
+            "Повторіть перші шість кроків, але цього разу використайте карту світу.",
+            "На шостому кроці виберіть Living Atlas Layers замість map notes.",
+            "Знайдіть earthquakes і додайте шар recent earthquakes або major earthquakes.",
+            "Знайдіть volcanic eruptions і додайте шар з виверженнями, а не шар з пожежами.",
+            "Знайдіть ecosystems і додайте шар world terrestrial ecosystems.",
+            "Завжди додавайте легенду (legend), щоб читач знав, що означають знаки і кольори.",
+            "Збережіть кожну карту в My Content з правильною назвою.",
+            "Оцінюють п’ять карт, по 10 балів за кожну, тобто 50 балів разом.",
+            "Перевірка прогресу (progress check) — це коротка письмова робота на 10 балів.",
+            "Повторіть свої записи про те, що таке GIS, його чотири складові, шари, теплові карти і способи використання."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پہلے سے تیار data layers کی ایک لائبریری جو آپ اپنے نقشے میں شامل کر سکتے ہیں (Living Atlas)",
+            "نقشے کا وہ حصہ جو بتاتا ہے کہ علامتوں اور رنگوں کا کیا مطلب ہے (legend)",
+            "جب آتش فشاں لاوا، راکھ یا گیس باہر پھینکے (eruption)",
+            "جانداروں کی ایک برادری اور وہ جگہ جہاں وہ رہتے ہیں (ecosystem)",
+            "یونٹ کے آخر میں ہونے والا مختصر تحریری امتحان (progress check)"
+          ],
+          "passage": [
+            "دنیا کے نقشوں میں آپ خصوصیات خود نہیں بناتے۔",
+            "اس کے بجائے آپ Living Atlas سے پہلے سے تیار layers شامل کرتے ہیں۔",
+            "پہلے چھ مرحلے دہرائیں، مگر اس بار دنیا کا نقشہ استعمال کریں۔",
+            "چھٹے مرحلے پر map notes کی جگہ Living Atlas Layers چنیں۔",
+            "earthquakes تلاش کریں اور recent earthquakes یا major earthquakes کی layer شامل کریں۔",
+            "volcanic eruptions تلاش کریں اور eruption کی layer شامل کریں، wildfire کی نہیں۔",
+            "ecosystems تلاش کریں اور world terrestrial ecosystems کی layer شامل کریں۔",
+            "ہمیشہ legend لگائیں تاکہ پڑھنے والے کو علامتوں اور رنگوں کا مطلب معلوم ہو۔",
+            "ہر نقشہ My Content میں ٹھیک عنوان کے ساتھ محفوظ کریں۔",
+            "پانچ نقشوں کے نمبر لگتے ہیں، ہر ایک کے 10 نمبر، یعنی کل 50 نمبر۔",
+            "progress check ایک مختصر تحریری امتحان ہے جس کے 10 نمبر ہیں۔",
+            "اپنے نوٹ دہرائیں: GIS کیا ہے، اس کے چار اجزا، layers، heat maps اور استعمال۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Ready-made data: the Living Atlas",

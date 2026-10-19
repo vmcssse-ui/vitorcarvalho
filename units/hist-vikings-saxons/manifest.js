@@ -97,8 +97,162 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           "A decade is ten years and a century is one hundred years.",
           "The year 1459 is in the fifteenth century.",
           "Getting the order right matters because a cause always comes before its effect."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "دراسة الزمن وترتيب الأحداث (chronology)",
+            "من أقدم حدث إلى أحدثه (chronological order)",
+            "قبل الميلاد، أي السنوات التي قبل ميلاد المسيح (BC)",
+            "بعد الميلاد، أي السنوات التي بعد ميلاد المسيح (AD)",
+            "مدّة من عشر سنوات (decade)",
+            "مدّة من مئة سنة (century)"
+          ],
+          "passage": [
+            "التاريخ هو دراسة الماضي.",
+            "ولدراسة الماضي نحتاج أن نعرف ترتيب الأحداث.",
+            "والتأريخ الزمني (chronology) هو دراسة الزمن.",
+            "والترتيب الزمني يعني من أقدم حدث إلى أحدثه.",
+            "وقد خرج الرومان من بريطانيا في 410.",
+            "وكانت معركة هيستينغز في 1066.",
+            "وكان حريق لندن الكبير في 1666.",
+            "والتواريخ التي قبل ميلاد المسيح تُسمّى BC، أي قبل الميلاد.",
+            "والتواريخ التي بعده تُسمّى AD، أي بعد الميلاد.",
+            "والعقد عشر سنوات، والقرن مئة سنة.",
+            "وسنة 1459 في القرن الخامس عشر.",
+            "وإصابة الترتيب مهمّة، لأنّ السبب يأتي دائمًا قبل نتيجته."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "nauka o czasie i o układaniu wydarzeń w kolejności (chronology)",
+            "od najstarszego wydarzenia do najnowszego (chronological order)",
+            "Before Christ, czyli lata przed narodzeniem Jezusa (BC)",
+            "Anno Domini, czyli lata po narodzeniu Jezusa (AD)",
+            "okres dziesięciu lat",
+            "okres stu lat"
+          ],
+          "passage": [
+            "Historia to nauka o przeszłości.",
+            "Żeby badać przeszłość, musimy wiedzieć, w jakiej kolejności rzeczy się działy.",
+            "Chronologia to nauka o czasie.",
+            "Kolejność chronologiczna znaczy: od najstarszego wydarzenia do najnowszego.",
+            "Rzymianie opuścili Brytanię w 410 roku.",
+            "Bitwa pod Hastings była w 1066 roku.",
+            "Wielki pożar Londynu był w 1666 roku.",
+            "Daty przed narodzeniem Jezusa oznaczamy skrótem BC.",
+            "Daty po nim oznaczamy skrótem AD.",
+            "Dekada to dziesięć lat, a wiek to sto lat.",
+            "Rok 1459 należy do piętnastego wieku.",
+            "Właściwa kolejność jest ważna, bo przyczyna zawsze poprzedza swój skutek."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o estudo do tempo, e o pôr os acontecimentos em ordem (chronology, cronologia)",
+            "do acontecimento mais antigo até ao mais recente (chronological order, ordem cronológica)",
+            "Before Christ, os anos antes do nascimento de Jesus (BC, a.C.)",
+            "Anno Domini, os anos depois do nascimento de Jesus (AD, d.C.)",
+            "um período de dez anos (decade, década)",
+            "um período de cem anos (century, século)"
+          ],
+          "passage": [
+            "A História é o estudo do passado.",
+            "Para estudar o passado precisamos de saber a ordem em que as coisas aconteceram.",
+            "A cronologia é o estudo do tempo.",
+            "Ordem cronológica quer dizer do acontecimento mais antigo até ao mais recente.",
+            "Os romanos saíram da Grã-Bretanha em 410.",
+            "A Batalha de Hastings foi em 1066.",
+            "O Grande Incêndio de Londres foi em 1666.",
+            "As datas antes do nascimento de Jesus chamam-se a.C. (BC).",
+            "As datas depois disso chamam-se d.C. (AD).",
+            "Uma década são dez anos e um século são cem anos.",
+            "O ano 1459 está no século quinze.",
+            "Acertar na ordem é importante porque uma causa vem sempre antes do seu efeito."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "barashada waqtiga, iyo kala saaridda dhacdooyinka",
+            "laga bilaabo dhacdada ugu duqoobay ilaa tan ugu dambeysay",
+            "Before Christ, oo ah sanadihii ka horreeyay dhalashada Ciise",
+            "Anno Domini, oo ah sanadihii ka dambeeyay dhalashada Ciise",
+            "muddo toban sano ah",
+            "muddo boqol sano ah"
+          ],
+          "passage": [
+            "Taariikhdu waa barashada waagii hore.",
+            "Si aan waagii hore u barano waxaan u baahan nahay inaan ogaanno kala horreynta waxyaalaha.",
+            "Chronology waa barashada waqtiga.",
+            "Chronological order macnaheedu waa laga bilaabo dhacdada ugu duqoobay ilaa tan ugu dambeysay.",
+            "Roomaanku waxay Biritayn ka baxeen 410-kii.",
+            "Dagaalkii Hastings wuxuu dhacay 1066-kii.",
+            "Dabkii Weynaa ee London wuxuu dhacay 1666-kii.",
+            "Taariikhyada ka horreeyay dhalashada Ciise waxaa loo yiraahdaa BC.",
+            "Kuwa ka dambeeyana waxaa loo yiraahdaa AD.",
+            "Toban sano waa decade, boqol sanona waa qarni.",
+            "Sanadka 1459 wuxuu ku jiraa qarnigii shan iyo tobnaad.",
+            "Kala horreynta saxda ah way muhiim tahay maxaa yeelay sababtu had iyo jeer saameyntiisa ka hor ayay timaaddaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вивчення часу і впорядкування подій (chronology)",
+            "від найдавнішої події до найновішої (chronological order)",
+            "Before Christ, тобто роки до народження Ісуса (BC)",
+            "Anno Domini, тобто роки після народження Ісуса (AD)",
+            "період десяти років (decade)",
+            "період ста років (century)"
+          ],
+          "passage": [
+            "Історія — це вивчення минулого.",
+            "Щоб вивчати минуле, нам потрібно знати, у якому порядку відбувалися події.",
+            "Хронологія — це вивчення часу.",
+            "Хронологічний порядок означає від найдавнішої події до найновішої.",
+            "Римляни покинули Британію в 410 році.",
+            "Битва при Гастінгсі (Hastings) була в 1066 році.",
+            "Велика лондонська пожежа була в 1666 році.",
+            "Дати до народження Ісуса називають BC.",
+            "Дати після нього називають AD.",
+            "Декада — це десять років, а століття — це сто років.",
+            "1459 рік — це п’ятнадцяте століття.",
+            "Правильний порядок важливий, бо причина завжди йде перед своїм наслідком."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وقت کا مطالعہ، اور واقعات کو ترتیب میں رکھنا (chronology)",
+            "سب سے پرانے واقعے سے سب سے نئے واقعے تک (chronological order)",
+            "Before Christ، یعنی مسیح (Jesus) کی پیدائش سے پہلے کے سال (BC)",
+            "Anno Domini، یعنی مسیح کی پیدائش کے بعد کے سال (AD)",
+            "دس سال کا عرصہ",
+            "سو سال کا عرصہ"
+          ],
+          "passage": [
+            "تاریخ ماضی کا مطالعہ ہے۔",
+            "ماضی کا مطالعہ کرنے کے لیے ہمیں جاننا ہوتا ہے کہ واقعات کس ترتیب سے پیش آئے۔",
+            "chronology وقت کا مطالعہ ہے۔",
+            "chronological order کا مطلب سب سے پرانے واقعے سے سب سے نئے واقعے تک ہے۔",
+            "رومی 410 میں برطانیہ چھوڑ گئے۔",
+            "ہیسٹنگز کی جنگ 1066 میں ہوئی۔",
+            "لندن کی بڑی آتش زدگی 1666 میں ہوئی۔",
+            "مسیح کی پیدائش سے پہلے کی تاریخوں کو BC کہتے ہیں۔",
+            "اس کے بعد کی تاریخوں کو AD کہتے ہیں۔",
+            "decade دس سال ہیں اور century سو سال۔",
+            "سن 1459 پندرھویں صدی میں آتا ہے۔",
+            "ترتیب ٹھیک رکھنا اہم ہے، کیونکہ سبب ہمیشہ اپنے نتیجے سے پہلے آتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is chronology?",
@@ -306,8 +460,156 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           "Archaeologists study objects and bones that people left behind.",
           "A tooth that is a thousand years old can show where a person grew up.",
           "Historians and archaeologists work together to build a picture of the past."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء نستخدمه لنأخذ منه معلومات عن الماضي (source)",
+            "دليل صُنع في الزمن الذي ندرسه (primary source)",
+            "شيء صُنع بعد الزمن الذي ندرسه (secondary source)",
+            "الوقائع والأشياء التي تسند ما نقوله (evidence)",
+            "شخص يدرس الأشياء والبقايا التي تركها الناس (archaeologist)",
+            "السبب الذي صُنع الشيء من أجله (purpose)"
+          ],
+          "passage": [
+            "المصدر شيء نستخدمه لنعرف عن الماضي.",
+            "والمصادر هي أدلّتنا.",
+            "والمصدر الأوّلي يأتي من الزمن الذي ندرسه.",
+            "واليومية المكتوبة في أثناء حرب مصدر أوّلي.",
+            "أمّا المصدر الثانوي فقد صُنع بعد ذلك.",
+            "والكتاب المدرسي عن تلك الحرب مصدر ثانوي.",
+            "والمؤرّخون يسألون كلّ مصدر قبل أن يثقوا به.",
+            "فهم يسألون: ما هو؟ ومن أين جاء؟ ولماذا صُنع؟",
+            "وعلماء الآثار يدرسون الأشياء والعظام التي تركها الناس.",
+            "وسنّ عمره ألف سنة قد يبيّن أين نشأ صاحبه.",
+            "والمؤرّخون وعلماء الآثار يعملون معًا ليبنوا صورة للماضي."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś, z czego czerpiemy informacje o przeszłości (source)",
+            "świadectwo powstałe w czasie, który badamy (primary source)",
+            "coś, co powstało po czasie, który badamy (secondary source)",
+            "fakty i przedmioty, które potwierdzają to, co mówimy (evidence)",
+            "ktoś, kto bada przedmioty i szczątki pozostawione przez ludzi (archaeologist)",
+            "powód, dla którego coś zostało zrobione (purpose)"
+          ],
+          "passage": [
+            "Źródło to coś, z czego dowiadujemy się o przeszłości.",
+            "Źródła są naszymi dowodami.",
+            "Źródło pierwotne pochodzi z czasu, który badamy.",
+            "Dziennik pisany w czasie wojny to źródło pierwotne.",
+            "Źródło wtórne powstało później.",
+            "Podręcznik o tej wojnie to źródło wtórne.",
+            "Historycy przepytują każde źródło, zanim mu zaufają.",
+            "Pytają, czym ono jest, skąd pochodzi i dlaczego zostało zrobione.",
+            "Archeolodzy badają przedmioty i kości pozostawione przez ludzi.",
+            "Ząb mający tysiąc lat może pokazać, gdzie dana osoba wyrosła.",
+            "Historycy i archeolodzy pracują razem, żeby zbudować obraz przeszłości."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo que usamos para obter informação sobre o passado (source, fonte)",
+            "provas feitas na época que estamos a estudar (primary source, fonte primária)",
+            "algo feito depois da época que estamos a estudar (secondary source, fonte secundária)",
+            "os factos/fatos e os objetos que apoiam aquilo que dizemos (evidence, provas)",
+            "alguém que estuda os objetos e os restos que as pessoas deixaram (archaeologist, arqueólogo)",
+            "a razão por que uma coisa foi feita (purpose, propósito)"
+          ],
+          "passage": [
+            "Uma fonte é algo que usamos para descobrir coisas sobre o passado.",
+            "As fontes são as nossas provas.",
+            "Uma fonte primária vem da época que estamos a estudar.",
+            "Um diário escrito durante uma guerra é uma fonte primária.",
+            "Uma fonte secundária foi feita depois.",
+            "Um manual escolar sobre essa guerra é uma fonte secundária.",
+            "Os historiadores questionam cada fonte antes de confiarem nela.",
+            "Perguntam o que ela é, de onde veio e porque foi feita.",
+            "Os arqueólogos estudam objetos e ossos que as pessoas deixaram.",
+            "Um dente com mil anos pode mostrar onde é que uma pessoa cresceu.",
+            "Historiadores e arqueólogos trabalham juntos para construir uma imagem do passado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax aan u isticmaalno helitaanka macluumaad ku saabsan waagii hore",
+            "caddayn la sameeyay waqtigii la baranayo",
+            "wax la sameeyay waqtigii la baranayo ka dib",
+            "xaqiiqooyinka iyo waxyaalaha taageeraya waxa aan sheegno",
+            "qof baraya waxyaalaha iyo haraaga dadku ka tageen",
+            "sababta wax loo sameeyay"
+          ],
+          "passage": [
+            "Il (source) waa wax aan u isticmaalno ogaanshaha waagii hore.",
+            "Ilihii waa caddayntayada.",
+            "Primary source waxay ka timaaddaa waqtiga aan baranayno.",
+            "Xusuus-qor dagaal lagu qoray waa primary source.",
+            "Secondary source waxaa la sameeyay kadib.",
+            "Buug casharro oo dagaalkaas ku saabsan waa secondary source.",
+            "Taariikhyahannadu waxay il kasta su'aalaan intaanay ku kalsoonaan.",
+            "Waxay weydiiyaan waa maxay, xaggee ka timid iyo maxay loo sameeyay.",
+            "Archaeologists waxay bartaan waxyaalaha iyo lafaha dadku ka tageen.",
+            "Ilig kun sano jir ah wuxuu muujin karaa halka qof ku koray.",
+            "Taariikhyahannada iyo archaeologists waxay wada shaqeeyaan si ay sawir waagii hore u dhisaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що ми використовуємо, щоб отримати інформацію про минуле (source)",
+            "свідчення, створене в той час, який ми вивчаємо (primary source)",
+            "те, що створене після того часу, який ми вивчаємо (secondary source)",
+            "факти й речі, які підтверджують те, що ми кажемо (evidence)",
+            "той, хто вивчає речі й залишки, які залишили люди (archaeologist)",
+            "причина, з якої щось було створено (purpose)"
+          ],
+          "passage": [
+            "Джерело — це те, що ми використовуємо, щоб дізнатися про минуле.",
+            "Джерела — це наші свідчення.",
+            "Первинне джерело (primary source) походить із того часу, який ми вивчаємо.",
+            "Щоденник, написаний під час війни, — це первинне джерело.",
+            "Вторинне джерело (secondary source) створене пізніше.",
+            "Підручник про ту війну — це вторинне джерело.",
+            "Історики питають про кожне джерело, перш ніж йому довіряти.",
+            "Вони питають, що це, звідки воно взялося і чому його створили.",
+            "Археологи вивчають речі й кості, які залишили люди.",
+            "Зуб, якому тисяча років, може показати, де людина виросла.",
+            "Історики й археологи працюють разом, щоб скласти картину минулого."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ چیز جو ہم ماضی کے بارے میں معلومات لینے کے لیے استعمال کرتے ہیں (source)",
+            "وہ شہادت جو اُسی زمانے میں بنی جس کا مطالعہ ہو رہا ہے (primary source)",
+            "وہ چیز جو اُس زمانے کے بعد بنی جس کا مطالعہ ہو رہا ہے (secondary source)",
+            "وہ حقائق اور اشیا جو ہماری بات کی تائید کرتی ہیں (evidence)",
+            "وہ شخص جو لوگوں کی چھوڑی ہوئی اشیا اور باقیات کا مطالعہ کرتا ہے (archaeologist)",
+            "وہ وجہ جس کے لیے کوئی چیز بنائی گئی (purpose)"
+          ],
+          "passage": [
+            "source وہ چیز ہے جو ہم ماضی کے بارے میں جاننے کے لیے استعمال کرتے ہیں۔",
+            "sources ہماری شہادت ہیں۔",
+            "primary source اُس زمانے سے آتا ہے جس کا ہم مطالعہ کر رہے ہیں۔",
+            "جنگ کے دوران لکھی گئی ڈائری ایک primary source ہے۔",
+            "secondary source بعد میں بنایا گیا۔",
+            "اُس جنگ کے بارے میں لکھی گئی درسی کتاب ایک secondary source ہے۔",
+            "مؤرخ ہر source پر بھروسہ کرنے سے پہلے اس سے سوال کرتے ہیں۔",
+            "وہ پوچھتے ہیں کہ یہ کیا ہے، کہاں سے آیا ہے اور کیوں بنایا گیا۔",
+            "archaeologists اُن اشیا اور ہڈیوں کا مطالعہ کرتے ہیں جو لوگ پیچھے چھوڑ گئے۔",
+            "ہزار سال پرانا ایک دانت بتا سکتا ہے کہ وہ شخص کہاں پلا بڑھا تھا۔",
+            "مؤرخ اور archaeologists مل کر ماضی کی تصویر بناتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is a source?",
@@ -515,8 +817,168 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           "Archaeologists found a small red bead in a Viking grave in England.",
           "The bead came all the way from India.",
           "So the Vikings were traders as well as raiders."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "غازٍ بحري من إسكندنافيا؛ وهي طريقة حياة لا قومية (Viking)",
+            "الجزء من شمال أوروبا الذي يتكوّن من النرويج والسويد والدنمارك (Scandinavia)",
+            "من يعبد آلهة كثيرة ولا يتّبع المسيحية (pagan)",
+            "فكرة الفايكنغ عن الجنّة (Valhalla)",
+            "مجلس الفايكنغ الذي تُوضع فيه القوانين وتُحلّ فيه الخصومات (the Thing)",
+            "شيء صنعه الناس في الماضي (artefact)"
+          ],
+          "passage": [
+            "جاء الفايكنغ من إسكندنافيا: النرويج والسويد والدنمارك.",
+            "وكلمة فايكنغ (Viking) تعني الغازي البحري.",
+            "وهي تصف طريقة حياة، لا بلدًا.",
+            "وبدأت غزوات الفايكنغ على إنجلترا في أواخر سنوات 700.",
+            "وكثير من الفايكنغ استقرّ بعد ذلك في أراضٍ إنجليزية.",
+            "وكان الفايكنغ وثنيّين.",
+            "وكانوا يعبدون آلهةً كأودين (Odin) وثور (Thor).",
+            "وكان المحاربون يرجون أن يبلغوا فالهالا (Valhalla)، جنّة الفايكنغ.",
+            "وكان الفايكنغ يجتمعون في الثِّنغ (the Thing) ليضعوا القوانين ويحلّوا الخصومات.",
+            "ومعظم الفايكنغ كانوا مزارعين يربّون الغنم والخنازير والبقر.",
+            "ووجد علماء الآثار خَرَزة حمراء صغيرة في قبر فايكنغي في إنجلترا.",
+            "وقد جاءت الخرزة من الهند من ذلك البعد كلّه.",
+            "فالفايكنغ كانوا تجّارًا كما كانوا غُزاة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "morski napastnik ze Skandynawii; sposób życia, a nie narodowość (Viking)",
+            "część północnej Europy, którą tworzą Norwegia, Szwecja i Dania (Scandinavia)",
+            "ktoś, kto czci wielu bogów, a nie wyznaje chrześcijaństwa (pagan)",
+            "wikińskie wyobrażenie nieba (Valhalla)",
+            "wikińskie zgromadzenie, na którym uchwalano prawa i rozstrzygano spory (the Thing)",
+            "przedmiot zrobiony przez ludzi w przeszłości (artefact)"
+          ],
+          "passage": [
+            "Wikingowie przybyli ze Skandynawii: z Norwegii, Szwecji i Danii.",
+            "Słowo wiking znaczy morski napastnik.",
+            "Opisuje sposób życia, a nie kraj.",
+            "Najazdy wikingów na Anglię zaczęły się pod koniec VIII wieku (the late 700s).",
+            "Wielu wikingów osiedliło się później na ziemiach angielskich.",
+            "Wikingowie byli poganami.",
+            "Czcili bogów takich jak Odyn i Thor.",
+            "Wojownicy liczyli na to, że dotrą do Walhalli, wikińskiego nieba.",
+            "Wikingowie zbierali się na Thing, żeby uchwalać prawa i rozstrzygać spory.",
+            "Większość wikingów była rolnikami, którzy trzymali owce, świnie i bydło.",
+            "Archeolodzy znaleźli małą czerwoną perełkę w wikińskim grobie w Anglii.",
+            "Perełka przyjechała aż z Indii.",
+            "Wikingowie byli więc nie tylko napastnikami, ale i kupcami."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um saqueador do mar vindo da Escandinávia; um modo de vida, não uma nacionalidade (Viking, viquingue/viking)",
+            "a parte do norte da Europa formada pela Noruega, a Suécia e a Dinamarca (Scandinavia, Escandinávia)",
+            "alguém que adora muitos deuses em vez de seguir o cristianismo (pagan, pagão)",
+            "a ideia que os vikings tinham do céu (Valhalla)",
+            "a assembleia viking onde se faziam as leis e se resolviam as disputas (the Thing)",
+            "um objeto feito por pessoas no passado (artefact, artefacto/artefato)"
+          ],
+          "passage": [
+            "Os vikings vinham da Escandinávia: da Noruega, da Suécia e da Dinamarca.",
+            "A palavra Viking quer dizer saqueador do mar.",
+            "Descreve um modo de vida, não um país.",
+            "Os ataques viking à Inglaterra começaram no fim dos anos 700.",
+            "Mais tarde, muitos vikings fixaram-se em terras inglesas.",
+            "Os vikings eram pagãos.",
+            "Adoravam deuses como Odin e Thor.",
+            "Os guerreiros esperavam chegar a Valhalla, o céu dos vikings.",
+            "Os vikings reuniam-se no Thing para fazer leis e resolver disputas.",
+            "Quase todos os vikings eram agricultores, que criavam ovelhas, porcos e gado.",
+            "Os arqueólogos encontraram uma pequena conta vermelha numa sepultura viking em Inglaterra.",
+            "A conta tinha vindo de tão longe como a Índia.",
+            "Por isso os vikings eram comerciantes, e não só saqueadores."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "duulaan badda ka yimid Scandinavia; waa hab nololeed, ma aha qaranimo",
+            "qaybta waqooyiga Yurub ee ka kooban Norway, Sweden iyo Denmark",
+            "qof caabuda ilaahyo badan oo aan Masiixiyadda raacin",
+            "fikradda Vikings ee jannada",
+            "shirkii Vikings ee sharciyada lagu sameeyo oo muranka lagu xalliyo",
+            "shay dad waagii hore sameeyeen"
+          ],
+          "passage": [
+            "Vikings waxay ka yimaaddeen Scandinavia: Norway, Sweden iyo Denmark.",
+            "Erayga Viking macnaheedu waa duulaan badda ka yimid.",
+            "Wuxuu sharraxayaa hab nololeed, ee ma aha dal.",
+            "Duullaannadii Vikings ee England waxay bilaabmeen dabayaaqadii 700-meeyadii.",
+            "Vikings badan ayaa kadib dhulalka Ingiriiska degay.",
+            "Vikings waxay ahaayeen pagans.",
+            "Waxay caabudeen ilaahyo sida Odin iyo Thor.",
+            "Dagaalyahannadu waxay rajeeyeen inay gaaraan Valhalla, oo ah jannada Vikings.",
+            "Vikings waxay the Thing ku kulmeen si ay sharciyo u sameeyaan oo muran u xalliyaan.",
+            "Vikings badidood waxay ahaayeen beeraley oo haystay ido, doofaarro iyo lo'.",
+            "Archaeologists waxay heleen kuul yar oo guduudan oo xabaal Viking ah oo England ku taal.",
+            "Kuulku wuxuu ka yimid Hindiya ilaa halkaas.",
+            "Markaa Vikings waxay ahaayeen ganacsato sidoo kalena duulaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "морський нападник зі Скандинавії; спосіб життя, а не національність (Viking)",
+            "частина північної Європи, яку складають Норвегія, Швеція і Данія (Scandinavia)",
+            "той, хто поклоняється багатьом богам, а не йде за християнством (pagan)",
+            "уявлення вікінгів про небеса (Valhalla)",
+            "збори вікінгів, де ухвалювали закони і вирішували спори (the Thing)",
+            "річ, зроблена людьми в минулому (artefact)"
+          ],
+          "passage": [
+            "Вікінги прийшли зі Скандинавії: Норвегії, Швеції і Данії.",
+            "Слово «вікінг» означає морський нападник.",
+            "Воно описує спосіб життя, а не країну.",
+            "Набіги вікінгів на Англію почалися в кінці 700-х років.",
+            "Багато вікінгів пізніше осіли на англійських землях.",
+            "Вікінги були язичниками.",
+            "Вони поклонялися богам, як-от Одіну і Тору.",
+            "Воїни сподівалися дістатися Валгалли, небес вікінгів.",
+            "Вікінги збиралися на тінг (the Thing), щоб ухвалювати закони і вирішувати спори.",
+            "Більшість вікінгів були землеробами, які тримали овець, свиней і худобу.",
+            "Археологи знайшли маленьку червону намистину в могилі вікінга в Англії.",
+            "Намистина приїхала аж з Індії.",
+            "Отже, вікінги були не тільки нападниками, а й торговцями."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سکینڈے نیویا سے آنے والا سمندری حملہ آور؛ یہ ایک طرزِ زندگی تھا، کوئی قومیت نہیں (Viking)",
+            "شمالی یورپ کا وہ حصہ جو ناروے، سویڈن اور ڈنمارک سے بنا ہے (Scandinavia)",
+            "وہ شخص جو مسیحیت کے بجائے بہت سے دیوتاؤں کی پوجا کرے (pagan)",
+            "وائکنگوں کے تصور کی جنت (Valhalla)",
+            "وائکنگوں کا وہ اجتماع جہاں قانون بنائے اور جھگڑے طے کیے جاتے تھے (the Thing)",
+            "ماضی کے لوگوں کی بنائی ہوئی کوئی چیز (artefact)"
+          ],
+          "passage": [
+            "وائکنگ (Vikings) سکینڈے نیویا سے آئے: ناروے، سویڈن اور ڈنمارک سے۔",
+            "لفظ Viking کا مطلب سمندری حملہ آور ہے۔",
+            "یہ ایک طرزِ زندگی بتاتا ہے، کوئی ملک نہیں۔",
+            "انگلینڈ پر وائکنگ حملے 700 کی دہائی کے آخر میں شروع ہوئے۔",
+            "بہت سے وائکنگ بعد میں انگلینڈ کی زمینوں پر آ بسے۔",
+            "وائکنگ pagans تھے۔",
+            "وہ اوڈن (Odin) اور تھور (Thor) جیسے دیوتاؤں کی پوجا کرتے تھے۔",
+            "جنگجو امید رکھتے تھے کہ وہ Valhalla، یعنی وائکنگوں کی جنت تک پہنچیں گے۔",
+            "وائکنگ قانون بنانے اور جھگڑے طے کرنے کے لیے the Thing میں جمع ہوتے تھے۔",
+            "زیادہ تر وائکنگ کسان تھے جو بھیڑیں، سور اور مویشی رکھتے تھے۔",
+            "archaeologists کو انگلینڈ میں ایک وائکنگ قبر سے سرخ رنگ کا ایک چھوٹا موتی ملا۔",
+            "یہ موتی اتنی دور، بھارت سے آیا تھا۔",
+            "تو وائکنگ حملہ آور ہونے کے ساتھ ساتھ تاجر بھی تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where did the Vikings come from?",
@@ -728,8 +1190,168 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           "Historians call it the start of the Viking Age.",
           "A monk later wrote an account of the raid.",
           "We can infer things from his words that he does not say directly."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جزيرة صغيرة قبالة الساحل الشمالي الشرقي لإنجلترا، وتُسمّى أيضًا الجزيرة المقدّسة (Lindisfarne)",
+            "مكان يعيش فيه الرهبان ويصلّون ويعملون (monastery)",
+            "رجل متديّن يجعل حياته للصلاة والعمل (monk)",
+            "هجوم مفاجئ لسرقة الكنوز والسلع (raid)",
+            "أن تُحسن الحَدْس من قرائن يعطيها المصدر (infer)",
+            "الكلمات أو التفاصيل في المصدر التي تسند استنتاجك (evidence)"
+          ],
+          "passage": [
+            "لينديسفارن (Lindisfarne) جزيرة صغيرة قبالة الساحل الشمالي الشرقي لإنجلترا.",
+            "وتُسمّى أيضًا الجزيرة المقدّسة.",
+            "وكان فيها دير مسيحي.",
+            "وكان الرهبان يعيشون فيه ويصلّون ويصنعون الكتب المقدّسة.",
+            "وكانت الجزيرة تبدو آمنة، لأنك لا تستطيع الوصول إليها إلّا في الجَزْر.",
+            "وفي سنة 793 أبحر إليها محاربو الفايكنغ في سفنهم الطويلة.",
+            "فهجموا على الدير وأخذوا كنزه.",
+            "ولم يقاوم الرهبان.",
+            "فقُتل بعض الرهبان، وأُخِذ آخرون في السلاسل.",
+            "وكان هذا من أوّل غزوات الفايكنغ على إنجلترا.",
+            "ويسمّيه المؤرّخون بداية عصر الفايكنغ.",
+            "وكتب راهب بعد ذلك وصفًا للغزوة.",
+            "ونحن نستطيع أن نستنتج من كلامه أشياء لم يقلها مباشرةً."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "mała wyspa u północno-wschodniego wybrzeża Anglii, zwana też Holy Island (Lindisfarne)",
+            "miejsce, w którym mnisi mieszkają, modlą się i pracują (monastery)",
+            "zakonnik, który oddaje swoje życie modlitwie i pracy (monk)",
+            "nagły atak, żeby ukraść skarby i dobra (raid)",
+            "wyciągnąć sensowny wniosek ze wskazówek, które daje źródło (infer)",
+            "słowa albo szczegóły w źródle, które potwierdzają twój wniosek (evidence)"
+          ],
+          "passage": [
+            "Lindisfarne to mała wyspa u północno-wschodniego wybrzeża Anglii.",
+            "Nazywa się też Holy Island, czyli Święta Wyspa.",
+            "Stał tam chrześcijański klasztor.",
+            "Mieszkali tam mnisi, modlili się i robili święte księgi.",
+            "Wyspa wydawała się bezpieczna, bo dotrzeć do niej można było tylko przy odpływie.",
+            "W roku 793 przypłynęli tam na długich łodziach wojownicy wikingów.",
+            "Zaatakowali klasztor i zabrali jego skarby.",
+            "Mnisi się nie bronili.",
+            "Część mnichów zabito, a innych uprowadzono w kajdanach.",
+            "To był jeden z pierwszych najazdów wikingów na Anglię.",
+            "Historycy nazywają to początkiem epoki wikingów.",
+            "Jeden z mnichów opisał później ten najazd.",
+            "Z jego słów możemy wywnioskować rzeczy, których nie mówi wprost."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pequena ilha ao largo da costa nordeste de Inglaterra, também chamada Holy Island (Lindisfarne)",
+            "um lugar onde os monges vivem, rezam e trabalham (monastery, mosteiro)",
+            "um homem religioso que dá a sua vida à oração e ao trabalho (monk, monge)",
+            "um ataque de surpresa para roubar tesouros e bens (raid, ataque)",
+            "fazer uma boa suposição a partir das pistas que a fonte dá (infer, inferir)",
+            "as palavras ou os detalhes da fonte que apoiam a tua inferência (evidence, provas)"
+          ],
+          "passage": [
+            "Lindisfarne é uma pequena ilha ao largo da costa nordeste de Inglaterra.",
+            "Também se chama Holy Island, a Ilha Santa.",
+            "Havia lá um mosteiro cristão.",
+            "Viviam lá monges, que rezavam e faziam livros sagrados.",
+            "A ilha parecia segura, porque só se conseguia chegar lá na maré baixa.",
+            "No ano 793, guerreiros viking foram até lá nos seus barcos longos.",
+            "Atacaram o mosteiro e levaram o seu tesouro.",
+            "Os monges não responderam ao ataque.",
+            "Alguns monges foram mortos e outros foram levados acorrentados.",
+            "Este foi um dos primeiros ataques viking à Inglaterra.",
+            "Os historiadores chamam-lhe o início da Era Viking.",
+            "Mais tarde, um monge escreveu um relato do ataque.",
+            "Podemos inferir das palavras dele coisas que ele não diz diretamente."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "jasiirad yar oo ka baxsan xeebta waqooyi-bari ee England, oo sidoo kale loo yaqaan Holy Island",
+            "meel monks ku nool yihiin, ku tukadaan oo ka shaqeeyaan",
+            "nin diineed oo noloshiisa u huray tukasho iyo shaqo",
+            "weerar degdeg ah oo hanti iyo alaab lagu xado",
+            "inaad malo wanaagsan ka samaysato tilmaamaha isha bixiso",
+            "erayada ama tilmaamaha isha ku jira oo taageeraya waxa aad ka soo saartay"
+          ],
+          "passage": [
+            "Lindisfarne waa jasiirad yar oo ka baxsan xeebta waqooyi-bari ee England.",
+            "Sidoo kale waxaa loo yaqaan Holy Island.",
+            "Monastery Masiixi ah ayaa halkaas taagnaa.",
+            "Monks halkaas ayay ku noolaayeen, way tukadeen, buugag quduus ahna way sameeyeen.",
+            "Jasiiraddu way ammaan u ekayd, maxaa yeelay waxaa la gaari karay oo keliya marka baddu hoos u dhacdo.",
+            "Sanadkii 793, dagaalyahanno Viking ah waxay halkaas ku tageen doonniyo dhaadheer.",
+            "Waxay weerareen monastery-ga oo hantidiisii way qaateen.",
+            "Monks-ku dib uma dagaallamin.",
+            "Monks qaar waa la dilay, kuwa kalena silsilado lagu xiray oo waa la kaxeeyay.",
+            "Kan wuxuu ahaa mid ka mid ah duullaannadii Viking ee ugu horreeyay England.",
+            "Taariikhyahannadu waxay ugu yeeraan bilowgii Xilligii Vikings.",
+            "Monk ayaa kadib qoray sheeko duullaanka ku saabsan.",
+            "Waxyaalo ayaan ka soo saari karnaa erayadiisa oo aanu si toos ah sheegin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "маленький острів біля північно-східного берега Англії, який також називають Святим островом (Lindisfarne)",
+            "місце, де монахи живуть, моляться і працюють (monastery)",
+            "релігійний чоловік, який віддає своє життя молитві і праці (monk)",
+            "раптовий напад, щоб украсти скарби й товари (raid)",
+            "зробити добрий висновок із підказок, які дає джерело (infer)",
+            "слова або подробиці в джерелі, які підтверджують ваш висновок (evidence)"
+          ],
+          "passage": [
+            "Ліндісфарн (Lindisfarne) — маленький острів біля північно-східного берега Англії.",
+            "Його також називають Святим островом.",
+            "Там стояв християнський монастир.",
+            "Там жили монахи, молилися і робили святі книги.",
+            "Острів здавався безпечним, бо дістатися до нього можна було лише під час відпливу.",
+            "У 793 році воїни вікінгів припливли туди на довгих кораблях.",
+            "Вони напали на монастир і забрали його скарби.",
+            "Монахи не захищалися.",
+            "Деяких монахів убили, а інших забрали в кайданах.",
+            "Це був один із перших набігів вікінгів на Англію.",
+            "Історики називають це початком епохи вікінгів.",
+            "Один монах пізніше написав розповідь про цей набіг.",
+            "З його слів ми можемо зробити висновки про речі, яких він не каже прямо."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "انگلینڈ کے شمال مشرقی ساحل سے ذرا دور ایک چھوٹا جزیرہ، جسے Holy Island بھی کہتے ہیں (Lindisfarne)",
+            "وہ جگہ جہاں راہب رہتے، دعا کرتے اور کام کرتے ہیں (monastery)",
+            "وہ مذہبی شخص جو اپنی زندگی دعا اور کام کے لیے وقف کر دے (monk)",
+            "خزانہ اور سامان لوٹنے کے لیے اچانک حملہ (raid)",
+            "source کے دیے ہوئے اشاروں سے کوئی معقول نتیجہ نکالنا (infer)",
+            "source کے وہ الفاظ یا تفصیلات جو آپ کے نتیجے کی تائید کرتے ہیں (evidence)"
+          ],
+          "passage": [
+            "لنڈسفارن (Lindisfarne) انگلینڈ کے شمال مشرقی ساحل سے ذرا دور ایک چھوٹا جزیرہ ہے۔",
+            "اسے Holy Island بھی کہا جاتا ہے۔",
+            "وہاں ایک مسیحی monastery تھا۔",
+            "وہاں راہب رہتے تھے، دعا کرتے تھے اور مقدس کتابیں بناتے تھے۔",
+            "جزیرہ محفوظ لگتا تھا، کیونکہ وہاں صرف بھاٹے کے وقت پہنچا جا سکتا تھا۔",
+            "سن 793 میں وائکنگ جنگجو اپنی لمبی کشتیوں (longships) میں وہاں پہنچے۔",
+            "انھوں نے monastery پر حملہ کیا اور اس کا خزانہ لے گئے۔",
+            "راہبوں نے جوابی لڑائی نہیں کی۔",
+            "کچھ راہب مارے گئے اور کچھ کو زنجیروں میں باندھ کر لے جایا گیا۔",
+            "یہ انگلینڈ پر وائکنگوں کے پہلے حملوں میں سے ایک تھا۔",
+            "مؤرخ اسے وائکنگ دور کا آغاز کہتے ہیں۔",
+            "ایک راہب نے بعد میں اس حملے کا بیان لکھا۔",
+            "ہم اس کے الفاظ سے وہ باتیں بھی اخذ کر سکتے ہیں جو وہ سیدھے طور پر نہیں کہتا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why would anyone attack this island?",
@@ -942,8 +1564,168 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           "Alfred built a new army and beat Guthrum at Edington in 878.",
           "Then he built walled towns called burhs to protect his people.",
           "Many people call him Alfred the Great."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تبقى وتعيش في مكان (settle)",
+            "الجزء الكبير من إنجلترا الذي كانت تُتّبع فيه قوانين الفايكنغ وطرق حياتهم (Danelaw)",
+            "سيّد من سادة الفايكنغ (jarl)",
+            "مملكة الأنجلوسكسونيين في جنوب إنجلترا التي حكمها ألفريد (Wessex)",
+            "بلدة لها جُدُر عالية وأبراج حراسة بُنيت لحماية الناس (burh)",
+            "مهمّ، له آثار باقية (significant)"
+          ],
+          "passage": [
+            "جاء الفايكنغ إلى بريطانيا في أوّل الأمر للغزو.",
+            "ثم بدأوا يبقون ويستقرّون.",
+            "وفي 865 نزل جيش فايكنغي ضخم في إنجلترا.",
+            "فاستولى الفايكنغ على نورثمبريا (Northumbria) ومرسيا (Mercia) وإيست أنجليا (East Anglia).",
+            "وصارت الأرض التي تحت حكم الفايكنغ تُعرف بالدينلو (Danelaw).",
+            "وكانت يورك (York) أكبر مدنها وأهمّها.",
+            "وبنى الفايكنغ مستقرّات وتاجروا وزرعوا الأرض.",
+            "ولم تصمد في وجههم إلّا ويسكس (Wessex) في الجنوب.",
+            "وكان ملكها ألفريد (Alfred).",
+            "وغزا زعيم الفايكنغ غوثرم (Guthrum) ويسكس، فهرب ألفريد إلى سومرست.",
+            "فبنى ألفريد جيشًا جديدًا وهزم غوثرم في إدينغتون (Edington) في 878.",
+            "ثم بنى بلدات مسوّرة تُسمّى البُره (burhs) لحماية أهله.",
+            "وكثير من الناس يسمّيه ألفريد العظيم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zostać i zamieszkać w jakimś miejscu",
+            "wielka część Anglii, w której obowiązywało wikińskie prawo i wikiński sposób życia (Danelaw)",
+            "wikiński pan (jarl)",
+            "anglosaskie królestwo w południowej Anglii, którym rządził Alfred (Wessex)",
+            "miasto z wysokimi murami i wieżami strażniczymi, zbudowane, żeby chronić ludzi (burh)",
+            "ważny, z następstwami, które trwały (significant)"
+          ],
+          "passage": [
+            "Na początku wikingowie przybywali do Brytanii, żeby łupić.",
+            "Później zaczęli zostawać i się osiedlać.",
+            "W 865 roku w Anglii wylądowała ogromna armia wikingów.",
+            "Wikingowie zajęli Northumbrię, Mercję i Anglię Wschodnią.",
+            "Ziemie pod wikińskim panowaniem zaczęto nazywać Danelaw.",
+            "York był jej największym i najważniejszym miastem.",
+            "Wikingowie budowali osady, handlowali i uprawiali ziemię.",
+            "Tylko Wessex na południu wytrzymał przeciwko nim.",
+            "Jego królem był Alfred.",
+            "Wikiński wódz Guthrum najechał Wessex, a Alfred uciekł do Somersetu.",
+            "Alfred zbudował nową armię i pobił Guthruma przy Edington w 878 roku.",
+            "Potem zbudował obwarowane miasta zwane burhs, żeby chronić swoich ludzi.",
+            "Wielu ludzi nazywa go Alfredem Wielkim."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ficar e viver num lugar (settle, fixar-se)",
+            "a grande parte de Inglaterra onde se seguiam as leis e os modos de vida viking (Danelaw)",
+            "um senhor viking (jarl)",
+            "o reino anglo-saxão do sul de Inglaterra, governado por Alfred (Wessex)",
+            "uma vila com muralhas altas e torres de vigia, construída para proteger as pessoas (burh)",
+            "importante, com efeitos que duraram (significant, significativo)"
+          ],
+          "passage": [
+            "Ao início, os vikings vinham à Grã-Bretanha para saquear.",
+            "Mais tarde começaram a ficar e a fixar-se.",
+            "Em 865 um enorme exército viking desembarcou em Inglaterra.",
+            "Os vikings tomaram a Nortúmbria, a Mércia e a Anglia Oriental.",
+            "As terras sob domínio viking passaram a ser conhecidas como Danelaw.",
+            "York era a sua cidade maior e mais importante.",
+            "Os vikings construíram povoações, comerciaram e cultivaram a terra.",
+            "Só o Wessex, no sul, resistiu a eles.",
+            "O seu rei era Alfred (Alfredo).",
+            "O chefe viking Guthrum invadiu o Wessex, e Alfred fugiu para Somerset.",
+            "Alfred formou um novo exército e venceu Guthrum em Edington, em 878.",
+            "Depois construiu vilas muradas chamadas burhs para proteger o seu povo.",
+            "Muita gente lhe chama Alfred o Grande."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad meel joogto oo ku noolaato",
+            "qaybta weyn ee England halkaasoo sharciyada iyo habnololeedka Vikings la raacay",
+            "sayid Viking ah",
+            "boqortooyadii Anglo-Saxon ee koonfurta England oo Alfred xukumay",
+            "magaalo leh darbiyo dhaadheer iyo tiirar ilaalo oo dadka loo dhisay",
+            "muhiim, oo leh saameyn muddo dheer socday"
+          ],
+          "passage": [
+            "Markii hore Vikings waxay Biritayn u yimaaddeen duullaan.",
+            "Kadib waxay bilaabeen inay joogaan oo degaan.",
+            "865-kii ciidan Viking ah oo aad u weyn ayaa England ku degay.",
+            "Vikings waxay la wareegeen Northumbria, Mercia iyo East Anglia.",
+            "Dhulkii Vikings xukumay waxaa loo bixiyay Danelaw.",
+            "York waxay ahayd magaaladiisa ugu weyn uguna muhiimsan.",
+            "Vikings waxay degsiimooyin dhiseen, way ganacsadeen oo dhulka way beereen.",
+            "Wessex oo keliya, oo koonfurta ku taal, ayaa iska caabbisay.",
+            "Boqorkeedu wuxuu ahaa Alfred.",
+            "Hoggaamiyihii Vikings Guthrum wuxuu Wessex ku duulay, Alfred-na Somerset ayuu u cararay.",
+            "Alfred wuxuu ciidan cusub dhisay oo Guthrum ku garaacay Edington 878-dii.",
+            "Kadibna wuxuu dhisay magaalooyin darbiyo leh oo la yiraahdo burhs si dadkiisa u ilaaliyo.",
+            "Dad badan waxay ugu yeeraan Alfred the Great."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "залишитися й жити в якомусь місці (settle)",
+            "велика частина Англії, де діяли правила і спосіб життя вікінгів (Danelaw)",
+            "вікінзький володар (jarl)",
+            "англосаксонське королівство на півдні Англії, яким правив Альфред (Wessex)",
+            "місто з високими стінами і вартовими вежами, побудоване, щоб захищати людей (burh)",
+            "важливий, із наслідками, які тривали (significant)"
+          ],
+          "passage": [
+            "Спершу вікінги приходили до Британії грабувати.",
+            "Пізніше вони почали залишатися й осідати.",
+            "У 865 році в Англії висадилося величезне військо вікінгів.",
+            "Вікінги захопили Нортумбрію, Мерсію і Східну Англію.",
+            "Землю під владою вікінгів стали називати Данелаг (Danelaw).",
+            "Йорк (York) був її найбільшим і найважливішим містом.",
+            "Вікінги будували оселі, торгували й обробляли землю.",
+            "Лише Вессекс (Wessex) на півдні тримався проти них.",
+            "Його королем був Альфред.",
+            "Вождь вікінгів Гутрум (Guthrum) напав на Вессекс, і Альфред утік до Сомерсета.",
+            "Альфред зібрав нове військо і розбив Гутрума при Едінгтоні (Edington) у 878 році.",
+            "Потім він побудував обнесені стінами міста, які називали бургами (burhs), щоб захищати своїх людей.",
+            "Багато людей називають його Альфредом Великим."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی جگہ رک کر رہنے لگنا (settle)",
+            "انگلینڈ کا وہ بڑا حصہ جہاں وائکنگوں کے قانون اور طرزِ زندگی چلتے تھے (Danelaw)",
+            "ایک وائکنگ سردار (jarl)",
+            "جنوبی انگلینڈ کی اینگلو سیکسن بادشاہت جس پر الفریڈ کی حکومت تھی (Wessex)",
+            "اونچی دیواروں اور پہرے کے میناروں والا قصبہ، جو لوگوں کی حفاظت کے لیے بنایا گیا (burh)",
+            "اہم، جس کے اثر دیر تک رہے (significant)"
+          ],
+          "passage": [
+            "پہلے پہل وائکنگ برطانیہ میں لوٹ مار کے لیے آتے تھے۔",
+            "بعد میں وہ یہیں رکنے اور بسنے لگے۔",
+            "865 میں وائکنگوں کی ایک بہت بڑی فوج انگلینڈ میں اتری۔",
+            "وائکنگوں نے نارتھمبریا، مرشیا اور ایسٹ اینگلیا پر قبضہ کر لیا۔",
+            "وائکنگ حکومت کے نیچے آنے والی زمین Danelaw کے نام سے جانی گئی۔",
+            "یارک (York) اس کا سب سے بڑا اور سب سے اہم شہر تھا۔",
+            "وائکنگوں نے بستیاں بنائیں، تجارت کی اور زمین پر کھیتی کی۔",
+            "صرف جنوب میں ویسیکس (Wessex) ان کے سامنے ڈٹا رہا۔",
+            "اس کا بادشاہ الفریڈ (Alfred) تھا۔",
+            "وائکنگ سردار گتھرم (Guthrum) نے ویسیکس پر حملہ کیا، اور الفریڈ سمرسیٹ کی طرف نکل گیا۔",
+            "الفریڈ نے نئی فوج بنائی اور 878 میں ایڈنگٹن (Edington) میں گتھرم کو ہرا دیا۔",
+            "پھر اس نے اپنے لوگوں کی حفاظت کے لیے دیواروں والے قصبے بنائے، جنھیں burhs کہتے ہیں۔",
+            "بہت لوگ اسے الفریڈ اعظم (Alfred the Great) کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "From raiding to settling",
@@ -1151,8 +1933,162 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           "His harsh taxes earned him the name hard-ruler.",
           "In 1066 he invaded England and took York.",
           "His story shows that Vikings were travellers and traders as well as warriors."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حكاية طويلة عن حياة بطل (saga)",
+            "بلدة تجارة خشبية في أرض الروس، وهي روسيا اليوم (Novgorod)",
+            "مدينة الإمبراطور البيزنطي الحجرية العظيمة، وهي إستانبول اليوم (Constantinople)",
+            "جيش الإمبراطور البيزنطي الخاصّ وحرسه، وكان من الشماليين (Varangian Guard)",
+            "لقب هارالد، وقد أُطلق عليه لقسوة ضرائبه (hard-ruler)",
+            "صحيح ومطابق للوقائع (accurate)"
+          ],
+          "passage": [
+            "كان هارالد هاردرادا (Harald Hardrada) من الفايكنغ من النرويج.",
+            "وفي 1030 قُتل أخوه الملك أولاف (Olaf) في معركة.",
+            "وكان هارالد في الخامسة عشرة وقد أُصيب إصابةً بالغة، فهرب شرقًا.",
+            "فأبحر عبر بحر البلطيق إلى أرض الروس.",
+            "وفي نوفغورود (Novgorod) استقبله الأمير ياروسلاف (Yaroslav) بمأدبة.",
+            "وفي 1034 وصل هارالد إلى القسطنطينية (Constantinople).",
+            "فانضمّ إلى الحرس الفارانجي (Varangian Guard)، وهو حرس الإمبراطور.",
+            "وقاتل القراصنة وفتح مدنًا، وصار غنيًّا مشهورًا.",
+            "وفي 1047 عاد إلى النرويج وصار ملكًا عليها.",
+            "وقسوة ضرائبه أكسبته لقب الحاكم القاسي.",
+            "وفي 1066 غزا إنجلترا وأخذ يورك.",
+            "وقصّته تُظهر أنّ الفايكنغ كانوا رحّالةً وتجّارًا كما كانوا محاربين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "długa opowieść o życiu bohatera (saga)",
+            "drewniane miasto handlowe w kraju Rusów, dziś w Rosji (Novgorod)",
+            "wielkie kamienne miasto cesarza bizantyjskiego, dziś Istambuł (Constantinople)",
+            "prywatna armia i straż przyboczna cesarza bizantyjskiego, złożona z ludzi północy (Varangian Guard)",
+            "przydomek Haralda, nadany mu za surowe podatki (hard-ruler)",
+            "zgodny z faktami i prawdziwy (accurate)"
+          ],
+          "passage": [
+            "Harald Hardrada był wikingiem z Norwegii.",
+            "W 1030 roku jego brat, król Olaf, zginął w bitwie.",
+            "Harald miał piętnaście lat, był ciężko ranny i uciekł na wschód.",
+            "Przepłynął Morze Bałtyckie do kraju Rusów.",
+            "W Nowogrodzie (Novgorod) książę Jarosław przyjął go ucztą.",
+            "W 1034 roku Harald dotarł do Konstantynopola.",
+            "Wstąpił do Gwardii Waregów (Varangian Guard), straży przybocznej cesarza.",
+            "Walczył z piratami i zdobywał miasta, a przy tym stał się bogaty i słynny.",
+            "W 1047 roku wrócił do Norwegii i został jej królem.",
+            "Surowe podatki przyniosły mu przydomek hard-ruler, czyli surowy władca.",
+            "W 1066 roku najechał Anglię i zajął York.",
+            "Jego historia pokazuje, że wikingowie byli podróżnikami i kupcami, a nie tylko wojownikami."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma história longa sobre a vida de um herói (saga)",
+            "uma vila comercial de madeira na terra dos Rus, hoje a Rússia (Novgorod)",
+            "a grande cidade de pedra do imperador bizantino, hoje Istambul (Constantinople, Constantinopla)",
+            "o exército particular e a guarda pessoal do imperador bizantino, formado por nórdicos (Varangian Guard, Guarda Varangiana)",
+            "a alcunha/apelido de Harald, dada por causa dos seus impostos duros (hard-ruler)",
+            "correto e fiel aos factos/fatos (accurate, exato)"
+          ],
+          "passage": [
+            "Harald Hardrada era um viking da Noruega.",
+            "Em 1030 o seu irmão, o rei Olaf, foi morto em batalha.",
+            "Harald tinha quinze anos e estava gravemente ferido, e fugiu para leste.",
+            "Atravessou o mar Báltico até à terra dos Rus.",
+            "Em Novgorod, o príncipe Iaroslav (Yaroslav) recebeu-o com um banquete.",
+            "Em 1034 Harald chegou a Constantinopla.",
+            "Entrou na Guarda Varangiana, a guarda pessoal do imperador.",
+            "Combateu piratas e tomou cidades, e ficou rico e famoso.",
+            "Em 1047 voltou à Noruega e tornou-se o seu rei.",
+            "Os seus impostos duros deram-lhe o nome de hard-ruler, o governante duro.",
+            "Em 1066 invadiu a Inglaterra e tomou York.",
+            "A história dele mostra que os vikings eram viajantes e comerciantes, e não só guerreiros."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sheeko dheer oo ku saabsan nolosha geesi",
+            "magaalo ganacsi alwaax ah oo ku taal dhulka Rus, oo hadda Ruushka tahay",
+            "magaaladii weyn ee dhagax ee Boqorka Byzantine, oo hadda Istanbul tahay",
+            "ciidanka gaarka ah iyo ilaaladii Boqorka Byzantine, oo ka koobnaa Norsemen",
+            "naaneysta Harald, oo loo bixiyay canshuurradiisa daran",
+            "sax oo xaqiiqda waafaqsan"
+          ],
+          "passage": [
+            "Harald Hardrada wuxuu ahaa Viking ka soo jeeda Norway.",
+            "1030-kii walaalkiis, Boqor Olaf, waxaa lagu dilay dagaal.",
+            "Harald wuxuu ahaa shan iyo toban jir oo si xun u dhaawacmay, bariga ayuuna u cararay.",
+            "Wuxuu Badda Baltic ka gudbay ilaa dhulka Rus.",
+            "Novgorod, Amiir Yaroslav wuxuu casuumad ku soo dhoweeyay.",
+            "1034-kii Harald wuxuu gaaray Constantinople.",
+            "Wuxuu ku biiray Varangian Guard, oo ahayd ilaaladii Boqorka.",
+            "Wuxuu la dagaallamay burcad-badeed oo magaalooyin qabsaday, wuuna noqday hodan iyo caan.",
+            "1047-kii wuxuu Norway ku soo noqday oo boqorkeeda noqday.",
+            "Canshuurrihiisii darnaa waxay u keeneen magaca hard-ruler.",
+            "1066-kii wuxuu England ku duulay oo York qabsaday.",
+            "Sheekadiisa waxay muujinaysaa in Vikings ay ahaayeen safarroyaal iyo ganacsato sidoo kalena dagaalyahanno."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "довга розповідь про життя героя (saga)",
+            "дерев’яне торгове місто в землі Русі, тепер Росія (Novgorod)",
+            "велике кам’яне місто візантійського імператора, тепер Істанбул (Constantinople)",
+            "приватне військо й особиста охорона візантійського імператора, складена з норсменів (Varangian Guard)",
+            "прізвисько Гаральда, дане за його жорсткі податки (hard-ruler)",
+            "правильний і вірний фактам (accurate)"
+          ],
+          "passage": [
+            "Гаральд Суворий (Harald Hardrada) був вікінгом із Норвегії.",
+            "У 1030 році його брата, короля Олафа, вбили в битві.",
+            "Гаральдові було п’ятнадцять, він був тяжко поранений і втік на схід.",
+            "Він переплив Балтійське море до землі Русі.",
+            "У Новгороді князь Ярослав прийняв його з бенкетом.",
+            "У 1034 році Гаральд дістався Константинополя.",
+            "Він вступив до Варяжської гвардії, особистої охорони імператора.",
+            "Він воював із піратами й захоплював міста, і став багатим і відомим.",
+            "У 1047 році він повернувся до Норвегії і став її королем.",
+            "Його жорсткі податки дали йому ім’я «суворий правитель» (hard-ruler).",
+            "У 1066 році він напав на Англію і взяв Йорк.",
+            "Його історія показує, що вікінги були не тільки воїнами, а й подорожниками й торговцями."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی ہیرو کی زندگی کی ایک لمبی کہانی (saga)",
+            "روس (Rus) کی سرزمین کا لکڑی سے بنا ایک تجارتی قصبہ، جو اب روس میں ہے (Novgorod)",
+            "بازنطینی شہنشاہ کا پتھروں سے بنا عظیم شہر، جو اب استنبول ہے (Constantinople)",
+            "بازنطینی شہنشاہ کی ذاتی فوج اور محافظ دستہ، جو نارس لوگوں پر مشتمل تھا (Varangian Guard)",
+            "ہیرلڈ کا لقب، جو اس کے سخت ٹیکسوں کی وجہ سے پڑا (hard-ruler)",
+            "درست اور حقائق کے مطابق (accurate)"
+          ],
+          "passage": [
+            "ہیرلڈ ہارڈراڈا (Harald Hardrada) ناروے کا ایک وائکنگ تھا۔",
+            "1030 میں اس کا بھائی، بادشاہ اولاف (Olaf)، ایک جنگ میں مارا گیا۔",
+            "ہیرلڈ پندرہ سال کا تھا اور بری طرح زخمی تھا، اور وہ مشرق کی طرف نکل گیا۔",
+            "وہ بحرِ بالٹک کے پار روس (Rus) کی سرزمین تک گیا۔",
+            "نووگورود (Novgorod) میں شہزادہ یاروسلاو (Yaroslav) نے دعوت دے کر اس کا استقبال کیا۔",
+            "1034 میں ہیرلڈ قسطنطنیہ (Constantinople) پہنچا۔",
+            "وہ Varangian Guard میں شامل ہو گیا، جو شہنشاہ کا محافظ دستہ تھا۔",
+            "اس نے قرصانوں سے لڑائی کی اور شہر فتح کیے، اور امیر اور مشہور ہو گیا۔",
+            "1047 میں وہ ناروے واپس آیا اور وہاں کا بادشاہ بن گیا۔",
+            "اس کے سخت ٹیکسوں کی وجہ سے اسے hard-ruler کا نام ملا۔",
+            "1066 میں اس نے انگلینڈ پر حملہ کیا اور یارک لے لیا۔",
+            "اس کی کہانی دکھاتی ہے کہ وائکنگ جنگجو ہونے کے ساتھ ساتھ سیاح اور تاجر بھی تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A saga begins: the journey east",

@@ -112,8 +112,162 @@ window.ASTRA_UNITS["hist-holocaust"] = {
           "We also study it because it was not an accident.",
           "People planned it, and other people chose to let it happen.",
           "Historians ask who took part, who watched, and who helped."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قتل ملايين من الناس اليهود، ومن جماعات أخرى، نظّمته الدولة النازية (Holocaust)",
+            "القتل المتعمّد لعدد كبير من الناس من جماعة واحدة، بقصد إفناء تلك الجماعة (genocide)",
+            "معاملة الناس معاملةً قاسية غير عادلة بسبب عِرقهم أو دينهم أو سياستهم (persecution)",
+            "العداء للناس اليهود أو التحامل عليهم (antisemitism)",
+            "شخص يُصيبه ضرر أو أذًى أو قتل بجريمة أو بأفعال أحد (victim)"
+          ],
+          "passage": [
+            "حدث الهولوكوست (Holocaust) في أوروبا قبل الحرب العالمية الثانية وفي أثنائها.",
+            "ونظّمه الحزب النازي الألماني بقيادة أدولف هتلر (Adolf Hitler).",
+            "وقُتل ملايين من الناس اليهود بسبب هويّتهم.",
+            "واستُهدف أيضًا الناس الروما وأشخاص ذوو إعاقة وأشخاص مثليّون.",
+            "واستُهدف كذلك معارضو النازيين السياسيّون.",
+            "وقُتل في الهولوكوست نحو أحد عشر مليون شخص.",
+            "وستّة ملايين من هؤلاء الناس كانوا يهودًا.",
+            "ولكلّ واحد منهم اسم وأسرة.",
+            "وكانت لهم بيوت وأعمال ومدارس وأصدقاء قبل أن يأخذ النازيون السلطة.",
+            "ونحن ندرس الهولوكوست حتى لا يُنسى أولئك الناس.",
+            "وندرسه أيضًا لأنه لم يكن حادثًا عارضًا.",
+            "فقد خطّط له ناس، واختار ناس آخرون أن يتركوه يحدث.",
+            "والمؤرّخون يسألون: مَن شارك؟ ومَن شاهد؟ ومَن ساعد؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "mordowanie milionów Żydów oraz ludzi z innych grup, zorganizowane przez państwo nazistowskie (Holocaust)",
+            "celowe zabijanie wielkiej liczby ludzi z jednej grupy, żeby tę grupę zniszczyć (genocide)",
+            "okrutne i niesprawiedliwe traktowanie ludzi z powodu ich pochodzenia, religii albo poglądów politycznych (persecution)",
+            "wrogość wobec Żydów albo uprzedzenie do nich (antisemitism)",
+            "osoba, której przestępstwo albo czyjeś działanie wyrządza krzywdę, rani ją albo ją zabija (victim)"
+          ],
+          "passage": [
+            "Holokaust zdarzył się w Europie przed drugą wojną światową i w jej czasie.",
+            "Zorganizowała go niemiecka partia nazistowska, której przywódcą był Adolf Hitler.",
+            "Miliony Żydów zostały zamordowane z powodu tego, kim byli.",
+            "Celem stali się też Romowie, osoby z niepełnosprawnościami i osoby homoseksualne.",
+            "Tak samo polityczni przeciwnicy nazistów.",
+            "W Holokauście zabito około jedenastu milionów ludzi.",
+            "Sześć milionów z nich to byli Żydzi.",
+            "Każdy z nich miał imię i rodzinę.",
+            "Mieli domy, pracę, szkoły i przyjaciół, zanim naziści przejęli władzę.",
+            "Uczymy się o Holokauście, żeby ci ludzie nie zostali zapomniani.",
+            "Uczymy się o nim także dlatego, że nie był przypadkiem.",
+            "Ludzie go zaplanowali, a inni ludzie postanowili na to pozwolić.",
+            "Historycy pytają, kto brał w tym udział, kto się przyglądał i kto pomagał."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o assassinato de milhões de pessoas judias, e de pessoas de outros grupos, organizado pelo Estado nazi/nazista (Holocaust, Holocausto)",
+            "a morte deliberada de um grande número de pessoas de um grupo, com a intenção de destruir esse grupo (genocide, genocídio)",
+            "tratamento cruel e injusto de pessoas por causa da sua raça, religião ou política (persecution, perseguição)",
+            "hostilidade ou preconceito contra as pessoas judias (antisemitism, antissemitismo)",
+            "uma pessoa que é atingida, ferida ou morta por um crime ou pelos atos de alguém (victim, vítima)"
+          ],
+          "passage": [
+            "O Holocausto aconteceu na Europa antes e durante a Segunda Guerra Mundial.",
+            "Foi o Partido Nazi/Nazista da Alemanha, liderado por Adolf Hitler, que o organizou.",
+            "Milhões de pessoas judias foram assassinadas por causa de quem eram.",
+            "As pessoas Roma, as pessoas com deficiência e as pessoas gays também foram visadas.",
+            "E também os opositores políticos dos nazis/nazistas.",
+            "Cerca de onze milhões de pessoas foram mortas no Holocausto.",
+            "Seis milhões destas pessoas eram judias.",
+            "Cada uma delas tinha um nome e uma família.",
+            "Tinham casas, empregos, escolas e amigos antes de os nazis/nazistas chegarem ao poder.",
+            "Estudamos o Holocausto para que essas pessoas não sejam esquecidas.",
+            "Estudamo-lo também porque não foi um acidente.",
+            "Houve pessoas que o planearam/planejaram, e outras que escolheram deixá-lo acontecer.",
+            "Os historiadores perguntam quem participou, quem assistiu e quem ajudou."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dilkii malaayiin dad Yuhuud ah, iyo kooxo kale, oo dowladdii Nazi ay abaabushay",
+            "dilka ula kaca ah ee dad tiro badan oo hal koox ah, oo loogu talagalay in kooxdaas la baabbi'iyo",
+            "dad si naxariis-darro iyo caddaalad-darro ah loola dhaqmo jinsiyaddooda, diintooda ama siyaasaddooda dartii",
+            "nacayb ama cadho ka dhan ah dadka Yuhuudda ah",
+            "qof waxyeelloobay, dhaawacmay ama la dilay dembi ama ficil qof dartii"
+          ],
+          "passage": [
+            "Holocaust-ku wuxuu Yurub ka dhacay Dagaalkii Labaad ee Adduunka ka hor iyo intii uu socday.",
+            "Xisbiga Nazi ee Jarmalka, oo Adolf Hitler hoggaamiyay, ayaa abaabulay.",
+            "Malaayiin dad Yuhuud ah waa la dilay sababtoo ah cidda ay ahaayeen.",
+            "Dadka Roma ah, dadka naafada ah iyo dadka jinsiga isku mid ah jecel (gay people) sidoo kale waa la bartilmaameedsaday.",
+            "Sidoo kale kuwa siyaasad ahaan Nazis-ka ka soo horjeeday.",
+            "Qiyaastii kow iyo toban milyan oo qof ayaa Holocaust-ka lagu dilay.",
+            "Lix milyan oo dadkaas ka mid ahaa waxay ahaayeen Yuhuud.",
+            "Mid kasta oo iyaga ka mid ahaa magac iyo qoys ayuu lahaa.",
+            "Guryo, shaqooyin, iskuullo iyo saaxiibo ayay lahaayeen intii Nazis-ku awoodda qaadan.",
+            "Waxaan Holocaust-ka barannaa si dadkaas aan loo illoobin.",
+            "Waxaan sidoo kale barannaa maxaa yeelay shil ma ahayn.",
+            "Dad ayaa qorsheeyay, dad kalena waxay doorteen inay u ogolaadaan inuu dhaco.",
+            "Taariikhyahannadu waxay weydiiyaan cidda ka qaybqaatay, cidda daawatay, iyo cidda caawisay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вбивство мільйонів євреїв та людей з інших груп, організоване нацистською державою (Holocaust)",
+            "умисне вбивство великої кількості людей з однієї групи з метою знищити цю групу (genocide)",
+            "жорстоке і несправедливе ставлення до людей через їхню расу, релігію або політичні погляди (persecution)",
+            "ворожість або упередження до євреїв (antisemitism)",
+            "людина, якій злочин або чиїсь дії завдали шкоди, поранили її або вбили (victim)"
+          ],
+          "passage": [
+            "Голокост відбувся в Європі перед Другою світовою війною і під час неї.",
+            "Його організувала Нацистська партія Німеччини на чолі з Адольфом Гітлером.",
+            "Мільйони євреїв було вбито через те, ким вони були.",
+            "Ромів, людей з інвалідністю і геїв також зробили цілями.",
+            "Так само зробили цілями політичних противників нацистів.",
+            "У Голокості було вбито близько одинадцяти мільйонів людей.",
+            "Шість мільйонів із цих людей були євреями.",
+            "Кожна з них мала ім’я і родину.",
+            "Вони мали домівки, роботу, школи і друзів, перш ніж нацисти прийшли до влади.",
+            "Ми вивчаємо Голокост для того, щоб цих людей не забули.",
+            "Ми також вивчаємо його тому, що він не був випадковістю.",
+            "Люди це спланували, а інші люди обрали дозволити цьому статися.",
+            "Історики питають, хто брав у цьому участь, хто дивився і хто допомагав."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہودی لوگوں اور دوسرے گروہوں کے لاکھوں افراد کا قتل، جو نازی ریاست نے منظم کیا (Holocaust)",
+            "ایک گروہ کے بہت سے لوگوں کو جان بوجھ کر قتل کرنا، اس نیت سے کہ وہ گروہ ہی مٹا دیا جائے (genocide)",
+            "لوگوں کے ساتھ ان کی نسل، مذہب یا سیاست کی وجہ سے ظالمانہ اور ناانصافی کا سلوک (persecution)",
+            "یہودی لوگوں کے خلاف دشمنی یا تعصب (antisemitism)",
+            "وہ شخص جسے کسی جرم یا کسی کے کاموں سے نقصان پہنچے، جو زخمی ہو یا قتل کر دیا جائے (victim)"
+          ],
+          "passage": [
+            "ہولوکاسٹ (Holocaust) دوسری جنگِ عظیم سے پہلے اور اس کے دوران یورپ میں پیش آیا۔",
+            "جرمنی کی Nazi Party نے، جس کے رہنما ایڈولف ہٹلر تھے، اسے منظم کیا۔",
+            "لاکھوں یہودی لوگوں کو صرف اس وجہ سے قتل کیا گیا کہ وہ کون تھے۔",
+            "روما لوگ، معذور افراد اور ہم جنس پسند لوگ بھی نشانہ بنائے گئے۔",
+            "نازیوں کے سیاسی مخالف بھی۔",
+            "ہولوکاسٹ میں تقریباً ایک کروڑ دس لاکھ لوگ مارے گئے۔",
+            "ان میں سے ساٹھ لاکھ لوگ یہودی تھے۔",
+            "ان میں سے ہر ایک کا ایک نام اور ایک خاندان تھا۔",
+            "نازیوں کے اقتدار میں آنے سے پہلے ان کے گھر، کام، سکول اور دوست تھے۔",
+            "ہم ہولوکاسٹ کا مطالعہ اس لیے کرتے ہیں کہ وہ لوگ بھلائے نہ جائیں۔",
+            "ہم اس کا مطالعہ اس لیے بھی کرتے ہیں کہ یہ کوئی حادثہ نہ تھا۔",
+            "لوگوں نے اس کا منصوبہ بنایا، اور دوسرے لوگوں نے اسے ہونے دینے کا فیصلہ کیا۔",
+            "مؤرخ پوچھتے ہیں کہ کون شامل تھا، کون دیکھتا رہا، اور کس نے مدد کی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What was the Holocaust?",
@@ -310,8 +464,162 @@ window.ASTRA_UNITS["hist-holocaust"] = {
           "Jewish people had been taxed, expelled and blamed for centuries.",
           "Then Germany lost the First World War and was left in crisis.",
           "Hitler blamed Jewish people for that crisis, and many Germans agreed with him."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جماعة من الناس يعيشون في مكان واحد ويتشاركون طريقة حياة (community)",
+            "العداء للناس اليهود أو التحامل عليهم (antisemitism)",
+            "أُرغموا على مغادرة بلد، بلا حقّ في العودة (expelled)",
+            "مال يُرغَم البلد المهزوم على دفعه عن أضرار حرب (reparations)",
+            "معاملة الناس معاملةً قاسية غير عادلة بسبب عِرقهم أو دينهم أو سياستهم (persecution)"
+          ],
+          "passage": [
+            "كانت الجماعات اليهودية قد عاشت في أوروبا مئات السنين.",
+            "وفي 1933 كانت هناك أسر يهودية في كلّ بلد في أوروبا.",
+            "وكانت أكبر الجماعات في شرق أوروبا، وخاصّةً في بولندا.",
+            "وفي غرب أوروبا كانت الجماعات أصغر.",
+            "وبعض الأسر كان متديّنًا تديّنًا صارمًا، وبعضها لم يكن متديّنًا أبدًا.",
+            "وكانوا أصحاب متاجر وأطبّاء ومعلّمين وموسيقيّين ومزارعين.",
+            "ونشأت أنيتا لاسكر-فالفيش (Anita Lasker-Wallfisch) في ألمانيا في سنوات 1930.",
+            "وقد وصفت بعد ذلك أوّل ما تذكره من العداء لليهود.",
+            "وكانت روت فينكلمان (Ruth Winkelmann) تلميذة عمرها عشر سنوات في 1938.",
+            "والعداء لليهود في أوروبا كان أقدم كثيرًا من الحزب النازي.",
+            "فقد فُرضت على الناس اليهود ضرائب وأُخرجوا من بلدان ولُوموا قرونًا.",
+            "ثم خسرت ألمانيا الحرب العالمية الأولى وبقيت في أزمة.",
+            "فلام هتلر الناس اليهود على تلك الأزمة، ووافقه كثير من الألمان."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "grupa ludzi, którzy mieszkają w tym samym miejscu i mają wspólny sposób życia (community)",
+            "wrogość wobec Żydów albo uprzedzenie do nich (antisemitism)",
+            "zmuszony do opuszczenia kraju, bez prawa powrotu (expelled)",
+            "pieniądze, które przegrany kraj musi zapłacić za szkody wojenne (reparations)",
+            "okrutne i niesprawiedliwe traktowanie ludzi z powodu ich pochodzenia, religii albo poglądów politycznych (persecution)"
+          ],
+          "passage": [
+            "Społeczności żydowskie żyły w Europie od setek lat.",
+            "W 1933 roku rodziny żydowskie były w każdym kraju Europy.",
+            "Największe społeczności były w Europie Wschodniej, szczególnie w Polsce.",
+            "W Europie Zachodniej społeczności były mniejsze.",
+            "Część rodzin była głęboko religijna, a część nie była religijna wcale.",
+            "Byli sklepikarzami, lekarzami, nauczycielami, muzykami i rolnikami.",
+            "Anita Lasker-Wallfisch wyrosła w Niemczech w latach trzydziestych XX wieku (the 1930s).",
+            "Opisała później swoje najwcześniejsze wspomnienie antysemityzmu.",
+            "Ruth Winkelmann była uczennicą, która w 1938 roku miała dziesięć lat.",
+            "Antysemityzm w Europie był o wiele starszy niż partia nazistowska.",
+            "Żydów od wieków obciążano podatkami, wypędzano i obwiniano.",
+            "Potem Niemcy przegrały pierwszą wojnę światową i znalazły się w kryzysie.",
+            "Hitler obwinił za ten kryzys Żydów, a wielu Niemców się z nim zgadzało."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um grupo de pessoas que vivem no mesmo lugar e partilham/compartilham um modo de vida (community, comunidade)",
+            "hostilidade ou preconceito contra as pessoas judias (antisemitism, antissemitismo)",
+            "obrigado a deixar um país, sem direito a voltar (expelled, expulso)",
+            "dinheiro que um país derrotado é obrigado a pagar pelos danos de uma guerra (reparations, reparações)",
+            "tratamento cruel e injusto de pessoas por causa da sua raça, religião ou política (persecution, perseguição)"
+          ],
+          "passage": [
+            "As comunidades judias viviam na Europa havia centenas de anos.",
+            "Em 1933 havia famílias judias em todos os países da Europa.",
+            "As maiores comunidades estavam na Europa de Leste, sobretudo na Polónia/Polônia.",
+            "Na Europa Ocidental as comunidades eram mais pequenas.",
+            "Havia famílias muito religiosas e famílias que não eram religiosas de modo nenhum.",
+            "Eram comerciantes, médicos, professores, músicos e agricultores.",
+            "Anita Lasker-Wallfisch cresceu na Alemanha nos anos 1930.",
+            "Mais tarde descreveu a sua primeira lembrança do antissemitismo.",
+            "Ruth Winkelmann era uma aluna que tinha dez anos em 1938.",
+            "O antissemitismo na Europa era muito mais antigo do que o Partido Nazi/Nazista.",
+            "As pessoas judias tinham sido taxadas, expulsas e culpadas durante séculos.",
+            "Depois a Alemanha perdeu a Primeira Guerra Mundial e ficou em crise.",
+            "Hitler culpou as pessoas judias por essa crise, e muitos alemães concordaram com ele."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "koox dad ah oo isku meel ku nool oo habnololeed wadaagta",
+            "nacayb ama cadho ka dhan ah dadka Yuhuudda ah",
+            "lagu qasbay inay dal ka baxaan, iyagoo aan xaq u lahayn inay ku soo noqdaan",
+            "lacag dal laga adkaaday lagu qasbo inuu bixiyo waxyeellada dagaalka",
+            "dad si naxariis-darro iyo caddaalad-darro ah loola dhaqmo jinsiyaddooda, diintooda ama siyaasaddooda dartii"
+          ],
+          "passage": [
+            "Bulshooyinka Yuhuudda waxay Yurub ku noolaayeen boqollaal sano.",
+            "1933-kii waxaa jiray qoysas Yuhuud ah oo dal kasta oo Yurub ku yaalla.",
+            "Bulshooyinka ugu waaweynaa waxay joogeen bariga Yurub, gaar ahaan Poland.",
+            "Galbeedka Yurub bulshooyinku way ka yaryaraayeen.",
+            "Qoysas qaar aad ayay u diineed ahaayeen, qaarna diin gebi ahaanba ma lahayn.",
+            "Waxay ahaayeen dukaanleyda, dhakhaatiirta, macallimiinta, fannaaniinta iyo beeraleyda.",
+            "Anita Lasker-Wallfisch waxay Jarmalka ku kortay 1930-meeyadii.",
+            "Waxay kadib sharraxday xusuustii ugu horreysay ee nacaybka Yuhuudda.",
+            "Ruth Winkelmann waxay ahayd gabadh dugsi oo toban jir ahayd 1938-kii.",
+            "Nacaybka Yuhuudda ee Yurub wuxuu Xisbiga Nazi aad uga duqoobaa.",
+            "Dadka Yuhuudda waxaa qarniyo badan canshuur lagu saaray, dalalka laga saaray oo lagu eedeeyay.",
+            "Kadibna Jarmalku wuxuu lumiyay Dagaalkii Koowaad ee Adduunka oo xaalad adag ayuu ku hadhay.",
+            "Hitler wuxuu dadka Yuhuudda ku eedeeyay xaaladdaas, Jarmal badanna way ku raaceen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "група людей, які живуть в одному місці і мають спільний спосіб життя (community)",
+            "ворожість або упередження до євреїв (antisemitism)",
+            "той, кого змусили покинути країну без права повернутися (expelled)",
+            "гроші, які переможену країну змушують платити за шкоду від війни (reparations)",
+            "жорстоке і несправедливе ставлення до людей через їхню расу, релігію або політичні погляди (persecution)"
+          ],
+          "passage": [
+            "Єврейські громади жили в Європі сотні років.",
+            "У 1933 році єврейські родини були в кожній країні Європи.",
+            "Найбільші громади були у Східній Європі, особливо в Польщі.",
+            "У Західній Європі громади були меншими.",
+            "Деякі родини були строго релігійними, а деякі не були релігійними зовсім.",
+            "Вони були крамарями, лікарями, учителями, музикантами й землеробами.",
+            "Аніта Ласкер-Вальфіш (Anita Lasker-Wallfisch) виросла в Німеччині у 1930-х роках.",
+            "Пізніше вона описала свій найраніший спогад про антисемітизм.",
+            "Рут Вінкельман (Ruth Winkelmann) була школяркою, якій у 1938 році було десять років.",
+            "Антисемітизм у Європі був значно давнішим за Нацистську партію.",
+            "Євреїв століттями обкладали податками, виганяли і звинувачували.",
+            "Потім Німеччина втратила Першу світову війну і залишилася в кризі.",
+            "Гітлер звинувачував у цій кризі євреїв, і багато німців із ним погоджувалися."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لوگوں کا وہ گروہ جو ایک ہی جگہ رہتا ہو اور ایک جیسا طرزِ زندگی رکھتا ہو (community)",
+            "یہودی لوگوں کے خلاف دشمنی یا تعصب (antisemitism)",
+            "کسی ملک سے زبردستی نکال دیا جانا، واپسی کے حق کے بغیر (expelled)",
+            "وہ رقم جو ہارنے والے ملک سے جنگ کے نقصان کے بدلے وصول کی جائے (reparations)",
+            "لوگوں کے ساتھ ان کی نسل، مذہب یا سیاست کی وجہ سے ظالمانہ اور ناانصافی کا سلوک (persecution)"
+          ],
+          "passage": [
+            "یہودی برادریاں سینکڑوں سال سے یورپ میں رہ رہی تھیں۔",
+            "1933 میں یورپ کے ہر ملک میں یہودی خاندان موجود تھے۔",
+            "سب سے بڑی برادریاں مشرقی یورپ میں تھیں، خاص کر پولینڈ میں۔",
+            "مغربی یورپ میں یہ برادریاں چھوٹی تھیں۔",
+            "کچھ خاندان سخت مذہبی تھے اور کچھ بالکل مذہبی نہ تھے۔",
+            "وہ دکان دار، ڈاکٹر، اساتذہ، موسیقار اور کسان تھے۔",
+            "انیتا لاسکر-وال فش (Anita Lasker-Wallfisch) 1930 کی دہائی میں جرمنی میں پلی بڑھیں۔",
+            "انھوں نے بعد میں بتایا کہ انھیں antisemitism کی سب سے پہلی یاد کیا تھی۔",
+            "روتھ ونکل مان (Ruth Winkelmann) ایک سکول کی طالبہ تھیں، جو 1938 میں دس سال کی تھیں۔",
+            "یورپ میں antisemitism، Nazi Party سے بہت پرانی تھی۔",
+            "یہودی لوگوں پر صدیوں سے ٹیکس لگائے گئے، انھیں نکالا گیا اور ان پر الزام دھرے گئے۔",
+            "پھر جرمنی پہلی جنگِ عظیم ہار گیا اور بحران میں پھنس گیا۔",
+            "ہٹلر نے اس بحران کا الزام یہودی لوگوں پر ڈالا، اور بہت سے جرمن اس سے متفق ہو گئے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Jewish life in Europe before 1933",
@@ -510,8 +818,162 @@ window.ASTRA_UNITS["hist-holocaust"] = {
           "Thousands of Jewish men were arrested and sent to concentration camps.",
           "By 1939 Jewish people in Germany could not go to school or drive a car.",
           "Each of these steps was a decision taken by people in power."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تمتنع عن شيء عن قصد، كأن لا تشتري من متجر، لتحاول إحداث تغيير (boycott)",
+            "الانتماء إلى بلد في القانون، ومعه الحقوق التي تتبع ذلك (citizenship)",
+            "بناء يجتمع فيه الناس اليهود للصلاة والتعلّم (synagogue)",
+            "معلومات تُنشر لتجعل الناس يعتقدون شيئًا، صحيحًا كان أو غير صحيح (propaganda)",
+            "لحظة تتغيّر فيها الأمور اتّجاهها ولا تعود (turning point)"
+          ],
+          "passage": [
+            "أخذ النازيون حقوق الناس اليهود في ثلاث موجات.",
+            "وبدأت الموجة الأولى في أبريل 1933 بمقاطعة المتاجر التي يملكها يهود.",
+            "ووقف رجال من الإس آ (SA) خارج المتاجر ليتأكّدوا أنّ أحدًا لا يدخلها.",
+            "وأُقرّت أوّل القوانين المعادية لليهود في السنة نفسها.",
+            "وبدأت الموجة الثانية في 1935 بالعنف وبقوانين نورمبرغ.",
+            "وتلك القوانين أخذت من الناس اليهود جنسيّتهم الألمانية.",
+            "وبدأت الموجة الثالثة في 1938 وانتهت بكريستالناخت (Kristallnacht).",
+            "وكريستالناخت تعني ليلة الزجاج المكسور.",
+            "وفي 9 و10 نوفمبر 1938 هُجم على بيوت اليهود ومتاجرهم وكُنُسهم.",
+            "وقُتل أكثر من 90 شخصًا من اليهود في تلك الليلتين.",
+            "واعتُقل آلاف من الرجال اليهود وأُرسلوا إلى معسكرات الاعتقال.",
+            "وبحلول 1939 لم يكن الناس اليهود في ألمانيا يستطيعون أن يذهبوا إلى المدرسة أو أن يقودوا سيّارة.",
+            "وكلّ خطوة من هذه الخطوات كانت قرارًا اتّخذه أصحاب السلطة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "celowe niezrobienie czegoś, na przykład niekupowanie w jakimś sklepie, żeby wymusić zmianę (boycott)",
+            "przynależność do kraju w świetle prawa, wraz z prawami, które z niej wynikają (citizenship)",
+            "budynek, w którym Żydzi spotykają się, żeby się modlić i uczyć (synagogue)",
+            "informacje rozpowszechniane, żeby ludzie w coś uwierzyli, niezależnie od tego, czy to prawda (propaganda)",
+            "chwila, w której sprawy zmieniają kierunek i już nie wracają (turning point)"
+          ],
+          "passage": [
+            "Naziści odbierali Żydom prawa w trzech falach.",
+            "Pierwsza fala zaczęła się w kwietniu 1933 roku bojkotem sklepów należących do Żydów.",
+            "Ludzie z SA stali przed sklepami, żeby dopilnować, by nikt nie wszedł.",
+            "Pierwsze ustawy antysemickie uchwalono w tym samym roku.",
+            "Druga fala zaczęła się w 1935 roku przemocą i ustawami norymberskimi.",
+            "Te ustawy odebrały Żydom niemieckie obywatelstwo.",
+            "Trzecia fala zaczęła się w 1938 roku i skończyła się Kristallnacht.",
+            "Kristallnacht znaczy noc rozbitego szkła.",
+            "9 i 10 listopada 1938 roku zaatakowano żydowskie domy, sklepy i synagogi.",
+            "W ciągu tych dwóch nocy zabito ponad 90 Żydów.",
+            "Tysiące żydowskich mężczyzn aresztowano i wysłano do obozów koncentracyjnych.",
+            "Do 1939 roku Żydzi w Niemczech nie mogli chodzić do szkoły ani prowadzić samochodu.",
+            "Każdy z tych kroków był decyzją podjętą przez ludzi sprawujących władzę."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "deixar de fazer algo de propósito, como não comprar numa loja, para tentar forçar uma mudança (boycott, boicote)",
+            "pertencer a um país em termos da lei, com os direitos que isso traz (citizenship, cidadania)",
+            "um edifício onde as pessoas judias se reúnem para rezar e para aprender (synagogue, sinagoga)",
+            "informação espalhada para fazer as pessoas acreditarem em algo, seja verdade ou não (propaganda)",
+            "um momento em que as coisas mudam de direção e não voltam atrás (turning point, ponto de viragem/virada)"
+          ],
+          "passage": [
+            "Os nazis/nazistas retiraram os direitos às pessoas judias em três ondas.",
+            "A primeira onda começou em abril de 1933 com um boicote às lojas de donos judeus.",
+            "Homens da SA ficavam à porta das lojas para garantir que ninguém entrava.",
+            "As primeiras leis antissemitas foram aprovadas no mesmo ano.",
+            "A segunda onda começou em 1935, com violência e com as Leis de Nuremberga/Nuremberg.",
+            "Essas leis retiraram às pessoas judias a cidadania alemã.",
+            "A terceira onda começou em 1938 e acabou na Kristallnacht.",
+            "Kristallnacht quer dizer a Noite dos Vidros Quebrados.",
+            "A 9 e 10 de novembro de 1938, casas, lojas e sinagogas judias foram atacadas.",
+            "Mais de 90 pessoas judias foram mortas nessas duas noites.",
+            "Milhares de homens judeus foram presos e enviados para campos de concentração.",
+            "Em 1939 as pessoas judias na Alemanha já não podiam ir à escola nem conduzir um carro.",
+            "Cada um destes passos foi uma decisão tomada por pessoas que tinham poder."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad si ula kac ah wax ka joojiso, sida inaanad dukaan ka iibsan, si isbeddel loo keeno",
+            "inaad dal ka tirsanaato sharci ahaan, iyo xuquuqda la socota",
+            "dhisme dadka Yuhuudda ku kulmaan oo ku tukadaan oo wax ku bartaan",
+            "macluumaad la faafiyo si dadku wax u rumaystaan, run iyo been",
+            "waqti ay waxyaalo jiho beddelaan oo aanay dib u noqon"
+          ],
+          "passage": [
+            "Nazis-ku waxay xuquuqda dadka Yuhuudda ka qaadeen saddex mowjad.",
+            "Mowjadda koowaad waxay bilaabatay Abriil 1933-dii oo waxay ahayd qaadacid dukaammada Yuhuudda ay lahaayeen.",
+            "Rag ka socday SA waxay dukaammada dibadda istaageen si ay hubiyaan inaanu cidna gelin.",
+            "Sharciyadii ugu horreeyay ee Yuhuudda ka dhanka ahaa isla sanadkaas ayaa la ansixiyay.",
+            "Mowjadda labaad waxay bilaabatay 1935-kii oo waxay ahayd rabshado iyo Nuremberg Laws.",
+            "Sharciyadaas waxay dadka Yuhuudda ka qaadeen muwaadinnimadooda Jarmalka.",
+            "Mowjadda saddexaad waxay bilaabatay 1938-kii oo waxay ku dhammaatay Kristallnacht.",
+            "Kristallnacht macnaheedu waa Habeenkii Muraayadaha Jabay.",
+            "9-kii iyo 10-kii Noofembar 1938 guryo, dukaammo iyo synagogues Yuhuud ah waa la weerartay.",
+            "In ka badan 90 qof Yuhuud ah ayaa labadaas habeen lagu dilay.",
+            "Kumanaan rag Yuhuud ah waa la xiray oo waxaa loo diray concentration camps.",
+            "1939-kii dadka Yuhuudda ee Jarmalka ku sugnaa iskuul ma tagi karin oo baabuur ma wadi karin.",
+            "Tallaabo kasta oo kuwan ka mid ah waxay ahayd go'aan dad awoodda haystay qaateen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "навмисна відмова щось робити, наприклад не купувати в крамниці, щоб змусити до змін (boycott)",
+            "належність до країни за законом разом із правами, які з цього випливають (citizenship)",
+            "будівля, де євреї збираються молитися і вчитися (synagogue)",
+            "інформація, яку поширюють, щоб люди в щось повірили, правдиве це чи ні (propaganda)",
+            "мить, коли справи змінюють напрямок і вже не повертаються назад (turning point)"
+          ],
+          "passage": [
+            "Нацисти відбирали права євреїв трьома хвилями.",
+            "Перша хвиля почалася у квітні 1933 року з бойкоту крамниць, що належали євреям.",
+            "Чоловіки зі СА стояли перед крамницями, щоб упевнитися, що ніхто не заходить.",
+            "Перші антисемітські закони ухвалили того самого року.",
+            "Друга хвиля почалася у 1935 році з насильства і Нюрнберзьких законів.",
+            "Ті закони відібрали в євреїв німецьке громадянство.",
+            "Третя хвиля почалася у 1938 році і закінчилася Kristallnacht.",
+            "Kristallnacht означає Ніч розбитого скла.",
+            "9 і 10 листопада 1938 року єврейські домівки, крамниці й синагоги зазнали нападів.",
+            "Тих двох ночей було вбито понад 90 євреїв.",
+            "Тисячі єврейських чоловіків арештували й відправили до концентраційних таборів.",
+            "До 1939 року євреї в Німеччині не могли ходити до школи або керувати автомобілем.",
+            "Кожний із цих кроків був рішенням, яке ухвалили люди при владі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جان بوجھ کر کوئی کام نہ کرنا، جیسے کسی دکان سے خریداری نہ کرنا، تاکہ تبدیلی پر مجبور کیا جائے (boycott)",
+            "قانون کے مطابق کسی ملک سے تعلق، اور اس کے ساتھ آنے والے حقوق (citizenship)",
+            "وہ عمارت جہاں یہودی لوگ دعا اور تعلیم کے لیے جمع ہوتے ہیں (synagogue)",
+            "وہ معلومات جو لوگوں کو کوئی بات منوانے کے لیے پھیلائی جائیں، چاہے وہ سچ ہو یا نہ ہو (propaganda)",
+            "وہ لمحہ جب چیزیں رخ بدل لیتی ہیں اور واپس نہیں آتیں (turning point)"
+          ],
+          "passage": [
+            "نازیوں نے یہودی لوگوں کے حق تین مرحلوں میں چھین لیے۔",
+            "پہلا مرحلہ اپریل 1933 میں یہودی ملکیت کی دکانوں کے boycott سے شروع ہوا۔",
+            "SA کے آدمی دکانوں کے باہر کھڑے ہو جاتے تھے تاکہ کوئی اندر نہ جائے۔",
+            "antisemitic قوانین کا پہلا سلسلہ اسی سال منظور ہوا۔",
+            "دوسرا مرحلہ 1935 میں تشدد اور Nuremberg Laws سے شروع ہوا۔",
+            "ان قوانین نے یہودی لوگوں سے ان کی جرمن شہریت چھین لی۔",
+            "تیسرا مرحلہ 1938 میں شروع ہوا اور Kristallnacht پر ختم ہوا۔",
+            "Kristallnacht کا مطلب ہے ٹوٹے شیشوں کی رات۔",
+            "9 اور 10 نومبر 1938 کو یہودی گھروں، دکانوں اور synagogues پر حملے کیے گئے۔",
+            "ان دو راتوں میں 90 سے زیادہ یہودی لوگ مارے گئے۔",
+            "ہزاروں یہودی مردوں کو گرفتار کر کے concentration camps بھیج دیا گیا۔",
+            "1939 تک جرمنی میں یہودی لوگ نہ سکول جا سکتے تھے اور نہ گاڑی چلا سکتے تھے۔",
+            "ان میں سے ہر قدم اقتدار میں بیٹھے لوگوں کا کیا ہوا فیصلہ تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Three waves of persecution, 1933-1939",
@@ -712,8 +1174,162 @@ window.ASTRA_UNITS["hist-holocaust"] = {
           "Yet people found ways to resist inside the ghettos.",
           "They ran secret schools, newspapers and prayer services.",
           "In Warsaw they rose up and fought the German army."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جزء من بلدة أو مدينة، مسوَّر أو محوَّط، أُرغم الناس اليهود على العيش فيه (ghetto)",
+            "مُبعَد عن الناس جميعًا بالقوّة (segregated)",
+            "المعاناة أو الموت لأنّ الطعام لا يكفي (starvation)",
+            "عمل يُرغَم الناس عليه، بلا أجر وبلا خيار (forced labour)",
+            "رفض قبول السيطرة، علنًا أو بطرق يومية أهدأ (resistance)"
+          ],
+          "passage": [
+            "كان الغيتو جزءًا من بلدة أو مدينة مسوَّرًا أو محوَّطًا.",
+            "وكان الناس اليهود يُرغمون على العيش داخله ولا يستطيعون مغادرته.",
+            "وغزت ألمانيا بولندا في سبتمبر 1939، فأُنشئت أوّل الغيتوات.",
+            "وكانت في شرق أوروبا جماعات يهودية كبيرة جدًّا.",
+            "فحشر النازيون تلك الأسر في مناطق صغيرة من البلدات والمدن.",
+            "ويرى المؤرّخون أنّ أكثر من 1,000 غيتو أُنشئ بحلول 1945.",
+            "وكان كلّ غيتو يضمّ أسرًا أُخِذت من بيوتها.",
+            "ولم يكن فيه إلّا طعام قليل جدًّا، ولا تدفئة ولا دواء.",
+            "وكثيرًا ما كان على سبعة إلى تسعة أشخاص أن يتقاسموا غرفة واحدة.",
+            "وانتشر المرض بسرعة، ومات كثير من الناس من الجوع.",
+            "ومع ذلك وجد الناس طرقًا للمقاومة داخل الغيتوات.",
+            "فأداروا مدارس سرّية وصحفًا وصلوات.",
+            "وفي وارسو ثاروا وقاتلوا الجيش الألماني."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "część miasteczka albo miasta, odgrodzona płotem lub murem, w której Żydzi musieli mieszkać (ghetto)",
+            "trzymany siłą z dala od wszystkich innych (segregated)",
+            "cierpienie albo umieranie z powodu braku jedzenia (starvation)",
+            "praca, do której ludzi się zmusza, bez zapłaty i bez wyboru (forced labour)",
+            "odmowa poddania się kontroli, otwarcie albo w cichszy, codzienny sposób (resistance)"
+          ],
+          "passage": [
+            "Getto to była część miasteczka albo miasta, odgrodzona płotem lub murem.",
+            "Żydzi musieli mieszkać w jego środku i nie mogli go opuścić.",
+            "Niemcy najechały Polskę we wrześniu 1939 roku i powstały pierwsze getta.",
+            "W Europie Wschodniej były bardzo duże społeczności żydowskie.",
+            "Naziści upchali te rodziny w małych dzielnicach miasteczek i miast.",
+            "Historycy uważają, że do 1945 roku utworzono ponad 1,000 gett.",
+            "W każdym getcie były rodziny zabrane z ich własnych domów.",
+            "Było bardzo mało jedzenia, nie było ogrzewania ani lekarstw.",
+            "Siedem do dziewięciu osób musiało często dzielić jeden pokój.",
+            "Choroby szybko się rozprzestrzeniały i wielu ludzi umarło z głodu.",
+            "A jednak ludzie znajdowali w gettach sposoby, żeby się opierać.",
+            "Prowadzili tajne szkoły, gazety i nabożeństwa.",
+            "W Warszawie powstali i walczyli z armią niemiecką."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma parte de uma vila ou cidade, cercada ou murada, onde as pessoas judias eram obrigadas a viver (ghetto, gueto)",
+            "mantido à parte de todos os outros, pela força (segregated, segregado)",
+            "sofrer ou morrer porque não há comida suficiente (starvation, fome)",
+            "trabalho que as pessoas são obrigadas a fazer, sem pagamento e sem escolha (forced labour, trabalho forçado)",
+            "recusar aceitar o controlo/controle, de forma aberta ou de maneiras mais discretas do dia a dia (resistance, resistência)"
+          ],
+          "passage": [
+            "Um gueto era uma parte de uma vila ou cidade que estava cercada ou murada.",
+            "As pessoas judias eram obrigadas a viver lá dentro e não podiam sair.",
+            "A Alemanha invadiu a Polónia/Polônia em setembro de 1939 e os primeiros guetos foram criados.",
+            "A Europa de Leste tinha comunidades judias muito grandes.",
+            "Os nazis/nazistas apertaram essas famílias em pequenos bairros das vilas e das cidades.",
+            "Os historiadores pensam que até 1945 foram criados mais de 1 000 guetos.",
+            "Cada gueto tinha famílias que tinham sido levadas das suas próprias casas.",
+            "Havia muito pouca comida, não havia aquecimento e não havia medicamentos.",
+            "Muitas vezes sete a nove pessoas tinham de partilhar/compartilhar um quarto.",
+            "As doenças espalhavam-se depressa e muitas pessoas morreram de fome.",
+            "Mesmo assim, as pessoas encontraram maneiras de resistir dentro dos guetos.",
+            "Mantinham escolas, jornais e celebrações religiosas em segredo.",
+            "Em Varsóvia levantaram-se e combateram o exército alemão."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qayb magaalo ah, oo xayndaab ama darbi lagu xiray, halkaasoo dadka Yuhuudda lagu qasbay inay ku noolaadaan",
+            "xoog lagu kala saaray dadka kale",
+            "silic ama dhimasho cunto ku filan la'aan dartii",
+            "shaqo dad lagu qasbo, oo mushahar la'aan ah oo aanay doorasho ku lahayn",
+            "diidmada in lagu xukumo, si cad ama siyaabo maalinle oo aamusan"
+          ],
+          "passage": [
+            "Ghetto waxay ahayd qayb magaalo ah oo xayndaab ama darbi lagu xiray.",
+            "Dadka Yuhuudda waxaa lagu qasbay inay gudaha ku noolaadaan, mana bixi karin.",
+            "Jarmalku wuxuu Poland ku duulay Sebtembar 1939-kii, ghettos-kii ugu horreeyayna waa la sameeyay.",
+            "Bariga Yurub waxay lahayd bulshooyin Yuhuud ah oo aad u waaweyn.",
+            "Nazis-ku waxay qoysaskaas ku cufeen degmooyin yaryar oo magaalooyinka.",
+            "Taariikhyahannadu waxay u maleeyaan in in ka badan 1,000 ghetto la sameeyay 1945-kii.",
+            "Ghetto kastaa wuxuu hayay qoysas guryahooda laga qaaday.",
+            "Cunto aad u yar ayaa jirtay, kulayl ma jirin, dawona ma jirin.",
+            "Toddoba ilaa sagaal qof ayaa inta badan hal qol wadaagi jiray.",
+            "Cudurro si dhaqso ah ayay u faafeen, dad badanna gaajo ayay u dhinteen.",
+            "Hase yeeshee dadku waxay siyaabo heleen oo ghettos-ka gudaha ku iska caabbiyeen.",
+            "Waxay wadeen iskuullo, wargeysyo iyo tukasho qarsoodi ah.",
+            "Warsaw waxay kaceen oo waxay la dagaallameen ciidanka Jarmalka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "частина містечка або міста, обгороджена парканом чи стіною, де євреїв змушували жити (ghetto)",
+            "силою тримані окремо від усіх інших (segregated)",
+            "страждання або смерть через те, що їжі не досить (starvation)",
+            "праця, яку людей змушують виконувати без плати і без вибору (forced labour)",
+            "відмова приймати контроль — відкрито або тихішими щоденними способами (resistance)"
+          ],
+          "passage": [
+            "Гетто було частиною містечка або міста, обгородженою парканом чи стіною.",
+            "Євреїв змушували жити всередині, і вони не могли вийти.",
+            "Німеччина напала на Польщу у вересні 1939 року, і тоді створили перші гетто.",
+            "Східна Європа мала дуже великі єврейські громади.",
+            "Нацисти затиснули ці родини у невеликі райони містечок і міст.",
+            "Історики вважають, що до 1945 року створили понад 1,000 гетто.",
+            "У кожному гетто були родини, яких забрали з їхніх власних домівок.",
+            "Їжі було дуже мало, не було ні обігріву, ні лікарських засобів.",
+            "Семеро-дев’ятеро людей часто мусили тіснитися в одній кімнаті.",
+            "Хвороби швидко поширювалися, і багато людей померло з голоду.",
+            "І все ж люди знаходили способи опиратися всередині гетто.",
+            "Вони вели таємні школи, газети й молитовні служби.",
+            "У Варшаві вони піднялися і воювали з німецьким військом."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی قصبے یا شہر کا وہ حصہ، جو باڑ یا دیوار سے الگ کر دیا گیا ہو، اور جہاں یہودی لوگوں کو زبردستی رہنے پر مجبور کیا گیا (ghetto)",
+            "زبردستی سب سے الگ رکھا گیا (segregated)",
+            "خوراک کافی نہ ہونے کی وجہ سے تکلیف اٹھانا یا مر جانا (starvation)",
+            "وہ کام جو لوگوں سے زبردستی کرایا جائے، بغیر مزدوری اور بغیر کسی انتخاب کے (forced labour)",
+            "قابو قبول کرنے سے انکار، کھلے طور پر یا روزمرہ کے خاموش طریقوں سے (resistance)"
+          ],
+          "passage": [
+            "ghetto کسی قصبے یا شہر کا وہ حصہ تھا جو باڑ یا دیوار سے الگ کر دیا گیا تھا۔",
+            "یہودی لوگوں کو اس کے اندر رہنے پر مجبور کیا گیا اور وہ باہر نہیں جا سکتے تھے۔",
+            "جرمنی نے ستمبر 1939 میں پولینڈ پر حملہ کیا اور پہلے ghettos بنائے گئے۔",
+            "مشرقی یورپ میں یہودی برادریاں بہت بڑی تھیں۔",
+            "نازیوں نے ان خاندانوں کو قصبوں اور شہروں کے چھوٹے علاقوں میں بھر دیا۔",
+            "مؤرخوں کا خیال ہے کہ 1945 تک 1,000 سے زیادہ ghettos بنائے گئے۔",
+            "ہر ghetto میں وہ خاندان رکھے گئے جنھیں ان کے اپنے گھروں سے لے جایا گیا تھا۔",
+            "وہاں خوراک بہت کم تھی، گرمائش کا کوئی بندوبست نہ تھا اور دوا نہ تھی۔",
+            "اکثر سات سے نو لوگوں کو ایک ہی کمرہ بانٹنا پڑتا تھا۔",
+            "بیماری تیزی سے پھیلی اور بہت لوگ بھوک سے مر گئے۔",
+            "پھر بھی لوگوں نے ghettos کے اندر مزاحمت کے راستے نکالے۔",
+            "انھوں نے خفیہ سکول، اخبار اور دعا کی محفلیں چلائیں۔",
+            "وارسا (Warsaw) میں وہ اٹھ کھڑے ہوئے اور جرمن فوج سے لڑے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What a ghetto was, and why the Nazis built them",
@@ -918,8 +1534,168 @@ window.ASTRA_UNITS["hist-holocaust"] = {
           "The Nazis began the organised mass murder they called the Final Solution.",
           "The camps were liberated by the Allies in 1945.",
           "Survivors went home to find their towns ruined and their families gone."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "معسكر سُجن فيه الناس بغير محاكمة وأُرغموا على العمل (concentration camp)",
+            "أن تُرغَم على الخروج من بيتك وتأخذك الدولة إلى مكان آخر (deportation)",
+            "أن تجعل الناس يعتقدون عن قصد شيئًا غير صحيح (deception)",
+            "فِرَق القتل النازية التي أُرسلت إلى شرق أوروبا بعد غزو الاتّحاد السوفييتي (Einsatzgruppen)",
+            "معسكر بناه النازيون بقصد قتل الناس الذين يُؤتى بهم إليه (extermination camp)",
+            "أُطلق سراحه بجيش هزم من كانوا مسيطرين (liberated)"
+          ],
+          "passage": [
+            "افتُتحت أوّل المعسكرات في ألمانيا في 1933.",
+            "وكان داخاو (Dachau) يضمّ سجناء سياسيّين خالفوا النازيين.",
+            "وكان الناس يُسجنون بغير محاكمة ويُرغمون على العمل.",
+            "وكلّما احتلّت ألمانيا بلدانًا أخرى بنت فيها معسكرات أيضًا.",
+            "وصار الناس اليهود والناس الروما يُرسلون الآن إلى المعسكرات.",
+            "وكذب النازيون على الناس في أمر مقصد القطارات.",
+            "وقيل للأسر إنهم يُنقلون للسكن في الشرق.",
+            "فكتبوا أسماءهم وعناوينهم على حقائبهم.",
+            "وكانوا يعتقدون أنهم سيحتاجون إلى أمتعتهم من جديد.",
+            "وفي 1941 تغيّر الغرض من المعسكرات.",
+            "وبدأ النازيون القتل الجماعي المنظّم الذي سمّوه الحلّ النهائي (Final Solution).",
+            "وحرّر الحلفاء المعسكرات في 1945.",
+            "وعاد الناجون إلى بيوتهم فوجدوا بلداتهم خرابًا وأسرهم قد ذهبت."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "obóz, w którym ludzi więziono bez sądu i zmuszano do pracy (concentration camp)",
+            "przymusowe wywiezienie z domu i przeniesienie gdzie indziej przez państwo (deportation)",
+            "celowe wmawianie ludziom czegoś, co nie jest prawdą (deception)",
+            "nazistowskie oddziały zabijające, wysłane do Europy Wschodniej po najeździe na Związek Radziecki (Einsatzgruppen)",
+            "obóz zbudowany przez nazistów w tym celu, żeby mordować przywożonych do niego ludzi (extermination camp)",
+            "uwolniony przez armię, która pobiła tych, co sprawowali kontrolę (liberated)"
+          ],
+          "passage": [
+            "Pierwsze obozy otwarto w Niemczech w 1933 roku.",
+            "W Dachau trzymano więźniów politycznych, którzy nie zgadzali się z nazistami.",
+            "Ludzi więziono bez sądu i zmuszano do pracy.",
+            "Kiedy Niemcy zajmowały inne kraje, budowały obozy także tam.",
+            "Do obozów wysyłano teraz Żydów i Romów.",
+            "Naziści kłamali o tym, gdzie jadą pociągi.",
+            "Rodzinom mówiono, że są przesiedlane na wschód.",
+            "Pisali swoje imiona i adresy na walizkach.",
+            "Wierzyli, że ich rzeczy znowu będą im potrzebne.",
+            "W 1941 roku cel obozów się zmienił.",
+            "Naziści zaczęli zorganizowane masowe mordowanie, które nazywali Ostatecznym Rozwiązaniem.",
+            "Obozy zostały wyzwolone przez aliantów w 1945 roku.",
+            "Ocaleni wracali do domów i znajdowali swoje miasta w ruinie, a swoich rodzin już nie było."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um campo onde as pessoas eram presas sem julgamento e obrigadas a trabalhar (concentration camp, campo de concentração)",
+            "ser obrigado a sair de casa e levado para outro lugar pelo Estado (deportation, deportação)",
+            "fazer de propósito com que as pessoas acreditem em algo que não é verdade (deception, engano)",
+            "os esquadrões de morte nazis/nazistas enviados para a Europa de Leste depois da invasão da União Soviética (Einsatzgruppen)",
+            "um campo construído pelos nazis/nazistas com o objetivo de assassinar as pessoas que eram levadas para lá (extermination camp, campo de extermínio)",
+            "libertado por um exército que derrotou quem tinha o controlo/controle (liberated, libertado)"
+          ],
+          "passage": [
+            "Os primeiros campos foram abertos na Alemanha em 1933.",
+            "Dachau tinha presos políticos que discordavam dos nazis/nazistas.",
+            "As pessoas eram presas sem julgamento e obrigadas a trabalhar.",
+            "À medida que a Alemanha ocupava outros países, construía campos também lá.",
+            "As pessoas judias e as pessoas Roma passaram a ser enviadas para os campos.",
+            "Os nazis/nazistas mentiram sobre o destino dos trens/comboios.",
+            "Dizia-se às famílias que iam ser reinstaladas no leste.",
+            "Elas escreviam os seus nomes e endereços nas malas.",
+            "Acreditavam que iriam precisar outra vez das suas coisas.",
+            "Em 1941 a finalidade dos campos mudou.",
+            "Os nazis/nazistas começaram o assassinato em massa organizado a que chamaram a Solução Final.",
+            "Os campos foram libertados pelos Aliados em 1945.",
+            "Os sobreviventes voltaram a casa e encontraram as suas vilas em ruínas e as suas famílias desaparecidas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xero dad lagu xiray iyadoon maxkamad la geyn oo lagu qasbay inay shaqeeyaan",
+            "in lagu qasbo inaad gurigaaga ka baxdo oo dowladdu meel kale kuu qaado",
+            "si ula kac ah in dadka wax been ah loo rumaysiiyo",
+            "kooxihii dilka ee Nazi oo loo diray bariga Yurub kadib markii Midowga Soofiyeeti lagu duulay",
+            "xero Nazis-ku u dhiseen ujeeddo ah in dadka loo keenay la dilo",
+            "waa la xorreeyay ciidan ka adkaaday kuwa xukunka hayay"
+          ],
+          "passage": [
+            "Xeryihii ugu horreeyay waxaa Jarmalka laga furay 1933-kii.",
+            "Dachau waxay haysay maxaabiis siyaasadeed oo Nazis-ka ka duwanaa.",
+            "Dadka waa la xiray iyadoon maxkamad la geyn, waxaana lagu qasbay inay shaqeeyaan.",
+            "Markii Jarmalku dalal kale qabsaday, xeryo halkaas ayuu sidoo kale ka dhisay.",
+            "Dadka Yuhuudda iyo dadka Roma ah hadda waxaa loo diray xeryaha.",
+            "Nazis-ku waxay been ka sheegeen halka tareennadu u socdeen.",
+            "Qoysaska waxaa loo sheegay in bariga lagu dejinayo.",
+            "Magacyadooda iyo cinwaannadooda waxay shandadahooda ku qoreen.",
+            "Waxay rumaysnaayeen inay alaabtooda mar kale u baahan doonaan.",
+            "1941-kii ujeeddada xeryaha way isbeddeshay.",
+            "Nazis-ku waxay bilaabeen dilka abaabulan ee tirada badan ee ay ugu yeereen Final Solution.",
+            "Xeryaha waxaa xorreeyay Allies-ku 1945-kii.",
+            "Kuwa badbaaday waxay guryahooda u noqdeen oo waxay heleen magaalooyinkooda burburay iyo qoysaskooda la waayay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "табір, де людей тримали ув’язненими без суду і змушували працювати (concentration camp)",
+            "коли держава силою забирає людину з її дому і відвозить кудись інде (deportation)",
+            "навмисне змушування людей вірити в те, що не є правдою (deception)",
+            "нацистські загони вбивць, послані до Східної Європи після нападу на Радянський Союз (Einsatzgruppen)",
+            "табір, побудований нацистами для того, щоб убивати людей, яких до нього привозили (extermination camp)",
+            "звільнений військом, яке перемогло тих, хто тримав владу (liberated)"
+          ],
+          "passage": [
+            "Перші табори відкрили в Німеччині у 1933 році.",
+            "У Дахау тримали політичних ув’язнених, які не погоджувалися з нацистами.",
+            "Людей тримали ув’язненими без суду і змушували працювати.",
+            "Що більше Німеччина займала інших країн, то більше таборів вона будувала і там.",
+            "Тепер до таборів відправляли євреїв і ромів.",
+            "Нацисти брехали про те, куди йдуть поїзди.",
+            "Родинам казали, що їх переселяють на схід.",
+            "Вони писали свої імена й адреси на своїх валізах.",
+            "Вони вірили, що їхні речі знову будуть їм потрібні.",
+            "У 1941 році призначення таборів змінилося.",
+            "Нацисти почали організоване масове вбивство, яке вони називали остаточним вирішенням (the Final Solution).",
+            "Табори звільнили союзники у 1945 році.",
+            "Ті, хто вижив, повертались додому і знаходили свої містечка зруйнованими, а своїх родин уже не було."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ کیمپ جہاں لوگوں کو مقدمے کے بغیر قید رکھا جاتا اور ان سے زبردستی کام کرایا جاتا تھا (concentration camp)",
+            "ریاست کے ہاتھوں اپنے گھر سے زبردستی نکالا جانا اور کہیں اور لے جایا جانا (deportation)",
+            "جان بوجھ کر لوگوں کو ایسی بات منوانا جو سچ نہ ہو (deception)",
+            "نازیوں کے قتل کرنے والے دستے، جو سوویت یونین پر حملے کے بعد مشرقی یورپ بھیجے گئے (Einsatzgruppen)",
+            "وہ کیمپ جو نازیوں نے اس مقصد کے لیے بنایا کہ وہاں لائے گئے لوگوں کو قتل کیا جائے (extermination camp)",
+            "اُس فوج کے ہاتھوں آزاد کرایا جانا جس نے قابو رکھنے والوں کو ہرا دیا ہو (liberated)"
+          ],
+          "passage": [
+            "پہلے کیمپ 1933 میں جرمنی میں کھولے گئے۔",
+            "Dachau میں وہ سیاسی قیدی رکھے گئے جو نازیوں سے اختلاف کرتے تھے۔",
+            "لوگوں کو مقدمے کے بغیر قید رکھا جاتا اور ان سے زبردستی کام کرایا جاتا تھا۔",
+            "جیسے جیسے جرمنی نے دوسرے ملکوں پر قبضہ کیا، وہاں بھی کیمپ بنائے۔",
+            "اب یہودی لوگوں اور روما لوگوں کو کیمپوں میں بھیجا جانے لگا۔",
+            "نازیوں نے جھوٹ بولا کہ ریل گاڑیاں کہاں جا رہی ہیں۔",
+            "خاندانوں کو بتایا گیا کہ انھیں مشرق میں دوبارہ آباد کیا جا رہا ہے۔",
+            "انھوں نے اپنے سوٹ کیسوں پر اپنے نام اور پتے لکھ دیے۔",
+            "ان کا یقین تھا کہ ان کا سامان انھیں دوبارہ درکار ہوگا۔",
+            "1941 میں کیمپوں کا مقصد بدل گیا۔",
+            "نازیوں نے وہ منظم قتلِ عام شروع کیا جسے وہ Final Solution کہتے تھے۔",
+            "یہ کیمپ 1945 میں اتحادیوں نے آزاد کرائے۔",
+            "جو بچ گئے، وہ گھر پہنچے تو ان کے قصبے اجڑے ہوئے اور ان کے خاندان جا چکے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How the camps began, and how their purpose changed",
@@ -1117,8 +1893,162 @@ window.ASTRA_UNITS["hist-holocaust"] = {
           "Historians ask what Britain and America knew, and when.",
           "To answer questions like these we have to read sources carefully.",
           "We ask about the content, the nature, the origin and the purpose."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شخص شارك في ما فُعل (perpetrator)",
+            "شخص وقف موقف المشاهد وتركه يحدث (bystander)",
+            "شخص فعل شيئًا لمساعدة المُضطهَدين (rescuer)",
+            "مَن صنع المصدر، ومتى صنعه، ومن أين جاء (origin)",
+            "لماذا صُنع المصدر، وما يريد منك أن تعتقده (purpose)"
+          ],
+          "passage": [
+            "كان الهولوكوست أكبر من أن ينفّذه شخص واحد وحده.",
+            "فقد احتاج إلى الشرطة والسكك الحديدية والجيش والجهاز الإداري.",
+            "واحتاج إلى كتبة يكتبون القوائم وشركات تأخذ العقود.",
+            "والمُشارك هو شخص شارك في ما فُعل.",
+            "والمشاهد هو شخص وقف موقف المشاهد وتركه يحدث.",
+            "والمُنجِد هو شخص فعل شيئًا للمساعدة.",
+            "وكلّ واحد من أولئك الناس اتّخذ خيارًا.",
+            "وبعد الحرب حُوكم كبار النازيين في نورمبرغ.",
+            "وهرب أدولف آيخمان (Adolf Eichmann) واختفى في الأرجنتين حتى 1960.",
+            "وقال في محاكمته إنه لم يكن إلّا يتبع الأوامر.",
+            "والمؤرّخون يسألون ما الذي عرفته بريطانيا وأمريكا ومتى عرفته.",
+            "ولنجيب أسئلةً كهذه علينا أن نقرأ المصادر بعناية.",
+            "فنسأل عن المحتوى وعن الطبيعة وعن المَنشأ وعن الغرض."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osoba, która brała udział w tym, co zrobiono (perpetrator)",
+            "osoba, która stała z boku i pozwoliła, żeby to się stało (bystander)",
+            "osoba, która zrobiła coś, żeby pomóc prześladowanym (rescuer)",
+            "kto zrobił źródło, kiedy je zrobił i skąd ono pochodzi (origin)",
+            "dlaczego źródło zostało zrobione i w co chce, żebyś uwierzył (purpose)"
+          ],
+          "passage": [
+            "Holokaust był za wielki, żeby jedna osoba mogła go przeprowadzić sama.",
+            "Potrzebował policji, kolei, armii i urzędów państwowych.",
+            "Potrzebował urzędników, którzy pisali listy, i firm, które brały zlecenia.",
+            "Sprawca to osoba, która brała udział w tym, co zrobiono.",
+            "Świadek bierny to osoba, która stała z boku i pozwoliła, żeby to się stało.",
+            "Ratujący to osoba, która zrobiła coś, żeby pomóc.",
+            "Każdy z tych ludzi dokonał wyboru.",
+            "Po wojnie czołowych nazistów sądzono w Norymberdze (Nuremberg).",
+            "Adolf Eichmann uciekł i ukrywał się w Argentynie do 1960 roku.",
+            "Na swoim procesie powiedział, że tylko wykonywał rozkazy.",
+            "Historycy pytają, co wiedziały Wielka Brytania i Ameryka, i od kiedy.",
+            "Żeby odpowiedzieć na takie pytania, musimy uważnie czytać źródła.",
+            "Pytamy o treść, o charakter, o pochodzenie i o cel."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma pessoa que participou naquilo que foi feito (perpetrator, perpetrador)",
+            "uma pessoa que ficou a assistir e deixou acontecer (bystander)",
+            "uma pessoa que fez algo para ajudar quem estava a ser perseguido (rescuer)",
+            "quem fez uma fonte, quando a fez e de onde ela veio (origin, origem)",
+            "porque é que uma fonte foi feita, e aquilo em que ela quer que acredites (purpose, propósito)"
+          ],
+          "passage": [
+            "O Holocausto era demasiado grande para uma só pessoa o levar a cabo sozinha.",
+            "Foram precisos a polícia, as ferrovias/os caminhos de ferro, o exército e a função pública.",
+            "Foram precisos escriturários que fizeram listas e empresas que aceitaram os contratos.",
+            "Um perpetrador é uma pessoa que participou naquilo que foi feito.",
+            "Um bystander é uma pessoa que ficou a assistir e deixou acontecer.",
+            "Um rescuer é uma pessoa que fez algo para ajudar.",
+            "Cada uma dessas pessoas fez uma escolha.",
+            "Depois da guerra, os principais nazis/nazistas foram julgados em Nuremberga/Nuremberg.",
+            "Adolf Eichmann escapou e esteve escondido na Argentina até 1960.",
+            "No seu julgamento disse que só tinha cumprido ordens.",
+            "Os historiadores perguntam o que é que a Grã-Bretanha e os Estados Unidos sabiam, e desde quando.",
+            "Para responder a perguntas como estas temos de ler as fontes com atenção.",
+            "Perguntamos pelo conteúdo, pela natureza, pela origem e pelo propósito."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qof ka qaybqaatay waxa la sameeyay",
+            "qof dhinac istaagay oo u ogolaaday inuu dhaco",
+            "qof wax sameeyay si uu u caawiyo kuwa la silcinayay",
+            "cidda isha samaysay, goorta ay samaysay iyo halka ay ka timid",
+            "sababta isha loo sameeyay, iyo waxa ay rabto inaad rumaysato"
+          ],
+          "passage": [
+            "Holocaust-ku aad ayuu u weynaa in hal qof kali ahaantii fuliyo.",
+            "Wuxuu u baahnaa booliiska, jidadka tareenka, ciidanka iyo shaqaalaha dowladda.",
+            "Wuxuu u baahnaa karraaniyo liisas qoray iyo ganacsiyo qandaraasyada qaatay.",
+            "Perpetrator waa qof ka qaybqaatay waxa la sameeyay.",
+            "Bystander waa qof dhinac istaagay oo u ogolaaday inuu dhaco.",
+            "Rescuer waa qof wax sameeyay si uu u caawiyo.",
+            "Mid kasta oo dadkaas ka mid ah doorasho ayuu sameeyay.",
+            "Dagaalka kadib, Nazis-ka sare waxaa la maxkamadeeyay Nuremberg.",
+            "Adolf Eichmann wuu baxsaday oo Argentina ayuu ku dhuumaalaystay ilaa 1960-kii.",
+            "Maxkamaddiisa wuxuu sheegay inuu oo keliya amarro raacayay.",
+            "Taariikhyahannadu waxay weydiiyaan waxa Biritayn iyo Ameerika ogaayeen, iyo goorta.",
+            "Si aan su'aalaha noocaas ah uga jawaabno waa inaan ilaha si taxaddar leh u akhrinnaa.",
+            "Waxaan weydiinnaa content-ka, nature-ka, origin-ka iyo purpose-ka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "людина, яка брала участь у тому, що було зроблено (perpetrator)",
+            "людина, яка стояла осторонь і дала цьому статися (bystander)",
+            "людина, яка зробила щось, щоб допомогти тим, кого переслідували (rescuer)",
+            "хто створив джерело, коли його створив і звідки воно взялося (origin)",
+            "чому джерело створили і в що воно хоче, щоб ви вірили (purpose)"
+          ],
+          "passage": [
+            "Голокост був надто великим, щоб одна людина здійснила його сама.",
+            "Для нього були потрібні поліція, залізниці, військо і державна служба.",
+            "Були потрібні канцеляристи, які писали списки, і підприємства, які брали замовлення.",
+            "Виконавець (perpetrator) — це людина, яка брала участь у тому, що було зроблено.",
+            "Сторонній спостерігач (bystander) — це людина, яка стояла осторонь і дала цьому статися.",
+            "Рятівник (rescuer) — це людина, яка зробила щось, щоб допомогти.",
+            "Кожна з цих людей зробила вибір.",
+            "Після війни провідних нацистів судили в Нюрнберзі.",
+            "Адольф Айхман утік і переховувався в Аргентині до 1960 року.",
+            "На своєму суді він казав, що лише виконував накази.",
+            "Історики питають, що знали Британія і Америка і коли вони це знали.",
+            "Щоб відповідати на такі запитання, ми мусимо читати джерела уважно.",
+            "Ми питаємо про зміст, природу, походження і призначення джерела."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ شخص جو اُس کام میں شامل تھا جو کیا گیا (perpetrator)",
+            "وہ شخص جو کھڑا دیکھتا رہا اور اسے ہونے دیا (bystander)",
+            "وہ شخص جس نے ستائے جانے والوں کی مدد کے لیے کچھ کیا (rescuer)",
+            "کوئی source کس نے بنایا، کب بنایا اور وہ کہاں سے آیا (origin)",
+            "کوئی source کیوں بنایا گیا، اور وہ آپ سے کیا منوانا چاہتا ہے (purpose)"
+          ],
+          "passage": [
+            "ہولوکاسٹ اتنا بڑا تھا کہ کوئی ایک شخص اسے اکیلا نہ کر سکتا تھا۔",
+            "اس کے لیے پولیس، ریلوے، فوج اور سرکاری محکمے درکار تھے۔",
+            "اس کے لیے وہ کلرک درکار تھے جو فہرستیں لکھتے، اور وہ کاروبار جو ٹھیکے لیتے تھے۔",
+            "perpetrator وہ شخص ہے جو اُس کام میں شامل تھا جو کیا گیا۔",
+            "bystander وہ شخص ہے جو کھڑا دیکھتا رہا اور اسے ہونے دیا۔",
+            "rescuer وہ شخص ہے جس نے مدد کے لیے کچھ کیا۔",
+            "ان میں سے ہر شخص نے ایک انتخاب کیا۔",
+            "جنگ کے بعد بڑے نازی رہنماؤں پر Nuremberg میں مقدمے چلائے گئے۔",
+            "ایڈولف آئخمان (Adolf Eichmann) بچ نکلا اور 1960 تک ارجنٹینا میں چھپا رہا۔",
+            "اپنے مقدمے میں اس نے کہا کہ وہ صرف حکم مان رہا تھا۔",
+            "مؤرخ پوچھتے ہیں کہ برطانیہ اور امریکہ کو کیا معلوم تھا، اور کب معلوم تھا۔",
+            "ایسے سوالوں کے جواب کے لیے ہمیں sources کو احتیاط سے پڑھنا پڑتا ہے۔",
+            "ہم اس کے content، nature، origin اور purpose کے بارے میں پوچھتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Perpetrators, bystanders and rescuers",

@@ -99,8 +99,162 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           "His cannons frightened the elephants, and Babur won.",
           "Historians see this victory as the moment the Mughal Empire was created.",
           "Babur died in 1530, leaving an empire with very little money."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الأسرة المسلمة التي حكمت جزءًا كبيرًا من الهند من 1526 (Mughal)",
+            "أسرة من الحكّام يتوارثون السلطة من الأب إلى الابن (dynasty)",
+            "ملك مسلم (Sultan)",
+            "مدافع تُستخدم في ميدان القتال في أثناء المعركة (field artillery)",
+            "ما يتركه الحاكم لمن يأتي بعده (legacy)"
+          ],
+          "passage": [
+            "كان المغول (Mughals) أسرةً مسلمة حكمت جزءًا كبيرًا من الهند أكثر من 300 سنة.",
+            "وكان أوّل أباطرتهم بابُر (Babur).",
+            "وقد وُلد بابُر في فرغانة (Fergana)، في ما هو اليوم أوزبكستان.",
+            "وكان أبوه يحكم هناك مملكة صغيرة.",
+            "ولمّا مات أبوه تولّى بابُر الحكم وعزم على توسيع المملكة.",
+            "وفي 1504 فتح كابول في أفغانستان.",
+            "ثم وجّه نظره إلى ثروة الهند.",
+            "وكان شمال الهند يحكمه إبراهيم لودي (Ibrahim Lodi) سلطان دلهي.",
+            "وفي أبريل 1526 التقى الجيشان في بانيبات (Panipat).",
+            "وكان مع بابُر 12,000 رجل في مواجهة نحو 70,000 جندي و1,000 فيل حرب.",
+            "فأفزعت مدافعه الفيلة، وانتصر بابُر.",
+            "ويرى المؤرّخون هذا النصر اللحظة التي أُنشئت فيها الإمبراطورية المغولية.",
+            "ومات بابُر في 1530 وترك إمبراطورية مالها قليل جدًّا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "muzułmańska dynastia, która od 1526 roku rządziła dużą częścią Indii (Mughal)",
+            "rodzina władców, którzy przekazują władzę z rodzica na dziecko (dynasty)",
+            "muzułmański król (Sultan)",
+            "armaty używane na polu bitwy w czasie walki (field artillery)",
+            "to, co władca zostawia tym, którzy przyjdą po nim (legacy)"
+          ],
+          "passage": [
+            "Mogołowie (Mughals) byli muzułmańską dynastią, która rządziła dużą częścią Indii przez ponad 300 lat.",
+            "Ich pierwszym cesarzem był Babur.",
+            "Babur urodził się w Fergana, na terenie dzisiejszego Uzbekistanu.",
+            "Jego ojciec rządził tam małym królestwem.",
+            "Kiedy jego ojciec umarł, Babur przejął władzę i postanowił powiększyć to królestwo.",
+            "W 1504 roku zdobył Kabul w Afganistanie.",
+            "Potem skierował wzrok na bogactwa Indii.",
+            "Północnymi Indiami rządził Ibrahim Lodi, sułtan Delhi.",
+            "W kwietniu 1526 roku obie armie spotkały się pod Panipat.",
+            "Babur miał 12,000 ludzi przeciwko około 70,000 żołnierzy i 1,000 słoni bojowych.",
+            "Jego armaty przestraszyły słonie i Babur wygrał.",
+            "Historycy widzą w tym zwycięstwie chwilę powstania imperium Mogołów.",
+            "Babur umarł w 1530 roku, zostawiając imperium z bardzo małymi pieniędzmi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a dinastia muçulmana que governou grande parte da Índia a partir de 1526 (Mughal, mogol)",
+            "uma família de governantes que passa o poder de pais para filhos (dynasty, dinastia)",
+            "um rei muçulmano (Sultan, sultão)",
+            "canhões usados no campo de batalha durante um combate (field artillery, artilharia de campanha)",
+            "aquilo que um governante deixa para os que vêm depois (legacy, legado)"
+          ],
+          "passage": [
+            "Os mogóis (Mughals) eram uma dinastia muçulmana que governou grande parte da Índia durante mais de 300 anos.",
+            "O seu primeiro imperador foi Babur.",
+            "Babur nasceu em Fergana, no que é hoje o Uzbequistão.",
+            "O pai dele governava lá um pequeno reino.",
+            "Quando o pai morreu, Babur tomou o lugar dele e partiu para o alargar.",
+            "Em 1504 conquistou Cabul (Kabul), no Afeganistão.",
+            "Depois pôs os olhos na riqueza da Índia.",
+            "O norte da Índia era governado por Ibrahim Lodi, o sultão de Delhi (Déli).",
+            "Em abril de 1526 os dois exércitos encontraram-se em Panipat.",
+            "Babur tinha 12 000 homens contra cerca de 70 000 soldados e 1 000 elefantes de guerra.",
+            "Os canhões dele assustaram os elefantes, e Babur venceu.",
+            "Os historiadores veem esta vitória como o momento em que o Império Mogol foi criado.",
+            "Babur morreu em 1530, deixando um império com muito pouco dinheiro."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qoyskii Muslim ee xukumay inta badan Hindiya laga bilaabo 1526-kii",
+            "qoys taliyeyaal ah oo awoodda waalid u gudbiyo ilmo",
+            "boqor Muslim ah",
+            "madaafiic goobta dagaalka lagu isticmaalo intii dagaalku socdo",
+            "waxa taliye uu u tago kuwa ka dambeeya"
+          ],
+          "passage": [
+            "Mughals waxay ahaayeen qoys Muslim ah oo in ka badan 300 sano xukumay inta badan Hindiya.",
+            "Imbaraadoorkoodii ugu horreeyay wuxuu ahaa Babur.",
+            "Babur wuxuu ku dhashay Fergana, oo hadda Uzbekistan tahay.",
+            "Aabbihiis wuxuu halkaas xukumay boqortooyo yar.",
+            "Markii aabbihiis dhintay, Babur wuu la wareegay oo wuxuu bilaabay inuu ballaariyo.",
+            "1504-kii wuxuu qabsaday Kabul, oo Afghanistan ku taal.",
+            "Kadibna indhihiisa wuxuu ku dhuftay hantida Hindiya.",
+            "Waqooyiga Hindiya waxaa xukumayay Ibrahim Lodi, Suldaankii Delhi.",
+            "Abriil 1526-kii labada ciidan waxay ku kulmeen Panipat.",
+            "Babur wuxuu lahaa 12,000 nin oo ka hor imanayay qiyaastii 70,000 askari iyo 1,000 maroodi dagaal.",
+            "Madaafiicdiisu waxay maroodiyada cabsiisay, Babur-na wuu guulaystay.",
+            "Taariikhyahannadu guushan waxay u arkaan daqiiqaddii Boqortooyadii Mughal la abuuray.",
+            "Babur wuxuu dhintay 1530-kii, isagoo ka tegay boqortooyo lacag aad u yar leh."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мусульманська династія, яка правила більшою частиною Індії з 1526 року (Mughal)",
+            "родина правителів, які передають владу від батька до дитини (dynasty)",
+            "мусульманський король (Sultan)",
+            "гармати, які використовують на полі бою під час битви (field artillery)",
+            "те, що правитель залишає тим, хто приходить після нього (legacy)"
+          ],
+          "passage": [
+            "Могули (Mughals) були мусульманською династією, яка правила більшою частиною Індії понад 300 років.",
+            "Їхнім першим імператором був Бабур (Babur).",
+            "Бабур народився у Фергані, на території сучасного Узбекистану.",
+            "Його батько правив там невеликим королівством.",
+            "Коли його батько помер, Бабур перебрав владу і взявся розширювати його.",
+            "У 1504 році він захопив Кабул в Афганістані.",
+            "Потім він накинув оком на багатства Індії.",
+            "Північною Індією правив Ібрагім Лоді, султан Делі.",
+            "У квітні 1526 року два війська зійшлися при Паніпаті (Panipat).",
+            "Бабур мав 12,000 людей проти близько 70,000 вояків і 1,000 бойових слонів.",
+            "Його гармати налякали слонів, і Бабур переміг.",
+            "Історики вважають цю перемогу миттю, коли була створена Могульська імперія.",
+            "Бабур помер у 1530 році, залишивши імперію з дуже малими грошима."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ مسلمان خاندان جس نے 1526 سے ہندوستان کے بڑے حصے پر حکومت کی (Mughal)",
+            "حاکموں کا وہ خاندان جو اقتدار ماں باپ سے اولاد کو دیتا جائے (dynasty)",
+            "ایک مسلمان بادشاہ (Sultan)",
+            "وہ توپیں جو میدانِ جنگ میں لڑائی کے دوران استعمال ہوں (field artillery)",
+            "وہ چیز جو کوئی حاکم اپنے بعد آنے والوں کے لیے چھوڑ جاتا ہے (legacy)"
+          ],
+          "passage": [
+            "مغل ایک مسلمان خاندان تھے جنھوں نے ہندوستان کے بڑے حصے پر 300 سال سے زیادہ حکومت کی۔",
+            "ان کا پہلا شہنشاہ بابر تھا۔",
+            "بابر فرغانہ (Fergana) میں پیدا ہوا، جو اب ازبکستان میں ہے۔",
+            "اس کا باپ وہاں ایک چھوٹی سی بادشاہت کا حاکم تھا۔",
+            "باپ کے مرنے پر بابر نے حکومت سنبھالی اور اسے بڑھانے کے لیے نکل پڑا۔",
+            "1504 میں اس نے افغانستان میں کابل فتح کیا۔",
+            "پھر اس کی نظر ہندوستان کی دولت پر جم گئی۔",
+            "شمالی ہندوستان پر دہلی کے سلطان ابراہیم لودھی (Ibrahim Lodi) کی حکومت تھی۔",
+            "اپریل 1526 میں دونوں فوجیں پانی پت (Panipat) میں آمنے سامنے آئیں۔",
+            "بابر کے پاس 12,000 آدمی تھے، اور مقابل تقریباً 70,000 سپاہی اور 1,000 جنگی ہاتھی تھے۔",
+            "اس کی توپوں نے ہاتھیوں کو ڈرا دیا، اور بابر جیت گیا۔",
+            "مؤرخ اس فتح کو وہ لمحہ سمجھتے ہیں جب مغلیہ سلطنت قائم ہوئی۔",
+            "بابر 1530 میں مر گیا، اور ایک ایسی سلطنت چھوڑ گیا جس کے پاس پیسہ بہت کم تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who were the Mughals?",
@@ -304,8 +458,156 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           "His sons then fought over who should rule next.",
           "Aurangzeb won and ruled for 50 years, making the Empire its largest ever.",
           "But he was intolerant of other religions, and the decline began after he died in 1707."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المدّة التي يكون فيها الحاكم في السلطة (reign)",
+            "أن تُرغَم على مغادرة بلدك (exile)",
+            "الأنظمة التي تُدير الإمبراطورية، كجمع الضرائب (administration)",
+            "أن تقبل الناس الذين يختلف دينهم عن دينك (tolerance)",
+            "مَن يصير الحاكم القادم (succession)"
+          ],
+          "passage": [
+            "حكم الإمبراطورية المغولية ستّة أباطرة بين 1526 و1707.",
+            "فبابُر أسّس الإمبراطورية ولكنه تركها فقيرة.",
+            "وابنه همايون (Humayun) كان ضعيفًا، فخسر عرشه في 1540 ثم استعاده في 1555.",
+            "وحكم ابن همايون، أكبر (Akbar)، 49 سنة.",
+            "فبنى أكبر نظامًا للضرائب، ورحّب بكلّ الأديان، وأغنى الإمبراطورية.",
+            "وسمّاه الناس أكبر العظيم.",
+            "وابنه جهانكير (Jahangir) أحبّ الفنّ ولكنه عانى الخمر والمخدّرات.",
+            "وكانت زوجة جهانكير، نور جهان (Nur Jahan)، قائدةً موهوبة سدّت نقائصه.",
+            "وبلغ شاه جهان (Shah Jahan) بالإمبراطورية قمّة قوّتها وبنى تاج محل (Taj Mahal).",
+            "ثم تقاتل أبناؤه على مَن يحكم بعده.",
+            "وانتصر أورنكزيب (Aurangzeb) وحكم 50 سنة، فجعل الإمبراطورية أكبر ما كانت.",
+            "ولكنه لم يتسامح مع الأديان الأخرى، وبدأ الانحدار بعد موته في 1707."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "czas, w którym władca sprawuje władzę (reign)",
+            "przymusowe opuszczenie własnego kraju (exile)",
+            "systemy, które prowadzą imperium, na przykład pobieranie podatków (administration)",
+            "przyjmowanie ludzi, których religia jest inna niż twoja (tolerance)",
+            "to, kto zostanie następnym władcą (succession)"
+          ],
+          "passage": [
+            "Sześciu cesarzy rządziło imperium Mogołów między 1526 i 1707 rokiem.",
+            "Babur założył imperium, ale zostawił je biedne.",
+            "Jego syn Humayun (Humajun) był słaby, stracił tron w 1540 roku i odzyskał go w 1555 roku.",
+            "Syn Humayuna, Akbar, rządził 49 lat.",
+            "Akbar zbudował system podatkowy, przyjmował wszystkie religie i uczynił imperium bogatym.",
+            "Ludzie nazywali go Akbarem Wielkim.",
+            "Jego syn Jahangir (Dżahangir) kochał sztukę, ale zmagał się z alkoholem i narkotykami.",
+            "Żona Jahangira, Nur Jahan (Nur Dżahan), była zdolną przywódczynią i nadrabiała jego słabości.",
+            "Shah Jahan (Szahdżahan) doprowadził imperium do szczytu potęgi i zbudował Tadż Mahal.",
+            "Potem jego synowie walczyli o to, kto ma rządzić po nim.",
+            "Aurangzeb wygrał i rządził 50 lat, czyniąc imperium największym w jego historii.",
+            "Ale nie znosił innych religii, a po jego śmierci w 1707 roku zaczął się upadek."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o tempo em que um governante está no poder (reign, reinado)",
+            "ser obrigado a deixar o próprio país (exile, exílio)",
+            "os sistemas que fazem funcionar um império, como a cobrança de impostos (administration, administração)",
+            "aceitar pessoas cuja religião é diferente da tua (tolerance, tolerância)",
+            "quem se torna governante a seguir (succession, sucessão)"
+          ],
+          "passage": [
+            "Seis imperadores governaram o Império Mogol entre 1526 e 1707.",
+            "Babur fundou o Império, mas deixou-o pobre.",
+            "O seu filho Humayun era fraco, perdeu o trono em 1540 e recuperou-o em 1555.",
+            "Akbar, filho de Humayun, governou durante 49 anos.",
+            "Akbar criou um sistema de impostos, acolheu todas as religiões e tornou o Império rico.",
+            "As pessoas chamavam-lhe Akbar o Grande.",
+            "O seu filho Jahangir adorava arte, mas tinha problemas com o álcool e as drogas.",
+            "A mulher de Jahangir, Nur Jahan, era uma líder talentosa que compensava os defeitos dele.",
+            "Shah Jahan levou o Império ao auge do seu poder e construiu o Taj Mahal.",
+            "Depois os filhos dele lutaram por quem devia governar a seguir.",
+            "Aurangzeb venceu e governou durante 50 anos, tornando o Império o maior de sempre.",
+            "Mas era intolerante com outras religiões, e o declínio começou depois de ele morrer, em 1707."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "muddada taliye awoodda ku jiro",
+            "in lagu qasbo inaad dalkaaga ka baxdo",
+            "nidaamyada boqortooyada wada, sida ururinta canshuuraha",
+            "inaad aqbasho dadka diintoodu ka duwan tahay taada",
+            "cidda taliyaha xigta noqonaysa"
+          ],
+          "passage": [
+            "Lix imbaraadoor ayaa Boqortooyadii Mughal xukumay intii u dhexeysay 1526-kii iyo 1707-dii.",
+            "Babur wuxuu Boqortooyada aasaasay laakiin faqiir ayuu kaga tegay.",
+            "Wiilkiisa Humayun wuu tabar yaraa, carshigiisa wuu lumiyay 1540-kii, wuuna dib u helay 1555-kii.",
+            "Wiilka Humayun, Akbar, wuxuu xukumay 49 sano.",
+            "Akbar wuxuu dhisay nidaam canshuur, diimo kasta wuu soo dhoweeyay oo Boqortooyada wuu hodmiyay.",
+            "Dadku waxay ugu yeereen Akbar the Great.",
+            "Wiilkiisa Jahangir wuxuu jeclaa farshaxanka laakiin khamrada iyo maandooriyaha ayay dhibeen.",
+            "Xaaska Jahangir, Nur Jahan, waxay ahayd hoggaamiye karti leh oo cillad kastiisa beddeshay.",
+            "Shah Jahan wuxuu Boqortooyada gaarsiiyay awooddeeda ugu sarraysay oo wuxuu dhisay Taj Mahal.",
+            "Wiilashiisa kadibna waxay ku dagaallameen cidda xigta xukunta.",
+            "Aurangzeb wuu guulaystay oo wuxuu xukumay 50 sano, Boqortooyadana wuxuu ka dhigay tii ugu weynayd abid.",
+            "Laakiin diimaha kale dulqaad kuma lahayn, sii daciifiddiina waxay bilaabatay markii uu dhintay 1707-dii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "час, коли правитель має владу (reign)",
+            "коли людину змушують покинути власну країну (exile)",
+            "системи, які керують імперією, як-от збирання податків (administration)",
+            "прийняття людей, чия релігія інакша за вашу (tolerance)",
+            "те, хто стає правителем наступним (succession)"
+          ],
+          "passage": [
+            "Шість імператорів правили Могульською імперією між 1526 і 1707 роками.",
+            "Бабур заснував імперію, але залишив її бідною.",
+            "Його син Хумаюн був слабким, втратив трон у 1540 році і відвоював його у 1555 році.",
+            "Син Хумаюна Акбар (Akbar) правив 49 років.",
+            "Акбар побудував податкову систему, приймав усі релігії і зробив імперію багатою.",
+            "Люди називали його Акбаром Великим.",
+            "Його син Джагангір любив мистецтво, але боровся з алкоголем і наркотиками.",
+            "Дружина Джагангіра, Нур Джахан, була талановитою провідницею, яка надолужувала його хиби.",
+            "Шах-Джахан (Shah Jahan) підніс імперію на вершину її могутності і побудував Тадж-Махал.",
+            "Потім його сини воювали за те, хто має правити наступним.",
+            "Аурангзеб (Aurangzeb) переміг і правив 50 років, зробивши імперію найбільшою за всю її історію.",
+            "Але він був нетерпимий до інших релігій, і після його смерті у 1707 році почався занепад."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ عرصہ جس میں کوئی حاکم اقتدار میں رہے (reign)",
+            "اپنا ملک چھوڑنے پر مجبور کر دیا جانا (exile)",
+            "وہ نظام جن سے سلطنت چلتی ہے، جیسے ٹیکس جمع کرنا (administration)",
+            "ایسے لوگوں کو قبول کرنا جن کا مذہب آپ سے مختلف ہو (tolerance)",
+            "اگلا حاکم کون بنے گا (succession)"
+          ],
+          "passage": [
+            "1526 اور 1707 کے درمیان مغلیہ سلطنت پر چھ شہنشاہوں نے حکومت کی۔",
+            "بابر نے سلطنت کی بنیاد رکھی مگر اسے غریب چھوڑ گیا۔",
+            "اس کا بیٹا ہمایوں کمزور تھا، 1540 میں تخت کھو بیٹھا، اور 1555 میں دوبارہ حاصل کر لیا۔",
+            "ہمایوں کے بیٹے اکبر نے 49 سال حکومت کی۔",
+            "اکبر نے ٹیکس کا نظام بنایا، سب مذہبوں کو خوش آمدید کہا اور سلطنت کو امیر بنا دیا۔",
+            "لوگ اسے اکبر اعظم کہتے تھے۔",
+            "اس کے بیٹے جہانگیر کو فن سے محبت تھی، مگر وہ شراب اور نشے سے لڑتا رہا۔",
+            "جہانگیر کی بیوی نور جہاں ایک باصلاحیت رہنما تھیں، جنھوں نے اس کی کمیوں کو پورا کیا۔",
+            "شاہ جہاں سلطنت کو اس کی طاقت کی بلندی تک لے گیا اور تاج محل بنوایا۔",
+            "پھر اس کے بیٹے اس بات پر لڑ پڑے کہ اگلا حاکم کون ہو۔",
+            "اورنگزیب جیتا اور 50 سال حکومت کی، اور سلطنت کو اپنے سب سے بڑے پھیلاؤ تک پہنچایا۔",
+            "مگر وہ دوسرے مذہبوں کے بارے میں تنگ دل تھا، اور 1707 میں اس کی موت کے بعد زوال شروع ہو گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Humayun: a throne lost and won back",
@@ -514,8 +816,168 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           "Many books were translated into Persian so more people could read them.",
           "A new language, Urdu, was born in the Empire and is still spoken today.",
           "Even the game of Ludo comes from Pachisi, a Mughal favourite."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "فنّ شعب من الشعوب وموسيقاه وأبنيته ولغته وطرق حياته (culture)",
+            "فنّ التصميم والبناء (architecture)",
+            "لوحة صغيرة دقيقة تتّسع داخل كتاب (miniature)",
+            "صورة ترمز إلى فكرة (symbol)",
+            "كتاب أكبر، وهو تاريخ حكمه كُتب في بلاطه (Akbarnama)",
+            "لغة نشأت في الإمبراطورية المغولية (Urdu)"
+          ],
+          "passage": [
+            "الثقافة تعني أبنية شعب من الشعوب وفنّه وموسيقاه ولغته وطرق حياته.",
+            "والمغول أشهر ما يُعرفون به فنّ البناء.",
+            "فقد بنى الأباطرة القصور والأضرحة والحصون والبوّابات العظيمة في الإمبراطورية كلّها.",
+            "وأشهرها تاج محل، وقد بُني لشاه جهان في آغرا (Agra).",
+            "والأبنية المغولية تمزج الطُرز الفارسية والتركية والهندية.",
+            "واللوحات المغولية تُسمّى المنمنمات (miniatures) لأنها كانت صغيرة تتّسع في كتاب.",
+            "وكان الرسّامون يضعون للأباطرة هالةً ليُظهروا قربهم من الله.",
+            "وأحبّ أكبر الموسيقى، وكان في بلاطه 36 موسيقيًّا.",
+            "وهناك امتزجت الموسيقى الهندوسية والمسلمة وصارت واحدة.",
+            "وكتب مؤرّخ بلاط أكبر كتاب أكبرنامه (Akbarnama)، أي كتاب أكبر، في ثلاثة مجلّدات.",
+            "وتُرجمت كتب كثيرة إلى الفارسية حتى يستطيع ناس أكثر أن يقرؤوها.",
+            "ووُلدت في الإمبراطورية لغة جديدة هي الأردية، ولا تزال تُنطق اليوم.",
+            "وحتى لعبة لودو (Ludo) جاءت من باتشيسي (Pachisi)، وكانت محبوبة عند المغول."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sztuka, muzyka, budynki, język i sposoby życia danego ludu (culture)",
+            "sztuka projektowania i budowania (architecture)",
+            "mały, dokładny obraz, który mógł zmieścić się w książce (miniature)",
+            "obrazek, który oznacza jakąś myśl (symbol)",
+            "Księga Akbara, historia jego panowania napisana na jego dworze (Akbarnama)",
+            "język, który narodził się w imperium Mogołów (Urdu)"
+          ],
+          "passage": [
+            "Kultura to budynki, sztuka, muzyka, język i sposoby życia danego ludu.",
+            "Mogołowie są najlepiej znani ze swojej architektury.",
+            "Cesarze budowali w całym imperium pałace, grobowce, twierdze i wielkie bramy.",
+            "Najsłynniejszy jest Tadż Mahal, zbudowany dla Shah Jahana w Agrze.",
+            "Budynki Mogołów łączą styl perski, turecki i indyjski.",
+            "Obrazy Mogołów nazywamy miniaturami, bo były dość małe, żeby zmieścić się w książce.",
+            "Malarze dawali cesarzom aureolę, żeby pokazać, że byli blisko Boga.",
+            "Akbar kochał muzykę i trzymał na swoim dworze 36 muzyków.",
+            "Tam muzyka hinduska i muzułmańska mieszała się i stawała jednym.",
+            "Dworski historyk Akbara napisał Akbarnamę, czyli Księgę Akbara, w trzech tomach.",
+            "Wiele książek przetłumaczono na perski, żeby więcej ludzi mogło je czytać.",
+            "W imperium narodził się nowy język, urdu, którym mówi się do dziś.",
+            "Nawet gra Ludo pochodzi od Pachisi, ulubionej gry Mogołów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a arte, a música, os edifícios, a língua e os modos de vida de um povo (culture, cultura)",
+            "a arte de desenhar e construir edifícios (architecture, arquitetura)",
+            "uma pintura pequena e cheia de detalhes, que cabia dentro de um livro (miniature, miniatura)",
+            "uma imagem que representa uma ideia (symbol, símbolo)",
+            "o Livro de Akbar, uma história do seu reinado escrita na sua corte (Akbarnama)",
+            "uma língua que nasceu no Império Mogol (Urdu, urdu)"
+          ],
+          "passage": [
+            "Cultura quer dizer os edifícios, a arte, a música, a língua e os modos de vida de um povo.",
+            "Os mogóis são mais conhecidos pela sua arquitetura.",
+            "Os imperadores construíram palácios, túmulos, fortes e grandes portões por todo o Império.",
+            "O mais famoso é o Taj Mahal, construído para Shah Jahan em Agra.",
+            "Os edifícios mogóis juntam estilos persas, turcos e indianos.",
+            "As pinturas mogóis chamam-se miniaturas porque eram pequenas o suficiente para caber num livro.",
+            "Os pintores davam aos imperadores um halo, para mostrar que eles estavam próximos de Deus.",
+            "Akbar adorava música e tinha 36 músicos na sua corte.",
+            "Ali, a música hindu e a música muçulmana misturaram-se e tornaram-se uma só.",
+            "O historiador da corte de Akbar escreveu o Akbarnama, o Livro de Akbar, em três volumes.",
+            "Muitos livros foram traduzidos para persa, para mais pessoas os poderem ler.",
+            "Uma língua nova, o urdu, nasceu no Império e ainda hoje se fala.",
+            "Até o jogo do Ludo vem do Pachisi, um jogo preferido dos mogóis."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "farshaxanka, muusikada, dhismayaasha, luqadda iyo habnololeedka dad",
+            "farshaxanka naqshadeynta iyo dhisidda",
+            "sawir yar oo faahfaahsan oo buug ku dhex qaadan karo",
+            "sawir u taagan fikrad",
+            "Buugga Akbar, oo ah taariikhda xukunkiisa oo maxkamaddiisa lagu qoray",
+            "luqad ka kortay Boqortooyadii Mughal"
+          ],
+          "passage": [
+            "Dhaqan macnaheedu waa dhismayaasha, farshaxanka, muusikada, luqadda iyo habnololeedka dad.",
+            "Mughals-ka waxaa ugu caansan architecture-kooda.",
+            "Imbaraadoorradu waxay dhiseen daaro, xabaalo, qalcado iyo albaabbo waaweyn Boqortooyada oo dhan.",
+            "Kii ugu caansan waa Taj Mahal, oo loo dhisay Shah Jahan ee Agra.",
+            "Dhismayaasha Mughal waxay isku daraan qaababka Faaris, Turki iyo Hindiya.",
+            "Sawirrada Mughal waxaa loo yiraahdaa miniatures maxaa yeelay way yaryaraayeen oo buug ku dhex qaadan karayeen.",
+            "Sawir-sameeyayaashu imbaraadoorrada waxay siiyeen iftiin madax ku wareegsan si ay u muujiyaan inay Ilaah u dhow yihiin.",
+            "Akbar wuxuu jeclaa muusikada oo 36 fannaan ayuu maxkamaddiisa ku hayay.",
+            "Halkaas, muusikada Hinduu iyo Muslim way isku dhex galeen oo mid bay noqdeen.",
+            "Taariikhyahankii maxkamadda Akbar wuxuu Akbarnama, oo ah Buugga Akbar, saddex mug ku qoray.",
+            "Buugag badan waxaa loo turjumay Faaris si dad badan u akhriyaan.",
+            "Luqad cusub, Urdu, ayaa Boqortooyada ku dhalatay, maantana weli waa lagu hadlaa.",
+            "Xataa ciyaarta Ludo waxay ka timid Pachisi, oo Mughals aad u jeclaayeen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мистецтво, музика, будівлі, мова і спосіб життя народу (culture)",
+            "мистецтво проєктувати і будувати (architecture)",
+            "маленька докладна картина, яка могла вміститися в книзі (miniature)",
+            "малюнок, який позначає якусь ідею (symbol)",
+            "Книга Акбара, історія його правління, написана при його дворі (Akbarnama)",
+            "мова, яка виросла в Могульській імперії (Urdu)"
+          ],
+          "passage": [
+            "Культура означає будівлі, мистецтво, музику, мову і спосіб життя народу.",
+            "Могули найбільше відомі своєю архітектурою.",
+            "Імператори будували палаци, усипальниці, твердині й великі брами по всій імперії.",
+            "Найвідоміша — Тадж-Махал (Taj Mahal), побудований для Шах-Джахана в Агрі.",
+            "Могульські будівлі поєднують персійський, турецький та індійський стилі.",
+            "Могульські картини називають мініатюрами, бо вони були досить малі, щоб уміститися в книзі.",
+            "Художники малювали імператорам сяйво навколо голови, щоб показати, що вони близькі до Бога.",
+            "Акбар любив музику і тримав при своєму дворі 36 музикантів.",
+            "Там гіндуська і мусульманська музика змішувалися і ставали однією.",
+            "Придворний історик Акбара написав Акбарнаму, Книгу Акбара, у трьох томах.",
+            "Багато книг перекладали персійською, щоб більше людей могло їх прочитати.",
+            "В імперії народилася нова мова, урду, і нею говорять досі.",
+            "Навіть гра Ludo походить від Пачісі, улюбленої гри Могулів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی قوم کا فن، موسیقی، عمارتیں، زبان اور طرزِ زندگی (culture)",
+            "عمارتوں کے نقشے بنانے اور تعمیر کرنے کا فن (architecture)",
+            "ایک چھوٹی، باریک تفصیل والی تصویر جو کتاب کے اندر سما جائے (miniature)",
+            "وہ تصویر جو کسی خیال کی نمائندگی کرے (symbol)",
+            "اکبرنامہ، یعنی اکبر کی کتاب، جو اس کے دربار میں اس کے دور کی تاریخ کے طور پر لکھی گئی (Akbarnama)",
+            "وہ زبان جو مغلیہ سلطنت میں پروان چڑھی (Urdu)"
+          ],
+          "passage": [
+            "culture کا مطلب کسی قوم کی عمارتیں، فن، موسیقی، زبان اور طرزِ زندگی ہے۔",
+            "مغل اپنی architecture کے لیے سب سے زیادہ جانے جاتے ہیں۔",
+            "شہنشاہوں نے ساری سلطنت میں محل، مقبرے، قلعے اور بڑے دروازے بنوائے۔",
+            "سب سے مشہور تاج محل ہے، جو آگرہ میں شاہ جہاں کے لیے بنایا گیا۔",
+            "مغل عمارتوں میں فارسی، ترکی اور ہندوستانی اندازوں کا امتزاج ہے۔",
+            "مغل تصویروں کو miniatures کہا جاتا ہے، کیونکہ وہ اتنی چھوٹی تھیں کہ کتاب میں سما جاتیں۔",
+            "مصور شہنشاہوں کے گرد نور کا ہالہ بناتے تھے، تاکہ دکھائیں کہ وہ خدا کے قریب ہیں۔",
+            "اکبر کو موسیقی سے محبت تھی اور اس کے دربار میں 36 موسیقار رہتے تھے۔",
+            "وہاں ہندو اور مسلمان موسیقی گھل مل کر ایک ہو گئی۔",
+            "اکبر کے درباری مؤرخ نے اکبرنامہ تین جلدوں میں لکھا۔",
+            "بہت سی کتابیں فارسی میں ترجمہ کی گئیں تاکہ زیادہ لوگ انھیں پڑھ سکیں۔",
+            "ایک نئی زبان، اردو، اسی سلطنت میں جنم لے کر آج بھی بولی جاتی ہے۔",
+            "لوڈو کا کھیل بھی پچیسی (Pachisi) سے آیا ہے، جو مغلوں کا پسندیدہ کھیل تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is culture, and why study it?",
@@ -728,8 +1190,168 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           "The fourth factor is long-term impact.",
           "Mughal buildings, music and the Urdu language are all still alive in India today.",
           "Together, these factors explain why the Empire is remembered as great."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تُحقّق ما عزمت عليه (success)",
+            "أن تكبر بأخذ أرض أكثر (expansion)",
+            "الخطط الذكية التي يستخدمها القائد في المعركة (tactics)",
+            "نوع قديم من البنادق يُرمى به من الكتف (musket)",
+            "الجواهر التسع، وهم مجموعة مستشاري أكبر الموهوبين (Navratnas)",
+            "لماذا يهمّ الشيء، في زمنه واليوم (significance)"
+          ],
+          "passage": [
+            "لتحكم على إمبراطورية عليك أوّلًا أن تحدّد ما معنى النجاح.",
+            "ودرسك يعطي أربعة عوامل جعلت الإمبراطورية المغولية عظيمة.",
+            "فالأوّل النجاح العسكري والتوسّع.",
+            "فالجيوش المغولية استخدمت الخطط الذكية والبنادق والمدافع وفيلة الحرب.",
+            "وكبرت الإمبراطورية حتى غطّت معظم الهند وحكمت أكثر من 145 مليون نسمة.",
+            "والعامل الثاني الحكّام الناجحون والحكم الجيّد.",
+            "فقد بنى أكبر نظامًا للضرائب، وساعده تسعة مستشارين يُسمّون النافراتنا (Navratnas).",
+            "والعامل الثالث الدين.",
+            "فقد رحّب أكبر بكلّ الأديان وأعطى الهندوس وظائف مهمّة في الحكم.",
+            "وهذا جلب مدّة طويلة من السلام.",
+            "والعامل الرابع الأثر طويل الأجل.",
+            "فأبنية المغول وموسيقاهم واللغة الأردية كلّها لا تزال حيّة في الهند اليوم.",
+            "وهذه العوامل مجتمعةً تشرح لماذا تُذكر الإمبراطورية بالعظمة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "osiągnięcie tego, co sobie zamierzyłeś (success)",
+            "powiększanie się przez zabieranie kolejnych ziem (expansion)",
+            "sprytne plany, których dowódca używa w bitwie (tactics)",
+            "wczesny rodzaj broni palnej, przykładanej do ramienia (musket)",
+            "dziewięć klejnotów, czyli grupa zdolnych doradców Akbara (Navratnas)",
+            "dlaczego coś jest ważne, wtedy i dziś (significance)"
+          ],
+          "passage": [
+            "Żeby ocenić imperium, musisz najpierw zdecydować, co znaczy sukces.",
+            "Twoja lekcja podaje cztery czynniki, które uczyniły imperium Mogołów wielkim.",
+            "Pierwszy to sukcesy wojskowe i powiększanie się.",
+            "Armie Mogołów używały sprytnych taktyk, muszkietów, armat i słoni bojowych.",
+            "Imperium rozrosło się na większość Indii i rządziło ponad 145 milionami ludzi.",
+            "Drugi czynnik to udani władcy i dobre rządy.",
+            "Akbar zbudował system podatkowy, a pomagało mu dziewięciu doradców zwanych Navratnas.",
+            "Trzeci czynnik to religia.",
+            "Akbar przyjmował wszystkie religie i dawał hinduistom ważne stanowiska w rządzie.",
+            "To przyniosło długi okres pokoju.",
+            "Czwarty czynnik to długotrwały wpływ.",
+            "Budynki Mogołów, ich muzyka i język urdu wciąż żyją dziś w Indiach.",
+            "Razem te czynniki wyjaśniają, dlaczego imperium pamięta się jako wielkie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "conseguir aquilo que te propuseste fazer (success, sucesso)",
+            "crescer, ficando maior ao tomar mais terras (expansion, expansão)",
+            "os planos inteligentes que um general usa na batalha (tactics, táticas)",
+            "um tipo antigo de arma de fogo, disparada do ombro (musket, mosquete)",
+            "as nove joias, o grupo de conselheiros talentosos de Akbar (Navratnas)",
+            "porque é que uma coisa é importante, na época e hoje (significance, significado)"
+          ],
+          "passage": [
+            "Para julgar um império, primeiro tens de decidir o que quer dizer sucesso.",
+            "A tua aula dá quatro fatores que tornaram grande o Império Mogol.",
+            "O primeiro é o sucesso militar e a expansão.",
+            "Os exércitos mogóis usavam táticas inteligentes, mosquetes, canhões e elefantes de guerra.",
+            "O Império cresceu até cobrir quase toda a Índia e governava mais de 145 milhões de pessoas.",
+            "O segundo fator são governantes bem-sucedidos e um bom governo.",
+            "Akbar criou um sistema de impostos e era ajudado por nove conselheiros chamados os Navratnas.",
+            "O terceiro fator é a religião.",
+            "Akbar acolheu todas as religiões e deu aos hindus cargos importantes no governo.",
+            "Isto trouxe um longo período de paz.",
+            "O quarto fator é o impacto de longo prazo.",
+            "Os edifícios mogóis, a música e a língua urdu estão todos vivos na Índia de hoje.",
+            "Juntos, estes fatores explicam porque é que o Império é recordado como grande."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad gaarto waxa aad u dhaqaaqday",
+            "inaad weynaato adigoo dhul badan qabsato",
+            "qorshayaasha xariifnimada ee jeneraal dagaalka ku isticmaalo",
+            "nooc hore oo qori ah oo garabka laga rido",
+            "sagaalka jowhar, oo ahaa kooxda la-taliyayaasha karti leh ee Akbar",
+            "sababta wax muhiim u yahay, markaas iyo hadda"
+          ],
+          "passage": [
+            "Si aad boqortooyo u qiimeyso, waxaa marka hore laga rabaa inaad go'aansato waxa guushu tahay.",
+            "Casharkaagu wuxuu bixinayaa afar arrin oo Boqortooyadii Mughal weyn ka dhigay.",
+            "Tan koowaad waa guulaha milatari iyo ballaarinta.",
+            "Ciidamada Mughal waxay isticmaaleen xeelado xariif ah, muskets, madaafiic iyo maroodiyo dagaal.",
+            "Boqortooyadu waxay u kortay ilaa inta badan Hindiya oo waxay xukuntay in ka badan 145 milyan oo qof.",
+            "Arrinta labaad waa taliyeyaal guulaysta iyo dowlad wanaagsan.",
+            "Akbar wuxuu dhisay nidaam canshuur, waxaana caawiyay sagaal la-taliye oo la yiraahdo Navratnas.",
+            "Arrinta saddexaad waa diinta.",
+            "Akbar wuxuu diimo kasta soo dhoweeyay oo Hinduuyada wuxuu siiyay shaqooyin muhiim ah oo dowladda.",
+            "Tan waxay keentay muddo dheer oo nabad.",
+            "Arrinta afraad waa saameynta muddada dheer.",
+            "Dhismayaasha, muusikada iyo luqadda Urdu ee Mughal dhammaantood weli way nool yihiin Hindiya maanta.",
+            "Marka la isku geeyo, arrimahan waxay sharraxayaan sababta Boqortooyada loogu xasuusto mid weyn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "досягнення того, що ви задумали (success)",
+            "зростання до більшого через захоплення нових земель (expansion)",
+            "розумні плани, які полководець використовує в битві (tactics)",
+            "рання рушниця, з якої стріляли з плеча (musket)",
+            "дев’ять самоцвітів, група талановитих радників Акбара (Navratnas)",
+            "те, чому щось важливе — тоді й тепер (significance)"
+          ],
+          "passage": [
+            "Щоб оцінити імперію, спершу треба вирішити, що означає успіх.",
+            "Ваш урок подає чотири чинники, які зробили Могульську імперію великою.",
+            "Перший — військові успіхи і розширення.",
+            "Могульські війська використовували розумну тактику, мушкети, гармати і бойових слонів.",
+            "Імперія розрослася так, що покривала більшу частину Індії і правила понад 145 мільйонами людей.",
+            "Другий чинник — успішні правителі і добре врядування.",
+            "Акбар побудував податкову систему, і йому допомагали дев’ять радників, яких називали Навратнами.",
+            "Третій чинник — релігія.",
+            "Акбар приймав усі релігії і давав гіндусам важливі посади в уряді.",
+            "Це принесло довгий період миру.",
+            "Четвертий чинник — довготривалий вплив.",
+            "Могульські будівлі, музика і мова урду — усе це живе в Індії й сьогодні.",
+            "Разом ці чинники пояснюють, чому імперію пам’ятають як велику."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جو کرنے کا ارادہ تھا اسے پا لینا (success)",
+            "مزید زمین لے کر بڑا ہوتے جانا (expansion)",
+            "وہ ہوشیار منصوبے جو کوئی سپہ سالار جنگ میں استعمال کرتا ہے (tactics)",
+            "بندوق کی ایک پرانی قسم جو کندھے سے چلائی جاتی تھی (musket)",
+            "نورتن، یعنی اکبر کے نو باصلاحیت مشیروں کا گروہ (Navratnas)",
+            "کوئی چیز اُس وقت اور اب کیوں اہم ہے (significance)"
+          ],
+          "passage": [
+            "کسی سلطنت کو جانچنے کے لیے پہلے یہ طے کرنا پڑتا ہے کہ کامیابی کا مطلب کیا ہے۔",
+            "آپ کا سبق چار عوامل بتاتا ہے جنھوں نے مغلیہ سلطنت کو عظیم بنایا۔",
+            "پہلا فوجی کامیابی اور پھیلاؤ ہے۔",
+            "مغل فوجیں ہوشیار tactics، muskets، توپیں اور جنگی ہاتھی استعمال کرتی تھیں۔",
+            "سلطنت بڑھ کر ہندوستان کے بڑے حصے پر پھیل گئی اور 14 کروڑ 50 لاکھ لوگوں پر حکومت کرنے لگی۔",
+            "دوسرا عامل کامیاب حاکم اور اچھی حکومت ہے۔",
+            "اکبر نے ٹیکس کا نظام بنایا، اور نورتن کہلانے والے نو مشیروں نے اس کی مدد کی۔",
+            "تیسرا عامل مذہب ہے۔",
+            "اکبر نے سب مذہبوں کو خوش آمدید کہا اور ہندوؤں کو حکومت میں اہم عہدے دیے۔",
+            "اس سے امن کا ایک لمبا دور آیا۔",
+            "چوتھا عامل دیرپا اثر ہے۔",
+            "مغل عمارتیں، موسیقی اور اردو زبان، سب آج بھی ہندوستان میں زندہ ہیں۔",
+            "یہ عوامل مل کر بتاتے ہیں کہ اس سلطنت کو عظیم کیوں یاد کیا جاتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What do we mean by success?",
@@ -929,8 +1551,174 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           "The Mughals bought telescopes from Europe instead of inventing their own.",
           "Their weapons grew old-fashioned, and they never built a strong navy.",
           "By 1707, when Aurangzeb died, the Empire was too big and too divided to hold together."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن يضعف شيئًا فشيئًا مع الزمن (decline)",
+            "رفض قبول الأديان الأخرى أو طرق الحياة الأخرى (intolerance)",
+            "مزارع فقير يعمل في الأرض (peasant)",
+            "الهضبة الكبيرة في جنوب الهند (Deccan)",
+            "أن تُسيء معاملة الناس بسبب دينهم (persecute)",
+            "سفن البلد الحربية والبحّارة الذين يعملون فيها (navy)"
+          ],
+          "passage": [
+            "لمّا مرض شاه جهان خاض أبناؤه حربًا على الخلافة.",
+            "وكان شاه جهان يريد أن يحكم ابنه دارا (Dara)، ولكنّ أورنكزيب هزمه.",
+            "وحكم أورنكزيب 50 سنة وجعل الإمبراطورية أكبر ممّا كانت أبدًا.",
+            "ولكنّ المؤرّخين يقولون إنّ حكمه غرس بذور الانحدار.",
+            "ودرسك يعطي ثلاثة عوامل خلف هذا الانحدار.",
+            "فالأوّل التعصّب الديني.",
+            "فقد منع أورنكزيب عيد ديوالي (Diwali)، وهدم أكثر من 80 معبدًا، وفرض على غير المسلمين ضرائب أثقل.",
+            "والثاني ضعف القيادة.",
+            "فكان على الفلّاحين أن يدفعوا نصف دخلهم ضريبةً، فثار كثير منهم.",
+            "وأمضى أورنكزيب 26 سنة وأموالًا هائلة في القتال في الدكن.",
+            "والثالث نقص التقنية الجديدة.",
+            "فقد اشترى المغول المقاريب من أوروبا بدلًا من أن يخترعوها.",
+            "وصارت أسلحتهم عتيقة، ولم يبنوا أسطولًا بحريًّا قويًّا أبدًا.",
+            "وبحلول 1707، حين مات أورنكزيب، كانت الإمبراطورية أكبر وأكثر انقسامًا من أن تبقى متماسكة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "słabnięcie z upływem czasu (decline)",
+            "odmowa przyjęcia innych religii albo sposobów życia (intolerance)",
+            "biedny rolnik, który pracuje na ziemi (peasant)",
+            "wielki płaskowyż południowych Indii (Deccan)",
+            "źle traktować ludzi z powodu ich religii (persecute)",
+            "okręty wojenne kraju i marynarze, którzy na nich służą (navy)"
+          ],
+          "passage": [
+            "Kiedy Shah Jahan zachorował, jego synowie prowadzili wojnę o następstwo tronu.",
+            "Shah Jahan chciał, żeby rządził jego syn Dara, ale Aurangzeb go pobił.",
+            "Aurangzeb rządził 50 lat i uczynił imperium większym niż kiedykolwiek.",
+            "Ale historycy mówią, że jego panowanie zasiało nasiona upadku.",
+            "Twoja lekcja podaje trzy czynniki stojące za tym upadkiem.",
+            "Pierwszy to nietolerancja religijna.",
+            "Aurangzeb zakazał Diwali, zniszczył ponad 80 świątyń i obłożył niemuzułmanów wyższymi podatkami.",
+            "Drugi to słabe przywództwo.",
+            "Chłopi musieli oddawać połowę dochodu w podatku i wielu się buntowało.",
+            "Aurangzeb spędził 26 lat i ogromne sumy na walkach w Dekanie.",
+            "Trzeci to brak nowej techniki.",
+            "Mogołowie kupowali teleskopy z Europy, zamiast wymyślać własne.",
+            "Ich broń stawała się przestarzała i nigdy nie zbudowali silnej flotty wojennej.",
+            "Do 1707 roku, kiedy Aurangzeb umarł, imperium było za duże i za podzielone, żeby trzymać się razem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ficar mais fraco com o tempo (decline, declínio)",
+            "recusar aceitar outras religiões ou outros modos de vida (intolerance, intolerância)",
+            "um agricultor pobre que trabalha a terra (peasant, camponês)",
+            "o grande planalto do sul da Índia (Deccan, Decão)",
+            "tratar mal as pessoas por causa da sua religião (persecute, perseguir)",
+            "os navios de guerra de um país e os marinheiros que os tripulam (navy, marinha)"
+          ],
+          "passage": [
+            "Quando Shah Jahan ficou doente, os seus filhos travaram uma guerra pela sucessão.",
+            "Shah Jahan queria que o seu filho Dara governasse, mas Aurangzeb derrotou-o.",
+            "Aurangzeb governou durante 50 anos e tornou o Império maior do que nunca.",
+            "Mas os historiadores dizem que o reinado dele plantou as sementes do declínio.",
+            "A tua aula dá três fatores que estiveram por trás do declínio.",
+            "O primeiro é a intolerância religiosa.",
+            "Aurangzeb proibiu o Diwali, destruiu mais de 80 templos e lançou impostos mais pesados sobre os não muçulmanos.",
+            "O segundo é a má liderança.",
+            "Os camponeses tinham de pagar metade do seu rendimento/renda em impostos, e muitos revoltaram-se.",
+            "Aurangzeb passou 26 anos e somas enormes a combater no Decão.",
+            "O terceiro é a falta de tecnologia nova.",
+            "Os mogóis compravam telescópios à Europa em vez de inventarem os seus.",
+            "As armas deles ficaram antiquadas, e nunca construíram uma marinha forte.",
+            "Em 1707, quando Aurangzeb morreu, o Império era demasiado grande e demasiado dividido para se manter unido."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waqti ka waqti sii daciifid",
+            "diidmada aqbalidda diimaha ama habnololeedyada kale",
+            "beeraley faqiir ah oo dhulka ka shaqeeya",
+            "dhulka sare oo weyn ee koonfurta Hindiya",
+            "inaad dad si xun ula macaamisho diintooda dartii",
+            "maraakiibta dagaalka dal iyo badmaaxiinta wada"
+          ],
+          "passage": [
+            "Markii Shah Jahan bukooday, wiilashiisa waxay dagaal galeen cidda xigta xukunta.",
+            "Shah Jahan wuxuu rabay in wiilkiisa Dara xukumo, laakiin Aurangzeb ayaa garaacay.",
+            "Aurangzeb wuxuu xukumay 50 sano oo Boqortooyada wuxuu ka dhigay mid ka weyn abid.",
+            "Laakiin taariikhyahannadu waxay yiraahdaan xukunkiisu wuxuu beeray abuurka sii daciifidda.",
+            "Casharkaagu wuxuu bixinayaa saddex arrin oo sii daciifidda ka dambeeyay.",
+            "Tan koowaad waa dulqaad-la'aanta diineed.",
+            "Aurangzeb wuxuu mamnuucay Diwali, wuxuu burburiyay in ka badan 80 macbad oo canshuur culus ayuu saaray kuwa aan Muslim ahayn.",
+            "Tan labaad waa hoggaamin liidata.",
+            "Beeraleyda waxaa laga rabay inay nus dakhligooda canshuur ahaan bixiyaan, badidoodna way kaceen.",
+            "Aurangzeb wuxuu 26 sano iyo lacag aad u badan ku bixiyay dagaal Deccan ka dhacay.",
+            "Tan saddexaad waa tignoolajiyo cusub la'aan.",
+            "Mughals-ku waxay telescopes Yurub ka iibsadeen halkii ay kuwooda u sameysan lahaayeen.",
+            "Hubkoodu wuu duugoobay, weligoodna ciidan badeed xoog leh ma dhisin.",
+            "1707-dii, markii Aurangzeb dhintay, Boqortooyadu way aad u weynayd oo aad u kala qaybsanayd oo isku xirnaan weyday."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "поступове ослаблення з часом (decline)",
+            "відмова приймати інші релігії або способи життя (intolerance)",
+            "бідний селянин, який обробляє землю (peasant)",
+            "велике плато південної Індії (Deccan)",
+            "погано ставитися до людей через їхню релігію (persecute)",
+            "військові кораблі країни і моряки, які на них служать (navy)"
+          ],
+          "passage": [
+            "Коли Шах-Джахан занедужав, його сини вели війну за те, хто буде наступним.",
+            "Шах-Джахан хотів, щоб правив його син Дара, але Аурангзеб переміг його.",
+            "Аурангзеб правив 50 років і зробив імперію більшою, ніж будь-коли.",
+            "Але історики кажуть, що його правління посіяло насіння занепаду.",
+            "Ваш урок подає три чинники занепаду.",
+            "Перший — релігійна нетерпимість.",
+            "Аурангзеб заборонив Дівалі, зруйнував понад 80 храмів і важче обкладав податками немусульман.",
+            "Другий — погане керівництво.",
+            "Селяни мусили платити половину свого доходу як податок, і багато хто повставав.",
+            "Аурангзеб витратив 26 років і величезні гроші на війни в Декані.",
+            "Третій — брак нових технологій.",
+            "Могули купували телескопи в Європі, замість того щоб винаходити власні.",
+            "Їхня зброя старіла, і вони так і не побудували сильного флоту.",
+            "До 1707 року, коли Аурангзеб помер, імперія була надто велика і надто розділена, щоб триматися разом."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وقت کے ساتھ کمزور ہوتے جانا (decline)",
+            "دوسرے مذہبوں یا طرزِ زندگی کو قبول کرنے سے انکار (intolerance)",
+            "ایک غریب کسان جو زمین پر کام کرتا ہے (peasant)",
+            "جنوبی ہندوستان کا بڑا سطح مرتفع (Deccan)",
+            "لوگوں کے ساتھ ان کے مذہب کی وجہ سے برا سلوک کرنا (persecute)",
+            "کسی ملک کے جنگی جہاز اور ان کے ملاح (navy)"
+          ],
+          "passage": [
+            "جب شاہ جہاں بیمار پڑا تو اس کے بیٹے جانشینی پر جنگ لڑ پڑے۔",
+            "شاہ جہاں چاہتا تھا کہ اس کا بیٹا دارا حکومت کرے، مگر اورنگزیب نے اسے ہرا دیا۔",
+            "اورنگزیب نے 50 سال حکومت کی اور سلطنت کو پہلے سے بڑا کر دیا۔",
+            "مگر مؤرخ کہتے ہیں کہ اسی کے دور میں زوال کے بیج بوئے گئے۔",
+            "آپ کا سبق زوال کے پیچھے تین عوامل بتاتا ہے۔",
+            "پہلا مذہبی تنگ نظری ہے۔",
+            "اورنگزیب نے دیوالی پر پابندی لگائی، 80 سے زیادہ مندر گرائے اور غیر مسلموں پر زیادہ ٹیکس لگایا۔",
+            "دوسرا کمزور قیادت ہے۔",
+            "کسانوں کو اپنی آمدنی کا آدھا حصہ ٹیکس میں دینا پڑتا تھا، اور بہت سے بغاوت پر اتر آئے۔",
+            "اورنگزیب نے 26 سال اور بہت بڑی رقمیں دکن میں لڑائی پر لگا دیں۔",
+            "تیسرا نئی ٹیکنالوجی کی کمی ہے۔",
+            "مغلوں نے اپنی دوربینیں خود بنانے کے بجائے یورپ سے خریدیں۔",
+            "ان کے ہتھیار پرانے پڑ گئے، اور انھوں نے کبھی مضبوط بحریہ نہ بنائی۔",
+            "1707 تک، جب اورنگزیب مرا، سلطنت اتنی بڑی اور اتنی بٹی ہوئی تھی کہ جُڑی نہ رہ سکی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Aurangzeb takes the throne",
@@ -1134,8 +1922,162 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           "You will prove statements true with specific evidence.",
           "Then you will write an essay with one paragraph for, one against, and a conclusion.",
           "Your conclusion must weigh the evidence and give a clear judgement."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن ينهار الشيء انهيارًا تامًّا (collapse)",
+            "الشركة التجارية البريطانية التي سيطرت على الهند (East India Company)",
+            "رأي مؤرّخ في ما حدث ولماذا حدث (interpretation)",
+            "وقائع محدّدة تُثبت كلامًا (evidence)",
+            "حكمك العامّ بعد أن تزن الوجهين (judgement)"
+          ],
+          "passage": [
+            "مات أورنكزيب في 1707.",
+            "وبعد موته ظهرت نقاط ضعف الإمبراطورية بسرعة.",
+            "فقد كانت أكبر من أن تُسيطَر عليها، ومنقسمة على خطوط دينية.",
+            "وأحاط بها الأعداء، وكان جيشها وسلاحها عتيقين.",
+            "وبحلول 1757 كانت شركة الهند الشرقية البريطانية قد سيطرت على المال والسياسة في الهند.",
+            "وحلّ البريطانيون أخيرًا في محلّ الإمبراطورية المغولية في 1858.",
+            "ولتحكم على الإمبراطورية يصنّف درسك ما تعرفه في ثلاثة مجالات.",
+            "وهي الحكّام والقيادة، والجيش، والثقافة.",
+            "ولكلّ مجال نجاحات وإخفاقات.",
+            "وفي تقييمك ستقرأ تفسيرًا كتبه مؤرّخ.",
+            "وستُثبت صحّة كلام بأدلّة محدّدة.",
+            "ثم ستكتب مقالًا فيه فقرة مؤيّدة وفقرة معارضة وخاتمة.",
+            "وخاتمتك يجب أن تزن الأدلّة وأن تعطي حكمًا واضحًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "całkowity rozpad (collapse)",
+            "brytyjska firma handlowa, która przejęła kontrolę nad Indiami (East India Company)",
+            "pogląd historyka na to, co się stało i dlaczego (interpretation)",
+            "konkretne fakty, które dowodzą jakiegoś twierdzenia (evidence)",
+            "twoja ogólna decyzja po rozważeniu obu stron (judgement)"
+          ],
+          "passage": [
+            "Aurangzeb umarł w 1707 roku.",
+            "Po jego śmierci słabości imperium ujawniły się szybko.",
+            "Było za duże, żeby je kontrolować, i podzielone według religii.",
+            "Otaczali je wrogowie, a jego armia i broń były przestarzałe.",
+            "Do 1757 roku brytyjska East India Company przejęła w Indiach kontrolę nad pieniędzmi i polityką.",
+            "Imperium Mogołów zostało w końcu zastąpione przez Brytyjczyków w 1858 roku.",
+            "Żeby ocenić imperium, twoja lekcja porządkuje to, co wiesz, w trzy obszary.",
+            "To władcy i przywództwo, wojsko oraz kultura.",
+            "Każdy obszar ma swoje sukcesy i porażki.",
+            "W swoim zadaniu przeczytasz interpretację napisaną przez historyka.",
+            "Udowodnisz twierdzenia konkretnymi dowodami.",
+            "Potem napiszesz esej z jednym akapitem za, jednym przeciw i wnioskiem.",
+            "Twój wniosek musi rozważyć dowody i dać jasny sąd."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "desfazer-se por completo (collapse, colapso)",
+            "a companhia comercial britânica que tomou o controlo da Índia (East India Company, Companhia das Índias Orientais)",
+            "a visão de um historiador sobre o que aconteceu e porquê (interpretation, interpretação)",
+            "factos/fatos concretos que provam uma afirmação (evidence, provas)",
+            "a tua decisão final depois de pesar os dois lados (judgement, juízo)"
+          ],
+          "passage": [
+            "Aurangzeb morreu em 1707.",
+            "Depois da morte dele, as fraquezas do Império apareceram depressa.",
+            "Era demasiado grande para se controlar e estava dividido por linhas religiosas.",
+            "Havia inimigos à sua volta, e o seu exército e as suas armas estavam antiquados.",
+            "Em 1757 a British East India Company já tinha tomado o controlo financeiro e político na Índia.",
+            "O Império Mogol foi finalmente substituído pelos britânicos em 1858.",
+            "Para julgar o Império, a tua aula separa o que sabes em três áreas.",
+            "São os governantes e a liderança, as forças militares e a cultura.",
+            "Cada área tem sucessos e falhas.",
+            "Na tua avaliação vais ler uma interpretação escrita por um historiador.",
+            "Vais provar que afirmações são verdadeiras com provas concretas.",
+            "Depois vais escrever um ensaio com um parágrafo a favor, um contra e uma conclusão.",
+            "A tua conclusão tem de pesar as provas e dar um juízo claro."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "in gebi ahaanba la kala daato",
+            "shirkaddii ganacsi ee Ingiriiska oo la wareegtay xukunka Hindiya",
+            "aragtida taariikhyahan ee waxa dhacay iyo sababta",
+            "xaqiiqooyin gaar ah oo caddeeya hadal",
+            "go'aankaaga guud kadib markaad labada dhinac miisaantay"
+          ],
+          "passage": [
+            "Aurangzeb wuxuu dhintay 1707-dii.",
+            "Dhimashadiisa kadib, tabar-yaradii Boqortooyada si dhaqso ah ayay muuqatay.",
+            "Way aad u weynayd oo lama xukumi karin, waxayna u kala qaybsanayd diimo.",
+            "Cadow ayaa hareereeyay, ciidankeeda iyo hubkeeduna way duugoobeen.",
+            "1757-dii Shirkaddii East India Company ee Ingiriiska waxay Hindiya ka qabsatay xukunka maaliyadeed iyo siyaasadeed.",
+            "Boqortooyadii Mughal ugu dambeyntii waxaa beddelay Ingiriiska 1858-kii.",
+            "Si aad Boqortooyada u qiimeyso, casharkaagu waxa aad taqaan wuxuu u kala saarayaa saddex qaybood.",
+            "Waa taliyeyaasha iyo hoggaaminta, milatariga, iyo dhaqanka.",
+            "Qayb kastaa waxay leedahay guulo iyo guuldarrooyin.",
+            "Qiimeyntaada waxaad akhrinaysaa interpretation taariikhyahan qoray.",
+            "Hadallo waxaad ku caddaynaysaa caddayn gaar ah.",
+            "Kadibna waxaad qoraysaa curis leh hal cutub taageero, mid ka soo horjeedda, iyo gunaanad.",
+            "Gunaanadkaagu waa inuu caddaynta miisaamo oo go'aan cad bixiyo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "повний розпад (collapse)",
+            "британська торгова компанія, яка взяла контроль над Індією (East India Company)",
+            "погляд історика на те, що сталося і чому (interpretation)",
+            "конкретні факти, які доводять твердження (evidence)",
+            "ваше загальне рішення після того, як ви зважили обидві сторони (judgement)"
+          ],
+          "passage": [
+            "Аурангзеб помер у 1707 році.",
+            "Після його смерті слабкості імперії швидко виявилися.",
+            "Вона була надто велика, щоб її контролювати, і розділена за релігійними лініями.",
+            "Її оточували вороги, а її військо і зброя були старомодні.",
+            "До 1757 року британська Східноіндійська компанія взяла фінансовий і політичний контроль в Індії.",
+            "Могульську імперію остаточно замінили британці у 1858 році.",
+            "Щоб оцінити імперію, ваш урок розкладає те, що ви знаєте, на три ділянки.",
+            "Це правителі і керівництво, військо і культура.",
+            "Кожна ділянка має успіхи і невдачі.",
+            "У своїй контрольній роботі ви прочитаєте інтерпретацію, написану істориком.",
+            "Ви доведете твердження конкретними свідченнями.",
+            "Потім ви напишете твір з одним абзацом за, одним проти і висновком.",
+            "Ваш висновок мусить зважити свідчення і дати чітке судження."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بالکل بکھر جانا (collapse)",
+            "برطانوی تجارتی کمپنی جس نے ہندوستان پر قابو پا لیا (East India Company)",
+            "کسی مؤرخ کی یہ رائے کہ کیا ہوا اور کیوں ہوا (interpretation)",
+            "وہ خاص حقائق جو کسی بات کو ثابت کریں (evidence)",
+            "دونوں طرف کی باتیں تول کر کیا ہوا آپ کا مجموعی فیصلہ (judgement)"
+          ],
+          "passage": [
+            "اورنگزیب 1707 میں مر گیا۔",
+            "اس کی موت کے بعد سلطنت کی کمزوریاں جلد ہی سامنے آ گئیں۔",
+            "یہ قابو میں رکھنے کے لیے بہت بڑی تھی اور مذہبی بنیادوں پر بٹی ہوئی تھی۔",
+            "دشمنوں نے اسے چاروں طرف سے گھیر رکھا تھا، اور اس کی فوج اور ہتھیار پرانے پڑ گئے تھے۔",
+            "1757 تک برطانوی East India Company نے ہندوستان میں مالی اور سیاسی قابو سنبھال لیا تھا۔",
+            "مغلیہ سلطنت کی جگہ آخرکار 1858 میں انگریزوں نے لے لی۔",
+            "سلطنت کو جانچنے کے لیے آپ کا سبق آپ کی معلومات کو تین حصوں میں بانٹتا ہے۔",
+            "یہ ہیں: حاکم اور قیادت، فوج، اور culture۔",
+            "ہر حصے میں کامیابیاں بھی ہیں اور ناکامیاں بھی۔",
+            "اپنے امتحان میں آپ کسی مؤرخ کی لکھی ہوئی ایک interpretation پڑھیں گے۔",
+            "آپ خاص شہادت سے بیانات کو سچ ثابت کریں گے۔",
+            "پھر آپ ایک مضمون لکھیں گے: ایک پیراگراف حق میں، ایک خلاف، اور ایک نتیجہ۔",
+            "آپ کے نتیجے میں شہادت کو تولنا اور صاف فیصلہ دینا ضروری ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "After Aurangzeb: from decline to collapse",

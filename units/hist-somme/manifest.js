@@ -97,8 +97,156 @@ window.ASTRA_UNITS["hist-somme"] = {
           "Your lesson studies four long-term causes.",
           "They are militarism, alliances, imperialism and nationalism.",
           "Each one made Europe more dangerous long before 1914."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الاعتقاد أنّ البلد أكثر أمنًا إذا كانت قوّاته المسلّحة الأكبر والأفضل (militarism)",
+            "اتّفاقات بين البلدان على أن يدافع بعضها عن بعض إذا هُجم على أحدها (alliances)",
+            "بناء إمبراطورية بالسيطرة على بلدان أخرى (imperialism)",
+            "فخر كبير ببلدك، ورغبة في أن يكون قويًّا مستقلًّا (nationalism)",
+            "سبب كان يتراكم سنوات أو حتى عقودًا (long-term cause)"
+          ],
+          "passage": [
+            "بدأت الحرب العالمية الأولى في صيف 1914.",
+            "وكانت مجموعتان من البلدان في مواجهة إحداهما الأخرى.",
+            "فبريطانيا وفرنسا وروسيا كان بينها اتّفاق يُسمّى الوفاق الثلاثي (Triple Entente).",
+            "وألمانيا والنمسا-المجر وإيطاليا كان بينها اتّفاق يُسمّى التحالف الثلاثي (Triple Alliance).",
+            "وكان معظم الناس يعتقد أنّ أيّ حرب ستكون قصيرة.",
+            "ولكنهم كانوا مخطئين.",
+            "والمؤرّخون يبحثون عن نوعين من الأسباب.",
+            "فالسبب طويل الأجل كان يتراكم سنوات أو عقودًا.",
+            "والسبب قصير الأجل حدث قبل ذلك بأيّام أو أسابيع فقط.",
+            "ودرسك يدرس أربعة أسباب طويلة الأجل.",
+            "وهي النزعة العسكرية والتحالفات والاستعمار والقومية.",
+            "وكلّ سبب منها جعل أوروبا أخطر قبل 1914 بزمن طويل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przekonanie, że kraj jest bezpieczniejszy, jeśli ma największe i najlepsze siły zbrojne (militarism)",
+            "umowy między krajami, że będą się bronić, jeśli jeden zostanie zaatakowany (alliances)",
+            "budowanie imperium przez przejmowanie kontroli nad innymi krajami (imperialism)",
+            "wielka duma z własnego kraju i chęć, żeby był silny i niezależny (nationalism)",
+            "przyczyna, która narastała latami, a nawet dziesięcioleciami (long-term cause)"
+          ],
+          "passage": [
+            "Pierwsza wojna światowa zaczęła się latem 1914 roku.",
+            "Naprzeciw siebie stanęły dwie grupy krajów.",
+            "Wielka Brytania, Francja i Rosja miały umowę zwaną Triple Entente.",
+            "Niemcy, Austro-Węgry i Włochy miały umowę zwaną Triple Alliance.",
+            "Większość ludzi wierzyła, że każda wojna będzie krótka.",
+            "Mylili się.",
+            "Historycy szukają dwóch rodzajów przyczyn.",
+            "Przyczyna długofalowa narastała latami albo dziesięcioleciami.",
+            "Przyczyna bezpośrednia zdarzyła się tylko dni albo tygodnie wcześniej.",
+            "Twoja lekcja bada cztery przyczyny długofalowe.",
+            "To militaryzm, sojusze, imperializm i nacjonalizm.",
+            "Każda z nich czyniła Europę groźniejszą na długo przed 1914 rokiem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a crença de que um país está mais seguro se tiver as maiores e melhores forças armadas (militarism, militarismo)",
+            "acordos entre países para se defenderem uns aos outros se um deles for atacado (alliances, alianças)",
+            "construir um império tomando o controlo de outros países (imperialism, imperialismo)",
+            "um grande orgulho no próprio país, e o desejo de que ele seja forte e independente (nationalism, nacionalismo)",
+            "uma causa que se vem acumulando há anos, ou até há décadas (long-term cause, causa de longo prazo)"
+          ],
+          "passage": [
+            "A Primeira Guerra Mundial começou no verão de 1914.",
+            "Dois grupos de países ficaram frente a frente.",
+            "A Grã-Bretanha, a França e a Rússia tinham um acordo chamado Tríplice Entente.",
+            "A Alemanha, a Áustria-Hungria e a Itália tinham um acordo chamado Tríplice Aliança.",
+            "Quase todas as pessoas acreditavam que qualquer guerra seria curta.",
+            "Estavam erradas.",
+            "Os historiadores procuram dois tipos de causa.",
+            "Uma causa de longo prazo vinha-se acumulando há anos ou há décadas.",
+            "Uma causa de curto prazo aconteceu só dias ou semanas antes.",
+            "A tua aula estuda quatro causas de longo prazo.",
+            "São o militarismo, as alianças, o imperialismo e o nacionalismo.",
+            "Cada uma delas tornou a Europa mais perigosa muito antes de 1914."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "caqiidada ah in dal badbaado badan leeyahay haddii uu ciidamo waaweyn oo wanaagsan leeyahay",
+            "heshiisyo dalal dhexdooda ah inay midba midka kale difaacaan haddii mid la weeraro",
+            "dhisidda boqortooyo adigoo dalal kale la wareegayo",
+            "faan weyn oo dalkaaga, iyo rabitaanka inuu xoog iyo madax-bannaani yeesho",
+            "sabab sanado ama xataa tobanaan sano isu urursanaysay"
+          ],
+          "passage": [
+            "Dagaalkii Koowaad ee Adduunka wuxuu bilaabmay xagaagii 1914-kii.",
+            "Laba koox oo dalal ah ayaa iska hor imanayay.",
+            "Biritayn, Faransiiska iyo Ruushka waxay lahaayeen heshiis la yiraahdo Triple Entente.",
+            "Jarmalka, Austria-Hungary iyo Talyaaniga waxay lahaayeen heshiis la yiraahdo Triple Alliance.",
+            "Dadka badankood waxay rumaysnaayeen in dagaal kastaa gaaban noqonayo.",
+            "Way khaldanaayeen.",
+            "Taariikhyahannadu laba nooc oo sabab ah ayay raadiyaan.",
+            "Sabab muddo dheer ah waxay sanado ama tobanaan sano isu urursanaysay.",
+            "Sabab muddo gaaban ah waxay dhacday maalmo ama toddobaadyo ka hor oo keliya.",
+            "Casharkaagu wuxuu baranayaa afar sabab oo muddo dheer ah.",
+            "Afartaas waa kuwan: militarism, alliances, imperialism iyo nationalism.",
+            "Mid kastaa wuxuu Yurub ka dhigay mid khatar badan leh wakhti dheer ka hor 1914-kii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "віра в те, що країна безпечніша, якщо має найбільше і найкраще військо (militarism)",
+            "угоди між країнами захищати одна одну, якщо на одну нападуть (alliances)",
+            "будування імперії через захоплення контролю над іншими країнами (imperialism)",
+            "велика гордість за свою країну і бажання, щоб вона була сильною і незалежною (nationalism)",
+            "причина, яка наростала роками або навіть десятиліттями (long-term cause)"
+          ],
+          "passage": [
+            "Перша світова війна почалася літом 1914 року.",
+            "Дві групи країн стояли одна проти одної.",
+            "Британія, Франція і Росія мали угоду, яка називалася Антанта (Triple Entente).",
+            "Німеччина, Австро-Угорщина та Італія мали угоду, яка називалася Троїстий союз (Triple Alliance).",
+            "Більшість людей вірила, що будь-яка війна буде короткою.",
+            "Вони помилялися.",
+            "Історики шукають два види причин.",
+            "Довготривала причина наростала роками або десятиліттями.",
+            "Короткочасна причина сталася лише за дні або тижні до події.",
+            "Ваш урок вивчає чотири довготривалі причини.",
+            "Це мілітаризм, союзи, імперіалізм і націоналізм.",
+            "Кожна з них робила Європу небезпечнішою задовго до 1914 року."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "یہ یقین کہ ملک زیادہ محفوظ ہوگا اگر اس کی مسلح افواج سب سے بڑی اور بہترین ہوں (militarism)",
+            "ملکوں کے درمیان وہ معاہدے جن میں وہ ایک پر حملہ ہونے کی صورت میں ایک دوسرے کے دفاع کا وعدہ کرتے ہیں (alliances)",
+            "دوسرے ملکوں پر قابو پا کر سلطنت بنانا (imperialism)",
+            "اپنے ملک پر بڑا فخر، اور یہ خواہش کہ وہ مضبوط اور آزاد ہو (nationalism)",
+            "وہ سبب جو برسوں، حتیٰ کہ دہائیوں سے بنتا رہا ہو (long-term cause)"
+          ],
+          "passage": [
+            "پہلی جنگِ عظیم 1914 کے موسمِ گرما میں شروع ہوئی۔",
+            "ملکوں کے دو گروہ ایک دوسرے کے مقابل تھے۔",
+            "برطانیہ، فرانس اور روس کا ایک معاہدہ تھا، جسے Triple Entente کہتے تھے۔",
+            "جرمنی، آسٹریا ہنگری اور اطالیہ کا ایک معاہدہ تھا، جسے Triple Alliance کہتے تھے۔",
+            "زیادہ تر لوگ مانتے تھے کہ جنگ ہوئی تو مختصر ہوگی۔",
+            "وہ غلط تھے۔",
+            "مؤرخ دو قسم کے اسباب ڈھونڈتے ہیں۔",
+            "long-term cause برسوں یا دہائیوں سے بنتا رہا ہوتا ہے۔",
+            "short-term cause صرف چند دن یا ہفتے پہلے پیش آتا ہے۔",
+            "آپ کا سبق چار long-term causes پڑھاتا ہے۔",
+            "یہ ہیں militarism، alliances، imperialism اور nationalism۔",
+            "ان میں سے ہر ایک نے 1914 سے بہت پہلے یورپ کو زیادہ خطرناک بنا دیا تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who fought whom?",
@@ -304,8 +452,162 @@ window.ASTRA_UNITS["hist-somme"] = {
           "German soldiers marched into Belgium, which was neutral.",
           "Britain declared war on Germany on 4 August 1914.",
           "Five weeks had turned one killing into a world war."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قتل شخص لأسباب سياسية (assassination)",
+            "الشخص التالي في ترتيب العرش (heir)",
+            "الأسابيع الخمسة في 1914 بين الاغتيال ونشوب الحرب (the July Crisis)",
+            "وعد ألمانيا بمساندة النمسا-المجر مهما قرّرت أن تفعل (the Blank Cheque)",
+            "لا يأخذ جانبًا في الحرب (neutral)"
+          ],
+          "passage": [
+            "في 28 يونيو 1914 أُطلق النار على فرانتس فرديناند (Franz Ferdinand) في سراييفو.",
+            "وكان وارث عرش النمسا-المجر.",
+            "وكان القاتلون قوميّين من البلقان.",
+            "وكانوا يريدون أن ينتهي حكم النمسا للأراضي السلافية.",
+            "وفي أوّل الأمر بدا هذا خصومة محلّية.",
+            "ثم بدأت التحالفات تعمل.",
+            "فوعدت ألمانيا بمساندة النمسا-المجر فيما تفعل.",
+            "فأعلنت النمسا-المجر الحرب على صربيا.",
+            "فبدأت روسيا تستنفر جيشها للدفاع عن صربيا.",
+            "فأعلنت ألمانيا الحرب على روسيا ثم على فرنسا.",
+            "وزحف الجنود الألمان إلى بلجيكا، وكانت محيّدة.",
+            "وأعلنت بريطانيا الحرب على ألمانيا في 4 أغسطس 1914.",
+            "فخمسة أسابيع حوّلت مقتل شخص واحد حربًا عالمية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zabicie człowieka z powodów politycznych (assassination)",
+            "osoba następna w kolejce do tronu (heir)",
+            "pięć tygodni w 1914 roku między zamachem a wybuchem wojny (the July Crisis)",
+            "obietnica Niemiec, że poprą Austro-Węgry, cokolwiek te postanowią (the Blank Cheque)",
+            "nie stający po żadnej stronie w wojnie (neutral)"
+          ],
+          "passage": [
+            "28 czerwca 1914 roku w Sarajewie zastrzelono Franza Ferdinanda.",
+            "Był następcą tronu Austro-Węgier.",
+            "Zamachowcami byli nacjonaliści z Bałkanów.",
+            "Chcieli, żeby austriackie rządy nad ziemiami słowiańskimi się skończyły.",
+            "Na początku wyglądało to na miejscowy spór.",
+            "Potem zaczęły działać sojusze.",
+            "Niemcy obiecały poprzeć Austro-Węgry, cokolwiek te zrobią.",
+            "Austro-Węgry wypowiedziały wojnę Serbii.",
+            "Rosja zaczęła powoływać wojsko, żeby obronić Serbię.",
+            "Niemcy wypowiedziały wojnę Rosji, a potem Francji.",
+            "Niemieccy żołnierze weszli do Belgii, która była neutralna.",
+            "Wielka Brytania wypowiedziała wojnę Niemcom 4 sierpnia 1914 roku.",
+            "Pięć tygodni zamieniło jedno zabójstwo w wojnę światową."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a morte de uma pessoa por razões políticas (assassination, assassinato)",
+            "a pessoa que vem a seguir na linha de sucessão ao trono (heir, herdeiro)",
+            "as cinco semanas de 1914 entre o assassinato e o começo da guerra (the July Crisis, a Crise de Julho)",
+            "a promessa da Alemanha de apoiar a Áustria-Hungria em tudo o que ela decidisse fazer (the Blank Cheque, o Cheque em Branco)",
+            "que não toma partido numa guerra (neutral, neutro)"
+          ],
+          "passage": [
+            "A 28 de junho de 1914, Franz Ferdinand foi morto a tiro em Sarajevo.",
+            "Era o herdeiro do trono da Áustria-Hungria.",
+            "Os autores eram nacionalistas dos Balcãs.",
+            "Queriam que o domínio austríaco sobre as terras eslavas acabasse.",
+            "Ao início isto parecia uma disputa local.",
+            "Depois as alianças começaram a funcionar.",
+            "A Alemanha prometeu apoiar a Áustria-Hungria em tudo o que ela fizesse.",
+            "A Áustria-Hungria declarou guerra à Sérvia.",
+            "A Rússia começou a convocar o seu exército para defender a Sérvia.",
+            "A Alemanha declarou guerra à Rússia e depois à França.",
+            "Soldados alemães entraram na Bélgica, que era neutra.",
+            "A Grã-Bretanha declarou guerra à Alemanha a 4 de agosto de 1914.",
+            "Cinco semanas tinham transformado uma morte numa guerra mundial."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dilka qof sababo siyaasadeed dartii",
+            "qofka carshiga ku xiga",
+            "shantii toddobaad ee 1914-kii u dhexeysay dilka iyo qarxitaanka dagaalka",
+            "ballanqaadkii Jarmalka ee ahaa inuu Austria-Hungary taageero wax kasta ay go'aansato",
+            "inaadan dhinac ka ahayn dagaal"
+          ],
+          "passage": [
+            "28 Juun 1914, Franz Ferdinand waxaa lagu toogtay Sarajevo.",
+            "Wuxuu ahaa dhaxal-sugaha carshiga Austria-Hungary.",
+            "Dilaayadu waxay ahaayeen nationalists ka socda Balkans.",
+            "Waxay rabeen in xukunka Austria ee dhulalka Slavic uu dhammaado.",
+            "Markii hore tan waxay u ekayd muran maxalli ah.",
+            "Kadibna alliances-ku waxay bilaabeen inay shaqeeyaan.",
+            "Jarmalku wuxuu ballanqaaday inuu Austria-Hungary taageero wax kasta ay samayso.",
+            "Austria-Hungary waxay dagaal ku qaaday Serbia.",
+            "Ruushku wuxuu bilaabay inuu ciidankiisa u yeero si uu Serbia u difaaco.",
+            "Jarmalku wuxuu dagaal ku qaaday Ruushka kadibna Faransiiska.",
+            "Askar Jarmal ah waxay galeen Beljim, oo dhexdhexaad ahayd.",
+            "Biritayn waxay dagaal ku qaaday Jarmalka 4 Agoosto 1914.",
+            "Shan toddobaad waxay hal dil ka dhigeen dagaal adduunka oo dhan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "убивство людини з політичних причин (assassination)",
+            "людина, наступна в черзі на трон (heir)",
+            "п’ять тижнів 1914 року між убивством і початком війни (the July Crisis)",
+            "обіцянка Німеччини підтримати Австро-Угорщину, що б вона не вирішила робити (the Blank Cheque)",
+            "той, що не стає на жодну сторону у війні (neutral)"
+          ],
+          "passage": [
+            "28 червня 1914 року Франца Фердинанда застрелили в Сараєві.",
+            "Він був спадкоємцем трону Австро-Угорщини.",
+            "Убивцями були націоналісти з Балкан.",
+            "Вони хотіли, щоб австрійське правління над слав’янськими землями закінчилося.",
+            "Спершу це виглядало як місцева сварка.",
+            "Потім почали діяти союзи.",
+            "Німеччина обіцяла підтримати Австро-Угорщину, що б вона не зробила.",
+            "Австро-Угорщина оголосила війну Сербії.",
+            "Росія почала скликати своє військо, щоб захистити Сербію.",
+            "Німеччина оголосила війну Росії, а потім Франції.",
+            "Німецькі вояки увійшли в Бельгію, яка була нейтральною.",
+            "Британія оголосила війну Німеччині 4 серпня 1914 року.",
+            "П’ять тижнів перетворили одне вбивство на світову війну."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی شخص کو سیاسی وجوہات کی بنا پر قتل کرنا (assassination)",
+            "وہ شخص جو تخت کے لیے اگلی باری پر ہو (heir)",
+            "1914 کے وہ پانچ ہفتے جو قتل اور جنگ چھڑنے کے درمیان گزرے (the July Crisis)",
+            "جرمنی کا وہ وعدہ کہ آسٹریا ہنگری جو بھی فیصلہ کرے، وہ اس کا ساتھ دے گا (the Blank Cheque)",
+            "جنگ میں کسی کا ساتھ نہ دینا (neutral)"
+          ],
+          "passage": [
+            "28 جون 1914 کو سارایوو (Sarajevo) میں فرانز فرڈیننڈ کو گولی مار دی گئی۔",
+            "وہ آسٹریا ہنگری کے تخت کا heir تھا۔",
+            "قاتل بلقان کے nationalists تھے۔",
+            "وہ چاہتے تھے کہ سلاوی علاقوں پر آسٹریا کی حکومت ختم ہو۔",
+            "پہلے یہ ایک مقامی جھگڑا لگتا تھا۔",
+            "پھر alliances حرکت میں آ گئے۔",
+            "جرمنی نے وعدہ کیا کہ آسٹریا ہنگری جو بھی کرے، وہ اس کا ساتھ دے گا۔",
+            "آسٹریا ہنگری نے سربیا کے خلاف جنگ کا اعلان کر دیا۔",
+            "روس نے سربیا کے دفاع کے لیے اپنی فوج جمع کرنا شروع کی۔",
+            "جرمنی نے روس کے خلاف، اور پھر فرانس کے خلاف جنگ کا اعلان کیا۔",
+            "جرمن سپاہی بیلجیم میں داخل ہو گئے، جو neutral تھا۔",
+            "برطانیہ نے 4 اگست 1914 کو جرمنی کے خلاف جنگ کا اعلان کیا۔",
+            "پانچ ہفتوں نے ایک قتل کو عالمی جنگ میں بدل دیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The spark in Sarajevo",
@@ -503,8 +805,156 @@ window.ASTRA_UNITS["hist-somme"] = {
           "Trenches zig-zagged instead of running straight.",
           "The ground between the two front lines was called no-man's-land.",
           "Behind the front line came support, reserve and communication trenches."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "خطّ الخنادق الطويل الذي يمتدّ عبر بلجيكا وفرنسا (Western Front)",
+            "حفرة في الأرض عمقها أكبر من عرضها (trench)",
+            "الأرض المتنازع عليها بين خطّي الجيشين الأماميّين (no-man's-land)",
+            "الجدار الداخلي للخندق، وفوقه أكياس الرمل (parapet)",
+            "حفرة في جانب الخندق يستطيع الرجال أن يستتروا فيها (dugout)"
+          ],
+          "passage": [
+            "خطّطت ألمانيا أن تهزم فرنسا في ستّة أسابيع.",
+            "وفشلت الخطّة.",
+            "وبحلول ديسمبر 1914 لم يكن أيّ من الطرفين يستطيع أن يخترق الآخر.",
+            "فحفر الطرفان كلاهما.",
+            "وامتدّت خنادقهما من الساحل البلجيكي إلى الحدود السويسرية.",
+            "وسُمّي هذا الخطّ الطويل الجبهة الغربية.",
+            "وامتدّ أكثر من 400 ميل.",
+            "والخندق قناة محفورة عمقها أكبر من عرضها.",
+            "وكان يحمي الجنود من الرصاص ومن نار القذائف.",
+            "وكانت الخنادق متعرّجة لا مستقيمة.",
+            "وسُمّيت الأرض بين خطّي الجيشين الأماميّين الأرض الحرام (no-man's-land).",
+            "وخلف الخطّ الأمامي كانت خنادق الإسناد والاحتياط والاتّصال."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "długa linia okopów biegnąca przez Belgię i Francję (Western Front)",
+            "wykop w ziemi, który jest głębszy niż szeroki (trench)",
+            "sporny teren między liniami frontu obu armii (no-man's-land)",
+            "wewnętrzna ściana okopu, zwieńczona workami z piaskiem (parapet)",
+            "dziura wykopana w ścianie okopu, w której żołnierze mogli się schować (dugout)"
+          ],
+          "passage": [
+            "Niemcy planowały pobić Francję w sześć tygodni.",
+            "Plan się nie udał.",
+            "Do grudnia 1914 roku żadna strona nie mogła przebić się przez drugą.",
+            "Dlatego obie strony zaczęły kopać.",
+            "Ich okopy biegły od wybrzeża belgijskiego do granicy szwajcarskiej.",
+            "Tę długą linię nazwano frontem zachodnim (Western Front).",
+            "Rozciągała się na ponad 400 mil.",
+            "Okop to wykop zrobiony głębszym niż szeroki.",
+            "Chronił żołnierzy przed kulami i przed ostrzałem artyleryjskim.",
+            "Okopy biegły zygzakiem, a nie prosto.",
+            "Teren między obiema liniami frontu nazywano no-man's-land, czyli ziemią nikogo.",
+            "Za linią frontu były okopy wsparcia, rezerwy i łączności."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a longa linha de trincheiras que atravessava a Bélgica e a França (Western Front, Frente Ocidental)",
+            "uma área cavada no solo, mais funda do que larga (trench, trincheira)",
+            "o terreno disputado entre as linhas da frente dos dois exércitos (no-man's-land, terra de ninguém)",
+            "a parede interior de uma trincheira, com sacos de areia em cima (parapet, parapeito)",
+            "um buraco cavado na parede de uma trincheira, onde os homens se podiam abrigar (dugout, abrigo)"
+          ],
+          "passage": [
+            "A Alemanha planeava vencer a França em seis semanas.",
+            "O plano falhou.",
+            "Em dezembro de 1914, nenhum dos dois lados conseguia furar as linhas do outro.",
+            "Por isso os dois lados cavaram.",
+            "As suas trincheiras iam da costa belga até à fronteira suíça.",
+            "A esta longa linha chamou-se a Frente Ocidental.",
+            "Estendia-se por mais de 400 milhas.",
+            "Uma trincheira é um canal cavado mais fundo do que largo.",
+            "Protegia os soldados das balas e do fogo da artilharia.",
+            "As trincheiras faziam ziguezagues em vez de seguirem a direito.",
+            "Ao terreno entre as duas linhas da frente chamava-se terra de ninguém.",
+            "Atrás da linha da frente vinham as trincheiras de apoio, de reserva e de comunicação."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xariiqda dheer ee trenches-ka oo Beljim iyo Faransiiska dhex marta",
+            "meel dhulka la qoday oo ka sii mool dheer intii ay ballaaran tahay",
+            "dhulka lagu muransan yahay oo u dhexeeya safafka hore ee labada ciidan",
+            "darbiga gudaha ee trench, oo joonyado ciid ah dusha looga dhigay",
+            "god dhinaca trench-ka laga qoday halkaasoo raggu ku dhuuman karay"
+          ],
+          "passage": [
+            "Jarmalku wuxuu qorsheeyay inuu Faransiiska lix toddobaad gudahood ku garaaco.",
+            "Qorshuhu wuu guuldarraystay.",
+            "Diseembar 1914-kii, dhinacna midka kale ma dhex marin.",
+            "Markaa labada dhinac way qodeen.",
+            "Trenches-koodu waxay ka bilaabmeen xeebta Beljim ilaa xadka Switzerland.",
+            "Xariiqdan dheer waxaa loo bixiyay Western Front.",
+            "Waxay fidday in ka badan 400 mayl.",
+            "Trench waa marin la qoday oo ka sii mool dheer intii ay ballaaran tahay.",
+            "Waxay askarta ka ilaalisay xabbadaha iyo madaafiicda.",
+            "Trenches-ku way qalloocaayeen halkii ay si toosan u socdeen.",
+            "Dhulka u dhexeeyay labada saf hore waxaa loo bixiyay no-man's-land.",
+            "Safka hore gadaashiisa waxaa yimid trenches-ka taageerada, kaydka iyo isgaarsiinta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "довга лінія окопів, що проходила через Бельгію і Францію (Western Front)",
+            "виритий у землі простір, який глибший, ніж ширший (trench)",
+            "спірна земля між передовими лініями двох військ (no-man’s-land)",
+            "внутрішня стінка окопу, зверху викладена мішками з піском (parapet)",
+            "виритий у стінці окопу отвір, де вояки могли вкритися (dugout)"
+          ],
+          "passage": [
+            "Німеччина планувала розбити Францію за шість тижнів.",
+            "План провалився.",
+            "До грудня 1914 року жодна сторона не могла прорвати іншу.",
+            "Тому обидві сторони копали.",
+            "Їхні окопи тягнулися від бельгійського берега до швейцарського кордону.",
+            "Цю довгу лінію називали Західним фронтом (the Western Front).",
+            "Вона простягалася на понад 400 миль.",
+            "Окоп — це канава, вирита глибше, ніж вона широка.",
+            "Він захищав вояків від куль і від вогню снарядів.",
+            "Окопи йшли зигзагом, а не прямо.",
+            "Землю між двома передовими лініями називали нічийною землею (no-man’s-land).",
+            "За передовою лінією йшли окопи підтримки, резерву і зв’язку."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بیلجیم اور فرانس میں سے گزرنے والی خندقوں کی لمبی قطار (Western Front)",
+            "زمین میں کھودی گئی ایسی جگہ جو اپنی چوڑائی سے زیادہ گہری ہو (trench)",
+            "دونوں فوجوں کی اگلی قطاروں کے درمیان کی متنازع زمین (no-man's-land)",
+            "خندق کی اندرونی دیوار، جس کے اوپر ریت کی بوریاں رکھی ہوتی تھیں (parapet)",
+            "خندق کے پہلو میں کھودا ہوا سوراخ جہاں فوجی پناہ لے سکتے تھے (dugout)"
+          ],
+          "passage": [
+            "جرمنی کا منصوبہ تھا کہ چھ ہفتوں میں فرانس کو ہرا دے گا۔",
+            "منصوبہ ناکام ہو گیا۔",
+            "دسمبر 1914 تک کوئی فریق دوسرے کی قطار توڑ نہ سکا۔",
+            "اس لیے دونوں فریقوں نے زمین کھودنا شروع کی۔",
+            "ان کی خندقیں بیلجیم کے ساحل سے سوئٹزرلینڈ کی سرحد تک پھیل گئیں۔",
+            "اس لمبی قطار کو Western Front کہا گیا۔",
+            "یہ 400 میل سے زیادہ لمبی تھی۔",
+            "trench ایسی نالی ہے جو اپنی چوڑائی سے زیادہ گہری کھودی جائے۔",
+            "یہ فوجیوں کو گولیوں اور گولہ باری سے بچاتی تھی۔",
+            "خندقیں سیدھی جانے کے بجائے زگ زیگ چلتی تھیں۔",
+            "دونوں اگلی قطاروں کے درمیان کی زمین کو no-man's-land کہا جاتا تھا۔",
+            "اگلی قطار کے پیچھے support، reserve اور communication خندقیں آتی تھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How the Western Front was created",
@@ -706,8 +1156,162 @@ window.ASTRA_UNITS["hist-somme"] = {
           "Standing in that water for too long caused trench foot.",
           "The army had to find answers to problems like these.",
           "An army that lost men to illness could not fight."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الطعام الذي كان يُعطى للجندي كلّ يوم (rations)",
+            "حشرات صغيرة جدًّا تعيش على الجلد والثياب وقد تنشر المرض (lice)",
+            "مُشبَع بماء لا يستطيع أن يُصرَف (waterlogged)",
+            "حالة مؤلمة سببها الوقوف في ماء بارد زمنًا طويلًا (trench foot)",
+            "الأثر الباقي في عقل الجندي من طول تعرّضه للقذائف والخوف (shell shock)"
+          ],
+          "passage": [
+            "لم تكن الحياة في الخندق معركةً واحدة طويلة.",
+            "فبين الهجمات كانت فترات انتظار طويلة مملّة.",
+            "وكان الجنود ينامون ويأكلون من علب الطعام ويلعبون الورق.",
+            "وكانوا يكتبون الرسائل واليوميّات إلى بيوتهم.",
+            "وكانت تصل الرُّزَم من أهلهم وفيها هدايا كالشوكولاتة.",
+            "وكانت الكلاب منظرًا مألوفًا، حيواناتَ صحبة وحيواناتَ عمل.",
+            "وكان الطقس عدوًّا دائمًا.",
+            "وفي الشتاء كانت الخنادق مغمورة بالماء موحلة متجمّدة.",
+            "وتركت القذائف حفرًا كبيرة مليئة بالوحل المقلوب.",
+            "وكان الجنود يعيشون مع الجرذان والقمل والماء البارد.",
+            "والوقوف في ذلك الماء زمنًا طويلًا كان يسبّب قدم الخندق (trench foot).",
+            "وكان على الجيش أن يجد أجوبة لمشكلات كهذه.",
+            "فالجيش الذي يخسر رجاله بالمرض لا يستطيع أن يقاتل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jedzenie, które żołnierz dostawał każdego dnia (rations)",
+            "maleńkie owady, które żyją na skórze i w ubraniu i mogą przenosić choroby (lice)",
+            "przemoczony wodą, która nie może odpłynąć (waterlogged)",
+            "bolesna dolegliwość wywołana zbyt długim stawaniem w zimnej wodzie (trench foot)",
+            "trwały wpływ długiego ostrzału i strachu na umysł żołnierza (shell shock)"
+          ],
+          "passage": [
+            "Życie w okopie nie było jedną długą bitwą.",
+            "Między atakami były długie, nudne odcinki czekania.",
+            "Żołnierze spali, jedli z menażek i grali w karty.",
+            "Pisali do domu listy i dzienniki.",
+            "Od rodzin przychodziły paczki ze smakołykami, takimi jak czekolada.",
+            "Psy były częstym widokiem, jako pupile i jako zwierzęta pracujące.",
+            "Pogoda była nieustannym wrogiem.",
+            "W zimie okopy były zalane wodą, błotniste i oblodzone.",
+            "Po ostrzale zostawały duże dziury wypełnione rozmieszanym błotem.",
+            "Żołnierze żyli ze szczurami, wszami i zimną wodą.",
+            "Zbyt długie stanie w tej wodzie powodowało trench foot, czyli stopę okopową.",
+            "Wojsko musiało znaleźć odpowiedzi na takie problemy.",
+            "Armia, która traciła ludzi z powodu chorób, nie mogła walczyć."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a comida que era dada a um soldado cada dia (rations, rações)",
+            "insetos minúsculos que vivem na pele e na roupa e podem espalhar doenças (lice, piolhos)",
+            "encharcado de água que não consegue escoar (waterlogged, encharcado)",
+            "uma condição dolorosa causada por estar demasiado tempo em pé dentro de água fria (trench foot, pé de trincheira)",
+            "o efeito duradouro na mente de um soldado de muito tempo exposto aos bombardeamentos e ao medo (shell shock)"
+          ],
+          "passage": [
+            "A vida numa trincheira não era uma batalha sem fim.",
+            "Entre os ataques havia longos períodos monótonos de espera.",
+            "Os soldados dormiam, comiam das suas latas de rancho e jogavam às cartas.",
+            "Escreviam cartas e diários para casa.",
+            "Chegavam encomendas das famílias com mimos, como chocolate.",
+            "Os cães eram uma presença comum, como animais de companhia e como animais de trabalho.",
+            "O tempo era um inimigo constante.",
+            "No inverno as trincheiras estavam encharcadas, lamacentas e geladas.",
+            "Os bombardeamentos deixavam grandes buracos cheios de lama revolvida.",
+            "Os soldados viviam com ratos, piolhos e a água fria.",
+            "Estar em pé dentro dessa água demasiado tempo causava o pé de trincheira (trench foot).",
+            "O exército tinha de encontrar respostas para problemas como estes.",
+            "Um exército que perdia homens por doença não conseguia combater."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "cuntada askariga maalin kasta la siiyay",
+            "cayayaan yaryar oo maqaarka iyo dharka ku nool oo cudur faafin kara",
+            "biyo la buuxsamay oo aan miiran karin",
+            "xanuun ka dhasha in biyo qabow muddo dheer lagu istaago",
+            "saameynta muddo dheer ku taagan maskaxda askari oo madaafiic iyo cabsi muddo dheer la kulmay"
+          ],
+          "passage": [
+            "Nolosha trench ma ahayn hal dagaal oo dheer.",
+            "Weerarrada u dhexeeyay waxaa jiray muddooyin dhaadheer oo caajis ah oo sugitaan.",
+            "Askartu way seexdeen, qasacado cunto way ka cuneen oo turub way ciyaareen.",
+            "Waxay guriga u qoreen waraaqo iyo xusuus-qor.",
+            "Baakooyin ayaa ka yimid qoysaskooda oo ay ku jiraan macmacaan sida shukulaato.",
+            "Eeyo waa caadi ahaa in la arko, sidii xayawaan guri iyo xayawaan shaqo.",
+            "Hawadu waxay ahayd cadow joogto ah.",
+            "Jiilaalka trenches-ku waxay ahaayeen biyo la buuxsamay, dhoobo iyo baraf.",
+            "Madaafiicdu waxay ka tagtay godad waaweyn oo dhoobo la qaswiyay ka buuxay.",
+            "Askartu waxay la noolaayeen jiirar, injir iyo biyo qabow.",
+            "In biyahaas muddo dheer lagu istaago waxay keentay trench foot.",
+            "Ciidanku waxaa laga rabay inuu jawaabo u helo dhibaatooyinka noocaas ah.",
+            "Ciidan rag cudur ku lumiyay ma dagaallami karin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "їжа, яку вояк отримував щодня (rations)",
+            "крихітні комахи, які живуть на шкірі й одязі і можуть розносити хвороби (lice)",
+            "просочений водою, яка не може стекти (waterlogged)",
+            "болісний стан, спричинений надто довгим стоянням у холодній воді (trench foot)",
+            "тривалий вплив на розум вояка довгого перебування під обстрілом і в страху (shell shock)"
+          ],
+          "passage": [
+            "Життя в окопі не було однією довгою битвою.",
+            "Між наступами були довгі, нудні проміжки очікування.",
+            "Вояки спали, їли з бляшанок і грали в карти.",
+            "Вони писали листи й щоденники додому.",
+            "Від їхніх родин приходили посилки зі смаколиками, як-от шоколадом.",
+            "Собаки були звичайним видовищем — і як улюбленці, і як робочі тварини.",
+            "Погода була постійним ворогом.",
+            "Зимою окопи були просочені водою, брудні й зледенілі.",
+            "Обстріли залишали великі ями, наповнені перемішаною грязюкою.",
+            "Вояки жили серед щурів, вошей і холодної води.",
+            "Надто довге стояння в тій воді спричиняло окопну стопу (trench foot).",
+            "Військо мусило знаходити відповіді на такі проблеми.",
+            "Військо, яке втрачало людей через хвороби, не могло воювати."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ خوراک جو فوجی کو ہر روز دی جاتی تھی (rations)",
+            "ننھے کیڑے جو جلد اور کپڑوں میں رہتے ہیں اور بیماری پھیلا سکتے ہیں (lice)",
+            "پانی سے ایسا بھرا ہوا جو نکل نہ سکے (waterlogged)",
+            "سرد پانی میں بہت دیر کھڑے رہنے سے ہونے والی ایک تکلیف دہ حالت (trench foot)",
+            "گولہ باری اور خوف میں لمبا عرصہ گزارنے کا فوجی کے ذہن پر دیرپا اثر (shell shock)"
+          ],
+          "passage": [
+            "خندق کی زندگی ایک لمبی لڑائی نہ تھی۔",
+            "حملوں کے درمیان انتظار کے لمبے، بے رنگ وقفے ہوتے تھے۔",
+            "فوجی سوتے، کھانے کے ڈبوں سے کھاتے اور تاش کھیلتے تھے۔",
+            "وہ گھر خط اور ڈائریاں لکھتے تھے۔",
+            "گھر والوں سے پارسل آتے تھے، جن میں چاکلیٹ جیسی چیزیں ہوتی تھیں۔",
+            "کتے عام نظر آتے تھے، پالتو بھی اور کام کرنے والے جانور بھی۔",
+            "موسم ہر وقت کا دشمن تھا۔",
+            "سردیوں میں خندقیں پانی سے بھری، کیچڑ بھری اور برفیلی ہو جاتی تھیں۔",
+            "گولہ باری سے بڑے گڑھے بن جاتے تھے، جو گُندھے ہوئے کیچڑ سے بھر جاتے تھے۔",
+            "فوجی چوہوں، lice اور ٹھنڈے پانی کے ساتھ رہتے تھے۔",
+            "اُس پانی میں بہت دیر کھڑے رہنے سے trench foot ہو جاتا تھا۔",
+            "فوج کو ایسے مسئلوں کے حل ڈھونڈنے پڑے۔",
+            "جو فوج بیماری سے اپنے آدمی کھو دے، وہ لڑ نہیں سکتی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Waiting, and what filled the time",
@@ -904,8 +1508,162 @@ window.ASTRA_UNITS["hist-somme"] = {
           "The attack began on 1 July 1916.",
           "The first day was a disaster for the British army.",
           "The battle went on until November 1916."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "إنهاك العدوّ قليلًا قليلًا حتى يستسلم أو ينهار (war of attrition)",
+            "إرغام الرجال بالقانون على الانضمام إلى القوّات المسلّحة (conscription)",
+            "هجوم كبير مخطّط له (offensive)",
+            "قصف ثقيل بالقذائف لموقع العدوّ، وكثيرًا ما يدوم أيّامًا (bombardment)",
+            "البلدة الفرنسية التي كاد هجوم ألماني أن يكسر عندها الجيش الفرنسي في 1916 (Verdun)"
+          ],
+          "passage": [
+            "بحلول 1916 كانت الحرب قد صارت حرب استنزاف.",
+            "فكان كلّ طرف يحاول أن يُنهك الآخر حتى ينهار.",
+            "وكان الحلفاء يرون أنّ عندهم أسلحة وطعامًا ورجالًا أكثر.",
+            "وفي يناير 1916 أقرّت بريطانيا قانون التجنيد الإلزامي.",
+            "فصار كلّ الرجال بين 18 و41 سنة يمكن إرغامهم على الانضمام.",
+            "وفي فبراير 1916 هجم الألمان على الفرنسيين في فردان (Verdun).",
+            "فكاد الجيش الفرنسي أن ينهار.",
+            "فطلب الفرنسيون أن يهجم البريطانيون عند السوم (the Somme).",
+            "وقاد الجيش البريطاني هناك الجنرال دوغلاس هيغ (Douglas Haig).",
+            "وكانت خطّته من أربع خطوات، وقد أُبقيت بسيطة عن قصد.",
+            "وبدأ الهجوم في 1 يوليو 1916.",
+            "وكان اليوم الأوّل كارثةً على الجيش البريطاني.",
+            "واستمرّت المعركة حتى نوفمبر 1916."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wyniszczanie wroga po trochu, aż się podda albo się załamie (war of attrition)",
+            "przymusowe wcielanie mężczyzn do wojska na mocy prawa (conscription)",
+            "wielki zaplanowany atak (offensive)",
+            "ciężki ostrzał pozycji wroga, często przez wiele dni (bombardment)",
+            "francuskie miasto, gdzie niemiecki atak niemal rozbił armię francuską w 1916 roku (Verdun)"
+          ],
+          "passage": [
+            "Do 1916 roku wojna stała się wojną na wyczerpanie.",
+            "Każda strona próbowała wyniszczyć drugą, aż ta się załamie.",
+            "Alianci wierzyli, że mają więcej broni, jedzenia i ludzi.",
+            "W styczniu 1916 roku Wielka Brytania uchwaliła Conscription Act, czyli ustawę o poborze.",
+            "Wszystkich mężczyzn w wieku od 18 do 41 lat można było teraz zmusić do wstąpienia do wojska.",
+            "W lutym 1916 roku Niemcy zaatakowali Francuzów pod Verdun.",
+            "Armia francuska była blisko załamania.",
+            "Francuzi zażądali, żeby Brytyjczycy zaatakowali nad Sommą.",
+            "Armią brytyjską dowodził tam generał Douglas Haig.",
+            "Jego plan miał cztery kroki i był celowo prosty.",
+            "Atak zaczął się 1 lipca 1916 roku.",
+            "Pierwszy dzień był dla armii brytyjskiej katastrofą.",
+            "Bitwa trwała do listopada 1916 roku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "desgastar um inimigo pouco a pouco até ele se render ou ruir (war of attrition, guerra de desgaste)",
+            "obrigar os homens a entrar nas forças armadas por lei (conscription, serviço militar obrigatório)",
+            "um grande ataque planeado (offensive, ofensiva)",
+            "bombardeamento pesado de uma posição inimiga, muitas vezes durante dias (bombardment, bombardeamento)",
+            "a cidade francesa onde um ataque alemão quase quebrou o exército francês em 1916 (Verdun)"
+          ],
+          "passage": [
+            "Em 1916 a guerra tinha-se tornado uma guerra de desgaste.",
+            "Cada lado tentava desgastar o outro até ele ruir.",
+            "Os Aliados acreditavam que tinham mais armas, mais comida e mais homens.",
+            "Em janeiro de 1916 a Grã-Bretanha aprovou o Conscription Act, a lei do serviço militar obrigatório.",
+            "Todos os homens entre os 18 e os 41 anos podiam agora ser obrigados a alistar-se.",
+            "Em fevereiro de 1916 os alemães atacaram os franceses em Verdun.",
+            "O exército francês esteve perto de ruir.",
+            "Os franceses exigiram que os britânicos atacassem no Somme.",
+            "O general Douglas Haig comandou lá o exército britânico.",
+            "O plano dele tinha quatro passos e foi mantido deliberadamente simples.",
+            "O ataque começou a 1 de julho de 1916.",
+            "O primeiro dia foi um desastre para o exército britânico.",
+            "A batalha continuou até novembro de 1916."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "cadow in yar yar loo daaliyo ilaa uu is dhiibo ama burburo",
+            "in ragga sharci lagu qasbo inay ciidanka galaan",
+            "weerar weyn oo la qorsheeyay",
+            "madaafiic culus oo meel cadowga lagu garaaco, oo inta badan maalmo socda",
+            "magaalada Faransiiska halkaasoo weerar Jarmal ah ku dhowaaday inuu ciidanka Faransiiska jebiyo 1916-kii"
+          ],
+          "passage": [
+            "1916-kii dagaalku wuxuu noqday war of attrition.",
+            "Dhinac kastaa wuxuu isku dayay inuu midka kale daaliyo ilaa uu burburo.",
+            "Allies-ku waxay rumaysnaayeen inay hub, cunto iyo rag badan leeyihiin.",
+            "Janaayo 1916-kii Biritayn waxay ansixisay Conscription Act.",
+            "Ragga oo dhan oo 18 ilaa 41 jir ah hadda waxaa lagu qasbi karay inay ciidanka galaan.",
+            "Febraayo 1916-kii Jarmalku wuxuu Faransiiska ku weerartay Verdun.",
+            "Ciidanka Faransiiska wuu ku dhowaaday inuu burburo.",
+            "Faransiisku wuxuu dalbaday in Ingiriisku Somme ka weerar bilaabo.",
+            "General Douglas Haig wuxuu halkaas hoggaamiyay ciidanka Ingiriiska.",
+            "Qorshihiisu wuxuu lahaa afar tallaabo, waxaana si ula kac ah fudud looga dhigay.",
+            "Weerarku wuxuu bilaabmay 1 Luulyo 1916.",
+            "Maalintii koowaad waxay masiibo u ahayd ciidanka Ingiriiska.",
+            "Dagaalku wuu socday ilaa Noofembar 1916."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "виснаження ворога потроху, аж поки він здасться або розвалиться (war of attrition)",
+            "примус чоловіків вступати до війська за законом (conscription)",
+            "великий запланований наступ (offensive)",
+            "важкий обстріл ворожої позиції, часто днями без перерви (bombardment)",
+            "французьке місто, де німецький наступ 1916 року майже зламав французьке військо (Verdun)"
+          ],
+          "passage": [
+            "До 1916 року війна стала війною на виснаження.",
+            "Кожна сторона намагалася виснажити іншу, аж поки та розвалиться.",
+            "Союзники вірили, що мають більше зброї, їжі й людей.",
+            "У січні 1916 року Британія ухвалила Акт про призов.",
+            "Тепер усіх чоловіків віком від 18 до 41 року можна було змусити вступити до війська.",
+            "У лютому 1916 року німці напали на французів під Верденом.",
+            "Французьке військо було близьке до розвалу.",
+            "Французи вимагали, щоб британці наступали на Соммі.",
+            "Британським військом там керував генерал Дуґлас Гейґ (Douglas Haig).",
+            "Його план мав чотири кроки і був навмисне простим.",
+            "Наступ почався 1 липня 1916 року.",
+            "Перший день був катастрофою для британського війська.",
+            "Битва тривала до листопада 1916 року."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دشمن کو تھوڑا تھوڑا کمزور کرتے جانا، یہاں تک کہ وہ ہتھیار ڈال دے یا بیٹھ جائے (war of attrition)",
+            "قانون کے ذریعے مردوں کو فوج میں بھرتی ہونے پر مجبور کرنا (conscription)",
+            "ایک بڑا منصوبہ بند حملہ (offensive)",
+            "دشمن کی جگہ پر بھاری گولہ باری، جو اکثر کئی دن جاری رہتی تھی (bombardment)",
+            "فرانسیسی قصبہ جہاں 1916 میں جرمن حملے نے فرانسیسی فوج کو تقریباً توڑ دیا تھا (Verdun)"
+          ],
+          "passage": [
+            "1916 تک جنگ war of attrition بن گئی تھی۔",
+            "ہر فریق دوسرے کو اتنا کمزور کرنے کی کوشش کرتا رہا کہ وہ بیٹھ جائے۔",
+            "اتحادیوں کا خیال تھا کہ ان کے پاس زیادہ ہتھیار، خوراک اور آدمی ہیں۔",
+            "جنوری 1916 میں برطانیہ نے Conscription Act منظور کیا۔",
+            "اب 18 سے 41 سال تک کے سب مردوں کو بھرتی ہونے پر مجبور کیا جا سکتا تھا۔",
+            "فروری 1916 میں جرمنوں نے Verdun پر فرانسیسیوں پر حملہ کیا۔",
+            "فرانسیسی فوج ٹوٹنے کے قریب پہنچ گئی۔",
+            "فرانسیسیوں نے مطالبہ کیا کہ انگریز Somme پر حملہ کریں۔",
+            "جنرل ڈگلس ہیگ (General Douglas Haig) نے وہاں برطانوی فوج کی قیادت کی۔",
+            "اس کے منصوبے کے چار مرحلے تھے اور اسے جان بوجھ کر سادہ رکھا گیا تھا۔",
+            "حملہ 1 جولائی 1916 کو شروع ہوا۔",
+            "پہلا دن برطانوی فوج کے لیے تباہی تھا۔",
+            "لڑائی نومبر 1916 تک جاری رہی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A war of attrition",
@@ -1110,8 +1868,162 @@ window.ASTRA_UNITS["hist-somme"] = {
           "One popular idea is called lions led by donkeys.",
           "It says brave soldiers were let down by poor leaders.",
           "Your job is to decide which interpretation convinces you."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حكم يصوغه المؤرّخ عن الماضي بالاستناد إلى الأدلّة (interpretation)",
+            "هنا: كلمة قاسية لقائد يُلام على موت لا حاجة إليه (butcher)",
+            "الجنود القتلى والجرحى والمفقودون (casualties)",
+            "الفكرة أنّ جنودًا شجعانًا خذلهم قادة سيّئون (lions led by donkeys)",
+            "قابل للتصديق، لأنّ الأدلّة تسنده (convincing)"
+          ],
+          "passage": [
+            "المؤرّخون يستخدمون الأدلّة ليصوغوا أحكامًا عن الماضي.",
+            "وتُسمّى هذه الأحكام تفسيرات (interpretations).",
+            "وقد يدرس مؤرّخان السوم فيختلفان.",
+            "وذلك لأنهما يختاران أشياء مختلفة يركّزان عليها.",
+            "فأحدهما قد ينظر في خسائر اليوم الأوّل.",
+            "والآخر قد ينظر في مجهود الحرب كلّه.",
+            "وبعض المؤرّخين يسمّي الجنرال هيغ جزّارًا.",
+            "وهم يلومون خطّته وخططه العسكرية العتيقة على موت لا حاجة إليه.",
+            "وآخرون يذكّرون بأنه أُمِر بوقت الهجوم ومكانه.",
+            "ويضيفون أنّ الطرفين كليهما استخدم الطرق نفسها.",
+            "وهناك فكرة شائعة تُسمّى أسودًا تقودها حُمُر (lions led by donkeys).",
+            "وهي تقول إنّ جنودًا شجعانًا خذلهم قادة سيّئون.",
+            "وعملك أن تحكم أيّ التفسيرين يُقنعك."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ocena, którą historyk wyrabia sobie o przeszłości, korzystając z dowodów (interpretation)",
+            "tutaj: ostre słowo o dowódcy winionym za niepotrzebne śmierci (butcher)",
+            "żołnierze zabici, ranni albo zaginieni (casualties)",
+            "myśl, że dzielnych żołnierzy zawiedli słabi dowódcy (lions led by donkeys)",
+            "przekonujący, bo dowody go popierają (convincing)"
+          ],
+          "passage": [
+            "Historycy używają dowodów, żeby wyrobić sobie ocenę przeszłości.",
+            "Te oceny nazywamy interpretacjami.",
+            "Dwóch historyków może badać Sommę i nie zgadzać się ze sobą.",
+            "To dlatego, że wybierają różne rzeczy, na których się skupiają.",
+            "Jeden może patrzeć na straty pierwszego dnia.",
+            "Inny może patrzeć na cały wysiłek wojenny.",
+            "Niektórzy historycy nazywają generała Haiga rzeźnikiem.",
+            "Winią jego plan i przestarzałe taktyki za niepotrzebne śmierci.",
+            "Inni zwracają uwagę, że powiedziano mu, kiedy i gdzie ma atakować.",
+            "Dodają, że obie strony używały tych samych metod.",
+            "Jedna popularna myśl nazywa się lions led by donkeys, czyli lwy prowadzone przez osły.",
+            "Mówi ona, że dzielnych żołnierzy zawiedli słabi dowódcy.",
+            "Twoim zadaniem jest zdecydować, która interpretacja cię przekonuje."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um juízo que um historiador forma sobre o passado, usando provas (interpretation, interpretação)",
+            "aqui, uma palavra dura para um comandante a quem se atribuem mortes desnecessárias (butcher, carniceiro)",
+            "soldados mortos, feridos ou desaparecidos (casualties, baixas)",
+            "a ideia de que soldados valentes foram mal servidos por comandantes fracos (lions led by donkeys, leões comandados por burros)",
+            "acreditável, porque as provas o apoiam (convincing, convincente)"
+          ],
+          "passage": [
+            "Os historiadores usam provas para formar juízos sobre o passado.",
+            "A estes juízos chama-se interpretações.",
+            "Dois historiadores podem estudar o Somme e discordar.",
+            "Isso é porque escolhem coisas diferentes para olhar.",
+            "Um pode olhar para as baixas do primeiro dia.",
+            "Outro pode olhar para todo o esforço de guerra.",
+            "Há historiadores que chamam carniceiro ao general Haig.",
+            "Atribuem ao plano dele e às suas táticas antiquadas as mortes desnecessárias.",
+            "Outros lembram que lhe disseram quando e onde atacar.",
+            "Acrescentam que os dois lados usavam os mesmos métodos.",
+            "Uma ideia muito conhecida chama-se lions led by donkeys, leões comandados por burros.",
+            "Diz que soldados valentes foram mal servidos por chefes fracos.",
+            "A tua tarefa é decidir qual das interpretações te convence."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "go'aan taariikhyahan ka sameeyo waagii hore, isagoo caddayn isticmaalaya",
+            "halkan, eray adag loo isticmaalo taliye lagu eedeeyo dhimasho aan loo baahnayn",
+            "askar la dilay, la dhaawacay ama la waayay",
+            "fikradda ah in askar geesi ah ay taliyeyaal liitay dayaceen",
+            "la rumaysan karo, maxaa yeelay caddayntu taageerto"
+          ],
+          "passage": [
+            "Taariikhyahannadu caddayn ayay u isticmaalaan sameynta go'aamo ku saabsan waagii hore.",
+            "Go'aamadan waxaa loo yiraahdaa interpretations.",
+            "Laba taariikhyahan waxay Somme barani karaan oo isku raaci waayaan.",
+            "Taasi waa maxaa yeelay waxay doortaan waxyaalo kala duwan oo ay diiradda saaraan.",
+            "Mid wuxuu eegi karaa casualties-ka maalintii koowaad.",
+            "Mid kalena wuxuu eegi karaa dadaalkii dagaalka oo dhan.",
+            "Taariikhyahanno qaar waxay General Haig ugu yeeraan butcher, oo ah eray aad u adag.",
+            "Waxay qorshihiisa iyo xeeladihiisa duugoobay ku eedeeyaan dhimasho aan loo baahnayn.",
+            "Kuwa kalena waxay tilmaamaan in loo sheegay goorta iyo meesha uu weerarayo.",
+            "Waxay ku daraan in labada dhinac isku habab isticmaaleen.",
+            "Fikrad caan ah waxaa la yiraahdaa lions led by donkeys.",
+            "Waxay sheegaysaa in askar geesi ah ay hoggaamiyeyaal liitay dayaceen.",
+            "Shaqadaadu waa inaad go'aansato interpretation-kee ku qanciyay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "судження, яке історик складає про минуле, використовуючи свідчення (interpretation)",
+            "тут: різке слово про командира, якого винять у непотрібних смертях (butcher)",
+            "вояки, яких убито, поранено або які зникли безвісти (casualties)",
+            "думка, що відважних вояків підвели погані командири (lions led by donkeys)",
+            "той, якому віриться, бо свідчення його підтверджують (convincing)"
+          ],
+          "passage": [
+            "Історики використовують свідчення, щоб складати судження про минуле.",
+            "Ці судження називають інтерпретаціями.",
+            "Двоє істориків можуть вивчати Сомму і не погодитися.",
+            "Це тому, що вони обирають різні речі, на які дивитися.",
+            "Один може дивитися на втрати першого дня.",
+            "Інший може дивитися на всю воєнну справу.",
+            "Деякі історики називають генерала Гейґа різником (butcher).",
+            "Вони винять його план і його старомодну тактику в непотрібних смертях.",
+            "Інші зауважують, що йому сказали, коли і де наступати.",
+            "Вони додають, що обидві сторони використовували ті самі способи.",
+            "Одна поширена думка називається «леви під проводом ослів» (lions led by donkeys).",
+            "Вона каже, що відважних вояків підвели погані керівники.",
+            "Ваше завдання — вирішити, яка інтерпретація переконує вас."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ فیصلہ جو کوئی مؤرخ شہادت کی مدد سے ماضی کے بارے میں بناتا ہے (interpretation)",
+            "یہاں: اُس سپہ سالار کے لیے ایک سخت لفظ جس پر بے فائدہ موتوں کا الزام لگایا جائے (butcher)",
+            "وہ فوجی جو مارے گئے، زخمی ہوئے یا لاپتا ہو گئے (casualties)",
+            "یہ خیال کہ بہادر فوجیوں کو کمزور سپہ سالاروں نے مایوس کیا (lions led by donkeys)",
+            "قابلِ یقین، کیونکہ شہادت اس کی تائید کرتی ہے (convincing)"
+          ],
+          "passage": [
+            "مؤرخ ماضی کے بارے میں فیصلے بنانے کے لیے شہادت استعمال کرتے ہیں۔",
+            "ان فیصلوں کو interpretations کہا جاتا ہے۔",
+            "دو مؤرخ Somme کا مطالعہ کر کے ایک دوسرے سے اختلاف کر سکتے ہیں۔",
+            "ایسا اس لیے ہوتا ہے کہ وہ توجہ کے لیے مختلف چیزیں چنتے ہیں۔",
+            "کوئی پہلے دن کے casualties کو دیکھ سکتا ہے۔",
+            "کوئی دوسرا پوری جنگ کی کوشش کو دیکھ سکتا ہے۔",
+            "کچھ مؤرخ جنرل ہیگ کو butcher کہتے ہیں۔",
+            "وہ بے فائدہ موتوں کا الزام اس کے منصوبے اور اس کی پرانی tactics پر ڈالتے ہیں۔",
+            "دوسرے یہ بتاتے ہیں کہ اسے کہا گیا تھا کہ کب اور کہاں حملہ کرنا ہے۔",
+            "وہ یہ بھی کہتے ہیں کہ دونوں فریق ایک ہی طریقے استعمال کرتے تھے۔",
+            "ایک مشہور خیال lions led by donkeys کہلاتا ہے۔",
+            "یہ کہتا ہے کہ بہادر فوجیوں کو کمزور رہنماؤں نے مایوس کیا۔",
+            "آپ کا کام یہ طے کرنا ہے کہ کون سی interpretation آپ کو قائل کرتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is an interpretation?",

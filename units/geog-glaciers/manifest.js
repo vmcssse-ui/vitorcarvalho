@@ -107,8 +107,162 @@ window.ASTRA_UNITS["geog-glaciers"] = {
           "Land ice sits on rock, but sea ice floats on water.",
           "When land ice melts, the water runs into the sea and sea level rises.",
           "Glaciers grow and shrink as the seasons change."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كتلة جليد كبيرة تتدفّق ببطء شديد نزولًا في المنحدر (glacier)",
+            "منطقة جليد ضخمة تغطّي كتلة يابسة كاملة (ice sheet)",
+            "مدّة باردة طويلة غطّى فيها الجليد جزءًا أكبر كثيرًا من الأرض (Ice Age)",
+            "جليد يستقرّ على اليابسة، كالأنهار الجليدية والصفائح الجليدية (land ice)",
+            "ماء بحر متجمّد يطفو على المحيط (sea ice)",
+            "أين يوجد الشيء في أنحاء العالم (distribution)"
+          ],
+          "passage": [
+            "يغطّي الجليد نحو 10 في المئة من سطح الأرض.",
+            "ويوجد على هيئة أنهار جليدية وقِباب جليدية وصفائح جليدية.",
+            "والنهر الجليدي (glacier) كتلة جليد كبيرة تتدفّق ببطء شديد نزولًا في المنحدر تجذبها الجاذبية.",
+            "وكثير من الأنهار الجليدية يشبه في شكله نهرًا من الجليد.",
+            "وقبل نحو 20 000 سنة كانت الأرض في عصر جليدي.",
+            "وغطّى الجليد جزءًا كبيرًا من أوروبا، ومنه معظم المملكة المتّحدة.",
+            "وعاشت حيوانات كالماموث الصوفي على الأرض الباردة قرب الجليد.",
+            "واليوم يوجد جليد اليابسة في غرينلاند وأنتاركتيكا وأمريكا الشمالية وجبال الألب والهيمالايا.",
+            "ويطفو جليد البحر على المحيط المتجمّد الشمالي وشمال الأطلسي والمحيط الجنوبي.",
+            "فجليد اليابسة يستقرّ على الصخر، أمّا جليد البحر فيطفو على الماء.",
+            "وعندما يذوب جليد اليابسة يجري الماء إلى البحر فيرتفع مستوى سطح البحر.",
+            "والأنهار الجليدية تكبر وتصغر مع تغيّر الفصول."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wielka masa lodu, która bardzo wolno spływa w dół (glacier)",
+            "ogromny obszar lodu, który pokrywa cały ląd (ice sheet)",
+            "długi zimny okres, kiedy lód pokrywał znacznie większą część Ziemi (Ice Age)",
+            "lód, który leży na lądzie, na przykład lodowce i lądolody (land ice)",
+            "zamarznięta woda morska, która pływa po oceanie (sea ice)",
+            "to, gdzie na świecie coś występuje (distribution)"
+          ],
+          "passage": [
+            "Lód pokrywa około 10 procent powierzchni Ziemi.",
+            "Występuje jako lodowce, czapy lodowe i lądolody.",
+            "Lodowiec (glacier) to wielka masa lodu, która bardzo wolno spływa w dół, ciągnięta przez grawitację.",
+            "Wiele lodowców ma kształt rzeki z lodu.",
+            "Około 20 000 lat temu Ziemia była w epoce lodowej.",
+            "Lód pokrywał dużą część Europy, w tym większość Zjednoczonego Królestwa.",
+            "Zwierzęta takie jak mamut włochaty żyły na zimnym lądzie blisko lodu.",
+            "Dziś lód lądowy występuje na Grenlandii, w Antarktydzie, w Ameryce Północnej, w Alpach i w Himalajach.",
+            "Lód morski pływa po Oceanie Arktycznym, po północnym Atlantyku i po Oceanie Południowym.",
+            "Lód lądowy leży na skale, a lód morski pływa po wodzie.",
+            "Kiedy lód lądowy się topi, woda spływa do morza i poziom morza się podnosi.",
+            "Lodowce rosną i maleją w miarę zmiany pór roku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma grande massa de gelo que desce a encosta muito lentamente (glacier, glaciar/geleira)",
+            "uma enorme área de gelo que cobre uma massa de terra inteira (ice sheet, manto de gelo)",
+            "um longo período frio em que o gelo cobria muito mais da Terra (Ice Age, Idade do Gelo)",
+            "gelo que assenta em terra, como os glaciares/geleiras e os mantos de gelo (land ice)",
+            "água do mar congelada que flutua no oceano (sea ice, gelo marinho)",
+            "onde uma coisa se encontra pelo mundo (distribution, distribuição)"
+          ],
+          "passage": [
+            "O gelo cobre cerca de 10 por cento da superfície da Terra.",
+            "Encontra-se como glaciares/geleiras, calotas de gelo e mantos de gelo.",
+            "Um glaciar/geleira é uma grande massa de gelo que desce a encosta muito lentamente, puxada pela gravidade.",
+            "Muitos glaciares/geleiras têm a forma de um rio de gelo.",
+            "Há cerca de 20 000 anos, a Terra estava numa Idade do Gelo.",
+            "O gelo cobria grande parte da Europa, incluindo quase todo o Reino Unido.",
+            "Animais como o mamute-lanudo viviam na terra fria perto do gelo.",
+            "Hoje, o gelo em terra encontra-se na Groenlândia, na Antártida, na América do Norte, nos Alpes e nos Himalaias.",
+            "O gelo marinho flutua no oceano Ártico, no Atlântico Norte e no oceano Antártico.",
+            "O gelo em terra assenta em rocha, mas o gelo marinho flutua na água.",
+            "Quando o gelo em terra derrete, a água escorre para o mar e o nível do mar sobe.",
+            "Os glaciares/geleiras crescem e encolhem conforme as estações mudam."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "baraf weyn oo si aad u gaabis ah buurta hoos uga qulqulaya",
+            "meel baraf ah oo aad u weyn oo dhul-weyn oo dhan qariya",
+            "muddo dheer oo qabow ah markii barafku qariyay dhul aad uga badan Dhulka",
+            "baraf dhulka ku fadhiya, sida glaciers iyo ice sheets",
+            "biyo badeed barafoobay oo badweynta ku dul sabbaynaya",
+            "halka wax laga helo dunida oo dhan"
+          ],
+          "passage": [
+            "Barafku wuxuu qariyaa qiyaastii 10 boqolkiiba dusha Dhulka.",
+            "Waxaa laga helaa glaciers, ice caps iyo ice sheets.",
+            "Glacier waa baraf weyn oo si aad u gaabis ah buurta hoos uga qulqulaya, oo cuf-jiidadku jiidayo.",
+            "Glaciers badan waxay u eg yihiin webi baraf ah.",
+            "Qiyaastii 20 000 sano ka hor, Dhulku wuxuu ku jiray Xilligii Barafka (Ice Age).",
+            "Barafku wuxuu qariyay inta badan Yurub, oo ay ku jirto inta badan Boqortooyada Midowday.",
+            "Xayawaan sida woolly mammoth waxay ku noolaayeen dhulka qabow ee barafka u dhow.",
+            "Maanta, barafka dhulka waxaa laga helaa Greenland, Antarctica, Waqooyiga Ameerika, Buuraha Alps iyo Buuraha Himalaya.",
+            "Barafka badda wuxuu dul sabbaynayaa Badweynta Arctic, Waqooyiga Atlantic iyo Badweynta Koonfureed.",
+            "Barafka dhulka dhagax ayuu ku fadhiistaa, barafka baddase biyo ayuu ku sabbaynayaa.",
+            "Marka barafka dhulka dhalaalo, biyuhu badda ayay u qulqulaan, heerka baddana wuu kacaa.",
+            "Glaciers way kordhaan oo way yaraadaan sida xilliyadu u isbeddelaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "велика маса льоду, яка дуже повільно тече вниз схилом (glacier)",
+            "величезний простір льоду, що покриває цілий масив землі (ice sheet)",
+            "довгий холодний період, коли лід покривав значно більшу частину Землі (Ice Age)",
+            "лід, що лежить на землі, як-от льодовики і льодові щити (land ice)",
+            "замерзла морська вода, що плаває на океані (sea ice)",
+            "те, де щось зустрічається у світі (distribution)"
+          ],
+          "passage": [
+            "Лід покриває приблизно 10 відсотків поверхні Землі.",
+            "Він зустрічається як льодовики, льодові шапки і льодові щити.",
+            "Льодовик (glacier) — це велика маса льоду, яка дуже повільно тече вниз схилом, тягнена силою тяжіння.",
+            "Багато льодовиків мають форму річки з льоду.",
+            "Близько 20 000 років тому Земля була в льодовиковому періоді.",
+            "Лід покривав значну частину Європи, зокрема більшу частину Об’єднаного Королівства.",
+            "Такі тварини, як волохатий мамонт, жили на холодній землі біля льоду.",
+            "Сьогодні наземний лід є у Ґренландії, Антарктиді, Північній Америці, Альпах і Гімалаях.",
+            "Морський лід плаває в Арктичному океані, Північній Атлантиці та Південному океані.",
+            "Наземний лід лежить на скелі, а морський лід плаває на воді.",
+            "Коли наземний лід тане, вода стікає в море і рівень моря піднімається.",
+            "Льодовики ростуть і зменшуються зі зміною сезонів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "برف کا ایک بڑا تودہ جو بہت آہستہ ڈھلان پر بہتا ہے (glacier)",
+            "برف کا ایک بہت بڑا علاقہ جو پوری خشکی کو ڈھانپ لے (ice sheet)",
+            "ایک لمبا سرد دور جب برف زمین کے بہت زیادہ حصے پر تھی (Ice Age)",
+            "وہ برف جو خشکی پر ٹکی ہو، جیسے glaciers اور ice sheets",
+            "جمے ہوئے سمندری پانی کی برف جو سمندر پر تیرتی ہے (sea ice)",
+            "کوئی چیز دنیا بھر میں کہاں کہاں پائی جاتی ہے (distribution)"
+          ],
+          "passage": [
+            "برف زمین کی سطح کے تقریباً 10 فیصد حصے پر ہے۔",
+            "یہ glaciers، ice caps اور ice sheets کی شکل میں پائی جاتی ہے۔",
+            "glacier برف کا بڑا تودہ ہے جو کششِ ثقل کے کھینچنے سے بہت آہستہ ڈھلان پر بہتا ہے۔",
+            "بہت سے glaciers کی شکل برف کے دریا جیسی ہوتی ہے۔",
+            "تقریباً 20 000 سال پہلے زمین Ice Age میں تھی۔",
+            "برف نے یورپ کا بڑا حصہ ڈھانپ لیا تھا، جس میں برطانیہ کا بھی زیادہ تر حصہ شامل تھا۔",
+            "اونی میمتھ (woolly mammoth) جیسے جانور برف کے قریب اس سرد زمین پر رہتے تھے۔",
+            "آج land ice گرین لینڈ، انٹارکٹکا، شمالی امریکہ، الپس اور ہمالیہ میں ہے۔",
+            "sea ice بحرِ منجمد شمالی (Arctic Ocean)، شمالی بحرِ اوقیانوس اور جنوبی سمندر پر تیرتی ہے۔",
+            "land ice چٹان پر بیٹھی ہوتی ہے، مگر sea ice پانی پر تیرتی ہے۔",
+            "جب land ice پگھلتی ہے تو پانی سمندر میں جاتا ہے اور سمندر کی سطح بلند ہو جاتی ہے۔",
+            "موسم بدلنے کے ساتھ glaciers بڑھتے اور سکڑتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is a glacier?",
@@ -310,8 +464,168 @@ window.ASTRA_UNITS["geog-glaciers"] = {
           "The glacier flows slowly downhill, and meltwater is the main output.",
           "Snow added to a glacier is called accumulation.",
           "Ice lost by melting is called ablation."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن يُضغَط الشيء ضغطًا شديدًا بثِقَل ما فوقه (compaction)",
+            "ثلج صلب متراصّ في طريقه إلى أن يصير جليدًا نهريًّا (névé)",
+            "إضافة الثلج إلى النهر الجليدي (accumulation)",
+            "فقدان النهر الجليدي جليدَه بالذوبان (ablation)",
+            "طرف النهر الجليدي حيث يتوقّف الجليد (snout)",
+            "مجموعة من الأجزاء لها مُدخلات ومخازن وتدفّقات ومُخرجات (system)"
+          ],
+          "passage": [
+            "يبدأ جليد النهر الجليدي ثلجًا.",
+            "وفي كلّ سنة يسقط ثلج جديد فوق الثلج القديم.",
+            "فيتراكم الثلج طبقاتٍ، أقدمها في الأسفل.",
+            "ويضغط ثِقَل الثلج الجديد على الطبقات التي تحته.",
+            "فيُطرَد الهواء، ويصير الثلج أشبه بالجليد.",
+            "ويُسمّى الثلج الصلب المتراصّ نيفي (névé).",
+            "وعندما يذهب الهواء كلّه يصير جليدًا نهريًّا.",
+            "وقد يستغرق هذا 20 سنة.",
+            "والنهر الجليدي يعمل كنظام، له مُدخلات ومخازن وتدفّقات ومُخرجات.",
+            "فالثلج هو المُدخَل الرئيس، والجليد هو المخزن.",
+            "ويتدفّق النهر الجليدي ببطء نزولًا، وماء الذوبان هو المُخرَج الرئيس.",
+            "ويُسمّى الثلج المضاف إلى النهر الجليدي تراكمًا (accumulation).",
+            "ويُسمّى الجليد المفقود بالذوبان تآكلًا جليديًّا (ablation)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ściśnięcie w jedno pod ciężarem z góry (compaction)",
+            "twardy, zbity śnieg, który zmienia się w lód lodowcowy (névé)",
+            "śnieg, który dokłada się do lodowca (accumulation)",
+            "ubytek lodu z lodowca przez topienie (ablation)",
+            "koniec lodowca, tam gdzie lód się zatrzymuje (snout)",
+            "zestaw części z wejściami, magazynami, przepływami i wyjściami (system)"
+          ],
+          "passage": [
+            "Lód lodowcowy zaczyna się od śniegu.",
+            "Każdego roku nowy śnieg spada na stary.",
+            "Śnieg narasta warstwami, a najstarsza warstwa jest na dole.",
+            "Ciężar nowego śniegu naciska na warstwy pod nim.",
+            "Powietrze zostaje wyciśnięte, a śnieg staje się coraz bardziej podobny do lodu.",
+            "Twardy, zbity śnieg nazywamy névé.",
+            "Kiedy całe powietrze zniknie, mamy lód lodowcowy.",
+            "Może to zająć nawet 20 lat.",
+            "Lodowiec działa jak system, z wejściami, magazynami, przepływami i wyjściami.",
+            "Śnieg jest głównym wejściem, a lód jest magazynem.",
+            "Lodowiec wolno spływa w dół, a woda z topienia jest głównym wyjściem.",
+            "Śnieg dołożony do lodowca nazywamy akumulacją (accumulation).",
+            "Lód utracony przez topienie nazywamy ablacją (ablation)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ser apertado com muita força pelo peso que está em cima (compaction, compactação)",
+            "neve dura e compactada que está a caminho de se tornar gelo de glaciar/geleira (névé)",
+            "neve que se junta a um glaciar/geleira (accumulation, acumulação)",
+            "gelo que um glaciar/geleira perde por derretimento (ablation, ablação)",
+            "a ponta de um glaciar/geleira, onde o gelo acaba (snout, frente glaciar)",
+            "um conjunto de partes com entradas, reservas, fluxos e saídas (system, sistema)"
+          ],
+          "passage": [
+            "O gelo de um glaciar/geleira começa como neve.",
+            "Todos os anos cai neve nova por cima da neve velha.",
+            "A neve acumula-se em camadas, com a mais antiga no fundo.",
+            "O peso da neve nova pressiona as camadas que estão por baixo.",
+            "O ar é expulso, e a neve fica mais parecida com gelo.",
+            "A neve dura e compactada chama-se névé.",
+            "Quando já saiu todo o ar, é gelo de glaciar/geleira.",
+            "Isto pode levar até 20 anos.",
+            "Um glaciar/geleira funciona como um sistema, com entradas, reservas, fluxos e saídas.",
+            "A neve é a entrada principal, e o gelo é a reserva.",
+            "O glaciar/geleira corre devagar pela encosta, e a água de degelo é a saída principal.",
+            "A neve que se junta a um glaciar/geleira chama-se acumulação (accumulation).",
+            "O gelo perdido por derretimento chama-se ablação (ablation)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "in la isku riixo si adag culayska kor ka imaanaya",
+            "baraf adag oo isku riixan oo ku socda inuu noqdo barafka glacier-ka",
+            "baraf lagu dara glacier",
+            "baraf glacier ka lumaya dhalaalid",
+            "dhammaadka glacier-ka, meesha barafku ku joogsado",
+            "urur qaybo ah oo leh waxa gudaha u socda, waxa lagu kaydiya, socodka iyo waxa dibadda u baxa"
+          ],
+          "passage": [
+            "Barafka glacier-ka wuxuu ku bilaabmaa baraf-roob.",
+            "Sano kasta, baraf cusub wuxuu ku dul da'aa barafkii hore.",
+            "Barafku lakabyo ayuu isugu tuulmaa, kii ugu duqoobayna hoosta ayuu ku jiraa.",
+            "Culayska barafka cusub wuxuu hoos u riixaa lakabyada hoostiisa.",
+            "Hawadu dibadda ayay u baxdaa, barafkuna wuxuu noqdaa mid baraf adag u eg.",
+            "Barafka adag ee isku riixan waxaa loo yiraahdaa névé.",
+            "Marka hawada oo dhan baxdo, waa barafka glacier-ka.",
+            "Tan waxay qaadan kartaa ilaa 20 sano.",
+            "Glacier wuxuu u shaqeeyaa sidii nidaam, leh waxa gudaha u socda, waxa lagu kaydiya, socodka iyo waxa dibadda u baxa.",
+            "Barafka baraf-roobku waa waxa ugu weyn gudaha u socda, barafka adagna waa kaydka.",
+            "Glacier-ku si tartiib ah buurta hoos ayuu uga qulqulaa, biyaha dhalaalayana waa waxa ugu weyn dibadda u baxa.",
+            "Barafka glacier lagu daro waxaa loo yiraahdaa accumulation.",
+            "Barafka dhalaalidda ku lumaya waxaa loo yiraahdaa ablation."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "бути щільно стиснутим вагою згори (compaction)",
+            "твердий злежаний сніг, який перетворюється на льодовиковий лід (névé)",
+            "сніг, що додається до льодовика (accumulation)",
+            "лід, що втрачається льодовиком через таяння (ablation)",
+            "кінець льодовика, де лід зупиняється (snout)",
+            "набір частин із входами, запасами, потоками і виходами (system)"
+          ],
+          "passage": [
+            "Льодовиковий лід починається як сніг.",
+            "Кожного року новий сніг падає на старий сніг.",
+            "Сніг накопичується шарами, і найстаріший — на дні.",
+            "Вага нового снігу тисне на шари під ним.",
+            "Повітря витискається, і сніг стає більше схожим на лід.",
+            "Твердий злежаний сніг називають фірном (névé).",
+            "Коли все повітря зникло, це льодовиковий лід.",
+            "Це може тривати аж 20 років.",
+            "Льодовик працює як система (system), з входами, запасами, потоками і виходами.",
+            "Сніг — головний вхід, а лід — запас.",
+            "Льодовик повільно тече вниз схилом, а вода від таяння — головний вихід.",
+            "Сніг, що додається до льодовика, називають акумуляцією (accumulation).",
+            "Лід, що втрачається через таяння, називають абляцією (ablation)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اوپر کے وزن سے زور سے دب کر آپس میں بھنچ جانا (compaction)",
+            "سخت، دبی ہوئی برف جو glacier کی برف بننے کی راہ پر ہے (névé)",
+            "glacier میں نئی برف کا شامل ہونا (accumulation)",
+            "پگھلنے سے glacier کی برف کا کم ہونا (ablation)",
+            "glacier کا سرا، جہاں برف رک جاتی ہے (snout)",
+            "ایسے حصوں کا مجموعہ جس میں inputs، stores، flows اور outputs ہوں (system)"
+          ],
+          "passage": [
+            "glacier کی برف کا آغاز برفباری سے ہوتا ہے۔",
+            "ہر سال پرانی برف کے اوپر نئی برف گرتی ہے۔",
+            "برف تہوں میں جمع ہوتی ہے، سب سے پرانی تہہ سب سے نیچے۔",
+            "نئی برف کا وزن نیچے کی تہوں پر دباؤ ڈالتا ہے۔",
+            "ہوا نچڑ کر باہر نکل جاتی ہے، اور برف زیادہ سخت برف جیسی ہو جاتی ہے۔",
+            "سخت، دبی ہوئی برف کو névé کہتے ہیں۔",
+            "جب ساری ہوا نکل جاتی ہے تو یہ glacier کی برف بن جاتی ہے۔",
+            "اس میں 20 سال تک لگ سکتے ہیں۔",
+            "glacier ایک system کی طرح کام کرتا ہے، جس میں inputs، stores، flows اور outputs ہوتے ہیں۔",
+            "برفباری بڑا input ہے، اور برف store ہے۔",
+            "glacier آہستہ آہستہ ڈھلان پر بہتا ہے، اور پگھلا ہوا پانی بڑا output ہے۔",
+            "glacier میں شامل ہونے والی برف کو accumulation کہتے ہیں۔",
+            "پگھلنے سے کم ہونے والی برف کو ablation کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Snow becomes ice",
@@ -512,8 +826,162 @@ window.ASTRA_UNITS["geog-glaciers"] = {
           "Abrasion is when rocks frozen into the bottom of the glacier scrape the ground.",
           "Before glaciation, a valley is V-shaped, with rounded hills.",
           "After glaciation, the valley is U-shaped, with steep sides and a flat floor."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "بَري الأرض وزوالها شيئًا فشيئًا (erosion)",
+            "تفتّت الصخر في موضعه بسبب الطقس (weathering)",
+            "تجمّد الماء في شقّ فيتمدّد فيكسر الصخر (freeze-thaw)",
+            "انتزاع النهر الجليدي كتل الصخر وهو يتحرّك (plucking)",
+            "صخور متجمّدة في النهر الجليدي تحكّ الأرض كورق الصنفرة (abrasion)",
+            "وادٍ قاعه عريض مستوٍ وجانباه شديدا الانحدار، حفره نهر جليدي (U-shaped valley)"
+          ],
+          "passage": [
+            "للنهر الجليدي ثلاثة أعمال.",
+            "فهو يرفع الصخر، وهذه هي التعرية (erosion).",
+            "وهو يحمل الصخر بعيدًا، وهذا هو النقل.",
+            "وهو يُسقط الصخر، وهذا هو الترسيب.",
+            "والنهر الجليدي كجرّافة ضخمة تدفع في الأرض.",
+            "والتجوية (weathering) تفتّت الصخر وهو في موضعه.",
+            "وفي تجوية التجمّد والذوبان (freeze-thaw) يملأ الماء شقوق الصخر.",
+            "فيتجمّد الماء ويتمدّد، فينكسر الصخر بعد حين.",
+            "والاقتلاع (plucking) هو أن ينتزع النهر الجليدي كتل الصخر وهو يتحرّك.",
+            "والبَري (abrasion) هو أن تحكّ الصخور المتجمّدة في قاع النهر الجليدي الأرضَ.",
+            "وقبل التجلّد يكون الوادي على شكل حرف V، وتلاله مستديرة.",
+            "وبعد التجلّد يكون الوادي على شكل حرف U، جانباه شديدا الانحدار وقاعه مستوٍ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ścieranie i niszczenie lądu (erosion)",
+            "rozpad skały na miejscu, pod wpływem pogody (weathering)",
+            "woda w szczelinie zamarza, rozszerza się i rozsadza skałę (freeze-thaw)",
+            "lodowiec odrywa bloki skalne, kiedy się przesuwa (plucking)",
+            "skały wmarznięte w lodowiec szorują po podłożu jak papier ścierny (abrasion)",
+            "dolina o szerokim, płaskim dnie i stromych zboczach, wyrzeźbiona przez lodowiec (U-shaped valley)"
+          ],
+          "passage": [
+            "Lodowiec wykonuje trzy prace.",
+            "Zabiera skałę, a to jest erozja (erosion).",
+            "Przenosi skałę dalej, a to jest transport.",
+            "Zostawia skałę, a to jest akumulacja materiału (deposition).",
+            "Lodowiec jest jak ogromny spychacz, który przepycha się przez teren.",
+            "Wietrzenie (weathering) rozbija skałę, kiedy ta jest jeszcze na swoim miejscu.",
+            "W wietrzeniu mrozowym (freeze-thaw) woda wypełnia szczeliny w skale.",
+            "Woda zamarza i rozszerza się, a z czasem skała pęka.",
+            "Odrywanie (plucking) to sytuacja, w której lodowiec odrywa bloki skalne, kiedy się przesuwa.",
+            "Abrazja (abrasion) to sytuacja, w której skały wmarznięte w spód lodowca szorują po podłożu.",
+            "Przed zlodowaceniem dolina ma kształt litery V, a wzgórza są zaokrąglone.",
+            "Po zlodowaceniu dolina ma kształt litery U, ze stromymi zboczami i płaskim dnem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o desgaste do terreno (erosion, erosão)",
+            "rocha que se desfaz no próprio lugar, por causa do tempo (weathering, meteorização/intemperismo)",
+            "água numa fenda que congela, se expande e parte a rocha (freeze-thaw, gelo-degelo)",
+            "um glaciar/geleira a arrancar blocos de rocha enquanto se move (plucking)",
+            "rochas presas no gelo a raspar o solo como lixa (abrasion, abrasão)",
+            "um vale com fundo largo e plano e encostas íngremes, escavado por um glaciar/geleira (U-shaped valley, vale em U)"
+          ],
+          "passage": [
+            "Um glaciar/geleira faz três coisas.",
+            "Levanta rocha, e isso é erosão (erosion).",
+            "Transporta a rocha, e isso é transporte.",
+            "Deixa cair a rocha, e isso é deposição.",
+            "Um glaciar/geleira é como uma enorme escavadora/escavadeira a abrir caminho pelo terreno.",
+            "A meteorização/intemperismo (weathering) desfaz a rocha enquanto ela ainda está no lugar.",
+            "Na meteorização por gelo-degelo (freeze-thaw), a água enche as fendas da rocha.",
+            "A água congela e expande-se, e com o tempo a rocha parte-se.",
+            "O plucking é quando um glaciar/geleira arranca blocos de rocha enquanto se move.",
+            "A abrasão (abrasion) é quando as rochas presas no fundo do glaciar/geleira raspam o solo.",
+            "Antes da glaciação, um vale tem a forma de V, com colinas arredondadas.",
+            "Depois da glaciação, o vale tem a forma de U, com encostas íngremes e fundo plano."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "duugmidda dhulka",
+            "dhagaxa oo meeshiisa ku burburo, hawada sababtu tahay",
+            "biyo dildillaac ku jira oo barafooba, fida oo dhagaxa jebiya",
+            "glacier oo dhagaxyo xoqa oo la tagaya markuu socdo",
+            "dhagaxyo barafka ku barafoobay oo dhulka xoqaya sidii warqad-xoqid",
+            "dooxo leh salka ballaaran oo siman iyo dhinacyo kacsan, oo glacier qoday"
+          ],
+          "passage": [
+            "Glacier wuxuu saddex shaqo qabtaa.",
+            "Dhagax wuu qaadaa, taasina waa nabaad-guur (erosion).",
+            "Dhagaxa wuu la tagaa, taasina waa gaadiidka.",
+            "Dhagaxa wuu dejiyaa, taasina waa dejin (deposition).",
+            "Glacier wuxuu la mid yahay baaboor dhul-qodis weyn oo dhulka dhex riixaya.",
+            "Weathering waxay dhagaxa burburisaa isagoo weli meeshiisa jooga.",
+            "Weathering-ka freeze-thaw, biyo waxay buuxiyaan dildillaacyada dhagaxa.",
+            "Biyuhu way barafoobaan oo way fidaan, muddo ka dibna dhagaxu wuu kala jabaa.",
+            "Plucking waa marka glacier uu dhagaxyo xoqo oo la tago intii uu socdo.",
+            "Abrasion waa marka dhagaxyada hoosta glacier-ka ku barafoobay ay dhulka xoqaan.",
+            "Glaciation-ka ka hor, dooxadu waa V-shaped, oo kuro wareegsan leh.",
+            "Glaciation-ka ka dib, dooxadu waa U-shaped, oo leh dhinacyo kacsan iyo sal siman."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "зношування землі (erosion)",
+            "руйнування породи на місці через погоду (weathering)",
+            "вода в тріщині замерзає, розширюється і розриває породу (freeze-thaw)",
+            "льодовик відриває блоки породи, коли рухається (plucking)",
+            "каміння, вмерзле в льодовик, шкрябає землю, наче шліфувальний папір (abrasion)",
+            "долина з широким плоским дном і крутими схилами, вирізана льодовиком (U-shaped valley)"
+          ],
+          "passage": [
+            "Льодовик виконує три роботи.",
+            "Він підбирає породу — це ерозія (erosion).",
+            "Він переносить породу — це транспорт.",
+            "Він скидає породу — це відкладання.",
+            "Льодовик — наче величезний бульдозер, що проштовхується крізь землю.",
+            "Вивітрювання (weathering) руйнує породу, коли вона ще на місці.",
+            "У морозному вивітрюванні (freeze-thaw) вода заповнює тріщини в породі.",
+            "Вода замерзає і розширюється, і з часом порода розривається.",
+            "Відривання (plucking) — це коли льодовик відриває блоки породи, рухаючись.",
+            "Абразія (abrasion) — це коли каміння, вмерзле в дно льодовика, шкрябає землю.",
+            "До зледеніння долина має V-подібну форму, з округлими пагорбами.",
+            "Після зледеніння долина U-подібна, з крутими схилами і плоским дном."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کا گھستے گھستے ختم ہونا (erosion)",
+            "چٹان کا اپنی جگہ پر ہی موسم کے اثر سے ٹوٹنا (weathering)",
+            "دراز میں پانی جم کر پھیلتا ہے اور چٹان توڑ دیتا ہے (freeze-thaw)",
+            "glacier چلتے ہوئے چٹان کے ٹکڑے نوچ کر اکھاڑ لے (plucking)",
+            "glacier میں جمی ہوئی چٹانیں زمین کو ریگ مال کی طرح رگڑتی ہیں (abrasion)",
+            "وہ وادی جس کا فرش چوڑا اور ہموار اور کنارے کھڑے ہوں، جو glacier نے تراشی ہو (U-shaped valley)"
+          ],
+          "passage": [
+            "glacier تین کام کرتا ہے۔",
+            "یہ چٹان اٹھاتا ہے، جو erosion ہے۔",
+            "یہ چٹان کو دور لے جاتا ہے، جو transport ہے۔",
+            "یہ چٹان کو گرا دیتا ہے، جو deposition ہے۔",
+            "glacier ایک بہت بڑے بلڈوزر کی طرح زمین میں سے گزرتا ہے۔",
+            "weathering چٹان کو اسی کی جگہ پر توڑتا ہے۔",
+            "freeze-thaw weathering میں پانی چٹان کی درازوں کو بھر دیتا ہے۔",
+            "پانی جم کر پھیلتا ہے، اور وقت کے ساتھ چٹان ٹوٹ جاتی ہے۔",
+            "plucking یہ ہے کہ glacier چلتے ہوئے چٹان کے ٹکڑے نوچ کر اکھاڑ لیتا ہے۔",
+            "abrasion یہ ہے کہ glacier کی تہہ میں جمی ہوئی چٹانیں زمین کو رگڑتی ہیں۔",
+            "glaciation سے پہلے وادی V کی شکل کی ہوتی ہے، اور پہاڑیاں گول۔",
+            "glaciation کے بعد وادی U کی شکل کی ہوتی ہے، کھڑے کناروں اور ہموار فرش کے ساتھ۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Three jobs: erode, transport, deposit",
@@ -715,8 +1183,168 @@ window.ASTRA_UNITS["geog-glaciers"] = {
           "When three or more corries cut back into one mountain, a pointed pyramidal peak is left.",
           "The Matterhorn in the Alps is a pyramidal peak.",
           "Ben Lui in Scotland has a corrie."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "حفرة مستديرة على شكل كرسيّ ذي مسندين، لها جدار خلفي شديد الانحدار، على جانب الجبل (corrie)",
+            "حرف ضيّق حادّ كحدّ السكّين بين حوضين جليديّين (arête)",
+            "قمّة جبل مدبّبة تبقى حيث تلتقي ثلاثة أحواض جليدية أو أكثر (pyramidal peak)",
+            "بحيرة في قاع الحوض الجليدي (tarn)",
+            "الجُرف شديد الانحدار في مؤخّرة الحوض الجليدي (back wall)",
+            "أن يدور في دائرة (rotate)"
+          ],
+          "passage": [
+            "عاليًا في الجبال تحفر الأنهار الجليدية أشكالًا أرضية خاصّة.",
+            "والحوض الجليدي (corrie) حفرة مستديرة على جانب الجبل، شكلها كشكل كرسيّ ذي مسندين.",
+            "وله جدار خلفي شديد الانحدار.",
+            "ويبدأ الحوض الجليدي حيث يتجمّع الثلج في حفرة فيُضغَط حتى يصير جليدًا.",
+            "فيثقل الجليد ويبدأ بالتحرّك نزولًا.",
+            "والاقتلاع يجعل الجدار الخلفي أشدّ انحدارًا.",
+            "والجليد يدور ويجرف قاع الحفرة.",
+            "وعندما يذوب الجليد قد يملأ الماء القاع فيصنع بحيرة تُسمّى تارن (tarn).",
+            "وعندما يتكوّن حوضان جليديّان ظهرًا لظهر يبقى بينهما حرف حادّ كحدّ السكّين.",
+            "وهذا الحرف يُسمّى أريت (arête).",
+            "وعندما تقطع ثلاثة أحواض جليدية أو أكثر في جبل واحد تبقى قمّة هرمية مدبّبة.",
+            "وجبل ماترهورن (Matterhorn) في الألب قمّة هرمية.",
+            "وفي جبل بن لوي (Ben Lui) في اسكتلندا حوض جليدي."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zaokrąglone wgłębienie w kształcie fotela, ze stromą ścianą z tyłu, na zboczu góry (corrie)",
+            "wąska, ostra jak nóż grań między dwoma karami (arête)",
+            "ostry szczyt góry, który zostaje tam, gdzie zbiegają się trzy albo więcej karów (pyramidal peak)",
+            "jeziorko na dnie karu (tarn)",
+            "strome urwisko z tyłu karu (back wall)",
+            "obracać się w kółko"
+          ],
+          "passage": [
+            "Wysoko w górach lodowce rzeźbią szczególne formy terenu.",
+            "Kar (corrie) to zaokrąglone wgłębienie na zboczu góry, w kształcie fotela.",
+            "Ma stromą ścianę z tyłu.",
+            "Kar zaczyna się tam, gdzie śnieg zbiera się w zagłębieniu i jest ściskany w lód.",
+            "Lód staje się ciężki i zaczyna przesuwać się w dół.",
+            "Odrywanie (plucking) sprawia, że tylna ściana staje się bardziej stroma.",
+            "Lód obraca się i wygarnia dno zagłębienia.",
+            "Kiedy lód się stopi, woda może wypełnić dno i utworzyć jeziorko zwane tarn.",
+            "Kiedy dwa kary powstaną tyłem do siebie, zostaje między nimi ostra grań.",
+            "Ta grań to arête.",
+            "Kiedy trzy albo więcej karów wcina się w jedną górę, zostaje ostry szczyt piramidalny (pyramidal peak).",
+            "Matterhorn w Alpach to szczyt piramidalny.",
+            "Ben Lui w Szkocji ma kar."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma depressão arredondada em forma de poltrona, com uma parede traseira íngreme, na encosta de uma montanha (corrie, circo glaciar)",
+            "uma crista estreita e afiada entre dois circos glaciares (arête)",
+            "um cume pontiagudo que fica onde três ou mais circos glaciares se encontram (pyramidal peak, pico piramidal)",
+            "um lago no fundo de um circo glaciar (tarn)",
+            "a falésia íngreme no fundo de um circo glaciar (back wall, parede traseira)",
+            "girar em círculo (rotate, rodar/girar)"
+          ],
+          "passage": [
+            "Lá no alto das montanhas, os glaciares/geleiras escavam formas de relevo especiais.",
+            "Um corrie (circo glaciar) é uma depressão arredondada na encosta de uma montanha, com a forma de uma poltrona.",
+            "Tem uma parede traseira íngreme.",
+            "Um corrie começa onde a neve se junta numa depressão e é apertada até se tornar gelo.",
+            "O gelo fica pesado e começa a descer a encosta.",
+            "O plucking torna a parede traseira mais íngreme.",
+            "O gelo roda/gira e escava o fundo da depressão.",
+            "Quando o gelo derrete, a água pode encher o fundo e formar um lago chamado tarn.",
+            "Quando se formam dois corries costas com costas, fica entre eles uma crista afiada.",
+            "Essa crista é um arête.",
+            "Quando três ou mais corries cortam para dentro da mesma montanha, fica um pico piramidal pontiagudo.",
+            "O Matterhorn, nos Alpes, é um pico piramidal.",
+            "O Ben Lui, na Escócia, tem um corrie."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "god wareegsan oo u eg kursi gacmo leh oo leh jar toosan gadaal, oo buur dhinac ku yaal",
+            "kor-dheer cidhiidhi ah oo sida mindi afeysan oo u dhexeeya laba corrie",
+            "buur-dhaladh af leh oo ka tagay meesha saddex corrie ama ka badan ay ku kulmaan",
+            "haro ku jirta salka corrie",
+            "jarka toosan ee gadaasha corrie",
+            "inuu goobo ku wareego"
+          ],
+          "passage": [
+            "Buuraha meelaha sare, glaciers waxay qodaan qaabab dhul gaar ah.",
+            "Corrie waa god wareegsan oo buur dhinac ku yaal, oo u eg kursi gacmo leh.",
+            "Wuxuu leeyahay jar toosan gadaal.",
+            "Corrie wuxuu ku bilaabmaa meesha barafku god ku urursan yahay oo baraf adag loo riixay.",
+            "Barafku wuu culus noqdaa oo wuxuu bilaabaa inuu buurta hoos u socdo.",
+            "Plucking waxay jarka gadaasha ka dhigtaa mid ka sii toosan.",
+            "Barafku wuu wareegaa oo wuxuu salka godka ka xaaqaa.",
+            "Marka barafku dhalaalo, biyo waxay salka buuxin karaan oo waxay samaysaa haro la yiraahdo tarn.",
+            "Marka laba corrie dhabar-ka-dhabar u samaysmaan, kor-dheer cidhiidhi ah ayaa u dhexeeya.",
+            "Kor-dheerahaas afeysan waa arête.",
+            "Marka saddex corrie ama ka badan hal buur gadaal uga gooyaan, waxaa ka tagaa pyramidal peak af leh.",
+            "Buurta Matterhorn ee silsiladda Alps waa pyramidal peak.",
+            "Buurta Ben Lui ee Scotland waxay leedahay corrie."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "округла заглибина у формі крісла з крутою задньою стінкою на схилі гори (corrie)",
+            "вузький, гострий як ніж хребет між двома карами (arête)",
+            "загострена вершина гори, що залишається там, де сходяться три або більше карів (pyramidal peak)",
+            "озеро на дні кара (tarn)",
+            "крута скеля в задній частині кара (back wall)",
+            "обертатися по колу (rotate)"
+          ],
+          "passage": [
+            "Високо в горах льодовики вирізають особливі форми рельєфу.",
+            "Кар (corrie) — це округла заглибина на схилі гори, формою схожа на крісло.",
+            "Він має круту задню стінку.",
+            "Кар починається там, де сніг збирається в заглибині і стискається в лід.",
+            "Лід важчає і починає рухатися вниз схилом.",
+            "Відривання робить задню стінку крутішою.",
+            "Лід обертається і вигрібає дно заглибини.",
+            "Коли лід тане, вода може заповнити дно й утворити карове озеро (tarn).",
+            "Коли два кари утворюються спина до спини, між ними залишається гострий як ніж хребет.",
+            "Цей хребет — це арет (arête).",
+            "Коли три або більше карів врізаються в одну гору, залишається загострена пірамідальна вершина.",
+            "Матергорн (Matterhorn) в Альпах — це пірамідальна вершина.",
+            "Бен-Луї (Ben Lui) у Шотландії має кар."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پہاڑ کی ڈھلان پر گول، آرام کرسی جیسی گہرائی جس کی پچھلی دیوار کھڑی ہو (corrie)",
+            "دو corries کے درمیان چھری کی دھار جیسی تنگ پہاڑی لکیر (arête)",
+            "نوکیلی پہاڑی چوٹی جو تین یا زیادہ corries کے ملنے پر بچ جاتی ہے (pyramidal peak)",
+            "corrie کی تہہ میں بنی جھیل (tarn)",
+            "corrie کے پیچھے کی کھڑی چٹانی دیوار (back wall)",
+            "گول گھومنا"
+          ],
+          "passage": [
+            "پہاڑوں میں بہت اوپر glaciers خاص شکلیں تراشتے ہیں۔",
+            "corrie پہاڑ کی ڈھلان پر ایک گول گہرائی ہے، جس کی شکل آرام کرسی جیسی ہوتی ہے۔",
+            "اس کی پچھلی دیوار کھڑی ہوتی ہے۔",
+            "corrie وہاں بننا شروع ہوتا ہے جہاں برف کسی گہرائی میں جمع ہو کر دب کر سخت برف بن جاتی ہے۔",
+            "برف بھاری ہو جاتی ہے اور ڈھلان پر سرکنے لگتی ہے۔",
+            "plucking پچھلی دیوار کو زیادہ کھڑا کر دیتا ہے۔",
+            "برف گول گھومتی ہے اور گہرائی کے فرش کو کھود کر گہرا کرتی ہے۔",
+            "جب برف پگھلتی ہے تو پانی اس فرش کو بھر کر ایک جھیل بنا سکتا ہے، جسے tarn کہتے ہیں۔",
+            "جب دو corries پیٹھ سے پیٹھ ملا کر بنتے ہیں تو ان کے درمیان چھری کی دھار جیسی لکیر بچ جاتی ہے۔",
+            "یہی لکیر arête ہے۔",
+            "جب تین یا زیادہ corries ایک ہی پہاڑ کو کاٹتے ہوئے پیچھے بڑھتے ہیں تو ایک نوکیلی pyramidal peak بچ جاتی ہے۔",
+            "الپس میں Matterhorn ایک pyramidal peak ہے۔",
+            "سکاٹ لینڈ میں Ben Lui پر ایک corrie ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The corrie",
@@ -915,8 +1543,168 @@ window.ASTRA_UNITS["geog-glaciers"] = {
           "A group of drumlins is called a swarm.",
           "An erratic is a boulder that is different from the rock it sits on.",
           "The glacier carried it there, so erratics show which way the ice flowed."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "خليط من الصخور الحادّة غير المصنّفة يُسقطه النهر الجليدي (till)",
+            "رُكام أو حرف من الطين الجليدي يتركه النهر الجليدي (moraine)",
+            "على الجانب (lateral)",
+            "في الوسط (medial)",
+            "تلّ طويل منخفض مصنوع من الطين الجليدي (drumlin)",
+            "صخرة كبيرة تختلف عن الصخر الذي تستقرّ عليه (erratic)"
+          ],
+          "passage": [
+            "يحمل النهر الجليدي حِملًا ضخمًا من الصخر.",
+            "وعندما يذوب الجليد يُسقط النهر الجليدي هذا الحِمل.",
+            "وتُسمّى المادّة المُسقَطة طينًا جليديًّا (till).",
+            "والطين الجليدي خليط من صخور حادّة بكلّ الأحجام.",
+            "والمورين (moraine) رُكام أو حرف من الطين الجليدي.",
+            "والمورين الجانبي يتكوّن على جانبي النهر الجليدي.",
+            "والمورين الأوسط يتكوّن في الوسط، حيث يلتقي نهران جليديّان.",
+            "والمورين الطرفي يحدّد أبعد نقطة وصل إليها أنف النهر الجليدي.",
+            "والمورين الأرضي ينتشر تحت النهر الجليدي.",
+            "والدرملينات (drumlins) تلال طويلة منخفضة مصنوعة من الطين الجليدي.",
+            "وتُسمّى مجموعة الدرملينات سِربًا.",
+            "والصخرة الشاردة (erratic) صخرة كبيرة تختلف عن الصخر الذي تستقرّ عليه.",
+            "وقد حملها النهر الجليدي إلى هناك، فالصخور الشاردة تبيّن الجهة التي تدفّق إليها الجليد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "mieszanina nieposortowanych, ostrokrawędzistych skał, którą zostawia lodowiec (till)",
+            "pagórek albo wał z materiału zostawionego przez lodowiec (moraine)",
+            "z boku (lateral)",
+            "w środku (medial)",
+            "długie, niskie wzgórze zbudowane z materiału till (drumlin)",
+            "wielki kamień, który różni się od skały, na której leży (erratic)"
+          ],
+          "passage": [
+            "Lodowiec niesie ogromny ładunek skał.",
+            "Kiedy lód się topi, lodowiec zostawia ten ładunek.",
+            "Zostawiony materiał nazywamy till.",
+            "Till to mieszanina ostrokrawędzistych skał we wszystkich rozmiarach.",
+            "Morena (moraine) to pagórek albo wał z materiału till.",
+            "Moreny boczne (lateral moraines) powstają po bokach lodowca.",
+            "Morena środkowa (medial moraine) powstaje w środku, tam gdzie dwa lodowce się łączą.",
+            "Morena czołowa (terminal moraine) wyznacza najdalszy punkt, do którego dotarło czoło lodowca.",
+            "Morena denna (ground moraine) jest rozłożona pod lodowcem.",
+            "Drumliny (drumlins) to długie, niskie wzgórza zbudowane z materiału till.",
+            "Grupę drumlinów nazywamy rojem.",
+            "Eratyk (erratic) to wielki kamień, który różni się od skały, na której leży.",
+            "Lodowiec go tam przyniósł, więc eratyki pokazują, w którą stronę płynął lód."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a mistura desordenada de rochas angulosas que um glaciar/geleira deixa cair (till)",
+            "um monte ou uma crista de till deixados por um glaciar/geleira (moraine, morena)",
+            "ao lado (lateral)",
+            "no meio (medial)",
+            "uma colina comprida e baixa feita de till (drumlin)",
+            "um bloco de pedra diferente da rocha em que está assente (erratic, bloco errático)"
+          ],
+          "passage": [
+            "Um glaciar/geleira transporta uma enorme carga de rocha.",
+            "Quando o gelo derrete, o glaciar/geleira deixa cair essa carga.",
+            "O material que cai chama-se till.",
+            "O till é uma mistura desordenada de rochas angulosas de todos os tamanhos.",
+            "Uma moraine (morena) é um monte ou uma crista de till.",
+            "As moraines laterais formam-se ao longo dos lados de um glaciar/geleira.",
+            "Uma moraine medial forma-se pelo meio, onde dois glaciares/geleiras se juntam.",
+            "Uma moraine terminal marca o ponto mais longe a que a frente glaciar chegou.",
+            "A moraine de fundo fica espalhada por baixo do glaciar/geleira.",
+            "Os drumlins são colinas compridas e baixas feitas de till.",
+            "A um grupo de drumlins chama-se enxame (swarm).",
+            "Um erratic (bloco errático) é um bloco de pedra diferente da rocha em que está assente.",
+            "Foi o glaciar/geleira que o levou até lá, por isso os erratics mostram para onde o gelo corria."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "isku qasnaanta dhagaxyada aan la kala soocin oo gees leh ee glacier dejiyo",
+            "tuulmo ama kor-dheer oo till ah oo glacier ka tagay",
+            "dhinaca",
+            "dhexda",
+            "kur dheer oo hooseeya oo till laga sameeyay",
+            "dhagax weyn oo ka duwan dhagaxa uu ku dul fadhiyo"
+          ],
+          "passage": [
+            "Glacier wuxuu qaadaa dhagax aad u culus.",
+            "Marka barafku dhalaalo, glacier-ku culayskaas wuu dejiyaa.",
+            "Waxa la dejiyay waxaa loo yiraahdaa till.",
+            "Till waa isku qasnaan dhagaxyo gees leh oo cabbir kasta leh.",
+            "Moraine waa tuulmo ama kor-dheer oo till ah.",
+            "Lateral moraines waxay samaysmaan dhinacyada glacier-ka.",
+            "Medial moraine wuxuu samaysmaa dhexda, meesha laba glacier ay isku biiraan.",
+            "Terminal moraine wuxuu calaamadeeyaa meeshii ugu fog ee snout-ku gaaray.",
+            "Ground moraine waxaa hoosta glacier-ka lagu kala firdhiyay.",
+            "Drumlins waa kuro dhaadheer oo hooseeya oo till laga sameeyay.",
+            "Koox drumlins ah waxaa loo yiraahdaa swarm.",
+            "Erratic waa dhagax weyn oo ka duwan dhagaxa uu ku dul fadhiyo.",
+            "Glacier-ku halkaas ayuu u qaaday, markaa erratics waxay muujiyaan jihada barafku u qulqulay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мішанина неперебраних гострокутних уламків, які скидає льодовик (till)",
+            "насип або гряда з таких уламків, залишена льодовиком (moraine)",
+            "збоку (lateral)",
+            "посередині (medial)",
+            "довгий низький пагорб із морених уламків (drumlin)",
+            "валун, який відрізняється від породи, на якій лежить (erratic)"
+          ],
+          "passage": [
+            "Льодовик несе величезний вантаж породи.",
+            "Коли лід тане, льодовик скидає цей вантаж.",
+            "Скинутий матеріал називають мореним матеріалом (till).",
+            "Цей матеріал — мішанина гострокутних уламків усіх розмірів.",
+            "Морена (moraine) — це насип або гряда з таких уламків.",
+            "Бічні морени (lateral) утворюються вздовж боків льодовика.",
+            "Серединна морена (medial) утворюється посередині, там, де сходяться два льодовики.",
+            "Кінцева морена позначає найдальшу точку, якої досяг язик льодовика.",
+            "Донна морена розстелена під льодовиком.",
+            "Друмліни (drumlins) — це довгі низькі пагорби з морених уламків.",
+            "Групу друмлінів називають роєм.",
+            "Ератичний валун (erratic) — це валун, який відрізняється від породи, на якій лежить.",
+            "Льодовик приніс його туди, тому ератичні валуни показують, у який бік рухався лід."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بے ترتیب، کونے دار چٹانوں کا وہ ملغوبہ جو glacier گرا دیتا ہے (till)",
+            "glacier کے چھوڑے ہوئے till کا ٹیلہ یا بند (moraine)",
+            "کنارے پر (lateral)",
+            "بیچ میں (medial)",
+            "till سے بنی لمبی، نیچی پہاڑی (drumlin)",
+            "ایک بڑا پتھر جو اُس چٹان سے مختلف ہو جس پر وہ پڑا ہے (erratic)"
+          ],
+          "passage": [
+            "glacier چٹان کا بہت بڑا بوجھ اٹھا کر چلتا ہے۔",
+            "جب برف پگھلتی ہے تو glacier یہ بوجھ گرا دیتا ہے۔",
+            "گرائے ہوئے مادے کو till کہتے ہیں۔",
+            "till ہر ناپ کی کونے دار چٹانوں کا ملغوبہ ہے۔",
+            "moraine، till کا ٹیلہ یا بند ہوتا ہے۔",
+            "lateral moraines، glacier کے کناروں کے ساتھ ساتھ بنتے ہیں۔",
+            "medial moraine بیچ میں بنتا ہے، جہاں دو glaciers آ ملتے ہیں۔",
+            "terminal moraine اُس آخری حد کو ظاہر کرتا ہے جہاں تک snout پہنچا تھا۔",
+            "ground moraine، glacier کے نیچے پھیلا ہوتا ہے۔",
+            "drumlins، till سے بنی لمبی، نیچی پہاڑیاں ہیں۔",
+            "drumlins کے جھنڈ کو swarm کہتے ہیں۔",
+            "erratic ایک بڑا پتھر ہے جو اُس چٹان سے مختلف ہوتا ہے جس پر وہ پڑا ہے۔",
+            "glacier اسے وہاں لے کر آیا تھا، اس لیے erratics بتاتے ہیں کہ برف کس طرف بہی تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Till and moraine",
@@ -1112,8 +1900,168 @@ window.ASTRA_UNITS["geog-glaciers"] = {
           "Most glaciers are now retreating.",
           "Old photographs show snouts that were once much further down the valley.",
           "Melting land ice adds water to the sea, so sea level rises."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شكّلته الأنهار الجليدية في الماضي (glaciated)",
+            "ما يستخدم الناس منطقة الأرض من أجله (land use)",
+            "تغيّر طويل الأجل في أنماط طقس الأرض، وهو اليوم احترار في الأساس (climate change)",
+            "الفحم والنفط والغاز، وهي تُطلق غازات مُدفئة عند حرقها (fossil fuels)",
+            "وقائع تُظهر أنّ شيئًا صحيح (evidence)",
+            "تقهقر النهر الجليدي، فيرتدّ أنفه صاعدًا في الوادي (retreat)"
+          ],
+          "passage": [
+            "ليس في المملكة المتّحدة اليوم أنهار جليدية، ولكن فيها مناظر شكّلها الجليد.",
+            "والناس يستخدمون هذه المناظر استخدامات كثيرة.",
+            "فالزوّار يأتون للمشي والتسلّق والتمتّع بالمشاهد.",
+            "والمزارعون يرعون حيواناتهم في قيعان الأودية وعلى سفوح التلال.",
+            "والماء يتجمّع في الأودية العميقة، فيمكن تخزينه واستخدامه.",
+            "والأنهار الجليدية في أنحاء أخرى من العالم يستخدمها الناس أيضًا.",
+            "ولكنّ الأنهار الجليدية تتغيّر.",
+            "فحرق الوقود الأحفوري يُطلق غازات تُدفئ الكوكب.",
+            "وهذا هو تغيّر المناخ.",
+            "والصيف الأدفأ يعني تآكلًا جليديًّا أكثر، فتفقد الأنهار الجليدية من الجليد أكثر ممّا تكسب.",
+            "ومعظم الأنهار الجليدية يتقهقر اليوم.",
+            "والصور القديمة تُظهر أنوفًا كانت يومًا أبعد كثيرًا نزولًا في الوادي.",
+            "وذوبان جليد اليابسة يضيف ماءً إلى البحر، فيرتفع مستوى سطح البحر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ukształtowany przez lodowce w przeszłości (glaciated)",
+            "to, do czego ludzie używają danego obszaru ziemi (land use)",
+            "długotrwała zmiana pogody na Ziemi, dziś głównie ocieplenie (climate change)",
+            "węgiel, ropa i gaz, które przy spalaniu wydzielają gazy ocieplające klimat (fossil fuels)",
+            "fakty, które pokazują, że coś jest prawdą",
+            "cofanie się lodowca, przy którym jego czoło przesuwa się w górę doliny (retreat)"
+          ],
+          "passage": [
+            "Dziś w Zjednoczonym Królestwie nie ma lodowców, ale są krajobrazy ukształtowane przez lód.",
+            "Ludzie wykorzystują te krajobrazy na wiele sposobów.",
+            "Przyjeżdżają tu turyści, żeby chodzić po górach, wspinać się i podziwiać widoki.",
+            "Rolnicy wypasają zwierzęta na dnach dolin i na zboczach.",
+            "W głębokich dolinach zbiera się woda, którą można magazynować i wykorzystywać.",
+            "Lodowce w innych częściach świata też są wykorzystywane przez ludzi.",
+            "Ale lodowce się zmieniają.",
+            "Spalanie paliw kopalnych wydziela gazy, które ocieplają planetę.",
+            "To jest zmiana klimatu (climate change).",
+            "Cieplejsze lata znaczą więcej ablacji, więc lodowce tracą więcej lodu, niż zyskują.",
+            "Większość lodowców obecnie się cofa.",
+            "Stare zdjęcia pokazują czoła lodowców, które były kiedyś znacznie dalej w dole doliny.",
+            "Topniejący lód lądowy dodaje wody do morza, więc poziom morza się podnosi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "moldado por glaciares/geleiras no passado (glaciated, glaciado)",
+            "aquilo para que as pessoas usam uma área de terreno (land use, uso do solo)",
+            "uma mudança de longo prazo nos padrões do tempo da Terra, hoje sobretudo de aquecimento (climate change, mudanças climáticas)",
+            "carvão, petróleo e gás, que libertam/liberam gases de aquecimento quando são queimados (fossil fuels, combustíveis fósseis)",
+            "factos/fatos que mostram que uma coisa é verdade (evidence, provas)",
+            "um glaciar/geleira a encolher, de modo que a sua frente recua pelo vale (retreat, recuo)"
+          ],
+          "passage": [
+            "Hoje o Reino Unido não tem glaciares/geleiras, mas tem paisagens glaciadas.",
+            "As pessoas usam estas paisagens de muitas maneiras.",
+            "Há visitantes que vêm caminhar, escalar e apreciar as vistas.",
+            "Os agricultores põem os animais a pastar nos fundos dos vales e nas encostas.",
+            "A água junta-se nos vales profundos e pode ser armazenada e usada.",
+            "Os glaciares/geleiras de outras partes do mundo também são usados pelas pessoas.",
+            "Mas os glaciares/geleiras estão a mudar / estão mudando.",
+            "Queimar combustíveis fósseis liberta/libera gases que aquecem o planeta.",
+            "Isto são as mudanças climáticas (climate change).",
+            "Verões mais quentes querem dizer mais ablação, por isso os glaciares/geleiras perdem mais gelo do que ganham.",
+            "Quase todos os glaciares/geleiras estão agora a recuar / recuando.",
+            "Fotografias antigas mostram frentes glaciares que estavam muito mais abaixo no vale.",
+            "O gelo em terra que derrete junta água ao mar, por isso o nível do mar sobe."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "waagii hore glaciers ayaa qaabeeyay",
+            "waxa dadku meel dhul ah u isticmaalaan",
+            "isbeddel muddo dheer socda oo ku dhaca qaababka hawada Dhulka, oo hadda inta badan kululaansho yahay",
+            "dhuxul, saliid iyo gaas, kuwaasoo marka la gubo sii daaya gaasas kululeeya",
+            "xaqiiqooyin muujinaya in wax run yahay",
+            "glacier oo yaraada, sidaas darteedna snout-kiisu dooxada kor ugu noqdo"
+          ],
+          "passage": [
+            "Maanta Boqortooyada Midowday glaciers ma leh, laakiin waxay leedahay muuqaallo dhul oo glaciers qaabeeyeen.",
+            "Dadku muuqaalladan waxay siyaabo badan u isticmaalaan.",
+            "Booqdayaashu waxay u yimaaddaan socod, buur-fuulid iyo u raaxaysiga muuqaalka.",
+            "Beeraleydu waxay xoolahooda daajiyaan salka dooxooyinka iyo dhinacyada kuraha.",
+            "Biyo waxay ku urursamaan dooxooyinka moolka dheer, waana la kaydsan karaa oo la isticmaali karaa.",
+            "Glaciers meelo kale oo dunida ah dadku waxay sidoo kale isticmaalaan.",
+            "Laakiin glaciers way isbeddelayaan.",
+            "Gubidda shidaalka fosil waxay sii daysaa gaasas kululeeya meeraha.",
+            "Tan waa isbeddelka cimilada.",
+            "Xagaa kulul macnaheedu waa ablation badan, markaa glaciers baraf badan ayay ka lumiyaan intay helaan.",
+            "Inta badan glaciers hadda way yaraanayaan.",
+            "Sawirrada hore waxay muujinayaan snouts oo mar hore dooxada aad hoos uga jiray.",
+            "Dhalaalidda barafka dhulka waxay biyo badda ku dartaa, sidaa darteed heerka baddu wuu kacaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "сформований льодовиками в минулому (glaciated)",
+            "те, для чого люди використовують ділянку землі (land use)",
+            "довготривала зміна погодних умов Землі, тепер переважно потепління (climate change)",
+            "вугілля, нафта і газ, які під час спалювання випускають гази, що нагрівають планету (fossil fuels)",
+            "факти, які показують, що щось є правдою (evidence)",
+            "зменшення льодовика, так що його язик відступає вгору долиною (retreat)"
+          ],
+          "passage": [
+            "Сьогодні в Об’єднаному Королівстві немає льодовиків, але є льодовикові ландшафти.",
+            "Люди використовують ці ландшафти багатьма способами.",
+            "Відвідувачі приїжджають гуляти, лазити по скелях і милуватися видами.",
+            "Фермери випасають тварин на дні долин і на схилах.",
+            "Вода збирається в глибоких долинах, і її можна зберігати й використовувати.",
+            "Льодовики в інших частинах світу люди теж використовують.",
+            "Але льодовики змінюються.",
+            "Спалювання викопного палива випускає гази, які нагрівають планету.",
+            "Це зміна клімату (climate change).",
+            "Тепліші літа означають більшу абляцію, тому льодовики втрачають більше льоду, ніж набирають.",
+            "Більшість льодовиків тепер відступає.",
+            "Старі фотографії показують язики, які колись були значно нижче в долині.",
+            "Таяння наземного льоду додає води в море, тому рівень моря піднімається."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جسے ماضی میں glaciers نے تراشا ہو (glaciated)",
+            "لوگ کسی علاقے کی زمین کس کام میں لاتے ہیں (land use)",
+            "زمین کے موسمی نمونوں میں طویل مدت کی تبدیلی، جو اب زیادہ تر گرمی کی طرف ہے (climate change)",
+            "کوئلہ، تیل اور گیس، جو جلنے پر زمین کو گرم کرنے والی گیسیں چھوڑتے ہیں (fossil fuels)",
+            "وہ حقائق جو دکھاتے ہیں کہ کوئی بات سچ ہے (evidence)",
+            "glacier کا سکڑنا، جس سے اس کا snout وادی میں پیچھے ہٹ جاتا ہے (retreat)"
+          ],
+          "passage": [
+            "آج برطانیہ میں کوئی glacier نہیں، مگر glaciated مناظر موجود ہیں۔",
+            "لوگ ان مناظر کو کئی طرح سے استعمال کرتے ہیں۔",
+            "سیر کرنے والے پیدل چلنے، چڑھائی کرنے اور نظارے دیکھنے آتے ہیں۔",
+            "کسان وادیوں کے فرش اور ڈھلانوں پر جانور چراتے ہیں۔",
+            "گہری وادیوں میں پانی جمع ہوتا ہے، جسے ذخیرہ کر کے استعمال کیا جا سکتا ہے۔",
+            "دنیا کے دوسرے حصوں کے glaciers بھی لوگوں کے کام آتے ہیں۔",
+            "مگر glaciers بدل رہے ہیں۔",
+            "fossil fuels جلانے سے ایسی گیسیں نکلتی ہیں جو زمین کو گرم کرتی ہیں۔",
+            "یہی climate change ہے۔",
+            "گرم گرمیوں کا مطلب زیادہ ablation ہے، اس لیے glaciers جتنی برف پاتے ہیں اس سے زیادہ کھو دیتے ہیں۔",
+            "زیادہ تر glaciers اب پیچھے ہٹ رہے ہیں۔",
+            "پرانی تصویروں میں snouts وادی میں بہت نیچے تک نظر آتے ہیں۔",
+            "پگھلتی ہوئی land ice سمندر میں پانی بڑھاتی ہے، اس لیے سمندر کی سطح بلند ہوتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Using glaciated landscapes",

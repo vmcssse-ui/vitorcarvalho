@@ -105,8 +105,162 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           "White Southerners built new laws to keep Black people apart.",
           "Mobs killed Black people without any trial at all.",
           "So this unit asks how Black Americans fought back, and won."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن يُعتَق المرء ويصير حرًّا (emancipation)",
+            "الولايات التي بقيت معًا في الولايات المتّحدة (Union)",
+            "البلد الجديد الذي صنعته الولايات الجنوبية التي خرجت (Confederacy)",
+            "تغيير يُضاف إلى دستور بلد (amendment)",
+            "قتل حشد شخصًا بغير محاكمة، وبالشنق في العادة (lynching)"
+          ],
+          "passage": [
+            "انتهت العبودية في الإمبراطورية البريطانية كلّها في 1833.",
+            "وفي الولايات المتّحدة لم تنتهِ.",
+            "وقالت الولايات الجنوبية إنّ مزارعها ومالها يعتمدان عليها.",
+            "وقالت الولايات الشمالية إنّ العبودية قاسية وخطأ.",
+            "وفي 1861 دخل البلد في حرب مع نفسه.",
+            "فخرجت إحدى عشرة ولاية جنوبية وأسّست الكونفدرالية.",
+            "وسُمّيت الولايات التي بقيت الاتّحاد.",
+            "وانتصر الاتّحاد، وأُلغيت العبودية في القانون.",
+            "وتُسمّى تلك الحرّية القانونية العتق (emancipation).",
+            "ولكنّ الحرّية في القانون لم تكن بعد حرّيةً في الحياة.",
+            "فبنى الجنوبيون البيض قوانين جديدة ليُبعدوا الناس السود.",
+            "وقتلت الحشود ناسًا سودًا بغير محاكمة أبدًا.",
+            "فهذه الوحدة تسأل كيف قاوم الأمريكيون السود وانتصروا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "uzyskanie wolności (emancipation)",
+            "stany, które zostały razem jako Stany Zjednoczone (Union)",
+            "nowy kraj utworzony przez stany południowe, które odeszły (Confederacy)",
+            "zmiana dodana do konstytucji kraju (amendment)",
+            "zabicie człowieka przez tłum, bez żadnego sądu, zwykle przez powieszenie (lynching)"
+          ],
+          "passage": [
+            "Niewolnictwo skończyło się w całym imperium brytyjskim w 1833 roku.",
+            "W Stanach Zjednoczonych się nie skończyło.",
+            "Stany południowe mówiły, że ich plantacje i ich pieniądze od niego zależą.",
+            "Stany północne mówiły, że niewolnictwo jest okrutne i złe.",
+            "W 1861 roku kraj wszedł w wojnę sam ze sobą.",
+            "Jedenaście stanów południowych odeszło i utworzyło Konfederację.",
+            "Stany, które zostały, nazywano Unią.",
+            "Unia wygrała, a niewolnictwo zniesiono w prawie.",
+            "Tę wolność w prawie nazywamy emancypacją.",
+            "Ale wolność w prawie nie była jeszcze wolnością w życiu.",
+            "Biali mieszkańcy Południa stworzyli nowe prawa, żeby trzymać czarnoskórych ludzi osobno.",
+            "Tłumy zabijały czarnoskórych ludzi bez żadnego sądu.",
+            "Dlatego ten temat pyta, jak czarnoskórzy Amerykanie walczyli o swoje i wygrali."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ser posto em liberdade (emancipation, emancipação)",
+            "os estados que continuaram juntos como Estados Unidos (Union, União)",
+            "o novo país feito pelos estados do Sul que saíram (Confederacy, Confederação)",
+            "uma alteração acrescentada à constituição de um país (amendment, emenda)",
+            "uma multidão a matar uma pessoa sem julgamento nenhum, normalmente por enforcamento (lynching, linchamento)"
+          ],
+          "passage": [
+            "A escravatura/escravidão acabou em todo o Império Britânico em 1833.",
+            "Nos Estados Unidos não acabou.",
+            "Os estados do Sul diziam que as suas quintas/fazendas e o seu dinheiro dependiam dela.",
+            "Os estados do Norte diziam que a escravatura/escravidão era cruel e errada.",
+            "Em 1861 o país entrou em guerra consigo mesmo.",
+            "Onze estados do Sul saíram e formaram a Confederação.",
+            "Aos estados que ficaram chamou-se a União.",
+            "A União venceu, e a escravatura/escravidão foi abolida na lei.",
+            "A essa liberdade na lei chama-se emancipação.",
+            "Mas a liberdade na lei ainda não era liberdade na vida.",
+            "Os sulistas brancos criaram leis novas para manter as pessoas negras à parte.",
+            "Multidões mataram pessoas negras sem julgamento nenhum.",
+            "Por isso esta unidade pergunta como é que os americanos negros reagiram, e venceram."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "in xorriyad la siiyo",
+            "gobolladii sii wada ahaaday Mareykanka",
+            "dalkii cusub ee gobolladii koonfurta ka baxay ay sameeyeen",
+            "isbeddel lagu daray dastuurka dal",
+            "dadweyne cadhaysan oo qof dilay iyadoon maxkamad jirin, inta badan deldelaad"
+          ],
+          "passage": [
+            "Addoonsigu wuxuu Boqortooyadii Ingiriiska oo dhan ka dhammaaday 1833-dii.",
+            "Mareykanka kama dhammaan.",
+            "Gobolladii koonfurta waxay sheegeen in beerahooda iyo lacagtoodu ku tiirsan tahay.",
+            "Gobolladii waqooyiga waxay sheegeen in addoonsigu yahay naxariis-darro iyo qalad.",
+            "1861-kii dalku naftiisa wuu dagaal galay.",
+            "Kow iyo toban gobol oo koonfurta ah ayaa baxay oo waxay sameeyeen Confederacy.",
+            "Gobolladii sii joogay waxaa loo bixiyay Union.",
+            "Union-ku wuu guulaystay, addoonsigana sharci ahaan waa la baabbi'iyay.",
+            "Xorriyaddaas sharci waxaa la yiraahdaa emancipation.",
+            "Laakiin xorriyad sharci ahaan weli ma ahayn xorriyad nolol ahaan.",
+            "Dadka cadaanka ah ee koonfurta waxay sameeyeen sharciyo cusub si dadka madow gooni loogu hayo.",
+            "Dadweyne cadhaysan ayaa dad madow dilay iyagoon maxkamad gelin.",
+            "Markaa cutubkan wuxuu weydiinayaa sida Mareykanka madow ay dib u dagaallameen, oo ay ku guulaysteen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "звільнення (emancipation)",
+            "штати, які залишилися разом як Сполучені Штати (Union)",
+            "нова країна, створена південними штатами, які відійшли (Confederacy)",
+            "зміна, додана до конституції країни (amendment)",
+            "вбивство людини натовпом без суду, зазвичай через повішення (lynching)"
+          ],
+          "passage": [
+            "Рабство закінчилося по всій Британській імперії у 1833 році.",
+            "У Сполучених Штатах воно не закінчилося.",
+            "Південні штати казали, що від нього залежать їхні господарства і їхні гроші.",
+            "Північні штати казали, що рабство жорстоке і неправильне.",
+            "У 1861 році країна пішла війною проти себе самої.",
+            "Одинадцять південних штатів відійшли й утворили Конфедерацію.",
+            "Штати, які залишилися, називали Союзом (the Union).",
+            "Союз переміг, і рабство скасували законом.",
+            "Цю законну свободу називають емансипацією (emancipation).",
+            "Але свобода в законі ще не була свободою в житті.",
+            "Білі жителі Півдня створили нові закони, щоб тримати чорношкірих людей окремо.",
+            "Натовпи вбивали чорношкірих людей узагалі без жодного суду.",
+            "Тому цей розділ питає, як чорношкірі американці боролися у відповідь і перемогли."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "آزاد کر دیا جانا (emancipation)",
+            "وہ ریاستیں جو ساتھ رہیں اور ریاستہائے متحدہ بنی رہیں (Union)",
+            "اُن جنوبی ریاستوں کا بنایا ہوا نیا ملک جو الگ ہو گئی تھیں (Confederacy)",
+            "کسی ملک کے دستور میں شامل کی گئی تبدیلی (amendment)",
+            "ہجوم کے ہاتھوں کسی شخص کا قتل، بغیر مقدمے، عموماً پھانسی دے کر (lynching)"
+          ],
+          "passage": [
+            "برطانوی سلطنت میں غلامی 1833 میں ختم ہوئی۔",
+            "ریاستہائے متحدہ میں یہ ختم نہ ہوئی۔",
+            "جنوبی ریاستوں نے کہا کہ ان کے کھیت اور ان کا پیسہ اسی پر ٹکا ہے۔",
+            "شمالی ریاستوں نے کہا کہ غلامی ظالمانہ اور غلط ہے۔",
+            "1861 میں ملک خود اپنے ساتھ جنگ میں اتر آیا۔",
+            "گیارہ جنوبی ریاستیں الگ ہو گئیں اور Confederacy بنا لیا۔",
+            "جو ریاستیں ساتھ رہیں، انھیں Union کہا گیا۔",
+            "Union جیت گیا، اور قانون میں غلامی ختم کر دی گئی۔",
+            "اس قانونی آزادی کو emancipation کہتے ہیں۔",
+            "مگر قانون کی آزادی ابھی زندگی کی آزادی نہ تھی۔",
+            "جنوب کے سفید فام لوگوں نے نئے قانون بنائے تاکہ سیاہ فام لوگوں کو الگ رکھا جائے۔",
+            "ہجوم سیاہ فام لوگوں کو بغیر کسی مقدمے کے قتل کرتے رہے۔",
+            "اس لیے یہ یونٹ پوچھتا ہے کہ سیاہ فام امریکیوں نے کیسے مقابلہ کیا، اور کیسے جیتے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why the United States went to war over slavery",
@@ -306,8 +460,162 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           "They burned churches and left burning crosses outside people's homes.",
           "Southern juries almost never found a Klansman guilty.",
           "The NAACP became the Klan's main opponent."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "إبعاد الناس بعضهم عن بعض بسبب عِرقهم (segregation)",
+            "صورة أو تمثيل تُبالَغ فيه الملامح مبالغةً قاسية (caricature)",
+            "مال كان على المواطن أن يدفعه قبل أن يُسمح له بالتصويت (poll tax)",
+            "الاعتقاد الباطل أنّ الناس البيض ينبغي أن يملكوا السلطة على غيرهم (white supremacy)",
+            "أن تستخرج شيئًا من الأدلّة بغير أن يُقال لك مباشرةً (infer)"
+          ],
+          "passage": [
+            "لمّا انتهت العبودية كتبت الولايات الجنوبية قوانين جديدة بدلًا منها.",
+            "وسُمّيت هذه قوانين جيم كرو (Jim Crow).",
+            "وجيم كرو شخصية مسرحية قاسية اختلقها مُسلٍّ أبيض.",
+            "وكان يُمثَّل أخرق أحمق، سخريةً من الناس السود.",
+            "وأبعدت القوانين الأمريكيين السود والبيض بعضهم عن بعض بقوّة القانون.",
+            "وكان على المواطنين السود أن يدفعوا ضريبة التصويت قبل أن يستطيعوا التصويت.",
+            "وكان الموظّفون يضعون اختبارات قراءة، ثم يُرسّبون المتقدّمين السود عن قصد.",
+            "وكانت هيئات المحلّفين كلّها من البيض، فكانت المحاكمات نادرًا ما تكون عادلة.",
+            "وكانت مدارس السود تُعطى مالًا أقلّ كثيرًا من مدارس البيض.",
+            "واستخدمت جماعة تُسمّى كو كلوكس كلان (Ku Klux Klan) العنف والترويع.",
+            "فأحرقوا الكنائس وتركوا صُلبانًا مشتعلة خارج بيوت الناس.",
+            "وهيئات المحلّفين الجنوبية لم تكن تجد رجلًا من الكلان مذنبًا إلّا في أندر النادر.",
+            "وصارت الجمعية الوطنية للنهوض بالملوّنين (NAACP) الخصم الرئيس للكلان."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "trzymanie ludzi osobno z powodu ich rasy (segregation)",
+            "obraz albo występ, w którym cechy są okrutnie przesadzone (caricature)",
+            "opłata, którą obywatel musiał wnieść, zanim pozwolono mu głosować (poll tax)",
+            "fałszywe przekonanie, że biali ludzie powinni mieć władzę nad wszystkimi innymi (white supremacy)",
+            "wywnioskować coś z dowodów, choć nikt tego wprost nie powiedział (infer)"
+          ],
+          "passage": [
+            "Kiedy niewolnictwo się skończyło, stany południowe napisały zamiast niego nowe prawa.",
+            "Nazwano je prawami Jima Crowa.",
+            "Jim Crow był okrutną postacią sceniczną wymyśloną przez białego artystę.",
+            "Grano go jako niezdarnego i głupiego, żeby naśmiewać się z czarnoskórych ludzi.",
+            "Te prawa siłą prawa trzymały czarnoskórych i białych Amerykanów osobno.",
+            "Czarnoskórzy obywatele musieli zapłacić podatek wyborczy, zanim mogli głosować.",
+            "Urzędnicy urządzali testy czytania, a potem celowo oblewali czarnoskórych kandydatów.",
+            "Ławy przysięgłych były całkiem białe, więc procesy rzadko były sprawiedliwe.",
+            "Czarnoskóre szkoły dostawały o wiele mniej pieniędzy niż szkoły białe.",
+            "Grupa o nazwie Ku Klux Klan używała przemocy i strachu.",
+            "Palili kościoły i stawiali płonące krzyże przed domami ludzi.",
+            "Południowe ławy przysięgłych prawie nigdy nie uznawały członka Klanu za winnego.",
+            "Głównym przeciwnikiem Klanu stała się NAACP."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "manter as pessoas à parte por causa da sua raça (segregation, segregação)",
+            "uma imagem ou um número de palco em que os traços são exagerados de forma cruel (caricature, caricatura)",
+            "uma taxa que um cidadão tinha de pagar antes de poder votar (poll tax)",
+            "a crença falsa de que as pessoas brancas devem ter poder sobre todas as outras (white supremacy, supremacia branca)",
+            "descobrir algo a partir das provas, sem que te seja dito diretamente (infer, inferir)"
+          ],
+          "passage": [
+            "Quando a escravatura/escravidão acabou, os estados do Sul escreveram leis novas em vez disso.",
+            "Chamavam-se as leis Jim Crow.",
+            "Jim Crow era uma personagem cruel de palco, inventada por um artista branco.",
+            "Era representada como desajeitada e estúpida, para gozar com as pessoas negras.",
+            "As leis mantinham os americanos negros e brancos à parte pela força da lei.",
+            "Os cidadãos negros tinham de pagar uma poll tax antes de poderem votar.",
+            "Os funcionários faziam testes de leitura e depois chumbavam/reprovavam de propósito os candidatos negros.",
+            "Os júris eram todos brancos, por isso os julgamentos raramente eram justos.",
+            "Às escolas para crianças negras dava-se muito menos dinheiro do que às escolas para crianças brancas.",
+            "Um grupo chamado Ku Klux Klan usava a violência e o medo.",
+            "Queimavam igrejas e deixavam cruzes a arder à porta das casas das pessoas.",
+            "Os júris do Sul quase nunca davam um membro do Klan como culpado.",
+            "A NAACP tornou-se o principal opositor do Klan."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dadka gooni loo hayo jinsiyaddooda dartii",
+            "sawir ama bandhig oo astaamaha si naxariis-darro ah loo buunbuuniyay",
+            "lacag muwaadin ka rabay in la bixiyo intaanu codeyn",
+            "caqiidada been ah ee ah in dadka cadaanka ah ay awoodda ku haystaan dadka kale",
+            "inaad wax caddayn ka soo saarto, iyadoon si toos ah laguu sheegin"
+          ],
+          "passage": [
+            "Markii addoonsigu dhammaaday, gobolladii koonfurta waxay sharciyo cusub qoreen.",
+            "Kuwan waxaa loo bixiyay sharciyada Jim Crow.",
+            "Jim Crow waxay ahayd jilaa naxariis-darro ah oo nin cadaan ah bandhigyo sameeyay uu curiyay.",
+            "Waxaa loo jilay inuu yahay mid aan karti lahayn oo doqon ah, si dadka madow lagu majaajiloodo.",
+            "Sharciyadu waxay Mareykanka madow iyo cadaanka xoog sharci ku kala saareen.",
+            "Muwaadiniinta madow waxaa laga rabay inay poll tax bixiyaan intaanay codeyn.",
+            "Saraakiishu waxay imtixaanno akhris dhigeen, kadibna si ula kac ah waxay ka ridayeen codsadayaasha madow.",
+            "Xeerbeegtida dhammaantood waxay ahaayeen cadaan, markaa maxkamadaha si dhif ah ayay caddaalad ahaayeen.",
+            "Iskuullada madow waxaa la siiyay lacag aad uga yar iskuullada cadaanka.",
+            "Koox la yiraahdo Ku Klux Klan waxay isticmaashay rabshado iyo cabsi.",
+            "Waxay kaniisado gubeen oo waxay iskutallaab gubanaya guryaha dadka hortooda ka tageen.",
+            "Xeerbeegtida koonfurta ku dhowaad weligood Klansman ma helin dembiile.",
+            "NAACP waxay noqotay mucaaradkii ugu weynaa Klan-ka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тримання людей окремо через їхню расу (segregation)",
+            "малюнок або вистава, у яких риси жорстоко перебільшені (caricature)",
+            "платіж, який громадянин мусив зробити, перш ніж йому дозволяли голосувати (poll tax)",
+            "хибне переконання, що білі люди мають тримати владу над усіма іншими (white supremacy)",
+            "вивести щось зі свідчень, хоч вам про це прямо не сказали (infer)"
+          ],
+          "passage": [
+            "Коли рабство закінчилося, південні штати натомість написали нові закони.",
+            "Їх називали законами Джима Кроу (Jim Crow).",
+            "Джим Кроу був жорстоким сценічним персонажем, якого вигадав білий артист.",
+            "Його грали неоковирним і дурним, щоб глузувати з чорношкірих людей.",
+            "Ці закони силою закону тримали чорношкірих і білих американців окремо.",
+            "Чорношкірі громадяни мусили платити виборчий податок, перш ніж могли голосувати.",
+            "Посадовці давали перевірки з читання, а потім навмисне не зараховували їх чорношкірим.",
+            "Суди присяжних були суціль білі, тому суди рідко бували справедливими.",
+            "Школам для чорношкірих давали значно менше грошей, ніж школам для білих.",
+            "Група, яка називалася Ку-Клукс-Клан, використовувала насильство і страх.",
+            "Вони палили церкви і залишали палаючі хрести перед домівками людей.",
+            "Південні суди присяжних майже ніколи не визнавали члена Клану винним.",
+            "NAACP стала головним противником Клану."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لوگوں کو ان کی نسل کی وجہ سے الگ رکھنا (segregation)",
+            "ایسی تصویر یا پیشکش جس میں خصوصیات کو ظالمانہ حد تک بڑھا چڑھا دیا جائے (caricature)",
+            "وہ رقم جو شہری کو ووٹ دینے کی اجازت ملنے سے پہلے ادا کرنا پڑتی تھی (poll tax)",
+            "یہ جھوٹا عقیدہ کہ سفید فام لوگوں کو باقی سب پر اقتدار ہونا چاہیے (white supremacy)",
+            "شہادت سے کوئی بات خود اخذ کر لینا، حالانکہ وہ سیدھے طور پر نہ بتائی گئی ہو (infer)"
+          ],
+          "passage": [
+            "غلامی ختم ہوئی تو جنوبی ریاستوں نے اس کی جگہ نئے قانون لکھ دیے۔",
+            "انھیں Jim Crow laws کہا جاتا تھا۔",
+            "Jim Crow ایک ظالمانہ سٹیج کردار تھا، جو ایک سفید فام فن کار نے گھڑا تھا۔",
+            "اسے بھونڈا اور بے وقوف دکھایا جاتا تھا، تاکہ سیاہ فام لوگوں کا مذاق اڑایا جائے۔",
+            "ان قوانین نے سیاہ فام اور سفید فام امریکیوں کو قانون کے زور پر الگ رکھا۔",
+            "سیاہ فام شہریوں کو ووٹ دینے سے پہلے poll tax دینا پڑتا تھا۔",
+            "اہلکار پڑھنے کے امتحان لیتے، پھر سیاہ فام درخواست دہندگان کو جان بوجھ کر فیل کر دیتے تھے۔",
+            "جیوری کے سب ارکان سفید فام ہوتے تھے، اس لیے مقدمے کم ہی انصاف سے چلتے۔",
+            "سیاہ فام سکولوں کو سفید فام سکولوں سے بہت کم پیسہ دیا جاتا تھا۔",
+            "Ku Klux Klan نامی ایک گروہ تشدد اور خوف استعمال کرتا تھا۔",
+            "وہ کلیسا جلا دیتے اور لوگوں کے گھروں کے باہر جلتی ہوئی صلیبیں چھوڑ آتے تھے۔",
+            "جنوبی جیوری کسی Klan کے رکن کو شاید ہی کبھی قصوروار ٹھہراتی تھی۔",
+            "NAACP، Klan کا سب سے بڑا مخالف بن گئی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where the name came from, and what the laws were for",
@@ -520,8 +828,162 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           "They stayed off for over a year, and the bus companies nearly failed.",
           "In 1957 nine Black students entered a white high school in Arkansas.",
           "Soldiers had to be sent so that they could reach their lessons."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أعلى محكمة في أمريكا، وهي تقرّر ما هو القانون (Supreme Court)",
+            "القاعدة التي تقول إنّ الفصل قانوني إذا نال العِرقان المرافق نفسها (separate but equal)",
+            "رفض شراء شيء أو استخدامه لإرغام الناس على تغيير (boycott)",
+            "جمع الناس من أعراق مختلفة في مكان واحد (integration)",
+            "الجمعية الوطنية للنهوض بالملوّنين، وهو اسمها الرسمي كما كان في زمنها (NAACP)"
+          ],
+          "passage": [
+            "في 1896 حكمت المحكمة العليا بأنّ الفصل قانوني.",
+            "ولم يكن عليه إلّا أن يكون منفصلًا ولكن متساويًا.",
+            "وفي الواقع كانت مدارس السود أسوأ كثيرًا من مدارس البيض.",
+            "وفي 1951 حاول أوليفر براون (Oliver Brown) أن يُسجّل ابنته في مدرسة قريبة.",
+            "فأُرسلت بدلًا من ذلك إلى مدرسة مفصولة تبعد أميالًا عن بيتها.",
+            "وانضمّت اثنتا عشرة أسرة أخرى إلى آل براون ورفعوا القضيّة إلى المحكمة.",
+            "واختارت الجمعية محاميًا أسود هو ثورغود مارشال (Thurgood Marshall) ليحتجّ عنهم.",
+            "وفي مايو 1954 حكمت المحكمة العليا بأنّ \"منفصلون ولكن متساوون\" غير قانوني.",
+            "وفي ديسمبر 1955 رفضت روزا باركس (Rosa Parks) أن تتخلّى عن مقعدها في الباص.",
+            "فاعتُقلت، وكفّ سكّان مونتغومري (Montgomery) السود عن استخدام الباصات.",
+            "وبقوا بعيدين عنها أكثر من سنة، فكادت شركات الباصات أن تُفلس.",
+            "وفي 1957 دخل تسعة طلّاب سود مدرسة ثانوية للبيض في أركنسو.",
+            "فاضطُرّ إرسال جنود حتى يستطيعوا أن يصلوا إلى دروسهم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "najwyższy sąd w Ameryce, który rozstrzyga, co mówi prawo (Supreme Court)",
+            "zasada, że segregacja jest legalna, jeśli obie rasy dostają takie same udogodnienia (separate but equal)",
+            "odmowa kupowania albo używania czegoś, żeby wymusić zmianę (boycott)",
+            "łączenie ludzi różnych ras w tym samym miejscu (integration)",
+            "National Association for the Advancement of Coloured People, czyli organizacja walcząca o prawa czarnoskórych Amerykanów (NAACP)"
+          ],
+          "passage": [
+            "W 1896 roku Sąd Najwyższy orzekł, że segregacja jest legalna.",
+            "Musiała być tylko separate but equal, czyli osobna, ale równa.",
+            "W praktyce czarnoskóre szkoły były o wiele gorsze niż szkoły białe.",
+            "W 1951 roku Oliver Brown próbował zapisać swoją córkę do bliskiej szkoły.",
+            "Zamiast tego wysłano ją do szkoły segregowanej, wiele mil od domu.",
+            "Do Brownów przyłączyło się dwanaście innych rodzin i sprawa poszła do sądu.",
+            "NAACP wybrała czarnoskórego prawnika, Thurgooda Marshalla, żeby ich reprezentował.",
+            "W maju 1954 roku Sąd Najwyższy orzekł, że separate but equal jest niezgodne z prawem.",
+            "W grudniu 1955 roku Rosa Parks odmówiła ustąpienia swojego miejsca w autobusie.",
+            "Została aresztowana, a czarnoskórzy mieszkańcy Montgomery przestali jeździć autobusami.",
+            "Nie wracali do nich ponad rok i firmy autobusowe prawie upadły.",
+            "W 1957 roku dziewięcioro czarnoskórych uczniów weszło do białej szkoły średniej w Arkansas.",
+            "Trzeba było wysłać żołnierzy, żeby mogli dotrzeć na lekcje."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o tribunal mais alto da América, que decide o que é a lei (Supreme Court, Supremo Tribunal)",
+            "a regra de que a segregação era legal se as duas raças tivessem as mesmas instalações (separate but equal)",
+            "recusar comprar ou usar algo para forçar uma mudança (boycott, boicote)",
+            "juntar pessoas de raças diferentes no mesmo lugar (integration, integração)",
+            "a National Association for the Advancement of Coloured People, a associação que defendia os direitos das pessoas negras (NAACP)"
+          ],
+          "passage": [
+            "Em 1896 o Supremo Tribunal decidiu que a segregação era legal.",
+            "Só tinha de ser separate but equal, separada mas igual.",
+            "Na prática, as escolas para crianças negras eram muito piores do que as das brancas.",
+            "Em 1951 Oliver Brown tentou matricular a filha numa escola perto de casa.",
+            "Em vez disso, ela foi mandada para uma escola segregada a milhas de casa.",
+            "Outras doze famílias juntaram-se aos Brown e levaram o caso a tribunal.",
+            "A NAACP escolheu um advogado negro, Thurgood Marshall, para defender a causa.",
+            "Em maio de 1954 o Supremo Tribunal declarou ilegal o separate but equal.",
+            "Em dezembro de 1955 Rosa Parks recusou-se a ceder o seu lugar no autocarro/ônibus.",
+            "Foi presa, e os moradores negros de Montgomery deixaram de usar os autocarros/ônibus.",
+            "Ficaram fora deles mais de um ano, e as empresas de autocarros/ônibus quase faliram.",
+            "Em 1957 nove estudantes negros entraram numa escola secundária para brancos, no Arkansas.",
+            "Foi preciso enviar soldados para eles conseguirem chegar às aulas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "maxkamadda ugu sarreysa Ameerika, oo go'aansata waxa sharcigu yahay",
+            "xeerka ahaa in kala-soocu sharci yahay haddii labada jinsi ay helaan adeegyo isku mid ah",
+            "diidmada iibsashada ama isticmaalka wax si isbeddel loo keeno",
+            "in dad jinsiyado kala duwan leh isku meel loo keeno",
+            "Ururka Qaranka ee Horumarinta Dadka Midabka leh (National Association for the Advancement of Coloured People)"
+          ],
+          "passage": [
+            "1896-kii Supreme Court-ku wuxuu xukumay in kala-soocu sharci yahay.",
+            "Waxaa laga rabay oo keliya inuu noqdo separate but equal.",
+            "Dhab ahaantii, iskuullada madow aad ayay uga xumaayeen iskuullada cadaanka.",
+            "1951-kii Oliver Brown wuxuu isku dayay inuu gabadhiisa iskuul u dhow ku qoro.",
+            "Taa beddelkeeda waxaa loo diray iskuul kala-sooc leh oo mayl badan guriga ka fog.",
+            "Laba iyo toban qoys kale ayaa Browns-ka ku biiray oo kiiska maxkamad ayay geeyeen.",
+            "NAACP waxay dooratay qareen madow, Thurgood Marshall, inuu u doodo.",
+            "Maajo 1954-tii Supreme Court-ku wuxuu xukumay in separate but equal sharci-darro yahay.",
+            "Diseembar 1955-tii Rosa Parks waxay diiday inay kursigeeda baska ka tagto.",
+            "Waa la xiray, dadka madow ee Montgomery-na waxay joojiyeen isticmaalka basaska.",
+            "In ka badan sano ayay ka joogsadeen, shirkadaha basaskana ku dhowaad way burbureen.",
+            "1957-dii sagaal arday madow ah waxay galeen dugsi sare oo cadaan ah oo Arkansas ku yaal.",
+            "Askar ayaa la soo diray si ay casharradooda u gaaraan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "найвищий суд в Америці, який вирішує, яким є закон (Supreme Court)",
+            "правило, що сегрегація законна, якщо обидві раси отримують однакові умови (separate but equal)",
+            "відмова купувати або використовувати щось, щоб змусити до змін (boycott)",
+            "зведення людей різних рас разом в одному місці (integration)",
+            "National Association for the Advancement of Coloured People, тобто організація, створена, щоб боротися за права чорношкірих американців (NAACP)"
+          ],
+          "passage": [
+            "У 1896 році Верховний суд постановив, що сегрегація законна.",
+            "Вона мусила бути лише «окремою, але рівною» (separate but equal).",
+            "На ділі школи для чорношкірих були значно гіршими за школи для білих.",
+            "У 1951 році Олівер Браун спробував записати свою доньку до найближчої школи.",
+            "Її натомість відправили до сегрегованої школи за милі від дому.",
+            "Дванадцять інших родин долучилися до Браунів і подали справу до суду.",
+            "NAACP обрала чорношкірого адвоката, Тергуда Маршалла, щоб він говорив за них.",
+            "У травні 1954 року Верховний суд визнав «окреме, але рівне» незаконним.",
+            "У грудні 1955 року Роза Паркс відмовилася звільнити своє місце в автобусі.",
+            "Її арештували, і чорношкірі мешканці Монтгомері перестали користуватися автобусами.",
+            "Вони не їздили понад рік, і автобусні компанії майже збанкрутували.",
+            "У 1957 році дев’ятеро чорношкірих учнів увійшли до білої середньої школи в Арканзасі.",
+            "Довелося прислати вояків, щоб вони могли дістатися до своїх уроків."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "امریکہ کی سب سے بڑی عدالت، جو طے کرتی ہے کہ قانون کیا ہے (Supreme Court)",
+            "یہ قاعدہ کہ segregation قانونی ہے، بشرطیکہ دونوں نسلوں کو ایک جیسی سہولتیں ملیں (separate but equal)",
+            "تبدیلی پر مجبور کرنے کے لیے کوئی چیز خریدنے یا استعمال کرنے سے انکار کرنا (boycott)",
+            "مختلف نسلوں کے لوگوں کو ایک ہی جگہ اکٹھا کرنا (integration)",
+            "سیاہ فام امریکیوں کے حقوق کے لیے کام کرنے والی تنظیم: National Association for the Advancement of Coloured People (NAACP)"
+          ],
+          "passage": [
+            "1896 میں Supreme Court نے فیصلہ دیا کہ segregation قانونی ہے۔",
+            "صرف یہ ضروری تھا کہ وہ separate but equal ہو۔",
+            "عمل میں سیاہ فام سکول، سفید فام سکولوں سے بہت برے تھے۔",
+            "1951 میں اولیور براؤن (Oliver Brown) نے اپنی بیٹی کو قریب کے ایک سکول میں داخل کرانے کی کوشش کی۔",
+            "اس کے بجائے اسے گھر سے میلوں دور ایک segregated سکول بھیج دیا گیا۔",
+            "بارہ اور خاندان براؤن خاندان کے ساتھ شامل ہوئے اور مقدمہ عدالت میں لے گئے۔",
+            "NAACP نے ان کی طرف سے بحث کے لیے ایک سیاہ فام وکیل، تھرگڈ مارشل (Thurgood Marshall) کو چنا۔",
+            "مئی 1954 میں Supreme Court نے separate but equal کو غیر قانونی قرار دے دیا۔",
+            "دسمبر 1955 میں روزا پارکس (Rosa Parks) نے بس میں اپنی سیٹ چھوڑنے سے انکار کر دیا۔",
+            "انھیں گرفتار کر لیا گیا، اور مونٹگمری کے سیاہ فام باشندوں نے بسوں کا استعمال بند کر دیا۔",
+            "وہ سال بھر سے زیادہ بسوں سے دور رہے، اور بس کمپنیاں تقریباً بیٹھ گئیں۔",
+            "1957 میں نو سیاہ فام طالب علم آرکنساس کے ایک سفید فام ہائی سکول میں داخل ہوئے۔",
+            "انھیں سبق تک پہنچانے کے لیے فوجی بھیجنے پڑے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Separate but equal, and the family that broke it",
@@ -727,8 +1189,162 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           "Then he turned from local targets to national laws.",
           "In August 1963 he led 250,000 people to Washington.",
           "In 1964 Congress passed the Civil Rights Act."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن ترفض سِلميًّا طاعة قانون تراه ظالمًا (civil disobedience)",
+            "أن تحتجّ بغير استخدام القوّة (non-violent)",
+            "احتجاج يجلس فيه الناس في مكان مُنعوا منه ويرفضون المغادرة (sit-in)",
+            "سلسلة أعمال مخطّط لها تهدف إلى تغيير واحد (campaign)",
+            "البرلمان الأمريكي، وهو الذي يُشرّع قوانين البلد (Congress)"
+          ],
+          "passage": [
+            "كان مارتن لوثر كينغ (Martin Luther King) ناشطًا في الحقوق المدنية في الولايات الجنوبية.",
+            "وصار زعيمًا على مستوى البلد في أثناء مقاطعة باصات مونتغومري.",
+            "وجاءت طريقته من المهاتما غاندي (Mahatma Gandhi) في الهند.",
+            "فقد استخدم غاندي العصيان المدني بغير عنف ضدّ الإمبراطورية البريطانية.",
+            "والعصيان المدني يعني أن ترفض سِلميًّا طاعة قانون عنصري.",
+            "وكانت حملات كينغ الأولى محلّية: مدينة واحدة أو ولاية واحدة.",
+            "وفي اعتصامات أتلانتا (Atlanta) أمسك جماعةً منقسمة وجمعها.",
+            "وفي ألباني (Albany) لم يكن هو قد بدأ الحملة، ففشلت.",
+            "فتعلّم أن يصوغ الحملة ثم أن يقودها هو.",
+            "وفي 1963 سُجن في أثناء حملة برمنغهام.",
+            "ثم انتقل من الأهداف المحلّية إلى القوانين الوطنية.",
+            "وفي أغسطس 1963 قاد 250,000 شخص إلى واشنطن.",
+            "وفي 1964 أقرّ الكونغرس قانون الحقوق المدنية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "spokojna odmowa posłuszeństwa prawu, które uważasz za niesprawiedliwe (civil disobedience)",
+            "prowadzący protest bez użycia siły (non-violent)",
+            "protest, w którym ludzie siadają tam, gdzie mają zakaz, i odmawiają wyjścia (sit-in)",
+            "zaplanowany ciąg działań nakierowanych na jedną zmianę (campaign)",
+            "parlament amerykański, który tworzy prawa kraju (Congress)"
+          ],
+          "passage": [
+            "Martin Luther King był działaczem na rzecz praw obywatelskich w stanach południowych.",
+            "Przywódcą na skalę całego kraju stał się w czasie bojkotu autobusów w Montgomery.",
+            "Jego metoda pochodziła od Mahatmy Gandhiego z Indii.",
+            "Gandhi użył nieposłuszeństwa obywatelskiego bez przemocy przeciwko imperium brytyjskiemu.",
+            "Nieposłuszeństwo obywatelskie znaczy spokojną odmowę posłuszeństwa rasistowskiemu prawu.",
+            "Pierwsze kampanie Kinga były miejscowe: jedno miasto albo jeden stan.",
+            "Przy sit-inach w Atlancie utrzymał razem podzieloną grupę.",
+            "W Albany to nie on zaczął kampanię i ta się nie udała.",
+            "Nauczył się tworzyć kampanię, a potem samemu nią kierować.",
+            "W 1963 roku został uwięziony w czasie kampanii w Birmingham.",
+            "Potem przeszedł od celów miejscowych do praw ogólnokrajowych.",
+            "W sierpniu 1963 roku poprowadził 250,000 ludzi do Waszyngtonu.",
+            "W 1964 roku Kongres uchwalił Civil Rights Act, czyli ustawę o prawach obywatelskich."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "recusar pacificamente obedecer a uma lei que acreditas ser injusta (civil disobedience, desobediência civil)",
+            "fazer um protesto sem usar a força (non-violent, não violento)",
+            "um protesto em que as pessoas se sentam num lugar de onde estão proibidas e se recusam a sair (sit-in)",
+            "uma série planeada de ações com vista a uma mudança (campaign, campanha)",
+            "o parlamento americano, que faz as leis do país (Congress, Congresso)"
+          ],
+          "passage": [
+            "Martin Luther King era um ativista dos direitos civis nos estados do Sul.",
+            "Tornou-se um líder nacional durante o boicote aos autocarros/ônibus de Montgomery.",
+            "O método dele veio de Mahatma Gandhi, na Índia.",
+            "Gandhi tinha usado a desobediência civil não violenta contra o Império Britânico.",
+            "Desobediência civil quer dizer recusar pacificamente obedecer a uma lei racista.",
+            "As primeiras campanhas de King foram locais: uma cidade ou um estado.",
+            "Nos sit-ins de Atlanta conseguiu manter unido um grupo dividido.",
+            "Em Albany não tinha começado a campanha, e ela falhou.",
+            "Aprendeu a montar uma campanha e depois a liderá-la ele próprio.",
+            "Em 1963 foi preso durante a campanha de Birmingham.",
+            "Depois virou-se dos objetivos locais para as leis nacionais.",
+            "Em agosto de 1963 levou 250 000 pessoas a Washington.",
+            "Em 1964 o Congresso aprovou o Civil Rights Act, a lei dos direitos civis."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad si nabad ah u diido inaad raacdo sharci aad u aragto caddaalad-darro",
+            "mudaaharaad la sameeyo iyadoon xoog la isticmaalin",
+            "mudaaharaad ay dadku ku fariistaan meel laga mamnuucay oo ay diidaan inay baxaan",
+            "tallaabooyin la qorsheeyay oo isku xigxigaya oo lagu doonayo hal isbeddel",
+            "baarlamaanka Ameerika, oo sharciyada dalka sameeya"
+          ],
+          "passage": [
+            "Martin Luther King wuxuu ahaa u-doode xuquuqda madaniga ah ee gobolladii koonfurta.",
+            "Wuxuu noqday hoggaamiye heer dal intii Montgomery Bus Boycott-ku socday.",
+            "Habkiisa wuxuu ka yimid Mahatma Gandhi ee Hindiya.",
+            "Gandhi wuxuu Boqortooyadii Ingiriiska ku isticmaalay diidmo nabad ah oo sharciga ah.",
+            "Civil disobedience macnaheedu waa inaad si nabad ah u diido inaad sharci midab-takoor ah raacdo.",
+            "Ololihii ugu horreeyay ee King waxay ahaayeen maxalli: hal magaalo ama hal gobol.",
+            "Sit-ins-ka Atlanta wuxuu koox kala qaybsan isku xirxiray.",
+            "Albany ololaha isagu ma bilaabin, wuuna guuldarraystay.",
+            "Wuxuu bartay inuu olole sameeyo kadibna naftiisa hoggaamiyo.",
+            "1963-dii waa la xiray intii ololaha Birmingham socday.",
+            "Kadibna wuxuu bartilmaameedyada maxalliga uga jeestay sharciyada qaranka.",
+            "Agoosto 1963-dii wuxuu 250,000 oo qof u hoggaamiyay Washington.",
+            "1964-kii Congress-ku wuxuu ansixiyay Civil Rights Act."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мирна відмова виконувати закон, який ви вважаєте несправедливим (civil disobedience)",
+            "той, що протестує без застосування сили (non-violent)",
+            "протест, у якому люди сідають там, куди їм заборонено, і відмовляються піти (sit-in)",
+            "запланована низка дій, спрямована на одну зміну (campaign)",
+            "американський парламент, який ухвалює закони країни (Congress)"
+          ],
+          "passage": [
+            "Мартін Лютер Кінг був активістом за громадянські права в південних штатах.",
+            "Він став провідником усієї країни під час автобусного бойкоту в Монтгомері.",
+            "Його метод походив від Махатми Ґанді в Індії.",
+            "Ґанді використовував ненасильницьку громадянську непокору проти Британської імперії.",
+            "Громадянська непокора означає мирну відмову виконувати расистський закон.",
+            "Перші кампанії Кінга були місцевими: одне місто або один штат.",
+            "На сидячих протестах в Атланті він утримав разом розділену групу.",
+            "В Олбані він не починав кампанію сам, і вона провалилася.",
+            "Він навчився спершу складати кампанію, а потім самому її вести.",
+            "У 1963 році його ув’язнили під час кампанії в Бірмінгемі.",
+            "Потім він перейшов від місцевих цілей до законів усієї країни.",
+            "У серпні 1963 року він привів 250,000 людей до Вашингтона.",
+            "У 1964 році Конгрес ухвалив Закон про громадянські права (Civil Rights Act)."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسے قانون کی پُرامن طور پر نافرمانی کرنا جسے آپ ناانصافی سمجھتے ہیں (civil disobedience)",
+            "طاقت استعمال کیے بغیر احتجاج کرنا (non-violent)",
+            "ایسا احتجاج جس میں لوگ ممنوعہ جگہ پر بیٹھ جاتے ہیں اور اٹھنے سے انکار کر دیتے ہیں (sit-in)",
+            "ایک تبدیلی کے لیے منصوبہ بند کاموں کا سلسلہ (campaign)",
+            "امریکی پارلیمنٹ، جو ملک کے قانون بناتی ہے (Congress)"
+          ],
+          "passage": [
+            "مارٹن لوتھر کنگ (Martin Luther King) جنوبی ریاستوں میں Civil Rights کا کارکن تھا۔",
+            "وہ Montgomery Bus Boycott کے دوران قومی رہنما بن گیا۔",
+            "اس کا طریقہ ہندوستان کے موہن داس گاندھی سے آیا تھا۔",
+            "گاندھی نے برطانوی سلطنت کے خلاف non-violent civil disobedience استعمال کی تھی۔",
+            "civil disobedience کا مطلب ہے کسی نسل پرست قانون کی پُرامن طور پر نافرمانی کرنا۔",
+            "کنگ کی پہلی campaigns مقامی تھیں: ایک شہر یا ایک ریاست کی۔",
+            "اٹلانٹا کے sit-ins میں اس نے ایک بٹے ہوئے گروہ کو جوڑ کر رکھا۔",
+            "البانی (Albany) میں اس نے campaign شروع نہ کی تھی، اور وہ ناکام ہوئی۔",
+            "اس نے سیکھا کہ پہلے campaign بنائی جائے اور پھر خود اس کی قیادت کی جائے۔",
+            "1963 میں برمنگھم کی campaign کے دوران اسے قید کیا گیا۔",
+            "پھر اس نے مقامی ہدفوں سے ہٹ کر قومی قوانین کی طرف رخ کیا۔",
+            "اگست 1963 میں وہ 250,000 لوگوں کو واشنگٹن لے گیا۔",
+            "1964 میں Congress نے Civil Rights Act منظور کیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who King was, and where his method came from",
@@ -935,8 +1551,156 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           "But cameras were there, and the country watched it that evening.",
           "A week later the President demanded a new voting law.",
           "Congress passed the Voting Rights Act in 1965."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تضع اسمك في قائمة المصوّتين الرسمية (register to vote)",
+            "اختبار قراءة يضعه موظّف قبل أن يسمح لأحد بالتصويت (literacy test)",
+            "البرلمان الأمريكي، وهو الذي يُقرّ قوانين البلد (Congress)",
+            "شخص يشارك في مظاهرة عامّة (protester)",
+            "أُرسل في التلفاز أو الراديو إلى البلد كلّه (broadcast)"
+          ],
+          "passage": [
+            "قانون الحقوق المدنية لسنة 1964 جعل التمييز غير قانوني.",
+            "ولكنّ الولايات الجنوبية بقيت تمنع المواطنين السود من التصويت.",
+            "وقبل أن تصوّت عليك أن تُسجّل عند الولاية.",
+            "وكان الموظّفون يضعون اختبارات قراءة لا يستخدمها مصحّح أمين.",
+            "وكان اختبار لويزيانا (Louisiana) فيه ثلاثون سؤالًا، بعضها مستحيل.",
+            "وبغير التصويت لا تستطيع أن تغيّر مَن يضع القانون.",
+            "وفي 1965 نظّم كينغ مسيرة في سيلما (Selma) في ألاباما.",
+            "وفي 7 مارس اعترضت الشرطة المسيرين على جسر.",
+            "فأطلقوا الغاز المسيل للدموع، وضُرب معظم المسيرين.",
+            "ولكنّ آلات التصوير كانت هناك، فشاهد البلد ذلك في ذلك المساء.",
+            "وبعد أسبوع طلب الرئيس قانون تصويت جديدًا.",
+            "وأقرّ الكونغرس قانون حقّ التصويت في 1965."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wpisać swoje nazwisko na oficjalną listę wyborców (register to vote)",
+            "test czytania, który urzędnik urządzał, zanim pozwolił komuś głosować (literacy test)",
+            "parlament amerykański, który uchwala prawa kraju (Congress)",
+            "osoba biorąca udział w publicznej demonstracji (protester)",
+            "wysłany przez telewizję albo radio do całego kraju (broadcast)"
+          ],
+          "passage": [
+            "Civil Rights Act z 1964 roku uczyniła dyskryminację niezgodną z prawem.",
+            "Ale stany południowe nadal nie dopuszczały czarnoskórych obywateli do głosowania.",
+            "Zanim możesz głosować, musisz zarejestrować się w swoim stanie.",
+            "Urzędnicy urządzali testy czytania, jakich żaden uczciwy egzaminator by nie użył.",
+            "Test z Luizjany miał trzydzieści pytań, a część z nich była niemożliwa.",
+            "Bez głosu nie można zmienić tego, kto tworzy prawo.",
+            "W 1965 roku King zorganizował marsz w Selmie, w Alabamie.",
+            "7 marca policja zatrzymała uczestników marszu na moście.",
+            "Wystrzelili gaz łzawiący, a większość idących pobito.",
+            "Ale były tam kamery i cały kraj zobaczył to tego wieczoru.",
+            "Tydzień później prezydent zażądał nowej ustawy wyborczej.",
+            "Kongres uchwalił Voting Rights Act w 1965 roku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "conseguir que o teu nome entre na lista oficial de eleitores (register to vote, inscrever-se para votar)",
+            "um teste de leitura feito por um funcionário antes de deixar alguém votar (literacy test)",
+            "o parlamento americano, que aprova as leis do país (Congress, Congresso)",
+            "uma pessoa que participa numa manifestação pública (protester, manifestante)",
+            "transmitido na televisão ou na rádio para todo o país (broadcast)"
+          ],
+          "passage": [
+            "O Civil Rights Act de 1964 tornou ilegal a discriminação.",
+            "Mas os estados do Sul continuavam a impedir os cidadãos negros de votar.",
+            "Antes de poderes votar tens de te inscrever no teu estado.",
+            "Os funcionários faziam testes de leitura que nenhum corretor honesto usaria.",
+            "O teste da Luisiana tinha trinta perguntas, algumas delas impossíveis.",
+            "Sem o voto não se pode mudar quem faz a lei.",
+            "Em 1965 King organizou uma marcha em Selma, no Alabama.",
+            "A 7 de março a polícia enfrentou os manifestantes numa ponte.",
+            "Lançaram gás lacrimogéneo/lacrimogêneo, e quase todos os manifestantes foram agredidos.",
+            "Mas as câmaras estavam lá, e o país viu aquilo nessa noite.",
+            "Uma semana depois o presidente exigiu uma nova lei eleitoral.",
+            "O Congresso aprovou o Voting Rights Act em 1965."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad magacaaga ku qorto liiska rasmiga ah ee codbixiyayaasha",
+            "imtixaan akhris oo sarkaal dhigo intaanu qof u ogolaan inuu codeeyo",
+            "baarlamaanka Ameerika, oo ansixiya sharciyada dalka",
+            "qof ka qaybqaadanaya bandhig dadweyne",
+            "la diray telefishanka ama raadiyaha ilaa dalka oo dhan"
+          ],
+          "passage": [
+            "Civil Rights Act-ka 1964-kii wuxuu takoorista ka dhigay sharci-darro.",
+            "Laakiin gobolladii koonfurta weli waxay joojiyeen codbixinta muwaadiniinta madow.",
+            "Intaadan codeyn waa inaad gobolka isku diiwaangeliso.",
+            "Saraakiishu waxay dhigeen imtixaanno akhris oo cidna daacad ah isticmaali lahayn.",
+            "Imtixaankii Louisiana wuxuu lahaa soddon su'aal, qaarna suurtogal ma ahayn.",
+            "Codka la'aantii ma beddeli kartid cidda sharciga sameysa.",
+            "1965-kii King wuxuu abaabulay socod mudaaharaad oo Selma, ee Alabama.",
+            "7-dii Maarso booliisku waxay socodyaasha kula kulmeen buundo.",
+            "Waxay ku fureen gaas ilmo-keen, badi socodyaashana waa la garaacay.",
+            "Laakiin kamarado ayaa joogay, dalkuna fiidkaas ayuu daawaday.",
+            "Toddobaad kadib Madaxweynuhu wuxuu dalbaday sharci codbixin cusub.",
+            "Congress-ku wuxuu ansixiyay Voting Rights Act 1965-kii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "внести своє ім’я до офіційного списку виборців (register to vote)",
+            "перевірка з читання, яку посадовець давав, перш ніж дозволити комусь голосувати (literacy test)",
+            "американський парламент, який ухвалює закони країни (Congress)",
+            "людина, яка бере участь у публічній демонстрації (protester)",
+            "переданий телебаченням або радіо на всю країну (broadcast)"
+          ],
+          "passage": [
+            "Закон про громадянські права 1964 року зробив дискримінацію незаконною.",
+            "Але південні штати все одно не давали чорношкірим громадянам голосувати.",
+            "Перш ніж голосувати, ви мусите зареєструватися у штаті.",
+            "Посадовці давали перевірки з читання, яких не використав би жодний сумлінний екзаменатор.",
+            "Перевірка в Луїзіані мала тридцять запитань, деякі з них неможливі.",
+            "Без голосу ви не можете змінити того, хто ухвалює закони.",
+            "У 1965 році Кінг організував похід у Сельмі, в Алабамі.",
+            "7 березня поліція зустріла учасників походу на мосту.",
+            "Вони застосували слізний газ, і більшість учасників походу побили.",
+            "Але там були камери, і того вечора це бачила вся країна.",
+            "За тиждень президент зажадав нового закону про вибори.",
+            "Конгрес ухвалив Закон про виборчі права у 1965 році."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اپنا نام ووٹروں کی سرکاری فہرست میں درج کرانا (register to vote)",
+            "ووٹ دینے کی اجازت دینے سے پہلے کسی اہلکار کا لیا ہوا پڑھنے کا امتحان (literacy test)",
+            "امریکی پارلیمنٹ، جو ملک کے قانون منظور کرتی ہے (Congress)",
+            "وہ شخص جو عوامی مظاہرے میں شامل ہو (protester)",
+            "ٹی وی یا ریڈیو پر پورے ملک تک پہنچایا گیا (broadcast)"
+          ],
+          "passage": [
+            "1964 کے Civil Rights Act نے امتیازی سلوک کو غیر قانونی بنا دیا۔",
+            "مگر جنوبی ریاستیں پھر بھی سیاہ فام شہریوں کو ووٹ دینے سے روکتی تھیں۔",
+            "ووٹ دینے سے پہلے آپ کو ریاست کے ہاں اپنا نام درج کرانا پڑتا ہے۔",
+            "اہلکار پڑھنے کے ایسے امتحان لیتے تھے جو کوئی ایمان دار جانچنے والا استعمال نہ کرتا۔",
+            "لوزیانا کے امتحان میں تیس سوال تھے، جن میں سے کچھ ناممکن تھے۔",
+            "ووٹ کے بغیر آپ یہ نہیں بدل سکتے کہ قانون کون بناتا ہے۔",
+            "1965 میں کنگ نے الاباما کے شہر سیلما (Selma) میں ایک مارچ منظم کیا۔",
+            "7 مارچ کو پولیس نے ایک پل پر مارچ کرنے والوں کو روکا۔",
+            "انھوں نے آنسو گیس چلائی، اور مارچ کرنے والوں میں سے زیادہ تر کو مارا پیٹا گیا۔",
+            "مگر وہاں کیمرے موجود تھے، اور اسی شام سارے ملک نے یہ دیکھا۔",
+            "ایک ہفتے بعد صدر نے ووٹ کا نیا قانون بنانے کا مطالبہ کیا۔",
+            "Congress نے 1965 میں Voting Rights Act منظور کر لیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why the vote still had to be won after 1964",
@@ -1148,8 +1912,162 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           "He began to say white and Black people could work together.",
           "Historians still argue about how much impact he had.",
           "Your job is to weigh their arguments against the evidence."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تحمي نفسك عندما يُهجَم عليك (self-defence)",
+            "جماعة كانت تُعلّم قوّة السود ومستقبلًا منفصلًا لهم (Nation of Islam)",
+            "سفر ديني إلى مكان مقدّس (pilgrimage)",
+            "حُجّة مؤرّخ عن الماضي، مبنيّة على الأدلّة (interpretation)",
+            "شيء كبّل إنجاز شخص (limitation)"
+          ],
+          "passage": [
+            "وُلد مالكوم ليتل (Malcolm Little) في 1925 في خطر.",
+            "وأحرق أنصار تفوّق البيض بيت أسرته في 1928.",
+            "وفي 1931 قتلوا أباه، وكان يجاهر بحقوق السود.",
+            "ومرضت أمّه مرضًا خطيرًا وأُدخلت المستشفى في 1939.",
+            "وفي تلك السنة قال له معلّم أن يتخلّى عن أن يصير محاميًا.",
+            "فترك المدرسة غاضبًا، ثم انحرف إلى الجريمة.",
+            "وفي السجن التقى جماعةً تُسمّى أمّة الإسلام (Nation of Islam).",
+            "وأُطلق سراحه في 1952، فانضمّ إليها وأخذ اسم مالكوم إكس (Malcolm X).",
+            "وقال إنّ على الناس السود أن يدافعوا عن أنفسهم، لا أن ينتظروا من يساعدهم.",
+            "وبحلول 1964 كانت أفكاره قد تغيّرت بعد حجّه إلى مكّة.",
+            "فبدأ يقول إنّ الناس البيض والسود يستطيعون أن يعملوا معًا.",
+            "والمؤرّخون لا يزالون يختلفون في مقدار أثره.",
+            "وعملك أن تزن حُججهم في مقابل الأدلّة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ochrona siebie, kiedy się na ciebie napada (self-defence)",
+            "grupa, która nauczała o sile czarnoskórych i o osobnej przyszłości dla nich (Nation of Islam)",
+            "religijna podróż do świętego miejsca (pilgrimage)",
+            "wywód historyka o przeszłości, zbudowany z dowodów (interpretation)",
+            "coś, co powstrzymywało osiągnięcia danej osoby (limitation)"
+          ],
+          "passage": [
+            "Malcolm Little urodził się w 1925 roku w niebezpieczeństwie.",
+            "Zwolennicy supremacji białych spalili dom jego rodziny w 1928 roku.",
+            "W 1931 roku zabili jego ojca, który mówił otwarcie o prawach czarnoskórych.",
+            "Jego matka poważnie zachorowała i w 1939 roku zabrano ją do szpitala.",
+            "W tym samym roku nauczyciel powiedział mu, żeby porzucił myśl o zostaniu prawnikiem.",
+            "Wyszedł ze szkoły rozgniewany, a później zajął się przestępstwami.",
+            "W więzieniu spotkał grupę o nazwie Nation of Islam.",
+            "Zwolniony w 1952 roku, przyłączył się do niej i przyjął imię Malcolm X.",
+            "Mówił, że czarnoskórzy ludzie muszą się bronić, a nie czekać na pomoc.",
+            "Do 1964 roku jego poglądy zmieniły się po pielgrzymce do Mekki.",
+            "Zaczął mówić, że biali i czarnoskórzy ludzie mogą pracować razem.",
+            "Historycy nadal spierają się, jak wielki miał wpływ.",
+            "Twoim zadaniem jest zważyć ich wywody wobec dowodów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "proteger-te a ti mesmo quando és atacado (self-defence, autodefesa)",
+            "um grupo que ensinava o poder negro e um futuro negro separado (Nation of Islam)",
+            "uma viagem religiosa a um lugar sagrado (pilgrimage, peregrinação)",
+            "o argumento de um historiador sobre o passado, construído a partir das provas (interpretation, interpretação)",
+            "algo que limitou aquilo que uma pessoa conseguiu alcançar (limitation, limitação)"
+          ],
+          "passage": [
+            "Malcolm Little nasceu em 1925, já em perigo.",
+            "Supremacistas brancos queimaram a casa da família dele em 1928.",
+            "Em 1931 mataram o pai dele, que falava a favor dos direitos das pessoas negras.",
+            "A mãe dele ficou gravemente doente e foi internada no hospital em 1939.",
+            "Nesse ano um professor disse-lhe que desistisse de ser advogado.",
+            "Saiu da escola cheio de raiva, e mais tarde entrou no crime.",
+            "Na prisão conheceu um grupo chamado Nation of Islam.",
+            "Libertado em 1952, entrou no grupo e adotou o nome Malcolm X.",
+            "Dizia que as pessoas negras tinham de se defender, e não esperar que as ajudassem.",
+            "Em 1964 as ideias dele já tinham mudado, depois de uma peregrinação a Meca.",
+            "Começou a dizer que as pessoas brancas e as pessoas negras podiam trabalhar juntas.",
+            "Os historiadores ainda discutem o impacto que ele teve.",
+            "A tua tarefa é pesar os argumentos deles contra as provas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad naftaada ilaaliso marka lagu weeraro",
+            "koox baray awoodda madow iyo mustaqbal madow oo gooni ah",
+            "safar diineed ilaa meel quduus ah",
+            "doodda taariikhyahan ee waagii hore, oo caddayn laga dhisay",
+            "wax dib u dhigay guusha qof"
+          ],
+          "passage": [
+            "Malcolm Little wuxuu ku dhashay 1925-kii xaalad khatar ah.",
+            "White supremacists waxay gurigii qoyskiisa gubeen 1928-kii.",
+            "1931-kii waxay dileen aabbihiis, oo u hadlay xuquuqda dadka madow.",
+            "Hooyadiis si daran ayay bukootay, waxaana isbitaal la dhigay 1939-kii.",
+            "Sanadkaas macallin ayaa u sheegay inuu ka tago inuu qareen noqdo.",
+            "Iskuulka wuxuu ka tegay isagoo careysan, kadibna dembi ayuu u jeestay.",
+            "Xabsiga wuxuu la kulmay koox la yiraahdo Nation of Islam.",
+            "Markii la sii daayay 1952-kii, wuu ku biiray oo magaca Malcolm X ayuu qaatay.",
+            "Wuxuu yiri dadka madow waa inay naftooda difaacaan, ee ma aha inay sugaan in la caawiyo.",
+            "1964-kii fikradihiisu way beddelmeen kadib markii uu xajka Makkah tegay.",
+            "Wuxuu bilaabay inuu yiraahdo dadka cadaanka iyo madow way wada shaqayn karaan.",
+            "Taariikhyahannadu weli waxay ku doodaan inta saameyn uu lahaa.",
+            "Shaqadaadu waa inaad doodahooda caddaynta ku miisaanto."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "захист себе, коли на вас нападають (self-defence)",
+            "група, яка навчала про силу чорношкірих і про окреме майбутнє для них (Nation of Islam)",
+            "релігійна подорож до святого місця (pilgrimage)",
+            "доведення історика про минуле, побудоване зі свідчень (interpretation)",
+            "те, що стримувало досягнення людини (limitation)"
+          ],
+          "passage": [
+            "Малкольм Літтл народився у 1925 році в небезпеці.",
+            "Прибічники зверхності білих спалили дім його родини у 1928 році.",
+            "У 1931 році вони вбили його батька, який виступав за права чорношкірих.",
+            "Його матір тяжко занедужала, і в 1939 році її забрали до лікарні.",
+            "Того року вчитель сказав йому відмовитися від думки стати адвокатом.",
+            "Він пішов зі школи розгніваним, а пізніше взявся за злочини.",
+            "У в’язниці він зустрів групу, яка називалася «Нація ісламу» (Nation of Islam).",
+            "Вийшовши на волю в 1952 році, він вступив до неї і взяв ім’я Малкольм Ікс.",
+            "Він казав, що чорношкірі люди мусять захищати себе самі, а не чекати допомоги.",
+            "До 1964 року його ідеї змінилися після паломництва до Мекки.",
+            "Він почав казати, що білі й чорношкірі люди можуть працювати разом.",
+            "Історики досі спорять про те, наскільки великий вплив він мав.",
+            "Ваше завдання — зважити їхні доведення проти свідчень."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "حملے کی صورت میں اپنی حفاظت کرنا (self-defence)",
+            "وہ گروہ جو سیاہ فام طاقت اور سیاہ فام لوگوں کے الگ مستقبل کی تعلیم دیتا تھا (Nation of Islam)",
+            "کسی مقدس مقام کا مذہبی سفر (pilgrimage)",
+            "کسی مؤرخ کی وہ دلیل جو وہ شہادت سے ماضی کے بارے میں بناتا ہے (interpretation)",
+            "وہ چیز جس نے کسی شخص کی کامیابی کو روکا (limitation)"
+          ],
+          "passage": [
+            "میلکم لِٹل (Malcolm Little) 1925 میں ایسے حالات میں پیدا ہوا جو خطرناک تھے۔",
+            "1928 میں white supremacists نے اس کے خاندان کا گھر جلا دیا۔",
+            "1931 میں انھوں نے اس کے والد کو قتل کر دیا، جو سیاہ فام حقوق کے لیے آواز اٹھاتے تھے۔",
+            "اس کی والدہ سخت بیمار ہو گئیں اور 1939 میں انھیں ہسپتال لے جایا گیا۔",
+            "اسی سال ایک استاد نے اس سے کہا کہ وکیل بننے کا خیال چھوڑ دے۔",
+            "وہ غصے میں سکول چھوڑ گیا، اور بعد میں جرم کی طرف مڑ گیا۔",
+            "قید میں اس کی ملاقات Nation of Islam نامی ایک گروہ سے ہوئی۔",
+            "1952 میں رہائی پا کر وہ اس میں شامل ہو گیا اور Malcolm X کا نام رکھ لیا۔",
+            "اس نے کہا کہ سیاہ فام لوگوں کو اپنی حفاظت خود کرنی چاہیے، مدد کا انتظار نہیں کرنا چاہیے۔",
+            "1964 تک مکہ کے مذہبی سفر (pilgrimage) کے بعد اس کے خیال بدل چکے تھے۔",
+            "وہ کہنے لگا کہ سفید فام اور سیاہ فام لوگ مل کر کام کر سکتے ہیں۔",
+            "مؤرخ اب بھی اس بات پر بحث کرتے ہیں کہ اس کا اثر کتنا تھا۔",
+            "آپ کا کام یہ ہے کہ ان کی دلیلوں کو شہادت کے مقابل تولیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Malcolm Little: a childhood shaped by racist violence",

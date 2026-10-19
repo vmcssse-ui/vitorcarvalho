@@ -102,8 +102,162 @@ window.ASTRA_UNITS["hist-dictatorship"] = {
           "A totalitarian state leaves no room for opposition.",
           "This unit looks at two dictatorships of the 20th century.",
           "You will compare Hitler's Germany with Stalin's Russia."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "نظام حكم يصوّت فيه الناس ويختارون قادتهم (democracy)",
+            "نظام حكم يملك فيه شخص واحد السلطة كلّها (dictatorship)",
+            "حكم له سيطرة تامّة على الناس وعلى المجتمع (totalitarianism)",
+            "الناس والأحزاب الذين يخالفون الحكومة ويُسمح لهم بقول ذلك (opposition)",
+            "سلطة مقسومة بين أجزاء الحكم حتى يراقب كلّ جزء الأجزاء الأخرى (separation of powers)"
+          ],
+          "passage": [
+            "في الديمقراطية يصوّت الناس ويختارون قادتهم.",
+            "والانتخابات تجري بانتظام، والتصويت سرّي.",
+            "ويستطيع أكثر من حزب أن يترشّح، فيكون للناس خيار حقيقي.",
+            "وللناس حقوق، منها حقّ أن يقولوا ما يفكّرون فيه.",
+            "والسلطة مقسومة، فتستطيع المحاكم أن تراقب الحكومة.",
+            "وفي الدكتاتورية يملك شخص واحد السلطة كلّها.",
+            "فلا انتخابات حرّة ولا خيار حقيقي.",
+            "وتُهمَل رغبات الناس وحقوقهم.",
+            "والدكتاتور يقرّر كلّ قانون وكلّ قرار مهمّ.",
+            "وعندما تمتدّ تلك السيطرة إلى كلّ جزء من الحياة سمّيناها الشمولية (totalitarianism).",
+            "والدولة الشمولية لا تترك مكانًا للمعارضة.",
+            "وهذه الوحدة تنظر في دكتاتوريتين من القرن العشرين (20th century).",
+            "وستقارن ألمانيا هتلر بروسيا ستالين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ustrój, w którym ludzie głosują i wybierają swoich przywódców (democracy)",
+            "ustrój, w którym jedna osoba ma całą władzę (dictatorship)",
+            "rząd mający całkowitą kontrolę nad ludźmi i społeczeństwem (totalitarianism)",
+            "ludzie i partie, którzy nie zgadzają się z rządem i mogą to mówić (opposition)",
+            "władza podzielona między części rządu tak, żeby każda mogła sprawdzać pozostałe (separation of powers)"
+          ],
+          "passage": [
+            "W demokracji ludzie głosują i wybierają swoich przywódców.",
+            "Wybory odbywają się regularnie, a głosowanie jest tajne.",
+            "Startować może więcej niż jedna partia, więc ludzie mają prawdziwy wybór.",
+            "Ludzie mają prawa, w tym prawo do mówienia tego, co myślą.",
+            "Władza jest podzielona, więc sądy mogą sprawdzać rząd.",
+            "W dyktaturze jedna osoba ma całą władzę.",
+            "Nie ma wolnych wyborów ani prawdziwego wyboru.",
+            "Życzenia i prawa ludzi są lekceważone.",
+            "Dyktator decyduje o każdym prawie i o każdej ważnej sprawie.",
+            "Kiedy ta kontrola wchodzi w każdą część życia, nazywamy to totalitaryzmem.",
+            "Państwo totalitarne nie zostawia miejsca na opozycję.",
+            "Ten temat patrzy na dwie dyktatury XX wieku (the 20th century).",
+            "Porównasz Niemcy Hitlera z Rosją Stalina."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um sistema de governo em que o povo vota e escolhe os seus líderes (democracy, democracia)",
+            "um sistema de governo em que uma só pessoa tem todo o poder (dictatorship, ditadura)",
+            "um governo com controlo/controle completo sobre as pessoas e a sociedade (totalitarianism, totalitarismo)",
+            "pessoas e partidos que discordam do governo e são autorizados a dizê-lo (opposition, oposição)",
+            "o poder dividido entre partes do governo, para que cada uma possa travar as outras (separation of powers, separação de poderes)"
+          ],
+          "passage": [
+            "Numa democracia, o povo vota e escolhe os seus líderes.",
+            "Há eleições com regularidade, e o voto é secreto.",
+            "Pode candidatar-se mais de um partido, por isso as pessoas têm uma escolha real.",
+            "As pessoas têm direitos, incluindo o direito de dizer o que pensam.",
+            "O poder é repartido, por isso os tribunais podem travar o governo.",
+            "Numa ditadura, uma só pessoa tem todo o poder.",
+            "Não há eleições livres nem escolha real.",
+            "Os desejos e os direitos das pessoas são ignorados.",
+            "O ditador decide todas as leis e todas as decisões importantes.",
+            "Quando esse controlo/controle entra em todas as partes da vida, chamamos-lhe totalitarismo.",
+            "Um Estado totalitário não deixa espaço para oposição.",
+            "Esta unidade olha para duas ditaduras do século 20 (século XX).",
+            "Vais comparar a Alemanha de Hitler com a Rússia de Stalin."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "nidaam dowladnimo oo dadku codeeyaan oo hoggaamiyayaashooda doortaan",
+            "nidaam dowladnimo oo hal qof awood dhammaystiran leeyahay",
+            "dowlad xukun buuxa ku leh dadka iyo bulshada",
+            "dad iyo xisbiyo ka duwan dowladda oo loo ogol yahay inay sidaas sheegaan",
+            "awood la kala qaybiyo qaybaha dowladda si mid kastaa kuwa kale u hubiyo"
+          ],
+          "passage": [
+            "Dimuqraadiyad, dadku way codeeyaan oo hoggaamiyayaashooda way doortaan.",
+            "Doorashooyin si joogto ah ayay dhacaan, codkana waa qarsoodi.",
+            "Ka badan hal xisbi ayaa tartami karaa, markaa dadku doorasho dhab ah ayay leeyihiin.",
+            "Dadku xuquuq ayay leeyihiin, oo ay ku jirto xaqa ay wax ku sheegaan fikirkooda.",
+            "Awoodda waa la kala qaybsan yahay, markaa maxkamaduhu dowladda way hubin karaan.",
+            "Kali-talis, hal qof awood dhammaystiran ayuu leeyahay.",
+            "Ma jiro doorasho xor ah, ma jirtona doorasho dhab ah.",
+            "Rabitaanka iyo xuquuqda dadka waa la iska indhatiraa.",
+            "Kali-taliyuhu wuxuu go'aansadaa sharci kasta iyo go'aan kasta oo muhiim ah.",
+            "Marka xukunkaas uu gaaro qayb kasta oo nolosha, waxaan ugu yeerraa totalitarianism.",
+            "Dowlad totalitarian ah meel uma banayso mucaarad.",
+            "Cutubkan wuxuu eegayaa laba kali-talis oo qarnigii 20-aad.",
+            "Waxaad barbar dhigaysaa Jarmalkii Hitler iyo Ruushkii Stalin."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "устрій, за якого люди голосують і обирають своїх очільників (democracy)",
+            "устрій, за якого одна людина має всю владу (dictatorship)",
+            "влада, яка має повний контроль над людьми і суспільством (totalitarianism)",
+            "люди і партії, які не погоджуються з урядом і яким дозволено про це казати (opposition)",
+            "влада, поділена між частинами уряду так, щоб кожна могла стримувати інші (separation of powers)"
+          ],
+          "passage": [
+            "У демократії люди голосують і обирають своїх очільників.",
+            "Вибори відбуваються регулярно, і голосування таємне.",
+            "Висуватися може більше ніж одна партія, тому люди мають справжній вибір.",
+            "Люди мають права, зокрема право казати те, що думають.",
+            "Влада розподілена, тому суди можуть стримувати уряд.",
+            "У диктатурі одна людина має всю владу.",
+            "Немає ні вільних виборів, ні справжнього вибору.",
+            "Бажання і права людей не беруть до уваги.",
+            "Диктатор вирішує кожний закон і кожне важливе рішення.",
+            "Коли цей контроль дістає в кожну частину життя, ми називаємо це тоталітаризмом.",
+            "Тоталітарна держава не залишає місця для опозиції.",
+            "Цей розділ розглядає дві диктатури 20 століття.",
+            "Ви порівняєте Німеччину Гітлера з Росією Сталіна."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "حکومت کا وہ نظام جس میں لوگ ووٹ دے کر اپنے رہنما چنتے ہیں (democracy)",
+            "حکومت کا وہ نظام جس میں ساری طاقت ایک شخص کے پاس ہوتی ہے (dictatorship)",
+            "ایسی حکومت جس کا لوگوں اور سماج پر مکمل قابو ہو (totalitarianism)",
+            "وہ لوگ اور جماعتیں جو حکومت سے اختلاف کرتی ہیں اور انھیں یہ کہنے کی اجازت ہوتی ہے (opposition)",
+            "طاقت کو حکومت کے مختلف حصوں میں بانٹنا، تاکہ ہر حصہ دوسروں پر نظر رکھ سکے (separation of powers)"
+          ],
+          "passage": [
+            "democracy میں لوگ ووٹ دے کر اپنے رہنما چنتے ہیں۔",
+            "انتخابات مقررہ وقت پر ہوتے ہیں، اور ووٹ خفیہ ہوتا ہے۔",
+            "ایک سے زیادہ جماعتیں کھڑی ہو سکتی ہیں، اس لیے لوگوں کے پاس اصل انتخاب ہوتا ہے۔",
+            "لوگوں کے حق ہوتے ہیں، جن میں اپنی بات کہنے کا حق بھی شامل ہے۔",
+            "طاقت بانٹی ہوئی ہوتی ہے، اس لیے عدالتیں حکومت پر نظر رکھ سکتی ہیں۔",
+            "dictatorship میں ساری طاقت ایک شخص کے پاس ہوتی ہے۔",
+            "نہ آزاد انتخابات ہوتے ہیں اور نہ کوئی اصل انتخاب۔",
+            "لوگوں کی خواہشوں اور ان کے حقوق کو نظرانداز کر دیا جاتا ہے۔",
+            "ڈکٹیٹر ہر قانون اور ہر اہم فیصلہ خود کرتا ہے۔",
+            "جب یہ قابو زندگی کے ہر حصے تک پہنچ جائے تو ہم اسے totalitarianism کہتے ہیں۔",
+            "totalitarian ریاست میں opposition کے لیے کوئی جگہ نہیں بچتی۔",
+            "یہ یونٹ بیسویں صدی کی دو dictatorships کو دیکھتا ہے۔",
+            "آپ ہٹلر کے جرمنی کا سٹالن کے روس سے موازنہ کریں گے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What makes a country a democracy?",
@@ -313,8 +467,162 @@ window.ASTRA_UNITS["hist-dictatorship"] = {
           "More and more Germans voted for the Nazi Party.",
           "In January 1933 Hitler became Chancellor of Germany.",
           "He began at once to take German democracy apart."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "معاهدة السلام التي اضطرّت ألمانيا إلى قبولها بعد خسارتها الحرب العالمية الأولى (Treaty of Versailles)",
+            "الفكرة أنّ أمّتك ينبغي أن تُجعل أقوى وأكثر استقلالًا (nationalism)",
+            "الفكرة أنّ أرض البلد وأعماله التجارية وثروته ينبغي أن تكون لعمّاله (socialism)",
+            "بلا عمل (unemployed)",
+            "رئيس الحكومة الألمانية، وهو قريب من رئيس الوزراء (Chancellor)"
+          ],
+          "passage": [
+            "خسرت ألمانيا الحرب العالمية الأولى في 1918.",
+            "وكثير من الألمان لم يستطع أن يقبل أنهم قد هُزموا.",
+            "وكانوا يعتقدون أنّ سياسيّيهم هم الذين غدروا بهم.",
+            "ومعاهدة فرساي (Treaty of Versailles) أرغمت ألمانيا على حمل اللوم.",
+            "وقلّصت الجيش الألماني وطلبت مبالغ هائلة.",
+            "وتأسّس حزب العمّال الألماني في 1919.",
+            "وصار هتلر زعيمه في 1921 وسمّاه الحزب النازي.",
+            "ووعد النازيون بأن يجعلوا ألمانيا قويّةً من جديد.",
+            "وفي 1929 حطّم انهيار في سوق الأسهم الأمريكية الاقتصاد الألماني.",
+            "فخسر الملايين أعمالهم وصاروا يائسين يريدون التغيير.",
+            "فصوّت للحزب النازي ألمان أكثر وأكثر.",
+            "وفي يناير 1933 صار هتلر مستشار ألمانيا.",
+            "وبدأ في الحال يفكّك الديمقراطية الألمانية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "traktat pokojowy, który Niemcy musiały przyjąć po przegranej pierwszej wojnie światowej (Treaty of Versailles)",
+            "myśl, że własny naród trzeba uczynić silniejszym i bardziej niezależnym (nationalism)",
+            "myśl, że ziemia, firmy i bogactwo kraju powinny należeć do jego robotników (socialism)",
+            "bez pracy (unemployed)",
+            "przywódca rządu niemieckiego, podobny do premiera (Chancellor)"
+          ],
+          "passage": [
+            "Niemcy przegrały pierwszą wojnę światową w 1918 roku.",
+            "Wielu Niemców nie mogło przyjąć tego, że zostali pobici.",
+            "Wierzyli, że zdradzili ich ich własni politycy.",
+            "Traktat wersalski zmusił Niemcy do przyjęcia winy.",
+            "Zmniejszył armię niemiecką i żądał ogromnych wypłat.",
+            "Niemiecka Partia Robotników powstała w 1919 roku.",
+            "Hitler został jej przywódcą w 1921 roku i przemianował ją na partię nazistowską.",
+            "Naziści obiecywali, że znowu uczynią Niemcy silnymi.",
+            "W 1929 roku krach na amerykańskiej giełdzie zrujnował gospodarkę niemiecką.",
+            "Miliony straciły pracę i zaczęły rozpaczliwie pragnąć zmiany.",
+            "Coraz więcej Niemców głosowało na partię nazistowską.",
+            "W styczniu 1933 roku Hitler został kanclerzem Niemiec.",
+            "Od razu zaczął rozbierać niemiecką demokrację na części."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o tratado de paz que a Alemanha teve de aceitar depois de perder a Primeira Guerra Mundial (Treaty of Versailles, Tratado de Versalhes)",
+            "a ideia de que a tua própria nação deve ser tornada mais forte e mais independente (nationalism, nacionalismo)",
+            "a ideia de que as terras, as empresas e a riqueza de um país devem pertencer aos seus trabalhadores (socialism, socialismo)",
+            "sem trabalho (unemployed, desempregado)",
+            "o chefe do governo alemão, mais ou menos como um primeiro-ministro (Chancellor, chanceler)"
+          ],
+          "passage": [
+            "A Alemanha perdeu a Primeira Guerra Mundial em 1918.",
+            "Muitos alemães não conseguiam aceitar que tinham sido derrotados.",
+            "Acreditavam que os seus próprios políticos os tinham traído.",
+            "O Tratado de Versalhes obrigou a Alemanha a assumir a culpa.",
+            "Reduziu o exército alemão e exigiu pagamentos enormes.",
+            "O Partido dos Trabalhadores Alemães foi fundado em 1919.",
+            "Hitler tornou-se o seu líder em 1921 e mudou-lhe o nome para Partido Nazi/Nazista.",
+            "Os nazis/nazistas prometiam tornar a Alemanha forte outra vez.",
+            "Em 1929 um colapso da bolsa americana arruinou a economia alemã.",
+            "Milhões de pessoas perderam o emprego e ficaram desesperadas por mudança.",
+            "Cada vez mais alemães votavam no Partido Nazi/Nazista.",
+            "Em janeiro de 1933 Hitler tornou-se chanceler da Alemanha.",
+            "Começou logo a desmontar a democracia alemã."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "heshiiskii nabadda oo Jarmalku ku qasbanaaday inuu aqbalo kadib markii Dagaalkii Koowaad ee Adduunka lumiyay",
+            "fikradda ah in qarankaaga laga dhigo mid ka xoog badan oo madax-bannaani badan leh",
+            "fikradda ah in dhulka, ganacsiyada iyo maalka dal ay shaqaalihiisa iska leeyihiin",
+            "shaqo la'aan",
+            "hoggaamiyaha dowladda Jarmalka, oo u eg Ra'iisul Wasaare"
+          ],
+          "passage": [
+            "Jarmalku wuxuu lumiyay Dagaalkii Koowaad ee Adduunka 1918-kii.",
+            "Jarmal badan ayaa diiday inay aqbalaan in laga adkaaday.",
+            "Waxay rumaysnaayeen in siyaasiyiintoodu khiyaameeyeen.",
+            "Treaty of Versailles wuxuu Jarmalka ku qasbay inuu eedda qaato.",
+            "Wuxuu ciidanka Jarmalka gooyay oo lacago aad u badan ayuu dalbaday.",
+            "Xisbigii Shaqaalaha Jarmalka waxaa la aasaasay 1919-kii.",
+            "Hitler wuxuu hoggaamiyihiisa noqday 1921-kii oo wuxuu ugu beddelay Xisbiga Nazi.",
+            "Nazis-ku waxay ballanqaadeen inay Jarmalka mar kale xoojiyaan.",
+            "1929-kii burbur ka dhacay suuqa saamiyada Maraykanka wuxuu dhaqaalaha Jarmalka burburiyay.",
+            "Malaayiin ayaa shaqooyinkooda lumiyay oo isbeddel aad ayay u baahdeen.",
+            "Jarmal sii badan ayaa Xisbiga Nazi u codeeyay.",
+            "Janaayo 1933-dii Hitler wuxuu noqday Chancellor-ka Jarmalka.",
+            "Isla markiiba wuxuu bilaabay inuu dimuqraadiyadda Jarmalka kala furfuro."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "мирний договір, який Німеччина мусила прийняти після поразки в Першій світовій війні (Treaty of Versailles)",
+            "ідея, що власну націю треба зробити сильнішою і незалежнішою (nationalism)",
+            "ідея, що земля, підприємства і багатство країни мають належати її робітникам (socialism)",
+            "той, хто без роботи (unemployed)",
+            "очільник німецького уряду, щось на зразок прем’єр-міністра (Chancellor)"
+          ],
+          "passage": [
+            "Німеччина втратила Першу світову війну у 1918 році.",
+            "Багато німців не могли прийняти, що їх перемогли.",
+            "Вони вірили, що їх зрадили їхні власні політики.",
+            "Версальський договір змусив Німеччину взяти на себе вину.",
+            "Він скоротив німецьке військо і вимагав величезних виплат.",
+            "Німецьку робітничу партію заснували у 1919 році.",
+            "Гітлер став її очільником у 1921 році і перейменував її на Нацистську партію.",
+            "Нацисти обіцяли знову зробити Німеччину сильною.",
+            "У 1929 році обвал на американській біржі зруйнував німецьку економіку.",
+            "Мільйони втратили роботу і відчайдушно захотіли змін.",
+            "Усе більше німців голосувало за Нацистську партію.",
+            "У січні 1933 року Гітлер став канцлером Німеччини.",
+            "Він відразу почав розбирати німецьку демократію на частини."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ امن معاہدہ جو جرمنی کو پہلی جنگِ عظیم ہارنے کے بعد قبول کرنا پڑا (Treaty of Versailles)",
+            "یہ خیال کہ اپنی قوم کو زیادہ مضبوط اور زیادہ آزاد بنایا جائے (nationalism)",
+            "یہ خیال کہ کسی ملک کی زمین، کاروبار اور دولت اس کے مزدوروں کی ہونی چاہیے (socialism)",
+            "بے روزگار (unemployed)",
+            "جرمن حکومت کا سربراہ، کچھ کچھ وزیرِ اعظم کی طرح (Chancellor)"
+          ],
+          "passage": [
+            "جرمنی 1918 میں پہلی جنگِ عظیم ہار گیا۔",
+            "بہت سے جرمن یہ مان ہی نہ سکے کہ وہ ہار گئے ہیں۔",
+            "ان کا یقین تھا کہ ان کے اپنے سیاست دانوں نے ان سے غداری کی ہے۔",
+            "Treaty of Versailles نے جرمنی کو الزام لینے پر مجبور کیا۔",
+            "اس نے جرمن فوج کم کر دی اور بہت بھاری رقموں کا مطالبہ کیا۔",
+            "German Workers' Party 1919 میں قائم ہوئی۔",
+            "ہٹلر 1921 میں اس کا رہنما بنا اور اس کا نام Nazi Party رکھ دیا۔",
+            "نازیوں نے وعدہ کیا کہ وہ جرمنی کو دوبارہ مضبوط بنائیں گے۔",
+            "1929 میں امریکی سٹاک مارکیٹ کے دھڑام سے گرنے نے جرمن معیشت تباہ کر دی۔",
+            "لاکھوں لوگوں کا روزگار گیا اور وہ تبدیلی کے لیے بے چین ہو گئے۔",
+            "زیادہ سے زیادہ جرمن Nazi Party کو ووٹ دینے لگے۔",
+            "جنوری 1933 میں ہٹلر جرمنی کا Chancellor بن گیا۔",
+            "اس نے فوراً جرمن democracy کو توڑنا شروع کر دیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Germany after the First World War",
@@ -525,8 +833,162 @@ window.ASTRA_UNITS["hist-dictatorship"] = {
           "In June 1934 the SS murdered around 400 Nazis who opposed him.",
           "In August 1934 President Hindenburg died.",
           "Hitler declared himself Führer, and his power was now absolute."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "البرلمان الألماني، وكذلك البناء الذي كان يجتمع فيه (Reichstag)",
+            "سلطات خاصّة تأخذها الحكومة في أزمة، فتضع القواعد المعتادة جانبًا (emergency powers)",
+            "القانون الذي أتاح لهتلر أن يُشرّع القوانين بغير موافقة الرايخستاغ (Enabling Act)",
+            "بلد لا يُسمح فيه إلّا بحزب سياسي واحد (one-party state)",
+            "الزعيم: اللقب الذي أعطاه هتلر نفسه لمّا صارت سلطته مطلقة (Führer)"
+          ],
+          "passage": [
+            "كان هتلر الآن مستشارًا، ولكنّ سلطته لم تكن قد أمِنت بعد.",
+            "وفي 27 فبراير 1933 أُضرمت النار في بناء الرايخستاغ (Reichstag).",
+            "فاستخدم هتلر الحريق ليطلب سلطات الطوارئ.",
+            "فحدّ قانون جديد حقوق الناس وحرّياتهم.",
+            "واعتُقل زعماء الشيوعيين فلم يستطيعوا أن يحمِلوا حملتهم.",
+            "وفي الانتخابات التي تلت ربح النازيون 288 مقعدًا.",
+            "وذلك لم يكن أغلبية بعد، فتحالف هتلر مع القوميّين.",
+            "وفي مارس 1933 أقرّ الرايخستاغ قانون التفويض (Enabling Act).",
+            "فأتاح لهتلر أن يُشرّع القوانين بغير موافقة الرايخستاغ.",
+            "فمنع الأحزاب الأخرى، وصارت ألمانيا دولة الحزب الواحد.",
+            "وفي يونيو 1934 قتلت الإس إس (SS) نحو 400 نازيّ عارضوه.",
+            "وفي أغسطس 1934 مات الرئيس هيندنبورغ (Hindenburg).",
+            "فأعلن هتلر نفسه الفوهرر (Führer)، وصارت سلطته الآن مطلقة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "parlament niemiecki, a także budynek, w którym się zbierał (Reichstag)",
+            "szczególne uprawnienia, które rząd bierze w czasie kryzysu, odkładając zwykłe zasady (emergency powers)",
+            "prawo, które pozwoliło Hitlerowi wydawać ustawy bez zgody Reichstagu (Enabling Act)",
+            "kraj, w którym wolno istnieć tylko jednej partii politycznej (one-party state)",
+            "przywódca: tytuł, który Hitler sam sobie nadał, kiedy jego władza stała się absolutna (Führer)"
+          ],
+          "passage": [
+            "Hitler był teraz kanclerzem, ale jego władza nie była jeszcze pewna.",
+            "27 lutego 1933 roku podpalono budynek Reichstagu.",
+            "Hitler użył tego pożaru, żeby żądać uprawnień nadzwyczajnych.",
+            "Nowe prawo ograniczyło prawa i wolności ludzi.",
+            "Przywódców komunistycznych aresztowano i nie mogli prowadzić kampanii.",
+            "W wyborach, które potem się odbyły, naziści zdobyli 288 miejsc.",
+            "To nadal nie była większość, więc Hitler połączył się z nacjonalistami.",
+            "W marcu 1933 roku Reichstag uchwalił Enabling Act.",
+            "Pozwoliło ono Hitlerowi wydawać ustawy bez zgody Reichstagu.",
+            "Zakazał innych partii i Niemcy stały się państwem jednej partii.",
+            "W czerwcu 1934 roku SS zamordowało około 400 nazistów, którzy mu się sprzeciwiali.",
+            "W sierpniu 1934 roku umarł prezydent Hindenburg.",
+            "Hitler ogłosił się Führerem i jego władza była teraz absolutna."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o parlamento alemão, e também o edifício onde se reunia (Reichstag)",
+            "poderes especiais que um governo toma numa crise, e que põem as regras normais de lado (emergency powers, poderes de emergência)",
+            "a lei que permitiu a Hitler fazer leis sem a aprovação do Reichstag (Enabling Act)",
+            "um país onde só é permitido existir um partido político (one-party state, Estado de partido único)",
+            "líder: o título que Hitler se deu quando o seu poder passou a ser absoluto (Führer)"
+          ],
+          "passage": [
+            "Hitler era agora chanceler, mas o seu poder ainda não estava seguro.",
+            "A 27 de fevereiro de 1933 o edifício do Reichstag foi incendiado.",
+            "Hitler usou o incêndio para exigir poderes de emergência.",
+            "Uma nova lei restringiu os direitos e as liberdades das pessoas.",
+            "Os líderes comunistas foram presos e não puderam fazer campanha.",
+            "Nas eleições que se seguiram, os nazis/nazistas ganharam 288 lugares.",
+            "Isso ainda não era uma maioria, por isso Hitler juntou-se aos nacionalistas.",
+            "Em março de 1933 o Reichstag aprovou o Enabling Act.",
+            "Permitia a Hitler fazer leis sem a aprovação do Reichstag.",
+            "Ele proibiu os outros partidos, e a Alemanha tornou-se um Estado de partido único.",
+            "Em junho de 1934 as SS mataram cerca de 400 nazis/nazistas que se opunham a ele.",
+            "Em agosto de 1934 morreu o presidente Hindenburg.",
+            "Hitler declarou-se Führer, e o seu poder era agora absoluto."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "baarlamaanka Jarmalka, iyo sidoo kale dhismaha ay ku kulmeen",
+            "awoodo gaar ah oo dowladdu qaadato xilli xaalad degdeg ah, kuwaasoo xeerarka caadiga ah dhinac mariya",
+            "sharcigii u ogolaaday Hitler inuu sharciyo sameeyo iyadoon Reichstag-ku ansixin",
+            "dal oo keliya hal xisbi siyaasadeed loo ogol yahay inuu jiro",
+            "hoggaamiye: cinwaankii Hitler naftiisa u bixiyay markii awooddiisa dhammaystirantay"
+          ],
+          "passage": [
+            "Hitler hadda wuxuu ahaa Chancellor, laakiin awooddiisa weli ma sugneyn.",
+            "27 Febraayo 1933 dhismaha Reichstag waa la gubay.",
+            "Hitler wuxuu dabka u isticmaalay inuu awoodo degdeg ah ku dalbado.",
+            "Sharci cusub ayaa xaddiday xuquuqda iyo xorriyadda dadka.",
+            "Hoggaamiyeyaasha hantiwadaagga waa la xiray, ololena ma samayn karin.",
+            "Doorashadii xigtay, Nazis-ku waxay ku guulaysteen 288 kursi.",
+            "Taasi weli ma ahayn aqlabiyad, markaa Hitler wuxuu la biiray nationalists-ka.",
+            "Maarso 1933-dii Reichstag-ku wuxuu ansixiyay Enabling Act.",
+            "Waxay u ogolaatay Hitler inuu sharciyo sameeyo iyadoon Reichstag-ku ansixin.",
+            "Xisbiyada kale wuu mamnuucay, Jarmalkuna wuxuu noqday dal hal xisbi leh.",
+            "Juun 1934-kii SS-ku waxay dileen qiyaastii 400 Nazi oo ka soo horjeeday.",
+            "Agoosto 1934-kii Madaxweyne Hindenburg wuu dhintay.",
+            "Hitler naftiisa wuxuu ku dhawaaqay Führer, awooddiisuna hadda way dhammaystirnayd."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "німецький парламент, а також будівля, у якій він збирався (Reichstag)",
+            "особливі повноваження, які уряд бере під час кризи і які відкладають звичайні правила (emergency powers)",
+            "закон, який дозволив Гітлеру ухвалювати закони без згоди Райхстагу (Enabling Act)",
+            "країна, де дозволено існувати лише одній політичній партії (one-party state)",
+            "вождь: титул, який Гітлер дав собі, коли його влада стала абсолютною (Führer)"
+          ],
+          "passage": [
+            "Гітлер тепер був канцлером, але його влада ще не була надійною.",
+            "27 лютого 1933 року будівлю Райхстагу підпалили.",
+            "Гітлер використав цю пожежу, щоб вимагати надзвичайних повноважень.",
+            "Новий закон обмежив права і свободи людей.",
+            "Комуністичних провідників арештували, і вони не могли вести кампанію.",
+            "На виборах, які за цим пішли, нацисти здобули 288 місць.",
+            "Це все одно не була більшість, тому Гітлер об’єднався з націоналістами.",
+            "У березні 1933 року Райхстаг ухвалив Enabling Act, закон про надзвичайні повноваження.",
+            "Він дозволив Гітлеру ухвалювати закони без згоди Райхстагу.",
+            "Він заборонив інші партії, і Німеччина стала однопартійною державою.",
+            "У червні 1934 року СС убили близько 400 нацистів, які були проти нього.",
+            "У серпні 1934 року президент Гінденбурґ помер.",
+            "Гітлер оголосив себе фюрером, і його влада тепер була абсолютною."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جرمن پارلیمنٹ، اور وہ عمارت بھی جس میں وہ بیٹھتی تھی (Reichstag)",
+            "وہ خاص اختیارات جو حکومت بحران میں لے لیتی ہے، اور جو عام قاعدے ایک طرف رکھ دیتے ہیں (emergency powers)",
+            "وہ قانون جس نے ہٹلر کو Reichstag کی منظوری کے بغیر قانون بنانے کی اجازت دی (Enabling Act)",
+            "وہ ملک جہاں صرف ایک سیاسی جماعت کے وجود کی اجازت ہو (one-party state)",
+            "رہنما: وہ لقب جو ہٹلر نے اپنی طاقت مکمل ہونے پر خود کو دیا (Führer)"
+          ],
+          "passage": [
+            "ہٹلر اب Chancellor تھا، مگر اس کی طاقت ابھی پکی نہ تھی۔",
+            "27 فروری 1933 کو Reichstag کی عمارت کو آگ لگا دی گئی۔",
+            "ہٹلر نے اس آگ کو emergency powers مانگنے کے لیے استعمال کیا۔",
+            "ایک نئے قانون نے لوگوں کے حق اور آزادیاں محدود کر دیں۔",
+            "کمیونسٹ رہنما گرفتار کر لیے گئے اور وہ مہم نہ چلا سکے۔",
+            "اس کے بعد ہونے والے انتخاب میں نازیوں نے 288 سیٹیں جیتیں۔",
+            "یہ پھر بھی اکثریت نہ تھی، اس لیے ہٹلر nationalists کے ساتھ مل گیا۔",
+            "مارچ 1933 میں Reichstag نے Enabling Act منظور کر لیا۔",
+            "اس نے ہٹلر کو Reichstag کی منظوری کے بغیر قانون بنانے دیا۔",
+            "اس نے دوسری جماعتوں پر پابندی لگا دی، اور جرمنی one-party state بن گیا۔",
+            "جون 1934 میں SS نے اُن تقریباً 400 نازیوں کو قتل کر دیا جو اس کے مخالف تھے۔",
+            "اگست 1934 میں صدر ہنڈنبرگ (Hindenburg) مر گیا۔",
+            "ہٹلر نے خود کو Führer قرار دے دیا، اور اب اس کی طاقت مکمل تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Using democracy to destroy democracy",
@@ -736,8 +1198,162 @@ window.ASTRA_UNITS["hist-dictatorship"] = {
           "Women were told that their place was in the home.",
           "Workers were offered jobs, but their trade unions were closed.",
           "Step by step, every part of life came under Nazi control."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الشرطة السرّية في ألمانيا النازية (Gestapo)",
+            "من يُبلّغ السلطات عن الناس سرًّا (informer)",
+            "تحديد ما لا يجوز طبعه أو قوله أو عرضه أو تعليمه (censorship)",
+            "معلومات مُنتقاة ومُصاغة لتجعل الناس يعتقدون ما تريده الحكومة (propaganda)",
+            "أن تدفع مجموعة من المعتقدات في الناس حتى يقبلوها بغير سؤال (indoctrinate)"
+          ],
+          "passage": [
+            "على الدكتاتورية أن تتمسّك بالسلطة متى أخذتها.",
+            "واستخدم النازيون الترويع والقانون والمدارس معًا.",
+            "وكان الغستابو (Gestapo) هو الشرطة السرّية في ألمانيا النازية.",
+            "وكان يستخدم المُبلّغين والمراقبة وتفتيش البيوت ليجد الأعداء.",
+            "وكانت الإس إس تُدير معسكرات الاعتقال لمعارضي النظام.",
+            "ولم تكن المحاكم تحمي الناس من حكومتهم هم بعد ذلك.",
+            "والرقابة كانت تحدّد ما تستطيع الصحف والكتب والأفلام أن تقوله.",
+            "ثم كانت الدعاية توفّر ما يريد النازيون أن يعتقده الناس.",
+            "وكان الأطفال ينضمّون إلى منظّمات النازيين الشبابية بعد المدرسة.",
+            "وكانوا يُعلَّمون أن يقدّموا الحزب على تفكيرهم هم.",
+            "وقيل للنساء إنّ مكانهنّ في البيت.",
+            "وعُرض على العمّال عمل، ولكنّ نقاباتهم أُغلقت.",
+            "وخطوةً خطوةً صار كلّ جزء من الحياة تحت سيطرة النازيين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "tajna policja Niemiec nazistowskich (Gestapo)",
+            "ktoś, kto potajemnie donosi władzom na innych ludzi (informer)",
+            "decydowanie o tym, czego nie wolno wydrukować, powiedzieć, pokazać ani uczyć (censorship)",
+            "informacje wybrane i ułożone tak, żeby ludzie wierzyli w to, czego chce rząd (propaganda)",
+            "wtłaczać ludziom zestaw przekonań, aż przyjmą je bez pytania (indoctrinate)"
+          ],
+          "passage": [
+            "Dyktatura musi utrzymać władzę, kiedy już ją zabrała.",
+            "Naziści używali razem terroru, prawa i szkół.",
+            "Gestapo było tajną policją Niemiec nazistowskich.",
+            "Używało donosicieli, obserwacji i przeszukań domów, żeby znaleźć wrogów.",
+            "SS prowadziło obozy koncentracyjne dla przeciwników reżimu.",
+            "Sądy już nie chroniły ludzi przed ich własnym rządem.",
+            "Cenzura decydowała, co mogą mówić gazety, książki i filmy.",
+            "Propaganda dostarczała potem tego, w co naziści chcieli, żeby ludzie wierzyli.",
+            "Dzieci po szkole wstępowały do nazistowskich organizacji młodzieżowych.",
+            "Uczono je stawiać partię przed własnym myśleniem.",
+            "Kobietom mówiono, że ich miejsce jest w domu.",
+            "Robotnikom dawano pracę, ale ich związki zawodowe zamknięto.",
+            "Krok po kroku każda część życia znalazła się pod nazistowską kontrolą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a polícia secreta da Alemanha nazi/nazista (Gestapo)",
+            "alguém que denuncia outras pessoas em segredo às autoridades (informer, informador)",
+            "decidir o que não pode ser impresso, dito, mostrado ou ensinado (censorship, censura)",
+            "informação escolhida e moldada para fazer as pessoas acreditarem naquilo que o governo quer (propaganda)",
+            "meter um conjunto de crenças nas pessoas até elas as aceitarem sem questionar (indoctrinate, doutrinar)"
+          ],
+          "passage": [
+            "Uma ditadura tem de se agarrar ao poder depois de o tomar.",
+            "Os nazis/nazistas usaram o terror, a lei e as escolas ao mesmo tempo.",
+            "A Gestapo era a polícia secreta da Alemanha nazi/nazista.",
+            "Usava informadores, vigilância e buscas às casas para encontrar inimigos.",
+            "As SS dirigiam campos de concentração para os opositores do regime.",
+            "Os tribunais já não protegiam as pessoas do seu próprio governo.",
+            "A censura decidia o que os jornais, os livros e os filmes podiam dizer.",
+            "Depois a propaganda fornecia aquilo em que os nazis/nazistas queriam que as pessoas acreditassem.",
+            "As crianças entravam em organizações de juventude nazis/nazistas depois das aulas.",
+            "Eram ensinadas a pôr o partido à frente do seu próprio pensamento.",
+            "Às mulheres dizia-se que o seu lugar era em casa.",
+            "Aos trabalhadores ofereciam-se empregos, mas os seus sindicatos foram fechados.",
+            "Passo a passo, todas as partes da vida ficaram sob controlo/controle nazi/nazista."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "booliiska sirdoonka ee Jarmalkii Nazi",
+            "qof si qarsoodi ah dad kale u sheego maamulka",
+            "go'aaminta waxa aan la daabici karin, la sheegi karin, la muujin karin ama la bari karin",
+            "macluumaad la doortay oo la qaabeeyay si dadku u rumaystaan waxa dowladdu rabto",
+            "inaad caqiido dadka ku riixdo ilaa ay su'aal la'aan aqbalaan"
+          ],
+          "passage": [
+            "Kali-talis waa inuu awoodda sii hayaa marka uu qaato.",
+            "Nazis-ku waxay isku mar isticmaaleen argagax, sharciga iyo iskuullada.",
+            "Gestapo wuxuu ahaa booliiska sirdoonka ee Jarmalkii Nazi.",
+            "Wuxuu isticmaalay informers, raadraac iyo baaritaanno guri si uu cadaw u helo.",
+            "SS-ku waxay maamuleen concentration camps oo loogu talagalay kuwa nidaamka ka soo horjeeday.",
+            "Maxkamadihii dadka ma sii ilaalin dowladdooda.",
+            "Faafreebku wuxuu go'aamiyay waxa wargeysyada, buugaagta iyo filimmadu sheegi karaan.",
+            "Propaganda kadibna waxay bixisay waxa Nazis-ku rabeen in dadku rumaystaan.",
+            "Carruurtu waxay ku biireen ururrada dhallinyarada Nazi iskuulka kadib.",
+            "Waxaa la baray inay xisbiga ka hor mariyaan fikirkooda.",
+            "Haweenka waxaa loo sheegay in meeshooda tahay guriga.",
+            "Shaqaalaha waxaa loo bixiyay shaqooyin, laakiin ururradooda shaqaalaha waa la xidhay.",
+            "Tallaabo tallaabo, qayb kasta oo nolosha waxay xukunka Nazi hoos timid."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "таємна поліція нацистської Німеччини (Gestapo)",
+            "той, хто потай доносить на інших людей владі (informer)",
+            "вирішування того, що не можна друкувати, казати, показувати або викладати (censorship)",
+            "інформація, підібрана і сформована так, щоб люди вірили в те, чого хоче уряд (propaganda)",
+            "вштовхувати людям набір переконань, аж поки вони приймуть їх без запитань (indoctrinate)"
+          ],
+          "passage": [
+            "Диктатура мусить утримати владу, щойно вона її взяла.",
+            "Нацисти використовували терор, закон і школи разом.",
+            "Гестапо було таємною поліцією нацистської Німеччини.",
+            "Воно використовувало донощиків, спостереження й обшуки будинків, щоб знаходити ворогів.",
+            "СС керували концентраційними таборами для противників режиму.",
+            "Суди більше не захищали людей від їхнього власного уряду.",
+            "Цензура вирішувала, що можуть казати газети, книги й фільми.",
+            "А пропаганда постачала те, у що нацисти хотіли, щоб люди вірили.",
+            "Діти після школи вступали до нацистських молодіжних організацій.",
+            "Їх учили ставити партію вище за власне мислення.",
+            "Жінкам казали, що їхнє місце вдома.",
+            "Робітникам пропонували роботу, але їхні профспілки закрили.",
+            "Крок за кроком кожна частина життя потрапила під нацистський контроль."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "نازی جرمنی کی خفیہ پولیس (Gestapo)",
+            "وہ شخص جو دوسروں کی خفیہ طور پر حکام کو خبر دے (informer)",
+            "یہ طے کرنا کہ کیا چھاپا، کہا، دکھایا یا پڑھایا نہیں جا سکتا (censorship)",
+            "وہ معلومات جو چُن کر اور ڈھال کر دی جائیں تاکہ لوگ وہی مانیں جو حکومت چاہتی ہے (propaganda)",
+            "عقیدوں کا ایک مجموعہ لوگوں کے ذہن میں اتنا بٹھا دینا کہ وہ بغیر سوال اسے مان لیں (indoctrinate)"
+          ],
+          "passage": [
+            "dictatorship کو اقتدار لینے کے بعد اسے سنبھالے رکھنا بھی پڑتا ہے۔",
+            "نازیوں نے خوف، قانون اور سکولوں، تینوں کو ساتھ استعمال کیا۔",
+            "Gestapo نازی جرمنی کی خفیہ پولیس تھی۔",
+            "یہ دشمن ڈھونڈنے کے لیے informers، نگرانی اور گھروں کی تلاشی استعمال کرتی تھی۔",
+            "SS حکومت کے مخالفوں کے لیے concentration camps چلاتی تھی۔",
+            "عدالتیں اب لوگوں کو ان کی اپنی حکومت سے نہیں بچاتی تھیں۔",
+            "censorship طے کرتی تھی کہ اخبار، کتابیں اور فلمیں کیا کہہ سکتی ہیں۔",
+            "پھر propaganda وہ سب فراہم کرتی تھی جو نازی لوگوں سے منوانا چاہتے تھے۔",
+            "بچے سکول کے بعد نازی نوجوان تنظیموں میں جاتے تھے۔",
+            "انھیں سکھایا جاتا تھا کہ جماعت کو اپنی سوچ سے پہلے رکھیں۔",
+            "عورتوں سے کہا گیا کہ ان کی جگہ گھر ہے۔",
+            "مزدوروں کو روزگار دیا گیا، مگر ان کی مزدور یونینیں بند کر دی گئیں۔",
+            "قدم بہ قدم، زندگی کا ہر حصہ نازی قابو میں آ گیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Terror: the SS and the courts",
@@ -949,8 +1565,162 @@ window.ASTRA_UNITS["hist-dictatorship"] = {
           "Stalin and Trotsky then competed to replace him.",
           "Stalin used his own skill, and Trotsky made mistakes.",
           "By 1929 Stalin ruled the USSR alone."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الملك الذي حكم روسيا بسلطة تامّة قبل 1917 (Tsar)",
+            "اتّحاد الجمهوريات الاشتراكية السوفييتية: بلدان كثيرة تُحكم معًا، وروسيا أكبرها (USSR)",
+            "الاعتقاد أنّ الناس جميعًا ينبغي أن يكونوا متساوين وأنّ الثروة تُحفظ للعمّال (communism)",
+            "الجماعة الصغيرة من كبار السياسيّين التي كانت تُدير الحزب الشيوعي (Politburo)",
+            "أن تُرغَم على العيش خارج بلدك (exile)"
+          ],
+          "passage": [
+            "أكثر من 300 سنة حكم روسيا ملك يُسمّى القيصر.",
+            "وكان للقيصر سلطة تامّة على كلّ من تحته.",
+            "ومعظم الروس كانوا فلّاحين، وكانوا فقراء جدًّا.",
+            "وأدخل القيصر روسيا في الحرب العالمية الأولى في 1914.",
+            "ولم يكن البلد مستعدًّا لحرب طويلة.",
+            "وأخذ لينين والبلاشفة السلطة في أكتوبر 1917.",
+            "وحوّل لينين الإمبراطورية الروسية إلى الاتّحاد السوفييتي (USSR).",
+            "وكان أوّل بلد شيوعي في العالم.",
+            "وأزال لينين المعارضة وأنشأ دولة شمولية.",
+            "وتدهورت صحّة لينين بعد 1922، ومات في 1924.",
+            "ثم تنافس ستالين وتروتسكي (Trotsky) ليحلّ أحدهما محلّه.",
+            "واستخدم ستالين مهارته هو، وأخطأ تروتسكي.",
+            "وبحلول 1929 كان ستالين يحكم الاتّحاد السوفييتي وحده."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "król, który przed 1917 rokiem rządził Rosją z całkowitą władzą (Tsar)",
+            "Związek Socjalistycznych Republik Radzieckich: wiele krajów rządzonych razem, z Rosją jako największym (USSR)",
+            "przekonanie, że wszyscy powinni być równi, a bogactwo należeć do robotników (communism)",
+            "mała grupa czołowych polityków, która prowadziła partię komunistyczną (Politburo)",
+            "przymus życia poza własnym krajem (exile)"
+          ],
+          "passage": [
+            "Przez ponad 300 lat Rosją rządził król zwany carem.",
+            "Car miał całkowitą władzę nad wszystkimi poniżej siebie.",
+            "Większość Rosjan to byli chłopi i byli bardzo biedni.",
+            "Car wprowadził Rosję do pierwszej wojny światowej w 1914 roku.",
+            "Kraj nie był gotowy na długą wojnę.",
+            "Lenin i bolszewicy przejęli władzę w październiku 1917 roku.",
+            "Lenin zamienił imperium rosyjskie w USSR.",
+            "Był to pierwszy kraj komunistyczny na świecie.",
+            "Lenin usunął opozycję i zbudował państwo totalitarne.",
+            "Zdrowie Lenina pogorszyło się po 1922 roku, a umarł w 1924 roku.",
+            "Stalin i Trotsky rywalizowali potem o to, kto go zastąpi.",
+            "Stalin korzystał z własnej zręczności, a Trotsky popełniał błędy.",
+            "Do 1929 roku Stalin rządził USSR sam."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o rei que governou a Rússia com poder completo antes de 1917 (Tsar, czar/tsar)",
+            "a União das Repúblicas Socialistas Soviéticas: muitos países governados em conjunto, sendo a Rússia o maior (USSR, URSS)",
+            "a crença de que todos devem ser iguais e que a riqueza deve ser detida para os trabalhadores (communism, comunismo)",
+            "o pequeno grupo de políticos principais que dirigia o Partido Comunista (Politburo)",
+            "ser obrigado a viver fora do próprio país (exile, exílio)"
+          ],
+          "passage": [
+            "Durante mais de 300 anos a Rússia foi governada por um rei chamado czar/tsar.",
+            "O czar tinha poder completo sobre todos os que estavam abaixo dele.",
+            "Quase todos os russos eram camponeses, e eram muito pobres.",
+            "O czar levou a Rússia para a Primeira Guerra Mundial em 1914.",
+            "O país não estava preparado para uma guerra longa.",
+            "Lenin e os bolcheviques tomaram o poder em outubro de 1917.",
+            "Lenin transformou o Império Russo na URSS.",
+            "Foi o primeiro país comunista do mundo.",
+            "Lenin afastou a oposição e criou um Estado totalitário.",
+            "A saúde de Lenin falhou depois de 1922, e ele morreu em 1924.",
+            "Stalin e Trotsky competiram então para o substituir.",
+            "Stalin usou a sua própria habilidade, e Trotsky cometeu erros.",
+            "Em 1929 Stalin governava a URSS sozinho."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "boqorkii Ruushka xukumay awood dhammaystiran 1917-kii ka hor",
+            "Union of Soviet Socialist Republics: dalal badan oo wadajir lagu xukumay, oo Ruushku ugu weynaa",
+            "caqiidada ah in qof walba sinnaado oo maalka shaqaalaha loo hayo",
+            "kooxda yar ee siyaasiyiinta sare oo Xisbiga Hantiwadaagga maamulay",
+            "in lagu qasbo inaad dalkaaga dibadda ku noolaato"
+          ],
+          "passage": [
+            "In ka badan 300 sano Ruushka waxaa xukumayay boqor la yiraahdo Tsar.",
+            "Tsar-ku wuxuu awood dhammaystiran ku lahaa qof kasta oo ka hooseeyay.",
+            "Ruushka badidood waxay ahaayeen beeraley, aad ayayna u faqiir ahaayeen.",
+            "Tsar-ku wuxuu Ruushka geliyay Dagaalkii Koowaad ee Adduunka 1914-kii.",
+            "Dalku uma diyaarsanayn dagaal dheer.",
+            "Lenin iyo Bolsheviks-ku waxay awoodda qaateen Oktoobar 1917-kii.",
+            "Lenin wuxuu Boqortooyadii Ruushka u beddelay USSR.",
+            "Waxay ahayd dalkii hantiwadaag ee ugu horreeyay dunida.",
+            "Lenin wuxuu mucaaradka ka saaray oo wuxuu dhisay dowlad totalitarian ah.",
+            "Caafimaadka Lenin wuu xumaaday 1922-dii ka dib, wuuna dhintay 1924-kii.",
+            "Stalin iyo Trotsky kadibna waxay u tartameen inay beddelaan.",
+            "Stalin wuxuu isticmaalay kartidiisa, Trotsky-na khaladaad ayuu sameeyay.",
+            "1929-kii Stalin wuxuu USSR kali ahaantii xukumay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "король, який правив Росією з повною владою до 1917 року (Tsar)",
+            "Союз Радянських Соціалістичних Республік: багато країн, якими правили разом, і Росія була найбільшою (USSR)",
+            "переконання, що всі мають бути рівні і що багатство має належати робітникам (communism)",
+            "невелика група провідних політиків, яка керувала Комуністичною партією (Politburo)",
+            "коли людину змушують жити за межами власної країни (exile)"
+          ],
+          "passage": [
+            "Понад 300 років Росією правив король, якого називали царем.",
+            "Цар мав повну владу над усіма, хто був під ним.",
+            "Більшість росіян були селянами, і вони були дуже бідні.",
+            "Цар завів Росію в Першу світову війну у 1914 році.",
+            "Країна не була готова до довгої війни.",
+            "Ленін і більшовики взяли владу в жовтні 1917 року.",
+            "Ленін перетворив Російську імперію на СРСР (USSR).",
+            "Це була перша комуністична країна у світі.",
+            "Ленін усунув опозицію і створив тоталітарну державу.",
+            "Здоров’я Леніна підупало після 1922 року, і він помер у 1924 році.",
+            "Потім Сталін і Троцький змагалися за те, хто його замінить.",
+            "Сталін використав власну вправність, а Троцький робив помилки.",
+            "До 1929 року Сталін правив СРСР одноосібно."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ بادشاہ جو 1917 سے پہلے روس پر مکمل طاقت کے ساتھ حکومت کرتا تھا (Tsar)",
+            "Union of Soviet Socialist Republics: کئی ملک مل کر، جن میں روس سب سے بڑا تھا (USSR)",
+            "یہ عقیدہ کہ سب برابر ہونے چاہییں اور دولت مزدوروں کے لیے رکھی جائے (communism)",
+            "رہنما سیاست دانوں کا وہ چھوٹا گروہ جو کمیونسٹ پارٹی چلاتا تھا (Politburo)",
+            "اپنے ملک سے باہر رہنے پر مجبور کر دیا جانا (exile)"
+          ],
+          "passage": [
+            "300 سال سے زیادہ عرصے تک روس پر Tsar نامی ایک بادشاہ حکومت کرتا رہا۔",
+            "Tsar کو اپنے نیچے ہر شخص پر مکمل طاقت تھی۔",
+            "زیادہ تر روسی کسان تھے، اور وہ بہت غریب تھے۔",
+            "Tsar روس کو 1914 میں پہلی جنگِ عظیم میں لے گیا۔",
+            "ملک لمبی جنگ کے لیے تیار نہ تھا۔",
+            "لینن اور Bolsheviks نے اکتوبر 1917 میں اقتدار سنبھال لیا۔",
+            "لینن نے روسی سلطنت کو USSR میں بدل دیا۔",
+            "یہ دنیا کا پہلا کمیونسٹ ملک تھا۔",
+            "لینن نے مخالفت ختم کی اور ایک totalitarian ریاست قائم کر دی۔",
+            "1922 کے بعد لینن کی صحت بگڑ گئی، اور 1924 میں وہ مر گیا۔",
+            "پھر سٹالن اور ٹراٹسکی اس کی جگہ لینے کے لیے مقابلے میں آ گئے۔",
+            "سٹالن نے اپنی مہارت استعمال کی، اور ٹراٹسکی نے غلطیاں کیں۔",
+            "1929 تک سٹالن اکیلا USSR کا حاکم تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Russia before the revolution",
@@ -1160,8 +1930,162 @@ window.ASTRA_UNITS["hist-dictatorship"] = {
           "Industry grew quickly, but the people suffered for it.",
           "In this chapter you also compare the two dictatorships.",
           "Look for similarities and differences, with evidence from both."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شرطة ستالين السرّية، وكانت تستطيع أن تعتقل الناس بغير دليل (NKVD)",
+            "المدّة التي أزال فيها ستالين كلّ من ظنّ أنه قد يهدّده (the Purges)",
+            "محاكمة علنية حُكمها مقرَّر سلفًا (show trial)",
+            "بناء زعيم واحد بالصور والتماثيل والمدح (cult of personality)",
+            "خطّة حكومية لتحديث الاقتصاد في خمس سنوات (Five-Year Plan)"
+          ],
+          "passage": [
+            "حكم ستالين الاتّحاد السوفييتي بغير رحمة ليُبقي سلطته هو.",
+            "وكانت شرطته السرّية تُسمّى الإن كي في دي (NKVD).",
+            "وكانت تستطيع أن تعتقل أيّ أحد بكلمة مُبلّغ وحدها.",
+            "والتصفيات أزالت كلّ من ظنّ ستالين أنه قد يهدّده.",
+            "وكثير منهم حُوكم علنًا وأُرغم على الإقرار.",
+            "والتماثيل والأغاني واللوحات كانت تمدح ستالين في كلّ مكان.",
+            "ويُسمّى هذا عبادة الشخص.",
+            "وكان على الكتّاب والفنّانين والمعلّمين أن يتّبعوا خطّ الحزب.",
+            "وأُغلقت الكنائس، وأُغلقت كذلك المساجد والمدارس الدينية.",
+            "وخطط ستالين الخمسية عزمت على تحديث الاقتصاد.",
+            "فنمت الصناعة بسرعة، ولكنّ الناس عانوا ثمن ذلك.",
+            "وفي هذا الفصل تقارن أيضًا بين الدكتاتوريتين.",
+            "فابحث عن أوجه الشبه والاختلاف، بأدلّة من كلتيهما."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "tajna policja Stalina, która mogła aresztować ludzi bez dowodów (NKVD)",
+            "okres, w którym Stalin usuwał każdego, kto w jego mniemaniu mógł mu zagrozić (the Purges)",
+            "publiczny proces, którego wyrok już wcześniej zapadł (show trial)",
+            "budowanie wielkości jednego przywódcy przez obrazy, pomniki i pochwały (cult of personality)",
+            "rządowy plan modernizacji gospodarki na pięć lat (Five-Year Plan)"
+          ],
+          "passage": [
+            "Stalin rządził USSR bezwzględnie, żeby utrzymać własną władzę.",
+            "Jego tajna policja nazywała się NKVD.",
+            "Mogli aresztować każdego na samo słowo donosiciela.",
+            "Czystki usuwały każdego, kto w mniemaniu Stalina mógł mu zagrozić.",
+            "Wielu sądzono publicznie i zmuszano do przyznania się.",
+            "Wszędzie pomniki, pieśni i obrazy chwaliły Stalina.",
+            "Nazywamy to kultem jednostki.",
+            "Pisarze, artyści i nauczyciele musieli trzymać się linii partii.",
+            "Zamykano kościoły, a także meczety i szkoły religijne.",
+            "Plany pięcioletnie Stalina miały zmodernizować gospodarkę.",
+            "Przemysł rósł szybko, ale ludzie za to cierpieli.",
+            "W tym rozdziale porównujesz też obie dyktatury.",
+            "Szukaj podobieństw i różnic, z dowodami z obu stron."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a polícia secreta de Stalin, que podia prender pessoas sem provas (NKVD)",
+            "o período em que Stalin afastou todos os que pensava que o podiam ameaçar (the Purges, os Expurgos)",
+            "um julgamento público cuja sentença já estava decidida (show trial, julgamento de fachada)",
+            "a construção da imagem de um só líder através de imagens, estátuas e elogios (cult of personality, culto da personalidade)",
+            "um plano do governo para modernizar a economia em cinco anos (Five-Year Plan, Plano Quinquenal)"
+          ],
+          "passage": [
+            "Stalin governou a URSS sem piedade para manter o seu próprio poder.",
+            "A sua polícia secreta chamava-se NKVD.",
+            "Podiam prender qualquer pessoa só com a palavra de um informador.",
+            "Os Expurgos afastaram todos os que Stalin pensava que o podiam ameaçar.",
+            "Muitos foram julgados em público e obrigados a confessar.",
+            "Estátuas, canções e pinturas elogiavam Stalin por todo o lado.",
+            "A isto chama-se culto da personalidade.",
+            "Escritores, artistas e professores tinham de seguir a linha do partido.",
+            "As igrejas foram fechadas, e também as mesquitas e as escolas religiosas.",
+            "Os Planos Quinquenais de Stalin propunham-se modernizar a economia.",
+            "A indústria cresceu depressa, mas foram as pessoas que o pagaram.",
+            "Neste capítulo também comparas as duas ditaduras.",
+            "Procura semelhanças e diferenças, com provas das duas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "booliiska sirdoonka ee Stalin, oo dad xiri karay iyadoon caddayn jirin",
+            "muddadii Stalin ka saaray qof kasta oo uu u maleeyay inuu khatar ku yahay",
+            "maxkamad dadweyne oo xukunkeedu horay loo go'aamiyay",
+            "kor u qaadidda hal hoggaamiye oo sawirro, taallooyin iyo ammaan lagu sameeyo",
+            "qorshe dowladeed oo dhaqaalaha casriyeeya shan sano gudahood"
+          ],
+          "passage": [
+            "Stalin wuxuu USSR si naxariis-darro ah u xukumay si uu awooddiisa u sii hayo.",
+            "Booliiskiisa sirdoonka waxaa loo yiraahdaa NKVD.",
+            "Waxay qof kasta xiri karayeen hadal informer oo keliya.",
+            "Purges-ku waxay ka saareen qof kasta oo Stalin u maleeyay inuu khatar ku yahay.",
+            "Badi waxaa dadweyne hortiis la maxkamadeeyay oo lagu qasbay inay qirtaan.",
+            "Taallooyin, heeso iyo sawirro ayaa Stalin meel kasta ku ammaanay.",
+            "Tan waxaa la yiraahdaa cult of personality.",
+            "Qoraayada, farshaxanleyda iyo macallimiintu waxay ku qasbanaayeen inay khadka xisbiga raacaan.",
+            "Kaniisadaha waa la xidhay, sidoo kale masaajidyada iyo iskuullada diinta.",
+            "Five-Year Plans-ka Stalin waxay doonayeen inay dhaqaalaha casriyeeyaan.",
+            "Warshaduhu si dhaqso ah ayay u kordheen, laakiin dadku way u silceen.",
+            "Cutubkan waxaad sidoo kale barbar dhigaysaa labada kali-talis.",
+            "Raadi waxa isku mid ah iyo waxa kala duwan, iyadoo caddayn labada ka timid."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "таємна поліція Сталіна, яка могла арештовувати людей без свідчень (NKVD)",
+            "час, коли Сталін усував кожного, хто, на його думку, міг йому загрожувати (the Purges)",
+            "публічний суд, вирок якого вже вирішений заздалегідь (show trial)",
+            "вибудовування образу одного вождя через зображення, статуї і похвалу (cult of personality)",
+            "урядовий план модернізувати економіку за п’ять років (Five-Year Plan)"
+          ],
+          "passage": [
+            "Сталін правив СРСР безжально, щоб утримати власну владу.",
+            "Його таємну поліцію називали НКВС (NKVD).",
+            "Вона могла арештувати будь-кого лише за словом донощика.",
+            "Чистки (the Purges) усували кожного, хто, на думку Сталіна, міг йому загрожувати.",
+            "Багатьох судили публічно і змушували визнати вину.",
+            "Статуї, пісні й картини всюди хвалили Сталіна.",
+            "Це називають культом особи.",
+            "Письменники, митці й учителі мусили йти за партійною лінією.",
+            "Церкви закрили, а разом із ними й мечеті та релігійні школи.",
+            "П’ятирічні плани Сталіна мали на меті модернізувати економіку.",
+            "Промисловість швидко зростала, але люди через це страждали.",
+            "У цьому розділі ви також порівнюєте дві диктатури.",
+            "Шукайте схожості й відмінності, зі свідченнями з обох."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "سٹالن کی خفیہ پولیس، جو لوگوں کو شہادت کے بغیر گرفتار کر سکتی تھی (NKVD)",
+            "وہ دور جب سٹالن نے ہر اُس شخص کو ہٹا دیا جس سے اسے خطرہ لگتا تھا (the Purges)",
+            "وہ عوامی مقدمہ جس کا فیصلہ پہلے ہی طے ہو چکا ہو (show trial)",
+            "تصویروں، مجسموں اور تعریف کے ذریعے ایک ہی رہنما کو بڑا بنا دینا (cult of personality)",
+            "حکومت کا وہ منصوبہ جو پانچ سال میں معیشت کو جدید بنانے کے لیے ہو (Five-Year Plan)"
+          ],
+          "passage": [
+            "سٹالن نے اپنی طاقت قائم رکھنے کے لیے USSR پر بے رحمی سے حکومت کی۔",
+            "اس کی خفیہ پولیس کو NKVD کہا جاتا تھا۔",
+            "وہ کسی informer کے صرف کہنے پر کسی کو بھی گرفتار کر سکتے تھے۔",
+            "the Purges نے ہر اُس شخص کو ہٹا دیا جس سے سٹالن کو خطرہ لگتا تھا۔",
+            "بہت سوں پر عوامی مقدمے چلائے گئے اور انھیں اعتراف کرنے پر مجبور کیا گیا۔",
+            "مجسمے، گیت اور تصویریں ہر جگہ سٹالن کی تعریف کرتے تھے۔",
+            "اسے cult of personality کہتے ہیں۔",
+            "لکھاریوں، فن کاروں اور اساتذہ کو جماعت کی لائن پر چلنا پڑتا تھا۔",
+            "کلیسا بند کر دیے گئے، اور مسجدیں اور مذہبی مدرسے بھی۔",
+            "سٹالن کے Five-Year Plans کا مقصد معیشت کو جدید بنانا تھا۔",
+            "صنعت تیزی سے بڑھی، مگر اس کی قیمت لوگوں نے چکائی۔",
+            "اس باب میں آپ دونوں dictatorships کا موازنہ بھی کرتے ہیں۔",
+            "دونوں سے شہادت لے کر مشابہتیں اور فرق ڈھونڈیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The NKVD and the Purges",

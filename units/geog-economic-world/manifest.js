@@ -127,8 +127,162 @@ window.ASTRA_UNITS["geog-economic-world"] = {
           "It gives every country a score between 0 and 1.",
           "Rich countries are called HICs, poor countries LICs.",
           "Fast-growing countries in between, such as India and China, are NEEs."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تغيّر إيجابي يجعل حياة الناس أفضل (development)",
+            "مقدار المال والراحة المادّية التي عند الناس (standard of living)",
+            "مدى جودة حياة الناس، ومنها الصحّة والأمان والحرّية (quality of life)",
+            "الدخل القومي الإجمالي، أي المال الذي يكسبه البلد في السنة (GNI)",
+            "مؤشّر التنمية البشرية، وهو درجة من 0 إلى 1 (HDI)",
+            "الفرق في مستوى العيش بين أغنى البلدان وأفقرها (development gap)"
+          ],
+          "passage": [
+            "التنمية تعني تغيّرًا إيجابيًّا يجعل الحياة أفضل.",
+            "وهي تعني عادةً مستوى عيش أعلى وجودة حياة أفضل.",
+            "ومستوى العيش عن المال وعمّا يشتريه.",
+            "وجودة الحياة أوسع: فهي الصحّة والأمان والتعليم والحرّية.",
+            "وفجوة التنمية هي الفرق بين أغنى البلدان وأفقرها.",
+            "والثروة الكلّية ليست طريقة جيّدة لقياسها.",
+            "فالبلد الكبير الكثير السكّان قد يكون غنيًّا في الإجمال وفقيرًا لكلّ فرد.",
+            "والدخل القومي الإجمالي للفرد (GNI per capita) مقياس اقتصادي: الدخل مقسومًا على عدد السكّان.",
+            "ومؤشّر التنمية البشرية (HDI) مقياس اجتماعي يجمع متوسّط العمر والتعليم والدخل.",
+            "وهو يعطي كلّ بلد درجة بين 0 و1.",
+            "وتُسمّى البلدان الغنيّة HICs، والفقيرة LICs.",
+            "والبلدان سريعة النموّ التي بينهما، كالهند والصين، تُسمّى NEEs."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "pozytywna zmiana, która czyni życie ludzi lepszym (development)",
+            "ile ludzie mają pieniędzy i wygód materialnych (standard of living)",
+            "jak dobre jest życie ludzi, w tym zdrowie, bezpieczeństwo i wolność (quality of life)",
+            "dochód narodowy brutto, czyli pieniądze, które kraj zarabia w ciągu roku (GNI)",
+            "wskaźnik rozwoju społecznego, wynik od 0 do 1 (HDI)",
+            "różnica w poziomie życia między krajami najbogatszymi i najbiedniejszymi (development gap)"
+          ],
+          "passage": [
+            "Rozwój znaczy pozytywną zmianę, która czyni życie lepszym.",
+            "Zwykle znaczy wyższy poziom życia i lepszą jakość życia.",
+            "Poziom życia dotyczy pieniędzy i tego, co można za nie kupić.",
+            "Jakość życia jest szersza: zdrowie, bezpieczeństwo, edukacja i wolność.",
+            "Przepaść rozwojowa (development gap) to różnica między krajami najbogatszymi i najbiedniejszymi.",
+            "Całkowite bogactwo nie jest dobrą miarą.",
+            "Duży kraj z wieloma mieszkańcami może być bogaty w sumie, ale biedny na osobę.",
+            "GNI na osobę to miara gospodarcza: dochód podzielony przez liczbę ludności.",
+            "HDI to miara społeczna, która łączy oczekiwaną długość życia, edukację i dochód.",
+            "Daje każdemu krajowi wynik pomiędzy 0 a 1.",
+            "Kraje bogate nazywamy HIC, a biedne LIC.",
+            "Kraje szybko rosnące pomiędzy nimi, takie jak Indie i Chiny, to NEE."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma mudança positiva que torna melhor a vida das pessoas (development, desenvolvimento)",
+            "quanto dinheiro e quanto conforto material as pessoas têm (standard of living, nível de vida)",
+            "o quão boa é a vida das pessoas, incluindo a saúde, a segurança e a liberdade (quality of life, qualidade de vida)",
+            "gross national income, o rendimento/renda que um país ganha num ano (GNI)",
+            "human development index, uma pontuação de 0 a 1 (HDI)",
+            "a diferença de nível de vida entre os países mais ricos e os mais pobres (development gap)"
+          ],
+          "passage": [
+            "Desenvolvimento quer dizer uma mudança positiva que torna a vida melhor.",
+            "Normalmente quer dizer um nível de vida mais alto e uma melhor qualidade de vida.",
+            "O nível de vida tem a ver com o dinheiro e com as coisas que ele compra.",
+            "A qualidade de vida é mais ampla: saúde, segurança, educação e liberdade.",
+            "O development gap é a diferença entre os países mais ricos e os mais pobres.",
+            "A riqueza total não é uma boa maneira de o medir.",
+            "Um país grande, com muitas pessoas, pode ser rico no total e pobre por pessoa.",
+            "O GNI per capita é uma medida económica/econômica: o rendimento/renda dividido pela população.",
+            "O HDI é uma medida social que junta a esperança/expectativa de vida, a educação e o rendimento/renda.",
+            "Dá a cada país uma pontuação entre 0 e 1.",
+            "Aos países ricos chama-se HICs e aos pobres LICs.",
+            "Os países que crescem depressa, no meio dos dois, como a Índia e a China, são NEEs."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "isbeddel wanaagsan oo nolosha dadka ka fiicneysiiya",
+            "inta lacag iyo raaxo maadi ah oo dadku haystaan",
+            "sida nolosha dadku u fiican tahay, oo ay ku jiraan caafimaad, badbaado iyo xorriyad",
+            "wadarta dakhliga qaranka, oo ah lacagta dal uu sanadkii kasbado",
+            "tusmada horumarka aadanaha, oo ah dhibco 0 ilaa 1",
+            "farqiga heerka nolosha ee u dhexeeya dalalka ugu hodansan iyo kuwa ugu faqiirsan"
+          ],
+          "passage": [
+            "Horumar macnaheedu waa isbeddel wanaagsan oo nolosha ka fiicneysiiya.",
+            "Inta badan waxay ka dhigan tahay heer nololeed sare iyo tayo nolol ka fiican.",
+            "Heerka nolosha wuxuu ku saabsan yahay lacagta iyo waxyaalaha ay iibsato.",
+            "Tayada nolosha way ka ballaaran tahay: caafimaad, badbaado, waxbarasho iyo xorriyad.",
+            "Farqiga horumarka waa kala duwanaanta dalalka ugu hodansan iyo kuwa ugu faqiirsan.",
+            "Wadarta maalka hab wanaagsan maaha oo lagu cabbiro.",
+            "Dal weyn oo dad badan leh wadar ahaan wuu hodan noqon karaa laakiin qof ahaan wuu faqiir noqon karaa.",
+            "GNI qofkii waa cabbir dhaqaale: dakhli loo qaybiyay dadweynaha.",
+            "HDI waa cabbir bulsho oo isku dara cimriga la filayo, waxbarashada iyo dakhliga.",
+            "Dal kasta waxay siisaa dhibco u dhexeeya 0 iyo 1.",
+            "Dalalka hodanka waxaa la yiraahdaa HICs, dalalka faqiirkana LICs.",
+            "Dalalka si dhaqso ah u koraya ee dhexdooda ah, sida Hindiya iyo Shiinaha, waa NEEs."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "позитивна зміна, яка робить життя людей кращим (development)",
+            "скільки грошей і матеріальних вигод мають люди (standard of living)",
+            "наскільки добре живуть люди, зокрема здоров’я, безпека і свобода (quality of life)",
+            "gross national income, тобто валовий національний дохід: гроші, які країна заробляє за рік (GNI)",
+            "human development index, тобто індекс людського розвитку: оцінка від 0 до 1 (HDI)",
+            "різниця в рівні життя між найбагатшими і найбіднішими країнами (development gap)"
+          ],
+          "passage": [
+            "Розвиток означає позитивну зміну, яка робить життя кращим.",
+            "Зазвичай це означає вищий рівень життя і кращу якість життя.",
+            "Рівень життя (standard of living) — про гроші й те, що на них можна купити.",
+            "Якість життя (quality of life) — ширша: здоров’я, безпека, освіта і свобода.",
+            "Розрив у розвитку (development gap) — це різниця між найбагатшими і найбіднішими країнами.",
+            "Загальне багатство — не добрий спосіб його виміряти.",
+            "Велика країна з багатьма людьми може бути багатою в сумі, але бідною на одну особу.",
+            "GNI на одну особу — це економічний показник: дохід, поділений на кількість населення.",
+            "HDI — це соціальний показник, який поєднує тривалість життя, освіту і дохід.",
+            "Він дає кожній країні оцінку між 0 і 1.",
+            "Багаті країни називають HICs, бідні — LICs.",
+            "Країни посередині, які швидко зростають, як-от Індія і Китай, — це NEEs."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایسی مثبت تبدیلی جو لوگوں کی زندگی بہتر بنا دے (development)",
+            "لوگوں کے پاس کتنا پیسہ اور کتنا مادی آرام ہے (standard of living)",
+            "لوگوں کی زندگی کتنی اچھی ہے، جس میں صحت، تحفظ اور آزادی بھی شامل ہے (quality of life)",
+            "gross national income، یعنی وہ آمدنی جو ملک سال میں کماتا ہے (GNI)",
+            "human development index، یعنی 0 سے 1 تک کا ایک نمبر (HDI)",
+            "سب سے امیر اور سب سے غریب ملکوں کے معیارِ زندگی میں فرق (development gap)"
+          ],
+          "passage": [
+            "development کا مطلب ایسی مثبت تبدیلی ہے جو زندگی بہتر بنا دے۔",
+            "اس کا عموماً مطلب بہتر standard of living اور بہتر quality of life ہوتا ہے۔",
+            "standard of living پیسے اور اس سے خریدی جانے والی چیزوں کے بارے میں ہے۔",
+            "quality of life زیادہ وسیع ہے: صحت، تحفظ، تعلیم اور آزادی۔",
+            "development gap سب سے امیر اور سب سے غریب ملکوں کے درمیان فرق ہے۔",
+            "کل دولت اسے ناپنے کا اچھا طریقہ نہیں۔",
+            "بہت لوگوں والا بڑا ملک کل ملا کر امیر ہو سکتا ہے، مگر فی فرد غریب۔",
+            "GNI per capita ایک معاشی پیمانہ ہے: آمدنی تقسیم آبادی۔",
+            "HDI ایک سماجی پیمانہ ہے، جو عمر کی توقع، تعلیم اور آمدنی کو ملا دیتا ہے۔",
+            "یہ ہر ملک کو 0 اور 1 کے درمیان ایک نمبر دیتا ہے۔",
+            "امیر ملکوں کو HICs اور غریب ملکوں کو LICs کہتے ہیں۔",
+            "ان کے درمیان تیزی سے بڑھتے ملک، جیسے بھارت اور چین، NEEs ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What development means, and why total wealth misleads",
@@ -340,8 +494,162 @@ window.ASTRA_UNITS["geog-economic-world"] = {
           "In stage 5 the birth rate drops below the death rate.",
           "The population begins to fall.",
           "A population pyramid shows how many people are in each age group."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "عدد المواليد في كلّ سنة لكلّ 1000 نسمة (birth rate)",
+            "عدد من يموتون في كلّ سنة لكلّ 1000 نسمة (death rate)",
+            "نموّ السكّان عندما يكون المولودون أكثر من الموتى (natural increase)",
+            "صورة بسيطة لكيف يتغيّر الشيء عادةً (model)",
+            "رسم يبيّن كم شخصًا في كلّ فئة عمرية (population pyramid)"
+          ],
+          "passage": [
+            "النموذج الانتقالي السكّاني يبيّن كيف يتغيّر السكّان مع الزمن.",
+            "ويُسمّى اختصارًا DTM.",
+            "وهو نموذج، فهو لا يتبع بلدًا حقيقيًّا واحدًا.",
+            "وللنموذج خمس مراحل.",
+            "في المرحلة 1 يكون معدّل الولادات ومعدّل الوفيات مرتفعين كليهما.",
+            "فيبقى عدد السكّان منخفضًا ثابتًا.",
+            "وفي المرحلة 2 يهبط معدّل الوفيات ويبقى معدّل الولادات مرتفعًا.",
+            "فينمو السكّان بسرعة.",
+            "وفي المرحلة 3 يهبط معدّل الولادات أيضًا، فيتباطأ النموّ.",
+            "وفي المرحلة 4 يكون المعدّلان منخفضين والسكّان كثيرين ثابتين.",
+            "وفي المرحلة 5 يهبط معدّل الولادات إلى ما تحت معدّل الوفيات.",
+            "فيبدأ عدد السكّان بالهبوط.",
+            "والهرم السكّاني يبيّن كم شخصًا في كلّ فئة عمرية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "liczba dzieci, które rodzą się w ciągu roku na każdy 1000 mieszkańców (birth rate)",
+            "liczba ludzi, którzy umierają w ciągu roku na każdy 1000 mieszkańców (death rate)",
+            "wzrost liczby ludności, gdy rodzi się więcej ludzi, niż umiera (natural increase)",
+            "prosty obraz tego, jak coś zwykle się zmienia (model)",
+            "wykres pokazujący, ile osób jest w każdej grupie wiekowej (population pyramid)"
+          ],
+          "passage": [
+            "Model przejścia demograficznego pokazuje, jak liczba ludności zmienia się z czasem.",
+            "Nazywamy go w skrócie DTM.",
+            "To model, więc nie odwzorowuje jednego prawdziwego kraju.",
+            "Model DTM ma pięć etapów.",
+            "W etapie 1 współczynnik urodzeń i współczynnik zgonów są wysokie.",
+            "Liczba ludności pozostaje niska i stała.",
+            "W etapie 2 współczynnik zgonów spada, ale współczynnik urodzeń pozostaje wysoki.",
+            "Liczba ludności szybko rośnie.",
+            "W etapie 3 spada też współczynnik urodzeń, więc wzrost zwalnia.",
+            "W etapie 4 oba współczynniki są niskie, a liczba ludności jest wysoka i stała.",
+            "W etapie 5 współczynnik urodzeń spada poniżej współczynnika zgonów.",
+            "Liczba ludności zaczyna spadać.",
+            "Piramida wieku (population pyramid) pokazuje, ile osób jest w każdej grupie wiekowej."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o número de bebés/bebês que nascem cada ano por cada 1000 pessoas (birth rate, taxa de natalidade)",
+            "o número de pessoas que morrem cada ano por cada 1000 pessoas (death rate, taxa de mortalidade)",
+            "crescimento da população quando nascem mais pessoas do que as que morrem (natural increase, crescimento natural)",
+            "uma imagem simples de como uma coisa muda normalmente (model, modelo)",
+            "um gráfico que mostra quantas pessoas há em cada grupo de idade (population pyramid, pirâmide de idades)"
+          ],
+          "passage": [
+            "O modelo de transição demográfica (demographic transition model) mostra como uma população muda ao longo do tempo.",
+            "É conhecido pela sigla DTM.",
+            "É um modelo, por isso não segue um país real em particular.",
+            "O DTM tem cinco fases.",
+            "Na fase 1, a taxa de natalidade e a taxa de mortalidade são as duas altas.",
+            "A população mantém-se baixa e estável.",
+            "Na fase 2, a taxa de mortalidade desce mas a de natalidade continua alta.",
+            "A população cresce depressa.",
+            "Na fase 3, a taxa de natalidade também desce, por isso o crescimento abranda/desacelera.",
+            "Na fase 4, as duas taxas são baixas e a população é alta e estável.",
+            "Na fase 5, a taxa de natalidade desce abaixo da taxa de mortalidade.",
+            "A população começa a diminuir.",
+            "Uma pirâmide de idades mostra quantas pessoas há em cada grupo de idade."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tirada dhallaanka ku dhasha sanad kasta 1000 qof kasta",
+            "tirada dadka dhinta sanad kasta 1000 qof kasta",
+            "korodhka dadweynaha marka dad badan ku dhashaan intii dhimatay",
+            "sawir fudud oo muujinaya sida wax inta badan u isbeddelo",
+            "garaaf muujinaya inta qof ku jira koox da' kasta"
+          ],
+          "passage": [
+            "Demographic transition model wuxuu muujiyaa sida dadweynuhu waqti ka waqti u isbeddelo.",
+            "Si kooban waxaa loo yiraahdaa DTM.",
+            "Waa qaab-tusaale, markaa hal dal dhab ah ma raacayo.",
+            "DTM wuxuu leeyahay shan marxalad.",
+            "Marxaladda 1 heerka dhalashada iyo heerka dhimashada labadaba way sarreeyaan.",
+            "Dadweynuhu wuu hooseeyaa oo wuu joogsan yahay.",
+            "Marxaladda 2 heerka dhimashadu wuu hoos u dhacaa laakiin heerka dhalashadu wuu sarreeyaa.",
+            "Dadweynuhu si dhaqso ah ayuu u kordhaa.",
+            "Marxaladda 3 heerka dhalashadu iyana wuu hoos u dhacaa, markaa korodhku wuu yaraadaa.",
+            "Marxaladda 4 labada heer way hooseeyaan, dadweynuhuna wuu sarreeyaa oo wuu joogsan yahay.",
+            "Marxaladda 5 heerka dhalashadu wuxuu ka hooseeyaa heerka dhimashada.",
+            "Dadweynuhu wuxuu bilaabaa inuu hoos u dhaco.",
+            "Population pyramid wuxuu muujiyaa inta qof ku jira koox da' kasta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "кількість дітей, які народжуються щороку на кожну 1000 людей (birth rate)",
+            "кількість людей, які помирають щороку на кожну 1000 людей (death rate)",
+            "зростання населення, коли народжується більше людей, ніж помирає (natural increase)",
+            "проста картина того, як щось зазвичай змінюється (model)",
+            "графік, який показує, скільки людей є в кожній віковій групі (population pyramid)"
+          ],
+          "passage": [
+            "Модель демографічного переходу показує, як населення змінюється з часом.",
+            "Скорочено її називають DTM.",
+            "Це модель, тому вона не повторює якусь одну справжню країну.",
+            "DTM має п’ять етапів.",
+            "На етапі 1 і народжуваність, і смертність високі.",
+            "Населення залишається низьким і стійким.",
+            "На етапі 2 смертність падає, а народжуваність залишається високою.",
+            "Населення швидко зростає.",
+            "На етапі 3 народжуваність теж падає, тому зростання вповільнюється.",
+            "На етапі 4 обидва показники низькі, а населення велике і стійке.",
+            "На етапі 5 народжуваність падає нижче смертності.",
+            "Населення починає зменшуватися.",
+            "Піраміда населення (population pyramid) показує, скільки людей є в кожній віковій групі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہر 1000 لوگوں میں ہر سال پیدا ہونے والے بچوں کی تعداد (birth rate)",
+            "ہر 1000 لوگوں میں ہر سال فوت ہونے والے لوگوں کی تعداد (death rate)",
+            "آبادی کی وہ بڑھوتری جو اس وقت ہوتی ہے جب پیدا ہونے والے، مرنے والوں سے زیادہ ہوں (natural increase)",
+            "اس بات کی سادہ تصویر کہ کوئی چیز عموماً کیسے بدلتی ہے (model)",
+            "وہ گراف جو دکھاتا ہے کہ ہر عمر کے گروہ میں کتنے لوگ ہیں (population pyramid)"
+          ],
+          "passage": [
+            "demographic transition model دکھاتا ہے کہ آبادی وقت کے ساتھ کیسے بدلتی ہے۔",
+            "اسے مختصراً DTM کہتے ہیں۔",
+            "یہ ایک model ہے، اس لیے یہ کسی ایک حقیقی ملک کے مطابق نہیں چلتا۔",
+            "DTM کے پانچ مرحلے ہیں۔",
+            "پہلے مرحلے میں birth rate اور death rate، دونوں اونچی ہوتی ہیں۔",
+            "آبادی کم اور ٹھہری ہوئی رہتی ہے۔",
+            "دوسرے مرحلے میں death rate گرتی ہے مگر birth rate اونچی ہی رہتی ہے۔",
+            "آبادی تیزی سے بڑھتی ہے۔",
+            "تیسرے مرحلے میں birth rate بھی گرتی ہے، اس لیے بڑھوتری سست ہو جاتی ہے۔",
+            "چوتھے مرحلے میں دونوں کم ہوتی ہیں اور آبادی زیادہ اور ٹھہری ہوئی ہوتی ہے۔",
+            "پانچویں مرحلے میں birth rate، death rate سے نیچے چلی جاتی ہے۔",
+            "آبادی گرنے لگتی ہے۔",
+            "population pyramid دکھاتا ہے کہ ہر عمر کے گروہ میں کتنے لوگ ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The five stages of the demographic transition model",
@@ -549,8 +857,162 @@ window.ASTRA_UNITS["geog-economic-world"] = {
           "Uneven development has three main results.",
           "Wealth and health are very unequal between countries.",
           "Many people also move to another country to find a better life."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ليس له ساحل خاصّ به (landlocked)",
+            "موادّ خامّ تُباع كما تخرج من الأرض أو الحقل (primary products)",
+            "بلد حكمه بلد آخر واستخدمه (colony)",
+            "فرق كبير غير عادل بين شيئين (disparity)",
+            "شخص أُجبر على مغادرة بلده بسبب حرب أو كارثة (refugee)"
+          ],
+          "passage": [
+            "بعض البلدان أفقر كثيرًا من غيرها.",
+            "والأسباب طبيعية في بعضها وبشرية في بعضها.",
+            "فمن الأسباب الطبيعية أن يكون البلد مغلقًا لا ساحل له للتجارة.",
+            "والجفاف والسيول والعواصف تُفسد المحاصيل وتُدمّر الطرق.",
+            "والمرض والحشرات الضارّة تقتل الحيوانات وتُضعف قوّة العمل.",
+            "ونقص الماء النظيف يُبقي الناس مرضى وبعيدين عن المدرسة.",
+            "ومن الأسباب البشرية أن يكون البلد قد حُكم مستعمرةً في الماضي.",
+            "وبعد الاستقلال أصابت بعض البلدان حروب أهلية وحكومات فاسدة.",
+            "وكثير من البلدان الأفقر يبيع موادّ خامّ بأسعار ترتفع وتهبط.",
+            "وهذا يجعل التخطيط للمستقبل صعبًا.",
+            "وللتنمية غير المتساوية ثلاث نتائج رئيسة.",
+            "فالثروة والصحّة غير متساويتين أبدًا بين البلدان.",
+            "وكثير من الناس ينتقل أيضًا إلى بلد آخر ليجد حياةً أفضل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "nie mający własnego wybrzeża (landlocked)",
+            "surowce sprzedawane w takiej postaci, w jakiej wychodzą z ziemi albo z pola (primary products)",
+            "kraj, który był rządzony i wykorzystywany przez inny kraj",
+            "duża i niesprawiedliwa różnica między dwiema rzeczami (disparity)",
+            "ktoś zmuszony do opuszczenia swojego kraju przez wojnę albo katastrofę"
+          ],
+          "passage": [
+            "Niektóre kraje są o wiele biedniejsze niż inne.",
+            "Powody są częściowo przyrodnicze, a częściowo ludzkie.",
+            "Powody przyrodnicze to na przykład brak dostępu do morza, czyli brak wybrzeża do handlu.",
+            "Susze, powodzie i burze niszczą plony i drogi.",
+            "Choroby i szkodniki zabijają zwierzęta hodowlane i osłabiają pracujących.",
+            "Brak czystej wody sprawia, że ludzie chorują i nie chodzą do szkoły.",
+            "Powody ludzkie to na przykład to, że kraj był w przeszłości rządzony jako kolonia.",
+            "Po uzyskaniu niepodległości niektóre kraje przeszły wojny domowe i miały skorumpowane rządy.",
+            "Wiele biedniejszych krajów sprzedaje surowce po cenach, które raz rosną, raz spadają.",
+            "To utrudnia planowanie przyszłości.",
+            "Nierówny rozwój ma trzy główne skutki.",
+            "Bogactwo i zdrowie są bardzo nierówno rozłożone między krajami.",
+            "Wielu ludzi przenosi się też do innego kraju, żeby znaleźć lepsze życie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "que não tem costa própria (landlocked, sem acesso ao mar)",
+            "matérias-primas vendidas tal como saem do solo ou do campo (primary products, produtos primários)",
+            "um país que foi governado e usado por outro país (colony, colónia/colônia)",
+            "uma diferença grande e injusta entre duas coisas (disparity, disparidade)",
+            "alguém obrigado a deixar o seu país por causa de uma guerra ou de uma catástrofe (refugee, refugiado)"
+          ],
+          "passage": [
+            "Há países muito mais pobres do que outros.",
+            "As razões são em parte físicas e em parte humanas.",
+            "Entre as razões físicas está não ter acesso ao mar, sem costa para o comércio.",
+            "As secas, as cheias/enchentes e as tempestades estragam as colheitas e destroem as estradas.",
+            "As doenças e as pragas matam o gado e enfraquecem quem trabalha.",
+            "A falta de água limpa deixa as pessoas doentes e longe da escola.",
+            "Entre as razões humanas está ter sido governado como colónia/colônia no passado.",
+            "Depois da independência, alguns países tiveram guerras civis e governos corruptos.",
+            "Muitos países mais pobres vendem produtos primários a preços que sobem e descem.",
+            "Isso torna difícil fazer planos para o futuro.",
+            "O desenvolvimento desigual tem três resultados principais.",
+            "A riqueza e a saúde são muito desiguais entre os países.",
+            "Também há muitas pessoas que se mudam para outro país à procura de uma vida melhor."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inuu xeeb u gaar ah lahayn",
+            "alaab ceeriin ah oo la iibiyo sidii ay dhulka ama beerta uga soo baxday",
+            "dal oo dal kale xukumay oo u isticmaalay",
+            "farqi weyn oo aan caddaaladaysnayn oo u dhexeeya laba shay",
+            "qof lagu qasbay inuu dalkiisa ka baxo dagaal ama masiibo dartiis"
+          ],
+          "passage": [
+            "Dalal qaar aad ayay uga faqiirsan yihiin kuwa kale.",
+            "Sababuhu qayb ahaan waa jir, qayb ahaanna waa bani'aadmi.",
+            "Sababaha jirka waxaa ka mid ah inaad landlocked tahay, oo aanad xeeb ganacsi u lahayn.",
+            "Abaar, fatahaad iyo duufaanno waxay dalagga baabi'iyaan oo waddooyinka burburiyaan.",
+            "Cudurro iyo cayayaan waxay xoolaha dilaan oo shaqaalaha daciifiyaan.",
+            "Biyo nadiif ah la'aantood dadku way bukoodaan oo iskuulka way ka maqnaadaan.",
+            "Sababaha bani'aadmiga waxaa ka mid ah in waagii hore gumaysi lagu xukumay.",
+            "Xornimada ka dib, dalal qaar waxay la kulmeen dagaallo sokeeye iyo dowlado musuqmaasuq leh.",
+            "Dalal faqiir ah oo badan waxay iibiyaan primary products oo qiimahoodu kaco oo dhaco.",
+            "Taasi waxay adkaysaa qorsheynta mustaqbalka.",
+            "Horumarka aan sinnayn wuxuu leeyahay saddex natiijo waaweyn.",
+            "Maalka iyo caafimaadku aad bay u kala duwan yihiin dalalka dhexdooda.",
+            "Dad badan sidoo kale waxay dal kale u guuraan si ay nolol ka fiican u helaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "той, що не має власного морського берега (landlocked)",
+            "сировина, яку продають такою, якою вона виходить із землі або з поля (primary products)",
+            "країна, якою правила й яку використовувала інша країна (colony)",
+            "велика і несправедлива різниця між двома речами (disparity)",
+            "людина, змушена покинути свою країну через війну або катастрофу (refugee)"
+          ],
+          "passage": [
+            "Деякі країни значно бідніші за інші.",
+            "Причини частково природні, а частково людські.",
+            "Природні причини — це, наприклад, відсутність морського берега для торгівлі.",
+            "Засуха, повені й шторми нищать урожай і руйнують дороги.",
+            "Хвороби і шкідники вбивають худобу й ослаблюють працівників.",
+            "Брак чистої води тримає людей хворими і далеко від школи.",
+            "Людські причини — це, наприклад, те, що в минулому країною правили як колонією.",
+            "Після незалежності в деяких країнах були громадянські війни і корумповані уряди.",
+            "Багато бідніших країн продає сировину за цінами, які то піднімаються, то падають.",
+            "Через це важко планувати майбутнє.",
+            "Нерівний розвиток має три головні наслідки.",
+            "Багатство і здоров’я дуже нерівні між країнами.",
+            "Багато людей також переїжджає в іншу країну, щоб знайти краще життя."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جس کا اپنا کوئی ساحل نہ ہو (landlocked)",
+            "وہ خام مال جو زمین یا کھیت سے نکلتے ہی ویسے ہی بیچ دیا جائے (primary products)",
+            "وہ ملک جس پر کوئی دوسرا ملک حکومت کرتا اور اسے استعمال کرتا رہا (colony)",
+            "دو چیزوں کے درمیان بڑا اور ناانصافی پر مبنی فرق (disparity)",
+            "وہ شخص جسے جنگ یا آفت اپنا ملک چھوڑنے پر مجبور کر دے (refugee)"
+          ],
+          "passage": [
+            "کچھ ملک دوسروں سے بہت زیادہ غریب ہیں۔",
+            "اس کی وجوہات کچھ طبعی ہیں اور کچھ انسانی۔",
+            "طبعی وجوہات میں landlocked ہونا شامل ہے، یعنی تجارت کے لیے کوئی ساحل نہ ہونا۔",
+            "قحط، سیلاب اور طوفان فصلیں تباہ کرتے اور سڑکیں بگاڑ دیتے ہیں۔",
+            "بیماری اور کیڑے مال مویشی مار دیتے ہیں اور کام کرنے والوں کو کمزور کر دیتے ہیں۔",
+            "صاف پانی نہ ہونے سے لوگ بیمار رہتے ہیں اور سکول سے دور رہتے ہیں۔",
+            "انسانی وجوہات میں ماضی میں colony کے طور پر حکومت کے نیچے رہنا شامل ہے۔",
+            "آزادی کے بعد کچھ ملکوں میں خانہ جنگی ہوئی اور حکومتیں بدعنوان رہیں۔",
+            "بہت سے غریب ملک primary products ایسی قیمتوں پر بیچتے ہیں جو چڑھتی اترتی رہتی ہیں۔",
+            "اس سے مستقبل کا منصوبہ بنانا مشکل ہو جاتا ہے۔",
+            "غیر ہموار development کے تین بڑے نتیجے نکلتے ہیں۔",
+            "ملکوں کے درمیان دولت اور صحت میں بہت زیادہ ناہمواری ہے۔",
+            "بہت سے لوگ بہتر زندگی کی تلاش میں دوسرے ملک بھی چلے جاتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Physical causes: what the land itself does",
@@ -762,8 +1224,162 @@ window.ASTRA_UNITS["geog-economic-world"] = {
           "Smaller strategies can work very well too.",
           "Fair trade, debt relief, microfinance loans and simple technology all help.",
           "None of them is a complete answer on its own."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "وضع المال في مكان أو عمل حتى يكبر (investment)",
+            "شركة عابرة للحدود، أي شركة تعمل في أكثر من بلد (TNC)",
+            "أن يؤدّي عمل جديد واحد إلى إنفاق أكثر وضرائب أكثر وأعمال أكثر (multiplier effect)",
+            "عودة المال المكسوب من السياحة إلى شركة أجنبية (leakage)",
+            "مساعدة يقدّمها بلد أو منظّمة (aid)"
+          ],
+          "passage": [
+            "إغلاق فجوة التنمية يحتاج إلى استثمار في الصحّة والتعليم.",
+            "فيكون في البلد عمّال أصحّ وأحسن تدريبًا.",
+            "فيكسبون أكثر وينفقون أكثر ويدفعون ضرائب أكثر.",
+            "وتلك الضرائب يمكن أن تُنفق على تنمية البلد أكثر.",
+            "ويُسمّى هذا أثر المضاعِف الإيجابي (multiplier effect).",
+            "ومال الاستثمار قد يأتي من أماكن عدّة.",
+            "فقد تبني شركة عابرة للحدود مصنعًا، كما فعلت دايسون (Dyson) في ماليزيا.",
+            "وقد تنمو الصناعة، كما نمت صناعة السيّارات في ماليزيا.",
+            "والسيّاح قد يجلبون المال، كما يفعلون في جامايكا وتنزانيا.",
+            "والمعونة قد تأتي من الحكومات أو من الجمعيات الخيرية أو من الناس.",
+            "والاستراتيجيات الأصغر قد تنجح نجاحًا كبيرًا أيضًا.",
+            "فالتجارة العادلة وتخفيف الدَّين وقروض التمويل الأصغر والتقنية البسيطة كلّها تساعد.",
+            "وليس أيّ منها جوابًا كاملًا وحده."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wkładanie pieniędzy w jakieś miejsce albo firmę, żeby się rozwijały (investment)",
+            "korporacja transnarodowa, czyli firma działająca w więcej niż jednym kraju (TNC)",
+            "jedno nowe miejsce pracy prowadzi do większych wydatków, większych podatków i kolejnych miejsc pracy (multiplier effect)",
+            "pieniądze zarobione na turystyce, które wracają do zagranicznej firmy (leakage)",
+            "pomoc dawana przez kraj albo organizację (aid)"
+          ],
+          "passage": [
+            "Zamknięcie przepaści rozwojowej wymaga inwestycji w zdrowie i edukację.",
+            "Kraj ma wtedy zdrowszych i lepiej wyszkolonych pracowników.",
+            "Zarabiają więcej, wydają więcej i płacą wyższe podatki.",
+            "Te podatki można wydać na dalszy rozwój kraju.",
+            "Nazywamy to dodatnim efektem mnożnikowym (multiplier effect).",
+            "Pieniądze na inwestycje mogą pochodzić z kilku źródeł.",
+            "Korporacja TNC może zbudować fabrykę, jak zrobił Dyson w Malezji.",
+            "Przemysł może się rozwijać, jak produkcja samochodów w Malezji.",
+            "Turyści mogą przywozić pieniądze, jak na Jamajce i w Tanzanii.",
+            "Pomoc może pochodzić od rządów, od organizacji dobroczynnych albo od zwykłych ludzi.",
+            "Mniejsze działania też mogą zadziałać bardzo dobrze.",
+            "Sprawiedliwy handel, umorzenie długów, mikropożyczki i prosta technologia — wszystko to pomaga.",
+            "Żadne z nich samo w sobie nie jest pełną odpowiedzią."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "pôr dinheiro num lugar ou num negócio para que ele cresça (investment, investimento)",
+            "uma empresa transnacional, que trabalha em mais de um país (TNC)",
+            "um emprego novo que leva a mais gastos, mais impostos e mais empregos (multiplier effect, efeito multiplicador)",
+            "dinheiro ganho com o turismo que volta para uma empresa estrangeira (leakage)",
+            "ajuda dada por um país ou por uma organização (aid, ajuda)"
+          ],
+          "passage": [
+            "Fechar o development gap exige investimento na saúde e na educação.",
+            "O país passa então a ter trabalhadores mais saudáveis e melhor formados.",
+            "Eles ganham mais, gastam mais e pagam mais impostos.",
+            "Esses impostos podem ser gastos a desenvolver mais o país.",
+            "A isto chama-se efeito multiplicador positivo (multiplier effect).",
+            "O dinheiro para investir pode vir de vários lugares.",
+            "Uma TNC pode construir uma fábrica, como a Dyson fez na Malásia.",
+            "A indústria pode crescer, como cresceu o fabrico/fabricação de automóveis na Malásia.",
+            "Os turistas podem trazer dinheiro, como fazem na Jamaica e na Tanzânia.",
+            "A ajuda pode vir de governos, de instituições de solidariedade ou do público.",
+            "Estratégias mais pequenas também podem funcionar muito bem.",
+            "O comércio justo, o perdão da dívida, os empréstimos de microfinanças e a tecnologia simples ajudam todos.",
+            "Nenhuma delas é, por si só, uma resposta completa."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "lacag la geliyo meel ama ganacsi si ay u korto",
+            "shirkad caalami ah, oo ka shaqeysa in ka badan hal dal",
+            "hal shaqo cusub oo keenta isbixin badan, canshuur badan iyo shaqooyin badan",
+            "lacagta dalxiiska laga kasbaday oo shirkad shisheeye dib ugu noqonaysa",
+            "caawimo bixiyay dal ama urur"
+          ],
+          "passage": [
+            "Xidhidda farqiga horumarka waxay u baahan tahay maalgashi caafimaad iyo waxbarasho.",
+            "Markaas dalku wuxuu helaa shaqaale caafimaad qabta oo si fiican loo tababbaray.",
+            "Wax badan ayay kasbadaan, wax badan ayay isbixiyaan, canshuur badanna way bixiyaan.",
+            "Canshuurtaas waxaa lagu bixin karaa horumarinta dalka intaa ka sii badan.",
+            "Tan waxaa la yiraahdaa positive multiplier effect.",
+            "Lacagta maalgashiga waxay dhowr meel ka imaan kartaa.",
+            "TNC waxay warshad dhisi kartaa, sidii Dyson uu Malaysia ku sameeyay.",
+            "Warshaduhu way kori karaan, sidii samaynta baabuurtu Malaysia ku kortay.",
+            "Dalxiisayaashu lacag way keeni karaan, sidii ay Jamaica iyo Tanzania u keenaan.",
+            "Gargaarku wuxuu ka imaan karaa dowlado, hay'ado samafal ama dadweynaha.",
+            "Xeelado yaryar sidoo kale si fiican ayay u shaqeeyaan.",
+            "Fair trade, deyn-cafis, amaahda microfinance iyo tignoolajiyo fudud dhammaantood way caawiyaan.",
+            "Midkoodna kali ahaantii jawaab buuxda maaha."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вкладання грошей у місце або бізнес, щоб він зростав (investment)",
+            "транснаціональна корпорація, компанія, яка працює більше ніж в одній країні (TNC)",
+            "одне нове робоче місце веде до більших витрат, більших податків і більшої кількості робочих місць (multiplier effect)",
+            "гроші, зароблені на туризмі, які повертаються до закордонної компанії (leakage)",
+            "допомога, яку надає країна або організація (aid)"
+          ],
+          "passage": [
+            "Щоб закрити розрив у розвитку, потрібні вкладення в охорону здоров’я й освіту.",
+            "Тоді країна має здоровіших і краще навчених працівників.",
+            "Вони більше заробляють, більше витрачають і платять більше податків.",
+            "Ці податки можна витратити на подальший розвиток країни.",
+            "Це називають позитивним ефектом множення (multiplier effect).",
+            "Гроші на вкладення можуть надходити з кількох місць.",
+            "TNC може побудувати фабрику, як це зробив Dyson у Малайзії.",
+            "Промисловість може зростати, як зросло виробництво автомобілів у Малайзії.",
+            "Туристи можуть приносити гроші, як вони це роблять на Ямайці і в Танзанії.",
+            "Допомога може надходити від урядів, від благодійних організацій або від людей.",
+            "Менші за масштабом способи теж можуть працювати дуже добре.",
+            "Справедлива торгівля, списання боргів, мікрокредити і проста технологія — усе це допомагає.",
+            "Жоден із них сам по собі не є повною відповіддю."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی جگہ یا کاروبار میں پیسہ لگانا تاکہ وہ بڑھے (investment)",
+            "transnational corporation، یعنی ایک سے زیادہ ملکوں میں کام کرنے والی کمپنی (TNC)",
+            "ایک نئے روزگار سے زیادہ خرچ، زیادہ ٹیکس اور مزید روزگار پیدا ہونا (multiplier effect)",
+            "سیاحت سے کمایا ہوا پیسہ واپس کسی غیر ملکی کمپنی کے پاس چلا جانا (leakage)",
+            "کسی ملک یا تنظیم کی دی ہوئی مدد (aid)"
+          ],
+          "passage": [
+            "development gap کم کرنے کے لیے صحت اور تعلیم میں investment ضروری ہے۔",
+            "پھر ملک کے پاس زیادہ صحت مند اور بہتر تربیت یافتہ کام کرنے والے ہوتے ہیں۔",
+            "وہ زیادہ کماتے ہیں، زیادہ خرچ کرتے ہیں اور زیادہ ٹیکس دیتے ہیں۔",
+            "وہ ٹیکس ملک کو مزید ترقی دینے پر خرچ ہو سکتا ہے۔",
+            "اسے مثبت multiplier effect کہتے ہیں۔",
+            "investment کا پیسہ کئی جگہوں سے آ سکتا ہے۔",
+            "کوئی TNC کارخانہ بنا سکتی ہے، جیسے Dyson نے ملائیشیا میں بنایا۔",
+            "صنعت بڑھ سکتی ہے، جیسے ملائیشیا میں گاڑیاں بنانے کی صنعت بڑھی۔",
+            "سیاح پیسہ لا سکتے ہیں، جیسے وہ جمیکا اور تنزانیہ میں لاتے ہیں۔",
+            "aid حکومتوں سے، خیراتی اداروں سے یا عام لوگوں سے آ سکتی ہے۔",
+            "چھوٹی تدبیریں بھی بہت اچھا کام کر سکتی ہیں۔",
+            "fair trade، قرض میں رعایت، microfinance کے قرضے اور سادہ ٹیکنالوجی، سب مدد دیتے ہیں۔",
+            "ان میں سے کوئی ایک بھی اکیلا مکمل جواب نہیں ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Investment and industrial development",
@@ -979,8 +1595,162 @@ window.ASTRA_UNITS["geog-economic-world"] = {
           "Companies from China, South Africa and the United States now invest there.",
           "Oil has brought money, but also spills and pollution.",
           "The south of the country is far richer than the north."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "اقتصاد ناشئ حديثًا، ينمو بسرعة بالصناعة (NEE)",
+            "سيطرة بلد على بلد آخر واستخدامه له (colonialism)",
+            "أن يحكم البلد نفسه (independence)",
+            "النفط كما يخرج من الأرض، قبل تصفيته (crude oil)",
+            "تسرّب النفط من أنبوب أو منصّة إلى الأرض أو البحر (oil spill)"
+          ],
+          "passage": [
+            "نيجيريا في غرب أفريقيا.",
+            "وتحدّها النيجر وتشاد والكاميرون وبنين.",
+            "وساحلها على خليج غينيا، وهو جزء من المحيط الأطلسي.",
+            "ولنيجيريا أكبر عدد سكّان وأكبر اقتصاد في أفريقيا.",
+            "وهي اقتصاد ناشئ حديثًا، أي NEE.",
+            "والزراعة تتراجع فيها، والصناعة والخدمات تنمو.",
+            "والنفط الخامّ من دلتا النيجر أكبر صادراتها.",
+            "وقد حكمت المملكة المتّحدة نيجيريا حتى 1960.",
+            "وانتهت حرب أهلية في 1970، ثم حكمها حكّام مستبدّون سنوات.",
+            "والحكومات مستقرّة منذ 1999.",
+            "وشركات من الصين وجنوب أفريقيا والولايات المتّحدة تستثمر فيها اليوم.",
+            "والنفط جلب المال، ولكنه جلب أيضًا التسرّبات والتلوّث.",
+            "وجنوب البلد أغنى كثيرًا من شمالها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "nowa, wschodząca gospodarka, która szybko rośnie dzięki przemysłowi (NEE)",
+            "przejęcie przez jeden kraj kontroli nad drugim i wykorzystywanie go (colonialism)",
+            "sytuacja, w której kraj rządzi sam sobą",
+            "ropa w takiej postaci, w jakiej wychodzi z ziemi, przed przerobieniem (crude oil)",
+            "ropa wyciekająca z rurociągu albo platformy na ziemię albo do morza (oil spill)"
+          ],
+          "passage": [
+            "Nigeria leży w Afryce Zachodniej.",
+            "Graniczy z Nigrem, Czadem, Kamerunem i Beninem.",
+            "Jej wybrzeże leży nad Zatoką Gwinejską, częścią Oceanu Atlantyckiego.",
+            "Nigeria ma największą liczbę ludności i największą gospodarkę w Afryce.",
+            "Jest nową, wschodzącą gospodarką, czyli NEE.",
+            "Rolnictwo się tam zmniejsza, a przemysł i usługi rosną.",
+            "Ropa naftowa z delty Nigru jest jej największym towarem na wywóz.",
+            "Nigerią rządziło Zjednoczone Królestwo do 1960 roku.",
+            "Wojna domowa skończyła się w 1970 roku, a potem przez lata rządzili dyktatorzy.",
+            "Od 1999 roku rządy są stabilne.",
+            "Firmy z Chin, Republiki Południowej Afryki i Stanów Zjednoczonych teraz tam inwestują.",
+            "Ropa przyniosła pieniądze, ale też wycieki i zanieczyszczenie.",
+            "Południe kraju jest o wiele bogatsze niż północ."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma economia emergente, que cresce depressa com a indústria (NEE)",
+            "um país a tomar o controlo de outro e a usá-lo (colonialism, colonialismo)",
+            "quando um país se governa a si mesmo (independence, independência)",
+            "petróleo tal como sai do solo, antes de ser refinado (crude oil, petróleo bruto)",
+            "petróleo a escapar de um oleoduto ou de uma plataforma para a terra ou para o mar (oil spill, derrame de petróleo)"
+          ],
+          "passage": [
+            "A Nigéria fica na África Ocidental.",
+            "Tem fronteira com o Níger, o Chade, os Camarões e o Benim.",
+            "A sua costa é no golfo da Guiné, parte do oceano Atlântico.",
+            "A Nigéria tem a maior população e a maior economia da África.",
+            "É uma economia emergente, ou NEE.",
+            "A agricultura está a encolher / encolhendo lá, enquanto a indústria e os serviços crescem.",
+            "O petróleo bruto do delta do Níger é a sua maior exportação.",
+            "A Nigéria foi governada pelo Reino Unido até 1960.",
+            "Uma guerra civil acabou em 1970, e depois houve ditadores a governar durante anos.",
+            "Os governos têm sido estáveis desde 1999.",
+            "Há agora empresas da China, da África do Sul e dos Estados Unidos a investir lá.",
+            "O petróleo trouxe dinheiro, mas também derrames e poluição.",
+            "O sul do país é muito mais rico do que o norte."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhaqaale cusub oo soo koraya, oo warshadaha ku koraya si dhaqso ah",
+            "dal oo mid kale la wareegay oo u isticmaalay",
+            "marka dal naftiisa xukumo",
+            "saliid sidii ay dhulka uga soo baxday, intaan la saafin",
+            "saliid oo tuubo ama rig ka daadanaysa oo dhulka ama badda gelaysa"
+          ],
+          "passage": [
+            "Nigeria waxay ku taal galbeedka Afrika.",
+            "Waxay xad la wadaagtaa Niger, Chad, Kameruun iyo Benin.",
+            "Xeebteeda waxay ku taal Gacanka Guinea, oo qayb ka ah Badweynta Atlantic.",
+            "Nigeria waxay leedahay dadweynaha ugu badan iyo dhaqaalaha ugu weyn Afrika.",
+            "Waa dhaqaale cusub oo soo koraya, ama NEE.",
+            "Beeruhu halkaas way yaraanayaan halka warshadaha iyo adeegyada ay koraan.",
+            "Saliidda ceeriin ee Niger Delta waa waxa ugu badan ay dibadda u dirto.",
+            "Nigeria waxaa xukumayay Boqortooyada Midowday ilaa 1960-kii.",
+            "Dagaal sokeeye wuxuu dhammaaday 1970-kii, kadibna taliyayaal kali-talis ah ayaa sanado xukumay.",
+            "Dowladuhu waxay degganaayeen 1999-kii ka dib.",
+            "Shirkado ka socda Shiinaha, Koonfur Afrika iyo Maraykanka hadda halkaas ayay maalgashi ku sameeyaan.",
+            "Saliiddu lacag way keentay, laakiin sidoo kale daadis iyo wasakh.",
+            "Koonfurta dalka aad ayay uga hodan tahay waqooyiga."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "нова економіка, що виникає і швидко зростає завдяки промисловості (NEE)",
+            "коли одна країна захоплює контроль над іншою і використовує її (colonialism)",
+            "коли країна керує собою сама (independence)",
+            "нафта такою, якою вона виходить із землі, до переробки (crude oil)",
+            "нафта, що витікає з трубопроводу або з платформи на землю чи в море (oil spill)"
+          ],
+          "passage": [
+            "Нігерія розташована в Західній Африці.",
+            "Вона межує з Нігером, Чадом, Камеруном і Беніном.",
+            "Її берег лежить на Гвінейській затоці, частині Атлантичного океану.",
+            "Нігерія має найбільше населення і найбільшу економіку в Африці.",
+            "Це нова економіка, що виникає, або NEE.",
+            "Землеробство там зменшується, а промисловість і послуги зростають.",
+            "Сира нафта (crude oil) з дельти Нігеру — її найбільший експорт.",
+            "Нігерією правило Об’єднане Королівство до 1960 року.",
+            "Громадянська війна закінчилася в 1970 році, а потім роками правили диктатори.",
+            "З 1999 року уряди стабільні.",
+            "Тепер там вкладають гроші компанії з Китаю, Південної Африки і Сполучених Штатів.",
+            "Нафта принесла гроші, але також розливи і забруднення.",
+            "Південь країни значно багатший за північ."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "نئی ابھرتی ہوئی معیشت، جو صنعت کے ذریعے تیزی سے بڑھ رہی ہو (NEE)",
+            "ایک ملک کا دوسرے پر قابو پا کر اسے استعمال کرنا (colonialism)",
+            "جب کوئی ملک خود اپنی حکومت کرے (independence)",
+            "وہ تیل جو زمین سے نکلتے وقت ہوتا ہے، صاف کیے جانے سے پہلے (crude oil)",
+            "کسی پائپ لائن یا کنویں سے تیل کا زمین یا سمندر میں بہہ نکلنا (oil spill)"
+          ],
+          "passage": [
+            "نائجیریا مغربی افریقہ میں ہے۔",
+            "اس کی سرحدیں نائجر، چاڈ، کیمرون اور بینن سے ملتی ہیں۔",
+            "اس کا ساحل خلیجِ گنی پر ہے، جو بحرِ اوقیانوس کا حصہ ہے۔",
+            "نائجیریا کی آبادی اور اس کی معیشت، دونوں افریقہ میں سب سے بڑی ہیں۔",
+            "یہ ایک نئی ابھرتی ہوئی معیشت، یعنی NEE ہے۔",
+            "وہاں کھیتی سکڑ رہی ہے جبکہ صنعت اور خدمات بڑھ رہی ہیں۔",
+            "نائجر ڈیلٹا سے نکلنے والا crude oil اس کی سب سے بڑی برآمد ہے۔",
+            "نائجیریا پر 1960 تک برطانیہ کی حکومت رہی۔",
+            "ایک خانہ جنگی 1970 میں ختم ہوئی، اور پھر برسوں ڈکٹیٹروں کی حکومت رہی۔",
+            "1999 سے حکومتیں مستحکم رہی ہیں۔",
+            "چین، جنوبی افریقہ اور امریکہ کی کمپنیاں اب وہاں پیسہ لگاتی ہیں۔",
+            "تیل سے پیسہ آیا، مگر oil spills اور آلودگی بھی آئی۔",
+            "ملک کا جنوبی حصہ شمالی حصے سے بہت زیادہ امیر ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where Nigeria is, and why it counts as an NEE",
@@ -1192,8 +1962,162 @@ window.ASTRA_UNITS["geog-economic-world"] = {
           "The United Kingdom now sells services, research and ideas instead.",
           "Wages and house prices are higher in the south than the north.",
           "That difference is called the north-south divide."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "نصيب عمّال البلد في كلّ نوع من الأعمال (employment structure)",
+            "تراجع العمل في المصانع في بلد ما (deindustrialisation)",
+            "انتشار الأفكار والمال والسلع والناس في العالم (globalisation)",
+            "بيع صناعة تديرها الدولة لشركات خاصّة (privatisation)",
+            "اقتصاد يعيش على الخدمات والمعلومات والبحث (post-industrial economy)"
+          ],
+          "passage": [
+            "تُجمَع الأعمال في أربعة قطاعات.",
+            "فالأعمال الأوّلية تأخذ الموادّ الخامّ من الأرض أو من البحر.",
+            "والأعمال الثانوية تصنع الأشياء في المصانع.",
+            "والأعمال الثالثية تقدّم الخدمات، كالتمريض أو العمل في المتاجر.",
+            "والأعمال الرابعية هي البحث والبرمجيات والإعلام.",
+            "وفي 1800 كان معظم الناس في بريطانيا يعملون في الأعمال الأوّلية والثانوية.",
+            "وبحلول 2015 لم يكن يعمل في الأعمال الأوّلية إلّا اثنان من كلّ مئة.",
+            "وكان ثمانية وسبعون من كلّ مئة يعملون في الأعمال الثالثية.",
+            "وتراجع العمل في المصانع. ويُسمّى هذا إزالة التصنيع (deindustrialisation).",
+            "فقد صار يمكن صناعة السلع أرخص في بلدان أخرى.",
+            "والمملكة المتّحدة تبيع اليوم الخدمات والبحث والأفكار بدلًا من ذلك.",
+            "والأجور وأسعار البيوت أعلى في الجنوب منها في الشمال.",
+            "ويُسمّى ذلك الفرق الانقسام بين الشمال والجنوب."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "udział pracujących w kraju w każdym rodzaju pracy (employment structure)",
+            "zanik pracy w fabrykach w danym kraju (deindustrialisation)",
+            "rozprzestrzenianie się pomysłów, pieniędzy, towarów i ludzi po całym świecie (globalisation)",
+            "sprzedaż państwowego przemysłu firmom prywatnym (privatisation)",
+            "gospodarka, która żyje z usług, informacji i badań (post-industrial economy)"
+          ],
+          "passage": [
+            "Pracę dzielimy na cztery sektory.",
+            "Praca w sektorze pierwszym bierze surowce z ziemi albo z morza.",
+            "Praca w sektorze drugim wytwarza rzeczy w fabrykach.",
+            "Praca w sektorze trzecim daje usługi, takie jak opieka pielęgniarska albo praca w sklepie.",
+            "Praca w sektorze czwartym to badania, oprogramowanie i media.",
+            "W 1800 roku większość ludzi w Wielkiej Brytanii pracowała w sektorze pierwszym i drugim.",
+            "Do roku 2015 w sektorze pierwszym pracowały tylko dwie osoby na sto.",
+            "Siedemdziesiąt osiem osób na sto pracowało w sektorze trzecim.",
+            "Praca w fabrykach zanikła. Nazywamy to dezindustrializacją (deindustrialisation).",
+            "Towary można było wytwarzać taniej w innych krajach.",
+            "Zjednoczone Królestwo sprzedaje teraz zamiast nich usługi, badania i pomysły.",
+            "Zarobki i ceny domów są wyższe na południu niż na północy.",
+            "Tę różnicę nazywamy podziałem północ–południe."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a parte dos trabalhadores de um país que está em cada tipo de emprego (employment structure, estrutura do emprego)",
+            "a perda de peso do trabalho nas fábricas num país (deindustrialisation, desindustrialização)",
+            "ideias, dinheiro, produtos e pessoas a espalharem-se pelo mundo (globalisation, globalização)",
+            "vender uma indústria do Estado a empresas privadas (privatisation, privatização)",
+            "uma economia que vive dos serviços, da informação e da investigação/pesquisa (post-industrial economy, economia pós-industrial)"
+          ],
+          "passage": [
+            "Os empregos agrupam-se em quatro setores.",
+            "Os empregos do setor primário tiram matérias-primas da terra ou do mar.",
+            "Os empregos do setor secundário fazem coisas em fábricas.",
+            "Os empregos do setor terciário prestam serviços, como a enfermagem ou o trabalho numa loja.",
+            "Os empregos do setor quaternário são a investigação/pesquisa, o software e os media/a mídia.",
+            "Em 1800 quase todas as pessoas na Grã-Bretanha trabalhavam nos setores primário e secundário.",
+            "Em 2015 só duas em cada cem trabalhavam no setor primário.",
+            "Setenta e oito em cada cem trabalhavam no setor terciário.",
+            "O trabalho nas fábricas foi desaparecendo. A isto chama-se desindustrialização.",
+            "Os produtos podiam ser feitos mais barato noutros países.",
+            "O Reino Unido vende agora serviços, investigação/pesquisa e ideias em vez disso.",
+            "Os salários e os preços das casas são mais altos no sul do que no norte.",
+            "A essa diferença chama-se north-south divide, a divisão norte-sul."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "saamiga shaqaalaha dal ee nooc kasta oo shaqo",
+            "hoos u dhaca shaqada warshadaha ee dal",
+            "fikrado, lacag, badeeco iyo dad oo dunida ku faafaya",
+            "iibinta warshad dowladda maamusho shirkado gaar loo leeyahay",
+            "dhaqaale ku noolaada adeegyo, macluumaad iyo cilmi-baaris"
+          ],
+          "passage": [
+            "Shaqooyinka waxaa loo kala saaray afar qaybood.",
+            "Shaqooyinka primary waxay alaab ceeriin ka qaadaan dhulka ama badda.",
+            "Shaqooyinka secondary waxay wax ka sameeyaan warshadaha.",
+            "Shaqooyinka tertiary waxay adeegyo bixiyaan, sida kalkaalinta caafimaadka ama shaqada dukaanka.",
+            "Shaqooyinka quaternary waa cilmi-baaris, software iyo warbaahin.",
+            "1800-kii inta badan dadka Biritayn waxay ka shaqeeyeen shaqooyinka primary iyo secondary.",
+            "2015-kii laba qof oo keliya boqol kasta ayaa ka shaqeeyay shaqooyinka primary.",
+            "Siddeetan iyo siddeed qof boqol kasta ayaa ka shaqeeyay shaqooyinka tertiary.",
+            "Shaqada warshadaha way hoos u dhacday. Tan waxaa la yiraahdaa deindustrialisation.",
+            "Badeecada waxaa laga samayn karay si ka jaban dalal kale.",
+            "Boqortooyada Midowday hadda waxay iibisaa adeegyo, cilmi-baaris iyo fikrado.",
+            "Mushaharrada iyo qiimaha guryaha way ka sarreeyaan koonfurta marka loo eego waqooyiga.",
+            "Farqigaas waxaa la yiraahdaa north-south divide."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "частка працівників країни в кожному виді роботи (employment structure)",
+            "занепад фабричної роботи в країні (deindustrialisation)",
+            "поширення ідей, грошей, товарів і людей по всьому світу (globalisation)",
+            "продаж державної галузі приватним компаніям (privatisation)",
+            "економіка, яка живе з послуг, інформації і досліджень (post-industrial economy)"
+          ],
+          "passage": [
+            "Робочі місця поділяють на чотири сектори.",
+            "Первинні роботи беруть сировину з землі або з моря.",
+            "Вторинні роботи виготовляють речі на фабриках.",
+            "Третинні роботи надають послуги, як-от догляд за хворими або робота в крамниці.",
+            "Четвертинні роботи — це дослідження, програмне забезпечення і медіа.",
+            "У 1800 році більшість людей у Британії працювала на первинних і вторинних роботах.",
+            "До 2015 року лише двоє зі кожних ста працювали на первинних роботах.",
+            "Сімдесят вісім зі кожних ста працювали на третинних роботах.",
+            "Фабрична робота зникала. Це називають деіндустріалізацією (deindustrialisation).",
+            "Товари можна було виготовляти дешевше в інших країнах.",
+            "Об’єднане Королівство тепер продає послуги, дослідження та ідеї.",
+            "Зарплати і ціни на житло вищі на півдні, ніж на півночі.",
+            "Цю різницю називають поділом між півднем і півноччю."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی ملک کے کام کرنے والوں کا ہر قسم کے روزگار میں حصہ (employment structure)",
+            "کسی ملک میں کارخانے کے کام کا کم ہوتے جانا (deindustrialisation)",
+            "خیالوں، پیسے، سامان اور لوگوں کا ساری دنیا میں پھیلنا (globalisation)",
+            "کسی سرکاری صنعت کو نجی کمپنیوں کو بیچ دینا (privatisation)",
+            "وہ معیشت جو خدمات، معلومات اور تحقیق پر چلتی ہے (post-industrial economy)"
+          ],
+          "passage": [
+            "روزگار کو چار شعبوں میں بانٹا جاتا ہے۔",
+            "primary کام زمین یا سمندر سے خام مال لیتے ہیں۔",
+            "secondary کام کارخانوں میں چیزیں بناتے ہیں۔",
+            "tertiary کام خدمات دیتے ہیں، جیسے نرسنگ یا دکان کا کام۔",
+            "quaternary کام تحقیق، سافٹ ویئر اور میڈیا کے ہیں۔",
+            "1800 میں برطانیہ کے زیادہ تر لوگ primary اور secondary کاموں میں تھے۔",
+            "2015 تک ہر سو میں سے صرف دو لوگ primary کاموں میں تھے۔",
+            "ہر سو میں سے اٹھہتر لوگ tertiary کاموں میں تھے۔",
+            "کارخانے کا کام گھٹ گیا۔ اسے deindustrialisation کہتے ہیں۔",
+            "چیزیں دوسرے ملکوں میں زیادہ سستی بن سکتی تھیں۔",
+            "برطانیہ اب اس کی جگہ خدمات، تحقیق اور خیال بیچتا ہے۔",
+            "تنخواہیں اور گھروں کی قیمتیں شمال کے مقابلے میں جنوب میں زیادہ ہیں۔",
+            "اس فرق کو north-south divide کہتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Four sectors, and how the UK's structure changed",

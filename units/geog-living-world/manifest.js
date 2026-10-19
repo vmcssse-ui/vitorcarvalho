@@ -121,8 +121,174 @@ window.ASTRA_UNITS["geog-living-world"] = {
           "It starts with a plant, the producer, which gets its energy from the sun.",
           "The arrows show which way the energy goes.",
           "Many food chains joined together make a food web."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مجتمع من النباتات والحيوانات والمكان الذي تعيش فيه، وكلّها مترابطة (ecosystem)",
+            "حيّ (biotic)",
+            "غير حيّ (abiotic)",
+            "اعتماد شيئين أو أكثر كلٌّ على الآخر (interdependence)",
+            "نبات يصنع غذاءه بنفسه من ضوء الشمس (producer)",
+            "كائن حيّ يفكّك المادّة الميّتة (decomposer)"
+          ],
+          "passage": [
+            "النظام البيئي (ecosystem) مجتمع من النباتات والحيوانات والمكان الذي تعيش فيه.",
+            "وتُسمّى الأجزاء الحيّة أجزاءً حيوية (biotic).",
+            "وتُسمّى الأجزاء غير الحيّة، كالتربة والماء وضوء الشمس، أجزاءً لاحيوية (abiotic).",
+            "والأجزاء كلّها تعتمد كلٌّ على الآخر.",
+            "ويُسمّى هذا الاعتماد المتبادل (interdependence).",
+            "وبعض النظم البيئية صغير، كالبِركة أو السياج النباتي.",
+            "وبعضها ضخم، كالغابة المطيرة المدارية أو الصحراء.",
+            "ويُسمّى النظام البيئي الضخم منطقةً حيوية (biome).",
+            "وغابة إبّينغ (Epping Forest) في شرق لندن نظام بيئي صغير النطاق.",
+            "ولها طبقات: قمم الأشجار، وطبقة الشُجيرات، وأرض الغابة.",
+            "والسلسلة الغذائية تبيّن مَن يأكل مَن.",
+            "وهي تبدأ بنبات، وهو المُنتِج، ويأخذ طاقته من الشمس.",
+            "والأسهم تبيّن الجهة التي تذهب إليها الطاقة.",
+            "وسلاسل غذائية كثيرة متّصلة تصنع شبكة غذائية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wspólnota roślin i zwierząt oraz miejsce, w którym żyją, wszystko powiązane ze sobą (ecosystem)",
+            "żywy (biotic)",
+            "nieżywy (abiotic)",
+            "dwie albo więcej rzeczy zależnych od siebie (interdependence)",
+            "roślina, która sama wytwarza sobie pokarm ze światła słonecznego (producer)",
+            "organizm, który rozkłada martwy materiał (decomposer)"
+          ],
+          "passage": [
+            "Ekosystem to wspólnota roślin i zwierząt oraz miejsce, w którym one żyją.",
+            "Części żywe nazywamy biotycznymi (biotic).",
+            "Części nieżywe, takie jak gleba, woda i światło słoneczne, nazywamy abiotycznymi (abiotic).",
+            "Wszystkie te części zależą od siebie.",
+            "Nazywamy to współzależnością (interdependence).",
+            "Niektóre ekosystemy są małe, jak staw albo żywopłot.",
+            "Inne są ogromne, jak las równikowy albo pustynia.",
+            "Ogromny ekosystem nazywamy biomem (biome).",
+            "Epping Forest we wschodnim Londynie to ekosystem małej skali.",
+            "Ma swoje warstwy: wierzchołki drzew, warstwę krzewów i runo leśne.",
+            "Łańcuch pokarmowy pokazuje, kto kogo zjada.",
+            "Zaczyna się od rośliny, czyli producenta, która bierze energię ze słońca.",
+            "Strzałki pokazują, w którą stronę idzie energia.",
+            "Wiele połączonych łańcuchów pokarmowych tworzy sieć pokarmową."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma comunidade de plantas e animais e o lugar onde vivem, todos ligados entre si (ecosystem, ecossistema)",
+            "vivo (biotic, biótico)",
+            "não vivo (abiotic, abiótico)",
+            "duas ou mais coisas que dependem uma da outra (interdependence, interdependência)",
+            "uma planta que fabrica o seu próprio alimento a partir da luz do sol (producer, produtor)",
+            "um ser vivo que decompõe a matéria morta (decomposer, decompositor)"
+          ],
+          "passage": [
+            "Um ecossistema é uma comunidade de plantas e animais e o lugar onde eles vivem.",
+            "Às partes vivas chama-se bióticas (biotic).",
+            "Às partes não vivas, como o solo, a água e a luz do sol, chama-se abióticas (abiotic).",
+            "Todas as partes dependem umas das outras.",
+            "A isto chama-se interdependência.",
+            "Alguns ecossistemas são pequenos, como um lago ou uma sebe.",
+            "Outros são enormes, como uma floresta tropical ou um deserto.",
+            "A um ecossistema enorme chama-se bioma (biome).",
+            "A Epping Forest, no leste de Londres, é um ecossistema de pequena escala.",
+            "Tem camadas: as copas das árvores, uma camada de arbustos e o solo da floresta.",
+            "Uma cadeia alimentar mostra quem come quem.",
+            "Começa com uma planta, o produtor, que recebe a sua energia do sol.",
+            "As setas mostram para onde vai a energia.",
+            "Muitas cadeias alimentares ligadas entre si formam uma teia alimentar."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "bulsho dhir iyo xayawaan ah iyo meesha ay ku nool yihiin, oo dhammaantood isku xiran",
+            "nool",
+            "aan nool ahayn",
+            "laba wax ama ka badan oo midba midka kale ku tiirsan yahay",
+            "dhir cuntadeeda iska samaysa iftiinka qorraxda",
+            "nool wax dhintay burburiya"
+          ],
+          "passage": [
+            "Nidaamka deegaanka (ecosystem) waa bulsho dhir iyo xayawaan ah iyo meesha ay ku nool yihiin.",
+            "Qaybaha nool waxaa loo yiraahdaa biotic.",
+            "Qaybaha aan noolayn, sida ciidda, biyaha iyo iftiinka qorraxda, waxaa loo yiraahdaa abiotic.",
+            "Qaybaha oo dhan midba midka kale ayuu ku tiirsan yahay.",
+            "Tan waxaa la yiraahdaa interdependence.",
+            "Nidaamyada deegaanka qaar way yaryar yihiin, sida balli ama xayndaab geedo ah.",
+            "Kuwa kalena aad ayay u waaweyn yihiin, sida keynta roobaadka kulaylaha ama saxaraha.",
+            "Nidaamka deegaanka aad u weyn waxaa loo yiraahdaa biome.",
+            "Keynta Epping ee bariga London waa nidaam deegaan oo yar.",
+            "Waxay leedahay lakabyo: dusha geedaha, lakab geedo gaagaaban iyo salka keynta.",
+            "Silsiladda cuntada (food chain) waxay muujisaa cidda cidda cunaysa.",
+            "Waxay ku bilaabmaataa dhir, oo ah producer-ka, taasoo tamarteeda qorraxda ka hesho.",
+            "Fallaarruhu waxay muujiyaan jihada tamartu u socoto.",
+            "Silsilado cunto badan oo isku biiray waxay samaystaan food web."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "спільнота рослин і тварин разом із місцем, де вони живуть, усе пов’язане між собою (ecosystem)",
+            "живий (biotic)",
+            "неживий (abiotic)",
+            "дві або більше речей, які залежать одна від одної (interdependence)",
+            "рослина, яка сама виробляє собі їжу зі сонячного світла (producer)",
+            "жива істота, яка розкладає мертвий матеріал (decomposer)"
+          ],
+          "passage": [
+            "Екосистема — це спільнота рослин і тварин разом із місцем, де вони живуть.",
+            "Живі частини називають біотичними (biotic).",
+            "Неживі частини, як-от ґрунт, вода й сонячне світло, називають абіотичними (abiotic).",
+            "Усі частини залежать одна від одної.",
+            "Це називають взаємозалежністю (interdependence).",
+            "Деякі екосистеми маленькі, як-от ставок або живопліт.",
+            "Інші величезні, як-от тропічний ліс або пустеля.",
+            "Величезну екосистему називають біомом (biome).",
+            "Еппінґ-Форест (Epping Forest) на сході Лондона — це екосистема малого масштабу.",
+            "Вона має яруси: верхівки дерев, кущовий ярус і лісову підстилку.",
+            "Харчовий ланцюг показує, хто кого їсть.",
+            "Він починається з рослини, виробника (producer), яка бере свою енергію від сонця.",
+            "Стрілки показують, у який бік іде енергія.",
+            "Багато харчових ланцюгів, з’єднаних разом, утворюють харчову мережу."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پودوں اور جانوروں کی ایک برادری اور وہ جگہ جہاں وہ رہتے ہیں، سب آپس میں جڑے ہوئے (ecosystem)",
+            "جاندار (biotic)",
+            "بے جان (abiotic)",
+            "دو یا زیادہ چیزوں کا ایک دوسرے پر انحصار (interdependence)",
+            "وہ پودا جو سورج کی روشنی سے اپنی خوراک خود بناتا ہے (producer)",
+            "وہ جاندار جو مرے ہوئے مادے کو توڑ دیتا ہے (decomposer)"
+          ],
+          "passage": [
+            "ecosystem پودوں اور جانوروں کی ایک برادری اور وہ جگہ ہے جہاں وہ رہتے ہیں۔",
+            "جاندار حصوں کو biotic کہتے ہیں۔",
+            "بے جان حصوں کو، جیسے مٹی، پانی اور سورج کی روشنی، abiotic کہتے ہیں۔",
+            "سارے حصے ایک دوسرے پر انحصار کرتے ہیں۔",
+            "اسے interdependence کہتے ہیں۔",
+            "کچھ ecosystems چھوٹے ہوتے ہیں، جیسے ایک تالاب یا باڑ کی جھاڑیوں کی قطار۔",
+            "کچھ بہت بڑے ہوتے ہیں، جیسے برساتی جنگل یا صحرا۔",
+            "بہت بڑے ecosystem کو biome کہتے ہیں۔",
+            "مشرقی لندن میں Epping Forest ایک چھوٹے پیمانے کا ecosystem ہے۔",
+            "اس کی تہیں ہیں: درختوں کی چوٹیاں، جھاڑیوں کی تہہ اور جنگل کا فرش۔",
+            "food chain دکھاتی ہے کہ کون کس کو کھاتا ہے۔",
+            "یہ ایک پودے سے شروع ہوتی ہے، یعنی producer، جو اپنی توانائی سورج سے لیتا ہے۔",
+            "تیر دکھاتے ہیں کہ توانائی کس طرف جاتی ہے۔",
+            "بہت سی food chains مل کر ایک food web بناتی ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Ecosystems at every scale",
@@ -317,8 +483,174 @@ window.ASTRA_UNITS["geog-living-world"] = {
           "Then the owls and hawks that eat woodpeckers go hungry too.",
           "Across the world, the biggest ecosystems are called biomes.",
           "They lie in belts by latitude, because latitude controls the climate."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قدرة النظام البيئي على أن يتعافى بعد أن يُصاب بضرر (resilience)",
+            "مدّة طويلة يسقط فيها مطر أقلّ كثيرًا من المعتاد (drought)",
+            "قطع الغابة وإزالتها (deforestation)",
+            "تغيّر يحدث بسبب تغيّر سابق له (knock-on effect)",
+            "نظام بيئي كبير النطاق، كالصحراء أو الغابة المطيرة (biome)",
+            "كم يبعد المكان شمال خطّ الاستواء أو جنوبه (latitude)"
+          ],
+          "passage": [
+            "النظم البيئية متوازنة، ولكنّ التوازن قد يُختلّ.",
+            "والطقس المتطرّف قد يفعل ذلك.",
+            "ففي 1976 و1977 قتل جفاف في إنجلترا أشجارًا كثيرة.",
+            "وفي 1987 أطاحت عاصفة كبيرة 15 مليون شجرة أخرى.",
+            "والحيوانات التي كانت تتغذّى على تلك الأشجار فقدت غذاءها، فقلّت أعدادها.",
+            "ولكنّ أشجارًا جديدة نمت، فعادت الحيوانات.",
+            "ويُسمّى هذا التعافي مرونة (resilience).",
+            "والناس قد يُخِلّون بالتوازن أيضًا، بقطع الغابات.",
+            "والتربة العارية يجرفها المطر، فقد لا تتعافى الغابة أبدًا.",
+            "والتغيّر في نوع واحد ينتشر في الشبكة الغذائية كلّها.",
+            "فقلّة الخنافس تعني قلّة الطعام لنقّار الخشب، فيقلّ نقّار الخشب.",
+            "ثم تجوع البوم والصقور التي تأكل نقّار الخشب أيضًا.",
+            "وفي العالم كلّه تُسمّى أكبر النظم البيئية مناطق حيوية (biomes).",
+            "وهي تقع في أحزمة حسب خطوط العرض، لأنّ خطّ العرض يتحكّم في المناخ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zdolność ekosystemu do odbudowy po zniszczeniu (resilience)",
+            "długi okres, w którym pada o wiele mniej deszczu niż normalnie (drought)",
+            "wycinanie i usuwanie lasu (deforestation)",
+            "zmiana, która zdarza się przez wcześniejszą zmianę (knock-on effect)",
+            "ekosystem wielkiej skali, taki jak pustynia albo las równikowy (biome)",
+            "jak daleko na północ albo na południe od równika leży dane miejsce (latitude)"
+          ],
+          "passage": [
+            "Ekosystemy są w równowadze, ale tę równowagę można zaburzyć.",
+            "Może to zrobić pogoda ekstremalna.",
+            "W 1976 i 1977 roku susza w Anglii zabiła wiele drzew.",
+            "W 1987 roku wielki sztorm przewrócił kolejnych 15 milionów.",
+            "Zwierzęta, które żywiły się tymi drzewami, straciły pokarm i ich liczba spadła.",
+            "Ale wyrosły nowe drzewa i zwierzęta wróciły.",
+            "Tę odbudowę nazywamy odpornością ekosystemu (resilience).",
+            "Ludzie też mogą zaburzyć równowagę, wycinając lasy.",
+            "Odkrytą glebę zmywa deszcz, więc las może się już nigdy nie odbudować.",
+            "Zmiana dotycząca jednego gatunku rozchodzi się po całej sieci pokarmowej.",
+            "Mniej chrząszczy znaczy mniej posiłków dla dzięciołów, więc dzięciołów jest mniej.",
+            "Wtedy sowy i jastrzębie, które jedzą dzięcioły, też chodzą głodne.",
+            "Na całym świecie największe ekosystemy nazywamy biomami.",
+            "Leżą w pasach według szerokości geograficznej, bo szerokość geograficzna rządzi klimatem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a capacidade de um ecossistema para recuperar depois de ser danificado (resilience, resiliência)",
+            "um período longo com muito menos chuva do que o normal (drought, seca)",
+            "cortar e limpar uma floresta (deforestation, desflorestação/desmatamento)",
+            "uma mudança que acontece por causa de uma mudança anterior (knock-on effect, efeito em cadeia)",
+            "um ecossistema de grande escala, como um deserto ou uma floresta tropical (biome, bioma)",
+            "a que distância a norte ou a sul do equador fica um lugar (latitude)"
+          ],
+          "passage": [
+            "Os ecossistemas estão equilibrados, mas o equilíbrio pode ser quebrado.",
+            "O tempo extremo pode fazê-lo.",
+            "Em 1976 e 1977, uma seca em Inglaterra matou muitas árvores.",
+            "Em 1987 uma grande tempestade derrubou mais 15 milhões.",
+            "Os animais que se alimentavam dessas árvores perderam a sua comida, e o seu número baixou.",
+            "Mas nasceram árvores novas, e os animais voltaram.",
+            "A esta recuperação chama-se resiliência (resilience).",
+            "As pessoas também podem quebrar o equilíbrio, ao cortar florestas.",
+            "O solo nu é arrastado pela chuva, por isso a floresta pode nunca recuperar.",
+            "Uma mudança numa espécie espalha-se por toda a teia alimentar.",
+            "Menos escaravelhos/besouros quer dizer menos comida para os pica-paus, por isso há menos pica-paus.",
+            "Depois as corujas e os falcões que comem pica-paus também passam fome.",
+            "Pelo mundo, aos maiores ecossistemas chama-se biomas.",
+            "Ficam em faixas pela latitude, porque é a latitude que controla o clima."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "awoodda nidaamka deegaanka uu ku soo kabto markii la waxyeelleeyay",
+            "muddo dheer oo roob aad uga yar caadiga ah",
+            "jaridda iyo baabi'inta keyn",
+            "isbeddel dhacay sababtoo ah isbeddel hore",
+            "nidaam deegaan baaxad weyn leh, sida saxare ama keyn roobaad",
+            "inta meel ay waqooyi ama koonfur uga jirto dhulbaraha"
+          ],
+          "passage": [
+            "Nidaamyada deegaanku waa dheelli tiran, laakiin dheellitirku wuu kacsan karaa.",
+            "Hawo aad u daran way samayn kartaa.",
+            "1976-kii iyo 1977-kii abaar England ka dhacday waxay dishay geedo badan.",
+            "1987-kii duufaan weyn wuxuu afgembiyay 15 milyan oo kale.",
+            "Xayawaanka geedahaas ku quudinayay cuntadooda way lumiyeen, tiradooduna way hoos u dhacday.",
+            "Laakiin geedo cusub way kaceen, xayawaankuna way soo noqdeen.",
+            "Soo-kabashadan waxaa loo yiraahdaa resilience.",
+            "Dadku sidoo kale dheellitirka way kicin karaan, iyagoo keymaha jara.",
+            "Ciidda bannaan roobku wuu la tagaa, markaa keyntu waligeed soo kabsan weydo.",
+            "Isbeddelka ku dhaca hal nooc wuxuu food web-ka oo dhan ku faafaa.",
+            "Baranbaro yar macnaheedu waa cunto yar oo shimbiraha geedaha garaaca, markaa shimbirahaas way yaraadaan.",
+            "Kadibna guumaysyada iyo haadka shimbirahaas cuna iyaguna way gaajoodaan.",
+            "Dunida oo dhan, nidaamyada deegaanka ugu waaweyn waxaa loo yiraahdaa biomes.",
+            "Waxay ku yaallaan suumo latitude ah, maxaa yeelay latitude-ku cimilada ayuu maamulaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "здатність екосистеми відновлюватися після того, як її пошкодили (resilience)",
+            "довгий період зі значно меншою кількістю дощу, ніж звичайно (drought)",
+            "вирубування і зведення лісу (deforestation)",
+            "зміна, яка відбувається через попередню зміну (knock-on effect)",
+            "екосистема великого масштабу, як-от пустеля або тропічний ліс (biome)",
+            "наскільки далеко на північ або на південь від екватора розташоване місце (latitude)"
+          ],
+          "passage": [
+            "Екосистеми врівноважені, але цю рівновагу можна порушити.",
+            "Це може зробити екстремальна погода.",
+            "У 1976 і 1977 роках засуха в Англії вбила багато дерев.",
+            "У 1987 році великий шторм повалив ще 15 мільйонів.",
+            "Тварини, які живилися з тих дерев, втратили свою їжу, і їхня кількість упала.",
+            "Але виросли нові дерева, і тварини повернулися.",
+            "Таке відновлення називають стійкістю (resilience).",
+            "Люди також можуть порушити рівновагу, вирубуючи ліси.",
+            "Голий ґрунт змиває дощ, тому ліс може ніколи не відновитися.",
+            "Зміна в одному виді поширюється через усю харчову мережу.",
+            "Менше жуків означає менше їжі для дятлів, тому дятлів стає менше.",
+            "Тоді сови і шуліки, які їдять дятлів, теж голодують.",
+            "По всьому світу найбільші екосистеми називають біомами.",
+            "Вони лежать смугами за широтою, бо широта визначає клімат."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "نقصان کے بعد ecosystem کی سنبھلنے کی صلاحیت (resilience)",
+            "ایک لمبا عرصہ جس میں عام سے بہت کم بارش ہو (drought)",
+            "جنگل کو کاٹ کر صاف کر دینا (deforestation)",
+            "وہ تبدیلی جو کسی پہلی تبدیلی کی وجہ سے آئے (knock-on effect)",
+            "بڑے پیمانے کا ecosystem، جیسے صحرا یا برساتی جنگل (biome)",
+            "کوئی جگہ equator سے کتنی شمال یا جنوب میں ہے (latitude)"
+          ],
+          "passage": [
+            "ecosystems میں توازن ہوتا ہے، مگر یہ توازن بگڑ سکتا ہے۔",
+            "سخت موسم ایسا کر سکتا ہے۔",
+            "1976 اور 1977 میں انگلینڈ میں drought نے بہت سے درخت مار دیے۔",
+            "1987 میں ایک بڑے طوفان نے مزید ایک کروڑ پچاس لاکھ درخت گرا دیے۔",
+            "جو جانور ان درختوں سے خوراک لیتے تھے، ان کی خوراک جاتی رہی اور ان کی تعداد گر گئی۔",
+            "مگر نئے درخت اُگے، اور جانور واپس آ گئے۔",
+            "اس سنبھلنے کو resilience کہتے ہیں۔",
+            "لوگ بھی جنگل کاٹ کر توازن بگاڑ سکتے ہیں۔",
+            "نَنگی مٹی بارش سے بہہ جاتی ہے، اس لیے جنگل شاید کبھی واپس نہ آ سکے۔",
+            "ایک نوع میں آنے والی تبدیلی پورے food web میں پھیل جاتی ہے۔",
+            "بھونرے کم ہوں تو کٹھ پھوڑوں (woodpeckers) کے لیے کھانا کم ہو جاتا ہے، اس لیے کٹھ پھوڑے بھی کم ہو جاتے ہیں۔",
+            "پھر وہ اُلّو اور باز بھی بھوکے رہتے ہیں جو کٹھ پھوڑے کھاتے ہیں۔",
+            "ساری دنیا میں سب سے بڑے ecosystems کو biomes کہتے ہیں۔",
+            "یہ latitude کے حساب سے پٹیوں میں پھیلے ہوئے ہیں، کیونکہ latitude ہی climate کو قابو میں رکھتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Natural change: drought and storm",
@@ -521,8 +853,168 @@ window.ASTRA_UNITS["geog-living-world"] = {
           "So the trees have shallow roots and wide buttress roots to hold them up.",
           "Leaves have drip tips so the rain runs off.",
           "Animals are adapted too: the tree frog has suction cups on its toes for climbing."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الخطّ الوهمي الذي يدور حول وسط الأرض (equator)",
+            "الطبقة الكثيفة المورقة التي تصنعها قمم معظم الأشجار (canopy)",
+            "أطول الأشجار، وهي تبرز فوق المظلّة الشجرية (emergent)",
+            "تربة الغابة المطيرة الحمراء، وهي غنيّة بالحديد والألومنيوم (latosol)",
+            "غسل المطر المغذّيات نزولًا من التربة (leaching)",
+            "تنوّع النباتات والحيوانات المختلفة في مكان ما (biodiversity)"
+          ],
+          "passage": [
+            "تنمو الغابات المطيرة المدارية على خطّ الاستواء وقربه.",
+            "وأكبرها في أمريكا الجنوبية وأفريقيا وجنوب شرق آسيا.",
+            "وللغابة أربع طبقات.",
+            "فأطول الأشجار تبرز فوق غيرها: وهذه الطبقة البارزة (emergent).",
+            "وتحتها تتّصل قمم الأشجار فتصنع المظلّة الشجرية (canopy)، وفيها تعيش معظم الحيوانات.",
+            "وتحت المظلّة الطبقة الوسطى، وفيها تتسلّق النباتات طلبًا للضوء.",
+            "وأرض الغابة مظلمة، لأنّ القليل من الضوء هو الذي ينفذ إليها.",
+            "والجوّ حارّ طوال السنة، نحو 27 درجة، والمطر يسقط في كلّ شهر.",
+            "والتربة حمراء عميقة، ولكنّ المطر يغسل خيرها منها.",
+            "والطبقة العليا وحدها، وهي من الأوراق المتعفّنة، هي الغنيّة.",
+            "فللأشجار جذور سطحية وجذور دعامية عريضة تُسندها.",
+            "وللأوراق أطراف مدبّبة تنقّط حتى ينزلق المطر عنها.",
+            "والحيوانات متكيّفة أيضًا: فضفدع الشجر له أقراص لاصقة في أصابعه للتسلّق."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wyobrażona linia wokół środka Ziemi",
+            "gęsta, liściasta warstwa utworzona przez wierzchołki większości drzew (canopy)",
+            "najwyższe drzewa, które wystają nad warstwę koron (emergent)",
+            "czerwona gleba lasu równikowego, bogata w żelazo i glin (latosol)",
+            "deszcz wymywający składniki pokarmowe w głąb gleby (leaching)",
+            "liczba i różnorodność roślin i zwierząt w danym miejscu (biodiversity)"
+          ],
+          "passage": [
+            "Wilgotne lasy równikowe rosną na równiku i blisko niego.",
+            "Największe są w Ameryce Południowej, w Afryce i w Azji Południowo-Wschodniej.",
+            "Las ma cztery warstwy.",
+            "Najwyższe drzewa wystają nad pozostałe: to warstwa emergentów (emergent layer).",
+            "Pod nimi wierzchołki drzew łączą się w warstwę koron (canopy), gdzie żyje większość zwierząt.",
+            "Pod warstwą koron jest podszyt, w którym rośliny pnące sięgają po światło.",
+            "Runo leśne jest ciemne, bo dochodzi tam tylko trochę światła.",
+            "Przez cały rok jest gorąco, około 27 stopni, i w każdym miesiącu pada deszcz.",
+            "Gleba jest czerwona i głęboka, ale deszcz wymywa z niej to, co dobre.",
+            "Bogata jest tylko warstwa na górze, zrobiona z gnijących liści.",
+            "Dlatego drzewa mają płytkie korzenie i szerokie korzenie przyporowe, które je podtrzymują.",
+            "Liście mają ostre końcówki, żeby deszcz z nich spływał.",
+            "Zwierzęta też są przystosowane: żaba drzewna ma na palcach przyssawki do wspinania się."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a linha imaginária em volta do meio da Terra (equator, equador)",
+            "a camada espessa de folhas formada pelas copas de quase todas as árvores (canopy, copado/dossel)",
+            "as árvores mais altas, que se erguem acima do copado (emergent, emergentes)",
+            "o solo vermelho da floresta tropical, rico em ferro e alumínio (latosol, latossolo)",
+            "a chuva a arrastar os nutrientes para fora do solo (leaching, lixiviação)",
+            "a variedade de plantas e animais diferentes num lugar (biodiversity, biodiversidade)"
+          ],
+          "passage": [
+            "As florestas tropicais húmidas/úmidas crescem no equador e perto dele.",
+            "As maiores ficam na América do Sul, na África e no Sudeste Asiático.",
+            "A floresta tem quatro camadas.",
+            "As árvores mais altas erguem-se acima das outras: a camada emergente.",
+            "Abaixo delas, as copas juntam-se e formam o copado/dossel (canopy), onde vive a maior parte dos animais.",
+            "Debaixo do copado está o sub-bosque, onde as plantas trepadeiras procuram a luz.",
+            "O solo da floresta é escuro, porque só passa um pouco de luz.",
+            "É quente todo o ano, cerca de 27 graus, e chove todos os meses.",
+            "O solo é vermelho e fundo, mas a chuva arrasta a riqueza dele para fora.",
+            "Só a camada de cima, feita de folhas em decomposição, é rica.",
+            "Por isso as árvores têm raízes pouco fundas e raízes em contraforte, largas, para as segurar.",
+            "As folhas têm pontas de gotejar, para a chuva escorrer.",
+            "Os animais também estão adaptados: a rã-das-árvores tem ventosas nos dedos para trepar."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xariiqda la male-awaalay ee dhexda Dhulka ku wareegsan",
+            "lakabka caleemo adag ee ay dusha geedaha badankood sameeyaan",
+            "geedaha ugu dhaadheer, oo canopy-ga kor uga soo baxa",
+            "ciidda guduudan ee keynta roobaadka, oo bir iyo aluminium badan leh",
+            "roob nafaqada ciidda hoos uga dhaqaya",
+            "noocyada kala duwan ee dhirta iyo xayawaanka meel ku jira"
+          ],
+          "passage": [
+            "Keymaha roobaadka kulaylaha waxay ku kortaan dhulbaraha iyo agtiisa.",
+            "Kuwa ugu waaweyn waxay ku yaallaan Koonfurta Ameerika, Afrika iyo Koonfur-bari Aasiya.",
+            "Keyntu waxay leedahay afar lakab.",
+            "Geedaha ugu dhaadheer kuwa kale ayay kor uga soo baxaan: lakabka emergent.",
+            "Hoostooda, dusha geedaha way isku biiraan oo waxay sameeyaan canopy-ga, halkaasoo xayawaanka badidood ku nool yahay.",
+            "Canopy-ga hoostiisa waa understorey, halkaasoo dhirta fuusha ay iftiinka u gacan taagto.",
+            "Salka keynta mugdi ayuu yahay, maxaa yeelay iftiin yar ayaa gudbaya.",
+            "Sanadka oo dhan way kulul tahay, qiyaastii 27 darajo, bil kastana roob ayuu da'aa.",
+            "Ciiddu way guduudan tahay oo mool dheer, laakiin roobku nafaqada ayuu ka dhaqaa.",
+            "Lakabka sare oo keliya, oo laga sameeyay caleemo qudhmay, ayaa nafaqo leh.",
+            "Markaa geeduhu waxay leeyihiin xidid gaagaaban iyo xidid ballaaran oo tiirsi ah (buttress roots) oo taageera.",
+            "Caleemuhu waxay leeyihiin af dhibcaha tuuraya (drip tips) si roobku u shubto.",
+            "Xayawaankuna way la qabsadeen: rahha geedaha wuxuu leeyahay koobab nuugis oo faraha ah oo wax lagu fuulo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "уявна лінія навколо середини Землі (equator)",
+            "густий листяний ярус, утворений верхівками більшості дерев (canopy)",
+            "найвищі дерева, які стирчать над наметом (emergent)",
+            "червоний ґрунт тропічного лісу, багатий на залізо й алюміній (latosol)",
+            "дощ вимиває живильні речовини вниз із ґрунту (leaching)",
+            "розмаїття різних рослин і тварин у якомусь місці (biodiversity)"
+          ],
+          "passage": [
+            "Тропічні ліси ростуть на екваторі й біля нього.",
+            "Найбільші з них — у Південній Америці, Африці та Південно-Східній Азії.",
+            "Ліс має чотири яруси.",
+            "Найвищі дерева стирчать над усіма іншими: це ярус emergent.",
+            "Під ними верхівки дерев сходяться й утворюють намет (canopy), де живе більшість тварин.",
+            "Під наметом є підярус, де рослини-ліани тягнуться до світла.",
+            "Лісова підстилка темна, бо туди проходить лише трохи світла.",
+            "Там гаряче цілий рік, близько 27 градусів, і дощ іде щомісяця.",
+            "Ґрунт червоний і глибокий, але дощ вимиває з нього все живильне.",
+            "Багатий лише верхній шар, утворений із гнилого листя.",
+            "Тому дерева мають поверхневе коріння і широке дископодібне коріння, яке їх тримає.",
+            "Листя має краплинні кінчики, щоб дощ стікав.",
+            "Тварини теж пристосовані: деревна жаба має присоски на пальцях, щоб лазити."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کے بیچ میں کھینچی گئی خیالی لکیر (equator)",
+            "زیادہ تر درختوں کی چوٹیوں سے بننے والی گھنی، پتوں والی تہہ (canopy)",
+            "سب سے اونچے درخت، جو canopy سے اوپر نکل آتے ہیں (emergent)",
+            "برساتی جنگل کی سرخ مٹی، جس میں لوہا اور ایلومینیم زیادہ ہوتا ہے (latosol)",
+            "بارش کا مٹی سے غذائی مادے بہا کر نیچے لے جانا (leaching)",
+            "کسی جگہ کے مختلف پودوں اور جانوروں کا دائرہ (biodiversity)"
+          ],
+          "passage": [
+            "برساتی جنگل equator پر اور اس کے قریب اُگتے ہیں۔",
+            "سب سے بڑے جنگل جنوبی امریکہ، افریقہ اور جنوب مشرقی ایشیا میں ہیں۔",
+            "جنگل کی چار تہیں ہوتی ہیں۔",
+            "سب سے اونچے درخت باقی سب سے اوپر نکل آتے ہیں: یہ emergent تہہ ہے۔",
+            "ان کے نیچے درختوں کی چوٹیاں مل کر canopy بناتی ہیں، جہاں زیادہ تر جانور رہتے ہیں۔",
+            "canopy کے نیچے understorey ہے، جہاں بیلیں روشنی کی طرف بڑھتی ہیں۔",
+            "جنگل کا فرش اندھیرا ہوتا ہے، کیونکہ وہاں تھوڑی ہی روشنی پہنچتی ہے۔",
+            "سارا سال گرمی رہتی ہے، تقریباً 27 درجے، اور ہر مہینے بارش ہوتی ہے۔",
+            "مٹی سرخ اور گہری ہے، مگر بارش اس کی طاقت بہا کر لے جاتی ہے۔",
+            "صرف اوپر کی تہہ، جو گلتے ہوئے پتوں سے بنی ہے، زرخیز ہوتی ہے۔",
+            "اس لیے درختوں کی جڑیں کم گہری ہوتی ہیں، اور انھیں سہارا دینے کے لیے چوڑی buttress جڑیں ہوتی ہیں۔",
+            "پتوں پر ٹپکنے والے نوکیلے سرے (drip tips) ہوتے ہیں تاکہ بارش بہہ جائے۔",
+            "جانور بھی ڈھل جاتے ہیں: درختوں والے مینڈک کے پنجوں میں چپکنے والے پیالے ہوتے ہیں، جن سے وہ چڑھتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where the rainforests are, and their four layers",
@@ -736,8 +1228,174 @@ window.ASTRA_UNITS["geog-living-world"] = {
           "Loggers can take only the tall trees and leave the young ones.",
           "Farmers can grow crops under the trees instead of clearing them.",
           "Satellites can watch the forest and catch illegal loggers."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قطع الغابات وإزالتها (deforestation)",
+            "اقتصاد ناشئ حديثًا: بلد يزداد غنًى بسرعة (NEE)",
+            "قطع الأشجار التي بلغت ارتفاعًا معيّنًا وحدها (selective logging)",
+            "زراعة المحاصيل في ظلّ أشجار الغابة (agroforestry)",
+            "غرس الأشجار في المواضع التي قُطعت فيها (afforestation)",
+            "تلبية احتياجاتنا اليوم دون أن نُفسد الأمر على المستقبل (sustainable)"
+          ],
+          "passage": [
+            "ماليزيا بلد في جنوب شرق آسيا.",
+            "وقبل خمسين سنة كان 99 % منها مغطًّى بالغابة المطيرة.",
+            "واليوم النسبة 60 %.",
+            "والغابة تُقطع من أجل الخشب ومزارع زيت النخيل والمناجم والطرق والسدود.",
+            "والأسر الفقيرة تُزيل أيضًا قطعًا صغيرة لتزرع فيها غذاءها.",
+            "ولقطع الغابة آثار محلّية وعالمية.",
+            "فبغير جذور الأشجار يجرف المطر التربة.",
+            "والحيوانات والنباتات تفقد بيوتها، فيقلّ التنوّع الحيوي.",
+            "والأشجار تخزّن الكربون، فحرقها يزيد تغيّر المناخ.",
+            "ولكنّ قطع الخشب والزراعة يجلبان أيضًا أعمالًا ومالًا لبلد ينمو.",
+            "والإدارة المستدامة تحاول أن تستخدم الغابة دون أن تدمّرها.",
+            "فقاطعو الخشب يستطيعون أن يأخذوا الأشجار الطويلة وحدها ويتركوا الصغيرة.",
+            "والمزارعون يستطيعون أن يزرعوا محاصيلهم تحت الأشجار بدلًا من إزالتها.",
+            "والأقمار الصناعية تستطيع أن تراقب الغابة وأن تضبط قاطعي الخشب المخالفين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wycinanie i usuwanie lasów (deforestation)",
+            "nowa, wschodząca gospodarka, czyli kraj szybko się bogacący (NEE)",
+            "wycinanie tylko tych drzew, które osiągnęły określoną wysokość (selective logging)",
+            "uprawianie roślin w cieniu drzew leśnych (agroforestry)",
+            "sadzenie drzew tam, gdzie zostały wycięte (afforestation)",
+            "zaspokajanie naszych dzisiejszych potrzeb bez psucia tego, co będzie potrzebne w przyszłości (sustainable)"
+          ],
+          "passage": [
+            "Malezja to kraj w Azji Południowo-Wschodniej.",
+            "Pięćdziesiąt lat temu 99 % jej powierzchni pokrywał las równikowy.",
+            "Dziś jest to 60 %.",
+            "Las wycina się po drewno, pod plantacje oleju palmowego, pod kopalnie, drogi i zapory.",
+            "Biedne rodziny też wycinają małe poletka, żeby uprawiać jedzenie.",
+            "Wycinanie lasu ma skutki miejscowe i światowe.",
+            "Bez korzeni drzew deszcz zmywa glebę.",
+            "Zwierzęta i rośliny tracą swoje domy, więc różnorodność biologiczna spada.",
+            "Drzewa magazynują węgiel, więc ich spalanie pogłębia zmianę klimatu.",
+            "Ale wycinka i rolnictwo dają też pracę i pieniądze rozwijającemu się krajowi.",
+            "Gospodarka zrównoważona próbuje korzystać z lasu, nie niszcząc go.",
+            "Drwale mogą brać tylko wysokie drzewa i zostawiać młode.",
+            "Rolnicy mogą uprawiać rośliny pod drzewami, zamiast wycinać las.",
+            "Satelity mogą obserwować las i wyłapywać nielegalnych drwali."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "cortar e limpar florestas (deforestation, desflorestação/desmatamento)",
+            "uma economia emergente: um país que está a enriquecer / enriquecendo depressa (NEE)",
+            "cortar só as árvores que já atingiram uma certa altura (selective logging, corte seletivo)",
+            "cultivar plantas à sombra das árvores da floresta (agroforestry, agrofloresta)",
+            "plantar árvores onde elas foram cortadas (afforestation, florestação/reflorestamento)",
+            "responder às nossas necessidades agora sem estragar as coisas para o futuro (sustainable, sustentável)"
+          ],
+          "passage": [
+            "A Malásia é um país do Sudeste Asiático.",
+            "Há cinquenta anos, 99 % do país estava coberto de floresta tropical.",
+            "Hoje são 60 %.",
+            "A floresta é cortada para madeira, para plantações de óleo de palma, para minas e para estradas e barragens/represas.",
+            "Há famílias pobres que também limpam pequenos terrenos para cultivar comida.",
+            "Cortar a floresta tem efeitos locais e globais.",
+            "Sem as raízes das árvores, a chuva arrasta o solo.",
+            "Os animais e as plantas perdem as suas casas, por isso a biodiversidade diminui.",
+            "As árvores guardam carbono, por isso queimá-las agrava as mudanças climáticas.",
+            "Mas o corte de madeira e a agricultura também trazem empregos e dinheiro a um país em crescimento.",
+            "A gestão sustentável tenta usar a floresta sem a destruir.",
+            "Quem corta madeira pode levar só as árvores altas e deixar as novas.",
+            "Os agricultores podem cultivar debaixo das árvores em vez de as cortar.",
+            "Os satélites podem vigiar a floresta e apanhar quem corta madeira ilegalmente."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "jaridda iyo baabi'inta keymaha",
+            "dhaqaale cusub oo soo koraya: dal si dhaqso ah u sii hodmaya",
+            "jaridda geedaha kaliya ee sarajoog gaar ah gaaray",
+            "beeridda dalagga hoosta hooska geedaha keynta",
+            "beeridda geedo meelaha laga jaray",
+            "buuxinta baahiyaheenna hadda iyadoon mustaqbalka la xumeyn"
+          ],
+          "passage": [
+            "Malaysia waa dal ku yaal Koonfur-bari Aasiya.",
+            "Konton sano ka hor, 99 % dalka waxaa qariyay keyn roobaad.",
+            "Maanta waa 60 %.",
+            "Keyntu waxaa loo jaraa alwaax, beero saliidda palm, macdan-qodis, waddooyin iyo biyo-xireeno.",
+            "Qoysaska faqiirka ah sidoo kale waxay goosyo yaryar ka bannaysiiyaan si cunto u beeraan.",
+            "Jaridda keyntu waxay saameyn maxalli iyo caalami leedahay.",
+            "Xididdada geedaha la'aantii, roobku ciidda wuu la tagaa.",
+            "Xayawaanka iyo dhirtu hoygooda way lumiyaan, markaa biodiversity-gu wuu hoos u dhacaa.",
+            "Geeduhu kaarboon ayay kaydiyaan, markaa gubiddoodu isbeddelka cimilada ayay kordhisaa.",
+            "Laakiin geed-jaridda iyo beeridda sidoo kale waxay shaqo iyo lacag u keenaan dal soo koraya.",
+            "Maaraynta sustainable waxay isku daydaa inay keynta isticmaasho iyadoon burburin.",
+            "Kuwa geedaha jaraa waxay qaadan karaan geedaha dhaadheer oo keliya oo kuwa yaryar way ka tagi karaan.",
+            "Beeraleydu waxay dalag ka beeri karaan geedaha hoostooda halkii ay bannaysiin lahaayeen.",
+            "Dayax-gacmeedyadu waxay keynta ilaalin karaan oo qabqabtaan kuwa sharci-darro geedaha jaraya."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вирубування і зведення лісів (deforestation)",
+            "нова економіка, що виникає: країна, яка швидко багатіє (NEE)",
+            "вирубування лише тих дерев, які досягли певної висоти (selective logging)",
+            "вирощування культур у затінку лісових дерев (agroforestry)",
+            "висаджування дерев там, де їх вирубали (afforestation)",
+            "задоволення наших потреб тепер так, щоб не зіпсувати все для майбутнього (sustainable)"
+          ],
+          "passage": [
+            "Малайзія — країна в Південно-Східній Азії.",
+            "П’ятдесят років тому 99 % її вкривав тропічний ліс.",
+            "Сьогодні це 60 %.",
+            "Ліс вирубують для деревини, для плантацій олійної палми, для копалень, для доріг і гребель.",
+            "Бідні родини також зводять невеликі ділянки, щоб вирощувати їжу.",
+            "Вирубування лісу має місцеві і світові наслідки.",
+            "Без коріння дерев дощ змиває ґрунт.",
+            "Тварини й рослини втрачають свої домівки, тому біорозмаїття падає.",
+            "Дерева зберігають вуглець, тому їхнє спалювання додає до зміни клімату.",
+            "Але лісозаготівля і господарство також дають роботу й гроші країні, що зростає.",
+            "Стале господарювання намагається використовувати ліс, не знищуючи його.",
+            "Лісоруби можуть брати лише високі дерева й лишати молоді.",
+            "Фермери можуть вирощувати культури під деревами, а не зводити їх.",
+            "Супутники можуть спостерігати за лісом і ловити незаконних лісорубів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جنگلوں کو کاٹ کر صاف کر دینا (deforestation)",
+            "نئی ابھرتی ہوئی معیشت: وہ ملک جو تیزی سے امیر ہو رہا ہے (NEE)",
+            "صرف اُن درختوں کو کاٹنا جو ایک خاص اونچائی تک پہنچ چکے ہوں (selective logging)",
+            "جنگل کے درختوں کے سائے میں فصلیں اگانا (agroforestry)",
+            "جہاں درخت کاٹے گئے ہوں وہاں نئے درخت لگانا (afforestation)",
+            "آج اپنی ضرورتیں پوری کرنا مگر آنے والے وقت کے لیے چیزیں خراب نہ کرنا (sustainable)"
+          ],
+          "passage": [
+            "ملائیشیا جنوب مشرقی ایشیا کا ایک ملک ہے۔",
+            "پچاس سال پہلے اس کا 99 % حصہ برساتی جنگل سے ڈھکا ہوا تھا۔",
+            "آج یہ 60 % ہے۔",
+            "جنگل لکڑی کے لیے، پام آئل کے کھیتوں کے لیے، کانوں کے لیے اور سڑکوں اور بندوں کے لیے کاٹا جاتا ہے۔",
+            "غریب گھرانے بھی خوراک اگانے کے لیے چھوٹے ٹکڑے صاف کرتے ہیں۔",
+            "جنگل کاٹنے کے مقامی اور عالمی اثر ہوتے ہیں۔",
+            "درختوں کی جڑوں کے بغیر بارش مٹی بہا کر لے جاتی ہے۔",
+            "جانور اور پودے اپنے گھر کھو دیتے ہیں، اس لیے biodiversity گر جاتی ہے۔",
+            "درخت کاربن اپنے اندر رکھتے ہیں، اس لیے انھیں جلانا climate change کو بڑھاتا ہے۔",
+            "مگر لکڑی کاٹنے اور کھیتی سے بڑھتے ہوئے ملک میں روزگار اور پیسہ بھی آتا ہے۔",
+            "sustainable management یہ کوشش کرتی ہے کہ جنگل استعمال ہو مگر تباہ نہ ہو۔",
+            "لکڑی کاٹنے والے صرف اونچے درخت لے سکتے ہیں اور چھوٹے چھوڑ سکتے ہیں۔",
+            "کسان درختوں کو صاف کرنے کے بجائے ان کے نیچے فصلیں اگا سکتے ہیں۔",
+            "سیارچے (satellites) جنگل پر نظر رکھ سکتے ہیں اور غیر قانونی کٹائی کرنے والوں کو پکڑ سکتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Malaysia: a rainforest country",
@@ -954,8 +1612,168 @@ window.ASTRA_UNITS["geog-living-world"] = {
           "The fennec fox has big ears to lose heat.",
           "Many desert animals come out only at night.",
           "Desert wildlife is under threat from farming, water use and climate change."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جافّ جدًّا، مطره قليل أو معدوم (arid)",
+            "هواء هابط يعطي سماءً صافية ولا مطر (high pressure)",
+            "نبات يخزّن الماء في أوراق أو سوق سميكة لحميّة (succulent)",
+            "يوجد طبيعيًّا في مكان واحد ولا يوجد في غيره (endemic)",
+            "تنوّع النباتات والحيوانات التي تعيش في مكان ما (biodiversity)",
+            "نشيط في الليل (nocturnal)"
+          ],
+          "passage": [
+            "الصحراء الحارّة مكان حرارته متطرّفة وجفافه متطرّف.",
+            "ويسقط عليها أقلّ من 250 مم من المطر في السنة، والمطر غير موثوق.",
+            "وقد تبلغ حرارة النهار 50 درجة، ولكنّ الليل قد يهبط إلى ما تحت التجمّد.",
+            "ومعظم الصحاري الحارّة يقع نحو 30 درجة شمال خطّ الاستواء وجنوبه.",
+            "فالهواء الذي ارتفع عند خطّ الاستواء يهبط هناك، فتبقى السماء صافية جافّة.",
+            "والصحراء الكبرى في شمال أفريقيا أكبر صحراء حارّة.",
+            "وتربة الصحراء رملية أو حجرية، وخيرها قليل.",
+            "ومع ذلك تعيش فيها نباتات وحيوانات.",
+            "فالصبّار يخزّن الماء في ساقه السميكة وله أشواك بدلًا من الأوراق.",
+            "وللجمل أقدام عريضة للرمل وسَنام من الشحم للطاقة.",
+            "ولثعلب الفَنَك أذنان كبيرتان ليفقد بهما الحرارة.",
+            "وكثير من حيوانات الصحراء لا يخرج إلّا ليلًا.",
+            "والحياة الفطرية في الصحراء مهدّدة بالزراعة واستخدام الماء وتغيّر المناخ."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "bardzo suchy, z niewielkim deszczem albo zupełnie bez deszczu (arid)",
+            "opadające powietrze, które daje czyste niebo i brak deszczu (high pressure)",
+            "roślina, która magazynuje wodę w grubych, mięsistych liściach albo pędach (succulent)",
+            "występujący naturalnie w jednym miejscu i nigdzie więcej (endemic)",
+            "liczba i różnorodność roślin i zwierząt żyjących w danym miejscu (biodiversity)",
+            "aktywny nocą (nocturnal)"
+          ],
+          "passage": [
+            "Gorąca pustynia to miejsce skrajnego upału i skrajnej suszy.",
+            "Spada tam mniej niż 250 mm deszczu na rok, a deszcz jest niepewny.",
+            "W dzień może być 50 stopni, ale w nocy temperatura może spaść poniżej zera.",
+            "Większość gorących pustyń leży około 30 stopni na północ i na południe od równika.",
+            "Powietrze, które uniosło się nad równikiem, opada tam, więc niebo pozostaje czyste i suche.",
+            "Sahara w Afryce Północnej jest największą gorącą pustynią.",
+            "Gleba pustynna jest piaszczysta albo kamienista i ma w sobie mało dobrych składników.",
+            "A jednak żyją tam rośliny i zwierzęta.",
+            "Kaktus magazynuje wodę w grubym pędzie i ma kolce zamiast liści.",
+            "Wielbłąd ma szerokie stopy do chodzenia po piasku i tłuszczowy garb jako zapas energii.",
+            "Fenek ma wielkie uszy, żeby oddawać ciepło.",
+            "Wiele zwierząt pustynnych wychodzi tylko nocą.",
+            "Dzikiej przyrodzie pustyni zagrażają rolnictwo, zużycie wody i zmiana klimatu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "muito seco, com pouca chuva ou nenhuma (arid, árido)",
+            "ar que desce e dá céu limpo e nenhuma chuva (high pressure, alta pressão)",
+            "uma planta que guarda água em folhas ou caules grossos e carnudos (succulent, suculenta)",
+            "que se encontra naturalmente num só lugar e em nenhum outro (endemic, endémico/endêmico)",
+            "a variedade de plantas e animais que vivem num lugar (biodiversity, biodiversidade)",
+            "ativo de noite (nocturnal, noturno)"
+          ],
+          "passage": [
+            "Um deserto quente é um lugar de calor extremo e secura extrema.",
+            "Recebe menos de 250 mm de chuva por ano, e a chuva não é de confiança.",
+            "Os dias podem chegar aos 50 graus, mas as noites podem descer abaixo de zero.",
+            "Quase todos os desertos quentes ficam a cerca de 30 graus a norte e a sul do equador.",
+            "O ar que subiu no equador desce ali, por isso os céus ficam limpos e secos.",
+            "O Saara, no Norte de África, é o maior deserto quente.",
+            "O solo do deserto é arenoso ou pedregoso, com pouca riqueza.",
+            "Mesmo assim, há plantas e animais a viver lá.",
+            "Um cato/cacto guarda água no seu caule grosso e tem espinhos em vez de folhas.",
+            "Um camelo tem pés largos para a areia e uma bossa de gordura para dar energia.",
+            "O feneco tem orelhas grandes para perder calor.",
+            "Muitos animais do deserto só saem de noite.",
+            "A vida selvagem do deserto está ameaçada pela agricultura, pelo uso da água e pelas mudanças climáticas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "aad u qalalan, oo roob yar ama aan roob lahayn",
+            "hawo hoos u degaysa oo siisa cir caddaan iyo roob la'aan",
+            "dhir biyo kaydisa caleemo ama laamo buuran",
+            "si dabiici ah hal meel laga helo oo meel kale aan laga helin",
+            "noocyada kala duwan ee dhirta iyo xayawaanka meel ku nool",
+            "habeenkii firfircoon"
+          ],
+          "passage": [
+            "Saxaraha kulul waa meel kulayl daran iyo qallayl daran leh.",
+            "Wuxuu helaa roob ka yar 250 mm sanadkii, roobkuna lagu kalsoonaan maayo.",
+            "Maalmuhu waxay gaari karaan 50 darajo, laakiin habeenkii waxay ka hooseyn kartaa barafowga.",
+            "Inta badan saxarooyinka kulul waxay ku yaallaan qiyaastii 30 darajo waqooyi iyo koonfur ka xigta dhulbaraha.",
+            "Hawadii dhulbaraha ka kacday halkaas ayay hoos u degtaa, markaa cirku caddaan iyo qallalan ayuu sii ahaadaa.",
+            "Sahara ee waqooyiga Afrika waa saxaraha kulul ee ugu weyn.",
+            "Ciidda saxaraha waa ciid ama dhagax, nafaqo yarna way leedahay.",
+            "Hase yeeshee, dhir iyo xayawaan halkaas ayay ku nool yihiin.",
+            "Cactus-ku biyo wuxuu ku kaydiyaa laantiisa buuran, caleemo beddelkiina wuxuu leeyahay qodxo.",
+            "Geeli wuxuu leeyahay cago ballaaran oo ciidda ku habboon iyo kurus baruur ah oo tamar u ah.",
+            "Dawacada fennec waxay leedahay dhego waaweyn oo kulayl ka sii daaya.",
+            "Xayawaanno saxare badan waxay habeenkii oo keliya soo baxaan.",
+            "Duurjoogta saxaraha waxay khatar ugu jirtaa beeridda, isticmaalka biyaha iyo isbeddelka cimilada."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "дуже сухий, з малою кількістю дощу або зовсім без нього (arid)",
+            "повітря, що опускається і дає чисте небо без дощу (high pressure)",
+            "рослина, яка зберігає воду в товстому м’якому листі або стеблах (succulent)",
+            "той, що природно живе лише в одному місці й більше ніде (endemic)",
+            "розмаїття рослин і тварин, які живуть у якомусь місці (biodiversity)",
+            "активний уночі (nocturnal)"
+          ],
+          "passage": [
+            "Гаряча пустеля — це місце надзвичайної спеки і надзвичайної сухості.",
+            "Там випадає менше ніж 250 mm дощу на рік, і цей дощ ненадійний.",
+            "Дні можуть досягати 50 градусів, а ночі можуть падати нижче нуля.",
+            "Більшість гарячих пустель лежить близько 30 градусів на північ і на південь від екватора.",
+            "Повітря, що піднялося на екваторі, опускається там, тому небо залишається чистим і сухим.",
+            "Сахара в Північній Африці — найбільша гаряча пустеля.",
+            "Ґрунт пустелі піщаний або кам’янистий, із малою кількістю живильних речовин.",
+            "І все одно рослини й тварини там живуть.",
+            "Кактус зберігає воду у своєму товстому стеблі й має колючки замість листя.",
+            "Верблюд має широкі ступні для піску і жировий горб як запас енергії.",
+            "Лисиця фенек має великі вуха, щоб віддавати тепло.",
+            "Багато пустельних тварин виходять лише вночі.",
+            "Дика природа пустелі під загрозою через господарство, використання води і зміну клімату."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بہت خشک، جہاں بارش بہت کم یا بالکل نہ ہو (arid)",
+            "نیچے بیٹھتی ہوئی ہوا جو صاف آسمان دیتی ہے اور بارش نہیں (high pressure)",
+            "وہ پودا جو موٹے، گودے دار پتوں یا تنوں میں پانی جمع رکھتا ہے (succulent)",
+            "جو قدرتی طور پر صرف ایک جگہ پایا جائے اور کہیں نہیں (endemic)",
+            "کسی جگہ رہنے والے پودوں اور جانوروں کا دائرہ (biodiversity)",
+            "رات کو متحرک رہنے والا (nocturnal)"
+          ],
+          "passage": [
+            "گرم صحرا سخت گرمی اور سخت خشکی کی جگہ ہے۔",
+            "وہاں سال میں 250 mm سے کم بارش ہوتی ہے، اور بارش کا کوئی بھروسہ نہیں۔",
+            "دن میں درجۂ حرارت 50 درجے تک پہنچ سکتا ہے، مگر راتوں کو نقطۂ انجماد سے نیچے گر سکتا ہے۔",
+            "زیادہ تر گرم صحرا equator سے تقریباً 30 درجے شمال اور جنوب میں ہیں۔",
+            "جو ہوا equator پر اوپر اٹھی تھی، وہ وہاں نیچے بیٹھتی ہے، اس لیے آسمان صاف اور خشک رہتا ہے۔",
+            "شمالی افریقہ کا صحارا سب سے بڑا گرم صحرا ہے۔",
+            "صحرا کی مٹی ریتلی یا پتھریلی ہوتی ہے، جس میں طاقت بہت کم ہوتی ہے۔",
+            "پھر بھی وہاں پودے اور جانور رہتے ہیں۔",
+            "cactus اپنے موٹے تنے میں پانی جمع رکھتا ہے اور اس کے پتوں کی جگہ کانٹے ہوتے ہیں۔",
+            "اونٹ کے پاؤں ریت کے لیے چوڑے ہوتے ہیں اور کوہان میں توانائی کے لیے چربی ہوتی ہے۔",
+            "fennec لومڑی کے کان بڑے ہوتے ہیں تاکہ حرارت نکل جائے۔",
+            "صحرا کے بہت سے جانور صرف رات کو باہر نکلتے ہیں۔",
+            "صحرا کی جنگلی حیات کو کھیتی، پانی کے استعمال اور climate change سے خطرہ ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where hot deserts are, and why",
@@ -1173,8 +1991,174 @@ window.ASTRA_UNITS["geog-living-world"] = {
           "The rains become less reliable too.",
           "Simple ideas can help: low walls that trap soil and water, and ponds that store the rain.",
           "These are called appropriate technology, because local people can build and mend them."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مخزن ماء جوفي في الصخر (aquifer)",
+            "الطرق والأنابيب وخطوط الكهرباء وغيرها من الخدمات الأساسية (infrastructure)",
+            "صعب الوصول إليه (inaccessible)",
+            "انتشار أحوال شبيهة بالصحراء في الأرض على حافّة الصحراء (desertification)",
+            "إبقاء حيوانات أكثر من طاقة الأرض، فلا يستطيع النبات أن ينمو من جديد (overgrazing)",
+            "تراكم الملح في التربة، فتصير غير خصبة (salinisation)"
+          ],
+          "passage": [
+            "الصحراء الكبرى ليست خالية.",
+            "فتحت الرمل مخازن ماء ضخمة تُسمّى الخزّانات الجوفية (aquifers).",
+            "وفيها معادن ونفط وغاز وشمس قويّة.",
+            "ومحاصيل كالذُّرة الرفيعة تستطيع أن تنمو، والأشجار تستطيع أن تُظلّ الحقول.",
+            "ولكنّ تعمير الصحراء صعب.",
+            "فهي حارّة جافّة نائية، وطرقها قليلة.",
+            "وتوصيل الماء يكلّف كثيرًا، والملح يتراكم في التربة المسقيّة.",
+            "والناس الذين ينتقلون مع قطعانهم يعيشون فيها أصلًا.",
+            "وعلى حافّة الصحراء تتحوّل الأرض إلى غبار.",
+            "ويُسمّى هذا التصحّر (desertification).",
+            "فكثرة الحيوانات وكثرة المحاصيل وقلّة الأشجار تُنهك التربة.",
+            "والأمطار تصير أقلّ موثوقية أيضًا.",
+            "وأفكار بسيطة قد تساعد: جُدُر منخفضة تحتجز التربة والماء، وبِرَك تخزّن المطر.",
+            "وتُسمّى هذه التقنية الملائمة، لأنّ أهل المكان يستطيعون بناءها وإصلاحها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "podziemny zbiornik wody w skale (aquifer)",
+            "drogi, rury, linie energetyczne i inne podstawowe usługi (infrastructure)",
+            "trudny do osiągnięcia",
+            "rozszerzanie się warunków pustynnych na ziemię na skraju pustyni (desertification)",
+            "trzymanie na ziemi zbyt wielu zwierząt, tak że rośliny nie mogą odrosnąć (overgrazing)",
+            "gromadzenie się soli w glebie, które czyni ją nieurodzajną (salinisation)"
+          ],
+          "passage": [
+            "Sahara nie jest pusta.",
+            "Pod piaskiem leżą ogromne zbiorniki wody zwane warstwami wodonośnymi (aquifers).",
+            "Są tam minerały, ropa i gaz oraz mocne słońce.",
+            "Mogą rosnąć rośliny takie jak sorgo, a drzewa mogą dawać cień polom.",
+            "Ale rozwijanie pustyni jest trudne.",
+            "Jest gorąco, sucho i daleko od wszystkiego, a dróg jest niewiele.",
+            "Dostarczanie wody dużo kosztuje, a w nawadnianej glebie gromadzi się sól.",
+            "Żyją tam już ludzie, którzy wędrują ze swoimi stadami.",
+            "Na skraju pustyni ziemia zamienia się w pył.",
+            "Nazywamy to pustynnieniem (desertification).",
+            "Za dużo zwierząt, za dużo uprawianych roślin i za mało drzew wyjaławia glebę.",
+            "Deszcze stają się też mniej pewne.",
+            "Mogą pomóc proste pomysły: niskie murki, które zatrzymują glebę i wodę, oraz zbiorniki, które gromadzą deszcz.",
+            "Nazywamy je technologią odpowiednią (appropriate technology), bo miejscowi ludzie mogą je sami zbudować i naprawić."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma reserva de água subterrânea guardada na rocha (aquifer, aquífero)",
+            "estradas, canalizações, linhas elétricas e outros serviços básicos (infrastructure, infraestrutura)",
+            "difícil de alcançar (inaccessible, inacessível)",
+            "o alastrar de condições de deserto para as terras da beira do deserto (desertification, desertificação)",
+            "ter demasiados animais na terra, de modo que as plantas não conseguem voltar a crescer (overgrazing, sobrepastoreio)",
+            "uma acumulação de sal no solo, que o deixa infértil (salinisation, salinização)"
+          ],
+          "passage": [
+            "O Saara não está vazio.",
+            "Debaixo da areia há enormes reservas de água chamadas aquíferos.",
+            "Há minerais, petróleo e gás, e sol forte.",
+            "Podem crescer culturas como o sorgo, e as árvores podem dar sombra aos campos.",
+            "Mas desenvolver o deserto é difícil.",
+            "É quente, seco e remoto, com poucas estradas.",
+            "A água custa muito a levar até lá, e o sal acumula-se no solo regado.",
+            "Já vivem lá pessoas que se deslocam com os seus rebanhos.",
+            "Na beira do deserto, a terra está a transformar-se / transformando-se em pó.",
+            "A isto chama-se desertificação (desertification).",
+            "Demasiados animais, demasiadas culturas e árvores a menos gastam o solo.",
+            "As chuvas também passam a ser menos de confiança.",
+            "Ideias simples podem ajudar: muros baixos que retêm o solo e a água, e tanques que guardam a chuva.",
+            "A isto chama-se tecnologia apropriada, porque as pessoas locais conseguem construí-la e arranjá-la."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "kayd biyo dhulka hoostiisa ku jira oo dhagaxa ku jira",
+            "waddooyin, tuubooyin, xadhkaha korontada iyo adeegyo kale oo aasaasi ah",
+            "gaadhid adag",
+            "fiditaanka xaalad saxare u eg oo gasha dhulka cidhifka saxaraha",
+            "in xoolo aad u badan dhulka lagu hayo, markaa dhirtu dib ma soo bixi karto",
+            "cusbo oo ciidda ku urursanta, taasoo ka dhigta mid aan nafaqo lahayn"
+          ],
+          "passage": [
+            "Sahara ma aha meel bannaan.",
+            "Ciidda hoosteeda waxaa yaalla kayd biyo aad u weyn oo la yiraahdo aquifers.",
+            "Waxaa jira macdan, saliid iyo gaas, iyo qorrax xoog leh.",
+            "Dalag sida hadhuudhka wuu bixi karaa, geedana beeraha way hooseyn karaan.",
+            "Laakiin horumarinta saxaraha way adag tahay.",
+            "Way kulul tahay, way qalalan tahay, way fog tahay, waddooyin yarna way leedahay.",
+            "Biyaha lacag badan ayay ku baxdaa in la keeno, cusbana waxay ku urursantaa ciidda la waraabiyay.",
+            "Dad xoolahooda la guuraa durba halkaas ayay ku nool yihiin.",
+            "Cidhifka saxaraha, dhulku boodh ayuu noqonayaa.",
+            "Tan waxaa la yiraahdaa desertification.",
+            "Xoolo aad u badan, dalag aad u badan iyo geedo aad u yar waxay ciidda daaliyaan.",
+            "Roobkuna wuu noqday mid aan lagu kalsoonaan karin.",
+            "Fikrado fudud way caawin karaan: derbiyo hooseeya oo ciid iyo biyo xanniba, iyo ballisyo roobka kaydiya.",
+            "Kuwan waxaa loo yiraahdaa appropriate technology, maxaa yeelay dadka maxalliga ah way dhisi karaan oo way hagaajin karaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "підземний запас води в породі (aquifer)",
+            "дороги, труби, лінії електропередач та інші основні послуги (infrastructure)",
+            "важкодоступний (inaccessible)",
+            "поширення пустельних умов на землю на краю пустелі (desertification)",
+            "утримання надто багатьох тварин на землі, так що рослини не можуть відрости (overgrazing)",
+            "накопичення солі в ґрунті, через яке він стає неродючим (salinisation)"
+          ],
+          "passage": [
+            "Сахара не порожня.",
+            "Під піском лежать величезні запаси води, які називають водоносними горизонтами (aquifers).",
+            "Там є мінерали, нафта і газ, а також сильне сонце.",
+            "Можуть рости такі культури, як сорго, а дерева можуть затінювати поля.",
+            "Але освоювати пустелю важко.",
+            "Там гаряче, сухо й віддалено, і мало доріг.",
+            "Постачання води коштує багато, а в поливаному ґрунті накопичується сіль.",
+            "Там уже живуть люди, які переходять зі своїми стадами.",
+            "На краю пустелі земля перетворюється на пил.",
+            "Це називають опустелюванням (desertification).",
+            "Надто багато тварин, надто багато культур і надто мало дерев виснажують ґрунт.",
+            "Дощі теж стають менш надійними.",
+            "Можуть допомогти прості задуми: низькі стінки, що затримують ґрунт і воду, і ставки, що зберігають дощ.",
+            "Це називають доступною технологією, бо місцеві люди можуть будувати і ремонтувати її самі."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "چٹان کے اندر زمین کے نیچے پانی کا ذخیرہ (aquifer)",
+            "سڑکیں، پائپ، بجلی کی تاریں اور دوسری بنیادی سہولتیں (infrastructure)",
+            "جہاں پہنچنا مشکل ہو (inaccessible)",
+            "صحرا کے کنارے کی زمین میں صحرا جیسے حالات کا پھیلنا (desertification)",
+            "زمین پر اتنے زیادہ جانور رکھنا کہ پودے دوبارہ اُگ نہ سکیں (overgrazing)",
+            "مٹی میں نمک کا جمع ہو جانا، جس سے وہ بانجھ ہو جاتی ہے (salinisation)"
+          ],
+          "passage": [
+            "صحارا خالی نہیں ہے۔",
+            "ریت کے نیچے پانی کے بہت بڑے ذخیرے ہیں، جنھیں aquifers کہتے ہیں۔",
+            "وہاں معدنیات، تیل اور گیس، اور تیز دھوپ ہے۔",
+            "جوار جیسی فصلیں اُگ سکتی ہیں، اور درخت کھیتوں کو سایہ دے سکتے ہیں۔",
+            "مگر صحرا کو ترقی دینا مشکل ہے۔",
+            "یہ گرم، خشک اور دور دراز ہے، اور سڑکیں بہت کم ہیں۔",
+            "پانی پہنچانے پر بہت خرچ آتا ہے، اور سیراب کی ہوئی مٹی میں نمک جمع ہو جاتا ہے۔",
+            "وہاں پہلے سے وہ لوگ رہتے ہیں جو اپنے مال مویشی کے ساتھ جگہ بدلتے رہتے ہیں۔",
+            "صحرا کے کنارے پر زمین خاک ہوتی جا رہی ہے۔",
+            "اسے desertification کہتے ہیں۔",
+            "بہت زیادہ جانور، بہت زیادہ فصلیں اور بہت کم درخت مٹی کو تھکا دیتے ہیں۔",
+            "بارشوں کا بھروسہ بھی کم ہو جاتا ہے۔",
+            "سادہ ترکیبیں مدد دے سکتی ہیں: نیچی دیواریں جو مٹی اور پانی روک لیں، اور تالاب جو بارش جمع کر لیں۔",
+            "انھیں appropriate technology کہتے ہیں، کیونکہ مقامی لوگ انھیں خود بنا اور مرمت کر سکتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Opportunities: what the Sahara offers",

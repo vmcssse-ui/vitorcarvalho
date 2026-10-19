@@ -93,8 +93,162 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
           "People later called it the Anarchy.",
           "In 1154 Matilda's son, Henry II, was crowned king.",
           "He was the first king of a new royal house: the Plantagenets."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ملك أو ملكة يحكم بلدًا (monarch)",
+            "أسرة حاكمة (royal house)",
+            "الشخص الذي سيأخذ العرش بعد الملك (heir)",
+            "حرب بين أهل البلد الواحد (civil war)",
+            "الاسم الذي أُطلق بعد حين على الحرب الأهلية بين ستيفن وماتيلدا (the Anarchy)"
+          ],
+          "passage": [
+            "في 1066 فتح النورمان إنجلترا.",
+            "وتُوِّج وليام الفاتح (William the Conqueror) ملكًا.",
+            "فبنى القلاع واستخدم الترويع وصنع كتاب يوم الحساب ليُحكم سيطرته.",
+            "ومات وليام في 1087.",
+            "فصار ابنه وليام الثاني (William II) ملكًا، ثم ابن آخر هو هنري الأوّل (Henry I) في 1100.",
+            "وفي 1120 غرقت سفينة تُسمّى السفينة البيضاء (the White Ship).",
+            "فغرق ابن هنري الأوّل الوحيد، فلم يكن لهنري وارث.",
+            "وأراد هنري أن تحكم ابنته ماتيلدا (Matilda) بعده.",
+            "ولكن لمّا مات هنري في 1135 أخذ العرش ابن أخيه ستيفن (Stephen).",
+            "فخاض ستيفن وماتيلدا حربًا أهلية طويلة.",
+            "وسمّاها الناس بعد حين الفوضى (the Anarchy).",
+            "وفي 1154 تُوِّج ابن ماتيلدا، هنري الثاني (Henry II)، ملكًا.",
+            "وكان أوّل ملك من أسرة حاكمة جديدة: البلانتاجانيت (Plantagenets)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "król albo królowa, który rządzi krajem",
+            "rodzina panująca (royal house)",
+            "osoba, która następnie obejmie tron (heir)",
+            "wojna między ludźmi z tego samego kraju (civil war)",
+            "nazwa nadana później wojnie domowej między Stephenem i Matyldą (the Anarchy)"
+          ],
+          "passage": [
+            "W 1066 roku Normanowie podbili Anglię.",
+            "William Zdobywca (William the Conqueror) został ukoronowany na króla.",
+            "Budował zamki, używał terroru i kazał sporządzić Domesday Book, żeby utrzymać władzę.",
+            "William umarł w 1087 roku.",
+            "Jego syn William II został królem, a potem w 1100 roku inny syn, Henry I (Henryk I).",
+            "W 1120 roku zatonął statek zwany White Ship.",
+            "Jedyny syn Henry'ego I utonął, więc Henry nie miał następcy.",
+            "Henry chciał, żeby po nim rządziła jego córka Matilda (Matylda).",
+            "Ale kiedy Henry umarł w 1135 roku, tron zajął jego bratanek Stephen (Stefan).",
+            "Stephen i Matilda prowadzili długą wojnę domową.",
+            "Ludzie nazwali ją później Anarchią.",
+            "W 1154 roku syn Matildy, Henry II (Henryk II), został ukoronowany na króla.",
+            "Był pierwszym królem z nowej rodziny panującej: Plantagenetów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um rei ou uma rainha que governa um país (monarch, monarca)",
+            "uma família que governa (royal house, casa real)",
+            "a pessoa que vai ocupar o trono a seguir (heir, herdeiro)",
+            "uma guerra entre pessoas do mesmo país (civil war, guerra civil)",
+            "o nome dado mais tarde à guerra civil entre Stephen e Matilda (the Anarchy, a Anarquia)"
+          ],
+          "passage": [
+            "Em 1066 os normandos conquistaram a Inglaterra.",
+            "William the Conqueror (Guilherme o Conquistador) foi coroado rei.",
+            "Construiu castelos, usou o terror e fez o Domesday Book para manter o controlo/controle.",
+            "William morreu em 1087.",
+            "O seu filho William II tornou-se rei, e depois outro filho, Henry I (Henrique I), em 1100.",
+            "Em 1120 afundou-se um navio chamado White Ship, o Navio Branco.",
+            "O único filho de Henry I morreu afogado, por isso Henry ficou sem herdeiro.",
+            "Henry queria que a sua filha Matilda governasse depois dele.",
+            "Mas quando Henry morreu, em 1135, o seu sobrinho Stephen (Estêvão) tomou o trono.",
+            "Stephen e Matilda travaram uma longa guerra civil.",
+            "As pessoas chamaram-lhe mais tarde a Anarquia.",
+            "Em 1154 o filho de Matilda, Henry II (Henrique II), foi coroado rei.",
+            "Foi o primeiro rei de uma nova casa real: os Plantagenetas (Plantagenets)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "boqor ama boqorad xukumaysa dal",
+            "qoys taliya",
+            "qofka carshiga ku xigaya",
+            "dagaal u dhexeeya dad isku dal ah",
+            "magaca kadib loo bixiyay dagaalkii sokeeye ee Stephen iyo Matilda"
+          ],
+          "passage": [
+            "1066-kii Normans-ku waxay qabsadeen England.",
+            "William the Conqueror waxaa loo caleemo-saaray boqor.",
+            "Wuxuu dhisay qalcado, argagax wuu isticmaalay oo Domesday Book wuu sameeyay si xukunka u hayo.",
+            "William wuxuu dhintay 1087-dii.",
+            "Wiilkiisa William II wuxuu boqor noqday, kadibna wiil kale, Henry I, 1100-kii.",
+            "1120-kii doonni la yiraahdo White Ship ayaa degtay.",
+            "Wiilka keliya ee Henry I wuu qarqay, markaa Henry dhaxal-suge ma lahayn.",
+            "Henry wuxuu rabay in gabadhiisa Matilda ay kadib xukunto.",
+            "Laakiin markii Henry dhintay 1135-kii, adeerkiis wiilkii Stephen ayaa carshiga qaatay.",
+            "Stephen iyo Matilda waxay dagaal sokeeye dheer galeen.",
+            "Dadku kadib waxay ugu yeeray the Anarchy.",
+            "1154-kii wiilka Matilda, Henry II, waxaa loo caleemo-saaray boqor.",
+            "Wuxuu ahaa boqorkii ugu horreeyay ee qoys boqortooyo cusub: Plantagenets."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "король або королева, що правлять країною (monarch)",
+            "правляча родина (royal house)",
+            "людина, яка наступною займе трон (heir)",
+            "війна між людьми однієї країни (civil war)",
+            "назва, яку пізніше дали громадянській війні між Стефаном і Матильдою (the Anarchy)"
+          ],
+          "passage": [
+            "У 1066 році нормани підкорили Англію.",
+            "Вільгельма Завойовника коронували королем.",
+            "Він будував замки, застосовував терор і склав Книгу Судного дня, щоб тримати владу.",
+            "Вільгельм помер у 1087 році.",
+            "Його син Вільгельм II став королем, а потім, у 1100 році, інший син, Генріх I.",
+            "У 1120 році затонув корабель, який називався «Білий корабель» (the White Ship).",
+            "Єдиний син Генріха I потонув, тому Генріх не мав спадкоємця.",
+            "Генріх хотів, щоб після нього правила його донька Матильда.",
+            "Але коли Генріх помер у 1135 році, трон зайняв його племінник Стефан.",
+            "Стефан і Матильда вели довгу громадянську війну.",
+            "Пізніше люди назвали її Анархією (the Anarchy).",
+            "У 1154 році сина Матильди, Генріха II, коронували королем.",
+            "Він був першим королем нової правлячої родини: Плантагенетів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بادشاہ یا ملکہ جو کسی ملک پر حکومت کرے (monarch)",
+            "حکومت کرنے والا خاندان (royal house)",
+            "وہ شخص جو اگلا تخت سنبھالے گا (heir)",
+            "ایک ہی ملک کے لوگوں کے درمیان جنگ (civil war)",
+            "اسٹیفن اور میٹلڈا کے درمیان خانہ جنگی کو بعد میں دیا گیا نام (the Anarchy)"
+          ],
+          "passage": [
+            "1066 میں نارمنوں نے انگلینڈ فتح کر لیا۔",
+            "ولیم فاتح (William the Conqueror) کی تاج پوشی ہوئی اور وہ بادشاہ بنا۔",
+            "اس نے قابو رکھنے کے لیے قلعے بنائے، terror استعمال کیا اور Domesday Book بنوائی۔",
+            "ولیم 1087 میں مر گیا۔",
+            "اس کا بیٹا ولیم دوم بادشاہ بنا، اور پھر 1100 میں ایک اور بیٹا، ہنری اوّل۔",
+            "1120 میں White Ship نامی ایک جہاز ڈوب گیا۔",
+            "ہنری اوّل کا واحد بیٹا ڈوب گیا، اس لیے ہنری کا کوئی heir نہ رہا۔",
+            "ہنری چاہتا تھا کہ اس کے بعد اس کی بیٹی میٹلڈا (Matilda) حکومت کرے۔",
+            "مگر جب 1135 میں ہنری مرا تو اس کے بھتیجے اسٹیفن (Stephen) نے تخت لے لیا۔",
+            "اسٹیفن اور میٹلڈا کے درمیان لمبی خانہ جنگی ہوئی۔",
+            "لوگوں نے بعد میں اسے the Anarchy کہا۔",
+            "1154 میں میٹلڈا کے بیٹے ہنری دوم کی تاج پوشی ہوئی۔",
+            "وہ ایک نئے شاہی خاندان کا پہلا بادشاہ تھا: پلانٹیجنٹ (Plantagenets)۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How much did the Normans change England?",
@@ -254,8 +408,168 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
           "John's son Henry III ruled from 1216 to 1272.",
           "He gave royal land to his favourites, and his barons rebelled twice.",
           "Then came Edward I, who created the Model Parliament but taxed people heavily."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أرض يسيطر عليها حاكم (territory)",
+            "سيّد قويّ يحمل أرضًا من الملك (baron)",
+            "الثورة على الحاكم (rebellion)",
+            "حرب خاضتها جيوش مسيحية للسيطرة على الأرض المقدّسة (Crusade)",
+            "إبقاء البلد آمنًا ومعاقبة الجريمة بعدل (law and order)",
+            "شيء تستخرجه من مصدر وهو لا يقوله مباشرةً (inference)"
+          ],
+          "passage": [
+            "صار هنري الثاني ملكًا في 1154.",
+            "وكان يحكم أصلًا نورماندي وأنجو (Anjou) في فرنسا.",
+            "فحسّن القانون والنظام، وكان حكمه هادئًا حتى سنوات 1170.",
+            "ولكنّ خصومته مع رئيس الأساقفة توماس بيكيت (Thomas Becket) أضرّت بحكمه.",
+            "وحكم ابنه ريتشارد الأوّل (Richard I) من 1189 إلى 1199.",
+            "ولم يمضِ ريتشارد في إنجلترا إلّا ستّة أشهر في حكمه الذي دام عشر سنوات.",
+            "وقد ربح معارك في الحملة الصليبية الثالثة وكسب أرضًا في فرنسا.",
+            "وحكم أخو ريتشارد، جون (John)، من 1199 إلى 1216.",
+            "وأضاع جون كلّ أراضي إنجلترا في فرنسا تقريبًا، وتخاصم مع الكنيسة.",
+            "فتمرّد بارونوه وأرغموه على قبول الماجنا كارتا (Magna Carta).",
+            "وحكم ابن جون، هنري الثالث (Henry III)، من 1216 إلى 1272.",
+            "وقد أعطى أرض التاج لمحاسيبه، فتمرّد بارونوه مرّتين.",
+            "ثم جاء إدوارد الأوّل (Edward I)، وقد أنشأ البرلمان النموذجي ولكنه فرض على الناس ضرائب ثقيلة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ziemia, nad którą władca sprawuje kontrolę (territory)",
+            "potężny pan, który trzymał ziemię od króla (baron)",
+            "powstanie przeciwko władcy (rebellion)",
+            "wojna prowadzona przez armie chrześcijańskie, żeby opanować Ziemię Świętą (Crusade)",
+            "utrzymywanie spokoju w kraju i sprawiedliwe karanie przestępstw (law and order)",
+            "coś, co wyciągasz ze źródła, choć ono tego nie mówi wprost (inference)"
+          ],
+          "passage": [
+            "Henry II (Henryk II) został królem w 1154 roku.",
+            "Rządził już Normandią i Anjou we Francji.",
+            "Poprawił prawo i porządek, a jego panowanie było spokojne aż do lat siedemdziesiątych XII wieku (the 1170s).",
+            "Ale jego spór z arcybiskupem Thomasem Becketem zaszkodził jego panowaniu.",
+            "Jego syn Richard I (Ryszard I) rządził od 1189 do 1199 roku.",
+            "Przez swoje dziesięcioletnie panowanie Richard spędził w Anglii tylko sześć miesięcy.",
+            "Wygrał bitwy w trzeciej krucjacie i zdobył ziemie we Francji.",
+            "Brat Richarda, John (Jan), rządził od 1199 do 1216 roku.",
+            "John stracił niemal wszystkie angielskie ziemie we Francji i pokłócił się z Kościołem.",
+            "Jego baronowie zbuntowali się i wymusili na nim zgodę na Magna Carta.",
+            "Syn Johna, Henry III (Henryk III), rządził od 1216 do 1272 roku.",
+            "Rozdawał królewskie ziemie swoim ulubieńcom, a jego baronowie buntowali się dwa razy.",
+            "Potem przyszedł Edward I, który utworzył Model Parliament, ale obłożył ludzi wysokimi podatkami."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "terras que um governante controla (territory, território)",
+            "um senhor poderoso que recebia terras do rei (baron, barão)",
+            "levantar-se contra o governante (rebellion, rebelião)",
+            "uma guerra travada por exércitos cristãos para controlar a Terra Santa (Crusade, Cruzada)",
+            "manter o país em paz e punir o crime de forma justa (law and order, lei e ordem)",
+            "algo que descobres a partir de uma fonte e que ela não diz diretamente (inference, inferência)"
+          ],
+          "passage": [
+            "Henry II tornou-se rei em 1154.",
+            "Já governava a Normandia e o Anjou, em França.",
+            "Melhorou a lei e a ordem e teve um reinado pacífico até aos anos 1170.",
+            "Mas a sua disputa com o arcebispo Thomas Becket prejudicou o seu reinado.",
+            "O seu filho Richard I (Ricardo I) governou de 1189 a 1199.",
+            "Richard passou só seis meses em Inglaterra durante o seu reinado de dez anos.",
+            "Venceu batalhas na Terceira Cruzada e ganhou terras em França.",
+            "John (João), irmão de Richard, governou de 1199 a 1216.",
+            "John perdeu quase todas as terras inglesas em França e desentendeu-se com a Igreja.",
+            "Os seus barões rebelaram-se e obrigaram-no a aceitar a Magna Carta.",
+            "Henry III (Henrique III), filho de John, governou de 1216 a 1272.",
+            "Deu terras da coroa aos seus favoritos, e os seus barões rebelaram-se duas vezes.",
+            "Depois veio Edward I (Eduardo I), que criou o Model Parliament mas lançou impostos muito pesados."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhul taliye xukumo",
+            "sayid awood weyn oo dhulka boqorka ka helay",
+            "ku kicid taliyaha",
+            "dagaal ay ciidamo Masiixi ah u galeen xukunka Dhulka Quduuska ah",
+            "in dalku nabad ahaado oo dembiga si caddaalad ah loo ciqaabo",
+            "wax aad isha ka soo saarto oo aanay si toos ah sheegin"
+          ],
+          "passage": [
+            "Henry II wuxuu boqor noqday 1154-kii.",
+            "Wuxuu durba xukumayay Normandy iyo Anjou oo Faransiiska ku yaalla.",
+            "Wuxuu wanaajiyay sharciga iyo kala dambeynta, xukunkiisuna wuu nabdoonaa ilaa 1170-meeyadii.",
+            "Laakiin murankiisii Archbishop Thomas Becket wuxuu xukunkiisa waxyeelleeyay.",
+            "Wiilkiisa Richard I wuxuu xukumay 1189-kii ilaa 1199-kii.",
+            "Richard wuxuu England ku joogay lix bilood oo keliya intii xukunkiisii toban sano socday.",
+            "Wuxuu ku guulaystay dagaallo Crusade-kii saddexaad oo dhul Faransiiska ku helay.",
+            "Walaalka Richard, John, wuxuu xukumay 1199-kii ilaa 1216-kii.",
+            "John wuxuu lumiyay ku dhowaad dhammaan dhulalkii England ee Faransiiska, Kaniisaddana wuu khilaafay.",
+            "Barons-kiisa way kaceen oo waxay ku qasbeen inuu Magna Carta aqbalo.",
+            "Wiilka John, Henry III, wuxuu xukumay 1216-kii ilaa 1272-kii.",
+            "Wuxuu dhul boqortooyo siiyay kuwa uu jeclaa, barons-kiisana laba jeer ayay kaceen.",
+            "Kadibna waxaa yimid Edward I, oo sameeyay Model Parliament laakiin canshuur culus dadka saaray."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "земля, яку контролює правитель (territory)",
+            "могутній володар, який тримав землю від короля (baron)",
+            "повстання проти правителя (rebellion)",
+            "війна, яку вели християнські війська, щоб захопити Святу землю (Crusade)",
+            "підтримання спокою в країні і справедливе покарання за злочини (law and order)",
+            "те, що ви вивели з джерела, хоч воно цього прямо не каже (inference)"
+          ],
+          "passage": [
+            "Генріх II став королем у 1154 році.",
+            "Він уже правив Нормандією та Анжу у Франції.",
+            "Він поліпшив закон і порядок, і його правління було спокійним до 1170-х років.",
+            "Але його сварка з архієпископом Томасом Бекетом зашкодила його правлінню.",
+            "Його син Ричард I правив з 1189 до 1199 року.",
+            "Ричард провів в Англії лише шість місяців за десять років свого правління.",
+            "Він здобув перемоги в Третьому хрестовому поході і отримав землі у Франції.",
+            "Брат Ричарда Джон (John) правив з 1199 до 1216 року.",
+            "Джон втратив майже всі англійські землі у Франції і посварився з Церквою.",
+            "Його барони повстали і змусили його погодитися на Велику хартію вольностей (Magna Carta).",
+            "Син Джона Генріх III правив з 1216 до 1272 року.",
+            "Він віддавав королівську землю своїм улюбленцям, і його барони повставали двічі.",
+            "Потім прийшов Едуард I, який створив Зразковий парламент, але важко обкладав людей податками."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ زمین جو کسی حاکم کے قابو میں ہو (territory)",
+            "ایک طاقتور سردار جس نے زمین بادشاہ سے لی ہو (baron)",
+            "حاکم کے خلاف اٹھ کھڑے ہونا (rebellion)",
+            "مقدس سرزمین پر قابو پانے کے لیے مسیحی فوجوں کی لڑی ہوئی جنگ (Crusade)",
+            "ملک کو پُرامن رکھنا اور جرم کی انصاف سے سزا دینا (law and order)",
+            "وہ بات جو آپ کسی source سے اخذ کرتے ہیں، حالانکہ وہ سیدھے طور پر نہیں کہی گئی (inference)"
+          ],
+          "passage": [
+            "ہنری دوم 1154 میں بادشاہ بنا۔",
+            "وہ پہلے ہی فرانس میں نارمنڈی اور آنژو (Anjou) پر حکومت کرتا تھا۔",
+            "اس نے law and order بہتر کیا اور 1170 کی دہائی تک اس کا دور پُرامن رہا۔",
+            "مگر آرچ بشپ تھامس بیکٹ (Thomas Becket) سے اس کے جھگڑے نے اس کے دور کو نقصان پہنچایا۔",
+            "اس کے بیٹے رچرڈ اوّل نے 1189 سے 1199 تک حکومت کی۔",
+            "رچرڈ اپنے دس سالہ دور میں صرف چھ مہینے انگلینڈ میں رہا۔",
+            "اس نے تیسری Crusade میں جنگیں جیتیں اور فرانس میں زمین حاصل کی۔",
+            "رچرڈ کے بھائی جان نے 1199 سے 1216 تک حکومت کی۔",
+            "جان نے فرانس میں انگلینڈ کی تقریباً ساری زمین کھو دی اور کلیسا سے بھی بگاڑ لی۔",
+            "اس کے barons نے بغاوت کی اور اسے Magna Carta ماننے پر مجبور کیا۔",
+            "جان کے بیٹے ہنری سوم نے 1216 سے 1272 تک حکومت کی۔",
+            "اس نے شاہی زمین اپنے من پسند لوگوں کو دی، اور اس کے barons نے دو بار بغاوت کی۔",
+            "پھر ایڈورڈ اوّل آیا، جس نے Model Parliament بنایا مگر لوگوں پر بھاری ٹیکس لگائے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What makes a successful medieval king?",
@@ -460,8 +774,168 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
           "Henry raged against him, and four knights rode to Canterbury.",
           "They killed Becket in his own cathedral.",
           "Soon afterwards the Pope made Becket a saint."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "رؤساء الدين، وهم الذين كانوا يديرون الكنيسة (clergy)",
+            "الشخص الذي يتولّى شؤون البلد عند غياب الملك (Chancellor)",
+            "أكبر رجال الكنيسة منزلةً في البلد (Archbishop)",
+            "أن تُخرج أحدًا من الكنيسة رسميًّا (excommunicate)",
+            "من الزمن نفسه (contemporary)"
+          ],
+          "passage": [
+            "في إنجلترا الوسيطة كان الناس يعتقدون أنّ الله فوق الملك.",
+            "وكان تحت الملك البارونات والفرسان والفلّاحون.",
+            "وكانت هناك فئة قويّة أخرى: رؤساء الدين، وهم الذين يديرون الكنيسة.",
+            "وفي 1154 صار هنري الثاني ملكًا.",
+            "وكان أعزّ أصحابه توماس بيكيت.",
+            "فجعله هنري مستشاره الأعلى، يتولّى الشؤون عند غياب الملك.",
+            "ثم جعله رئيس أساقفة كانتربري (Canterbury).",
+            "ولكنّ بيكيت صار متديّنًا جدًّا وقدّم الكنيسة على غيرها.",
+            "ورفض أن يترك الملك يعاقب القساوسة الذين يخرقون القانون.",
+            "وفي 1164 هرب بيكيت إلى فرنسا وبقي فيها ستّ سنوات.",
+            "ثم عاد في 1170 فبدأت الخصومة من جديد.",
+            "فغضب عليه هنري غضبًا شديدًا، وركب أربعة فرسان إلى كانتربري.",
+            "فقتلوا بيكيت في كاتدرائيته هو.",
+            "وبعد ذلك بقليل جعل البابا بيكيت قدّيسًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przywódcy religijni, czyli ludzie, którzy kierowali Kościołem (clergy)",
+            "osoba, która zarządzała krajem, kiedy króla nie było (Chancellor)",
+            "najwyższy duchowny w kraju (Archbishop)",
+            "oficjalnie wyrzucić kogoś z Kościoła (excommunicate)",
+            "pochodzący z tego właśnie czasu (contemporary)"
+          ],
+          "passage": [
+            "W średniowiecznej Anglii ludzie wierzyli, że Bóg stoi nad królem.",
+            "Pod królem byli baronowie, rycerze i chłopi.",
+            "Była jeszcze jedna potężna grupa: duchowieństwo, które kierowało Kościołem.",
+            "W 1154 roku Henry II (Henryk II) został królem.",
+            "Jego najlepszym przyjacielem był Thomas Becket (Tomasz Becket).",
+            "Henry zrobił Becketa swoim kanclerzem (Chancellor), zarządzającym krajem w czasie nieobecności króla.",
+            "Potem Henry zrobił go arcybiskupem Canterbury.",
+            "Ale Becket stał się bardzo religijny i postawił Kościół na pierwszym miejscu.",
+            "Odmówił królowi prawa do karania księży, którzy łamali prawo.",
+            "W 1164 roku Becket uciekł do Francji i został tam sześć lat.",
+            "Wrócił w 1170 roku i spór zaczął się od nowa.",
+            "Henry wybuchnął gniewem przeciwko niemu, a czterech rycerzy pojechało do Canterbury.",
+            "Zabili Becketa w jego własnej katedrze.",
+            "Wkrótce potem papież ogłosił Becketa świętym."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "os líderes religiosos, as pessoas que dirigiam a Igreja (clergy, clero)",
+            "a pessoa encarregada do país quando o rei estava fora (Chancellor, chanceler)",
+            "o homem da Igreja mais importante de um país (Archbishop, arcebispo)",
+            "expulsar alguém oficialmente da Igreja (excommunicate, excomungar)",
+            "da própria época (contemporary, da época)"
+          ],
+          "passage": [
+            "Na Inglaterra medieval, as pessoas acreditavam que Deus estava acima do rei.",
+            "Abaixo do rei vinham os barões, os cavaleiros e os camponeses.",
+            "Havia outro grupo poderoso: o clero, que dirigia a Igreja.",
+            "Em 1154 Henry II tornou-se rei.",
+            "O seu melhor amigo era Thomas Becket.",
+            "Henry fez de Becket o seu chanceler, encarregado do país quando o rei estava fora.",
+            "Depois Henry fez dele arcebispo de Canterbury.",
+            "Mas Becket ficou muito religioso e pôs a Igreja em primeiro lugar.",
+            "Recusou-se a deixar o rei punir sacerdotes que infringiam a lei.",
+            "Em 1164 Becket fugiu para França e ficou lá seis anos.",
+            "Voltou em 1170 e a disputa começou outra vez.",
+            "Henry enfureceu-se contra ele, e quatro cavaleiros partiram a cavalo para Canterbury.",
+            "Mataram Becket na sua própria catedral.",
+            "Pouco depois o Papa fez de Becket um santo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "hoggaamiyeyaasha diinta, oo ahaa dadkii Kaniisadda maamulay",
+            "qofka dalka maamulayay markii boqorku maqnaa",
+            "ninka kaniisadda ugu sarreeya dal",
+            "in si rasmi ah qof Kaniisadda looga saaro",
+            "ka yimid waqtigii dhabta ah"
+          ],
+          "passage": [
+            "England qarniyadii dhexe, dadku waxay rumaysnaayeen in Ilaah boqorka ka sarreeyo.",
+            "Boqorka ka hooseeyay waxay ahaayeen barons-ka, knights-ka iyo beeraleyda.",
+            "Koox kale oo awood weyn ayaa jirtay: clergy-ga, oo Kaniisadda maamulay.",
+            "1154-kii Henry II wuxuu boqor noqday.",
+            "Saaxiibkiisii ugu wanaagsanaa wuxuu ahaa Thomas Becket.",
+            "Henry wuxuu Becket ka dhigay Chancellor-kiisa, oo maamula markii boqorku maqan yahay.",
+            "Kadibna Henry wuxuu ka dhigay Archbishop-ka Canterbury.",
+            "Laakiin Becket wuxuu noqday nin aad u diineed oo Kaniisadda hor mariyay.",
+            "Wuu diiday inuu boqorka ciqaabo wadaadada sharciga jebiyay.",
+            "1164-kii Becket wuxuu Faransiiska u cararay oo lix sano halkaas joogay.",
+            "Wuxuu soo noqday 1170-kii, murankiina mar kale wuu bilaabmay.",
+            "Henry wuu ku cadhooday, afar knights-na Canterbury ayay u fuuleen.",
+            "Waxay Becket ku dileen kaniisaddiisa weyn.",
+            "Wax yar kadib Baaba'ka wuxuu Becket ka dhigay qof quduus ah."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "релігійні провідники, люди, які керували Церквою (clergy)",
+            "людина, яка керувала країною, коли король був у від’їзді (Chancellor)",
+            "найстарший церковний провідник у країні (Archbishop)",
+            "офіційно відлучити когось від Церкви (excommunicate)",
+            "із самого того часу (contemporary)"
+          ],
+          "passage": [
+            "У середньовічній Англії люди вірили, що Бог стоїть вище за короля.",
+            "Під королем ішли барони, лицарі й селяни.",
+            "Була ще одна могутня група: духівництво, яке керувало Церквою.",
+            "У 1154 році Генріх II став королем.",
+            "Його найкращим другом був Томас Бекет (Thomas Becket).",
+            "Генріх зробив Бекета своїм канцлером, який керував, коли король був у від’їзді.",
+            "Потім Генріх зробив його архієпископом Кентерберійським.",
+            "Але Бекет став дуже релігійним і поставив Церкву на перше місце.",
+            "Він відмовився дозволити королю карати священників, які порушували закон.",
+            "У 1164 році Бекет утік до Франції і залишався там шість років.",
+            "Він повернувся у 1170 році, і сварка почалася знову.",
+            "Генріх лютував на нього, і четверо лицарів поїхали до Кентербері.",
+            "Вони вбили Бекета у його власному соборі.",
+            "Скоро після цього Папа оголосив Бекета святим."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مذہبی رہنما، یعنی وہ لوگ جو کلیسا چلاتے تھے (clergy)",
+            "وہ شخص جو بادشاہ کی غیر موجودگی میں ملک کا نگران ہوتا تھا (Chancellor)",
+            "کسی ملک کا سب سے بڑا کلیسائی عہدے دار (Archbishop)",
+            "کسی کو سرکاری طور پر کلیسا سے باہر کر دینا (excommunicate)",
+            "اُسی زمانے کا (contemporary)"
+          ],
+          "passage": [
+            "قرونِ وسطیٰ کے انگلینڈ میں لوگ مانتے تھے کہ خدا بادشاہ سے اوپر ہے۔",
+            "بادشاہ کے نیچے barons، نائٹ اور کسان آتے تھے۔",
+            "ایک اور طاقتور گروہ بھی تھا: clergy، جو کلیسا چلاتے تھے۔",
+            "1154 میں ہنری دوم بادشاہ بنا۔",
+            "اس کا سب سے گہرا دوست تھامس بیکٹ تھا۔",
+            "ہنری نے بیکٹ کو اپنا Chancellor بنایا، جو بادشاہ کی غیر موجودگی میں نگران ہوتا تھا۔",
+            "پھر ہنری نے اسے کینٹربری کا آرچ بشپ بنا دیا۔",
+            "مگر بیکٹ بہت مذہبی ہو گیا اور کلیسا کو پہلے رکھنے لگا۔",
+            "اس نے بادشاہ کو ان پادریوں کو سزا دینے کی اجازت نہ دی جو قانون توڑتے تھے۔",
+            "1164 میں بیکٹ فرانس چلا گیا اور چھ سال وہیں رہا۔",
+            "وہ 1170 میں واپس آیا اور جھگڑا پھر شروع ہو گیا۔",
+            "ہنری اس پر برس پڑا، اور چار نائٹ کینٹربری کی طرف روانہ ہوئے۔",
+            "انھوں نے بیکٹ کو اس کے اپنے کیتھیڈرل میں قتل کر دیا۔",
+            "اس کے کچھ ہی عرصہ بعد پوپ نے بیکٹ کو سینٹ (saint) قرار دے دیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who was above the king?",
@@ -636,8 +1110,162 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
           "Some happened in the final hours: these are short-term causes.",
           "Historians sort the causes, then make a judgement.",
           "You will do the same."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء يجعل حدثًا يحدث (cause)",
+            "سبب يحدث قبل الحدث بقليل (short-term cause)",
+            "سبب يتراكم على مدى زمن طويل (long-term cause)",
+            "أن تقول إنّ أحدًا مسؤول عن شيء سيّئ (blame)",
+            "حكمك، تسنده بالأسباب (judgement)"
+          ],
+          "passage": [
+            "قتل أربعة فرسان توماس بيكيت في 1170.",
+            "ولكن هل كانوا وحدهم الملومين؟",
+            "فقد كان هنري حادّ الغضب، وصرخ شاكيًا من القسّ المزعج.",
+            "وكان قد طلب أيضًا من رئيس أساقفة يورك أن يُتوّج ابنه، وذلك كان عمل بيكيت.",
+            "وكان بيكيت قد نقض وعوده لمّا عاد من فرنسا.",
+            "وكان قد رفض أن يترك الملك يعاقب القساوسة.",
+            "ورفض أن يترك الكاتدرائية لمّا هدّده الفرسان.",
+            "وانطلق الفرسان في الحال، دون أن يسألوا هنري.",
+            "واختاروا أن يقتلوا بيكيت بدلًا من أن يُخرجوه من البلد.",
+            "وبعض الأسباب تراكم على مدى سنوات: وهذه الأسباب طويلة الأجل.",
+            "وبعضها حدث في الساعات الأخيرة: وهذه الأسباب قصيرة الأجل.",
+            "والمؤرّخون يصنّفون الأسباب، ثم يحكمون.",
+            "وستفعل أنت الشيء نفسه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś, co sprawia, że wydarzenie się dzieje (cause)",
+            "przyczyna, która zdarza się bezpośrednio przed wydarzeniem (short-term cause)",
+            "przyczyna, która narasta przez długi czas (long-term cause)",
+            "powiedzieć, że ktoś jest odpowiedzialny za coś złego (blame)",
+            "twoja decyzja, poparta powodami (judgement)"
+          ],
+          "passage": [
+            "Czterech rycerzy zabiło Thomasa Becketa w 1170 roku.",
+            "Ale czy tylko oni byli winni?",
+            "Henry miał okropny temperament i krzyczał o kłopotliwym księdzu.",
+            "Poprosił też arcybiskupa Yorku o ukoronowanie swojego syna, a to było zadanie Becketa.",
+            "Becket złamał swoje obietnice, kiedy wrócił z Francji.",
+            "Odmówił królowi prawa do karania księży.",
+            "I odmówił opuszczenia katedry, kiedy rycerze mu grozili.",
+            "Rycerze wyruszyli od razu, nie pytając Henry'ego.",
+            "Postanowili zabić Becketa, a nie zmusić go do opuszczenia kraju.",
+            "Niektóre przyczyny narastały latami: to przyczyny długofalowe.",
+            "Niektóre zdarzyły się w ostatnich godzinach: to przyczyny bezpośrednie.",
+            "Historycy porządkują przyczyny, a potem wydają sąd.",
+            "Ty zrobisz to samo."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo que faz um acontecimento acontecer (cause, causa)",
+            "uma causa que acontece pouco antes do acontecimento (short-term cause, causa de curto prazo)",
+            "uma causa que se acumula ao longo de muito tempo (long-term cause, causa de longo prazo)",
+            "dizer que alguém é responsável por algo mau (blame, culpar)",
+            "a tua decisão, apoiada em razões (judgement, juízo)"
+          ],
+          "passage": [
+            "Quatro cavaleiros mataram Thomas Becket em 1170.",
+            "Mas foram eles os únicos culpados?",
+            "Henry tinha um temperamento terrível e andava a gritar por causa do sacerdote problemático.",
+            "Também tinha pedido ao arcebispo de York para coroar o seu filho, o que era tarefa de Becket.",
+            "Becket tinha quebrado as suas promessas quando voltou de França.",
+            "Tinha-se recusado a deixar o rei punir sacerdotes.",
+            "E recusou-se a sair da catedral quando os cavaleiros o ameaçaram.",
+            "Os cavaleiros partiram logo, sem pedir a Henry.",
+            "Escolheram matar Becket em vez de o obrigar a sair do país.",
+            "Algumas causas acumularam-se durante anos: são as causas de longo prazo.",
+            "Outras aconteceram nas últimas horas: são as causas de curto prazo.",
+            "Os historiadores separam as causas e depois fazem um juízo.",
+            "Tu vais fazer o mesmo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax ka dhigaya in dhacdo dhacdo",
+            "sabab dhacdada ka hor wax yar dhacda",
+            "sabab muddo dheer isu urursata",
+            "inaad sheegto in qof masuul ka yahay wax xun",
+            "go'aankaaga, oo sababo ku taageeran"
+          ],
+          "passage": [
+            "Afar knights ayaa Thomas Becket dilay 1170-kii.",
+            "Laakiin ma iyaga oo keliya baa la eedeynayaa?",
+            "Henry wuxuu lahaa cadho daran, wuxuuna ku qayliyay wadaadka dhibaatada leh.",
+            "Wuxuu sidoo kale weydiistay Archbishop-ka York inuu wiilkiisa caleemo-saaro, taasoo shaqada Becket ahayd.",
+            "Becket wuxuu ballamihiisa jebiyay markii Faransiiska ka soo noqday.",
+            "Wuu diiday inuu boqorka ciqaabo wadaadada.",
+            "Wuuna diiday inuu kaniisadda weyn ka baxo markii knights-ku ku hanjabeen.",
+            "Knights-ku isla markiiba way tageen, iyagoon Henry weydiin.",
+            "Waxay doorteen inay Becket dilaan halkii ay dalka ka saari lahaayeen.",
+            "Sababo qaar sanado ayay isu urursadeen: kuwan waa long-term causes.",
+            "Qaarna waxay dhaceen saacadihii ugu dambeeyay: kuwan waa short-term causes.",
+            "Taariikhyahannadu sababaha way kala saaraan, kadibna go'aan way gaaraan.",
+            "Adiguna sidaas oo kale ayaad samaynaysaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, через що відбувається подія (cause)",
+            "причина, яка настає безпосередньо перед подією (short-term cause)",
+            "причина, яка наростає протягом довгого часу (long-term cause)",
+            "казати, що хтось відповідальний за щось погане (blame)",
+            "ваше рішення, підкріплене доводами (judgement)"
+          ],
+          "passage": [
+            "Четверо лицарів убили Томаса Бекета у 1170 році.",
+            "Але чи тільки вони були винні?",
+            "Генріх мав страшну вдачу і кричав про того клопітного священника.",
+            "Він також попросив архієпископа Йоркського коронувати його сина, а це була робота Бекета.",
+            "Бекет порушив свої обіцянки, коли повернувся з Франції.",
+            "Він відмовився дозволити королю карати священників.",
+            "І він відмовився покинути собор, коли лицарі йому погрожували.",
+            "Лицарі вирушили відразу, не спитавши Генріха.",
+            "Вони обрали вбити Бекета, а не змусити його покинути країну.",
+            "Деякі причини наростали роками: це довготривалі причини.",
+            "Деякі настали в останні години: це короткочасні причини.",
+            "Історики сортують причини, а потім роблять висновок.",
+            "Ви зробите те саме."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ چیز جس سے کوئی واقعہ پیش آتا ہے (cause)",
+            "وہ سبب جو واقعے سے ذرا پہلے پیش آئے (short-term cause)",
+            "وہ سبب جو لمبے عرصے میں بنتا رہے (long-term cause)",
+            "یہ کہنا کہ کسی بری بات کا ذمہ دار کوئی ہے (blame)",
+            "آپ کا فیصلہ، جس کے پیچھے وجوہات ہوں (judgement)"
+          ],
+          "passage": [
+            "چار نائٹوں نے 1170 میں تھامس بیکٹ کو قتل کیا۔",
+            "مگر کیا ذمہ دار صرف وہی تھے؟",
+            "ہنری کا مزاج بہت تیز تھا اور وہ اُس تنگ کرنے والے پادری کے بارے میں چلّایا تھا۔",
+            "اس نے یارک کے آرچ بشپ سے اپنے بیٹے کی تاج پوشی کرانے کو بھی کہا تھا، حالانکہ یہ کام بیکٹ کا تھا۔",
+            "بیکٹ نے فرانس سے واپس آ کر اپنے وعدے توڑ دیے تھے۔",
+            "اس نے بادشاہ کو پادریوں کو سزا دینے کی اجازت نہ دی تھی۔",
+            "اور جب نائٹوں نے اسے دھمکی دی تو اس نے کیتھیڈرل چھوڑنے سے انکار کر دیا۔",
+            "نائٹ ہنری سے پوچھے بغیر فوراً روانہ ہو گئے۔",
+            "انھوں نے بیکٹ کو ملک سے نکالنے کے بجائے قتل کرنے کا راستہ چنا۔",
+            "کچھ اسباب برسوں میں بنتے رہے: یہ long-term causes ہیں۔",
+            "کچھ آخری گھنٹوں میں پیش آئے: یہ short-term causes ہیں۔",
+            "مؤرخ اسباب کو ترتیب دیتے ہیں، پھر فیصلہ کرتے ہیں۔",
+            "آپ بھی یہی کریں گے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Three suspects",
@@ -834,8 +1462,168 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
           "Historians call what became different change, and what stayed the same continuity.",
           "John's barons later made him agree to Magna Carta, which limited his power too.",
           "So who really held the power in England?"
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "رأس الكنيسة كلّها في غرب أوروبا، ومقرّه روما (Pope)",
+            "خلاف خطير (dispute)",
+            "الحقّ في أن تأمر فتُطاع (authority)",
+            "شيء صار مختلفًا (change)",
+            "شيء بقي كما كان (continuity)",
+            "الاتّفاق الذي أرغم البارونات جون على قبوله، وهو يحدّ سلطات الملك (Magna Carta)"
+          ],
+          "passage": [
+            "بعد مقتل بيكيت بجيل واحد تخاصم ملك آخر مع الكنيسة.",
+            "فقد اختلف الملك جون والبابا في مَن يختار رئيس أساقفة كانتربري القادم.",
+            "وكان جون يريد رجله هو.",
+            "وكان البابا يريد رجله هو.",
+            "فعاقب البابا جون بإخراجه من الكنيسة.",
+            "وفي النهاية تراجع جون، فرفع البابا عنه الإخراج.",
+            "وبعد هذا صار للبابا قول أكبر في شؤون الكنيسة الإنجليزية.",
+            "ولكنّ جون بقي ملكًا على إنجلترا.",
+            "وبقي يستطيع أن يختار مَن يساعده في قيادة البلد.",
+            "وبقيت الكنيسة غنيّة قويّة، كما كانت دائمًا.",
+            "والمؤرّخون يسمّون ما صار مختلفًا تغيّرًا، وما بقي كما كان استمرارًا.",
+            "وأرغم بارونات جون الملك بعد ذلك على قبول الماجنا كارتا، وهي تحدّ سلطته أيضًا.",
+            "فمن كان يملك السلطة حقًّا في إنجلترا؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "głowa całego Kościoła w zachodniej Europie, z siedzibą w Rzymie (Pope)",
+            "poważny spór (dispute)",
+            "prawo do wydawania rozkazów i do posłuszeństwa (authority)",
+            "coś, co stało się inne (change)",
+            "coś, co pozostało takie samo (continuity)",
+            "umowa, którą baronowie wymusili na Johnie, ograniczająca władzę monarchy (Magna Carta)"
+          ],
+          "passage": [
+            "Pokolenie po zabójstwie Becketa kolejny król pokłócił się z Kościołem.",
+            "Król John (Jan) i papież nie zgadzali się co do tego, kto powinien wybrać następnego arcybiskupa Canterbury.",
+            "John chciał swojego człowieka.",
+            "Papież chciał swojego.",
+            "Papież ukarał Johna, wyrzucając go z Kościoła.",
+            "W końcu John ustąpił, a papież zdjął z niego tę karę.",
+            "Po tym papież miał więcej do powiedzenia w sprawach Kościoła w Anglii.",
+            "Ale John pozostał królem Anglii.",
+            "Nadal mógł wybierać, kto pomaga mu rządzić krajem.",
+            "A Kościół pozostał bogaty i potężny, jak zawsze.",
+            "To, co stało się inne, historycy nazywają zmianą, a to, co pozostało takie samo, ciągłością.",
+            "Baronowie Johna wymusili na nim później zgodę na Magna Carta, która też ograniczyła jego władzę.",
+            "Kto więc naprawdę miał władzę w Anglii?"
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o chefe de toda a Igreja na Europa ocidental, com sede em Roma (Pope, Papa)",
+            "um desacordo grave (dispute, disputa)",
+            "o direito de dar ordens e de ser obedecido (authority, autoridade)",
+            "algo que se tornou diferente (change, mudança)",
+            "algo que ficou igual (continuity, continuidade)",
+            "o acordo que os barões obrigaram John a aceitar, limitando os poderes do monarca (Magna Carta)"
+          ],
+          "passage": [
+            "Uma geração depois do assassinato de Becket, outro rei desentendeu-se com a Igreja.",
+            "O rei John e o Papa discordavam sobre quem devia escolher o próximo arcebispo de Canterbury.",
+            "John queria o homem dele.",
+            "O Papa queria o dele.",
+            "O Papa castigou John excomungando-o.",
+            "No fim, John cedeu, e o Papa levantou a excomunhão.",
+            "Depois disto, o Papa passou a ter mais voz nos assuntos da Igreja em Inglaterra.",
+            "Mas John continuou a ser rei de Inglaterra.",
+            "Continuava a poder escolher quem o ajudava a dirigir o país.",
+            "E a Igreja continuou rica e poderosa, como sempre tinha sido.",
+            "Os historiadores chamam mudança (change) ao que ficou diferente, e continuidade (continuity) ao que ficou igual.",
+            "Mais tarde, os barões de John obrigaram-no a aceitar a Magna Carta, que também limitou o seu poder.",
+            "Então, quem é que tinha realmente o poder em Inglaterra?"
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "madaxa Kaniisadda oo dhan ee galbeedka Yurub, oo Rome fadhiya",
+            "muran daran",
+            "xaqa lagu bixiyo amar oo la hoggaansamo",
+            "wax noqday mid kale",
+            "wax sidii ay ahayd u sii ahaaday",
+            "heshiiskii barons-ku ku qasbeen John inuu aqbalo, oo xaddiday awoodda boqorka"
+          ],
+          "passage": [
+            "Jiil kadib dilkii Becket, boqor kale ayaa Kaniisadda khilaafay.",
+            "Boqor John iyo Baaba'ka waxay ku kala fogaadeen cidda dooranaysa Archbishop-ka Canterbury ee xiga.",
+            "John wuxuu rabay ninkiisa.",
+            "Baaba'kana wuxuu rabay ninkiisa.",
+            "Baaba'ka wuxuu John ciqaabay isagoo Kaniisadda ka saaray.",
+            "Ugu dambeyntii John wuu raacay, Baaba'kana wuxuu ka qaaday ka-saaritaanka.",
+            "Tan kadib, Baaba'ka hadal badan ayuu lahaa arrimaha Kaniisadda Ingiriiska.",
+            "Laakiin John wuxuu sii ahaaday Boqorka England.",
+            "Wuxuu weli dooran karay cidda ka caawisa hoggaaminta dalka.",
+            "Kaniisaddana way sii ahaatay mid hodan iyo awood weyn, sidii ay weligeed ahayd.",
+            "Taariikhyahannadu waxa noqday mid kale waxay ugu yeeraan change, waxa sidii ahaadayna continuity.",
+            "Barons-ka John waxay kadib ku qasbeen inuu Magna Carta aqbalo, taasoo awoodiisana xaddiday.",
+            "Markaa yaa dhab ahaan awoodda England ku hayay?"
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "голова всієї Церкви в західній Європі, із осідком у Римі (Pope)",
+            "серйозна незгода (dispute)",
+            "право давати накази і бути почутим (authority)",
+            "те, що стало іншим (change)",
+            "те, що залишилося таким самим (continuity)",
+            "угода, яку барони змусили Джона прийняти і яка обмежила владу монарха (Magna Carta)"
+          ],
+          "passage": [
+            "Через покоління після вбивства Бекета ще один король посварився з Церквою.",
+            "Король Джон і Папа не погоджувалися щодо того, хто має обрати наступного архієпископа Кентерберійського.",
+            "Джон хотів свою людину.",
+            "Папа хотів свою.",
+            "Папа покарав Джона, відлучивши його від Церкви.",
+            "Урешті Джон поступився, і Папа зняв відлучення.",
+            "Після цього Папа мав більше впливу в церковних справах Англії.",
+            "Але Джон залишився королем Англії.",
+            "Він усе ще міг обирати, хто допомагає йому керувати країною.",
+            "А Церква залишилася багатою і могутньою, як завжди була.",
+            "Історики називають те, що стало іншим, зміною, а те, що залишилося таким самим, — неперервністю.",
+            "Пізніше барони Джона змусили його погодитися на Велику хартію вольностей, яка теж обмежила його владу.",
+            "Отже, хто насправді тримав владу в Англії?"
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مغربی یورپ کے سارے کلیسا کا سربراہ، جس کا مرکز روم میں ہے (Pope)",
+            "ایک سخت اختلاف (dispute)",
+            "حکم دینے اور اطاعت کرائے جانے کا حق (authority)",
+            "وہ چیز جو مختلف ہو گئی (change)",
+            "وہ چیز جو ویسی ہی رہی (continuity)",
+            "وہ معاہدہ جو barons نے جان سے زبردستی منوایا، اور جس نے بادشاہ کے اختیار کو محدود کیا (Magna Carta)"
+          ],
+          "passage": [
+            "بیکٹ کے قتل کے ایک نسل بعد ایک اور بادشاہ کا کلیسا سے بگاڑ ہوا۔",
+            "بادشاہ جان اور پوپ کا اختلاف اس بات پر تھا کہ کینٹربری کا اگلا آرچ بشپ کون چنے گا۔",
+            "جان اپنا آدمی چاہتا تھا۔",
+            "پوپ اپنا آدمی چاہتا تھا۔",
+            "پوپ نے جان کو کلیسا سے باہر کر کے (excommunicating) سزا دی۔",
+            "آخر میں جان نے ہار مان لی، اور پوپ نے excommunication اٹھا لیا۔",
+            "اس کے بعد انگلینڈ کے کلیسائی معاملوں میں پوپ کی بات زیادہ چلنے لگی۔",
+            "مگر جان انگلینڈ کا بادشاہ ہی رہا۔",
+            "وہ اب بھی چن سکتا تھا کہ ملک چلانے میں کون اس کی مدد کرے۔",
+            "اور کلیسا بھی، جیسا پہلے تھا، امیر اور طاقتور رہا۔",
+            "جو مختلف ہو جائے اسے مؤرخ change کہتے ہیں، اور جو ویسا ہی رہے اسے continuity۔",
+            "جان کے barons نے بعد میں اسے Magna Carta ماننے پر مجبور کیا، جس نے اس کا اختیار بھی محدود کیا۔",
+            "تو انگلینڈ میں اصل طاقت کس کے پاس تھی؟"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Another king, another quarrel",

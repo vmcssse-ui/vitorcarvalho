@@ -102,8 +102,162 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
           "The poorest paid a few pennies for a bed in a doss house.",
           "Work was hard to find, especially for women.",
           "This is the place where the events of 1888 happened."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "من زمن حكم الملكة فيكتوريا، 1837 إلى 1901 (Victorian)",
+            "الجزء الشرقي الفقير المزدحم من لندن (East End)",
+            "منطقة في بلدة أو مدينة لها اسمها الخاصّ (district)",
+            "ناس أكثر من اللازم يعيشون في حيّز أصغر من اللازم (overcrowding)",
+            "بيت مبيت رخيص تدفع فيه ثمن سرير لليلة واحدة (doss house)",
+            "منطقة متدهورة سكنها فقير مزدحم (slum)"
+          ],
+          "passage": [
+            "في 1888 كانت بريطانيا غنيّة قويّة.",
+            "وكانت الملكة فيكتوريا تحكم منذ 1837.",
+            "وكانت لندن أكبر عاصمة في العالم.",
+            "ولكنّ الثروة لم تكن مقسومة بعدل.",
+            "وكان يعيش في إيست إند (East End) في لندن نحو 900,000 نسمة.",
+            "وكانت وايتشابل (Whitechapel) أفقر منطقة في إيست إند.",
+            "وكان يعيش فيها نحو 78,000 نسمة، محشورين في مساحة صغيرة.",
+            "وكان يعيش في كلّ بيت سبعة أشخاص في المتوسّط.",
+            "وكان نحو 8,000 شخص ينامون في الشوارع بانتظام.",
+            "وكان أفقرهم يدفع بنسات قليلة لسرير في بيت مبيت.",
+            "وكان العمل صعب المنال، وخاصّةً للنساء.",
+            "وهذا هو المكان الذي حدثت فيه أحداث 1888."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "z czasów, kiedy rządziła królowa Victoria, od 1837 do 1901 roku (Victorian)",
+            "biedna, zatłoczona wschodnia część Londynu (East End)",
+            "obszar miasta, który ma własną nazwę (district)",
+            "zbyt wielu ludzi mieszkających na zbyt małej przestrzeni (overcrowding)",
+            "tani nocleg, w którym płaciło się za łóżko na jedną noc (doss house)",
+            "zaniedbany obszar biednych, zatłoczonych domów (slum)"
+          ],
+          "passage": [
+            "W 1888 roku Wielka Brytania była bogata i potężna.",
+            "Królowa Victoria (Wiktoria) rządziła od 1837 roku.",
+            "Londyn był największą stolicą na świecie.",
+            "Ale bogactwo nie było dzielone sprawiedliwie.",
+            "W East Endzie w Londynie mieszkało około 900,000 ludzi.",
+            "Whitechapel był najbiedniejszą dzielnicą East Endu.",
+            "Mieszkało tam około 78,000 ludzi, upchanych na małym obszarze.",
+            "Średnio w każdym domu mieszkało siedem osób.",
+            "Około 8,000 ludzi regularnie spało na ulicy.",
+            "Najbiedniejsi płacili kilka pensów za łóżko w noclegowni.",
+            "Pracę trudno było znaleźć, zwłaszcza kobietom.",
+            "To jest miejsce, w którym zdarzyły się wydarzenia 1888 roku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "do tempo em que a rainha Victoria governou, de 1837 a 1901 (Victorian, vitoriano)",
+            "a parte leste de Londres, pobre e cheia de gente (East End)",
+            "uma área de uma vila ou cidade com o seu próprio nome (district, bairro)",
+            "demasiadas pessoas a viver num espaço demasiado pequeno (overcrowding, sobrelotação/superlotação)",
+            "uma hospedaria barata onde se pagava uma cama por uma noite (doss house)",
+            "uma área degradada, com casas pobres e cheias de gente (slum, bairro de lata/favela)"
+          ],
+          "passage": [
+            "Em 1888 a Grã-Bretanha era rica e poderosa.",
+            "A rainha Victoria (Vitória) governava desde 1837.",
+            "Londres era a maior capital do mundo.",
+            "Mas a riqueza não era repartida de forma justa.",
+            "No East End de Londres viviam cerca de 900 000 pessoas.",
+            "Whitechapel era o bairro mais pobre do East End.",
+            "Viviam lá cerca de 78 000 pessoas, apertadas numa área pequena.",
+            "Em média, viviam sete pessoas em cada casa.",
+            "Cerca de 8 000 pessoas dormiam habitualmente na rua.",
+            "Os mais pobres pagavam alguns tostões por uma cama numa doss house.",
+            "O trabalho era difícil de encontrar, sobretudo para as mulheres.",
+            "É este o lugar onde os acontecimentos de 1888 aconteceram."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "ka yimid waqtigii Boqorad Victoria xukumaysay, 1837 ilaa 1901",
+            "qaybta bariga ee London oo faqiir iyo dad badan leh",
+            "meel magaalo ah oo magac u gaar ah leh",
+            "dad aad u badan oo meel aad u yar ku nool",
+            "hoy jaban oo habeen kasta sariir lacag ku bixiso",
+            "meel burbursan oo guryo faqiir ah oo dad badan ku jira"
+          ],
+          "passage": [
+            "1888-kii Biritayn waxay ahayd hodan iyo awood weyn.",
+            "Boqorad Victoria waxay xukumaysay ilaa 1837-dii.",
+            "London waxay ahayd caasimadda ugu weyn dunida.",
+            "Laakiin maalka si caddaalad ah looma wadaagin.",
+            "East End ee London waxaa ku noolaa qiyaastii 900,000 oo qof.",
+            "Whitechapel waxay ahayd degmada ugu faqiirsan East End.",
+            "Qiyaastii 78,000 oo qof ayaa halkaas ku noolaa, oo meel yar ku cufnaa.",
+            "Celcelis ahaan, toddoba qof ayaa guri kasta ku noolaa.",
+            "Qiyaastii 8,000 oo qof si joogto ah waxay waddooyinka ku seexdeen.",
+            "Kuwa ugu faqiirsan waxay bixiyeen dhowr penny oo sariir doss house ah.",
+            "Shaqo way adkayd in la helo, gaar ahaan haweenka.",
+            "Tan waa meeshii dhacdooyinkii 1888 ka dhaceen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "з часу, коли правила королева Вікторія, з 1837 до 1901 року (Victorian)",
+            "бідна, переповнена східна частина Лондона (East End)",
+            "частина містечка або міста з власною назвою (district)",
+            "надто багато людей, які живуть на надто малому просторі (overcrowding)",
+            "дешева нічліжка, де платили за ліжко на одну ніч (doss house)",
+            "занедбаний район бідного, переповненого житла (slum)"
+          ],
+          "passage": [
+            "У 1888 році Британія була багатою й могутньою.",
+            "Королева Вікторія правила з 1837 року.",
+            "Лондон був найбільшою столицею у світі.",
+            "Але багатство було розподілене несправедливо.",
+            "У Іст-Енді (East End) Лондона жило близько 900,000 людей.",
+            "Вайтчепел (Whitechapel) був найбіднішою частиною Іст-Енду.",
+            "Там жило близько 78,000 людей, втиснутих у невелику площу.",
+            "У середньому в кожному будинку жило сім людей.",
+            "Близько 8,000 людей постійно спали просто на вулицях.",
+            "Найбідніші платили кілька пенні за ліжко в нічліжці.",
+            "Роботу було важко знайти, особливо жінкам.",
+            "Це те місце, де сталися події 1888 року."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ملکہ وکٹوریہ کے دور کا، یعنی 1837 سے 1901 تک (Victorian)",
+            "لندن کا غریب اور گنجان مشرقی حصہ (East End)",
+            "کسی قصبے یا شہر کا ایک علاقہ جس کا اپنا نام ہو (district)",
+            "بہت تھوڑی جگہ میں بہت زیادہ لوگوں کا رہنا (overcrowding)",
+            "سستی سرائے جہاں آپ ایک رات کے بستر کے پیسے دیتے تھے (doss house)",
+            "غریب، گنجان اور خستہ مکانوں کا علاقہ (slum)"
+          ],
+          "passage": [
+            "1888 میں برطانیہ امیر اور طاقتور تھا۔",
+            "ملکہ وکٹوریہ 1837 سے حکومت کر رہی تھیں۔",
+            "لندن دنیا کا سب سے بڑا دارالحکومت تھا۔",
+            "مگر یہ دولت انصاف سے نہیں بٹی تھی۔",
+            "لندن کے East End میں تقریباً 900,000 لوگ رہتے تھے۔",
+            "وائٹ چیپل (Whitechapel) East End کا سب سے غریب district تھا۔",
+            "وہاں تقریباً 78,000 لوگ رہتے تھے، ایک چھوٹے سے علاقے میں بھنچے ہوئے۔",
+            "اوسطاً ہر مکان میں سات لوگ رہتے تھے۔",
+            "تقریباً 8,000 لوگ عام طور پر سڑکوں پر کھلے میں سوتے تھے۔",
+            "سب سے غریب لوگ doss house میں بستر کے لیے چند پیسے دیتے تھے۔",
+            "کام ملنا مشکل تھا، خاص کر عورتوں کے لیے۔",
+            "یہی وہ جگہ ہے جہاں 1888 کے واقعات پیش آئے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Victorian Britain: rich, powerful and unequal",
@@ -300,8 +454,168 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
           "Newcomers from Ireland and Eastern Europe moved in because rents were cheap.",
           "Some local people blamed them unfairly for their own hardship.",
           "All of this made crime easier to commit and harder to solve."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ضباب كثيف قذر يزيده الدخان سوءًا (pea souper)",
+            "كيف كان المكان نفسه (physical condition)",
+            "كيف كانت حياة الناس (social condition)",
+            "الانتقال إلى بلد آخر لبناء حياة جديدة (immigration)",
+            "معاملة الناس معاملةً قاسية بسبب هويّتهم (persecution)",
+            "أن تحكم على الناس جماعةً قبل أن تعرفهم (prejudice)"
+          ],
+          "passage": [
+            "كانت وايتشابل مكانًا يصعب على الشرطة ضبطه.",
+            "فشوارعها ضيّقة متّصلة كالمتاهة.",
+            "وكانت تُضاء في الليل بمصابيح غاز مفردة.",
+            "وكان الضباب الكثيف، ويُسمّى \"بي سوبر\" (pea souper)، يملأ الهواء كثيرًا.",
+            "وكانت الحيوانات تُساق في الشوارع إلى المسالخ.",
+            "وكانت الشوارع قذرة والضجيج لا يتوقّف.",
+            "وهذه كانت الأحوال المادّية للمكان.",
+            "وكانت هناك أحوال اجتماعية أيضًا.",
+            "فكثير من الناس كان بلا بيت، وكثير منهم كان يشرب لينسى همومه.",
+            "وكان الشِّجار شائعًا، وخاصّةً في الليل.",
+            "وانتقل إليها قادمون جدد من أيرلندا وشرق أوروبا لأنّ الإيجارات رخيصة.",
+            "وبعض أهل المكان لامهم بغير حقّ على شقائهم هم.",
+            "وهذا كلّه جعل الجريمة أسهل وقوعًا وأصعب حلًّا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "gęsta, brudna mgła, którą pogarszał dym (pea souper)",
+            "to, jakie było samo miejsce (physical condition)",
+            "to, jakie było życie ludzi (social condition)",
+            "przeniesienie się do innego kraju, żeby zacząć tam nowe życie (immigration)",
+            "okrutne traktowanie ludzi za to, kim są (persecution)",
+            "ocenianie ludzi jako grupy, zanim się ich pozna (prejudice)"
+          ],
+          "passage": [
+            "Whitechapel był trudnym miejscem do pilnowania porządku.",
+            "Jego ulice były wąskie i łączyły się jak labirynt.",
+            "W nocy świeciły tam pojedyncze lampy gazowe.",
+            "Powietrze często wypełniała gęsta mgła zwana pea souper.",
+            "Ulicami pędzono zwierzęta do rzeźni.",
+            "Ulice były brudne, a hałas nigdy nie ustawał.",
+            "To były warunki fizyczne tego miejsca.",
+            "Były też warunki społeczne.",
+            "Wielu ludzi nie miało domu, a wielu piło, żeby zapomnieć o kłopotach.",
+            "Bójki były czymś zwyczajnym, zwłaszcza nocą.",
+            "Przybysze z Irlandii i z Europy Wschodniej osiedlali się tam, bo czynsze były tanie.",
+            "Część miejscowych niesprawiedliwie winiła ich za swoją własną biedę.",
+            "Wszystko to sprawiało, że przestępstwa łatwiej było popełnić i trudniej wyjaśnić."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um nevoeiro espesso e sujo, piorado pelo fumo (pea souper)",
+            "como era o próprio lugar (physical condition, condição física)",
+            "como era a vida das pessoas (social condition, condição social)",
+            "mudar para outro país para começar uma vida nova (immigration, imigração)",
+            "tratar pessoas com crueldade por causa de quem elas são (persecution, perseguição)",
+            "julgar as pessoas como grupo antes de as conhecer (prejudice, preconceito)"
+          ],
+          "passage": [
+            "Whitechapel era um lugar difícil de policiar.",
+            "As suas ruas eram estreitas e ligavam-se umas às outras como um labirinto.",
+            "De noite eram iluminadas por candeeiros de gás isolados.",
+            "Um nevoeiro espesso, chamado pea souper, enchia muitas vezes o ar.",
+            "Levavam-se animais pelas ruas até aos matadouros.",
+            "As ruas eram sujas e o ruído nunca parava.",
+            "Estas eram as condições físicas do lugar.",
+            "Havia também condições sociais.",
+            "Muitas pessoas não tinham casa, e muitas bebiam para esquecer os seus problemas.",
+            "As brigas eram comuns, sobretudo de noite.",
+            "Chegavam pessoas da Irlanda e da Europa de Leste, porque as rendas eram baratas.",
+            "Havia moradores locais que as culpavam injustamente das suas próprias dificuldades.",
+            "Tudo isto tornava o crime mais fácil de cometer e mais difícil de resolver."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "ceeryaamo qaro weyn oo wasakh ah oo qiiqu sii xumeeyay",
+            "sida meeshu laftigeeda ahayd",
+            "sida nolosha dadku ahayd",
+            "guurista dal kale si nolol cusub loo bilaabo",
+            "dad si naxariis-darro ah loola dhaqmo sababtoo ah cidda ay yihiin",
+            "inaad dad koox ahaan u xukunto intaadan garanin"
+          ],
+          "passage": [
+            "Whitechapel waxay ahayd meel ay booliisnimada ku adkeyd.",
+            "Waddooyinkeedu waxay ahaayeen kuwo cidhiidhi ah oo sidii maaro isku xiran.",
+            "Habeenkii waxaa iftiimiyay nalal gaas ah oo kali kali ah.",
+            "Ceeryaamo qaro weyn, oo la yiraahdo pea souper, ayaa inta badan hawada buuxisay.",
+            "Xoolo waxaa waddooyinka dhex loo kexeeyay goobaha gawraca.",
+            "Waddooyinku way wasakhsanaayeen, buuqana weligii ma joogsan.",
+            "Kuwan waxay ahaayeen xaaladaha jirka ee meesha.",
+            "Xaalado bulshona way jireen.",
+            "Dad badan waxay ahaayeen guri la'aan, qaar badanna waxay cabbeen si ay dhibaatooyinkooda u illoobaan.",
+            "Dagaallo waa caadi ahaayeen, gaar ahaan habeenkii.",
+            "Dad cusub oo ka yimid Ireland iyo bariga Yurub ayaa soo degay maxaa yeelay kirooyinku jaban yihiin.",
+            "Dadka maxalliga qaar si aan caddaaladaysnayn ayay ugu eedeeyeen adkaantooda.",
+            "Tan oo dhan waxay ka dhigtay in dembigu si fudud la galo oo si adag la xalliyo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "густий брудний туман, гірший через дим (pea souper)",
+            "те, яким було саме місце (physical condition)",
+            "те, яким було життя людей (social condition)",
+            "переїзд до іншої країни, щоб улаштувати нове життя (immigration)",
+            "жорстоке ставлення до людей через те, хто вони є (persecution)",
+            "судження про людей як про групу, перш ніж ви їх пізнали (prejudice)"
+          ],
+          "passage": [
+            "Вайтчепел був важким місцем для поліції.",
+            "Його вулиці були вузькі і сходилися, наче лабіринт.",
+            "Уночі їх освітлювали одиночні газові лампи.",
+            "Повітря часто наповнював густий туман, який називали pea souper.",
+            "Вулицями гнали тварин до забійних дворів.",
+            "Вулиці були брудні, а шум не припинявся ніколи.",
+            "Це були фізичні умови цього місця.",
+            "Були також суспільні умови.",
+            "Багато людей не мало дому, і багато хто пив, щоб забути про свої клопоти.",
+            "Бійки були звичайною справою, особливо вночі.",
+            "Новоприбулі з Ірландії та Східної Європи селилися там, бо житло було дешеве.",
+            "Деякі місцеві люди несправедливо звинувачували їх у власних злиднях.",
+            "Усе це робило злочин легшим для скоєння і важчим для розкриття."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "گاڑھی، میلی دھند جسے دھواں مزید بگاڑ دیتا تھا (pea souper)",
+            "خود وہ جگہ کیسی تھی (physical condition)",
+            "وہاں کے لوگوں کی زندگی کیسی تھی (social condition)",
+            "نئی زندگی بسانے کے لیے دوسرے ملک جانا (immigration)",
+            "لوگوں کے ساتھ اس وجہ سے ظلم کرنا کہ وہ کون ہیں (persecution)",
+            "لوگوں کو جاننے سے پہلے ہی ایک گروہ کے طور پر ان کے بارے میں فیصلہ کر لینا (prejudice)"
+          ],
+          "passage": [
+            "وائٹ چیپل میں پولیس کا کام کرنا مشکل تھا۔",
+            "اس کی گلیاں تنگ تھیں اور بھول بھلیوں کی طرح آپس میں جڑی ہوئی تھیں۔",
+            "رات کو انھیں اکیلے اکیلے گیس کے لیمپ روشن کرتے تھے۔",
+            "گاڑھی دھند، جسے pea souper کہتے تھے، اکثر ہوا میں چھا جاتی تھی۔",
+            "جانوروں کو گلیوں میں سے گزار کر مذبح خانوں تک لے جایا جاتا تھا۔",
+            "گلیاں گندی تھیں اور شور کبھی نہ رکتا تھا۔",
+            "یہ اُس جگہ کے physical conditions تھے۔",
+            "social conditions بھی تھے۔",
+            "بہت لوگوں کے سر پر چھت نہ تھی، اور بہت سے اپنی مشکلیں بھلانے کے لیے شراب پیتے تھے۔",
+            "لڑائی جھگڑا عام تھا، خاص کر رات کو۔",
+            "آئرلینڈ اور مشرقی یورپ سے آنے والے نئے لوگ یہاں بس گئے، کیونکہ کرایہ سستا تھا۔",
+            "کچھ مقامی لوگ ناانصافی سے اپنی تنگی کا الزام ان پر ڈالتے تھے۔",
+            "ان سب باتوں نے جرم کرنا آسان اور حل کرنا مشکل بنا دیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Physical conditions: fog, maze and dirt",
@@ -520,8 +834,156 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
           "Mary Jane Kelly was the last, on 9 November.",
           "The killer was never caught.",
           "Historians today try to remember the women as people, not just as a case."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الخمس اللواتي يتّفق المؤرّخون عمومًا على أنّ الشخص نفسه قتلهنّ (Canonical Five)",
+            "شخص تُصيبه جريمة بضرر (victim)",
+            "سهل الإصابة لأنّ حمايته قليلة (vulnerable)",
+            "مكان تدفع ثمنه لتنام فيه (lodging)",
+            "ليلة 30 سبتمبر 1888، وقد ماتت فيها امرأتان في 45 دقيقة (double event)"
+          ],
+          "passage": [
+            "في خريف 1888 قُتلت خمس نساء في وايتشابل وما حولها.",
+            "ويسمّيهنّ المؤرّخون الخمس المتّفق عليهنّ (the Canonical Five).",
+            "وأسماؤهنّ ماري آن نيكولز، وآني تشابمان، وإليزابيث سترايد، وكاثرين إيدوز، وماري جين كيلي.",
+            "وكنّ أمّهات وزوجات وبنات وصديقات.",
+            "وكنّ كلّهنّ فقيرات.",
+            "ومعظمهنّ كان عنده مشكلة مع الشراب.",
+            "وكانت عدّة منهنّ في الخارج ليلًا تحاول أن تكسب بنسات السرير.",
+            "وكانت ماري آن نيكولز الأولى، في 31 أغسطس.",
+            "وماتت إليزابيث سترايد وكاثرين إيدوز في الليلة نفسها، 30 سبتمبر.",
+            "وكانت ماري جين كيلي الأخيرة، في 9 نوفمبر.",
+            "ولم يُقبض على القاتل أبدًا.",
+            "والمؤرّخون اليوم يحاولون أن يتذكّروا النساء أشخاصًا، لا قضيّةً فقط."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "pięć kobiet, co do których historycy zwykle się zgadzają, że zabiła je ta sama osoba (Canonical Five)",
+            "osoba, której przestępstwo wyrządza krzywdę (victim)",
+            "łatwy do skrzywdzenia, bo ma się małą ochronę (vulnerable)",
+            "miejsce do spania, za które się płaci (lodging)",
+            "noc 30 września 1888 roku, kiedy dwie kobiety zginęły w ciągu 45 minut (double event)"
+          ],
+          "passage": [
+            "Jesienią 1888 roku w Whitechapel i okolicy zabito pięć kobiet.",
+            "Historycy nazywają je Canonical Five.",
+            "Nazywały się Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes i Mary Jane Kelly.",
+            "Były matkami, żonami, córkami i przyjaciółkami.",
+            "Wszystkie były biedne.",
+            "Większość miała kłopoty z alkoholem.",
+            "Kilka z nich wychodziło nocą, próbując zarobić pensy na łóżko.",
+            "Mary Ann Nichols była pierwszą, 31 sierpnia.",
+            "Elizabeth Stride i Catherine Eddowes zginęły tej samej nocy, 30 września.",
+            "Mary Jane Kelly była ostatnią, 9 listopada.",
+            "Zabójcy nigdy nie schwytano.",
+            "Historycy dzisiaj starają się pamiętać te kobiety jako ludzi, a nie tylko jako sprawę."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "as cinco mulheres que os historiadores geralmente concordam que foram mortas pela mesma pessoa (Canonical Five)",
+            "uma pessoa que sofre um crime (victim, vítima)",
+            "fácil de ser atingido porque tem pouca proteção (vulnerable, vulnerável)",
+            "um lugar para dormir que se paga (lodging, dormida)",
+            "a noite de 30 de setembro de 1888, em que duas mulheres morreram em 45 minutos (double event)"
+          ],
+          "passage": [
+            "No outono de 1888, cinco mulheres foram mortas em Whitechapel e nos arredores.",
+            "Os historiadores chamam-lhes as Canonical Five, as cinco canónicas/canônicas.",
+            "Chamavam-se Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes e Mary Jane Kelly.",
+            "Eram mães, esposas, filhas e amigas.",
+            "Todas elas eram pobres.",
+            "Quase todas tinham problemas com a bebida.",
+            "Várias andavam na rua de noite a tentar ganhar os tostões para uma cama.",
+            "Mary Ann Nichols foi a primeira, a 31 de agosto.",
+            "Elizabeth Stride e Catherine Eddowes morreram na mesma noite, a 30 de setembro.",
+            "Mary Jane Kelly foi a última, a 9 de novembro.",
+            "O assassino nunca foi apanhado.",
+            "Os historiadores de hoje procuram recordar estas mulheres como pessoas, e não apenas como um caso."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "shanta haween ee taariikhyahannadu inta badan isku raacsan yihiin in isku qof dilay",
+            "qof dembi waxyeelleeyay",
+            "si fudud la waxyeelleyn karo maxaa yeelay ilaalin yar ayaad leedahay",
+            "meel aad lacag ku bixiso oo seexato",
+            "habeenkii 30 Sebtembar 1888, markii laba haween ay 45 daqiiqo gudahood dhinteen"
+          ],
+          "passage": [
+            "Dayrtii 1888, shan haween ah waa la dilay Whitechapel iyo hareeraheeda.",
+            "Taariikhyahannadu waxay ugu yeeraan Canonical Five.",
+            "Shanta haween magacyadoodu waxay kala ahaayeen kuwan: Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes iyo Mary Jane Kelly.",
+            "Waxay ahaayeen hooyooyin, xaasas, gabdho iyo saaxiibo.",
+            "Dhammaantood waxay ahaayeen faqiir.",
+            "Badidood waxay dhibaato ka cabbitaanka lahaayeen.",
+            "Dhowr ka mid ah habeenkii way baxeen iyagoo doonaya inay penny-ga sariirta kasbadaan.",
+            "Mary Ann Nichols waxay ahayd tii ugu horreysay, 31 Agoosto.",
+            "Elizabeth Stride iyo Catherine Eddowes waxay isku habeen dhinteen, 30 Sebtembar.",
+            "Mary Jane Kelly waxay ahayd tii ugu dambeysay, 9 Noofembar.",
+            "Dilaagii weligii lama qabtin.",
+            "Taariikhyahannada maanta waxay isku dayaan inay haweenka u xasuustaan dad, ee ma aha oo keliya kiis."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "п’ять жінок, щодо яких історики загалом погоджуються, що їх убила та сама людина (Canonical Five)",
+            "людина, якій злочин завдав шкоди (victim)",
+            "той, кому легко завдати шкоди, бо він має мало захисту (vulnerable)",
+            "місце для сну, за яке ви платите (lodging)",
+            "ніч 30 вересня 1888 року, коли дві жінки загинули протягом 45 хвилин (double event)"
+          ],
+          "passage": [
+            "Осінню 1888 року у Вайтчепелі та навколо нього вбили п’ять жінок.",
+            "Історики називають їх «канонічною п’ятіркою» (the Canonical Five).",
+            "Їх звали Мері Енн Ніколс (Mary Ann Nichols), Енні Чепмен, Елізабет Страйд, Кетрін Еддоус і Мері Джейн Келлі.",
+            "Вони були матерями, дружинами, дочками і друзями.",
+            "Усі вони були бідні.",
+            "Більшість мала клопоти з питвом.",
+            "Кілька з них були надворі вночі, намагаючись заробити кілька пенні на ліжко.",
+            "Мері Енн Ніколс була першою, 31 серпня.",
+            "Елізабет Страйд і Кетрін Еддоус загинули тієї самої ночі, 30 вересня.",
+            "Мері Джейн Келлі була останньою, 9 листопада.",
+            "Убивцю так і не схопили.",
+            "Історики сьогодні намагаються пам’ятати цих жінок як людей, а не просто як справу."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ پانچ خواتین جن کے بارے میں مؤرخ عموماً متفق ہیں کہ انھیں ایک ہی شخص نے قتل کیا (Canonical Five)",
+            "وہ شخص جسے کسی جرم سے نقصان پہنچے (victim)",
+            "جسے نقصان پہنچانا آسان ہو، کیونکہ اس کے پاس حفاظت بہت کم ہے (vulnerable)",
+            "سونے کی وہ جگہ جس کے آپ پیسے دیتے ہیں (lodging)",
+            "30 ستمبر 1888 کی رات، جب 45 منٹ کے اندر دو خواتین فوت ہوئیں (double event)"
+          ],
+          "passage": [
+            "1888 کے خزاں میں وائٹ چیپل اور اس کے آس پاس پانچ خواتین قتل کی گئیں۔",
+            "مؤرخ انھیں Canonical Five کہتے ہیں۔",
+            "ان کے نام میری این نکلز (Mary Ann Nichols)، اینی چیپمین (Annie Chapman)، الزبتھ سٹرائیڈ (Elizabeth Stride)، کیتھرین ایڈوز (Catherine Eddowes) اور میری جین کیلی (Mary Jane Kelly) تھے۔",
+            "وہ مائیں، بیویاں، بیٹیاں اور سہیلیاں تھیں۔",
+            "وہ سب غریب تھیں۔",
+            "زیادہ تر کو شراب کا مسئلہ تھا۔",
+            "کئی رات کو باہر نکلتی تھیں تاکہ بستر کے پیسے کما سکیں۔",
+            "میری این نکلز پہلی تھیں، 31 اگست کو۔",
+            "الزبتھ سٹرائیڈ اور کیتھرین ایڈوز ایک ہی رات، 30 ستمبر کو، فوت ہوئیں۔",
+            "میری جین کیلی آخری تھیں، 9 نومبر کو۔",
+            "قاتل کبھی نہ پکڑا گیا۔",
+            "آج مؤرخ کوشش کرتے ہیں کہ ان خواتین کو انسانوں کے طور پر یاد رکھیں، صرف ایک مقدمے کے طور پر نہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who were the Canonical Five?",
@@ -720,8 +1182,162 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
           "In Whitechapel they tried decoys, leaflets, interviews and bloodhounds.",
           "None of these worked.",
           "Two different police forces were also investigating, and they did not work well together."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قوّة شرطة لندن، وقد أُنشئت في 1829 (Metropolitan Police)",
+            "لقب أوّل رجال الشرطة، نسبةً إلى السير روبرت بيل (Peelers)",
+            "الطريق الثابت الذي كان الشرطي يمشيه مرّة بعد مرّة في دوريّته (beat)",
+            "استخدام العلم لإيجاد أدلّة الجريمة (forensic)",
+            "شيء يُستخدم طُعمًا لجذب مُجرم (decoy)",
+            "كلب مدرَّب على تتبّع الأثر بالشمّ (bloodhound)"
+          ],
+          "passage": [
+            "قبل 1829 لم تكن في لندن قوّة شرطة.",
+            "فإذا وقع اضطراب أُرسل الجيش.",
+            "وفي 1829 أنشأ السير روبرت بيل (Sir Robert Peel) شرطة العاصمة.",
+            "ولقّب الناس رجالها بالبيلرز (Peelers) والبوبيز (Bobbies).",
+            "وكانت للقوّة الجديدة مشكلات من أوّل أمرها.",
+            "فلم يكن لرجالها تدريب صحيح، ولم يكونوا يُدفع لهم إلّا جنيه واحد في الأسبوع.",
+            "وكثير من أهل المكان لم يكن يثق بهم.",
+            "وفي 1888 لم يكن عند الشرطة آلات تصوير ولا بصمات ولا علم جنائي.",
+            "ولإثبات جريمة قتل كان عليهم أن يضبطوا القاتل متلبّسًا أو أن يحصلوا على إقرار.",
+            "وفي وايتشابل جرّبوا الطُّعوم والمنشورات والمقابلات وكلاب التتبّع.",
+            "ولم ينجح شيء من ذلك.",
+            "وكانت قوّتا شرطة مختلفتان تحقّقان أيضًا، ولم تكونا تعملان معًا عملًا جيّدًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "policja Londynu, utworzona w 1829 roku (Metropolitan Police)",
+            "przezwisko pierwszych policjantów, od nazwiska sir Roberta Peela (Peelers)",
+            "stała trasa, którą policjant obchodził raz po raz na patrolu (beat)",
+            "korzystający z nauki, żeby znaleźć dowody przestępstwa (forensic)",
+            "coś używanego jako przynęta, żeby zwabić przestępcę (decoy)",
+            "pies wyszkolony do tropienia po zapachu (bloodhound)"
+          ],
+          "passage": [
+            "Przed 1829 rokiem Londyn nie miał policji.",
+            "Kiedy były kłopoty, wysyłano wojsko.",
+            "W 1829 roku sir Robert Peel założył policję o nazwie Metropolitan Police.",
+            "Ludzie przezwali policjantów Peelers i Bobbies.",
+            "Nowa policja miała problemy od samego początku.",
+            "Policjanci nie mieli porządnego szkolenia i zarabiali tylko jednego funta na tydzień.",
+            "Wielu miejscowych im nie ufało.",
+            "W 1888 roku policja nie miała aparatów, odcisków palców ani nauk sądowych.",
+            "Żeby dowieść morderstwa, musiała przyłapać zabójcę na gorącym uczynku albo uzyskać przyznanie się.",
+            "W Whitechapel próbowano przynęt, ulotek, przesłuchań i psów tropiących.",
+            "Nic z tego nie zadziałało.",
+            "Sprawę badały też dwie różne policje, które źle ze sobą współpracowały."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a força policial de Londres, criada em 1829 (Metropolitan Police)",
+            "uma alcunha/apelido dos primeiros polícias, por causa de Sir Robert Peel (Peelers)",
+            "o percurso fixo que um agente percorria outra e outra vez na sua patrulha (beat)",
+            "que usa a ciência para encontrar provas de um crime (forensic, forense)",
+            "algo usado como isca para atrair um criminoso (decoy, chamariz)",
+            "um cão treinado para seguir um rasto (bloodhound, cão de rasto)"
+          ],
+          "passage": [
+            "Antes de 1829, Londres não tinha força policial.",
+            "Se houvesse problemas, era enviado o exército.",
+            "Em 1829 Sir Robert Peel criou a Metropolitan Police.",
+            "As pessoas deram aos agentes as alcunhas/apelidos de Peelers e Bobbies.",
+            "A nova força teve problemas desde o início.",
+            "Os agentes não tinham formação adequada e recebiam apenas uma libra por semana.",
+            "Muitos moradores locais não confiavam neles.",
+            "Em 1888 a polícia não tinha máquinas fotográficas, nem impressões digitais, nem ciência forense.",
+            "Para provar um homicídio, tinham de apanhar o autor em flagrante ou obter uma confissão.",
+            "Em Whitechapel tentaram chamarizes, panfletos, entrevistas e cães de rasto.",
+            "Nada disto funcionou.",
+            "Havia também duas forças policiais diferentes a investigar, e não trabalhavam bem juntas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "ciidanka booliiska London, oo la aasaasay 1829-kii",
+            "naaneys loo bixiyay saraakiisha booliis ee ugu horreeyay, oo ka timid Sir Robert Peel",
+            "jidka go'an ee sarkaalku mar iyo mar ku lugeeyay intii uu ilaalinayay",
+            "isticmaalka sayniska si caddayn dembi loo helo",
+            "wax loo isticmaalo sidii dabin si dembiile loo soo jiito",
+            "ey loo tababbaray inuu carafta raaco"
+          ],
+          "passage": [
+            "1829-kii ka hor, London ciidan booliis ma lahayn.",
+            "Haddii dhibaato dhacdo, ciidanka ayaa la soo dirayay.",
+            "1829-kii Sir Robert Peel wuxuu aasaasay ciidanka Metropolitan Police.",
+            "Dadku saraakiisha waxay ugu naaneysay Peelers iyo Bobbies.",
+            "Ciidanka cusub dhibaato ayuu bilowgii ka lahaa.",
+            "Saraakiishu tababbar habboon ma lahayn, waxaana lagu siiyay hal pound toddobaadkii.",
+            "Dadka maxalliga qaar badan kuma kalsoonayn.",
+            "1888-kii booliisku kamarado ma lahayn, calaamadaha farta ma lahayn, sayniska forensic-na ma lahayn.",
+            "Si ay dil u caddeeyaan, waxay ku qasban yihiin inay dilaaga goobta ku qabtaan ama qirasho ka helaan.",
+            "Whitechapel waxay isku dayeen decoys, warqado, waraysiyo iyo bloodhounds.",
+            "Midkoodna ma shaqeyn.",
+            "Laba ciidan booliis oo kala duwan ayaa sidoo kale baaraya, sina uma wada shaqeyn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "поліція Лондона, створена у 1829 році (Metropolitan Police)",
+            "прізвисько перших поліцейських, від імені сера Роберта Піля (Peelers)",
+            "постійний маршрут, яким поліцейський ходив знову і знову на патрулі (beat)",
+            "використання науки, щоб знайти свідчення злочину (forensic)",
+            "те, що використовують як приманку, щоб привабити злочинця (decoy)",
+            "собака, навчений іти по запаху (bloodhound)"
+          ],
+          "passage": [
+            "До 1829 року Лондон не мав поліції.",
+            "Якщо виникав неспокій, присилали військо.",
+            "У 1829 році сер Роберт Піль створив Столичну поліцію (Metropolitan Police).",
+            "Люди дали поліцейським прізвиська Peelers і Bobbies.",
+            "Нова служба мала проблеми із самого початку.",
+            "Поліцейські не мали належного навчання і отримували лише один фунт на тиждень.",
+            "Багато місцевих людей їм не довіряло.",
+            "У 1888 році поліція не мала ні фотоапаратів, ні відбитків пальців, ні криміналістики.",
+            "Щоб довести вбивство, вони мусили схопити вбивцю на місці або отримати визнання.",
+            "У Вайтчепелі вони пробували приманки, листівки, опитування і собак-шукачів.",
+            "Ніщо з цього не подіяло.",
+            "Крім того, справу розслідували дві різні поліційні служби, і вони погано працювали разом."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "لندن کی پولیس فورس، جو 1829 میں بنائی گئی (Metropolitan Police)",
+            "پہلے پولیس افسروں کا عام نام، جو سر رابرٹ پِیل کے نام سے پڑا (Peelers)",
+            "وہ مقررہ راستہ جس پر افسر گشت میں بار بار چلتا تھا (beat)",
+            "جرم کی شہادت ڈھونڈنے کے لیے سائنس کا استعمال (forensic)",
+            "وہ چیز جو مجرم کو لبھانے کے لیے چارے کے طور پر استعمال ہو (decoy)",
+            "وہ کتا جو بو سونگھ کر پیچھا کرنے کی تربیت پا چکا ہو (bloodhound)"
+          ],
+          "passage": [
+            "1829 سے پہلے لندن میں کوئی پولیس فورس نہ تھی۔",
+            "اگر کوئی گڑبڑ ہوتی تو فوج بھیجی جاتی تھی۔",
+            "1829 میں سر رابرٹ پِیل (Sir Robert Peel) نے Metropolitan Police بنائی۔",
+            "لوگوں نے افسروں کو Peelers اور Bobbies کے نام دیے۔",
+            "اس نئی فورس میں شروع ہی سے مسئلے تھے۔",
+            "افسروں کی کوئی باقاعدہ تربیت نہ تھی اور انھیں ہفتے کا صرف ایک پاؤنڈ ملتا تھا۔",
+            "بہت سے مقامی لوگ ان پر بھروسہ نہیں کرتے تھے۔",
+            "1888 میں پولیس کے پاس نہ کیمرے تھے، نہ انگلیوں کے نشان، اور نہ forensic science۔",
+            "قتل ثابت کرنے کے لیے انھیں قاتل کو کرتے ہوئے پکڑنا پڑتا تھا، یا اس سے اعتراف لینا پڑتا تھا۔",
+            "وائٹ چیپل میں انھوں نے decoys، اشتہار، انٹرویو اور bloodhounds آزمائے۔",
+            "ان میں سے کوئی بھی کام نہ آیا۔",
+            "دو مختلف پولیس فورسیں بھی تحقیق کر رہی تھیں، اور ان کا باہمی تعاون اچھا نہ تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where the police came from",
@@ -926,8 +1542,162 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
           "Newspapers and magazines mocked the police for failing.",
           "A cartoon in Punch showed a blindfolded officer surrounded by criminals.",
           "To use a source like that, you must ask who made it and why."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "وصف يعطيه للشرطة شخص رأى شيئًا (witness statement)",
+            "قابل للتصديق؛ يمكن الثقة به (credible)",
+            "شخص ترى الشرطة أنه قد يكون ارتكب جريمة (suspect)",
+            "دليل على أنّ الشخص كان في مكان آخر حين وقعت الجريمة (alibi)",
+            "مَن صنع المصدر، ومتى، ولماذا (provenance)",
+            "وجه يكون فيه المصدر أقلّ نفعًا (limitation)"
+          ],
+          "passage": [
+            "كانت الشرطة في 1888 تعتمد على الشهود.",
+            "ولكنّ الشهود في وايتشابل لم يكونوا جديرين بالتصديق كثيرًا.",
+            "فقد رأوا أشخاصًا لحظةً، في الليل، في الضباب وضوء الغاز الخفيف.",
+            "وكثير منهم كان قد شرب.",
+            "وبعضهم لم يكن يثق بالشرطة، وقد لا يكون قال الحقّ كلّه.",
+            "وأوصافهم لم تتّفق بعضها مع بعض.",
+            "وعلى مرّ السنين سُمّي أكثر من 100 مشتبه به بكثير.",
+            "ولم يُثبت على أحد منهم أبدًا أنه القاتل.",
+            "وبغير العلم الجنائي لم يكن يمكن إثبات شيء في أيّ اتّجاه.",
+            "وسخرت الصحف والمجلّات من الشرطة لفشلها.",
+            "ورسم كارتوني في مجلّة بَنْش (Punch) أظهر شرطيًّا معصوب العينين يحيط به المُجرمون.",
+            "ولتستخدم مصدرًا كهذا عليك أن تسأل: مَن صنعه؟ ولماذا؟"
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "opis, który policji podaje ktoś, kto coś widział (witness statement)",
+            "wiarygodny, czyli taki, któremu można zaufać (credible)",
+            "osoba, o której policja myśli, że mogła popełnić przestępstwo (suspect)",
+            "dowód, że dana osoba była gdzie indziej, kiedy zdarzyło się przestępstwo (alibi)",
+            "kto zrobił źródło, kiedy i dlaczego (provenance)",
+            "sposób, w jaki źródło jest mniej przydatne (limitation)"
+          ],
+          "passage": [
+            "Policja w 1888 roku zależała od świadków.",
+            "Ale świadkowie w Whitechapel nie byli bardzo wiarygodni.",
+            "Widzieli ludzi przez chwilę, nocą, we mgle i w słabym świetle gazowym.",
+            "Wielu z nich piło.",
+            "Niektórzy nie ufali policji i mogli nie powiedzieć całej prawdy.",
+            "Ich opisy nie zgadzały się ze sobą.",
+            "Przez lata wymieniono grubo ponad 100 podejrzanych.",
+            "Ani jednemu nigdy nie dowiedziono, że był zabójcą.",
+            "Bez nauk sądowych nie można było niczego dowieść w żadną stronę.",
+            "Gazety i czasopisma wyśmiewały policję za jej niepowodzenie.",
+            "Rysunek w „Punchu” pokazywał policjanta z zasłoniętymi oczami, otoczonego przez przestępców.",
+            "Żeby skorzystać z takiego źródła, musisz zapytać, kto je zrobił i dlaczego."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma descrição dada à polícia por alguém que viu algo (witness statement, depoimento de testemunha)",
+            "acreditável; em que se pode confiar (credible, credível)",
+            "uma pessoa que a polícia pensa que pode ter cometido um crime (suspect, suspeito)",
+            "provas de que uma pessoa estava noutro lugar quando um crime aconteceu (alibi, álibi)",
+            "quem fez uma fonte, quando e porquê (provenance)",
+            "uma maneira em que uma fonte é menos útil (limitation, limitação)"
+          ],
+          "passage": [
+            "A polícia de 1888 dependia das testemunhas.",
+            "Mas as testemunhas de Whitechapel não eram muito credíveis.",
+            "Tinham visto pessoas por pouco tempo, de noite, no nevoeiro e à luz fraca do gás.",
+            "Muitas tinham estado a beber.",
+            "Algumas não confiavam na polícia e podem não ter contado toda a verdade.",
+            "As descrições delas não concordavam umas com as outras.",
+            "Ao longo dos anos, já foram apontados bem mais de 100 suspeitos.",
+            "Nunca se provou que algum deles fosse o autor.",
+            "Sem ciência forense, nada se podia provar num sentido nem no outro.",
+            "Os jornais e as revistas gozaram com a polícia pelo seu fracasso.",
+            "Um desenho na revista Punch mostrava um agente com os olhos tapados, rodeado de criminosos.",
+            "Para usares uma fonte como essa, tens de perguntar quem a fez e porquê."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sharraxaad booliiska la siiyay oo qof wax arkay",
+            "la rumaysan karo; lagu kalsoonaan karo",
+            "qof booliisku u maleeyo inuu dembi galay",
+            "caddayn sheegaysa in qof meel kale joogay markii dembigu dhacay",
+            "cidda isha samaysay, goorta, iyo sababta",
+            "sida il ay faa'iido yar u leedahay"
+          ],
+          "passage": [
+            "Booliiska 1888-kii waxay ku tiirsanaayeen goobjoogayaasha.",
+            "Laakiin goobjoogayaashii Whitechapel aad looma rumaysan karin.",
+            "Dad ayay si degdeg ah u arkeen, habeenkii, ceeryaamada iyo iftiin gaas oo khafiif ah.",
+            "Qaar badan waxay cabbeen.",
+            "Qaar booliiska kuma kalsoonayn, suurtogalna ma ahayn inay runta oo dhan sheegeen.",
+            "Sharraxaaddoodu isma waafaqsanayn.",
+            "Sanadihii soo socday, in ka badan 100 tuhmane ayaa la magacaabay.",
+            "Midna weligii lama caddeyn inuu dilaagii yahay.",
+            "Sayniska forensic la'aan, waxba lama caddeyn karin dhinac kasta.",
+            "Wargeysyada iyo majaladaha waxay booliiska ku majaajiloodeen guuldarradooda.",
+            "Sawir majaajillo oo Punch ku soo baxay wuxuu muujiyay sarkaal indhaha la xidhay oo dembiilayaal ku wareegsan.",
+            "Si aad il noocaas u isticmaasho, waa inaad weydiisaa cidda samaysay iyo sababta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "опис, який поліції дає той, хто щось бачив (witness statement)",
+            "той, якому можна вірити; той, якому можна довіряти (credible)",
+            "людина, яку поліція вважає можливим виконавцем злочину (suspect)",
+            "свідчення, що людина була в іншому місці, коли стався злочин (alibi)",
+            "хто створив джерело, коли і чому (provenance)",
+            "те, у чому джерело менш корисне (limitation)"
+          ],
+          "passage": [
+            "Поліція у 1888 році залежала від свідків.",
+            "Але свідки у Вайтчепелі не були дуже надійні.",
+            "Вони бачили людей коротко, вночі, у тумані і тьмяному газовому світлі.",
+            "Багато хто з них пив.",
+            "Деякі не довіряли поліції і, можливо, не казали всієї правди.",
+            "Їхні описи не узгоджувалися між собою.",
+            "За ці роки назвали значно понад 100 підозрюваних.",
+            "Жодного з них так і не довели як убивцю.",
+            "Без криміналістики нічого не можна було довести ні так, ні інакше.",
+            "Газети й журнали глузували з поліції за її невдачу.",
+            "Карикатура в журналі Punch показувала поліцейського із зав’язаними очима, оточеного злочинцями.",
+            "Щоб використати таке джерело, ви мусите спитати, хто його створив і чому."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ بیان جو کسی چیز کو دیکھنے والا شخص پولیس کو دے (witness statement)",
+            "قابلِ یقین؛ جس پر بھروسہ کیا جا سکے (credible)",
+            "وہ شخص جس کے بارے میں پولیس سمجھے کہ اس نے جرم کیا ہو سکتا ہے (suspect)",
+            "وہ شہادت جو بتائے کہ جرم کے وقت وہ شخص کہیں اور تھا (alibi)",
+            "کوئی source کس نے بنایا، کب بنایا، اور کیوں بنایا (provenance)",
+            "وہ پہلو جس کی وجہ سے کوئی source کم کارآمد ہو (limitation)"
+          ],
+          "passage": [
+            "1888 میں پولیس گواہوں پر انحصار کرتی تھی۔",
+            "مگر وائٹ چیپل کے گواہ بہت credible نہ تھے۔",
+            "انھوں نے لوگوں کو ذرا سی دیر کے لیے دیکھا تھا، رات کو، دھند اور مدھم گیس کی روشنی میں۔",
+            "بہت سے شراب پیے ہوئے تھے۔",
+            "کچھ پولیس پر بھروسہ نہیں کرتے تھے اور شاید انھوں نے پوری بات نہ بتائی۔",
+            "ان کے بیان ایک دوسرے سے میل نہیں کھاتے تھے۔",
+            "برسوں میں 100 سے بھی زیادہ suspects کے نام لیے گئے۔",
+            "ان میں سے کسی ایک کے بارے میں کبھی ثابت نہ ہوا کہ وہ قاتل تھا۔",
+            "forensic science کے بغیر کسی طرف کی بھی کوئی بات ثابت نہ ہو سکتی تھی۔",
+            "اخباروں اور رسالوں نے ناکامی پر پولیس کا مذاق اڑایا۔",
+            "Punch کے ایک کارٹون میں آنکھوں پر پٹی بندھا ایک افسر مجرموں میں گھرا دکھایا گیا۔",
+            "ایسا source استعمال کرنے کے لیے آپ کو پوچھنا ہوگا کہ اسے کس نے اور کیوں بنایا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A lack of credible witnesses",
@@ -1139,8 +1909,162 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
           "Each one helps to explain why no one was caught.",
           "Your job is to decide which mattered most.",
           "Then you explain your choice with evidence."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الصحف والمجلّات وغيرها من طرق وصول الأخبار إلى الناس (media)",
+            "مكتوب ليصدم القرّاء ويُثيرهم (sensational)",
+            "مدى إمكان الثقة بصحّة الشيء (reliability)",
+            "القدرة على القراءة والكتابة (literacy)",
+            "واحد من الأسباب التي تساعد في تفسير حدوث شيء (factor)",
+            "النقطة والدليل والشرح والربط: طريقة لبناء فقرة (PEEL)"
+          ],
+          "passage": [
+            "في 1888 كان يقرأ من الناس أكثر ممّا كان في أيّ وقت قبلها.",
+            "وكانت الصحف الرخيصة تنمو بسرعة.",
+            "فوثبت الصحافة على قصّة وايتشابل.",
+            "فصارت حديثًا يشغل البلد كلّه.",
+            "وكانت الصحف تريد أن تبيع نسخًا.",
+            "فطبع بعضها الإشاعات والقصص المصدّعة كأنها وقائع.",
+            "وهذا خلق الذُّعر وخيوطًا كاذبة تتبعها الشرطة.",
+            "وحتى الملكة فيكتوريا لم ترضَ بطريقة رئيس الوزراء في معالجة القضيّة.",
+            "والمؤرّخون يزنون أربعة عوامل: وايتشابل، والشرطة، والقاتل، والإعلام.",
+            "وكلّ عامل منها يساعد في تفسير سبب عدم القبض على أحد.",
+            "وعملك أن تحكم أيّها كان الأهمّ.",
+            "ثم تشرح اختيارك بالدليل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "gazety, czasopisma i inne sposoby, którymi wiadomości dochodzą do ludzi (media)",
+            "napisany tak, żeby czytelników zaszokować i podniecić (sensational)",
+            "jak dalece można czemuś zaufać, że jest prawdą (reliability)",
+            "umiejętność czytania i pisania (literacy)",
+            "jedna z przyczyn, która pomaga wyjaśnić, dlaczego coś się stało (factor)",
+            "Point, Evidence, Explain, Link: sposób budowania akapitu (PEEL)"
+          ],
+          "passage": [
+            "W 1888 roku czytać umiało więcej ludzi niż kiedykolwiek wcześniej.",
+            "Tanie gazety rosły bardzo szybko.",
+            "Prasa rzuciła się na historię z Whitechapel.",
+            "Stała się ona sensacją na całą Wielką Brytanię.",
+            "Gazety chciały sprzedawać nakład.",
+            "Dlatego niektóre drukowały plotki i szokujące opowieści, jakby były faktami.",
+            "To wywołało panikę i fałszywe tropy, za którymi policja musiała gonić.",
+            "Nawet królowa Victoria (Wiktoria) była niezadowolona z tego, jak premier prowadzi tę sprawę.",
+            "Historycy rozważają cztery czynniki: Whitechapel, policję, zabójcę i prasę.",
+            "Każdy z nich pomaga wyjaśnić, dlaczego nikogo nie schwytano.",
+            "Twoim zadaniem jest zdecydować, który miał największe znaczenie.",
+            "Potem wyjaśniasz swój wybór za pomocą dowodów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "os jornais, as revistas e as outras maneiras como as notícias chegam às pessoas (media, os media / a mídia)",
+            "escrito para chocar e excitar os leitores (sensational, sensacionalista)",
+            "até que ponto se pode confiar que algo é verdade (reliability, fiabilidade/confiabilidade)",
+            "a capacidade de ler e escrever (literacy, literacia/alfabetização)",
+            "uma das causas que ajuda a explicar porque é que algo aconteceu (factor, fator)",
+            "Point, Evidence, Explain, Link: uma maneira de construir um parágrafo (PEEL)"
+          ],
+          "passage": [
+            "Em 1888 havia mais pessoas a saber ler do que nunca.",
+            "Os jornais baratos cresciam depressa.",
+            "A imprensa agarrou-se à história de Whitechapel.",
+            "Tornou-se uma sensação nacional.",
+            "Os jornais queriam vender exemplares.",
+            "Por isso alguns imprimiram rumores e histórias chocantes como se fossem factos/fatos.",
+            "Isto criou pânico e pistas falsas para a polícia andar atrás.",
+            "Até a rainha Victoria ficou descontente com a maneira como o primeiro-ministro tratou o caso.",
+            "Os historiadores pesam quatro fatores: Whitechapel, a polícia, o autor dos crimes e os media/a mídia.",
+            "Cada um deles ajuda a explicar porque é que ninguém foi apanhado.",
+            "A tua tarefa é decidir qual deles pesou mais.",
+            "Depois explicas a tua escolha com provas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wargeysyo, majaladood iyo siyaabo kale oo warku dadka ku gaaro",
+            "loo qoray in akhristaha lagu naxo oo lagu xiiseeyo",
+            "inta wax lagu kalsoonaan karo inay run tahay",
+            "awoodda akhriska iyo qoriska",
+            "mid ka mid ah sababaha ka caawiya sharraxidda sababta wax u dhacay",
+            "Point, Evidence, Explain, Link: hab cutub lagu dhiso"
+          ],
+          "passage": [
+            "1888-kii dad ka badan sidii hore ayaa akhriyi karay.",
+            "Wargeysyo jaban ayaa si dhaqso ah u korayay.",
+            "Warbaahintu waxay ku booddeen sheekada Whitechapel.",
+            "Waxay noqotay mid dalka oo dhan xiiseeyay.",
+            "Wargeysyadu waxay rabeen inay nuqullo iibiyaan.",
+            "Markaa qaar waxay daabaceen been-abuur iyo sheekooyin naxdin leh sidii ay xaqiiqo yihiin.",
+            "Tan waxay abuurtay cabsi weyn iyo tilmaamo been ah oo booliisku raacaan.",
+            "Xataa Boqorad Victoria waxay ka xumaatay sida Ra'iisul Wasaaruhu kiiska u maamulay.",
+            "Taariikhyahannadu waxay miisaamaan afar arrin: Whitechapel, booliiska, dilaaga iyo warbaahinta.",
+            "Mid kastaa waxay caawisaa sharraxidda sababta aan cidna loo qabtin.",
+            "Shaqadaadu waa inaad go'aansato tee ugu muhiimsanayd.",
+            "Kadibna doorashadaada waxaad ku sharraxaysaa caddayn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "газети, журнали та інші способи, якими новини доходять до людей (media)",
+            "написаний так, щоб вражати і збуджувати читачів (sensational)",
+            "наскільки можна вірити, що щось є правдою (reliability)",
+            "уміння читати й писати (literacy)",
+            "одна з причин, яка допомагає пояснити, чому щось сталося (factor)",
+            "Point, Evidence, Explain, Link: спосіб побудувати абзац (PEEL)"
+          ],
+          "passage": [
+            "У 1888 році читати вміло більше людей, ніж будь-коли раніше.",
+            "Дешеві газети швидко зростали.",
+            "Преса вхопилася за історію Вайтчепела.",
+            "Вона стала сенсацією всієї країни.",
+            "Газети хотіли продавати примірники.",
+            "Тому деякі друкували плітки й шокуючі історії так, ніби то були факти.",
+            "Це створювало паніку і фальшиві сліди, за якими гналася поліція.",
+            "Навіть королева Вікторія була незадоволена тим, як прем’єр-міністр вів цю справу.",
+            "Історики зважують чотири чинники: Вайтчепел, поліцію, убивцю і медіа.",
+            "Кожний із них допомагає пояснити, чому нікого не схопили.",
+            "Ваше завдання — вирішити, який із них мав найбільше значення.",
+            "Потім ви пояснюєте свій вибір свідченнями."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اخبار، رسالے اور خبر لوگوں تک پہنچانے کے دوسرے ذریعے (media)",
+            "جو پڑھنے والوں کو چونکانے اور جوش دلانے کے لیے لکھا جائے (sensational)",
+            "کسی چیز کے سچ ہونے پر کتنا بھروسہ کیا جا سکتا ہے (reliability)",
+            "پڑھنے اور لکھنے کی اہلیت (literacy)",
+            "اُن اسباب میں سے ایک جو بتاتے ہیں کہ کوئی بات کیوں ہوئی (factor)",
+            "Point, Evidence, Explain, Link: پیراگراف بنانے کا ایک طریقہ (PEEL)"
+          ],
+          "passage": [
+            "1888 میں پہلے سے زیادہ لوگ پڑھ سکتے تھے۔",
+            "سستے اخبار تیزی سے بڑھ رہے تھے۔",
+            "اخباروں نے وائٹ چیپل کی کہانی پر جھپٹا مارا۔",
+            "یہ پورے ملک کی سنسنی بن گئی۔",
+            "اخبار اپنی کاپیاں بیچنا چاہتے تھے۔",
+            "اس لیے کچھ نے افواہیں اور چونکانے والی کہانیاں حقائق کی طرح چھاپ دیں۔",
+            "اس سے خوف پھیلا اور پولیس کو پیچھا کرنے کے لیے جھوٹے سراغ ملے۔",
+            "خود ملکہ وکٹوریہ بھی وزیرِ اعظم کے اس معاملے کو سنبھالنے کے طریقے سے ناخوش تھیں۔",
+            "مؤرخ چار factors کو تولتے ہیں: وائٹ چیپل، پولیس، قاتل اور media۔",
+            "ہر ایک یہ سمجھنے میں مدد دیتا ہے کہ کوئی کیوں نہ پکڑا گیا۔",
+            "آپ کا کام یہ طے کرنا ہے کہ سب سے زیادہ اہم کون سا تھا۔",
+            "پھر آپ شہادت سے اپنے انتخاب کی وضاحت کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why the press was so interested",

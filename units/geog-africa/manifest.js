@@ -109,8 +109,162 @@ window.ASTRA_UNITS["geog-africa"] = {
           "Many people have fixed ideas about Africa.",
           "Photographs show cities, railways, schools and stadiums as well as villages.",
           "A good geographer checks ideas against evidence."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "واحدة من مناطق اليابسة السبع الكبيرة جدًّا في العالم (continent)",
+            "واحد من المسطّحات المائية المالحة الضخمة بين القارّات (ocean)",
+            "دراسة أين يعيش الناس وكيف يعيشون (human geography)",
+            "دراسة المعالم والظواهر الطبيعية، كالجبال والأنهار والطقس (physical geography)",
+            "ما تظنّه عن مكان قبل أن تتحقّق من الأدلّة (perception)"
+          ],
+          "passage": [
+            "الجغرافيا هي دراسة العالم الذي نعيش فيه.",
+            "إنها تنظر في المناظر الطبيعية والناس والأماكن والبيئات.",
+            "الجغرافيا الطبيعية (physical geography) تدرس المعالم الطبيعية، كالجبال والأنهار والطقس.",
+            "والجغرافيا البشرية (human geography) تدرس أين يعيش الناس وكيف يعيشون.",
+            "أمّا الجغرافيا البيئية فتربط بينهما، كالتلوّث مثلًا.",
+            "في العالم سبع قارّات.",
+            "وأفريقيا واحدة منها.",
+            "أفريقيا قارّة، وليست بلدًا.",
+            "فداخلها أكثر من خمسين بلدًا.",
+            "ولا تكبرها إلّا آسيا.",
+            "كثير من الناس لديهم أفكار جاهزة عن أفريقيا.",
+            "والصور تُظهر مدنًا وسكك حديد ومدارس وملاعب، كما تُظهر القرى.",
+            "والجغرافي الجيّد يقيس أفكاره على الأدلّة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jeden z siedmiu bardzo wielkich obszarów lądu na świecie",
+            "jeden z wielkich obszarów słonej wody między kontynentami",
+            "nauka o tym, gdzie i jak żyją ludzie",
+            "nauka o formach terenu i zjawiskach przyrody, takich jak góry, rzeki i pogoda",
+            "to, co sądzisz o jakimś miejscu, zanim sprawdzisz dowody"
+          ],
+          "passage": [
+            "Geografia to nauka o świecie, w którym żyjemy.",
+            "Zajmuje się krajobrazami, ludźmi, miejscami i środowiskiem.",
+            "Geografia fizyczna mówi o formach terenu, takich jak góry, rzeki i pogoda.",
+            "Geografia człowieka mówi o tym, gdzie i jak żyją ludzie.",
+            "Geografia środowiska łączy jedno z drugim, na przykład w temacie zanieczyszczeń.",
+            "Świat ma siedem kontynentów.",
+            "Afryka jest jednym z nich.",
+            "Afryka to kontynent, a nie kraj.",
+            "Leży w niej ponad pięćdziesiąt krajów.",
+            "Tylko Azja jest większa od Afryki.",
+            "Wielu ludzi ma utarte wyobrażenia o Afryce.",
+            "Na zdjęciach widać miasta, koleje, szkoły i stadiony, a nie tylko wioski.",
+            "Dobry geograf sprawdza swoje wyobrażenia, porównując je z dowodami."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma das sete áreas de terra muito grandes do mundo (continent, continente)",
+            "uma das enormes áreas de água salgada entre os continentes (ocean, oceano)",
+            "o estudo de onde e como as pessoas vivem (human geography, geografia humana)",
+            "o estudo dos elementos e acontecimentos naturais, como montanhas, rios e o tempo (physical geography, geografia física)",
+            "aquilo que acreditas sobre um lugar antes de verificares as provas (perception, perceção/percepção)"
+          ],
+          "passage": [
+            "A Geografia é o estudo do mundo em que vivemos.",
+            "Olha para as paisagens, as pessoas, os lugares e os ambientes.",
+            "A geografia física trata dos elementos naturais, como as montanhas, os rios e o tempo.",
+            "A geografia humana trata de onde e como as pessoas vivem.",
+            "A geografia ambiental liga as duas, por exemplo na poluição.",
+            "O mundo tem sete continentes.",
+            "A África é um deles.",
+            "A África é um continente, não um país.",
+            "Tem mais de cinquenta países dentro dela.",
+            "Só a Ásia é maior do que a África.",
+            "Muitas pessoas têm ideias fixas sobre a África.",
+            "As fotografias mostram cidades, ferrovias/caminhos de ferro, escolas e estádios, e também aldeias.",
+            "Um bom geógrafo confronta as ideias com as provas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "mid ka mid ah toddobada dhul-weyn ee dunida",
+            "mid ka mid ah meelaha waaweyn ee biyo cusbo leh oo u dhexeeya qaaradaha",
+            "barashada meesha iyo sida dadku ku noolyihiin",
+            "barashada astaamaha iyo dhacdooyinka dabiiciga ah, sida buuraha, webiyada iyo hawada",
+            "waxa aad u maleyneyso in meel ay tahay intaadan caddaynta hubin"
+          ],
+          "passage": [
+            "Juqraafigu waa barashada dunida aan ku noolnahay.",
+            "Wuxuu eegaa muuqaalka dhulka, dadka, meelaha iyo deegaannada.",
+            "Juqraafiga dabiiciga (physical geography) wuxuu ka hadlaa astaamaha dabiiciga ah, sida buuraha, webiyada iyo hawada.",
+            "Juqraafiga bani'aadmiga (human geography) wuxuu ka hadlaa meesha iyo sida dadku ku noolyihiin.",
+            "Juqraafiga deegaanka wuxuu labada isku xiraa, tusaale ahaan wasakhaynta.",
+            "Dunida waxay leedahay toddoba qaarad.",
+            "Afrika waa middood.",
+            "Afrika waa qaarad, dal kaliya ma aha.",
+            "In ka badan konton dal ayaa gudaheeda ku jira.",
+            "Aasiya oo keliya ayaa Afrika ka weyn.",
+            "Dad badan waxay haystaan fikrado go'an oo ku saabsan Afrika.",
+            "Sawirrada waxay muujinayaan magaalooyin, jidad tareen, iskuulo iyo garoomo, sidoo kalena tuulooyin.",
+            "Juqraafi-yaqaan wanaagsan wuxuu fikradaha ku hubiyaa caddaynta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "один із семи дуже великих масивів землі у світі (continent)",
+            "один з величезних просторів солоної води між континентами (ocean)",
+            "вивчення того, де і як живуть люди (human geography)",
+            "вивчення природних об’єктів і явищ, як-от гір, річок і погоди (physical geography)",
+            "те, яким ви вважаєте місце, перш ніж перевірите докази (perception)"
+          ],
+          "passage": [
+            "Географія — це вивчення світу, у якому ми живемо.",
+            "Вона розглядає ландшафти, людей, місця й довкілля.",
+            "Фізична географія — про природні об’єкти, як-от гори, річки й погоду.",
+            "Суспільна географія — про те, де і як живуть люди.",
+            "Географія довкілля поєднує ці дві, наприклад через забруднення.",
+            "У світі сім континентів.",
+            "Африка — один із них.",
+            "Африка — це континент, а не країна.",
+            "Усередині неї понад п’ятдесят країн.",
+            "Лише Азія більша за Африку.",
+            "Багато людей мають усталені уявлення про Африку.",
+            "На фотографіях видно міста, залізниці, школи й стадіони, а не тільки села.",
+            "Добрий географ перевіряє уявлення доказами."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "دنیا کے خشکی کے سات بہت بڑے حصوں میں سے ایک (continent)",
+            "براعظموں کے درمیان نمکین پانی کے بہت بڑے حصوں میں سے ایک",
+            "اس بات کا مطالعہ کہ لوگ کہاں اور کیسے رہتے ہیں",
+            "قدرتی خصوصیات اور واقعات کا مطالعہ، جیسے پہاڑ، دریا اور موسم",
+            "شہادت دیکھنے سے پہلے آپ کسی جگہ کے بارے میں جو خیال رکھتے ہیں (perception)"
+          ],
+          "passage": [
+            "جغرافیہ اس دنیا کا مطالعہ ہے جس میں ہم رہتے ہیں۔",
+            "یہ مناظر، لوگوں، جگہوں اور ماحول کو دیکھتا ہے۔",
+            "طبعی جغرافیہ (physical geography) قدرتی خصوصیات کے بارے میں ہے، جیسے پہاڑ، دریا اور موسم۔",
+            "انسانی جغرافیہ (human geography) اس بارے میں ہے کہ لوگ کہاں اور کیسے رہتے ہیں۔",
+            "ماحولیاتی جغرافیہ ان دونوں کو جوڑتا ہے، مثلاً آلودگی۔",
+            "دنیا میں سات براعظم ہیں۔",
+            "افریقہ ان میں سے ایک ہے۔",
+            "افریقہ ایک براعظم ہے، کوئی ملک نہیں۔",
+            "اس کے اندر پچاس سے زیادہ ملک ہیں۔",
+            "صرف ایشیا افریقہ سے بڑا ہے۔",
+            "بہت سے لوگ افریقہ کے بارے میں جمے ہوئے خیال رکھتے ہیں۔",
+            "تصویروں میں گاؤں کے ساتھ ساتھ شہر، ریلوے، سکول اور کھیل کے میدان بھی دکھائی دیتے ہیں۔",
+            "اچھا جغرافیہ دان اپنے خیالوں کو شہادت کے مقابل جانچتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is geography?",
@@ -306,8 +460,156 @@ window.ASTRA_UNITS["geog-africa"] = {
           "It is 5896 metres high and has ice on top.",
           "The Equator crosses the middle of Africa.",
           "The Tropic of Cancer crosses the north and the Tropic of Capricorn crosses the south."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "ارتفاع الأرض وانحدارها (relief)",
+            "منطقة كبيرة جافّة أرضها رملية أو صخرية ونباتها قليل (desert)",
+            "مسطّح مائي كبير تحيط به اليابسة (lake)",
+            "الخطّ الوهمي الذي يدور حول وسط الأرض عند 0 درجة (Equator)",
+            "واحد من خطّين وهميّين، 23.5 درجة شمال خطّ الاستواء وجنوبه (tropic)"
+          ],
+          "passage": [
+            "في أفريقيا بعض أكبر المعالم الطبيعية على الأرض.",
+            "يجري نهر النيل (Nile) شمالًا عبر مصر إلى البحر المتوسّط.",
+            "ويجري نهر الزمبيزي (Zambezi) بجوار زامبيا وزيمبابوي وموزمبيق ومالاوي.",
+            "وشلّالات فيكتوريا (Victoria Falls) على نهر الزمبيزي.",
+            "وبحيرة فيكتوريا (Lake Victoria) أكبر بحيرة في أفريقيا.",
+            "وبحيرة تنجانيقا (Tanganyika) وبحيرة نياسا (Nyasa) بحيرتان طويلتان عميقتان.",
+            "وتغطّي الصحراء الكبرى (Sahara) جزءًا كبيرًا من شمال أفريقيا.",
+            "وهي أكبر صحراء حارّة في العالم.",
+            "وجبل كليمنجارو (Kilimanjaro) في تنزانيا أعلى جبل في أفريقيا.",
+            "ويبلغ ارتفاعه 5896 مترًا، وعلى قمّته ثلج.",
+            "ويعبر خطّ الاستواء وسط أفريقيا.",
+            "ويعبر مدار السرطان شمالها، ويعبر مدار الجدي جنوبها."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wysokość i nachylenie terenu (relief)",
+            "wielki, suchy obszar o piaszczystym lub skalistym gruncie, z nielicznymi roślinami",
+            "duży obszar wody otoczony lądem",
+            "wyobrażona linia wokół środka Ziemi, na 0 stopniach",
+            "jedna z dwóch wyobrażonych linii, 23.5 stopnia na północ i na południe od równika"
+          ],
+          "passage": [
+            "W Afryce znajdują się jedne z największych form terenu na Ziemi.",
+            "Nil płynie na północ przez Egipt do Morza Śródziemnego.",
+            "Zambezi płynie obok Zambii, Zimbabwe, Mozambiku i Malawi.",
+            "Wodospady Wiktorii leżą na Zambezi.",
+            "Jezioro Wiktorii jest największym jeziorem w Afryce.",
+            "Jezioro Tanganika i jezioro Niasa są długie i głębokie.",
+            "Sahara pokrywa dużą część Afryki Północnej.",
+            "Jest największą gorącą pustynią na świecie.",
+            "Kilimandżaro w Tanzanii to najwyższa góra Afryki.",
+            "Ma 5896 metrów wysokości, a na szczycie ma lód.",
+            "Równik przecina Afrykę w jej środkowej części.",
+            "Zwrotnik Raka (Tropic of Cancer) przecina północ, a Zwrotnik Koziorożca (Tropic of Capricorn) przecina południe."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a altitude e a inclinação do terreno (relief, relevo)",
+            "uma área grande e seca, de solo arenoso ou rochoso e com poucas plantas (desert, deserto)",
+            "uma grande área de água rodeada de terra (lake, lago)",
+            "a linha imaginária em volta do meio da Terra, a 0 graus (Equator, Equador)",
+            "uma de duas linhas imaginárias, a 23.5 graus a norte e a sul do Equador (tropic, trópico)"
+          ],
+          "passage": [
+            "A África tem alguns dos maiores elementos físicos da Terra.",
+            "O rio Nilo corre para norte, pelo Egito, até ao mar Mediterrâneo.",
+            "O rio Zambeze (Zambezi) passa pela Zâmbia, pelo Zimbabué/Zimbábue, por Moçambique e pelo Maláui/Malaui.",
+            "As Quedas de Vitória (Victoria Falls) ficam no Zambeze.",
+            "O lago Vitória é o maior lago da África.",
+            "O lago Tanganica (Tanganyika) e o lago Niassa (Nyasa) são lagos compridos e profundos.",
+            "O deserto do Saara cobre grande parte do Norte de África.",
+            "É o maior deserto quente do mundo.",
+            "O monte Kilimanjaro, na Tanzânia, é a montanha mais alta da África.",
+            "Tem 5896 metros de altura e tem gelo no cume.",
+            "O Equador atravessa o meio da África.",
+            "O Trópico de Câncer atravessa o norte e o Trópico de Capricórnio atravessa o sul."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sarajoogga iyo jiirka dhulka",
+            "meel weyn oo qalalan oo dhulkeedu ciid ama dhagax yahay oo dhir yar leh",
+            "meel weyn oo biyo ah oo dhul ku wareegsan yahay",
+            "xariiqda la male-awaalay ee dhexda Dhulka ku wareegsan, oo eber darajo ah",
+            "mid ka mid ah laba xariiq la male-awaalay, 23.5 darajo waqooyi iyo koonfur ka xigta dhulbaraha"
+          ],
+          "passage": [
+            "Afrika waxay leedahay qaar ka mid ah astaamaha dabiiciga ugu waaweyn Dhulka.",
+            "Webiga Nile wuxuu waqooyi u qulqulaa isagoo Masar dhex maraya ilaa Badda Mediterranean.",
+            "Webiga Zambezi wuxuu ag maraa Zambia, Zimbabwe, Mozambique iyo Malawi.",
+            "Biyo-dhaca Victoria Falls wuxuu ku yaal webiga Zambezi.",
+            "Haro Victoria waa harada ugu weyn Afrika.",
+            "Haro Tanganyika iyo Haro Nyasa waa harooyin dhaadheer oo mool dheer leh.",
+            "Saxaraha Sahara wuxuu qariyaa inta badan waqooyiga Afrika.",
+            "Waa saxaraha kulul ee ugu weyn dunida.",
+            "Buurta Kilimanjaro ee Tanzania waa buurta ugu dheer Afrika.",
+            "Sarajoogeedu waa 5896 mitir, dusheedana baraf ayaa saaran.",
+            "Dhulbaraha (Equator) wuxuu dhex maraa Afrika.",
+            "Tropic of Cancer wuxuu waqooyiga maraa, Tropic of Capricorn-na koonfurta ayuu maraa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "висота і нахил поверхні землі (relief)",
+            "великий сухий простір з піщаним або кам’янистим ґрунтом і малою кількістю рослин (desert)",
+            "великий простір води, оточений землею (lake)",
+            "уявна лінія навколо середини Землі, на 0 градусів (Equator)",
+            "одна з двох уявних ліній, на 23.5 градуса на північ і на південь від екватора (tropic)"
+          ],
+          "passage": [
+            "Африка має одні з найбільших природних об’єктів на Землі.",
+            "Річка Ніл (Nile) тече на північ через Єгипет до Середземного моря.",
+            "Річка Замбезі (Zambezi) протікає біля Замбії, Зімбабве, Мозамбіку й Малаві.",
+            "Водоспад Вікторія (Victoria Falls) розташований на Замбезі.",
+            "Озеро Вікторія — найбільше озеро в Африці.",
+            "Озеро Танганьїка й озеро Ньяса — довгі та глибокі озера.",
+            "Пустеля Сахара покриває значну частину Північної Африки.",
+            "Це найбільша гаряча пустеля у світі.",
+            "Гора Кіліманджаро в Танзанії — найвища гора Африки.",
+            "Вона має 5896 метрів висоти, а на вершині лежить лід.",
+            "Екватор перетинає середину Африки.",
+            "Тропік Рака перетинає північ, а тропік Козерога перетинає південь."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کی بلندی اور ڈھلان (relief)",
+            "ایک بڑا، خشک علاقہ جس کی زمین ریتلی یا پتھریلی ہو اور پودے بہت کم ہوں",
+            "پانی کا بڑا حصہ جس کے چاروں طرف خشکی ہو",
+            "زمین کے بیچ میں 0 درجے پر کھینچی گئی خیالی لکیر (Equator)",
+            "دو خیالی لکیروں میں سے ایک، Equator سے 23.5 درجے شمال اور جنوب میں"
+          ],
+          "passage": [
+            "افریقہ میں زمین کی کچھ سب سے بڑی قدرتی خصوصیات ہیں۔",
+            "دریائے نیل (Nile) مصر سے شمال کی طرف بہتا ہوا بحیرۂ روم میں گرتا ہے۔",
+            "دریائے زیمبیزی (Zambezi) زیمبیا، زمبابوے، موزمبیق اور ملاوی کے پاس سے گزرتا ہے۔",
+            "Victoria Falls زیمبیزی پر ہے۔",
+            "جھیل وکٹوریہ (Lake Victoria) افریقہ کی سب سے بڑی جھیل ہے۔",
+            "جھیل تانگانیکا اور جھیل نیاسا لمبی اور گہری جھیلیں ہیں۔",
+            "صحارا (Sahara) کا صحرا شمالی افریقہ کے بڑے حصے کو ڈھانپے ہوئے ہے۔",
+            "یہ دنیا کا سب سے بڑا گرم صحرا ہے۔",
+            "تنزانیہ میں Mount Kilimanjaro افریقہ کا سب سے بلند پہاڑ ہے۔",
+            "یہ 5896 میٹر بلند ہے اور اس کی چوٹی پر برف ہے۔",
+            "Equator افریقہ کے بیچ سے گزرتا ہے۔",
+            "Tropic of Cancer شمال سے گزرتا ہے اور Tropic of Capricorn جنوب سے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Rivers and lakes",
@@ -499,8 +801,168 @@ window.ASTRA_UNITS["geog-africa"] = {
           "In Mali, most rain falls in August.",
           "In South Africa, August is colder than December.",
           "A biome is a large area with its own plants and animals, like a desert or a rainforest."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الطقس المعتاد لمكان ما، بمتوسّطه على سنوات كثيرة (climate)",
+            "رسم بياني يُظهر مطر كلّ شهر بأعمدة وحرارة كلّ شهر بخطّ (climate graph)",
+            "مقدار المطر الذي يسقط، ويُقاس بالمليمترات (rainfall)",
+            "مدى الحرارة أو البرودة، وتُقاس بالدرجات السيلسيوسية (temperature)",
+            "منطقة كبيرة جدًّا لها نباتاتها وحيواناتها الخاصّة (biome)"
+          ],
+          "passage": [
+            "الطقس هو ما تفعله السماء اليوم.",
+            "أمّا المناخ فهو الطقس المعتاد لمكان ما على سنوات كثيرة.",
+            "وأفريقيا كبيرة جدًّا، فمناخها يختلف كثيرًا من مكان إلى مكان.",
+            "ويُظهر الرسم البياني للمناخ شيئين في وقت واحد.",
+            "فالأعمدة تُظهر كم مطرًا يسقط في كلّ شهر.",
+            "والخطّ يُظهر متوسّط الحرارة في كلّ شهر.",
+            "أحد الأماكن في درسك لا يسقط فيه إلّا 29 مم من المطر في السنة كلّها.",
+            "وآخر يسقط فيه 1120 مم.",
+            "والصحاري جافّة طوال السنة.",
+            "وقرب خطّ الاستواء يكون الجوّ حارًّا ورطبًا.",
+            "وبعض الأماكن لها فصل مطر وفصل جفاف.",
+            "وفي مالي يسقط معظم المطر في أغسطس.",
+            "وفي جنوب أفريقيا أغسطس أبرد من ديسمبر.",
+            "والمنطقة الحيوية (biome) منطقة كبيرة لها نباتاتها وحيواناتها الخاصّة، كالصحراء أو الغابة المطيرة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zwykła pogoda danego miejsca, uśredniona z wielu lat",
+            "wykres pokazujący miesięczne opady jako słupki, a miesięczną temperaturę jako linię",
+            "ilość deszczu, która spada, mierzona w milimetrach",
+            "jak gorąco albo zimno jest, mierzone w stopniach Celsjusza",
+            "bardzo duży obszar z własnymi roślinami i zwierzętami (biome)"
+          ],
+          "passage": [
+            "Pogoda to to, co dzieje się na niebie dzisiaj.",
+            "Klimat to zwykła pogoda danego miejsca przez wiele lat.",
+            "Afryka jest tak wielka, że jej klimat bardzo się różni w zależności od miejsca.",
+            "Wykres klimatyczny pokazuje dwie rzeczy naraz.",
+            "Słupki pokazują, ile deszczu spada w każdym miesiącu.",
+            "Linia pokazuje średnią temperaturę w każdym miesiącu.",
+            "Jedno z miejsc na twojej lekcji ma tylko 29 mm deszczu przez cały rok.",
+            "Inne ma 1120 mm.",
+            "Pustynie są suche przez cały rok.",
+            "Blisko równika jest gorąco i wilgotno.",
+            "W niektórych miejscach jest pora deszczowa i pora sucha.",
+            "W Mali najwięcej deszczu spada w sierpniu.",
+            "W Republice Południowej Afryki sierpień jest zimniejszy niż grudzień.",
+            "Biom (biome) to duży obszar z własnymi roślinami i zwierzętami, na przykład pustynia albo las równikowy."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o tempo habitual de um lugar, em média ao longo de muitos anos (climate, clima)",
+            "um gráfico que mostra a chuva de cada mês em barras e a temperatura de cada mês numa linha (climate graph, climograma)",
+            "a quantidade de chuva que cai, medida em milímetros (rainfall, precipitação)",
+            "o quão quente ou frio está, medido em graus Celsius (temperature, temperatura)",
+            "uma área muito grande com as suas próprias plantas e animais (biome, bioma)"
+          ],
+          "passage": [
+            "O tempo é o que o céu está a fazer / está fazendo hoje.",
+            "O clima é o tempo habitual de um lugar ao longo de muitos anos.",
+            "A África é tão grande que o seu clima é muito diferente de lugar para lugar.",
+            "Um climograma (climate graph) mostra duas coisas ao mesmo tempo.",
+            "As barras mostram quanta chuva cai em cada mês.",
+            "Uma linha mostra a temperatura média de cada mês.",
+            "Um dos lugares da tua aula só tem 29 mm de chuva num ano inteiro.",
+            "Outro tem 1120 mm.",
+            "Os desertos são secos durante todo o ano.",
+            "Perto do Equador é quente e húmido/úmido.",
+            "Alguns lugares têm uma estação das chuvas e uma estação seca.",
+            "No Mali, a maior parte da chuva cai em agosto.",
+            "Na África do Sul, agosto é mais frio do que dezembro.",
+            "Um bioma (biome) é uma área grande com as suas próprias plantas e animais, como um deserto ou uma floresta tropical."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "hawada caadiga ah ee meel, oo celcelis ahaan sanado badan laga qaatay",
+            "garaaf muujinaya roobka bil kasta sidii bar-taagan iyo heerkulka bil kasta sidii xariiq",
+            "cabbirka roobka da'a, oo lagu qiyaaso milimitir",
+            "sida ay u kululyihiin ama u qabow yihiin, oo lagu cabbiro darajo Celsius",
+            "meel aad u weyn oo leh dhir iyo xayawaan u gaar ah"
+          ],
+          "passage": [
+            "Hawadu waa waxa cirku maanta samaynayo.",
+            "Cimiladu (climate) waa hawada caadiga ah ee meel sanado badan.",
+            "Afrika aad ayay u weyn tahay, sidaa darteed cimiladeedu meel ka meel aad ayay ku kala duwan tahay.",
+            "Garaafka cimilada (climate graph) wuxuu laba shay isku mar muujiyaa.",
+            "Bar-taagannada waxay muujiyaan inta roob ah oo bil kasta da'a.",
+            "Xariiqdu waxay muujisaa celceliska heerkulka bil kasta.",
+            "Meel ka mid ah casharkaaga waxay sanadka oo dhan heshaa 29 mm oo roob kaliya.",
+            "Meel kalena waxay heshaa 1120 mm.",
+            "Saxarooyinku sanadka oo dhan way qalalan yihiin.",
+            "Dhulbaraha agtiisa way kulul tahay oo roob badan ayay leedahay.",
+            "Meelo qaar waxay leeyihiin xilli roobaad iyo xilli jiilaal.",
+            "Mali, roobka ugu badan bisha Agoosto ayuu da'aa.",
+            "Koonfur Afrika, Agoosto way ka qabow tahay Diseembar.",
+            "Biome waa meel weyn oo leh dhir iyo xayawaan u gaar ah, sida saxare ama keyn roobaad."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "звичайна погода місця, усереднена за багато років (climate)",
+            "графік, на якому місячні опади показані стовпчиками, а місячна температура — лінією (climate graph)",
+            "кількість дощу, що випадає, виміряна в міліметрах (rainfall)",
+            "наскільки гаряче або холодно, виміряне в градусах Цельсія (temperature)",
+            "дуже великий простір із власними рослинами і тваринами (biome)"
+          ],
+          "passage": [
+            "Погода — це те, що робить небо сьогодні.",
+            "Клімат — це звичайна погода місця за багато років.",
+            "Африка така велика, що її клімат дуже різний від місця до місця.",
+            "Клімат-графік (climate graph) показує дві речі водночас.",
+            "Стовпчики показують, скільки дощу випадає кожного місяця.",
+            "Лінія показує середню температуру кожного місяця.",
+            "Одне місце у вашому уроці має лише 29 mm дощу за цілий рік.",
+            "Інше має 1120 mm.",
+            "Пустелі сухі цілий рік.",
+            "Біля екватора гаряче й волого.",
+            "У деяких місцях є сезон дощів і сухий сезон.",
+            "У Малі найбільше дощу випадає в серпні.",
+            "У Південній Африці серпень холодніший за грудень.",
+            "Біом (biome) — це великий простір із власними рослинами і тваринами, як-от пустеля або тропічний ліс."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی جگہ کا عام موسم، کئی برسوں کا اوسط (climate)",
+            "ایک گراف جس میں ہر مہینے کی بارش سلاخوں سے اور ہر مہینے کا درجۂ حرارت لکیر سے دکھایا جاتا ہے (climate graph)",
+            "گرنے والی بارش کی مقدار، جو ملی میٹر میں ناپی جاتی ہے",
+            "کتنی گرمی یا سردی ہے، جو ڈگری سیلسیس میں ناپی جاتی ہے",
+            "ایک بہت بڑا علاقہ جس کے اپنے پودے اور جانور ہوتے ہیں (biome)"
+          ],
+          "passage": [
+            "موسم (weather) یہ ہے کہ آج آسمان کیا کر رہا ہے۔",
+            "climate کسی جگہ کا کئی برسوں کا عام موسم ہے۔",
+            "افریقہ اتنا بڑا ہے کہ اس کا climate جگہ جگہ بہت مختلف ہے۔",
+            "climate graph ایک ہی وقت میں دو چیزیں دکھاتا ہے۔",
+            "سلاخیں دکھاتی ہیں کہ ہر مہینے کتنی بارش ہوتی ہے۔",
+            "ایک لکیر دکھاتی ہے کہ ہر مہینے کا اوسط درجۂ حرارت کیا ہے۔",
+            "آپ کے سبق میں ایک جگہ پر پورے سال میں صرف 29 mm بارش ہوتی ہے۔",
+            "ایک دوسری جگہ پر 1120 mm ہوتی ہے۔",
+            "صحرا سارا سال خشک رہتے ہیں۔",
+            "Equator کے قریب گرمی اور نمی ہوتی ہے۔",
+            "کچھ جگہوں پر برسات کا موسم اور خشک موسم ہوتا ہے۔",
+            "مالی (Mali) میں سب سے زیادہ بارش اگست میں ہوتی ہے۔",
+            "جنوبی افریقہ میں اگست دسمبر سے زیادہ ٹھنڈا ہوتا ہے۔",
+            "biome ایک بڑا علاقہ ہے جس کے اپنے پودے اور جانور ہوتے ہیں، جیسے صحرا یا برساتی جنگل۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Weather, climate and climate graphs",
@@ -704,8 +1166,162 @@ window.ASTRA_UNITS["geog-africa"] = {
           "Africa's people belong to thousands of different groups.",
           "Each group has its own language, food, music and way of life.",
           "The Maasai live in Kenya and the Zulu live in South Africa."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الناس الذين يعيشون في مكان ما (population)",
+            "كم شخصًا يعيش في كلّ كيلومتر مربّع (population density)",
+            "أين يعيش الناس وأين لا يعيشون (population distribution)",
+            "المدينة التي تقوم فيها حكومة البلد (capital city)",
+            "لغة مجموعة من الناس وطعامهم وموسيقاهم ولباسهم ومعتقداتهم (culture)"
+          ],
+          "passage": [
+            "أكثر من خمسين بلدًا تتكوّن منها أفريقيا.",
+            "ولكلّ بلد مدينة عاصمة.",
+            "أبوجا (Abuja) عاصمة نيجيريا.",
+            "وكينشاسا (Kinshasa) عاصمة جمهورية الكونغو الديمقراطية.",
+            "ودودوما (Dodoma) عاصمة تنزانيا.",
+            "والسكّان هم الناس الذين يعيشون في مكان ما.",
+            "وتوزّع السكّان هو أين يعيش الناس.",
+            "وكثافة السكّان هي كم شخصًا يعيش في كلّ كيلومتر مربّع.",
+            "قليل من الناس يعيشون في الصحراء الكبرى، لأنها جافّة جدًّا.",
+            "وكثير من الناس يعيشون في غرب أفريقيا، قرب الساحل.",
+            "وينتمي أهل أفريقيا إلى آلاف المجموعات المختلفة.",
+            "ولكلّ مجموعة لغتها وطعامها وموسيقاها وطريقتها في الحياة.",
+            "فالماساي (Maasai) يعيشون في كينيا، والزولو (Zulu) يعيشون في جنوب أفريقيا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ludzie, którzy mieszkają w danym miejscu",
+            "ile ludzi mieszka na każdym kilometrze kwadratowym (population density)",
+            "gdzie ludzie mieszkają, a gdzie nie (population distribution)",
+            "miasto, w którym ma siedzibę rząd kraju",
+            "język, jedzenie, muzyka, ubrania i wierzenia grupy ludzi"
+          ],
+          "passage": [
+            "Afrykę tworzy ponad pięćdziesiąt krajów.",
+            "Każdy kraj ma swoją stolicę.",
+            "Abudża jest stolicą Nigerii.",
+            "Kinszasa jest stolicą Demokratycznej Republiki Konga.",
+            "Dodoma jest stolicą Tanzanii.",
+            "Ludność to ludzie, którzy mieszkają w danym miejscu.",
+            "Rozmieszczenie ludności (population distribution) to miejsca, w których ludzie mieszkają.",
+            "Gęstość zaludnienia (population density) to liczba ludzi na każdym kilometrze kwadratowym.",
+            "Na Saharze mieszka niewiele ludzi, bo jest tam bardzo sucho.",
+            "Wielu ludzi mieszka w Afryce Zachodniej, blisko wybrzeża.",
+            "Mieszkańcy Afryki należą do tysięcy różnych grup.",
+            "Każda grupa ma własny język, jedzenie, muzykę i sposób życia.",
+            "Masajowie mieszkają w Kenii, a Zulusi w Republice Południowej Afryki."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "as pessoas que vivem num lugar (population, população)",
+            "quantas pessoas vivem em cada quilómetro/quilômetro quadrado (population density, densidade populacional)",
+            "onde as pessoas vivem e onde não vivem (population distribution, distribuição da população)",
+            "a cidade onde fica o governo de um país (capital city, capital)",
+            "a língua, a comida, a música, a roupa e as crenças de um grupo de pessoas (culture, cultura)"
+          ],
+          "passage": [
+            "Mais de cinquenta países formam a África.",
+            "Cada país tem uma capital.",
+            "Abuja é a capital da Nigéria.",
+            "Kinshasa é a capital da República Democrática do Congo.",
+            "Dodoma é a capital da Tanzânia.",
+            "População quer dizer as pessoas que vivem num lugar.",
+            "A distribuição da população é onde as pessoas vivem.",
+            "A densidade populacional é quantas pessoas vivem em cada quilómetro/quilômetro quadrado.",
+            "Vivem poucas pessoas no deserto do Saara, porque é muito seco.",
+            "Vivem muitas pessoas na África Ocidental, perto da costa.",
+            "As pessoas da África pertencem a milhares de grupos diferentes.",
+            "Cada grupo tem a sua própria língua, comida, música e modo de vida.",
+            "Os Maasai vivem no Quénia/Quênia e os Zulu vivem na África do Sul."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dadka meel ku nool",
+            "inta qof ku nool kiiloomitir afargeesle kasta",
+            "meesha dadku ku nool yihiin iyo meesha aanay ku nooleyn",
+            "magaalada ay dowladda dalku fadhido",
+            "luqadda, cuntada, muusikada, dharka iyo caqiidada koox dad ah"
+          ],
+          "passage": [
+            "In ka badan konton dal ayaa Afrika ka kooban tahay.",
+            "Dal kastaa wuxuu leeyahay caasimad.",
+            "Abuja waa caasimadda Nigeria.",
+            "Kinshasa waa caasimadda Jamhuuriyadda Dimuqraadiga Kongo.",
+            "Dodoma waa caasimadda Tanzania.",
+            "Dadweynaha macnaheedu waa dadka meel ku nool.",
+            "Qaybsanaanta dadweynaha (population distribution) waa meesha dadku ku nool yihiin.",
+            "Cufnaanta dadweynaha (population density) waa inta qof ku nool kiiloomitir afargeesle kasta.",
+            "Dad yar ayaa Saxaraha Sahara ku nool, maxaa yeelay aad ayuu u qalalan yahay.",
+            "Dad badan ayaa ku nool galbeedka Afrika, xeebta agteeda.",
+            "Dadka Afrika waxay ka tirsan yihiin kumanaan koox oo kala duwan.",
+            "Koox kastaa waxay leedahay luqad, cunto, muusik iyo hab-nololeed u gaar ah.",
+            "Maasai waxay ku nool yihiin Kenya, Zulu-na waxay ku nool yihiin Koonfur Afrika."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "люди, які живуть у якомусь місці (population)",
+            "скільки людей живе на кожному квадратному кілометрі (population density)",
+            "де люди живуть, а де не живуть (population distribution)",
+            "місто, де розміщений уряд країни (capital city)",
+            "мова, їжа, музика, одяг і вірування групи людей (culture)"
+          ],
+          "passage": [
+            "Понад п’ятдесят країн утворюють Африку.",
+            "Кожна країна має столицю.",
+            "Абуджа — столиця Нігерії.",
+            "Кіншаса — столиця Демократичної Республіки Конго.",
+            "Додома — столиця Танзанії.",
+            "Населення (population) означає людей, які живуть у якомусь місці.",
+            "Розподіл населення (population distribution) — це те, де живуть люди.",
+            "Густота населення (population density) — це скільки людей живе на кожному квадратному кілометрі.",
+            "У пустелі Сахара живе мало людей, бо вона дуже суха.",
+            "Багато людей живе в Західній Африці, біля узбережжя.",
+            "Люди Африки належать до тисяч різних груп.",
+            "Кожна група має власну мову, їжу, музику і спосіб життя.",
+            "Масаї живуть у Кенії, а зулуси — у Південній Африці."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ لوگ جو کسی جگہ رہتے ہیں (population)",
+            "ہر مربع کلومیٹر میں کتنے لوگ رہتے ہیں (population density)",
+            "لوگ کہاں رہتے ہیں اور کہاں نہیں رہتے (population distribution)",
+            "وہ شہر جہاں کسی ملک کی حکومت ہوتی ہے",
+            "کسی گروہ کی زبان، کھانا، موسیقی، لباس اور عقائد"
+          ],
+          "passage": [
+            "پچاس سے زیادہ ملک مل کر افریقہ بناتے ہیں۔",
+            "ہر ملک کا ایک دارالحکومت ہے۔",
+            "ابوجا (Abuja) نائجیریا کا دارالحکومت ہے۔",
+            "کنشاسا (Kinshasa) جمہوری جمہوریہ کانگو کا دارالحکومت ہے۔",
+            "دودوما (Dodoma) تنزانیہ کا دارالحکومت ہے۔",
+            "population کا مطلب وہ لوگ ہیں جو کسی جگہ رہتے ہیں۔",
+            "population distribution یہ ہے کہ لوگ کہاں رہتے ہیں۔",
+            "population density یہ ہے کہ ہر مربع کلومیٹر میں کتنے لوگ رہتے ہیں۔",
+            "صحارا کے صحرا میں بہت کم لوگ رہتے ہیں، کیونکہ یہ بہت خشک ہے۔",
+            "مغربی افریقہ میں، ساحل کے قریب، بہت لوگ رہتے ہیں۔",
+            "افریقہ کے لوگ ہزاروں مختلف گروہوں سے تعلق رکھتے ہیں۔",
+            "ہر گروہ کی اپنی زبان، اپنا کھانا، اپنی موسیقی اور اپنا طرزِ زندگی ہے۔",
+            "ماسائی (Maasai) کینیا میں رہتے ہیں اور زولو (Zulu) جنوبی افریقہ میں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Countries and capitals",
@@ -912,8 +1528,168 @@ window.ASTRA_UNITS["geog-africa"] = {
           "Globalisation means the world is becoming more connected.",
           "We trade, travel and share ideas across the world more easily than before.",
           "The metal coltan from the Congo is used in mobile phones."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مدى غنى البلد أو فقره، وجودة حياة أهله (development)",
+            "بلد مرتفع الدخل، أي بلد غنيّ (HIC)",
+            "بلد منخفض الدخل، أي بلد فقير (LIC)",
+            "اقتصاد ناشئ حديثًا، أي بلد يزداد غنًى بسرعة (NEE)",
+            "الفرق بين أغنى البلدان وأفقرها (development gap)",
+            "صيرورة العالم أكثر اتّصالًا بالتجارة والسفر والاتّصالات (globalisation)"
+          ],
+          "passage": [
+            "التنمية (development) مقياس لمدى غنى البلد أو فقره.",
+            "وهي أيضًا عن الصحّة والتعليم وجودة الحياة.",
+            "ومتوسّط العمر المتوقّع هو كم يعيش الناس في المتوسّط.",
+            "والناتج المحلّي الإجمالي (GDP) هو مقدار ما يكسبه البلد من مال.",
+            "وتُسمّى البلدان الغنيّة HICs، أي بلدانًا مرتفعة الدخل.",
+            "وتُسمّى البلدان الفقيرة LICs، أي بلدانًا منخفضة الدخل.",
+            "والبلدان التي تزداد غنًى بسرعة هي NEEs، أي اقتصادات ناشئة حديثًا.",
+            "ونيجيريا وجنوب أفريقيا من هذه الاقتصادات الناشئة (NEEs).",
+            "وفجوة التنمية هي الفرق بين أغنى البلدان وأفقرها.",
+            "والدَّين والفساد والمخاطر الطبيعية قد توسّع هذه الفجوة.",
+            "والعولمة (globalisation) تعني أنّ العالم يصبح أكثر اتّصالًا.",
+            "فنحن نتاجر ونسافر ونتشارك الأفكار في العالم أسهل من قبل.",
+            "ومعدن الكولتان (coltan) من الكونغو يُستخدم في الهواتف المحمولة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak bogaty albo biedny jest kraj i jak dobrze żyje się jego mieszkańcom (development)",
+            "kraj o wysokich dochodach, kraj bogaty (high income country)",
+            "kraj o niskich dochodach, kraj biedny (low income country)",
+            "nowa, wschodząca gospodarka, czyli kraj szybko bogacący się (newly emerging economy)",
+            "różnica między krajami najbogatszymi i najbiedniejszymi (development gap)",
+            "to, jak świat staje się coraz bardziej połączony przez handel, podróże i łączność (globalisation)"
+          ],
+          "passage": [
+            "Rozwój (development) to miara tego, jak bogaty albo biedny jest kraj.",
+            "Chodzi w nim także o zdrowie, edukację i jakość życia.",
+            "Oczekiwana długość życia mówi, jak długo ludzie żyją średnio.",
+            "PKB (GDP) to tyle, ile pieniędzy zarabia kraj.",
+            "Kraje bogate nazywamy HIC, czyli krajami o wysokich dochodach.",
+            "Kraje biedne nazywamy LIC, czyli krajami o niskich dochodach.",
+            "Kraje, które szybko się bogacą, to NEE, czyli nowe, wschodzące gospodarki.",
+            "Nigeria i Republika Południowej Afryki to NEE.",
+            "Przepaść rozwojowa (development gap) to różnica między krajami najbogatszymi i najbiedniejszymi.",
+            "Długi, korupcja i zagrożenia naturalne mogą tę przepaść pogłębiać.",
+            "Globalizacja (globalisation) znaczy, że świat staje się coraz bardziej połączony.",
+            "Handlujemy, podróżujemy i wymieniamy się pomysłami po całym świecie łatwiej niż kiedyś.",
+            "Metal koltan z Kongo jest używany w telefonach komórkowych."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o quão rico ou pobre é um país, e o quão boa é a vida para as suas pessoas (development, desenvolvimento)",
+            "um país de rendimento/renda alto, um país rico (HIC)",
+            "um país de rendimento/renda baixo, um país pobre (LIC)",
+            "uma economia emergente, um país que está a enriquecer / enriquecendo depressa (NEE)",
+            "a diferença entre os países mais ricos e os mais pobres (development gap)",
+            "a maneira como o mundo fica cada vez mais ligado pelo comércio, pelas viagens e pela comunicação (globalisation, globalização)"
+          ],
+          "passage": [
+            "O desenvolvimento (development) é uma medida de como um país é rico ou pobre.",
+            "Também tem a ver com a saúde, a educação e a qualidade de vida.",
+            "A esperança/expectativa de vida é quantos anos as pessoas vivem, em média.",
+            "O PIB (GDP) é quanto dinheiro um país produz.",
+            "Os países ricos chamam-se HICs, países de rendimento/renda alto.",
+            "Os países pobres chamam-se LICs, países de rendimento/renda baixo.",
+            "Os países que estão a enriquecer / enriquecendo depressa são NEEs, economias emergentes.",
+            "A Nigéria e a África do Sul são NEEs.",
+            "O development gap é a diferença entre os países mais ricos e os mais pobres.",
+            "A dívida, a corrupção e os riscos naturais podem aumentar essa diferença.",
+            "Globalização quer dizer que o mundo está cada vez mais ligado.",
+            "Trocamos produtos, viajamos e partilhamos/compartilhamos ideias pelo mundo com mais facilidade do que antes.",
+            "O metal coltan, que vem do Congo, é usado nos telemóveis/celulares."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida dal u hodan yahay ama u faqiir yahay, iyo sida nolosha dadkiisa u fiican tahay",
+            "dal dakhli sare leh, dal hodan ah",
+            "dal dakhli hooseeya leh, dal faqiir ah",
+            "dhaqaale cusub oo soo koraya, dal si dhaqso ah u sii hodmaya",
+            "farqiga u dhexeeya dalalka ugu hodansan iyo kuwa ugu faqiirsan",
+            "sida dunidu ay isku xirnaan badan u yeelanayso ganacsi, safar iyo isgaarsiin"
+          ],
+          "passage": [
+            "Horumarku waa cabbirka sida dal u hodan yahay ama u faqiir yahay.",
+            "Wuxuu sidoo kale ku xiran yahay caafimaad, waxbarasho iyo tayada nolosha.",
+            "Cimriga la filayo waa inta sano celcelis ahaan dadku noolaadaan.",
+            "GDP waa inta lacag ah oo dal soo saaro.",
+            "Dalalka hodanka waxaa la yiraahdaa HICs, oo ah dalal dakhli sare leh.",
+            "Dalalka faqiirka waxaa la yiraahdaa LICs, oo ah dalal dakhli hooseeya leh.",
+            "Dalalka si dhaqso ah u sii hodmaya waa NEEs, oo ah dhaqaalayaal cusub oo soo koraya.",
+            "Nigeria iyo Koonfur Afrika waa NEEs.",
+            "Farqiga horumarka (development gap) waa kala duwanaanta dalalka ugu hodansan iyo kuwa ugu faqiirsan.",
+            "Deynta, musuqmaasuqa iyo khataraha dabiiciga ah waxay farqiga sii weyn kartaa.",
+            "Globalisation macnaheedu waa in dunidu isku xirnaan badan yeelanayso.",
+            "Waxaan si ka sahlan sidii hore u ganacsanaa, u safraa oo fikrado ula wadaagnaa dunida oo dhan.",
+            "Birta coltan ee Kongo laga soo saaro waxaa lagu isticmaalaa taleefannada gacanta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "наскільки країна багата або бідна і наскільки добре живуть її люди (development)",
+            "країна з високим доходом, багата країна (HIC)",
+            "країна з низьким доходом, бідна країна (LIC)",
+            "нова економіка, що швидко багатіє (NEE)",
+            "різниця між найбагатшими і найбіднішими країнами (development gap)",
+            "те, як світ стає більш пов’язаним через торгівлю, подорожі та зв’язок (globalisation)"
+          ],
+          "passage": [
+            "Розвиток (development) — це міра того, наскільки країна багата або бідна.",
+            "Він також про здоров’я, освіту і якість життя.",
+            "Очікувана тривалість життя — це те, як довго люди живуть у середньому.",
+            "GDP — це те, скільки грошей виробляє країна.",
+            "Багаті країни називають HICs, країнами з високим доходом.",
+            "Бідні країни називають LICs, країнами з низьким доходом.",
+            "Країни, які швидко багатіють, — це NEEs, нові економіки, що виникають.",
+            "Нігерія і Південна Африка — це NEEs.",
+            "Розрив у розвитку (development gap) — це різниця між найбагатшими і найбіднішими країнами.",
+            "Борги, корупція і природні небезпеки можуть збільшувати цей розрив.",
+            "Глобалізація означає, що світ стає більш пов’язаним.",
+            "Ми торгуємо, подорожуємо й обмінюємося ідеями по всьому світу легше, ніж раніше.",
+            "Метал колтан із Конго використовують у мобільних телефонах."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کوئی ملک کتنا امیر یا غریب ہے، اور اس کے لوگوں کی زندگی کتنی اچھی ہے (development)",
+            "اونچی آمدنی والا ملک، یعنی امیر ملک (HIC)",
+            "کم آمدنی والا ملک، یعنی غریب ملک (LIC)",
+            "نئی ابھرتی ہوئی معیشت، وہ ملک جو تیزی سے امیر ہو رہا ہے (NEE)",
+            "سب سے امیر اور سب سے غریب ملکوں کے درمیان فرق (development gap)",
+            "وہ عمل جس سے دنیا تجارت، سفر اور رابطے کے ذریعے زیادہ جڑ رہی ہے (globalisation)"
+          ],
+          "passage": [
+            "development اس بات کا پیمانہ ہے کہ کوئی ملک کتنا امیر یا غریب ہے۔",
+            "یہ صحت، تعلیم اور معیارِ زندگی کے بارے میں بھی ہے۔",
+            "life expectancy یہ ہے کہ لوگ اوسطاً کتنا عرصہ جیتے ہیں۔",
+            "GDP یہ ہے کہ کوئی ملک کتنا پیسہ کماتا ہے۔",
+            "امیر ملکوں کو HICs کہتے ہیں، یعنی اونچی آمدنی والے ملک۔",
+            "غریب ملکوں کو LICs کہتے ہیں، یعنی کم آمدنی والے ملک۔",
+            "تیزی سے امیر ہوتے ملک NEEs ہیں، یعنی نئی ابھرتی ہوئی معیشتیں۔",
+            "نائجیریا اور جنوبی افریقہ NEEs ہیں۔",
+            "development gap سب سے امیر اور سب سے غریب ملکوں کے درمیان فرق ہے۔",
+            "قرض، بدعنوانی اور قدرتی آفات اس فرق کو بڑھا سکتے ہیں۔",
+            "globalisation کا مطلب ہے کہ دنیا زیادہ سے زیادہ جڑ رہی ہے۔",
+            "ہم پہلے سے زیادہ آسانی سے دنیا بھر میں تجارت کرتے، سفر کرتے اور خیال بانٹتے ہیں۔",
+            "کانگو سے آنے والی دھات coltan موبائل فونوں میں استعمال ہوتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Measuring development",
@@ -1115,8 +1891,168 @@ window.ASTRA_UNITS["geog-africa"] = {
           "They drew straight borders on the map that cut through peoples.",
           "In the twentieth century, African countries became independent.",
           "Independence means a country governs itself."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "السيطرة على بلد آخر وتوطين الناس فيه واستخدام موارده لمصلحتك (colonialism)",
+            "بلد يحكمه بلد آخر أقوى منه (colony)",
+            "أن يحكم البلد نفسه (independence)",
+            "أن تستغلّ شعبًا أو مكانًا أو شيئًا لمصلحتك (exploit)",
+            "الخطّ الذي ينتهي عنده بلد ويبدأ عنده بلد آخر (border)"
+          ],
+          "passage": [
+            "لأفريقيا تاريخ طويل.",
+            "فأقدم البشر عاشوا في شرق أفريقيا، في ما هو اليوم إثيوبيا.",
+            "ونشأت مصر القديمة على نهر النيل.",
+            "وكانت إمبراطورية مالي ومملكة كونغو (Kongo) دولتَي تجارة غنيّتين.",
+            "وفي سنوات 1800 بدأت الدول الأوروبية تسيطر على أفريقيا.",
+            "ويُسمّى هذا الاستعمار (colonialism).",
+            "والمستعمرة (colony) بلد يحكمه بلد آخر.",
+            "وبحلول 1914 كانت أفريقيا كلّها تقريبًا تُحكم من أوروبا.",
+            "ولم تبقَ مستقلّةً إلّا إثيوبيا وليبيريا.",
+            "وأخذت بريطانيا وفرنسا أكبر مساحة من الأرض.",
+            "وكان الأوروبيون يريدون ذهب أفريقيا وعاجها وموادها الأخرى.",
+            "ورسموا على الخريطة حدودًا مستقيمة شقّت الشعوب.",
+            "وفي القرن العشرين نالت بلدان أفريقيا استقلالها.",
+            "والاستقلال يعني أن يحكم البلد نفسه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "przejęcie kontroli nad innym krajem, osadzenie tam swoich ludzi i korzystanie z jego zasobów dla własnego zysku (colonialism)",
+            "kraj rządzony przez inny, potężniejszy kraj",
+            "sytuacja, w której kraj rządzi sam sobą",
+            "wykorzystywać ludzi, miejsce albo rzecz dla własnego zysku",
+            "linia, na której kończy się jeden kraj, a zaczyna drugi"
+          ],
+          "passage": [
+            "Afryka ma długą historię.",
+            "Najdawniejsi ludzie żyli w Afryce Wschodniej, na terenie dzisiejszej Etiopii.",
+            "Starożytny Egipt wyrósł nad Nilem.",
+            "Imperium Mali i Królestwo Kongo były bogatymi państwami handlowymi.",
+            "W XIX wieku (the 1800s) kraje europejskie zaczęły przejmować kontrolę nad Afryką.",
+            "Nazywamy to kolonializmem (colonialism).",
+            "Kolonia to kraj rządzony przez inny kraj.",
+            "Do roku 1914 niemal cała Afryka była rządzona z Europy.",
+            "Niepodległe zostały tylko Etiopia i Liberia.",
+            "Najwięcej ziemi zajęły Wielka Brytania i Francja.",
+            "Europejczycy chcieli afrykańskiego złota, kości słoniowej i innych zasobów.",
+            "Rysowali na mapie proste granice, które przecinały ziemie zamieszkane przez te same ludy.",
+            "W XX wieku kraje afrykańskie uzyskały niepodległość.",
+            "Niepodległość znaczy, że kraj rządzi sam sobą."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "tomar o controlo de outro país, instalar lá pessoas e usar os seus recursos em benefício próprio (colonialism, colonialismo)",
+            "um país governado por outro país mais poderoso (colony, colónia/colônia)",
+            "quando um país se governa a si mesmo (independence, independência)",
+            "usar um povo, um lugar ou uma coisa em benefício próprio (exploit, explorar)",
+            "a linha onde um país acaba e começa outro (border, fronteira)"
+          ],
+          "passage": [
+            "A África tem uma história longa.",
+            "Os primeiros seres humanos viveram na África Oriental, no que é hoje a Etiópia.",
+            "O Antigo Egito cresceu ao longo do rio Nilo.",
+            "O Império do Mali e o Reino do Congo (Kongo) eram estados comerciais ricos.",
+            "Nos anos 1800, os países europeus começaram a tomar o controlo da África.",
+            "A isto chama-se colonialismo.",
+            "Uma colónia/colônia é um país governado por outro país.",
+            "Em 1914, quase toda a África era governada da Europa.",
+            "Só a Etiópia e a Libéria continuaram independentes.",
+            "A Grã-Bretanha e a França ficaram com mais terras.",
+            "Os europeus queriam o ouro, o marfim e outros recursos da África.",
+            "Desenharam no mapa fronteiras retas que cortaram povos ao meio.",
+            "No século vinte, os países africanos tornaram-se independentes.",
+            "Independência quer dizer que um país se governa a si mesmo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "la wareegidda dal kale, dad halkaas la dejiyo oo kheyraadkiisa loo isticmaalo danahaaga",
+            "dal ay xukunto dal kale oo ka xoog badan",
+            "marka dal naftiisa xukumo",
+            "inaad dad, meel ama shay u isticmaasho danahaaga adiga",
+            "xariiqda ay dal ku dhammaado oo mid kale ku bilaabmo"
+          ],
+          "passage": [
+            "Afrika waxay leedahay taariikh dheer.",
+            "Dadkii ugu horreeyay waxay ku noolaayeen bariga Afrika, meesha hadda Itoobiya tahay.",
+            "Masar hore waxay ku kortay webiga Nile dhinacyadiisa.",
+            "Boqortooyadii Mali iyo Boqortooyadii Kongo waxay ahaayeen dowlado hodan ah oo ganacsi badan leh.",
+            "1800-meeyadii, dalalka Yurub waxay bilaabeen inay Afrika la wareegaan.",
+            "Tan waxaa la yiraahdaa gumaysi (colonialism).",
+            "Gumaysi waa dal ay xukunto dal kale.",
+            "1914-kii, Afrika oo dhan ku dhowaad waxaa laga xukumay Yurub.",
+            "Itoobiya iyo Liberia oo keliya ayaa xornimadooda sii haystay.",
+            "Ingiriiska iyo Faransiiska ayaa dhulka ugu badan qaatay.",
+            "Yurubiyiintu waxay rabeen dahabka, foolmaroodiga iyo kheyraadka kale ee Afrika.",
+            "Waxay khariidadda ku sawireen xadad toosan oo dadyowga kala gooyay.",
+            "Qarnigii labaatanaad, dalalka Afrika waxay xornimo qaateen.",
+            "Xornimo macnaheedu waa in dal naftiisa xukumo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "захоплення контролю над іншою країною, переселення туди людей і використання її ресурсів для власної вигоди (colonialism)",
+            "країна, якою править інша, могутніша країна (colony)",
+            "коли країна керує собою сама (independence)",
+            "використовувати народ, місце або річ для власної вигоди (exploit)",
+            "лінія, де одна країна закінчується і починається інша (border)"
+          ],
+          "passage": [
+            "Африка має довгу історію.",
+            "Найдавніші люди жили у Східній Африці, на території сучасної Ефіопії.",
+            "Давній Єгипет виріс уздовж річки Ніл.",
+            "Імперія Малі й Королівство Конго були багатими торговими державами.",
+            "У 1800-х роках європейські країни почали захоплювати контроль над Африкою.",
+            "Це називають колоніалізмом.",
+            "Колонія — це країна, якою править інша країна.",
+            "До 1914 року майже всією Африкою правили з Європи.",
+            "Незалежними залишилися лише Ефіопія та Ліберія.",
+            "Британія і Франція забрали найбільше земель.",
+            "Європейці хотіли африканського золота, слонової кості та інших ресурсів.",
+            "Вони накреслили на карті прямі кордони, які розрізали народи.",
+            "У двадцятому столітті африканські країни стали незалежними.",
+            "Незалежність означає, що країна керує собою сама."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "کسی دوسرے ملک پر قبضہ کرنا، وہاں اپنے لوگ بسانا اور اپنے فائدے کے لیے اس کے وسائل استعمال کرنا (colonialism)",
+            "وہ ملک جس پر کوئی دوسرا، زیادہ طاقتور ملک حکومت کرے (colony)",
+            "جب کوئی ملک خود اپنی حکومت کرے (independence)",
+            "کسی قوم، جگہ یا چیز کو اپنے فائدے کے لیے استعمال کرنا (exploit)",
+            "وہ لکیر جہاں ایک ملک ختم اور دوسرا شروع ہوتا ہے"
+          ],
+          "passage": [
+            "افریقہ کی تاریخ بہت پرانی ہے۔",
+            "سب سے پہلے انسان مشرقی افریقہ میں رہتے تھے، اس علاقے میں جو اب ایتھوپیا ہے۔",
+            "قدیم مصر دریائے نیل کے کنارے پروان چڑھا۔",
+            "مالی کی سلطنت اور کانگو کی بادشاہت امیر تجارتی ریاستیں تھیں۔",
+            "1800 کی دہائی میں یورپی ملکوں نے افریقہ پر قبضہ کرنا شروع کیا۔",
+            "اسے colonialism کہتے ہیں۔",
+            "colony وہ ملک ہے جس پر کوئی دوسرا ملک حکومت کرے۔",
+            "1914 تک تقریباً سارے افریقہ پر یورپ سے حکومت ہو رہی تھی۔",
+            "صرف ایتھوپیا اور لائبیریا آزاد رہے۔",
+            "برطانیہ اور فرانس نے سب سے زیادہ زمین لی۔",
+            "یورپی لوگ افریقہ کا سونا، ہاتھی دانت اور دوسرے وسائل چاہتے تھے۔",
+            "انھوں نے نقشے پر سیدھی سرحدیں کھینچ دیں جو قوموں کو کاٹتی تھیں۔",
+            "بیسویں صدی میں افریقی ملک آزاد ہوئے۔",
+            "independence کا مطلب ہے کہ ملک خود اپنی حکومت کرے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Africa before the colonisers",

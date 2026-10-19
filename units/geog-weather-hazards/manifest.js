@@ -120,8 +120,168 @@ window.ASTRA_UNITS["geog-weather-hazards"] = {
           "They need sea water warmer than 26 degrees Celsius.",
           "They are called hurricanes, cyclones or typhoons, depending on where they are.",
           "They do not form on the equator itself."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "طبقة الغازات التي تحيط بالأرض (atmosphere)",
+            "ثِقَل الهواء الذي يضغط على سطح الأرض (pressure)",
+            "الخطّ الوهمي الذي يدور حول وسط الأرض (equator)",
+            "حلقة الهواء بين خطّ الاستواء والمدارين (Hadley cell)",
+            "عاصفة دوّارة ضخمة تتكوّن فوق البحار المدارية الدافئة (tropical storm)",
+            "كم يبعد المكان شمال خطّ الاستواء أو جنوبه، ويُقاس بالدرجات (latitude)"
+          ],
+          "passage": [
+            "يتحكّم في الطقس حركةُ الهواء.",
+            "فالهواء الدافئ خفيف، فهو يرتفع.",
+            "والهواء الصاعد يصنع ضغطًا منخفضًا، ويجلب الغيوم والمطر.",
+            "والهواء البارد ثقيل، فهو يهبط.",
+            "والهواء الهابط يصنع ضغطًا مرتفعًا، ويجلب طقسًا جافًّا صافيًا.",
+            "والهواء يرتفع عند خطّ الاستواء الحارّ ويهبط فوق المدارين.",
+            "وتُسمّى هذه الحلقة خليّة هادلي (Hadley cell).",
+            "وهناك حلقتان أُخريان في كلّ نصف من نصفي الأرض.",
+            "وهما خليّة فيريل (Ferrel cell) والخليّة القطبية (Polar cell).",
+            "والعواصف المدارية تتكوّن فوق البحار الدافئة قرب المدارين.",
+            "وهي تحتاج إلى ماء بحر أدفأ من 26 درجة سيلسيوسية.",
+            "وتُسمّى هاريكين أو سايكلون أو تايفون، على حسب مكانها.",
+            "وهي لا تتكوّن على خطّ الاستواء نفسه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "warstwa gazów, która otacza Ziemię (atmosphere)",
+            "ciężar powietrza naciskającego na ziemię (pressure)",
+            "wyobrażona linia wokół środka Ziemi",
+            "pętla powietrza między równikiem a tropikami (Hadley cell)",
+            "wielka wirująca burza, która powstaje nad ciepłymi morzami w tropikach (tropical storm)",
+            "jak daleko na północ albo na południe od równika leży dane miejsce, mierzone w stopniach (latitude)"
+          ],
+          "passage": [
+            "Pogodą rządzi ruch powietrza.",
+            "Ciepłe powietrze jest lekkie, więc się unosi.",
+            "Unoszące się powietrze tworzy niskie ciśnienie i przynosi chmury oraz deszcz.",
+            "Zimne powietrze jest ciężkie, więc opada.",
+            "Opadające powietrze tworzy wysokie ciśnienie i przynosi suchą, pogodną aurę.",
+            "Powietrze unosi się nad gorącym równikiem i opada nad tropikami.",
+            "Tę pętlę nazywamy komórką Hadleya (Hadley cell).",
+            "W każdej połowie Ziemi są jeszcze dwie takie pętle.",
+            "To komórka Ferrela i komórka polarna.",
+            "Burze tropikalne powstają nad ciepłymi morzami blisko tropików.",
+            "Potrzebują wody morskiej cieplejszej niż 26 stopni Celsjusza.",
+            "Nazywa się je huraganami, cyklonami albo tajfunami, zależnie od tego, gdzie się pojawiają.",
+            "Nie powstają na samym równiku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a camada de gases que envolve a Terra (atmosphere, atmosfera)",
+            "o peso do ar a pressionar o solo (pressure, pressão)",
+            "a linha imaginária em volta do meio da Terra (equator, equador)",
+            "a volta de ar entre o equador e os trópicos (Hadley cell, célula de Hadley)",
+            "uma enorme tempestade giratória que se forma sobre mares tropicais quentes (tropical storm, tempestade tropical)",
+            "a que distância a norte ou a sul do equador fica um lugar, medida em graus (latitude)"
+          ],
+          "passage": [
+            "O tempo é controlado pelo movimento do ar.",
+            "O ar quente é leve, por isso sobe.",
+            "O ar que sobe cria baixa pressão, e traz nuvens e chuva.",
+            "O ar frio é pesado, por isso desce.",
+            "O ar que desce cria alta pressão, e traz tempo seco e limpo.",
+            "O ar sobe no equador quente e desce sobre os trópicos.",
+            "A esta volta chama-se célula de Hadley.",
+            "Há mais duas voltas em cada metade da Terra.",
+            "São a célula de Ferrel e a célula Polar.",
+            "As tempestades tropicais formam-se sobre mares quentes, perto dos trópicos.",
+            "Precisam de água do mar mais quente do que 26 graus Celsius.",
+            "Chamam-se furacões, ciclones ou tufões, conforme o lugar onde estão.",
+            "Não se formam sobre o equador em si."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "lakabka gaasaska ku wareegsan Dhulka",
+            "culayska hawada oo dhulka hoos ugu riixaya",
+            "xariiqda la male-awaalay ee dhexda Dhulka ku wareegsan",
+            "wareegga hawada ee u dhexeeya dhulbaraha iyo kulaylaha",
+            "duufaan weyn oo wareegaya oo ka samaysma badaha kulul ee kulaylaha",
+            "inta meel ay waqooyi ama koonfur uga jirto dhulbaraha, oo lagu cabbiro darajo"
+          ],
+          "passage": [
+            "Hawada maalinlaha waxaa maamula socodka hawada.",
+            "Hawada diirran way fudud tahay, markaa kor ayay u kacdaa.",
+            "Hawada kor u kacaysa waxay samaysaa cadaadis hooseeya, waxayna keentaa daruuro iyo roob.",
+            "Hawada qabow way culus tahay, markaa hoos ayay u degtaa.",
+            "Hawada hoos u degaysa waxay samaysaa cadaadis sare, waxayna keentaa hawo qalalan oo caddaan.",
+            "Hawadu waxay kacdaa dhulbaraha kulul waxayna hoos u degtaa kulaylaha.",
+            "Wareeggan waxaa la yiraahdaa Hadley cell.",
+            "Laba wareeg kale ayaa ku jira nus kasta oo Dhulka.",
+            "Labadaas waa Ferrel cell iyo Polar cell oo la yiraahdo.",
+            "Duufaannada kulaylaha waxay ka samaysmaan badaha diirran ee kulaylaha u dhow.",
+            "Waxay u baahan yihiin biyo badeed ka diirran 26 darajo Celsius.",
+            "Waxaa loo yiraahdaa hurricanes, cyclones ama typhoons, iyadoo ku xiran meesha ay joogaan.",
+            "Dhulbaraha laftiisa kuma samaysmaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "шар газів, що оточує Землю (atmosphere)",
+            "вага повітря, яке тисне вниз на землю (pressure)",
+            "уявна лінія навколо середини Землі (equator)",
+            "петля повітря між екватором і тропіками (Hadley cell)",
+            "величезний обертовий шторм, що утворюється над теплими тропічними морями (tropical storm)",
+            "наскільки далеко на північ або на південь від екватора розташоване місце, виміряне в градусах (latitude)"
+          ],
+          "passage": [
+            "Погоду визначає рух повітря.",
+            "Тепле повітря легке, тому воно піднімається.",
+            "Повітря, що піднімається, створює низький тиск і приносить хмари та дощ.",
+            "Холодне повітря важке, тому воно опускається.",
+            "Повітря, що опускається, створює високий тиск і приносить суху, ясну погоду.",
+            "Повітря піднімається на гарячому екваторі й опускається над тропіками.",
+            "Цю петлю називають комірка Гадлі (Hadley cell).",
+            "У кожній половині Землі є ще дві петлі.",
+            "Це комірка Феррела і полярна комірка.",
+            "Тропічні шторми утворюються над теплими морями біля тропіків.",
+            "Їм потрібна морська вода, тепліша за 26 градусів Цельсія.",
+            "Їх називають ураганами, циклонами або тайфунами, залежно від того, де вони.",
+            "На самому екваторі вони не утворюються."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "گیسوں کی وہ تہہ جو زمین کو گھیرے ہوئے ہے (atmosphere)",
+            "ہوا کا وہ وزن جو زمین پر دباؤ ڈالتا ہے (pressure)",
+            "زمین کے بیچ میں کھینچی گئی خیالی لکیر (equator)",
+            "equator اور اشنکٹبندی علاقوں کے درمیان ہوا کا چکر (Hadley cell)",
+            "ایک بہت بڑا گھومتا طوفان جو گرم اشنکٹبندی سمندروں پر بنتا ہے (tropical storm)",
+            "کوئی جگہ equator سے کتنی شمال یا جنوب میں ہے، جو درجوں میں ناپا جاتا ہے (latitude)"
+          ],
+          "passage": [
+            "موسم کو ہوا کی حرکت قابو میں رکھتی ہے۔",
+            "گرم ہوا ہلکی ہوتی ہے، اس لیے اوپر اٹھتی ہے۔",
+            "اوپر اٹھتی ہوئی ہوا کم دباؤ بناتی ہے، اور بادل اور بارش لاتی ہے۔",
+            "ٹھنڈی ہوا بھاری ہوتی ہے، اس لیے نیچے بیٹھتی ہے۔",
+            "نیچے بیٹھتی ہوئی ہوا زیادہ دباؤ بناتی ہے، اور خشک، صاف موسم لاتی ہے۔",
+            "ہوا گرم equator پر اوپر اٹھتی ہے اور اشنکٹبندی علاقوں پر نیچے بیٹھتی ہے۔",
+            "اس چکر کو Hadley cell کہتے ہیں۔",
+            "زمین کے ہر نصف حصے میں دو مزید چکر ہیں۔",
+            "یہ Ferrel cell اور Polar cell ہیں۔",
+            "tropical storms اشنکٹبندی علاقوں کے قریب گرم سمندروں پر بنتے ہیں۔",
+            "انھیں 26 درجے سیلسیس سے زیادہ گرم سمندری پانی چاہیے۔",
+            "جگہ کے حساب سے انھیں hurricanes، cyclones یا typhoons کہا جاتا ہے۔",
+            "یہ خود equator پر نہیں بنتے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Warm air rises, cold air sinks",
@@ -329,8 +489,162 @@ window.ASTRA_UNITS["geog-weather-hazards"] = {
           "The storm drifts across the ocean on the prevailing wind.",
           "When it reaches land it loses its fuel and dies away.",
           "A storm can be more than 300 kilometres across."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "تحوّل الماء إلى بخار ماء (evaporation)",
+            "تحوّل بخار الماء إلى قطرات ماء سائل من جديد (condensation)",
+            "غيمة عاصفة شاهقة تجلب مطرًا غزيرًا (cumulonimbus)",
+            "مركز العاصفة المدارية الهادئ الصافي (eye)",
+            "انحراف الرياح بسبب دوران الأرض (Coriolis effect)",
+            "اللحظة التي تنتقل فيها العاصفة من البحر إلى اليابسة (landfall)"
+          ],
+          "passage": [
+            "تبدأ العاصفة المدارية فوق محيط دافئ.",
+            "فيسخّن البحر الهواء فوقه، ويتبخّر الماء.",
+            "فيرتفع الهواء الدافئ الرطب بسرعة، فيصنع ضغطًا منخفضًا.",
+            "فيهرع الهواء من كلّ جهة ليملأ الفراغ.",
+            "وهذا يصنع رياحًا قويّة.",
+            "ودوران الأرض يحرف الرياح، فتبدأ العاصفة بالدوران.",
+            "ويبرد الهواء الصاعد، فيتكاثف بخار الماء في غيوم ضخمة.",
+            "والماء المتكاثف يُطلق حرارة، وتلك الحرارة تشغّل العاصفة.",
+            "وفي الوسط يهبط هواء بارد فيصنع عينًا هادئة صافية.",
+            "وتنساق العاصفة عبر المحيط على الريح السائدة.",
+            "وعندما تصل إلى اليابسة تفقد وقودها فتخبو.",
+            "وقد يبلغ عرض العاصفة أكثر من 300 كيلومتر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "woda zamieniająca się w parę wodną (evaporation)",
+            "para wodna zamieniająca się z powrotem w kropelki wody (condensation)",
+            "wysoka chmura burzowa, która przynosi ulewny deszcz (cumulonimbus)",
+            "spokojne, czyste centrum burzy tropikalnej (eye)",
+            "zakrzywianie wiatrów spowodowane obrotem Ziemi (Coriolis effect)",
+            "moment, w którym burza przechodzi z morza na ląd (landfall)"
+          ],
+          "passage": [
+            "Burza tropikalna zaczyna się nad ciepłym oceanem.",
+            "Morze ogrzewa powietrze nad sobą i woda paruje.",
+            "Ciepłe, wilgotne powietrze szybko się unosi, tworząc niskie ciśnienie.",
+            "Powietrze napływa ze wszystkich stron, żeby wypełnić tę lukę.",
+            "Tak powstaje silny wiatr.",
+            "Obrót Ziemi zakrzywia wiatry, więc burza zaczyna wirować.",
+            "Unoszące się powietrze stygnie, a para wodna skrapla się w ogromne chmury.",
+            "Skraplająca się woda oddaje ciepło, a to ciepło napędza burzę.",
+            "W środku zimne powietrze opada i tworzy spokojne, czyste oko burzy.",
+            "Burza przesuwa się nad oceanem, niesiona przez wiatr przeważający.",
+            "Kiedy dotrze nad ląd, traci swoje paliwo i zamiera.",
+            "Burza może mieć ponad 300 kilometrów szerokości."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "água a transformar-se em vapor de água (evaporation, evaporação)",
+            "vapor de água a voltar a transformar-se em gotinhas de água líquida (condensation, condensação)",
+            "uma nuvem de tempestade muito alta que traz chuva forte (cumulonimbus, cumulonimbo)",
+            "o centro calmo e limpo de uma tempestade tropical (eye, olho)",
+            "o desvio dos ventos causado pela rotação da Terra (Coriolis effect, efeito de Coriolis)",
+            "o momento em que uma tempestade passa do mar para a terra (landfall)"
+          ],
+          "passage": [
+            "Uma tempestade tropical começa sobre um oceano quente.",
+            "O mar aquece o ar que está acima dele, e a água evapora-se.",
+            "O ar quente e húmido/úmido sobe depressa, criando baixa pressão.",
+            "O ar corre de todos os lados para preencher o vazio.",
+            "Isto cria ventos fortes.",
+            "A rotação da Terra desvia os ventos, por isso a tempestade começa a girar.",
+            "O ar que sobe arrefece/esfria, e o vapor de água condensa-se em nuvens enormes.",
+            "A água a condensar-se liberta/libera calor, e esse calor alimenta a tempestade.",
+            "No meio, o ar frio desce e forma um olho calmo e limpo.",
+            "A tempestade atravessa o oceano levada pelo vento dominante.",
+            "Quando chega a terra, perde o seu combustível e vai morrendo.",
+            "Uma tempestade pode ter mais de 300 quilómetros/quilômetros de lado a lado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "biyo oo isu beddelaya uumi biyo",
+            "uumi biyo oo dib isu beddelaya dhibco biyo ah",
+            "daruur duufaan ah oo kor u dheer oo roob culus keenta",
+            "xarunta degan oo caddaan ah ee duufaanka kulaylaha",
+            "qalloocidda dabeylaha ee wareegga Dhulka keeno",
+            "daqiiqadda duufaanku badda uga guuro dhulka"
+          ],
+          "passage": [
+            "Duufaanka kulaylaha wuxuu ku bilaabmaa badweyn diirran.",
+            "Baddu waxay kululaysaa hawada korkeeda, biyuhuna uumi ayay noqdaan.",
+            "Hawada diirran oo qoyan si dhaqso ah ayay kor u kacdaa, waxayna samaysaa cadaadis hooseeya.",
+            "Hawadu dhinac kasta ayay ka soo xaaqdaa si ay godka u buuxiso.",
+            "Tan waxay samaysaa dabeylo xoog leh.",
+            "Wareegga Dhulka wuxuu dabeylaha qalloociyaa, markaa duufaanku wuxuu bilaabaa inuu wareego.",
+            "Hawada kor u kacaysa way qaboowdaa, uumiga biyuhuna wuxuu isu beddelaa daruuro waaweyn.",
+            "Biyaha isu beddelaya waxay kulayl sii daayaan, kulaylkaasna duufaanka ayuu shaqaajiyaa.",
+            "Dhexda, hawada qabow hoos ayay u degtaa oo waxay samaysaa isha degan oo caddaan ah.",
+            "Duufaanku badweynta wuu ka gudbaa isagoo dabeysha badan raacsan.",
+            "Marka dhulka gaaro shidaalkiisa wuu lumiyaa oo wuu baabba'aa.",
+            "Duufaan wuxuu ballaaran noqon karaa in ka badan 300 kiiloomitir."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "вода перетворюється на водяну пару (evaporation)",
+            "водяна пара перетворюється назад на краплі рідкої води (condensation)",
+            "висока штормова хмара, яка приносить сильний дощ (cumulonimbus)",
+            "спокійний, ясний центр тропічного шторму (eye)",
+            "відхилення вітрів, спричинене обертанням Землі (Coriolis effect)",
+            "мить, коли шторм переходить із моря на землю (landfall)"
+          ],
+          "passage": [
+            "Тропічний шторм починається над теплим океаном.",
+            "Море нагріває повітря над собою, і вода випаровується.",
+            "Тепле вологе повітря швидко піднімається, створюючи низький тиск.",
+            "Повітря мчить звідусіль, щоб заповнити цю прогалину.",
+            "Через це виникають сильні вітри.",
+            "Обертання Землі відхиляє вітри, тому шторм починає крутитися.",
+            "Повітря, що піднімається, охолоджується, і водяна пара конденсується у величезні хмари.",
+            "Вода, конденсуючись, віддає тепло, і це тепло живить шторм.",
+            "Посередині холодне повітря опускається й утворює спокійне, ясне око (eye).",
+            "Шторм дрейфує над океаном за панівним вітром.",
+            "Коли він досягає землі, він втрачає своє пальне і затухає.",
+            "Шторм може мати понад 300 кілометрів у поперечнику."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "پانی کا آبی بخارات میں بدل جانا (evaporation)",
+            "آبی بخارات کا واپس پانی کی ننھی بوندوں میں بدل جانا (condensation)",
+            "اونچا طوفانی بادل جو تیز بارش لاتا ہے (cumulonimbus)",
+            "tropical storm کا پُرسکون، صاف مرکز (eye)",
+            "زمین کی گردش سے ہواؤں کا مڑ جانا (Coriolis effect)",
+            "وہ لمحہ جب طوفان سمندر سے خشکی پر آتا ہے (landfall)"
+          ],
+          "passage": [
+            "tropical storm کسی گرم سمندر پر شروع ہوتا ہے۔",
+            "سمندر اپنے اوپر کی ہوا کو گرم کرتا ہے، اور پانی بخارات بن جاتا ہے۔",
+            "گرم، نم ہوا تیزی سے اوپر اٹھتی ہے اور کم دباؤ بنا دیتی ہے۔",
+            "یہ خلا بھرنے کے لیے چاروں طرف سے ہوا دوڑ کر آتی ہے۔",
+            "اس سے تیز ہوائیں بنتی ہیں۔",
+            "زمین کی گردش ہواؤں کو موڑ دیتی ہے، اس لیے طوفان گھومنے لگتا ہے۔",
+            "اوپر اٹھتی ہوئی ہوا ٹھنڈی ہوتی ہے، اور آبی بخارات بہت بڑے بادلوں میں بدل جاتے ہیں۔",
+            "بوندیں بنتے وقت پانی حرارت چھوڑتا ہے، اور یہی حرارت طوفان کو طاقت دیتی ہے۔",
+            "بیچ میں ٹھنڈی ہوا نیچے بیٹھتی ہے اور ایک پُرسکون، صاف eye بنا دیتی ہے۔",
+            "طوفان غالب ہوا کے ساتھ سمندر پر بہتا جاتا ہے۔",
+            "جب یہ خشکی تک پہنچتا ہے تو اس کا ایندھن ختم ہو جاتا ہے اور یہ دم توڑ دیتا ہے۔",
+            "طوفان 300 کلومیٹر سے بھی زیادہ چوڑا ہو سکتا ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Eight steps to a storm",
@@ -527,8 +841,162 @@ window.ASTRA_UNITS["geog-weather-hazards"] = {
           "Immediate responses save lives in the first hours and days.",
           "Long-term responses rebuild homes and roads over months and years.",
           "Before a storm, monitoring, prediction, protection and planning can reduce the damage."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء يحدث مباشرةً بسبب الخطر نفسه (primary effect)",
+            "شيء يحدث لاحقًا بسبب أثر أوّلي (secondary effect)",
+            "مساعدة تُقدَّم مباشرةً بعد الخطر (immediate response)",
+            "مساعدة تُقدَّم في الشهور والسنوات التي تلي الخطر (long-term response)",
+            "المقياس من 1 إلى 5 الذي يصنّف العاصفة المدارية بسرعة ريحها (Saffir-Simpson scale)",
+            "ارتفاع في مستوى البحر تدفعه العاصفة إلى الساحل (storm surge)"
+          ],
+          "passage": [
+            "تُحدث العاصفة المدارية ضررها على مرحلتين.",
+            "فالآثار الأوّلية تحدث في الحال، وتسبّبها الريح والمطر وعُرام العاصفة.",
+            "والآثار الثانوية تأتي لاحقًا، وتسبّبها الآثار الأوّلية.",
+            "فالطريق المغمور أثر أوّلي، والمتجر الذي يُغلق لأنّ أحدًا لا يستطيع الوصول إليه أثر ثانوي.",
+            "ومقياس سافير-سيمبسون (Saffir-Simpson) يصنّف العاصفة من الفئة 1 إلى الفئة 5.",
+            "وهو يستخدم سرعة الريح.",
+            "فالفئة 1 تبدأ عند 119 كيلومترًا في الساعة.",
+            "والفئة 5 فوق 252 كيلومترًا في الساعة.",
+            "وبعد العاصفة يستجيب الناس.",
+            "فالاستجابات الفورية تنقذ الأرواح في الساعات والأيّام الأولى.",
+            "والاستجابات طويلة الأجل تعيد بناء البيوت والطرق في شهور وسنوات.",
+            "وقبل العاصفة يستطيع الرصد والتوقّع والحماية والتخطيط أن تقلّل الضرر."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś, co dzieje się od razu, przez samo zagrożenie (primary effect)",
+            "coś, co dzieje się później, przez skutek pierwotny (secondary effect)",
+            "pomoc udzielona od razu po zagrożeniu (immediate response)",
+            "pomoc udzielana przez miesiące i lata po zagrożeniu (long-term response)",
+            "skala od 1 do 5, która ocenia burzę tropikalną według prędkości wiatru (Saffir-Simpson scale)",
+            "podniesienie poziomu morza wepchnięte na wybrzeże przez burzę (storm surge)"
+          ],
+          "passage": [
+            "Burza tropikalna wyrządza szkody w dwóch etapach.",
+            "Skutki pierwotne dzieją się od razu, przez wiatr, deszcz i falę sztormową.",
+            "Skutki wtórne przychodzą później, wywołane przez skutki pierwotne.",
+            "Zalana droga to skutek pierwotny, a sklep, który zamyka się, bo nikt nie może do niego dotrzeć, to skutek wtórny.",
+            "Skala Saffira-Simpsona ocenia burzę od kategorii 1 do kategorii 5.",
+            "Korzysta przy tym z prędkości wiatru.",
+            "Kategoria 1 zaczyna się od 119 kilometrów na godzinę.",
+            "Kategoria 5 to powyżej 252 kilometrów na godzinę.",
+            "Po burzy ludzie reagują.",
+            "Reakcje natychmiastowe ratują życie w pierwszych godzinach i dniach.",
+            "Reakcje długofalowe odbudowują domy i drogi przez miesiące i lata.",
+            "Przed burzą obserwacja, prognozowanie, zabezpieczenia i planowanie mogą zmniejszyć szkody."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo que acontece logo, por causa do próprio risco natural (primary effect, efeito primário)",
+            "algo que acontece mais tarde, por causa de um efeito primário (secondary effect, efeito secundário)",
+            "ajuda dada logo depois do risco natural (immediate response, resposta imediata)",
+            "ajuda dada ao longo dos meses e anos seguintes (long-term response, resposta de longo prazo)",
+            "a escala de 1 a 5 que classifica uma tempestade tropical pela velocidade do vento (Saffir-Simpson scale)",
+            "uma subida do nível do mar empurrada para a costa por uma tempestade (storm surge, maré de tempestade)"
+          ],
+          "passage": [
+            "Uma tempestade tropical faz estragos em duas fases.",
+            "Os efeitos primários acontecem logo, causados pelo vento, pela chuva e pela maré de tempestade.",
+            "Os efeitos secundários vêm depois, causados pelos efeitos primários.",
+            "Uma estrada inundada é um efeito primário; a loja que fecha porque ninguém consegue chegar lá é um efeito secundário.",
+            "A escala de Saffir-Simpson classifica uma tempestade da categoria 1 à categoria 5.",
+            "Usa a velocidade do vento.",
+            "A categoria 1 começa nos 119 quilómetros/quilômetros por hora.",
+            "A categoria 5 fica acima dos 252 quilómetros/quilômetros por hora.",
+            "Depois de uma tempestade, as pessoas respondem.",
+            "As respostas imediatas salvam vidas nas primeiras horas e nos primeiros dias.",
+            "As respostas de longo prazo reconstroem casas e estradas ao longo de meses e anos.",
+            "Antes de uma tempestade, a vigilância, a previsão, a proteção e o planeamento/planejamento podem reduzir os estragos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax isla markiiba dhaca khatarta laftiisa dartii",
+            "wax goor dambe dhaca saameyn hore dartii",
+            "caawimo la bixiyo isla markii khatartu dhacdo",
+            "caawimo la bixiyo bilaha iyo sanadaha khatarta ka dambeeya",
+            "cabbirka 1 ilaa 5 ee duufaanka kulaylaha ku qiimeeya xawaaraha dabeysha",
+            "kor u kaca heerka badda ee duufaanku xeebta ku riixo"
+          ],
+          "passage": [
+            "Duufaanka kulaylaha waxyeello wuxuu geystaa laba marxalad.",
+            "Saameynta primary isla markiiba way dhacdaa, waxaana keena dabeysha, roobka iyo storm surge-ka.",
+            "Saameynta secondary goor dambe ayay timaaddaa, waxaana keena saameynta primary.",
+            "Waddo daad qaaday waa primary; dukaanka xidhma sababtoo ah qofna ma gaari karo waa secondary.",
+            "Saffir-Simpson scale wuxuu duufaanka ku qiimeeyaa heerka 1 ilaa heerka 5.",
+            "Wuxuu isticmaalaa xawaaraha dabeysha.",
+            "Heerka 1 wuxuu ka bilaabmaa 119 kiiloomitir saacaddii.",
+            "Heerka 5 wuxuu ka sarreeyaa 252 kiiloomitir saacaddii.",
+            "Duufaanka ka dib, dadku way jawaabaan.",
+            "Jawaabaha degdegga ah waxay nafo badbaadiyaan saacadaha iyo maalmaha ugu horreeya.",
+            "Jawaabaha muddada dheer waxay guryaha iyo waddooyinka dhisaan bilo iyo sanado.",
+            "Duufaanka ka hor, la socodka, saadaalinta, ilaalinta iyo qorsheynta waxay waxyeellada yareyn karaan."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що відбувається відразу через саму небезпеку (primary effect)",
+            "те, що відбувається згодом через первинний наслідок (secondary effect)",
+            "допомога, надана відразу після небезпеки (immediate response)",
+            "допомога, надана в місяці й роки після небезпеки (long-term response)",
+            "шкала від 1 до 5, яка оцінює тропічний шторм за швидкістю його вітру (Saffir-Simpson scale)",
+            "підняття рівня моря, яке шторм нагонить на берег (storm surge)"
+          ],
+          "passage": [
+            "Тропічний шторм завдає шкоди у два етапи.",
+            "Первинні наслідки (primary effects) настають відразу, їх спричиняють вітер, дощ і нагінна хвиля.",
+            "Вторинні наслідки (secondary effects) приходять згодом, їх спричиняють первинні наслідки.",
+            "Затоплена дорога — це первинний наслідок; крамниця, яка закривається, бо до неї ніхто не може дістатися, — вторинний.",
+            "Шкала Саффіра-Сімпсона оцінює шторм від категорії 1 до категорії 5.",
+            "Вона використовує швидкість вітру.",
+            "Категорія 1 починається з 119 кілометрів на годину.",
+            "Категорія 5 — це понад 252 кілометри на годину.",
+            "Після шторму люди реагують.",
+            "Негайні дії (immediate responses) рятують життя в перші години і дні.",
+            "Довготривалі дії (long-term responses) відбудовують житло й дороги протягом місяців і років.",
+            "До шторму спостереження, прогноз, захист і планування можуть зменшити шкоду."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ بات جو خود hazard کی وجہ سے فوراً ہو جائے (primary effect)",
+            "وہ بات جو کسی primary effect کی وجہ سے بعد میں ہو (secondary effect)",
+            "hazard کے فوراً بعد دی جانے والی مدد (immediate response)",
+            "hazard کے بعد مہینوں اور برسوں میں دی جانے والی مدد (long-term response)",
+            "1 سے 5 تک کا وہ پیمانہ جو tropical storm کو اس کی ہوا کی رفتار سے درجہ دیتا ہے (Saffir-Simpson scale)",
+            "سمندر کی سطح کا بلند ہو کر طوفان کے زور سے ساحل پر چڑھ آنا (storm surge)"
+          ],
+          "passage": [
+            "tropical storm دو مرحلوں میں نقصان کرتا ہے۔",
+            "primary effects فوراً ہوتے ہیں، جو ہوا، بارش اور storm surge سے آتے ہیں۔",
+            "secondary effects بعد میں آتے ہیں، جو primary effects سے پیدا ہوتے ہیں۔",
+            "سیلاب میں ڈوبی سڑک primary ہے؛ وہ دکان جو اس لیے بند ہو جائے کہ کوئی وہاں پہنچ نہیں سکتا، secondary ہے۔",
+            "Saffir-Simpson scale طوفان کو category 1 سے category 5 تک درجہ دیتا ہے۔",
+            "یہ ہوا کی رفتار استعمال کرتا ہے۔",
+            "category 1، 119 کلومیٹر فی گھنٹہ سے شروع ہوتی ہے۔",
+            "category 5، 252 کلومیٹر فی گھنٹہ سے اوپر ہوتی ہے۔",
+            "طوفان کے بعد لوگ جواب دیتے ہیں۔",
+            "immediate responses پہلے گھنٹوں اور دنوں میں جانیں بچاتے ہیں۔",
+            "long-term responses مہینوں اور برسوں میں گھر اور سڑکیں دوبارہ بناتے ہیں۔",
+            "طوفان سے پہلے monitoring، prediction، protection اور planning نقصان کم کر سکتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Primary and secondary effects",
@@ -733,8 +1201,162 @@ window.ASTRA_UNITS["geog-weather-hazards"] = {
           "The Philippines is a low income country, so recovery was hard.",
           "Poor people in weak houses on low ground were hit hardest.",
           "Good warnings and strong buildings would have saved many lives."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "اسم العاصفة المدارية في شمال غرب المحيط الهادئ (typhoon)",
+            "منطقة من البلد، كالمقاطعة (province)",
+            "بقي بلا بيت يعيش فيه (homeless)",
+            "نقل الناس بعيدًا عن الخطر إلى مكان آمن (evacuation)",
+            "مدى سهولة تضرّر المكان وأهله بالخطر (vulnerability)",
+            "خريطة تستخدم تظليلًا أغمق وأفتح لبيان مقدار الشيء في كلّ منطقة (choropleth map)"
+          ],
+          "passage": [
+            "كان إعصار هايان (Haiyan) من أقوى العواصف المدارية المسجّلة.",
+            "وهو يُعرف في الفلبين بإعصار يولاندا (Yolanda).",
+            "وقد بدأ منطقة ضغط منخفض قرب ميكرونيزيا في 2 نوفمبر 2013.",
+            "ثم صار عاصفة من الفئة 5 على مقياس سافير-سيمبسون.",
+            "وفي 8 نوفمبر وصل إلى اليابسة في الفلبين، في مقاطعة ليتي (Leyte).",
+            "وبلغت رياحه أكثر من 275 كيلومترًا في الساعة.",
+            "واجتاح مدينة تاكلوبان (Tacloban) عُرام عاصفة ارتفاعه نحو 5 أمتار.",
+            "وبقي نحو 220 000 شخص في تاكلوبان بلا بيوت.",
+            "ثم تحرّكت العاصفة نحو فييتنام والصين.",
+            "والفلبين بلد منخفض الدخل، فكان التعافي صعبًا.",
+            "وأشدّ من أُصيب هم الفقراء في بيوت ضعيفة على أرض منخفضة.",
+            "ولو كانت التحذيرات جيّدة والأبنية قويّة لأُنقذت أرواح كثيرة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "nazwa burzy tropikalnej na północno-zachodnim Pacyfiku (typhoon)",
+            "region kraju, podobny do powiatu (province)",
+            "pozostawiony bez domu, w którym można mieszkać",
+            "przewożenie ludzi z miejsca zagrożenia w bezpieczne miejsce (evacuation)",
+            "jak łatwo zagrożenie może zaszkodzić danemu miejscu i jego mieszkańcom (vulnerability)",
+            "mapa, która ciemniejszymi i jaśniejszymi odcieniami pokazuje, ile czegoś ma każdy obszar (choropleth map)"
+          ],
+          "passage": [
+            "Tajfun Haiyan był jedną z najsilniejszych burz tropikalnych, jakie kiedykolwiek zapisano.",
+            "Na Filipinach jest znany jako tajfun Yolanda.",
+            "Zaczął się jako obszar niskiego ciśnienia blisko Mikronezji 2 listopada 2013 roku.",
+            "Wyrósł w burzę kategorii 5 w skali Saffira-Simpsona.",
+            "8 listopada wyszedł na ląd na Filipinach, w prowincji Leyte.",
+            "Jego wiatr sięgał ponad 275 kilometrów na godzinę.",
+            "Fala sztormowa wysoka na około 5 metrów wtargnęła do miasta Tacloban.",
+            "Około 220 000 ludzi w Tacloban zostało bez dachu nad głową.",
+            "Burza przesunęła się potem w stronę Wietnamu i Chin.",
+            "Filipiny to kraj o niskich dochodach, więc odbudowa była trudna.",
+            "Najmocniej uderzyła w biednych ludzi w słabych domach na niskim terenie.",
+            "Dobre ostrzeżenia i mocne budynki uratowałyby wiele życia."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o nome que se dá a uma tempestade tropical no noroeste do Pacífico (typhoon, tufão)",
+            "uma região de um país, como um distrito (province, província)",
+            "que ficou sem casa para viver (homeless, sem casa)",
+            "levar as pessoas para longe do perigo, para um lugar seguro (evacuation, evacuação)",
+            "a facilidade com que um lugar e as suas pessoas são atingidos por um risco natural (vulnerability, vulnerabilidade)",
+            "um mapa que usa tons mais escuros e mais claros para mostrar quanto é que cada área tem de uma coisa (choropleth map, mapa de coropletas)"
+          ],
+          "passage": [
+            "O tufão Haiyan foi uma das tempestades tropicais mais fortes de que há registo/registro.",
+            "Nas Filipinas é conhecido como tufão Yolanda.",
+            "Começou como uma área de baixa pressão perto da Micronésia, a 2 de novembro de 2013.",
+            "Cresceu até ser uma tempestade de categoria 5 na escala de Saffir-Simpson.",
+            "A 8 de novembro chegou a terra nas Filipinas, na província de Leyte.",
+            "Os seus ventos chegaram a mais de 275 quilómetros/quilômetros por hora.",
+            "Uma maré de tempestade de cerca de 5 metros de altura entrou na cidade de Tacloban.",
+            "Cerca de 220 000 pessoas em Tacloban ficaram sem casa.",
+            "A tempestade seguiu depois em direção ao Vietname/Vietnã e à China.",
+            "As Filipinas são um país de rendimento/renda baixo, por isso a recuperação foi difícil.",
+            "As pessoas pobres, em casas frágeis e em terrenos baixos, foram as mais atingidas.",
+            "Bons avisos e edifícios resistentes teriam salvado muitas vidas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "magaca duufaanka kulaylaha ee waqooyi-galbeedka Pacific",
+            "gobol ka mid ah dal, sida degmo weyn",
+            "la tagay iyadoon guri uu ku noolaado laheyn",
+            "dadka laga saaro halis oo meel badbaado loo geeyo",
+            "sida meel iyo dadkeeda ay si fudud khatar u waxyeelleyso",
+            "khariidad isticmaasha midabbo madow iyo kuwo caddaan si ay u muujiso inta meel kastaa ka haysato"
+          ],
+          "passage": [
+            "Typhoon Haiyan waa mid ka mid ah duufaannada kulaylaha ugu xoog badnaa ee weli la duubay.",
+            "Filibiin waxaa loo yaqaan Typhoon Yolanda.",
+            "Wuxuu ku bilaabmay meel cadaadis hooseeya leh oo Micronesia u dhow 2 Noofembar 2013.",
+            "Wuxuu u koray duufaan heerka 5 ah oo Saffir-Simpson scale.",
+            "8 Noofembar wuxuu dhulka taabtay Filibiin, gobolka Leyte.",
+            "Dabeylihiisu waxay gaareen in ka badan 275 kiiloomitir saacaddii.",
+            "Storm surge qiyaastii 5 mitir sarajoog leh wuxuu magaalada Tacloban galay.",
+            "Qiyaastii 220 000 oo qof oo Tacloban ah waxaa guri la'aan ku noqday.",
+            "Duufaanku kadibna wuxuu u socday Vietnam iyo Shiinaha.",
+            "Filibiin waa dal dakhli hooseeya leh, markaa soo kabashadu way adkeyd.",
+            "Dadka faqiirka ah ee guryo tabar yar leh oo dhul hooseeya ku jiray ayaa aadka loo saamaysay.",
+            "Digniin wanaagsan iyo dhismayaal adag waxay nafo badan badbaadin lahaayeen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "назва тропічного шторму на північному заході Тихого океану (typhoon)",
+            "регіон країни, щось на зразок графства (province)",
+            "той, хто залишився без житла (homeless)",
+            "переміщення людей із небезпеки в безпечне місце (evacuation)",
+            "наскільки легко небезпека шкодить місцю і його людям (vulnerability)",
+            "карта, яка темнішими і світлішими відтінками показує, скільки чогось має кожний район (choropleth map)"
+          ],
+          "passage": [
+            "Тайфун Хайян (Typhoon Haiyan) був одним із найсильніших тропічних штормів, які колись записували.",
+            "На Філіппінах його знають як тайфун Йоланда (Yolanda).",
+            "Він почався як область низького тиску біля Мікронезії 2 листопада 2013 року.",
+            "Він виріс до шторму категорії 5 за шкалою Саффіра-Сімпсона.",
+            "8 листопада він вийшов на землю на Філіппінах, у провінції Лейте (Leyte).",
+            "Його вітри досягали понад 275 кілометрів на годину.",
+            "Нагінна хвиля висотою близько 5 метрів увірвалася в місто Таклобан (Tacloban).",
+            "Близько 220 000 людей у Таклобані залишилися без житла.",
+            "Потім шторм рушив далі до В’єтнаму і Китаю.",
+            "Філіппіни — країна з низьким доходом, тому відновлення було важким.",
+            "Найсильніше вдарило по бідних людях у слабких домах на низькій землі.",
+            "Добрі попередження і міцні будівлі врятували б багато життів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "شمال مغربی بحرالکاہل میں tropical storm کا نام (typhoon)",
+            "کسی ملک کا ایک علاقہ، کاؤنٹی کی طرح (province)",
+            "جس کے رہنے کے لیے گھر نہ بچے (homeless)",
+            "لوگوں کو خطرے سے ہٹا کر محفوظ جگہ پہنچانا (evacuation)",
+            "کوئی جگہ اور اس کے لوگ کسی hazard سے کتنی آسانی سے نقصان اٹھاتے ہیں (vulnerability)",
+            "وہ نقشہ جو گہرے اور ہلکے رنگوں سے دکھاتا ہے کہ ہر علاقے میں کوئی چیز کتنی ہے (choropleth map)"
+          ],
+          "passage": [
+            "Typhoon Haiyan اب تک ریکارڈ ہونے والے سب سے زوردار tropical storms میں سے ایک تھا۔",
+            "فلپائن میں اسے Typhoon Yolanda کے نام سے جانا جاتا ہے۔",
+            "اس کا آغاز 2 نومبر 2013 کو مائیکرونیشیا کے قریب کم دباؤ کے ایک علاقے سے ہوا۔",
+            "یہ بڑھ کر Saffir-Simpson scale پر category 5 کا طوفان بن گیا۔",
+            "8 نومبر کو یہ فلپائن کے صوبہ Leyte میں خشکی پر آیا۔",
+            "اس کی ہواؤں کی رفتار 275 کلومیٹر فی گھنٹہ سے بڑھ گئی۔",
+            "تقریباً 5 میٹر اونچا storm surge، Tacloban شہر میں چڑھ آیا۔",
+            "Tacloban میں تقریباً 220 000 لوگوں کے گھر نہ رہے۔",
+            "پھر یہ طوفان ویت نام اور چین کی طرف بڑھ گیا۔",
+            "فلپائن ایک کم آمدنی والا ملک ہے، اس لیے سنبھلنا مشکل رہا۔",
+            "نچلی زمین پر کمزور گھروں میں رہنے والے غریب لوگ سب سے زیادہ متاثر ہوئے۔",
+            "اچھی تنبیہیں اور مضبوط عمارتیں بہت جانیں بچا سکتی تھیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The storm in numbers",
@@ -943,8 +1565,162 @@ window.ASTRA_UNITS["geog-weather-hazards"] = {
           "They bring most of our storms and floods.",
           "Some people think the UK's weather is becoming more extreme.",
           "There is evidence for this view and evidence against it."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أحوال الغلاف الجوّي من يوم إلى يوم (weather)",
+            "متوسّط طقس المكان في مدّة طويلة، وهي عادةً 30 سنة (climate)",
+            "منطقة ضغط منخفض تجلب الغيوم والمطر والريح (depression)",
+            "مدّة طويلة من طقس حارّ على غير المعتاد (heatwave)",
+            "مدّة طويلة يسقط فيها مطر أقلّ كثيرًا من المعتاد (drought)",
+            "طقس خارج ما هو معتاد لمكان ما خروجًا بعيدًا، وقد يسبّب ضررًا خطيرًا (extreme weather)"
+          ],
+          "passage": [
+            "الطقس هو ما يفعله الغلاف الجوّي من يوم إلى يوم.",
+            "والمناخ هو متوسّط الطقس في نحو 30 سنة.",
+            "ومناخ المملكة المتّحدة معتدل، ولكنها مع ذلك يصيبها طقس متطرّف.",
+            "وهي تقع حيث يلتقي الطقس من أربع جهات.",
+            "فالهواء القطبي من الشمال يجلب الثلج والبرد القارس.",
+            "وطقس الشتاء من الشرق قد يكون شديدًا.",
+            "والهواء الحارّ من الجنوب يجلب موجات الحرّ والجفاف.",
+            "والعواصف من الأطلسي تجلب مطرًا غزيرًا ورياحًا قويّة إلى الغرب.",
+            "والمنخفضات الجوّية مناطق ضغط منخفض تعبر المملكة المتّحدة من الغرب.",
+            "وهي تجلب معظم عواصفنا وسيولنا.",
+            "وبعض الناس يرى أنّ طقس المملكة المتّحدة يصير أكثر تطرّفًا.",
+            "وهناك أدلّة تؤيّد هذا الرأي وأدلّة تخالفه."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "warunki w atmosferze z dnia na dzień (weather)",
+            "przeciętna pogoda danego miejsca przez długi czas, zwykle 30 lat (climate)",
+            "obszar niskiego ciśnienia, który przynosi chmury, deszcz i wiatr (depression)",
+            "długi okres niezwykle gorącej pogody (heatwave)",
+            "długi okres, w którym pada o wiele mniej deszczu niż normalnie (drought)",
+            "pogoda daleko odbiegająca od tego, co w danym miejscu normalne, i mogąca wyrządzić poważne szkody (extreme weather)"
+          ],
+          "passage": [
+            "Pogoda to to, co atmosfera robi z dnia na dzień.",
+            "Klimat to przeciętna pogoda przez około 30 lat.",
+            "Zjednoczone Królestwo ma łagodny klimat, ale wciąż zdarza się tam pogoda ekstremalna.",
+            "Zjednoczone Królestwo leży tam, gdzie spotyka się pogoda z czterech stron.",
+            "Powietrze arktyczne z północy przynosi śnieg i siarczysty mróz.",
+            "Zimowa pogoda ze wschodu może być ostra.",
+            "Gorące powietrze z południa przynosi fale upałów i susze.",
+            "Burze z Atlantyku przynoszą na zachód ulewny deszcz i silny wiatr.",
+            "Niże to obszary niskiego ciśnienia, które przechodzą nad krajem z zachodu.",
+            "Przynoszą większość naszych burz i powodzi.",
+            "Niektórzy uważają, że pogoda w Zjednoczonym Królestwie staje się coraz bardziej ekstremalna.",
+            "Są dowody za tym poglądem i dowody przeciw niemu."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "as condições da atmosfera de dia para dia (weather, o tempo)",
+            "o tempo médio de um lugar ao longo de muito tempo, normalmente 30 anos (climate, clima)",
+            "uma área de baixa pressão que traz nuvens, chuva e vento (depression, depressão)",
+            "um período longo de tempo invulgarmente quente (heatwave, onda de calor)",
+            "um período longo com muito menos chuva do que o normal (drought, seca)",
+            "tempo muito fora do normal de um lugar, que pode causar danos graves (extreme weather)"
+          ],
+          "passage": [
+            "O tempo é o que a atmosfera faz de dia para dia.",
+            "O clima é o tempo médio ao longo de cerca de 30 anos.",
+            "O Reino Unido tem um clima ameno, mas ainda assim tem tempo extremo.",
+            "O Reino Unido fica onde se encontra o tempo que vem de quatro direções.",
+            "O ar ártico que vem do norte traz neve e frio cortante.",
+            "O tempo de inverno que vem do leste pode ser rigoroso.",
+            "O ar quente que vem do sul traz ondas de calor e seca.",
+            "As tempestades do Atlântico trazem chuva forte e ventos fortes ao oeste.",
+            "As depressões são áreas de baixa pressão que atravessam o Reino Unido de oeste para leste.",
+            "Trazem quase todas as nossas tempestades e cheias/enchentes.",
+            "Há quem pense que o tempo do Reino Unido está a ficar / ficando mais extremo.",
+            "Há provas a favor desta ideia e provas contra ela."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "xaaladaha jawiga maalin ka maalin",
+            "celceliska hawada meel muddo dheer, oo caadi ahaan 30 sano",
+            "meel cadaadis hooseeya leh oo keenta daruur, roob iyo dabeyl",
+            "muddo dheer oo hawo si aan caadi ahayn u kulul",
+            "muddo dheer oo roob aad uga yar caadiga ah",
+            "hawo aad uga baxsan waxa meel u caadi ah oo waxyeello daran keeni karta"
+          ],
+          "passage": [
+            "Hawadu waa waxa jawigu maalin ka maalin sameeyo.",
+            "Cimiladu waa celceliska hawada qiyaastii 30 sano.",
+            "Boqortooyada Midowday waxay leedahay cimilo dhexdhexaad ah, laakiin weli waxay la kulantaa hawo aad u daran.",
+            "Boqortooyada Midowday waxay ku fadhidaa meesha ay hawadu afar jiho ka iman.",
+            "Hawada Arctic ee waqooyiga ka timaadda waxay keentaa baraf iyo qabow daran.",
+            "Hawada jiilaalka ee bariga ka timaadda way xumaan kartaa.",
+            "Hawada kulul ee koonfurta ka timaadda waxay keentaa mowjado kulayl iyo abaar.",
+            "Duufaannada Atlantic-ka ka yimaadda waxay roob culus iyo dabeylo xoog leh u keenaan galbeedka.",
+            "Depressions waa meelo cadaadis hooseeya leh oo galbeedka uga soo gudba dalka.",
+            "Waxay keenaan inta badan duufaannadeenna iyo fatahaaddeenna.",
+            "Dadka qaar waxay u maleeyaan in hawada dalku sii darayso.",
+            "Waxaa jira caddayn fikraddan taageerta iyo caddayn ka soo horjeedda."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, які умови в атмосфері день за днем (weather)",
+            "середня погода місця за довгий час, зазвичай 30 років (climate)",
+            "область низького тиску, яка приносить хмари, дощ і вітер (depression)",
+            "довгий період незвично гарячої погоди (heatwave)",
+            "довгий період зі значно меншою кількістю дощу, ніж звичайно (drought)",
+            "погода, яка значно виходить за межі звичайної для місця і може завдати серйозної шкоди (extreme weather)"
+          ],
+          "passage": [
+            "Погода — це те, що робить атмосфера день за днем.",
+            "Клімат — це середня погода приблизно за 30 років.",
+            "Об’єднане Королівство має м’який клімат, але там усе одно буває екстремальна погода.",
+            "Об’єднане Королівство лежить там, де сходиться погода з чотирьох напрямків.",
+            "Арктичне повітря з півночі приносить сніг і люту холоднечу.",
+            "Зимова погода зі сходу може бути суворою.",
+            "Гаряче повітря з півдня приносить хвилі спеки й засуху.",
+            "Шторми з Атлантики приносять сильний дощ і сильні вітри на захід країни.",
+            "Циклони (depressions) — це області низького тиску, які перетинають Об’єднане Королівство із заходу.",
+            "Вони приносять більшість наших штормів і повеней.",
+            "Деякі люди вважають, що погода в Об’єднаному Королівстві стає екстремальнішою.",
+            "Є докази на користь цієї думки і докази проти неї."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "فضا کی دن بہ دن کی حالت (weather)",
+            "کسی جگہ کا لمبے عرصے کا اوسط موسم، عموماً 30 سال کا (climate)",
+            "کم دباؤ کا وہ علاقہ جو بادل، بارش اور ہوا لاتا ہے (depression)",
+            "غیر معمولی گرم موسم کا لمبا دورانیہ (heatwave)",
+            "ایک لمبا عرصہ جس میں عام سے بہت کم بارش ہو (drought)",
+            "ایسا موسم جو کسی جگہ کے عام موسم سے بہت ہٹ کر ہو اور سنگین نقصان کر سکے (extreme weather)"
+          ],
+          "passage": [
+            "weather وہ ہے جو فضا دن بہ دن کرتی ہے۔",
+            "climate تقریباً 30 سال کا اوسط موسم ہے۔",
+            "برطانیہ کا climate معتدل ہے، مگر اسے پھر بھی extreme weather ملتا ہے۔",
+            "برطانیہ وہاں ہے جہاں چار طرفوں کا موسم آ ملتا ہے۔",
+            "شمال سے آنے والی Arctic ہوا برف اور کڑی سردی لاتی ہے۔",
+            "مشرق سے آنے والا سردیوں کا موسم سخت ہو سکتا ہے۔",
+            "جنوب سے آنے والی گرم ہوا heatwaves اور drought لاتی ہے۔",
+            "Atlantic سے آنے والے طوفان مغرب میں تیز بارش اور تیز ہوائیں لاتے ہیں۔",
+            "depressions کم دباؤ کے وہ علاقے ہیں جو مغرب سے برطانیہ کے اوپر سے گزرتے ہیں۔",
+            "ہمارے زیادہ تر طوفان اور سیلاب یہی لاتے ہیں۔",
+            "کچھ لوگ سمجھتے ہیں کہ برطانیہ کا موسم زیادہ سخت ہوتا جا رہا ہے۔",
+            "اس رائے کے حق میں شہادت بھی ہے اور خلاف بھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Weather, climate and the UK's roundabout",
@@ -1154,8 +1930,162 @@ window.ASTRA_UNITS["geog-weather-hazards"] = {
           "Villages such as Moorland and Muchelney were cut off.",
           "Rescue boats and giant pumps were the immediate response.",
           "A £20 million plan to dredge rivers and raise roads was the long-term response."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أرض لا تعلو على سطح البحر إلّا قليلًا (low-lying)",
+            "أرض كثيرًا ما تكون رطبة أو مغطّاة بماء ضحل (wetland)",
+            "حفر الطين من قاع النهر حتى يستوعب النهر ماءً أكثر (dredging)",
+            "صار قذرًا أو خطرًا بشيء خُلط به (contaminated)",
+            "الخطّة التي تكلّف 20 مليون جنيه لتقليل السيول في سومرست ليفلز مستقبلًا (Flood Action Plan)",
+            "سدّ عبر مصبّ النهر يتحكّم في جريان المدّ (tidal barrage)"
+          ],
+          "passage": [
+            "سومرست ليفلز (Somerset Levels) في جنوب غرب إنجلترا.",
+            "وهي أرض زراعية منخفضة مستوية وأرض رطبة.",
+            "ونهرا التون (Tone) والبارِت (Parrett) يصرفان ماءها إلى مصبّ السيفرن (Severn).",
+            "وفي شتاء 2013 إلى 2014 أمطرت السماء أسابيع.",
+            "وكان يناير 2014 أمطر يناير منذ بدأ التسجيل في 1910.",
+            "ودفع المدّ العالي ماء البحر صاعدًا في الأنهار.",
+            "والأنهار لم تُجرَف من الطين 20 سنة على الأقلّ.",
+            "ففاضت عن ضفافها، وغُمرت سومرست ليفلز.",
+            "وغُمر أكثر من 600 بيت، وأُخلِيت 16 مزرعة.",
+            "وانقطعت قرى كموورلاند (Moorland) وموتشيلني (Muchelney).",
+            "وكانت قوارب الإنقاذ والمضخّات العملاقة هي الاستجابة الفورية.",
+            "وكانت خطّة بـ 20 مليون جنيه لجرف الأنهار ورفع الطرق هي الاستجابة طويلة الأجل."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "teren, który leży tylko trochę nad poziomem morza (low-lying)",
+            "teren, który często jest mokry albo pokryty płytką wodą (wetland)",
+            "wybieranie mułu z dna rzeki, żeby rzeka mogła pomieścić więcej wody (dredging)",
+            "zabrudzony albo uczyniony niebezpiecznym przez coś, co się z nim zmieszało (contaminated)",
+            "plan za 20 milionów funtów, który ma w przyszłości zmniejszyć powodzie na Levels (Flood Action Plan)",
+            "zapora w ujściu rzeki, która kontroluje przepływ przypływu (tidal barrage)"
+          ],
+          "passage": [
+            "Somerset Levels leżą w południowo-zachodniej Anglii.",
+            "To niskie, płaskie pola i tereny podmokłe.",
+            "Rzeki Tone i Parrett odprowadzają z nich wodę do estuarium Severn.",
+            "W zimie z 2013 na 2014 rok deszcz padał przez wiele tygodni.",
+            "Styczeń 2014 roku był najbardziej mokrym styczniem od początku pomiarów w 1910 roku.",
+            "Wysokie przypływy wepchnęły wodę morską w górę rzek.",
+            "Rzeki nie były pogłębiane od co najmniej 20 lat.",
+            "Przerwały brzegi i Levels zostały zalane.",
+            "Zalanych zostało ponad 600 domów, a 16 gospodarstw ewakuowano.",
+            "Wioski takie jak Moorland i Muchelney zostały odcięte.",
+            "Reakcją natychmiastową były łodzie ratunkowe i wielkie pompy.",
+            "Reakcją długofalową był plan za 20 milionów funtów na pogłębienie rzek i podniesienie dróg."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "terreno que está só um pouco acima do nível do mar (low-lying, baixo)",
+            "terreno que está muitas vezes molhado ou coberto de água pouco profunda (wetland, zona húmida/úmida)",
+            "tirar lodo do fundo de um rio para que ele possa levar mais água (dredging, dragagem)",
+            "tornado sujo ou perigoso por algo que se misturou nele (contaminated, contaminado)",
+            "o plano de 20 milhões de libras para reduzir as cheias/enchentes nos Levels no futuro (Flood Action Plan)",
+            "uma barreira na foz de um rio que controla a entrada da maré (tidal barrage)"
+          ],
+          "passage": [
+            "Os Somerset Levels ficam no sudoeste de Inglaterra.",
+            "São terras de cultivo e zonas húmidas/úmidas, baixas e planas.",
+            "Os rios Tone e Parrett drenam os Levels para o estuário do Severn.",
+            "No inverno de 2013 para 2014 choveu durante semanas.",
+            "Janeiro de 2014 foi o janeiro mais chuvoso desde que começaram os registos/registros, em 1910.",
+            "As marés altas empurraram água do mar rio acima.",
+            "Os rios não eram dragados há pelo menos 20 anos.",
+            "Transbordaram, e os Levels ficaram inundados.",
+            "Mais de 600 casas ficaram inundadas e 16 quintas/fazendas foram evacuadas.",
+            "Aldeias como Moorland e Muchelney ficaram isoladas.",
+            "Os barcos de salvamento e as bombas gigantes foram a resposta imediata.",
+            "Um plano de 20 milhões de libras para dragar rios e levantar estradas foi a resposta de longo prazo."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dhul in yar oo keliya ka sarreeya heerka badda",
+            "dhul inta badan qoyan ama biyo gaagaaban qariyeen",
+            "qodista silt-ka sariirta webiga si webigu biyo badan u qaato",
+            "la wasakheeyay ama khatar laga dhigay wax ku dhex jiray",
+            "qorshaha £20 milyan ee yareynta fatahaadda Levels-ka mustaqbalka",
+            "xanniban oo afka webiga ka gudba oo maamula socodka mawjadaha badda"
+          ],
+          "passage": [
+            "Somerset Levels waxay ku yaallaan koonfur-galbeedka England.",
+            "Waa dhul beero hooseeya oo siman iyo dhul qoyan.",
+            "Webiyada Tone iyo Parrett waxay Levels-ka u miiraan Severn Estuary.",
+            "Jiilaalkii 2013 ilaa 2014 roob ayaa toddobaadyo da'ay.",
+            "Janaayo 2014 waa Janaayadii ugu qoynayd ilaa diiwaanku bilaabmay 1910-kii.",
+            "Mawjado badda sarreeya waxay biyo badeed webiyada kor ugu riixeen.",
+            "Webiyada lama dredge-ayn ugu yaraan 20 sano.",
+            "Daraftooda way ka buux dhaafeen, Levels-kana waxaa qaaday daad.",
+            "In ka badan 600 guri ayaa daad qaaday, 16 beerna waa laga daad-gureeyay.",
+            "Tuulooyin sida Moorland iyo Muchelney waa la gooyay.",
+            "Doonyo samatabbixin iyo bamam waaweyn ayaa ahaa jawaabta degdegga ah.",
+            "Qorshe £20 milyan ah oo webiyada lagu dredge-ayo oo waddooyinka lagu kor u qaadayo ayaa ahaa jawaabta muddada dheer."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "земля, яка лежить лише трохи вище за рівень моря (low-lying)",
+            "земля, яка часто мокра або вкрита мілкою водою (wetland)",
+            "виймання намулу з річкового дна, щоб річка могла вмістити більше води (dredging)",
+            "зроблений брудним або небезпечним через те, що до нього домішалося (contaminated)",
+            "план на £20 мільйонів, щоб у майбутньому зменшити затоплення Левелз (Flood Action Plan)",
+            "загорожа через устя річки, яка керує рухом припливу (tidal barrage)"
+          ],
+          "passage": [
+            "Сомерсет-Левелз (Somerset Levels) розташовані на південному заході Англії.",
+            "Це низька, плоска сільськогосподарська земля і заболочені угіддя.",
+            "Річки Тон (Tone) і Паррет (Parrett) відводять води Левелз у Севернську затоку.",
+            "Зимою з 2013 на 2014 рік дощ ішов тижнями.",
+            "Січень 2014 року був найвологішим січнем з початку записів у 1910 році.",
+            "Високі приливи заганяли морську воду вгору по річках.",
+            "Річки не чистили від намулу щонайменше 20 років.",
+            "Вони вийшли з берегів, і Левелз затопило.",
+            "Понад 600 будинків затопило, а з 16 фермерських господарств людей вивезли.",
+            "Такі села, як Мурленд (Moorland) і Мачелні (Muchelney), були відрізані.",
+            "Рятувальні човни і величезні насоси були негайними діями.",
+            "План на £20 мільйонів, щоб очистити річки від намулу і підняти дороги, був довготривалою дією."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ زمین جو سمندر کی سطح سے صرف ذرا اوپر ہو (low-lying)",
+            "وہ زمین جو اکثر گیلی ہو یا کم گہرے پانی میں ڈھکی ہو (wetland)",
+            "دریا کی تہہ سے گاد نکالنا تاکہ دریا زیادہ پانی سنبھال سکے (dredging)",
+            "جو کسی چیز کے ملنے سے گندا یا خطرناک ہو جائے (contaminated)",
+            "آنے والے وقت میں Levels پر سیلاب کم کرنے کا £20 ملین کا منصوبہ (Flood Action Plan)",
+            "دریا کے دہانے پر بنا وہ بند جو جوار کے بہاؤ کو قابو میں رکھتا ہے (tidal barrage)"
+          ],
+          "passage": [
+            "سمرسیٹ لیولز (Somerset Levels) جنوب مغربی انگلینڈ میں ہیں۔",
+            "یہ نیچی، ہموار کھیتی کی زمین اور wetland ہیں۔",
+            "دریائے Tone اور دریائے Parrett، Levels کا پانی Severn Estuary میں لے جاتے ہیں۔",
+            "2013 سے 2014 کی سردیوں میں ہفتوں بارش ہوتی رہی۔",
+            "جنوری 2014، 1910 میں ریکارڈ شروع ہونے کے بعد سب سے زیادہ بارش والا جنوری تھا۔",
+            "اونچے جوار نے سمندر کا پانی دریاؤں میں اوپر دھکیل دیا۔",
+            "دریاؤں کی کم از کم 20 سال سے dredging نہ ہوئی تھی۔",
+            "وہ اپنے کنارے توڑ گئے، اور Levels میں سیلاب آ گیا۔",
+            "600 سے زیادہ گھروں میں پانی بھر گیا اور 16 فارموں کو خالی کرایا گیا۔",
+            "Moorland اور Muchelney جیسے گاؤں کٹ کر رہ گئے۔",
+            "بچاؤ کی کشتیاں اور بہت بڑے پمپ immediate response تھے۔",
+            "دریاؤں کی dredging اور سڑکیں اونچی کرنے کا £20 ملین کا منصوبہ long-term response تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Where are the Somerset Levels?",

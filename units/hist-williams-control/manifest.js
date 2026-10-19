@@ -103,8 +103,168 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "About one in ten were enslaved people, who could be bought and sold.",
           "Houses were made of wood, with thatched roofs and a fire in the middle.",
           "England had very few castles, so it was not well defended."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الناس الذين حكموا إنجلترا قبل أن يأتي النورمان (Anglo-Saxons)",
+            "مجلس النبلاء الذي كان يختار الملك ويساعده في الحكم (Witan)",
+            "سيّد قويّ جدًّا يحكم منطقة ضخمة تُسمّى إيرلدوم (earl)",
+            "سيّد محلّي يملك أرضًا ويقاتل في صفّ الملك (thegn)",
+            "طريقة لترتيب الناس من الأقوى إلى الأقلّ قوّة (hierarchy)",
+            "جيش غير دائم من الرجال العاديّين يستطيع السيّد أن يستنفره (fyrd)"
+          ],
+          "passage": [
+            "قبل أن يأتي النورمان كان الأنجلوسكسونيون يحكمون إنجلترا.",
+            "وكان أجدادهم قد وصلوا من عبر بحر الشمال بعد خروج الرومان في 410.",
+            "وبحلول 1066 كان الملك إدوارد المعترف (Edward the Confessor).",
+            "وكان ملكًا منذ 1042.",
+            "وكان متديّنًا لا محاربًا، ولم يكن له أولاد.",
+            "وكانت أقوى أسرة في إنجلترا أسرة غودوينسون (Godwinsons).",
+            "وكان هارولد غودوينسون (Harold Godwinson) أكبر الإيرلات، وكان بعضهم يراه أقوى من الملك.",
+            "وكان تحت الملك الإيرلات، وهم يحكمون مناطق ضخمة تُسمّى إيرلدومات.",
+            "وتحتهم الثينات (thegns)، وهم سادة محلّيون يملكون أرضًا.",
+            "ومعظم الناس، نحو 85 من كلّ 100، كانوا مزارعين فلّاحين.",
+            "ونحو واحد من كلّ عشرة كانوا أشخاصًا مُستعبَدين، يمكن بيعهم وشراؤهم.",
+            "وكانت البيوت من الخشب، سقوفها من القشّ وفي وسطها نار.",
+            "ولم تكن في إنجلترا إلّا قلاع قليلة جدًّا، فلم تكن حصينة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "lud, który rządził Anglią przed przybyciem Normanów (Anglo-Saxons)",
+            "rada możnych, która wybierała króla i pomagała mu rządzić (Witan)",
+            "bardzo potężny pan, który rządził ogromnym obszarem zwanym earldom (earl)",
+            "miejscowy pan, który miał ziemię i walczył za króla (thegn)",
+            "sposób układania ludzi według władzy, od najpotężniejszych do najmniej potężnych (hierarchy)",
+            "niezawodowa armia zwykłych ludzi, którą pan mógł wezwać (fyrd)"
+          ],
+          "passage": [
+            "Przed przybyciem Normanów Anglią rządzili Anglosasi.",
+            "Ich przodkowie przybyli z drugiej strony Morza Północnego po tym, jak Rzymianie odeszli w 410 roku.",
+            "W 1066 roku królem był Edward Wyznawca (Edward the Confessor).",
+            "Był królem od 1042 roku.",
+            "Był człowiekiem religijnym, nie wojownikiem, i nie miał dzieci.",
+            "Najpotężniejszą rodziną w Anglii byli Godwinsonowie.",
+            "Harold Godwinson był najważniejszym hrabią (earl), a niektórzy uważali go za silniejszego od króla.",
+            "Pod królem stali hrabiowie, którzy rządzili ogromnymi obszarami zwanymi earldoms.",
+            "Pod nimi stali thegns, miejscowi panowie, którzy mieli ziemię.",
+            "Większość ludzi, około 85 na każde 100, to byli chłopi.",
+            "Około jedna osoba na dziesięć to byli ludzie zniewoleni, których można było kupić i sprzedać.",
+            "Domy budowano z drewna, z dachami ze strzechy i z ogniem palącym się w środku.",
+            "Anglia miała bardzo niewiele zamków, więc nie była dobrze broniona."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o povo que governava a Inglaterra antes de os normandos chegarem (Anglo-Saxons, anglo-saxões)",
+            "o conselho de nobres que escolhia o rei e o ajudava a governar (Witan)",
+            "um senhor muito poderoso que governava uma área enorme chamada earldom (earl, conde)",
+            "um senhor local que tinha terras e combatia pelo rei (thegn)",
+            "uma maneira de ordenar as pessoas do mais poderoso ao menos poderoso (hierarchy, hierarquia)",
+            "o exército a tempo parcial de homens comuns que um senhor podia convocar (fyrd)"
+          ],
+          "passage": [
+            "Antes de os normandos chegarem, a Inglaterra era governada pelos anglo-saxões.",
+            "Os antepassados deles tinham chegado do outro lado do mar do Norte depois de os romanos saírem, em 410.",
+            "Em 1066 o rei era Edward the Confessor (Eduardo o Confessor).",
+            "Era rei desde 1042.",
+            "Era religioso e não era guerreiro, e não tinha filhos.",
+            "A família mais poderosa de Inglaterra era a dos Godwinson.",
+            "Harold Godwinson era o maior earl, e havia quem o achasse mais forte do que o rei.",
+            "Abaixo do rei vinham os earls, que governavam áreas enormes chamadas earldoms.",
+            "Abaixo deles vinham os thegns, senhores locais que tinham terras.",
+            "Quase todas as pessoas, cerca de 85 em cada 100, eram camponeses agricultores.",
+            "Cerca de uma em cada dez eram pessoas escravizadas, que podiam ser compradas e vendidas.",
+            "As casas eram de madeira, com telhados de colmo e uma fogueira no meio.",
+            "A Inglaterra tinha muito poucos castelos, por isso não estava bem defendida."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dadkii England xukumayay ka hor imaatinka Normans",
+            "golaha nobles-ka oo boqorka doorta oo xukunka ka caawiya",
+            "sayid aad u awood weyn oo xukumay meel weyn la yiraahdo earldom",
+            "sayid maxalli ah oo dhul lahaa oo boqorka u dagaallamay",
+            "hab dadka loo kala sareysiiyo laga bilaabo kan ugu awood weyn ilaa kan ugu yar",
+            "ciidanka waqti-qeybinta ah ee ragga caadiga oo sayid uu u yeeri karay"
+          ],
+          "passage": [
+            "Normans-ka ka hor, England waxay xukumayeen Anglo-Saxons.",
+            "Awowayaashood waxay ka yimaaddeen Badda Waqooyi kadib markii Roomaanku baxeen 410-kii.",
+            "1066-kii boqorku wuxuu ahaa Edward the Confessor.",
+            "Boqor wuxuu ahaa ilaa 1042-kii.",
+            "Wuxuu ahaa nin diineed oo aan dagaalyahan ahayn, carruurna ma lahayn.",
+            "Qoyskii ugu awood weynaa England wuxuu ahaa Godwinsons.",
+            "Harold Godwinson wuxuu ahaa earl-ka ugu weyn, qaarna waxay u maleeyeen inuu boqorka ka xoog badan yahay.",
+            "Boqorka ka hooseeyay waxay ahaayeen earls-ka, oo xukumay meelo waaweyn la yiraahdo earldoms.",
+            "Iyaga ka hooseeyay waxay ahaayeen thegns, oo ahaa sayidyo maxalli ah oo dhul lahaa.",
+            "Dadka badankood, qiyaastii 85 qof boqol kasta, waxay ahaayeen beeraley.",
+            "Qiyaastii qof toban kasta waxay ahaayeen dad la addoonsaday, kuwaasoo la iibin karay oo la iibsan karay.",
+            "Guryaha waxaa laga sameeyay alwaax, saqafkooduna waa caws, dabna dhexda ayuu ka shidnaa.",
+            "England qalcado aad bay u yarayd, markaa si fiican lama difaacneyn."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "люди, які правили Англією до приходу норманів (Anglo-Saxons)",
+            "рада знатних людей, яка обирала короля і допомагала йому правити (Witan)",
+            "дуже могутній володар, який правив величезною областю, що називалася ерлдомом (earl)",
+            "місцевий володар, який мав землю і воював за короля (thegn)",
+            "спосіб упорядкування людей від найбільш до найменш могутніх (hierarchy)",
+            "військо з простих чоловіків на неповний час, яке володар міг скликати (fyrd)"
+          ],
+          "passage": [
+            "До приходу норманів Англією правили англосакси.",
+            "Їхні предки прибули з-за Північного моря після того, як римляни пішли в 410 році.",
+            "До 1066 року королем був Едуард Сповідник (Edward the Confessor).",
+            "Він був королем з 1042 року.",
+            "Він був релігійним і не був воїном, і він не мав дітей.",
+            "Найбільш могутньою родиною в Англії були Ґодвінсони (Godwinsons).",
+            "Гарольд Ґодвінсон був найбільшим ерлом, і деякі вважали його сильнішим за короля.",
+            "Під королем ішли ерли, які правили величезними областями, що називалися ерлдомами.",
+            "Під ними йшли теґни (thegns), місцеві володарі, які мали землю.",
+            "Більшість людей, близько 85 зі кожних 100, були селянами-землеробами.",
+            "Приблизно один із десяти був поневоленою людиною, яку можна було купити й продати.",
+            "Будинки робили з дерева, із солом’яними дахами і вогнищем посередині.",
+            "Англія мала дуже мало замків, тому вона була погано захищена."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ لوگ جو نارمنوں کے آنے سے پہلے انگلینڈ پر حکومت کرتے تھے (Anglo-Saxons)",
+            "امرا کی وہ مجلس جو بادشاہ چنتی اور حکومت میں اس کی مدد کرتی تھی (Witan)",
+            "ایک بہت طاقتور سردار جو earldom نامی بہت بڑے علاقے پر حکومت کرتا تھا (earl)",
+            "مقامی سردار جس کے پاس زمین ہوتی تھی اور جو بادشاہ کے لیے لڑتا تھا (thegn)",
+            "لوگوں کو سب سے زیادہ طاقتور سے سب سے کم طاقتور تک درجوں میں رکھنے کا طریقہ (hierarchy)",
+            "عام لوگوں کی وہ جز وقتی فوج جسے کوئی سردار بلا سکتا تھا (fyrd)"
+          ],
+          "passage": [
+            "نارمنوں کے آنے سے پہلے انگلینڈ پر اینگلو سیکسن (Anglo-Saxons) حکومت کرتے تھے۔",
+            "ان کے بزرگ 410 میں رومیوں کے جانے کے بعد بحیرۂ شمال کے پار سے آئے تھے۔",
+            "1066 تک بادشاہ ایڈورڈ دی کنفیسر (Edward the Confessor) تھا۔",
+            "وہ 1042 سے بادشاہ تھا۔",
+            "وہ مذہبی تھا، جنگجو نہیں، اور اس کی کوئی اولاد نہ تھی۔",
+            "انگلینڈ کا سب سے طاقتور خاندان گاڈونسن (Godwinsons) تھا۔",
+            "ہیرلڈ گاڈونسن (Harold Godwinson) سب سے بڑا earl تھا، اور کچھ لوگ اسے بادشاہ سے زیادہ طاقتور سمجھتے تھے۔",
+            "بادشاہ کے نیچے earls آتے تھے، جو earldoms نامی بہت بڑے علاقوں پر حکومت کرتے تھے۔",
+            "ان کے نیچے thegns آتے تھے، یعنی مقامی سردار جن کے پاس زمین تھی۔",
+            "زیادہ تر لوگ، ہر 100 میں سے تقریباً 85، کسان تھے۔",
+            "ہر دس میں سے تقریباً ایک شخص غلام بنایا گیا تھا، اور اسے خریدا اور بیچا جا سکتا تھا۔",
+            "گھر لکڑی کے بنے ہوتے تھے، جن کی چھتیں پھونس کی ہوتیں اور بیچ میں آگ جلتی تھی۔",
+            "انگلینڈ میں قلعے بہت کم تھے، اس لیے اس کی حفاظت اچھی نہ تھی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who were the Anglo-Saxons?",
@@ -312,8 +472,174 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "William laid waste the land around London until the earls submitted.",
           "Dover surrendered, and he strengthened its defences.",
           "On Christmas Day 1066 he was crowned King William I."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تستسلم وتقبل أحدًا حاكمًا عليك (submit)",
+            "أن تحرق منطقة وتدمّرها (lay waste)",
+            "أن تكفّ عن القتال وتسلّم نفسك للعدوّ (surrender)",
+            "دفاعات كالجُدُر والأبراج والخنادق (fortifications)",
+            "مشكلة يجب حلّها في الحال (short-term problem)",
+            "مشكلة يأخذ حلّها سنوات (long-term problem)"
+          ],
+          "passage": [
+            "في 14 أكتوبر 1066 هزم وليام الملك هارولد وقتله في هيستينغز.",
+            "ومات هناك أيضًا أخواه غيرث (Gyrth) وليوفواين (Leofwine).",
+            "وكان وليام يتوقّع أن يعرض عليه الإنجليز التاج.",
+            "ولكنهم لم يفعلوا.",
+            "فواجه ستّ مشكلات.",
+            "فقد يغزو الفايكنغ من النرويج الشمال من جديد، يساعدهم متمرّدون إنجليز.",
+            "ولندن، وهي العاصمة، كان فيها بعض جنود هارولد.",
+            "ودوفر (Dover) فيها حصن قويّ مليء بجنود إنجليز يستطيعون أن يقطعوا طريق عودته إلى فرنسا.",
+            "وكان يحتاج إلى ضرائب، ولكنه لا يعرف شيئًا عن إنجلترا ولا عن أهلها.",
+            "وكثير من السادة الإنجليز لم يقبلوه، ورجاله هم أنفسهم كانوا يريدون المكافآت.",
+            "وجنوده سيُهجَم عليهم متى توقّف القتال.",
+            "فأحرق وليام الأرض حول لندن ودمّرها حتى استسلم الإيرلات.",
+            "واستسلمت دوفر، فقوّى دفاعاتها.",
+            "وفي يوم عيد الميلاد 1066 تُوِّج ملكًا باسم وليام الأوّل (William I)."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "ustąpić i uznać kogoś za swojego władcę (submit)",
+            "spalić i zniszczyć jakiś obszar (lay waste)",
+            "przestać walczyć i oddać się wrogowi (surrender)",
+            "umocnienia, takie jak mury, wieże i fosy (fortifications)",
+            "problem, który trzeba rozwiązać natychmiast (short-term problem)",
+            "problem, którego rozwiązanie zajmie lata (long-term problem)"
+          ],
+          "passage": [
+            "14 października 1066 roku William (Wilhelm) pobił i zabił króla Harolda pod Hastings.",
+            "Zginęli tam także bracia Harolda, Gyrth i Leofwine.",
+            "William oczekiwał, że Anglicy sami zaproponują mu koronę.",
+            "Nie zrobili tego.",
+            "Stanął przed sześcioma problemami.",
+            "Wikingowie z Norwegii mogli znowu najechać północ, wspierani przez angielskich buntowników.",
+            "W Londynie, stolicy, nadal byli niektórzy żołnierze Harolda.",
+            "Dover miało mocną twierdzę pełną angielskich żołnierzy, którzy mogli odciąć mu drogę powrotną do Francji.",
+            "Potrzebował podatków, ale nic nie wiedział o Anglii ani o jej ludziach.",
+            "Wielu angielskich panów go nie uznawało, a jego własni ludzie chcieli nagród.",
+            "Jego żołnierze mieli być atakowani, kiedy walki się skończą.",
+            "William spalił i zniszczył ziemie wokół Londynu, aż hrabiowie mu ustąpili.",
+            "Dover się poddało, a on umocnił jego obronę.",
+            "W dzień Bożego Narodzenia 1066 roku został ukoronowany jako król William I."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "ceder e aceitar alguém como o teu governante (submit, submeter-se)",
+            "queimar e destruir uma área (lay waste, devastar)",
+            "deixar de combater e entregar-se ao inimigo (surrender, render-se)",
+            "defesas como muralhas, torres e fossos (fortifications, fortificações)",
+            "um problema que tem de ser resolvido logo (short-term problem, problema de curto prazo)",
+            "um problema que vai levar anos a resolver (long-term problem, problema de longo prazo)"
+          ],
+          "passage": [
+            "A 14 de outubro de 1066, William (Guilherme) derrotou e matou o rei Harold em Hastings.",
+            "Gyrth e Leofwine, irmãos de Harold, também morreram lá.",
+            "William esperava que os ingleses lhe oferecessem a coroa.",
+            "Não ofereceram.",
+            "Ele tinha seis problemas à sua frente.",
+            "Os vikings da Noruega podiam invadir o norte outra vez, ajudados por rebeldes ingleses.",
+            "Londres, a capital, ainda tinha alguns dos soldados de Harold.",
+            "Dover tinha um forte sólido cheio de soldados ingleses, que podiam cortar-lhe o caminho de volta a França.",
+            "Precisava de impostos, mas não sabia nada sobre a Inglaterra nem sobre a sua gente.",
+            "Muitos senhores ingleses não o aceitavam, e os seus próprios homens queriam recompensas.",
+            "Os seus soldados seriam atacados assim que os combates parassem.",
+            "William devastou as terras em volta de Londres até os earls se submeterem.",
+            "Dover rendeu-se, e ele reforçou as suas defesas.",
+            "No dia de Natal de 1066 foi coroado rei William I (Guilherme I)."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "inaad hoggaansanto oo qof aqbasho inuu taliyahaagu yahay",
+            "in meel la gubo oo la burburiyo",
+            "inaad dagaalka joojiso oo cadowga is dhiibto",
+            "difaacyo sida darbiyo, tiirar iyo godad",
+            "dhibaato isla markiiba la xallin karo",
+            "dhibaato sanado qaadanaysa in la xalliyo"
+          ],
+          "passage": [
+            "14 Oktoobar 1066 William wuxuu Boqor Harold ku garaacay oo ku dilay Hastings.",
+            "Walaalaha Harold, Gyrth iyo Leofwine, iyagana halkaas ayay ku dhinteen.",
+            "William wuxuu filayay in dadka Ingiriiska ay taajka siiyaan.",
+            "Sidaas ma yeelin.",
+            "Wuxuu la kulmay lix dhibaato.",
+            "Vikings ka socda Norway waxay waqooyiga mar kale ku duulaan, iyadoo kacdoonyada Ingiriiska ay caawiyaan.",
+            "London, oo caasimaddu ahayd, weli waxay haysatay qaar ka mid ah askarta Harold.",
+            "Dover waxay lahayd qalcad adag oo ka buuxday askar Ingiriis ah oo gooyn karay jidkiisii Faransiiska.",
+            "Canshuur ayuu u baahnaa, laakiin waxba kama ogayn England ama dadkeeda.",
+            "Sayidyo Ingiriis ah oo badan ma aqbalin, raggiisana abaalmarin ayay rabeen.",
+            "Askartiisa waa la weerari lahaa marka dagaalku joogsado.",
+            "William wuxuu gubay oo burburiyay dhulka London ku wareegsan ilaa earls-ku hoggaansameen.",
+            "Dover way is dhiibtay, difaacyadeedana wuu xoojiyay.",
+            "Maalintii Kirismaska 1066 waxaa loo caleemo-saaray Boqor William I."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "піддатися і прийняти когось як свого правителя (submit)",
+            "спалити й зруйнувати область (lay waste)",
+            "припинити боротьбу і здатися ворогові (surrender)",
+            "захисні споруди, як-от стіни, вежі й рови (fortifications)",
+            "проблема, яку треба вирішити відразу (short-term problem)",
+            "проблема, на вирішення якої піде багато років (long-term problem)"
+          ],
+          "passage": [
+            "14 жовтня 1066 року Вільгельм (William) переміг і вбив короля Гарольда при Гастінгсі.",
+            "Брати Гарольда, Ґірт і Леофвайн, загинули там теж.",
+            "Вільгельм очікував, що англійці запропонують йому корону.",
+            "Вони цього не зробили.",
+            "Він стикнувся з шістьма проблемами.",
+            "Вікінги з Норвегії могли знову напасти на північ, із допомогою англійських повстанців.",
+            "Лондон, столиця, усе ще тримав частину вояків Гарольда.",
+            "Дувр (Dover) мав міцну твердиню, повну англійських вояків, які могли відрізати йому шлях назад до Франції.",
+            "Йому були потрібні податки, але він нічого не знав про Англію та її людей.",
+            "Багато англійських володарів не приймали його, а його власні люди хотіли нагород.",
+            "На його вояків нападали б, щойно бої припинилися б.",
+            "Вільгельм спустошив землю навколо Лондона, аж поки ерли піддалися.",
+            "Дувр здався, і він укріпив його захист.",
+            "На Різдво 1066 року його коронували як короля Вільгельма I."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہتھیار ڈال کر کسی کو اپنا حاکم مان لینا (submit)",
+            "کسی علاقے کو جلا کر تباہ کر دینا (lay waste)",
+            "لڑائی چھوڑ کر دشمن کے حوالے ہو جانا (surrender)",
+            "دیواروں، میناروں اور خندقوں جیسی دفاعی چیزیں (fortifications)",
+            "وہ مسئلہ جو فوراً حل کرنا ضروری ہو (short-term problem)",
+            "وہ مسئلہ جس کے حل میں سال لگ جائیں (long-term problem)"
+          ],
+          "passage": [
+            "14 اکتوبر 1066 کو ولیم نے ہیسٹنگز میں بادشاہ ہیرلڈ کو ہرا کر مار دیا۔",
+            "ہیرلڈ کے بھائی گرتھ (Gyrth) اور لیوفوائن (Leofwine) بھی وہیں مارے گئے۔",
+            "ولیم کو امید تھی کہ انگریز اسے تاج پیش کریں گے۔",
+            "انھوں نے ایسا نہیں کیا۔",
+            "اسے چھ مسئلوں کا سامنا تھا۔",
+            "ناروے کے وائکنگ انگریز باغیوں کی مدد سے شمال پر دوبارہ حملہ کر سکتے تھے۔",
+            "دارالحکومت لندن میں ہیرلڈ کے کچھ سپاہی اب بھی موجود تھے۔",
+            "ڈوور (Dover) میں ایک مضبوط قلعہ تھا جو انگریز سپاہیوں سے بھرا ہوا تھا، اور وہ فرانس واپسی کا راستہ کاٹ سکتے تھے۔",
+            "اسے ٹیکس چاہیے تھے، مگر وہ انگلینڈ اور اس کے لوگوں کے بارے میں کچھ نہیں جانتا تھا۔",
+            "بہت سے انگریز سردار اسے قبول نہیں کرتے تھے، اور اس کے اپنے آدمی انعام چاہتے تھے۔",
+            "لڑائی رکنے کے بعد اس کے سپاہیوں پر حملے ہو سکتے تھے۔",
+            "ولیم نے لندن کے گرد کی زمین اُجاڑ دی، یہاں تک کہ earls نے اطاعت قبول کر لی۔",
+            "ڈوور نے ہتھیار ڈال دیے، اور اس نے وہاں کے دفاع کو مضبوط کیا۔",
+            "کرسمس کے دن 1066 کو اس کی تاج پوشی ہوئی اور وہ بادشاہ ولیم اوّل بنا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The morning after Hastings",
@@ -522,8 +848,168 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "His men burned crops, herds, tools and food across the North.",
           "This is called the Harrying of the North.",
           "Famine followed, and many thousands of people died."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الثورة والقتال ضدّ الحاكم (rebellion)",
+            "استخدام الخوف والقسوة لإرغام الناس على الطاعة (terror)",
+            "الإيرلدوم العظيم في شمال إنجلترا (Northumbria)",
+            "فايكنغ من الدنمارك (Danes)",
+            "مهاجمة منطقة مرّة بعد مرّة وتدمير كلّ شيء فيها (harrying)",
+            "وقت لا يكفي فيه الطعام فيموت كثير من الناس جوعًا (famine)"
+          ],
+          "passage": [
+            "كان وليام ملكًا، ولكنّ إنجلترا لم تكن قد فُتحت بعد.",
+            "وفي 1067 ثار عليه سيّد يُسمّى إدريك الوحشي (Eadric the Wild).",
+            "وفي 1068 تمرّدت أسرة هارولد غودوينسون في إكستر (Exeter).",
+            "فسحق وليام الثورتين بكلّ قوّته العسكرية.",
+            "وفي 1068 أعطى نورثمبريا (Northumbria) لصاحبه النورماني روبرت دي كومين (Robert de Comines).",
+            "وفي يناير 1069 دخل روبرت دورهام (Durham) زاحفًا، غير مُلتفت إلى التحذيرات.",
+            "وكان جيش من أهل الشمال الغاضبين في انتظاره، فقُتل روبرت ورجاله.",
+            "وفي وقت لاحق من 1069 ثار الشمال من جديد، تساعده الدنمارك.",
+            "ولم يكن الجنود النورمان يكفون أبدًا للسيطرة على الشمال في كلّ وقت.",
+            "فاستخدم في شتاء 1069 إلى 1070 الترويع.",
+            "فأحرق رجاله المحاصيل والقطعان والأدوات والطعام في الشمال كلّه.",
+            "ويُسمّى هذا تخريب الشمال (the Harrying of the North).",
+            "فتبعته مجاعة، ومات آلاف كثيرة من الناس."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "powstanie i walka przeciwko władcy (rebellion)",
+            "używanie strachu i okrucieństwa, żeby ludzie byli posłuszni (terror)",
+            "wielkie earldom północnej Anglii (Northumbria)",
+            "wikingowie z Danii (Danes)",
+            "atakowanie obszaru raz po raz i niszczenie wszystkiego (harrying)",
+            "czas, kiedy nie ma dość jedzenia i wielu ludzi umiera z głodu (famine)"
+          ],
+          "passage": [
+            "William był królem, ale Anglia nie była jeszcze podbita.",
+            "W 1067 roku powstał przeciwko niemu pan zwany Eadrykiem Dzikim (Eadric the Wild).",
+            "W 1068 roku rodzina Harolda Godwinsona zbuntowała się w Exeter.",
+            "William zdusił oba bunty całą swoją siłą wojskową.",
+            "W 1068 roku dał Northumbrię swojemu normańskiemu przyjacielowi Robertowi de Comines.",
+            "W styczniu 1069 roku Robert wszedł do Durham, nie zważając na ostrzeżenia.",
+            "Czekała tam armia rozgniewanych mieszkańców północy i Robert oraz jego ludzie zostali zabici.",
+            "Później w 1069 roku północ powstała znowu, wspierana przez Danów.",
+            "Normańskich żołnierzy nigdy nie było dość, żeby cały czas trzymać północ w garści.",
+            "Dlatego w zimie z 1069 na 1070 rok użył terroru.",
+            "Jego ludzie palili zboża, stada, narzędzia i jedzenie po całej północy.",
+            "Nazywamy to Spustoszeniem Północy (the Harrying of the North).",
+            "Przyszedł głód i umarło wiele tysięcy ludzi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "levantar-se e combater contra o governante (rebellion, rebelião)",
+            "usar o medo e a crueldade para fazer as pessoas obedecerem (terror)",
+            "o grande earldom do Norte de Inglaterra (Northumbria, Nortúmbria)",
+            "vikings vindos da Dinamarca (Danes, dinamarqueses)",
+            "atacar uma área outra e outra vez, destruindo tudo (harrying, devastação)",
+            "um tempo em que não há comida suficiente e muitas pessoas morrem de fome (famine, fome)"
+          ],
+          "passage": [
+            "William era rei, mas a Inglaterra ainda não estava conquistada.",
+            "Em 1067 um senhor chamado Eadric the Wild levantou-se contra ele.",
+            "Em 1068 a família de Harold Godwinson rebelou-se em Exeter.",
+            "William esmagou as duas revoltas com toda a sua força militar.",
+            "Em 1068 deu a Nortúmbria ao seu amigo normando Robert de Comines.",
+            "Em janeiro de 1069 Robert entrou em Durham, sem fazer caso dos avisos.",
+            "Estava à espera um exército de nortenhos furiosos, e Robert e os seus homens foram mortos.",
+            "Mais tarde, em 1069, o Norte levantou-se outra vez, ajudado pelos dinamarqueses.",
+            "Nunca houve soldados normandos suficientes para manter o Norte dominado a toda a hora.",
+            "Por isso, no inverno de 1069 para 1070, usou o terror.",
+            "Os seus homens queimaram colheitas, rebanhos, ferramentas e comida por todo o Norte.",
+            "A isto chama-se a Devastação do Norte (the Harrying of the North).",
+            "Veio a fome, e morreram muitos milhares de pessoas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "kacdoon iyo la dagaallanka taliyaha",
+            "isticmaalka cabsi iyo naxariis-darro si dadku u hoggaansamaan",
+            "earldom-kii weynaa ee waqooyiga England",
+            "Vikings ka socda Denmark",
+            "weerarid meel mar iyo mar oo wax walba la burburiyo",
+            "waqti aan cunto ku filan jirin oo dad badan gaajo u dhinto"
+          ],
+          "passage": [
+            "William wuxuu boqor ahaa, laakiin England weli lama qabsan.",
+            "1067-kii sayid la yiraahdo Eadric the Wild wuu ku kacay.",
+            "1068-kii qoyska Harold Godwinson waxay Exeter ka kaceen.",
+            "William wuxuu labada kacdoon ku burburiyay xooggiisa milatari oo dhan.",
+            "1068-kii wuxuu Northumbria siiyay saaxiibkiis Norman ah Robert de Comines.",
+            "Janaayo 1069-kii Robert wuxuu Durham galay, isagoo digniinta iska indhatiray.",
+            "Ciidan dadka waqooyiga oo carooday ayaa sugayay, Robert iyo raggiisana waa la dilay.",
+            "1069-kii wixii ka dambeeyay waqooyigu mar kale wuu kacay, iyadoo Danes-ku caawiyeen.",
+            "Weligood ma jirin askar Norman ah oo ku filan inay waqooyiga had iyo jeer hoos u hayaan.",
+            "Markaa jiilaalkii 1069 ilaa 1070 wuxuu argagax isticmaalay.",
+            "Raggiisa waxay gubeen dalagga, xoolaha, qalabka iyo cuntada waqooyiga oo dhan.",
+            "Tan waxaa la yiraahdaa Harrying of the North.",
+            "Macaluul ayaa ka dhalatay, kumanaan badan oo dadna waa dhinteen."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "повстати і воювати проти правителя (rebellion)",
+            "використання страху і жорстокості, щоб змусити людей слухатися (terror)",
+            "великий ерлдом Півночі Англії (Northumbria)",
+            "вікінги з Данії (Danes)",
+            "нападати на область знову і знову, руйнуючи все (harrying)",
+            "час, коли їжі не досить і багато людей голодує (famine)"
+          ],
+          "passage": [
+            "Вільгельм був королем, але Англія ще не була підкорена.",
+            "У 1067 році володар на ім’я Едрік Дикий (Eadric the Wild) виступив проти нього.",
+            "У 1068 році родина Гарольда Ґодвінсона підняла повстання в Ексетері.",
+            "Вільгельм розчавив обидва повстання всією своєю військовою силою.",
+            "У 1068 році він віддав Нортумбрію своєму норманському другові Роберту де Комінові.",
+            "У січні 1069 року Роберт увійшов у Дарем (Durham), не зважаючи на попередження.",
+            "На нього чекало військо розгніваних північан, і Роберта та його людей убили.",
+            "Пізніше в 1069 році Північ піднялася знову, із допомогою данців.",
+            "Норманських вояків ніколи не було досить, щоб тримати Північ увесь час.",
+            "Тому зимою з 1069 на 1070 рік він застосував терор.",
+            "Його люди палили врожай, стада, знаряддя та їжу по всій Півночі.",
+            "Це називають Спустошенням Півночі (the Harrying of the North).",
+            "Настав голод, і багато тисяч людей померло."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "حاکم کے خلاف اٹھ کھڑے ہونا اور لڑنا (rebellion)",
+            "لوگوں کو تابع کرنے کے لیے خوف اور سختی کا استعمال (terror)",
+            "شمالی انگلینڈ کا بہت بڑا earldom (Northumbria)",
+            "ڈنمارک سے آنے والے وائکنگ (Danes)",
+            "کسی علاقے پر بار بار حملہ کرنا اور سب کچھ تباہ کر دینا (harrying)",
+            "وہ وقت جب خوراک کافی نہ ہو اور بہت لوگ بھوک سے مر جائیں (famine)"
+          ],
+          "passage": [
+            "ولیم بادشاہ بن گیا تھا، مگر انگلینڈ ابھی فتح نہیں ہوا تھا۔",
+            "1067 میں ایڈرک دی وائلڈ (Eadric the Wild) نامی ایک سردار اس کے خلاف اٹھ کھڑا ہوا۔",
+            "1068 میں ہیرلڈ گاڈونسن کے خاندان نے ایکسیٹر (Exeter) میں بغاوت کی۔",
+            "ولیم نے اپنی ساری فوجی طاقت سے دونوں بغاوتیں کچل دیں۔",
+            "1068 میں اس نے نارتھمبریا اپنے نارمن ساتھی رابرٹ دے کومین (Robert de Comines) کو دے دیا۔",
+            "جنوری 1069 میں رابرٹ تنبیہوں کو نظرانداز کرتے ہوئے ڈرہم (Durham) میں داخل ہوا۔",
+            "غصے میں بھرے شمالی لوگوں کی ایک فوج انتظار کر رہی تھی، اور رابرٹ اور اس کے آدمی مارے گئے۔",
+            "1069 میں کچھ عرصہ بعد شمال نے پھر بغاوت کی، اور Danes نے ان کی مدد کی۔",
+            "نارمن سپاہی کبھی اتنے نہ تھے کہ شمال کو ہر وقت دبا کر رکھ سکیں۔",
+            "اس لیے 1069 سے 1070 کی سردیوں میں اس نے terror کا راستہ اختیار کیا۔",
+            "اس کے آدمیوں نے سارے شمال میں فصلیں، مال مویشی، اوزار اور خوراک جلا دی۔",
+            "اسے Harrying of the North کہتے ہیں۔",
+            "اس کے بعد قحط آیا، اور ہزاروں لوگ مر گئے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The first rebellions, 1067–68",
@@ -729,8 +1215,168 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "Two writers, one event, two different views.",
           "Historians call these different views interpretations.",
           "Your job is to say what each writer thinks, give evidence, and then decide."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "كاتب سجّل الأحداث في زمنها أو بعدها بقليل (chronicler)",
+            "رأي كاتب واحد في ما حدث ولماذا حدث (interpretation)",
+            "كلمات أو وقائع تستخدمها لتسند نقطةً (evidence)",
+            "ما يظنّه أحد في شيء ما (opinion)",
+            "أن تغدر بحاكمك أو تنقض عهد الولاء (treachery)",
+            "وقائع تعرفها أصلًا وليست في المصدر (own knowledge)"
+          ],
+          "passage": [
+            "وصف كاتبان تخريب الشمال.",
+            "فوليام من بواتييه (William of Poitiers) كان نورمانيًّا يؤيّد الملك.",
+            "وقد كتب أنّ أهل نورثمبريا تمرّدوا مرّات كثيرة وانضمّوا إلى الدنمارك.",
+            "وقال إنّ وليام خرّب الأرض حتى لا تأوي أعداءه.",
+            "وكان التخريب في رأيه قد جلب السلام والسيطرة.",
+            "وكتب أورديريك فيتاليس (Orderic Vitalis) بعد ذلك بنحو خمسين سنة.",
+            "وقال إنّ المحاصيل والقطعان والأدوات والطعام أُحرقت حتى صارت رمادًا.",
+            "وكتب عن جوع قاسٍ أصاب البريء والمُجرم على السواء.",
+            "وكان يرى أنّ أكثر من مئة ألف شخص قد مات.",
+            "ولم يستطع أن يمدح ما فعله وليام.",
+            "كاتبان، وحدث واحد، ورأيان مختلفان.",
+            "ويسمّي المؤرّخون هذه الآراء المختلفة تفسيرات (interpretations).",
+            "وعملك أن تقول ما يظنّه كلّ كاتب، وأن تعطي الدليل، ثم أن تحكم."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "pisarz, który zapisywał wydarzenia w czasie, gdy się działy, albo wkrótce po nich (chronicler)",
+            "pogląd jednego pisarza na to, co się stało i dlaczego (interpretation)",
+            "słowa albo fakty, których używasz, żeby poprzeć swoją myśl (evidence)",
+            "to, co ktoś o czymś myśli (opinion)",
+            "zdrada swojego władcy albo złamanie przysięgi wierności (treachery)",
+            "fakty, które już znasz, a których nie ma w źródle (own knowledge)"
+          ],
+          "passage": [
+            "Spustoszenie Północy opisali dwaj pisarze.",
+            "William z Poitiers był Normanem, który popierał króla.",
+            "Pisał, że mieszkańcy Northumbrii często się buntowali i łączyli z Danami.",
+            "Mówił, że William spalił tę ziemię, żeby nie dawała schronienia jego wrogom.",
+            "Dla niego Spustoszenie przyniosło pokój i panowanie nad krajem.",
+            "Orderyk Witalis (Orderic Vitalis) pisał około pięćdziesiąt lat później.",
+            "Mówił, że zboża, stada, narzędzia i jedzenie spalono na popiół.",
+            "Pisał o okrutnym głodzie, który uderzył w niewinnych i w winnych jednakowo.",
+            "Uważał, że umarło ponad sto tysięcy ludzi.",
+            "Nie potrafił chwalić tego, co zrobił William.",
+            "Dwóch pisarzy, jedno wydarzenie, dwa różne poglądy.",
+            "Historycy nazywają takie różne poglądy interpretacjami.",
+            "Twoim zadaniem jest powiedzieć, co myśli każdy z pisarzy, podać dowody, a potem rozstrzygnąć."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um escritor que registou/registrou os acontecimentos na época ou pouco depois (chronicler, cronista)",
+            "a visão de um escritor sobre o que aconteceu e porquê (interpretation, interpretação)",
+            "palavras ou factos/fatos que usas para apoiar uma ideia (evidence, provas)",
+            "aquilo que alguém pensa sobre uma coisa (opinion, opinião)",
+            "traíres o teu governante ou quebrares uma promessa de lealdade (treachery, traição)",
+            "factos/fatos que já sabes e que não estão na fonte (own knowledge)"
+          ],
+          "passage": [
+            "Dois escritores descreveram a Devastação do Norte.",
+            "William of Poitiers era um normando que apoiava o rei.",
+            "Escreveu que os nortumbrianos se tinham rebelado muitas vezes e se tinham juntado aos dinamarqueses.",
+            "Disse que William devastou as terras para elas não darem abrigo aos seus inimigos.",
+            "Para ele, a Devastação trouxe paz e controlo/controle.",
+            "Orderic Vitalis escreveu cerca de cinquenta anos depois.",
+            "Disse que as colheitas, os rebanhos, as ferramentas e a comida foram reduzidos a cinzas.",
+            "Escreveu sobre uma fome cruel que atingiu tanto os inocentes como os culpados.",
+            "Acreditava que morreram mais de cem mil pessoas.",
+            "Não conseguia elogiar o que William fez.",
+            "Dois escritores, um acontecimento, duas visões diferentes.",
+            "Os historiadores chamam a estas visões diferentes interpretações (interpretations).",
+            "A tua tarefa é dizer o que cada escritor pensa, dar provas e depois decidir."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "qoraa diiwaangeliyay dhacdooyinka waqtigii ama kadib wax yar",
+            "aragtida hal qoraa ee waxa dhacay iyo sababta",
+            "erayo ama xaqiiqooyin aad u isticmaasho taageeridda qodob",
+            "waxa qof ka maleeyo wax",
+            "khiyaamidda taliyahaaga ama jabinta ballanqaad daacadnimo",
+            "xaqiiqooyin aad hore u taqaannay oo aanay isha ku jirin"
+          ],
+          "passage": [
+            "Laba qoraa ayaa sharraxay Harrying of the North.",
+            "William of Poitiers wuxuu ahaa Norman oo boqorka taageeray.",
+            "Wuxuu qoray in dadka Northumbria ay marar badan kaceen oo Danes-ka la biireen.",
+            "Wuxuu yiri William wuxuu dhulka burburiyay si uu u joojiyo inuu cadowgiisa hoy u noqdo.",
+            "Isaga, Harrying-gu wuxuu keenay nabad iyo xukun.",
+            "Orderic Vitalis wuxuu qoray qiyaastii konton sano kadib.",
+            "Wuxuu yiri dalagga, xoolaha, qalabka iyo cuntada waxaa dambas laga dhigay.",
+            "Wuxuu qoray gaajo naxariis-darro ah oo ku dhacday kuwa aan waxba galabsan iyo kuwa galabsadayba.",
+            "Wuxuu rumaystay in in ka badan boqol kun oo qof ay dhinteen.",
+            "Waxa William sameeyay ma ammaani karin.",
+            "Laba qoraa, hal dhacdo, laba aragti kala duwan.",
+            "Taariikhyahannadu aragtiyadan kala duwan waxay ugu yeeraan interpretations.",
+            "Shaqadaadu waa inaad sheegto waxa qoraa kastaa u maleeyo, caddayn aad bixiso, kadibna go'aan gaarto."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "письменник, який записував події в той час або скоро після нього (chronicler)",
+            "погляд одного письменника на те, що сталося і чому (interpretation)",
+            "слова або факти, якими ви підкріплюєте свою думку (evidence)",
+            "те, що хтось думає про щось (opinion)",
+            "зрада свого правителя або порушення обіцянки бути вірним (treachery)",
+            "факти, які ви вже знаєте і яких немає в джерелі (own knowledge)"
+          ],
+          "passage": [
+            "Двоє письменників описали Спустошення Півночі.",
+            "Вільгельм із Пуатьє (William of Poitiers) був норманом, який підтримував короля.",
+            "Він писав, що нортумбрійці часто повставали і з’єднувалися з данцями.",
+            "Він казав, що Вільгельм спустошив землю, щоб вона не давала прихистку його ворогам.",
+            "Для нього Спустошення принесло мир і контроль.",
+            "Ордерік Віталій (Orderic Vitalis) писав приблизно п’ятдесят років пізніше.",
+            "Він казав, що врожай, стада, знаряддя та їжу спалили до попелу.",
+            "Він писав про жорстокий голод, який ударив і по невинних, і по винних.",
+            "Він вважав, що померло понад сто тисяч людей.",
+            "Він не міг хвалити те, що зробив Вільгельм.",
+            "Двоє письменників, одна подія, два різні погляди.",
+            "Історики називають ці різні погляди інтерпретаціями (interpretations).",
+            "Ваше завдання — сказати, що думає кожний письменник, дати свідчення, а потім вирішити."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ لکھاری جس نے واقعات اُسی وقت یا کچھ ہی بعد لکھے (chronicler)",
+            "کسی ایک لکھاری کی یہ رائے کہ کیا ہوا اور کیوں ہوا (interpretation)",
+            "وہ الفاظ یا حقائق جو آپ اپنی بات کی تائید میں پیش کرتے ہیں (evidence)",
+            "کسی چیز کے بارے میں کسی کا خیال (opinion)",
+            "اپنے حاکم سے غداری کرنا یا وفاداری کا وعدہ توڑنا (treachery)",
+            "وہ حقائق جو آپ کو پہلے سے معلوم ہیں اور source میں نہیں ہیں (own knowledge)"
+          ],
+          "passage": [
+            "دو لکھاریوں نے Harrying of the North کا بیان لکھا۔",
+            "ولیم آف پواتیے (William of Poitiers) ایک نارمن تھا جو بادشاہ کا حامی تھا۔",
+            "اس نے لکھا کہ نارتھمبریا کے لوگوں نے بار بار بغاوت کی تھی اور Danes سے مل گئے تھے۔",
+            "اس نے کہا کہ ولیم نے زمین اس لیے اُجاڑی کہ وہ اس کے دشمنوں کو پناہ نہ دے سکے۔",
+            "اس کے نزدیک Harrying سے امن اور قابو آیا۔",
+            "اورڈرک وِٹالس (Orderic Vitalis) نے تقریباً پچاس سال بعد لکھا۔",
+            "اس نے کہا کہ فصلیں، مال مویشی، اوزار اور خوراک جلا کر راکھ کر دی گئی۔",
+            "اس نے ایک ایسی سخت بھوک کا ذکر کیا جو بے گناہ اور گناہ گار، دونوں پر پڑی۔",
+            "اس کا خیال تھا کہ ایک لاکھ سے زیادہ لوگ مر گئے۔",
+            "وہ ولیم کے کام کی تعریف نہ کر سکا۔",
+            "دو لکھاری، ایک واقعہ، دو مختلف رائیں۔",
+            "مؤرخ ان مختلف رایوں کو interpretations کہتے ہیں۔",
+            "آپ کا کام یہ ہے کہ بتائیں ہر لکھاری کیا سوچتا ہے، شہادت دیں، اور پھر فیصلہ کریں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Who were the two writers?",
@@ -944,8 +1590,174 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "In 1085 William ordered a great survey of England.",
           "Commissioners visited about 13,000 villages and asked who owned what.",
           "The answers were written down in the Domesday Book in 1086."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "طريقة وليام في قسمة الأرض مقابل الولاء والخدمة (Feudal System)",
+            "الركوع أمام الملك والعهد له بالولاء (homage)",
+            "بارون أو أسقف يحمل أرضًا من الملك مباشرةً (tenant-in-chief)",
+            "فلّاح يدفع ثمن الأرض عملًا وطعامًا وخدمات (villein)",
+            "سجلّ مسح وليام الكبير لإنجلترا (Domesday Book)",
+            "الموظّفون الذين أرسلهم وليام ليسألوا في كلّ قرية (commissioners)"
+          ],
+          "passage": [
+            "لم يكن وليام يستطيع أن يكون في كلّ مكان في وقت واحد.",
+            "ولم يكن يثق بالإيرلات الإنجليز، فأخذ أرضهم.",
+            "وكان عليه أيضًا أن يكافئ النورمان الذين قاتلوا في صفّه.",
+            "فغيّر مَن يملك الأرض في إنجلترا.",
+            "ويُسمّى هذا النظام الإقطاعي (Feudal System).",
+            "فالملك يملك الأرض كلّها.",
+            "ومنح الأرض لنحو 200 بارون وأسقف، وهم المستأجرون الرئيسون.",
+            "فعهدوا له بالولاء وأرسلوا له الفرسان 40 يومًا في السنة.",
+            "ومنح المستأجرون الرئيسون الأرض لنحو 4,000 فارس.",
+            "ومنح الفرسان الأرض للفيلينات (villeins)، وهم الفلّاحون.",
+            "والفيلينات يدفعون عملًا وطعامًا وخدمات.",
+            "وفي 1085 أمر وليام بمسح كبير لإنجلترا.",
+            "فزار الموظّفون نحو 13,000 قرية وسألوا مَن يملك ماذا.",
+            "وكُتبت الأجوبة في كتاب يوم الحساب (Domesday Book) في 1086."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "sposób, w jaki William rozdzielał ziemię w zamian za wierność i służbę (Feudal System)",
+            "klęknięcie przed królem i obietnica wierności (homage)",
+            "baron albo biskup, który trzymał ziemię wprost od króla (tenant-in-chief)",
+            "chłop, który płacił za ziemię pracą, jedzeniem i posługami (villein)",
+            "zapis wielkiego spisu Anglii, który przeprowadził William (Domesday Book)",
+            "urzędnicy, których William wysyłał, żeby zadawali pytania w każdej wsi (commissioners)"
+          ],
+          "passage": [
+            "William nie mógł być wszędzie naraz.",
+            "Nie ufał angielskim hrabiom, więc zabrał im ziemię.",
+            "Musiał też nagrodzić Normanów, którzy za niego walczyli.",
+            "Dlatego zmienił to, kto w Anglii ma ziemię.",
+            "Nazywamy to systemem feudalnym (Feudal System).",
+            "Król był właścicielem całej ziemi.",
+            "Nadał ziemię około 200 baronom i biskupom, zwanym tenants-in-chief.",
+            "Obiecali mu wierność i przysyłali mu rycerzy na 40 dni w roku.",
+            "Tenants-in-chief nadawali ziemię około 4,000 rycerzom.",
+            "Rycerze nadawali ziemię villeins, czyli chłopom.",
+            "Villeins płacili pracą, jedzeniem i posługami.",
+            "W 1085 roku William kazał przeprowadzić wielki spis Anglii.",
+            "Urzędnicy odwiedzili około 13,000 wsi i pytali, kto co posiada.",
+            "Odpowiedzi zapisano w Domesday Book w 1086 roku."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a maneira que William tinha de repartir a terra em troca de lealdade e serviço (Feudal System, sistema feudal)",
+            "ajoelhar-se diante do rei e prometer ser-lhe leal (homage, homenagem)",
+            "um barão ou bispo que recebia terras diretamente do rei (tenant-in-chief)",
+            "um camponês que pagava a terra com trabalho, comida e serviços (villein)",
+            "o registo/registro do grande levantamento que William fez da Inglaterra (Domesday Book)",
+            "os funcionários que William enviou para fazer perguntas em cada aldeia (commissioners, comissários)"
+          ],
+          "passage": [
+            "William não podia estar em todos os lugares ao mesmo tempo.",
+            "Não confiava nos earls ingleses, por isso ficou com as terras deles.",
+            "Também tinha de recompensar os normandos que tinham combatido por ele.",
+            "Por isso mudou quem era dono da terra em Inglaterra.",
+            "A isto chama-se o sistema feudal (Feudal System).",
+            "O rei era dono de todas as terras.",
+            "Concedeu terras a cerca de 200 barões e bispos, chamados tenants-in-chief.",
+            "Eles prometiam lealdade e enviavam-lhe cavaleiros durante 40 dias por ano.",
+            "Os tenants-in-chief concediam terras a cerca de 4 000 cavaleiros.",
+            "Os cavaleiros concediam terras aos villeins, os camponeses.",
+            "Os villeins pagavam com trabalho, comida e serviços.",
+            "Em 1085 William mandou fazer um grande levantamento da Inglaterra.",
+            "Os comissários visitaram cerca de 13 000 aldeias e perguntaram de quem era cada coisa.",
+            "As respostas foram escritas no Domesday Book em 1086."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "habkii William ee dhulka loo qaybiyay si daacadnimo iyo adeeg loo helo",
+            "boqorka hortiisa jilba-joogsi iyo ballanqaad daacadnimo",
+            "baron ama bishop oo dhulka si toos ah boqorka ka helay",
+            "beeraley dhulka ku bixiyay shaqo, cunto iyo adeegyo",
+            "diiwaanka sahankii weynaa ee William ee England",
+            "saraakiisha William u diray su'aalaha tuulo kasta"
+          ],
+          "passage": [
+            "William isku mar meel kasta ma joogi karin.",
+            "Earls-ka Ingiriiska kuma kalsoonayn, markaa dhulkooda ayuu qaatay.",
+            "Wuxuu sidoo kale ku qasban yahay inuu abaalmariyo Normans-kii u dagaallamay.",
+            "Markaa wuxuu beddelay cidda England dhulkeeda lahayd.",
+            "Tan waxaa la yiraahdaa Feudal System.",
+            "Boqorku dhulka oo dhan wuu lahaa.",
+            "Wuxuu dhul siiyay qiyaastii 200 barons iyo bishops, oo la yiraahdo tenants-in-chief.",
+            "Waxay ballanqaadeen daacadnimo oo waxay u direen knights 40 maalmood sanadkii.",
+            "Tenants-in-chief waxay dhul siiyeen qiyaastii 4,000 knights.",
+            "Knights waxay dhul siiyeen villeins, oo ahaa beeraleyda.",
+            "Villeins waxay ku bixiyeen shaqo, cunto iyo adeegyo.",
+            "1085-kii William wuxuu amray sahan weyn oo England.",
+            "Commissioners waxay booqdeen qiyaastii 13,000 tuulo oo waxay weydiiyeen cidda waxa leh.",
+            "Jawaabaha waxaa lagu qoray Domesday Book 1086-dii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "спосіб Вільгельма розподіляти землю в обмін на вірність і службу (Feudal System)",
+            "стати на коліно перед королем і обіцяти бути вірним (homage)",
+            "барон або єпископ, який тримав землю прямо від короля (tenant-in-chief)",
+            "селянин, який платив за землю працею, їжею і послугами (villein)",
+            "запис великого обстеження Англії, зробленого Вільгельмом (Domesday Book)",
+            "посадовці, яких Вільгельм послав ставити запитання в кожному селі (commissioners)"
+          ],
+          "passage": [
+            "Вільгельм не міг бути всюди водночас.",
+            "Він не довіряв англійським ерлам, тому забрав їхню землю.",
+            "Йому також треба було нагородити норманів, які воювали за нього.",
+            "Тому він змінив те, кому належить земля в Англії.",
+            "Це називають феодальною системою (the Feudal System).",
+            "Королю належала вся земля.",
+            "Він надав землю приблизно 200 баронам і єпископам, яких називали головними держателями (tenants-in-chief).",
+            "Вони обіцяли вірність і присилали йому лицарів на 40 днів на рік.",
+            "Головні держателі надали землю приблизно 4,000 лицарів.",
+            "Лицарі надали землю віланам (villeins), тобто селянам.",
+            "Вілани платили працею, їжею і послугами.",
+            "У 1085 році Вільгельм наказав провести велике обстеження Англії.",
+            "Посадовці відвідали близько 13,000 сіл і питали, кому що належить.",
+            "Відповіді записали в Книгу Судного дня (Domesday Book) у 1086 році."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ولیم کا وہ طریقہ جس میں زمین وفاداری اور خدمت کے بدلے بانٹی جاتی تھی (Feudal System)",
+            "بادشاہ کے سامنے گھٹنوں پر بیٹھ کر وفادار رہنے کا وعدہ کرنا (homage)",
+            "وہ بیرن یا بشپ جس نے زمین سیدھے بادشاہ سے لی ہو (tenant-in-chief)",
+            "وہ کسان جو زمین کے بدلے مزدوری، خوراک اور خدمات دیتا تھا (villein)",
+            "ولیم کے انگلینڈ کے بڑے سروے کا ریکارڈ (Domesday Book)",
+            "وہ سرکاری اہلکار جنھیں ولیم نے ہر گاؤں میں سوال پوچھنے بھیجا (commissioners)"
+          ],
+          "passage": [
+            "ولیم ایک ہی وقت میں ہر جگہ نہیں ہو سکتا تھا۔",
+            "وہ انگریز earls پر بھروسہ نہیں کرتا تھا، اس لیے اس نے ان کی زمین لے لی۔",
+            "اسے اُن نارمنوں کو انعام بھی دینا تھا جو اس کے لیے لڑے تھے۔",
+            "اس لیے اس نے بدل دیا کہ انگلینڈ میں زمین کس کی ہے۔",
+            "اسے Feudal System کہتے ہیں۔",
+            "ساری زمین بادشاہ کی تھی۔",
+            "اس نے تقریباً 200 بیرنوں اور بشپوں کو زمین دی، جنھیں tenants-in-chief کہتے ہیں۔",
+            "انھوں نے وفاداری کا وعدہ کیا اور سال میں 40 دن کے لیے اسے نائٹ (knights) بھیجے۔",
+            "tenants-in-chief نے تقریباً 4,000 نائٹوں کو زمین دی۔",
+            "نائٹوں نے زمین villeins، یعنی کسانوں کو دی۔",
+            "villeins نے اس کی قیمت مزدوری، خوراک اور خدمات سے چکائی۔",
+            "1085 میں ولیم نے انگلینڈ کے ایک بڑے سروے کا حکم دیا۔",
+            "commissioners نے تقریباً 13,000 گاؤں کا دورہ کیا اور پوچھا کہ کس کے پاس کیا ہے۔",
+            "جواب 1086 میں Domesday Book میں لکھ لیے گئے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why change who owned the land?",
@@ -1151,8 +1963,174 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "Castles were built where people had rebelled, and by key roads, rivers and ports.",
           "They were a symbol of Norman strength.",
           "In 21 years William's Normans built over 500 castles, about one every two weeks."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "التلّ الترابي الذي كانت القلعة تقوم عليه (motte)",
+            "الساحة المسوّرة التي كان النورمان يعيشون ويعملون فيها (bailey)",
+            "البناء القويّ على قمّة التلّ (keep)",
+            "سياج خشبي حول الساحة (palisade)",
+            "خندق حول القلعة، يُملأ بالماء أحيانًا (moat)",
+            "أن يكون عددك أقلّ كثيرًا من عدد الطرف الآخر (outnumbered)"
+          ],
+          "passage": [
+            "لم يستقرّ في إنجلترا مع وليام إلّا نحو 8,000 إلى 10,000 نورماني.",
+            "وكان عدد سكّان إنجلترا نحو 1.5 إلى 2 مليون.",
+            "فكان النورمان أقلّ عددًا بكثير.",
+            "فحيث سار جيش وليام بنى القلاع.",
+            "وكانت قلاع التلّ والساحة.",
+            "وكان التلّ (motte) ركامًا من التراب ارتفاعه نحو 15 مترًا.",
+            "وعلى قمّته يقوم الحصن (keep)، وفيه يسكن البارون.",
+            "والساحة (bailey) في الأسفل هي حيث كان النورمان يعيشون ويعملون.",
+            "ويحميها سياج خشبي (palisade) وخندق (moat).",
+            "وكانت القلاع الأولى من الخشب، فكان بناؤها سريعًا ولكنها قد تحترق.",
+            "ثم أُعيد بناؤها بالحجر بعد ذلك.",
+            "وكانت القلاع تُبنى حيث تمرّد الناس، وعند الطرق والأنهار والمرافئ الرئيسة.",
+            "وكانت رمزًا لقوّة النورمان.",
+            "وفي 21 سنة بنى نورمان وليام أكثر من 500 قلعة، أي نحو قلعة كلّ أسبوعين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kopiec z ziemi, na którym stał zamek (motte)",
+            "ogrodzony dziedziniec, na którym Normanowie mieszkali i pracowali (bailey)",
+            "mocny budynek na szczycie kopca (keep)",
+            "drewniany płot wokół dziedzińca (palisade)",
+            "fosa wokół zamku, czasem wypełniona wodą (moat)",
+            "mający o wiele mniej ludzi niż strona przeciwna (outnumbered)"
+          ],
+          "passage": [
+            "Z Williamem osiedliło się w Anglii tylko około 8,000 do 10,000 Normanów.",
+            "Ludność angielska liczyła około 1.5 do 2 milionów.",
+            "Normanowie byli w ogromnej mniejszości.",
+            "Dlatego gdziekolwiek szła armia Williama, budowała zamki.",
+            "To były zamki typu motte and bailey.",
+            "Motte to był kopiec z ziemi wysoki na około 15 metrów.",
+            "Na szczycie stał keep, w którym mieszkał baron.",
+            "Bailey poniżej był miejscem, w którym Normanowie mieszkali i pracowali.",
+            "Chronił go drewniany płot palisade oraz fosa.",
+            "Pierwsze zamki były drewniane, więc szybko się je budowało, ale mogły się spalić.",
+            "Później przebudowano je z kamienia.",
+            "Zamki budowano tam, gdzie ludzie się buntowali, oraz przy ważnych drogach, rzekach i portach.",
+            "Były znakiem normańskiej siły.",
+            "W 21 lat Normanowie Williama zbudowali ponad 500 zamków, czyli około jednego co dwa tygodnie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o monte de terra sobre o qual ficava um castelo (motte)",
+            "o pátio cercado onde os normandos viviam e trabalhavam (bailey)",
+            "o edifício sólido no topo da motte (keep, torre de menagem)",
+            "uma cerca de madeira em volta do bailey (palisade, paliçada)",
+            "um fosso em volta de um castelo, às vezes cheio de água (moat, fosso)",
+            "ter muito menos gente do que o outro lado (outnumbered, em menor número)"
+          ],
+          "passage": [
+            "Só cerca de 8 000 a 10 000 normandos se fixaram em Inglaterra com William.",
+            "A população inglesa era de cerca de 1.5 a 2 milhões.",
+            "Os normandos estavam em grande menor número.",
+            "Por isso, por onde quer que o exército de William passasse, construía castelos.",
+            "Eram castelos de motte and bailey.",
+            "A motte era um monte de terra com cerca de 15 metros de altura.",
+            "No topo ficava o keep, onde o barão vivia.",
+            "O bailey, abaixo, era onde os normandos viviam e trabalhavam.",
+            "Uma cerca de madeira, a paliçada, e um fosso protegiam-no.",
+            "Os primeiros castelos eram de madeira, por isso eram rápidos de construir mas podiam arder.",
+            "Mais tarde foram reconstruídos em pedra.",
+            "Os castelos eram construídos onde as pessoas se tinham rebelado, e junto a estradas, rios e portos importantes.",
+            "Eram um símbolo da força normanda.",
+            "Em 21 anos, os normandos de William construíram mais de 500 castelos, cerca de um a cada duas semanas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "tuulmada ciidda ee qalcaddu ku dul taagnayd",
+            "barxadda xayndaab leh ee Normans-ku ku noolaayeen oo ka shaqeeyeen",
+            "dhismaha adag ee motte-ka dusha ku yaal",
+            "xayndaab alwaax ah oo bailey-ga ku wareegsan",
+            "god qalcad ku wareegsan, mararka qaarkood biyo laga buuxiyo",
+            "in dad aad kaaga yar yihiin dhinaca kale"
+          ],
+          "passage": [
+            "Qiyaastii 8,000 ilaa 10,000 oo Normans ayaa William la galay England.",
+            "Dadweynaha Ingiriiska wuxuu ahaa qiyaastii 1.5 ilaa 2 milyan.",
+            "Normans-ku aad ayaa tiro ahaan looga badnaa.",
+            "Markaa meel kasta oo ciidanka William tagay, qalcado ayuu dhisay.",
+            "Kuwan waxay ahaayeen qalcado motte and bailey ah.",
+            "Motte-ku wuxuu ahaa tuulmo ciid oo qiyaastii 15 mitir sarajoog leh.",
+            "Dusheeda waxaa taagnaa keep-ka, halkaasoo baron-ku ku noolaa.",
+            "Bailey-ga hoostiisa waa meeshii Normans-ku ku noolaayeen oo ka shaqeeyeen.",
+            "Xayndaab alwaax ah oo palisade la yiraahdo iyo moat ayaa ilaaliyay.",
+            "Qalcadihii ugu horreeyay waxay ahaayeen alwaax, markaa degdeg ayaa lagu dhisay laakiin gubi karayeen.",
+            "Kadib dhagax lagu dhisay.",
+            "Qalcado waxaa lagu dhisay meelaha dadku ka kaceen, iyo waddooyinka, webiyada iyo dekedaha muhiimka agtooda.",
+            "Waxay ahaayeen astaan xooggii Normans-ka.",
+            "21 sano gudahood Normans-kii William waxay dhiseen in ka badan 500 qalcad, oo qiyaastii mid laba toddobaad kasta."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "насип землі, на якому стояв замок (motte)",
+            "обгороджене подвір’я, де нормани жили й працювали (bailey)",
+            "міцна будівля на вершині мотта (keep)",
+            "дерев’яна огорожа навколо бейлі (palisade)",
+            "рів навколо замку, іноді заповнений водою (moat)",
+            "той, кого значно менше, ніж людей на іншому боці (outnumbered)"
+          ],
+          "passage": [
+            "Разом із Вільгельмом в Англії осіло лише близько 8,000–10,000 норманів.",
+            "Населення Англії було приблизно 1.5–2 мільйони.",
+            "Норманів було значно менше.",
+            "Тому куди б не йшло військо Вільгельма, воно будувало замки.",
+            "Це були замки типу мотт і бейлі (motte and bailey).",
+            "Мотт був насипом землі висотою приблизно 15 метрів.",
+            "На вершині стояв донжон (keep), де жив барон.",
+            "Бейлі внизу було місцем, де нормани жили й працювали.",
+            "Його захищали дерев’яна огорожа-палісад і рів.",
+            "Перші замки були дерев’яні, тому їх будували швидко, але вони могли горіти.",
+            "Пізніше їх перебудували з каменю.",
+            "Замки будували там, де люди повставали, а також біля важливих доріг, річок і портів.",
+            "Вони були символом норманської сили.",
+            "За 21 рік нормани Вільгельма побудували понад 500 замків, приблизно один кожні два тижні."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "مٹی کا وہ ٹیلہ جس پر قلعہ کھڑا ہوتا تھا (motte)",
+            "باڑ سے گھرا وہ صحن جہاں نارمن رہتے اور کام کرتے تھے (bailey)",
+            "motte کے اوپر بنی مضبوط عمارت (keep)",
+            "bailey کے گرد لکڑی کی باڑ (palisade)",
+            "قلعے کے گرد ایک خندق، جو بعض اوقات پانی سے بھری ہوتی تھی (moat)",
+            "دوسری طرف کے مقابلے میں تعداد میں بہت کم ہونا (outnumbered)"
+          ],
+          "passage": [
+            "ولیم کے ساتھ انگلینڈ میں صرف 8,000 سے 10,000 کے قریب نارمن آ کر بسے۔",
+            "انگلینڈ کی آبادی تقریباً 15 لاکھ سے 20 لاکھ تھی۔",
+            "نارمن تعداد میں بہت ہی کم تھے۔",
+            "اس لیے ولیم کی فوج جہاں جاتی، قلعے بناتی۔",
+            "یہ motte اور bailey والے قلعے تھے۔",
+            "motte مٹی کا ٹیلہ ہوتا تھا، تقریباً 15 میٹر اونچا۔",
+            "اوپر keep ہوتا تھا، جہاں بیرن رہتا تھا۔",
+            "نیچے bailey تھا، جہاں نارمن رہتے اور کام کرتے تھے۔",
+            "لکڑی کی palisade باڑ اور ایک moat اس کی حفاظت کرتے تھے۔",
+            "پہلے قلعے لکڑی کے تھے، اس لیے جلدی بن جاتے تھے مگر جل بھی سکتے تھے۔",
+            "بعد میں انھیں پتھر سے دوبارہ بنایا گیا۔",
+            "قلعے وہاں بنائے جاتے جہاں لوگوں نے بغاوت کی ہو، اور اہم سڑکوں، دریاؤں اور بندرگاہوں کے پاس۔",
+            "یہ نارمن طاقت کی علامت تھے۔",
+            "21 سال میں ولیم کے نارمنوں نے 500 سے زیادہ قلعے بنائے، یعنی تقریباً ہر دو ہفتے میں ایک۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Outnumbered: why castles were needed",

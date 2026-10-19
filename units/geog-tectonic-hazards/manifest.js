@@ -111,8 +111,168 @@ window.ASTRA_UNITS["geog-tectonic-hazards"] = {
           "Some people have little choice about where they live.",
           "As cities grow, more people live in risky places.",
           "So the number of people at risk keeps rising."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "شيء يحدث في الطبيعة، كالزلزال أو السيل (natural event)",
+            "حدث طبيعي يُعرّض الناس والممتلكات للخطر (natural hazard)",
+            "احتمال أن يتأثّر المرء بحدث طبيعي (hazard risk)",
+            "تدفعه طاقة من داخل الأرض (geological)",
+            "تدفعه عمليات في الهواء المحيط بالأرض (atmospheric)",
+            "يدفعه الماء، والمحيطات في الأساس (hydrological)"
+          ],
+          "passage": [
+            "الحدث الطبيعي شيء يحدث في الطبيعة.",
+            "والزلزال أو السيل أو العاصفة حدث طبيعي.",
+            "فإن لم يكن أحد يعيش قريبًا منه لم يضرّ أحدًا.",
+            "ويصير خطرًا طبيعيًّا عندما يُعرّض الناس والممتلكات للخطر.",
+            "وللمخاطر الطبيعية ثلاث مجموعات رئيسة.",
+            "فالمخاطر الجيولوجية تدفعها طاقة من داخل الأرض، كالزلازل والبراكين.",
+            "والمخاطر الجوّية يدفعها الهواء، كالعواصف المدارية وموجات الجفاف.",
+            "والمخاطر المائية يدفعها الماء، كالسيول وأمواج التسونامي.",
+            "وخطر التعرّض هو احتمال أن يتأثّر المرء بحدث طبيعي.",
+            "والناس يقبلون الخطر غالبًا لأنّ منافع المكان كبيرة.",
+            "وبعض الناس ليس له خيار كبير في مكان عيشه.",
+            "وكلّما كبرت المدن عاش ناس أكثر في أماكن خطرة.",
+            "فعدد الناس المعرّضين للخطر يزداد باستمرار."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "coś, co dzieje się w przyrodzie, na przykład trzęsienie ziemi albo powódź (natural event)",
+            "zdarzenie przyrodnicze, które naraża ludzi i ich mienie (natural hazard)",
+            "prawdopodobieństwo, że dotknie nas zdarzenie przyrodnicze (hazard risk)",
+            "napędzany energią z wnętrza Ziemi (geological)",
+            "napędzany procesami w powietrzu wokół Ziemi (atmospheric)",
+            "napędzany wodą, głównie oceanami (hydrological)"
+          ],
+          "passage": [
+            "Zdarzenie przyrodnicze to coś, co dzieje się w przyrodzie.",
+            "Trzęsienie ziemi, powódź albo burza to zdarzenia przyrodnicze.",
+            "Jeśli nikt nie mieszka w pobliżu, nikomu to nie szkodzi.",
+            "Staje się zagrożeniem naturalnym (natural hazard), kiedy naraża ludzi i ich mienie.",
+            "Są trzy główne grupy zagrożeń naturalnych.",
+            "Zagrożenia geologiczne napędza energia z wnętrza Ziemi, jak trzęsienia ziemi i wulkany.",
+            "Zagrożenia atmosferyczne napędza powietrze, jak burze tropikalne i susze.",
+            "Zagrożenia hydrologiczne napędza woda, jak powodzie i tsunami.",
+            "Ryzyko zagrożenia (hazard risk) to prawdopodobieństwo, że dotknie nas zdarzenie przyrodnicze.",
+            "Ludzie często przyjmują to ryzyko, bo korzyści z danego miejsca są duże.",
+            "Niektórzy ludzie mają niewielki wybór co do tego, gdzie mieszkają.",
+            "W miarę jak miasta rosną, coraz więcej ludzi mieszka w miejscach ryzykownych.",
+            "Dlatego liczba narażonych ludzi stale rośnie."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "algo que acontece na natureza, como um sismo/terremoto ou uma cheia/enchente (natural event, acontecimento/evento natural)",
+            "um acontecimento natural que põe em risco as pessoas e os seus bens (natural hazard, risco natural)",
+            "a probabilidade de ser afetado por um acontecimento natural (hazard risk)",
+            "movido por energia que vem do interior da Terra (geological, geológico)",
+            "movido por processos no ar que envolve a Terra (atmospheric, atmosférico)",
+            "movido pela água, sobretudo pelos oceanos (hydrological, hidrológico)"
+          ],
+          "passage": [
+            "Um acontecimento natural é algo que acontece na natureza.",
+            "Um sismo/terremoto, uma cheia/enchente ou uma tempestade é um acontecimento natural.",
+            "Se não vive ninguém ali perto, não faz mal a ninguém.",
+            "Torna-se um risco natural (natural hazard) quando põe em risco as pessoas e os seus bens.",
+            "Há três grandes grupos de riscos naturais.",
+            "Os riscos geológicos são movidos por energia do interior da Terra, como os sismos/terremotos e os vulcões.",
+            "Os riscos atmosféricos são movidos pelo ar, como as tempestades tropicais e as secas.",
+            "Os riscos hidrológicos são movidos pela água, como as cheias/enchentes e os tsunamis.",
+            "O hazard risk é a probabilidade de ser afetado por um acontecimento natural.",
+            "As pessoas aceitam muitas vezes o risco porque um lugar traz grandes vantagens.",
+            "Há pessoas que têm pouca escolha sobre onde vivem.",
+            "À medida que as cidades crescem, mais pessoas vivem em lugares de risco.",
+            "Por isso o número de pessoas em risco continua a subir."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "wax dabeecadda ka dhaca, sida dhulgariir ama fatahaad",
+            "dhacdo dabiici ah oo dadka iyo hantida halis gelisa",
+            "fursadda in dhacdo dabiici ah ay ku saamayso",
+            "waxaa wada tamar ka timid Dhulka gudihiisa",
+            "waxaa wada hawlo ka dhacaya hawada Dhulka ku wareegsan",
+            "waxaa wada biyo, badweynaha inta badan"
+          ],
+          "passage": [
+            "Dhacdo dabiici ah waa wax dabeecadda ka dhaca.",
+            "Dhulgariir, fatahaad ama duufaan waa dhacdo dabiici ah.",
+            "Haddii qofna agteeda ku noolayn, cidna ma waxyeelleyso.",
+            "Waxay noqotaa khatar dabiici ah marka ay dadka iyo hantida halis geliso.",
+            "Saddex koox waaweyn oo khatar dabiici ah ayaa jira.",
+            "Khataraha geological waxaa wada tamarta Dhulka gudihiisa, sida dhulgariirrada iyo foolkaanaha.",
+            "Khataraha atmospheric waxaa wada hawada, sida duufaannada kulaylaha iyo abaaraha.",
+            "Khataraha hydrological waxaa wada biyaha, sida fatahaadaha iyo tsunami-yada.",
+            "Hazard risk waa fursadda in dhacdo dabiici ah ay ku saamayso.",
+            "Dadku inta badan khatarta way aqbalaan maxaa yeelay faa'iidooyinka meeshu waaweyn yihiin.",
+            "Dadka qaar doorasho yar ayay ka haystaan meesha ay ku noolaadaan.",
+            "Marka magaalooyinku koraan, dad badan ayaa ku nool meelo khatar leh.",
+            "Markaa tirada dadka halista ku jira way sii kordhaysaa."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "те, що відбувається в природі, як-от землетрус або повінь (natural event)",
+            "природна подія, яка ставить людей і майно під загрозу (natural hazard)",
+            "ймовірність того, що на вас подіє природна подія (hazard risk)",
+            "рухомий енергією з глибин Землі (geological)",
+            "рухомий процесами в повітрі навколо Землі (atmospheric)",
+            "рухомий водою, переважно океанами (hydrological)"
+          ],
+          "passage": [
+            "Природна подія — це те, що відбувається в природі.",
+            "Землетрус, повінь або шторм — це природна подія.",
+            "Якщо поблизу ніхто не живе, вона нікому не шкодить.",
+            "Вона стає природною небезпекою (natural hazard), коли ставить людей і майно під загрозу.",
+            "Є три головні групи природних небезпек.",
+            "Геологічні небезпеки рухає енергія з глибин Землі, як-от землетруси й вулкани.",
+            "Атмосферні небезпеки рухає повітря, як-от тропічні шторми й засухи.",
+            "Гідрологічні небезпеки рухає вода, як-от повені й цунамі.",
+            "Ризик небезпеки (hazard risk) — це ймовірність того, що на вас подіє природна подія.",
+            "Люди часто приймають цей ризик, бо вигоди від місця великі.",
+            "Деякі люди мають мало вибору щодо того, де їм жити.",
+            "Що більше зростають міста, то більше людей живе в небезпечних місцях.",
+            "Тому кількість людей під загрозою й далі зростає."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ چیز جو قدرت میں پیش آئے، جیسے زلزلہ یا سیلاب (natural event)",
+            "ایسا قدرتی واقعہ جو لوگوں اور املاک کو خطرے میں ڈال دے (natural hazard)",
+            "کسی قدرتی واقعے سے متاثر ہونے کا امکان (hazard risk)",
+            "زمین کے اندر کی توانائی سے چلنے والا (geological)",
+            "زمین کے گرد ہوا میں ہونے والے عمل سے چلنے والا (atmospheric)",
+            "پانی سے، خاص کر سمندروں سے، چلنے والا (hydrological)"
+          ],
+          "passage": [
+            "natural event وہ چیز ہے جو قدرت میں پیش آتی ہے۔",
+            "زلزلہ، سیلاب یا طوفان ایک natural event ہے۔",
+            "اگر قریب کوئی نہ رہتا ہو تو اس سے کسی کو نقصان نہیں ہوتا۔",
+            "یہ natural hazard اس وقت بنتا ہے جب لوگوں اور املاک کو خطرے میں ڈال دے۔",
+            "natural hazards کے تین بڑے گروہ ہیں۔",
+            "geological hazards زمین کے اندر کی توانائی سے چلتے ہیں، جیسے زلزلے اور آتش فشاں۔",
+            "atmospheric hazards ہوا سے چلتے ہیں، جیسے اشنکٹبندی طوفان اور droughts۔",
+            "hydrological hazards پانی سے چلتے ہیں، جیسے سیلاب اور tsunami۔",
+            "hazard risk کسی قدرتی واقعے سے متاثر ہونے کا امکان ہے۔",
+            "لوگ اکثر یہ خطرہ قبول کر لیتے ہیں، کیونکہ اس جگہ کے فائدے بڑے ہوتے ہیں۔",
+            "کچھ لوگوں کے پاس یہ انتخاب بہت کم ہوتا ہے کہ وہ کہاں رہیں۔",
+            "شہر بڑھتے ہیں تو زیادہ لوگ خطرے والی جگہوں پر رہنے لگتے ہیں۔",
+            "اس لیے خطرے میں رہنے والے لوگوں کی تعداد بڑھتی جا رہی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Event or hazard?",
@@ -322,8 +482,168 @@ window.ASTRA_UNITS["geog-tectonic-hazards"] = {
           "Oceanic plates are denser than continental plates.",
           "In 1912 Alfred Wegener said the continents had once been joined together.",
           "Few people believed him until the 1950s."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الطبقة الخارجية الصلبة الرقيقة من الأرض التي نعيش عليها (crust)",
+            "الطبقة السميكة من الصخر الحارّ جدًّا تحت القشرة (mantle)",
+            "حركة دائرية بطيئة ترتفع فيها المادّة الحارّة وتهبط المادّة الأبرد (convection current)",
+            "واحدة من الألواح الضخمة من القشرة وأعلى الوشاح التي تتلاقى كقطع أحجية (tectonic plate)",
+            "صفيحة فوقها محيط، وصخرها أكثف (oceanic plate)",
+            "صفيحة فوقها يابسة، وصخرها أخفّ (continental plate)"
+          ],
+          "passage": [
+            "عمر الأرض نحو 4.54 مليار سنة.",
+            "وقد توصّل العلماء إلى هذا بدراسة الصخور.",
+            "وللأرض طبقات.",
+            "فالطبقة الخارجية الرقيقة هي القشرة.",
+            "وتحتها الوشاح، وهو طبقة سميكة من الصخر الحارّ جدًّا.",
+            "وفي المركز اللبّ الخارجي واللبّ الداخلي.",
+            "والقشرة وأعلى الوشاح مكسورة إلى قطع ضخمة تُسمّى الصفائح التكتونية.",
+            "وهي تتلاقى كأحجية غير منتظمة.",
+            "والصخر الحارّ في الوشاح يرتفع وينتشر ويبرد ويهبط.",
+            "وتيّارات الحمل هذه تحرّك الصفائح ببطء شديد.",
+            "والصفائح المحيطية أكثف من الصفائح القارّية.",
+            "وفي 1912 قال ألفريد فيغنر (Alfred Wegener) إنّ القارّات كانت يومًا متّصلة.",
+            "ولم يصدّقه إلّا قليل من الناس حتى سنوات 1950."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "cienka, twarda zewnętrzna warstwa Ziemi, na której żyjemy (crust)",
+            "gruba warstwa bardzo gorących skał pod skorupą (mantle)",
+            "powolny ruch po okręgu, w którym gorący materiał unosi się, a chłodniejszy opada (convection current)",
+            "jeden z ogromnych bloków skorupy i górnego płaszcza, które pasują do siebie jak puzzle (tectonic plate)",
+            "płyta z oceanem na górze, zbudowana z gęstszych skał (oceanic plate)",
+            "płyta z lądem na górze, zbudowana z lżejszych skał (continental plate)"
+          ],
+          "passage": [
+            "Ziemia ma około 4.54 miliarda lat.",
+            "Naukowcy wyliczyli to, badając skały.",
+            "Ziemia ma warstwy.",
+            "Cienka warstwa zewnętrzna to skorupa.",
+            "Pod nią jest płaszcz, gruba warstwa bardzo gorących skał.",
+            "W samym środku są jądro zewnętrzne i jądro wewnętrzne.",
+            "Skorupa i górna część płaszcza są popękane na ogromne kawałki zwane płytami tektonicznymi.",
+            "Pasują do siebie jak nierówne puzzle.",
+            "Gorąca skała w płaszczu unosi się, rozpływa, stygnie i opada.",
+            "Te prądy konwekcyjne (convection currents) przesuwają płyty bardzo wolno.",
+            "Płyty oceaniczne są gęstsze niż płyty kontynentalne.",
+            "W 1912 roku Alfred Wegener powiedział, że kontynenty były kiedyś połączone.",
+            "Niewielu mu wierzyło aż do lat pięćdziesiątych XX wieku (the 1950s)."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a camada exterior da Terra, fina e sólida, onde vivemos (crust, crosta)",
+            "a camada espessa de rocha muito quente debaixo da crosta (mantle, manto)",
+            "o movimento lento e circular de material quente a subir e de material mais frio a descer (convection current, corrente de convecção)",
+            "uma das enormes lajes de crosta e de manto superior que encaixam como um puzzle/quebra-cabeça (tectonic plate, placa tectónica/tectônica)",
+            "uma placa com oceano por cima, feita de rocha mais densa (oceanic plate, placa oceânica)",
+            "uma placa com terra por cima, feita de rocha mais leve (continental plate, placa continental)"
+          ],
+          "passage": [
+            "A Terra tem cerca de 4.54 mil milhões/bilhões de anos.",
+            "Os cientistas descobriram isto estudando as rochas.",
+            "A Terra tem camadas.",
+            "A camada exterior, fina, é a crosta.",
+            "Debaixo dela está o manto, uma camada espessa de rocha muito quente.",
+            "No centro estão o núcleo externo e o núcleo interno.",
+            "A crosta e o topo do manto estão partidos em pedaços enormes chamados placas tectónicas/tectônicas.",
+            "Encaixam como um puzzle/quebra-cabeça irregular.",
+            "A rocha quente do manto sobe, espalha-se, arrefece/esfria e desce.",
+            "Estas correntes de convecção (convection currents) movem as placas muito lentamente.",
+            "As placas oceânicas são mais densas do que as placas continentais.",
+            "Em 1912 Alfred Wegener disse que os continentes já tinham estado unidos.",
+            "Poucas pessoas acreditaram nele até aos anos 1950."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "lakabka dibadda ee khafiifka oo adag ee Dhulka oo aan ku noolnahay",
+            "lakabka qaro weyn ee dhagax aad u kulul oo crust-ka hoostiisa yaal",
+            "socodka tartiib ah oo wareegaya ee walxaha kulul ay kacaan oo kuwa qabow hoos u degaan",
+            "mid ka mid ah dhejisyada waaweyn ee crust-ka iyo mantle-ka sare oo sida jigsaw isugu habboon",
+            "plate badweyn ku dul yaal, oo laga sameeyay dhagax ka cufan",
+            "plate dhul ku dul yaal, oo laga sameeyay dhagax ka fudud"
+          ],
+          "passage": [
+            "Dhulku wuxuu jiraa qiyaastii 4.54 bilyan oo sano.",
+            "Saynisyahannadu tan waxay ku ogaadeen baritaanka dhagaxyada.",
+            "Dhulku wuxuu leeyahay lakabyo.",
+            "Lakabka dibadda ee khafiifka waa crust-ka.",
+            "Hoostiisa waa mantle-ka, oo ah lakab qaro weyn oo dhagax aad u kulul ah.",
+            "Dhexda waxaa yaalla outer core-ka iyo inner core-ka.",
+            "Crust-ka iyo mantle-ka sare waxaa loo kala jabiyay qaybo waaweyn oo la yiraahdo tectonic plates.",
+            "Waxay isugu habboon yihiin sidii jigsaw aan siman.",
+            "Dhagaxa kulul ee mantle-ka ku jira wuu kacaa, wuu fidaa, wuu qaboowdaa oo wuu hoos u degaa.",
+            "Convection currents-kan waxay plates-ka si aad u gaabis ah u dhaqaajiyaan.",
+            "Oceanic plates way ka cufan yihiin continental plates.",
+            "1912-kii Alfred Wegener wuxuu yiri qaaraduhu mar hore way isku xirnaayeen.",
+            "Dad yar ayaa rumeeyay ilaa 1950-meeyadii."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "тонкий твердий зовнішній шар Землі, на якому ми живемо (crust)",
+            "товстий шар дуже гарячої породи під корою (mantle)",
+            "повільний круговий рух, у якому гарячий матеріал піднімається, а холодніший опускається (convection current)",
+            "одна з величезних плит кори і верхньої мантії, які складаються разом, наче пазл (tectonic plate)",
+            "плита, на якій лежить океан, із щільнішої породи (oceanic plate)",
+            "плита, на якій лежить суходіл, із легшої породи (continental plate)"
+          ],
+          "passage": [
+            "Землі приблизно 4.54 мільярда років.",
+            "Науковці з’ясували це, вивчаючи породи.",
+            "Земля має шари.",
+            "Тонкий зовнішній шар — це кора.",
+            "Під нею мантія, товстий шар дуже гарячої породи.",
+            "У центрі — зовнішнє ядро і внутрішнє ядро.",
+            "Кора і верх мантії розбиті на величезні частини, які називають тектонічними плитами.",
+            "Вони складаються разом, наче нерівний пазл.",
+            "Гаряча порода в мантії піднімається, розтікається, охолоджується й опускається.",
+            "Ці конвекційні течії (convection currents) рухають плити дуже повільно.",
+            "Океанічні плити щільніші за континентальні.",
+            "У 1912 році Альфред Веґенер (Alfred Wegener) сказав, що континенти колись були з’єднані разом.",
+            "Мало хто вірив йому до 1950-х років."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زمین کی پتلی، ٹھوس بیرونی تہہ جس پر ہم رہتے ہیں (crust)",
+            "crust کے نیچے بہت گرم چٹان کی موٹی تہہ (mantle)",
+            "گرم مادے کے اوپر اٹھنے اور ٹھنڈے مادے کے نیچے بیٹھنے کی آہستہ گول حرکت (convection current)",
+            "crust اور اوپر کے mantle کے اُن بہت بڑے تختوں میں سے ایک جو جگ سا پزل کی طرح آپس میں جڑے ہیں (tectonic plate)",
+            "وہ plate جس کے اوپر سمندر ہو، اور جو زیادہ کثیف چٹان سے بنی ہو (oceanic plate)",
+            "وہ plate جس کے اوپر خشکی ہو، اور جو ہلکی چٹان سے بنی ہو (continental plate)"
+          ],
+          "passage": [
+            "زمین تقریباً 4.54 ارب سال پرانی ہے۔",
+            "سائنس دانوں نے چٹانوں کا مطالعہ کر کے یہ معلوم کیا۔",
+            "زمین کی تہیں ہیں۔",
+            "پتلی بیرونی تہہ crust ہے۔",
+            "اس کے نیچے mantle ہے، بہت گرم چٹان کی ایک موٹی تہہ۔",
+            "بیچ میں outer core اور inner core ہیں۔",
+            "crust اور mantle کا اوپر کا حصہ بہت بڑے ٹکڑوں میں ٹوٹا ہوا ہے، جنھیں tectonic plates کہتے ہیں۔",
+            "یہ ایک بے ترتیب جگ سا پزل کی طرح آپس میں جڑے ہیں۔",
+            "mantle کی گرم چٹان اوپر اٹھتی ہے، پھیلتی ہے، ٹھنڈی ہوتی ہے اور نیچے بیٹھ جاتی ہے۔",
+            "یہی convection currents، plates کو بہت آہستہ سرکاتے ہیں۔",
+            "oceanic plates، continental plates سے زیادہ کثیف ہوتی ہیں۔",
+            "1912 میں الفریڈ ویگنر (Alfred Wegener) نے کہا کہ براعظم ایک زمانے میں آپس میں جڑے ہوئے تھے۔",
+            "1950 کی دہائی تک بہت کم لوگ ان کی بات مانتے تھے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "How old is the Earth?",
@@ -532,8 +852,168 @@ window.ASTRA_UNITS["geog-tectonic-hazards"] = {
           "At a collision boundary two continental plates meet head on.",
           "They are pushed up into fold mountains like the Himalayas.",
           "There are earthquakes but no volcanoes."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "دفع صفيحة إلى أسفل تحت صفيحة أخرى إلى الوشاح (subduction)",
+            "صخر منصهر تحت السطح (magma)",
+            "وادٍ عميق في قاع البحر حيث تنثني الصفيحة إلى أسفل (ocean trench)",
+            "جبال تكوّنت بدفع الصفائح القشرة إلى أعلى (fold mountains)",
+            "شقّ في القشرة تنزلق عنده كتلتا صخر إحداهما بجانب الأخرى (fault)",
+            "سلسلة جبال طويلة تحت الماء تتكوّن عندها قشرة جديدة (ocean ridge)"
+          ],
+          "passage": [
+            "لحدود الصفائح أربعة أنواع.",
+            "فعند الحدّ البنّاء تتباعد صفيحتان.",
+            "فترتفع الصهارة في الفُرجة وتبرد فتصنع قشرة جديدة.",
+            "وحيد وسط الأطلسي (Mid-Atlantic Ridge) يمرّ بأيسلندا.",
+            "وعند الحدّ الهدّام تلتقي صفيحة محيطية بصفيحة قارّية.",
+            "فتُدفع الصفيحة المحيطية الأكثف إلى أسفل وتُدمَّر.",
+            "وهذا يصنع براكين وزلازل، كما في الأنديز وتشيلي.",
+            "وعند الحدّ المحافظ تنزلق صفيحتان إحداهما بجانب الأخرى.",
+            "فتتشابكان ويتراكم الضغط، ثم تنتفضان فيحدث زلزال.",
+            "وصدع سان أندرياس (San Andreas Fault) في كاليفورنيا واحد منها.",
+            "وعند حدّ التصادم تلتقي صفيحتان قارّيتان وجهًا لوجه.",
+            "فتُدفعان إلى أعلى فتصيران جبالًا التوائية كالهيمالايا.",
+            "وفيها زلازل ولكن لا براكين."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "wciskanie jednej płyty pod drugą, w głąb płaszcza (subduction)",
+            "stopiona skała pod powierzchnią (magma)",
+            "głęboka dolina w dnie morza, gdzie płyta zagina się w dół (ocean trench)",
+            "góry powstałe przez wypychanie skorupy w górę przez płyty (fold mountains)",
+            "pęknięcie w skorupie, gdzie dwa bloki skał przesuwają się obok siebie (fault)",
+            "długi podwodny łańcuch górski, w którym powstaje nowa skorupa (ocean ridge)"
+          ],
+          "passage": [
+            "Są cztery rodzaje granic płyt.",
+            "Na granicy konstruktywnej dwie płyty rozsuwają się od siebie.",
+            "Magma wznosi się w szczelinę i stygnie, tworząc nową skorupę.",
+            "Grzbiet Śródatlantycki (Mid-Atlantic Ridge) przechodzi przez Islandię.",
+            "Na granicy destruktywnej płyta oceaniczna spotyka płytę kontynentalną.",
+            "Gęstsza płyta oceaniczna jest wciskana w dół i niszczona.",
+            "Tak powstają wulkany i trzęsienia ziemi, jak w Andach i w Chile.",
+            "Na granicy konserwatywnej dwie płyty przesuwają się obok siebie.",
+            "Zacinają się, rośnie napięcie, a potem szarpią, co wywołuje trzęsienie ziemi.",
+            "Takim miejscem jest uskok San Andreas w Kalifornii.",
+            "Na granicy kolizyjnej dwie płyty kontynentalne spotykają się czołowo.",
+            "Zostają wypchnięte w górę w góry fałdowe, takie jak Himalaje.",
+            "Są tam trzęsienia ziemi, ale nie ma wulkanów."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "uma placa a ser forçada para baixo, por baixo de outra, até ao manto (subduction, subducção)",
+            "rocha derretida que está debaixo da superfície (magma)",
+            "um vale profundo no fundo do mar, onde uma placa se dobra para baixo (ocean trench, fossa oceânica)",
+            "montanhas feitas pelas placas que empurram a crosta para cima (fold mountains, montanhas de dobramento)",
+            "uma fenda na crosta onde dois blocos de rocha deslizam um pelo outro (fault, falha)",
+            "uma longa cadeia de montanhas debaixo do mar, onde se forma crosta nova (ocean ridge, dorsal oceânica)"
+          ],
+          "passage": [
+            "Há quatro tipos de limite de placas (plate boundary).",
+            "Num limite construtivo, duas placas afastam-se.",
+            "O magma sobe para o espaço aberto e arrefece/esfria, formando crosta nova.",
+            "A dorsal Meso-Atlântica (Mid-Atlantic Ridge) atravessa a Islândia.",
+            "Num limite destrutivo, uma placa oceânica encontra uma placa continental.",
+            "A placa oceânica, mais densa, é forçada para baixo e destruída.",
+            "Isto forma vulcões e sismos/terremotos, como nos Andes e no Chile.",
+            "Num limite conservativo, duas placas deslizam uma pela outra.",
+            "Elas prendem-se, a pressão acumula-se e depois dão um salto, causando um sismo/terremoto.",
+            "A falha de San Andreas, na Califórnia, é um destes limites.",
+            "Num limite de colisão, duas placas continentais encontram-se de frente.",
+            "São empurradas para cima e formam montanhas de dobramento, como os Himalaias.",
+            "Há sismos/terremotos, mas não há vulcões."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "plate oo lagu qasbo inuu mid kale hoos uga galo mantle-ka",
+            "dhagax dhalaalay oo dusha hoosteeda ku jira",
+            "dooxo mool dheer oo salka badda ku jira halkaasoo plate-ku hoos u qalloocdo",
+            "buuro laga sameeyay plates oo crust-ka kor u riixaya",
+            "dildillaac crust-ka ku jira oo laba dhejis dhagax ah isku dhaafaan",
+            "silsilad buuro dheer oo badda hoostiisa ah halkaasoo crust cusub ka samaysmo"
+          ],
+          "passage": [
+            "Afar nooc oo plate boundary ah ayaa jira.",
+            "Constructive boundary laba plate way kala fogaadaan.",
+            "Magma wuxuu godka kor ugu kacaa oo wuu qaboowdaa si uu crust cusub u sameeyo.",
+            "Mid-Atlantic Ridge wuxuu dhex maraa Iceland.",
+            "Xadka destructive boundary, oceanic plate wuxuu kula kulmaa continental plate.",
+            "Oceanic plate-ka ka cufan waxaa hoos loo riixaa oo waa la baabbi'iyaa.",
+            "Tan waxay samaysaa foolkaano iyo dhulgariirro, sida Andes iyo Chile.",
+            "Conservative boundary laba plate way isku dhaafaan.",
+            "Way is qabsadaan, cadaadis wuu kordhaa, kadibna way ruxmaan, taasoo dhulgariir keenta.",
+            "San Andreas Fault ee California waa mid.",
+            "Collision boundary laba continental plate ayaa madax-ku-madax isku yimaadda.",
+            "Waxaa kor loo riixaa oo fold mountains waxay noqdaan sida Buuraha Himalaya.",
+            "Dhulgariirro way jiraan laakiin foolkaano ma jiro."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "одна плита втискається вниз під іншу в мантію (subduction)",
+            "розплавлена порода під поверхнею (magma)",
+            "глибока долина на дні моря, де плита загинається вниз (ocean trench)",
+            "гори, утворені плитами, які виштовхують кору вгору (fold mountains)",
+            "тріщина в корі, де два блоки породи зсуваються один відносно одного (fault)",
+            "довгий підводний гірський ланцюг, де утворюється нова кора (ocean ridge)"
+          ],
+          "passage": [
+            "Є чотири види межі плит.",
+            "На конструктивній межі дві плити розходяться.",
+            "Магма піднімається в розрив і охолоджується, утворюючи нову кору.",
+            "Серединно-Атлантичний хребет проходить через Ісландію.",
+            "На деструктивній межі океанічна плита зустрічається з континентальною.",
+            "Щільнішу океанічну плиту втискає вниз, і вона руйнується.",
+            "Через це утворюються вулкани і землетруси, як-от Анди і Чилі.",
+            "На консервативній межі дві плити зсуваються одна відносно одної.",
+            "Вони зчіплюються, тиск наростає, а потім вони смикаються, спричиняючи землетрус.",
+            "Розлом Сан-Андреас (San Andreas Fault) у Каліфорнії — саме такий.",
+            "На межі зіткнення дві континентальні плити сходяться лоб у лоб.",
+            "Їх виштовхує вгору у складчасті гори, як-от Гімалаї.",
+            "Там бувають землетруси, але немає вулканів."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ایک plate کا دوسری کے نیچے دب کر mantle میں چلا جانا (subduction)",
+            "سطح کے نیچے پگھلی ہوئی چٹان (magma)",
+            "سمندر کی تہہ میں گہری وادی، جہاں کوئی plate نیچے مڑ جاتی ہے (ocean trench)",
+            "وہ پہاڑ جو plates کے crust کو اوپر دھکیلنے سے بنتے ہیں (fold mountains)",
+            "crust میں ایک دراز جہاں چٹان کے دو حصے ایک دوسرے کے پاس سے سرکتے ہیں (fault)",
+            "پانی کے نیچے پہاڑوں کی ایک لمبی قطار جہاں نئی crust بنتی ہے (ocean ridge)"
+          ],
+          "passage": [
+            "plate boundary کی چار قسمیں ہیں۔",
+            "constructive boundary پر دو plates ایک دوسرے سے دور ہٹتی ہیں۔",
+            "magma اس خلا میں اوپر آتی ہے اور ٹھنڈی ہو کر نئی crust بناتی ہے۔",
+            "Mid-Atlantic Ridge آئس لینڈ میں سے گزرتا ہے۔",
+            "destructive boundary پر ایک oceanic plate کسی continental plate سے ملتی ہے۔",
+            "زیادہ کثیف oceanic plate نیچے دھکیل دی جاتی ہے اور ختم ہو جاتی ہے۔",
+            "اس سے آتش فشاں اور زلزلے بنتے ہیں، جیسے Andes اور چلی میں۔",
+            "conservative boundary پر دو plates ایک دوسرے کے پاس سے سرکتی ہیں۔",
+            "یہ پھنس جاتی ہیں، دباؤ بڑھتا ہے، اور پھر جھٹکے سے ہلتی ہیں، جس سے زلزلہ آتا ہے۔",
+            "کیلیفورنیا میں San Andreas Fault ایسی ہی ایک جگہ ہے۔",
+            "collision boundary پر دو continental plates آمنے سامنے ٹکراتی ہیں۔",
+            "یہ اوپر دھکیل دی جاتی ہیں اور ہمالیہ جیسے fold mountains بن جاتے ہیں۔",
+            "وہاں زلزلے آتے ہیں مگر آتش فشاں نہیں ہوتے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Constructive boundaries: plates moving apart",
@@ -753,8 +1233,168 @@ window.ASTRA_UNITS["geog-tectonic-hazards"] = {
           "Smaller earthquakes called aftershocks follow the main one.",
           "An undersea earthquake can set off a tsunami.",
           "The biggest earthquakes are not always the deadliest."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مدى قوّة الزلزال، ويُقاس على مقياس ريختر (magnitude)",
+            "المقياس الذي يقيس قوّة الزلزال (Richter scale)",
+            "المقياس الذي يقيس شدّة الزلزال، أي أثره في الناس والأبنية (Mercalli scale)",
+            "الجهاز الذي يسجّل اهتزاز الأرض (seismometer)",
+            "السجلّ الذي يرسمه مقياس الزلازل للموجات الزلزالية (seismogram)",
+            "موجة بحرية ضخمة يُطلقها زلزال تحت البحر (tsunami)"
+          ],
+          "passage": [
+            "الزلزال اهتزاز قشرة الأرض.",
+            "وهو يحدث عندما تتحرّك الصفائح.",
+            "وقد تتشابك الصفائح، فيتراكم الضغط.",
+            "وعندما يُطلَق الضغط تهتزّ الأرض.",
+            "والبؤرة هي النقطة تحت الأرض التي يبدأ عندها الزلزال.",
+            "والمركز السطحي هو النقطة على السطح فوق البؤرة مباشرةً.",
+            "والاهتزاز يُحَسّ عادةً أقوى ما يكون عند المركز السطحي.",
+            "ومقياس الزلازل (seismometer) يسجّل الاهتزاز مخطّطًا زلزاليًّا.",
+            "ومقياس ريختر (Richter) يقيس قوّة الزلزال، أي قدره.",
+            "ومقياس مركالي (Mercalli) يقيس شدّته، أي أثره في الناس.",
+            "وتتبع الزلزالَ الرئيس زلازل أصغر تُسمّى التوابع.",
+            "والزلزال تحت البحر قد يُطلق تسونامي.",
+            "وأكبر الزلازل ليست دائمًا أكثرها فتكًا."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "jak silne jest trzęsienie ziemi, mierzone w skali Richtera (magnitude)",
+            "skala, która mierzy siłę trzęsienia ziemi (Richter scale)",
+            "skala, która mierzy intensywność trzęsienia ziemi, czyli jego wpływ na ludzi i budynki (Mercalli scale)",
+            "przyrząd, który zapisuje drgania gruntu (seismometer)",
+            "zapis fal sejsmicznych narysowany przez sejsmometr (seismogram)",
+            "ogromna fala morska wywołana trzęsieniem ziemi pod wodą (tsunami)"
+          ],
+          "passage": [
+            "Trzęsienie ziemi to drżenie skorupy ziemskiej.",
+            "Zdarza się, kiedy płyty się przesuwają.",
+            "Płyty mogą się zaciąć, więc rośnie napięcie.",
+            "Kiedy napięcie zostaje uwolnione, grunt drży.",
+            "Ognisko (focus) to punkt pod ziemią, w którym zaczyna się trzęsienie.",
+            "Epicentrum (epicentre) to punkt na powierzchni dokładnie nad ogniskiem.",
+            "Drgania czuje się zwykle najmocniej w epicentrum.",
+            "Sejsmometr zapisuje drgania jako sejsmogram.",
+            "Skala Richtera mierzy siłę, czyli magnitudę trzęsienia ziemi.",
+            "Skala Mercallego mierzy jego intensywność, czyli wpływ na ludzi.",
+            "Po głównym wstrząsie następują słabsze trzęsienia zwane wstrząsami wtórnymi.",
+            "Trzęsienie ziemi pod morzem może wywołać tsunami.",
+            "Największe trzęsienia ziemi nie zawsze są najbardziej zabójcze."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a força de um sismo/terremoto, medida na escala de Richter (magnitude)",
+            "a escala que mede a força de um sismo/terremoto (Richter scale, escala de Richter)",
+            "a escala que mede a intensidade de um sismo, o seu impacto nas pessoas e nos edifícios (Mercalli scale, escala de Mercalli)",
+            "o aparelho que registra/regista o tremor do solo (seismometer, sismómetro/sismômetro)",
+            "o registo/registro das ondas sísmicas desenhado por um sismómetro (seismogram, sismograma)",
+            "uma onda gigante do mar provocada por um sismo debaixo do mar (tsunami)"
+          ],
+          "passage": [
+            "Um sismo/terremoto é o tremor da crosta da Terra.",
+            "Acontece quando as placas se movem.",
+            "As placas podem prender-se uma à outra, por isso a pressão acumula-se.",
+            "Quando a pressão é libertada/liberada, o solo abana.",
+            "O foco é o ponto, debaixo do solo, onde o sismo começa.",
+            "O epicentro é o ponto na superfície diretamente por cima do foco.",
+            "O tremor sente-se normalmente com mais força no epicentro.",
+            "Um sismómetro/sismômetro regista/registra o tremor como um sismograma.",
+            "A escala de Richter mede a força, ou magnitude, de um sismo/terremoto.",
+            "A escala de Mercalli mede a sua intensidade, o impacto nas pessoas.",
+            "Depois do sismo principal vêm sismos mais pequenos, chamados tremores secundários (aftershocks).",
+            "Um sismo debaixo do mar pode provocar um tsunami.",
+            "Os sismos maiores não são sempre os mais mortíferos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sida dhulgariir u xoog leh, oo lagu cabbiro Richter scale",
+            "cabbirka qiyaasa xooggii dhulgariir",
+            "cabbirka qiyaasa darnaanta dhulgariir, oo ah saameyntiisa dadka iyo dhismayaasha",
+            "qalabka duuba ruxitaanka dhulka",
+            "diiwaanka seismic waves ee seismometer sawiro",
+            "mawjad badeed aad u weyn oo dhulgariir badda hoostiisa ka kacay"
+          ],
+          "passage": [
+            "Dhulgariir waa ruxitaanka crust-ka Dhulka.",
+            "Wuxuu dhacaa marka plates-ku dhaqaaqaan.",
+            "Plates way is qabsan karaan, markaa cadaadis wuu kordhaa.",
+            "Marka cadaadiska la sii daayo, dhulku wuu ruxmaa.",
+            "Focus-ku waa barta dhulka hoostiisa halkaasoo dhulgariirku ka bilaabmo.",
+            "Epicentre-ku waa barta dusha sare oo focus-ka si toos ah ka korreysa.",
+            "Ruxitaanka inta badan aadka looga dareemaa epicentre-ka.",
+            "Seismometer wuxuu ruxitaanka u duubaa seismogram.",
+            "Richter scale wuxuu cabbiraa xooggii, ama magnitude-ka, dhulgariir.",
+            "Mercalli scale wuxuu cabbiraa darnaantiisa, oo ah saameynta dadka.",
+            "Dhulgariirro yaryar oo la yiraahdo aftershocks ayaa kii weyn ka daba yimaadda.",
+            "Dhulgariir badda hoostiisa wuxuu tsunami kicin karaa.",
+            "Dhulgariirrada ugu waaweyn had iyo jeer kuwa ugu dilaa badan maaha."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "наскільки сильний землетрус, виміряний за шкалою Рихтера (magnitude)",
+            "шкала, яка вимірює силу землетрусу (Richter scale)",
+            "шкала, яка вимірює інтенсивність землетрусу, тобто його вплив на людей і будівлі (Mercalli scale)",
+            "прилад, який записує тряску землі (seismometer)",
+            "запис сейсмічних хвиль, зроблений сейсмометром (seismogram)",
+            "величезна морська хвиля, яку спричиняє підводний землетрус (tsunami)"
+          ],
+          "passage": [
+            "Землетрус — це тряска земної кори.",
+            "Він відбувається, коли рухаються плити.",
+            "Плити можуть зчіплюватися, тому тиск наростає.",
+            "Коли тиск вивільняється, земля трясеться.",
+            "Фокус (focus) — це точка під землею, де землетрус починається.",
+            "Епіцентр (epicentre) — це точка на поверхні прямо над фокусом.",
+            "Тряску зазвичай відчувають найсильніше в епіцентрі.",
+            "Сейсмометр записує тряску як сейсмограму.",
+            "Шкала Рихтера вимірює силу, або магнітуду (magnitude), землетрусу.",
+            "Шкала Меркаллі вимірює його інтенсивність, тобто вплив на людей.",
+            "Після головного землетрусу йдуть слабші, які називають афтершоками.",
+            "Підводний землетрус може спричинити цунамі.",
+            "Найбільші землетруси не завжди найсмертоносніші."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "زلزلہ کتنا زوردار ہے، جو Richter scale پر ناپا جاتا ہے (magnitude)",
+            "وہ پیمانہ جو زلزلے کی طاقت ناپتا ہے (Richter scale)",
+            "وہ پیمانہ جو زلزلے کی شدت، یعنی لوگوں اور عمارتوں پر اس کا اثر ناپتا ہے (Mercalli scale)",
+            "وہ آلہ جو زمین کے ہلنے کو ریکارڈ کرتا ہے (seismometer)",
+            "seismometer کا بنایا ہوا seismic waves کا ریکارڈ (seismogram)",
+            "سمندر کے نیچے آنے والے زلزلے سے اٹھنے والی ایک بہت بڑی سمندری لہر (tsunami)"
+          ],
+          "passage": [
+            "زلزلہ زمین کی crust کا ہلنا ہے۔",
+            "یہ اس وقت آتا ہے جب plates سرکتی ہیں۔",
+            "plates آپس میں پھنس سکتی ہیں، جس سے دباؤ بڑھتا جاتا ہے۔",
+            "جب یہ دباؤ نکلتا ہے تو زمین ہلتی ہے۔",
+            "focus زمین کے نیچے وہ نقطہ ہے جہاں سے زلزلہ شروع ہوتا ہے۔",
+            "epicentre سطح پر وہ نقطہ ہے جو بالکل focus کے اوپر ہوتا ہے۔",
+            "ہلنا عموماً epicentre پر سب سے زیادہ محسوس ہوتا ہے۔",
+            "seismometer اس ہلنے کو seismogram کی صورت میں ریکارڈ کرتا ہے۔",
+            "Richter scale زلزلے کی طاقت، یعنی magnitude، ناپتا ہے۔",
+            "Mercalli scale اس کی شدت، یعنی لوگوں پر اثر، ناپتا ہے۔",
+            "بڑے زلزلے کے بعد چھوٹے زلزلے آتے ہیں، جنھیں aftershocks کہتے ہیں۔",
+            "سمندر کے نیچے آنے والا زلزلہ tsunami اٹھا سکتا ہے۔",
+            "سب سے بڑے زلزلے ہمیشہ سب سے جان لیوا نہیں ہوتے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What causes an earthquake?",
@@ -969,8 +1609,168 @@ window.ASTRA_UNITS["geog-tectonic-hazards"] = {
           "The weaker earthquake killed far more people.",
           "Chile could afford strong buildings and planning. Nepal could not.",
           "Wealth makes the biggest difference to how badly a country is hurt."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "بلد مرتفع الدخل، أي بلد غنيّ كتشيلي أو اليابان (HIC)",
+            "بلد منخفض الدخل، أي بلد فقير كنيبال (LIC)",
+            "مثال حقيقي تدرسه بالتفصيل لتستخدمه في أجوبة الامتحان (case study)",
+            "شيء يفعله الخطر بالناس أو الممتلكات أو البيئة (effect)",
+            "المساعدة التي تُقدَّم بعد الخطر لتقليل آثاره (response)",
+            "العودة إلى الحياة الطبيعية بعد الخطر (recovery)"
+          ],
+          "passage": [
+            "آثار الزلزال قد تكون أوّلية أو ثانوية.",
+            "فالآثار الأوّلية تحدث في الحال، كانهيار الأبنية.",
+            "والآثار الثانوية تسبّبها الآثار الأوّلية، كالتسونامي أو المرض.",
+            "والاستجابات هي المساعدة التي تُقدَّم بعد الخطر.",
+            "فالاستجابات الفورية تأتي مباشرةً: البحث والإنقاذ والمآوي واللوازم الطبّية.",
+            "والاستجابات طويلة الأجل تأخذ شهورًا أو سنوات: إعادة بناء البيوت والطرق والمدارس.",
+            "وتشيلي بلد مرتفع الدخل. وكان قدر زلزالها في 2010 يبلغ 8.8.",
+            "ومات نحو 500 شخص وكلّف الضرر 30 مليار دولار.",
+            "ونيبال بلد منخفض الدخل. وكان قدر زلزالها في 2015 يبلغ 7.9.",
+            "ومات نحو 9000 شخص وكلّف الضرر 5 مليارات دولار.",
+            "فالزلزال الأضعف قتل ناسًا أكثر كثيرًا.",
+            "وتشيلي كانت تستطيع أن تتحمّل كلفة أبنية قويّة وتخطيط. ونيبال لم تستطع.",
+            "فالثروة تصنع أكبر فرق في مدى تضرّر البلد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kraj o wysokich dochodach, czyli kraj zamożny, taki jak Chile albo Japonia (HIC)",
+            "kraj o niskich dochodach, czyli kraj biedny, taki jak Nepal (LIC)",
+            "prawdziwy przykład, który poznaje się szczegółowo, żeby użyć go w odpowiedziach na egzaminie (case study)",
+            "coś, co zagrożenie robi ludziom, mieniu albo środowisku (effect)",
+            "pomoc udzielona po zagrożeniu, żeby zmniejszyć jego skutki (response)",
+            "powrót do normalnego życia po zagrożeniu (recovery)"
+          ],
+          "passage": [
+            "Skutki trzęsienia ziemi mogą być pierwotne albo wtórne.",
+            "Skutki pierwotne dzieją się natychmiast, jak zawalenie się budynków.",
+            "Skutki wtórne są wywołane przez skutki pierwotne, jak tsunami albo choroba.",
+            "Reakcje to pomoc udzielona po zagrożeniu.",
+            "Reakcje natychmiastowe przychodzą od razu: poszukiwania i ratownictwo, schronienia i środki medyczne.",
+            "Reakcje długofalowe trwają miesiące albo lata: odbudowa domów, dróg i szkół.",
+            "Chile jest krajem HIC. Jego trzęsienie ziemi w 2010 roku miało magnitudę 8.8.",
+            "Zginęło około 500 ludzi, a szkody kosztowały 30 miliardów dolarów.",
+            "Nepal jest krajem LIC. Jego trzęsienie ziemi w 2015 roku miało magnitudę 7.9.",
+            "Zginęło około 9000 ludzi, a szkody kosztowały 5 miliardów dolarów.",
+            "Słabsze trzęsienie ziemi zabiło o wiele więcej ludzi.",
+            "Chile mogło sobie pozwolić na mocne budynki i planowanie. Nepal nie mógł.",
+            "Zamożność najbardziej decyduje o tym, jak mocno kraj zostanie dotknięty."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um país de rendimento/renda alto, um país rico como o Chile ou o Japão (HIC)",
+            "um país de rendimento/renda baixo, um país pobre como o Nepal (LIC)",
+            "um exemplo real que estudas em detalhe para usar nas respostas do exame (case study, estudo de caso)",
+            "algo que o risco natural faz às pessoas, aos bens ou ao ambiente (effect, efeito)",
+            "a ajuda dada depois de um risco natural para reduzir os seus efeitos (response, resposta)",
+            "voltar à vida normal depois de um risco natural (recovery, recuperação)"
+          ],
+          "passage": [
+            "Os efeitos de um sismo/terremoto podem ser primários ou secundários.",
+            "Os efeitos primários acontecem logo, como os edifícios a desabar.",
+            "Os efeitos secundários são causados pelos efeitos primários, como um tsunami ou uma doença.",
+            "As respostas são a ajuda dada depois de um risco natural.",
+            "As respostas imediatas vêm logo: busca e salvamento, abrigos e material médico.",
+            "As respostas de longo prazo levam meses ou anos: reconstruir casas, estradas e escolas.",
+            "O Chile é um HIC. O seu sismo de 2010 teve magnitude 8.8.",
+            "Morreram cerca de 500 pessoas e os estragos custaram 30 mil milhões/bilhões de dólares.",
+            "O Nepal é um LIC. O seu sismo de 2015 teve magnitude 7.9.",
+            "Morreram cerca de 9000 pessoas e os estragos custaram 5 mil milhões/bilhões de dólares.",
+            "O sismo mais fraco matou muito mais pessoas.",
+            "O Chile podia pagar edifícios resistentes e planeamento/planejamento. O Nepal não podia.",
+            "É a riqueza que faz a maior diferença na gravidade com que um país é atingido."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dal dakhli sare leh, dal hodan ah sida Chile ama Jabaan",
+            "dal dakhli hooseeya leh, dal faqiir ah sida Nepal",
+            "tusaale dhab ah oo si qoto dheer aad u barato oo imtixaanka ku isticmaasho",
+            "wax khatartu ku samayso dadka, hantida ama deegaanka",
+            "caawimada la bixiyo khatarta ka dib si saameyntiisa loo yareeyo",
+            "ku soo noqoshada nolosha caadiga ah khatarta ka dib"
+          ],
+          "passage": [
+            "Saameynta dhulgariir waxay noqon kartaa primary ama secondary.",
+            "Saameynta primary isla markiiba way dhacdaa, sida dhismayaal dumaya.",
+            "Saameynta secondary waxaa keena saameynta primary, sida tsunami ama cudur.",
+            "Jawaabuhu waa caawimada la bixiyo khatarta ka dib.",
+            "Jawaabaha degdegga ah isla markiiba way yimaaddaan: baadi-goob iyo samatabbixin, hoy iyo sahay caafimaad.",
+            "Jawaabaha muddada dheer waxay qaataan bilo ama sanado: dhisidda guryaha, waddooyinka iyo iskuullada.",
+            "Chile waa HIC. Dhulgariirkeeda 2010-kii magnitude-kiisu wuxuu ahaa 8.8.",
+            "Qiyaastii 500 qof ayaa dhintay, waxyeelladuna waxay ku kacday 30 bilyan doollar.",
+            "Nepal waa LIC. Dhulgariirkeeda 2015-kii magnitude-kiisu wuxuu ahaa 7.9.",
+            "Qiyaastii 9000 qof ayaa dhintay, waxyeelladuna waxay ku kacday 5 bilyan doollar.",
+            "Dhulgariirkii ka tabar yaraa dad aad u badan ayuu dilay.",
+            "Chile waxay awooday dhismayaal adag iyo qorsheyn. Nepal way kari weyday.",
+            "Maalku wuxuu farqiga ugu weyn sameeyaa sida dal loo waxyeelleeyo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "країна з високим доходом, заможна країна, як-от Чилі або Японія (HIC)",
+            "країна з низьким доходом, бідна країна, як-от Непал (LIC)",
+            "справжній приклад, який ви вивчаєте докладно, щоб використати у відповідях на екзамені (case study)",
+            "те, що небезпека робить людям, майну або довкіллю (effect)",
+            "допомога, надана після небезпеки, щоб зменшити її наслідки (response)",
+            "повернення до звичайного життя після небезпеки (recovery)"
+          ],
+          "passage": [
+            "Наслідки землетрусу можуть бути первинними або вторинними.",
+            "Первинні наслідки настають відразу, як-от руйнування будівель.",
+            "Вторинні наслідки спричинені первинними, як-от цунамі або хвороба.",
+            "Дії у відповідь (responses) — це допомога, надана після небезпеки.",
+            "Негайні дії приходять відразу: пошук і порятунок, прихистки й медичні засоби.",
+            "Довготривалі дії тривають місяці або роки: відбудова житла, доріг і шкіл.",
+            "Чилі — це HIC. Її землетрус у 2010 році мав магнітуду 8.8.",
+            "Загинуло близько 500 людей, а шкода коштувала 30 мільярдів доларів.",
+            "Непал — це LIC. Його землетрус у 2015 році мав магнітуду 7.9.",
+            "Загинуло близько 9000 людей, а шкода коштувала 5 мільярдів доларів.",
+            "Слабший землетрус убив значно більше людей.",
+            "Чилі могла дозволити собі міцні будівлі й планування. Непал не міг.",
+            "Багатство найбільше впливає на те, наскільки сильно постраждає країна."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "اونچی آمدنی والا ملک، یعنی خوشحال ملک، جیسے چلی یا جاپان (HIC)",
+            "کم آمدنی والا ملک، یعنی غریب ملک، جیسے نیپال (LIC)",
+            "ایک حقیقی مثال جو آپ تفصیل سے پڑھتے ہیں تاکہ امتحان کے جواب میں استعمال کریں (case study)",
+            "وہ کام جو hazard لوگوں، املاک یا ماحول کے ساتھ کرتا ہے (effect)",
+            "hazard کے بعد دی جانے والی مدد، جو اس کے اثر کم کرے (response)",
+            "hazard کے بعد عام زندگی کی طرف واپس آنا (recovery)"
+          ],
+          "passage": [
+            "زلزلے کے effects بنیادی (primary) یا ضمنی (secondary) ہو سکتے ہیں۔",
+            "primary effects فوراً ہوتے ہیں، جیسے عمارتوں کا گر جانا۔",
+            "secondary effects، primary effects کی وجہ سے ہوتے ہیں، جیسے tsunami یا بیماری۔",
+            "responses، hazard کے بعد دی جانے والی مدد ہیں۔",
+            "immediate responses فوراً آتے ہیں: تلاش اور بچاؤ، عارضی رہائش اور طبی سامان۔",
+            "long-term responses میں مہینے یا سال لگتے ہیں: گھروں، سڑکوں اور سکولوں کی دوبارہ تعمیر۔",
+            "چلی ایک HIC ہے۔ 2010 میں اس کے زلزلے کی magnitude 8.8 تھی۔",
+            "تقریباً 500 لوگ فوت ہوئے اور نقصان کی لاگت 30 ارب ڈالر رہی۔",
+            "نیپال ایک LIC ہے۔ 2015 میں اس کے زلزلے کی magnitude 7.9 تھی۔",
+            "تقریباً 9000 لوگ فوت ہوئے اور نقصان کی لاگت 5 ارب ڈالر رہی۔",
+            "کمزور زلزلے نے بہت زیادہ لوگوں کی جان لی۔",
+            "چلی مضبوط عمارتوں اور منصوبہ بندی کا خرچ اٹھا سکتا تھا۔ نیپال نہیں اٹھا سکتا تھا۔",
+            "کسی ملک کو کتنا نقصان پہنچتا ہے، اس میں سب سے بڑا فرق دولت ڈالتی ہے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Primary and secondary effects",
@@ -1184,8 +1984,174 @@ window.ASTRA_UNITS["geog-tectonic-hazards"] = {
           "Planning means using hazard maps and practising what to do.",
           "Monitoring means watching for warning signs.",
           "Volcanoes can be predicted by monitoring; earthquakes still cannot."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "صالح لزراعة المحاصيل (fertile)",
+            "حرارة من داخل الأرض (geothermal)",
+            "مكان يرتفع عنده وشاح حارّ جدًّا تحت صفيحة، فيصنع براكين بعيدًا عن حدود الصفائح (hot spot)",
+            "عين تقذف ماءً حارًّا وبخارًا في الهواء (geyser)",
+            "خريطة تبيّن المناطق التي يُرجَّح أن يصيبها الخطر (hazard map)",
+            "نقل الناس بعيدًا عن الخطر قبل أن يضرب (evacuation)"
+          ],
+          "passage": [
+            "ملايين الناس يعيشون قرب البراكين.",
+            "فالرماد البركاني يجعل التربة خصبة، فالزراعة جيّدة.",
+            "والحرارة من تحت الأرض تعطي طاقة حرارية أرضية رخيصة.",
+            "والصخر البركاني يصنع موادّ بناء قويّة.",
+            "والبراكين تجلب السيّاح والأعمال.",
+            "وفي روتوروا (Rotorua) في نيوزيلندا يغذّي الماء الحارّ من تحت الأرض نوافير حارّة وبِرَكًا حارّة.",
+            "وقد حفر الناس آبارًا أكثر من اللازم فبدأت النوافير تتوقّف.",
+            "وعندما ضُبِط الحفر عادت إحدى النوافير إلى الحياة.",
+            "ويمكن تقليل خطر المخاطر التكتونية بأربع طرق.",
+            "فالتوقّع يعني أن تقول متى يحدث الخطر وأين.",
+            "والحماية تعني أن تبني بناءً ينجو به الناس والممتلكات.",
+            "والتخطيط يعني استخدام خرائط المخاطر والتدرّب على ما يجب عمله.",
+            "والرصد يعني مراقبة علامات الإنذار.",
+            "والبراكين يمكن توقّعها بالرصد، أمّا الزلازل فلا يمكن توقّعها بعد."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "dobry do uprawy roślin",
+            "ciepło z wnętrza Ziemi (geothermal)",
+            "miejsce, gdzie bardzo gorący płaszcz unosi się pod płytą i tworzy wulkany daleko od granicy płyt (hot spot)",
+            "źródło, które wyrzuca w powietrze gorącą wodę i parę (geyser)",
+            "mapa pokazująca, które obszary zagrożenie dotknie najprawdopodobniej (hazard map)",
+            "wywożenie ludzi z miejsca zagrożenia, zanim ono uderzy (evacuation)"
+          ],
+          "passage": [
+            "Miliony ludzi mieszkają blisko wulkanów.",
+            "Popiół wulkaniczny czyni glebę żyzną, więc uprawa dobrze się udaje.",
+            "Ciepło z głębi ziemi daje tanią energię geotermalną.",
+            "Skała wulkaniczna daje mocne materiały budowlane.",
+            "Wulkany przywożą turystów i dają pracę.",
+            "W Rotorua w Nowej Zelandii gorąca woda z głębi ziemi karmi gejzery i gorące sadzawki.",
+            "Ludzie wywiercili za dużo odwiertów i gejzery zaczęły zamierać.",
+            "Kiedy wiercenie ograniczono, jeden gejzer wrócił do życia.",
+            "Ryzyko zagrożeń tektonicznych można zmniejszyć na cztery sposoby.",
+            "Prognozowanie znaczy mówienie, kiedy i gdzie zagrożenie się zdarzy.",
+            "Zabezpieczanie znaczy budowanie tak, żeby ludzie i mienie przetrwali.",
+            "Planowanie znaczy korzystanie z map zagrożeń i ćwiczenie, co robić.",
+            "Obserwowanie znaczy wypatrywanie znaków ostrzegawczych.",
+            "Wulkany można przewidzieć przez obserwację, a trzęsień ziemi nadal nie można."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "bom para cultivar plantas (fertile, fértil)",
+            "calor que vem do interior da Terra (geothermal, geotérmico)",
+            "um lugar onde manto muito quente sobe por baixo de uma placa e forma vulcões longe de um limite (hot spot, ponto quente)",
+            "uma nascente que lança água quente e vapor para o ar (geyser, géiser)",
+            "um mapa que mostra quais são as áreas que um risco natural tem mais probabilidade de afetar (hazard map)",
+            "levar as pessoas para fora do perigo antes de um risco natural acontecer (evacuation, evacuação)"
+          ],
+          "passage": [
+            "Há milhões de pessoas a viver perto de vulcões.",
+            "As cinzas vulcânicas tornam o solo fértil, por isso a agricultura é boa.",
+            "O calor do subsolo dá energia geotérmica barata.",
+            "A rocha vulcânica dá materiais de construção resistentes.",
+            "Os vulcões trazem turistas e empregos.",
+            "Em Rotorua, na Nova Zelândia, a água quente do subsolo alimenta géiseres e lagoas quentes.",
+            "As pessoas abriram poços a mais e os géiseres começaram a parar.",
+            "Quando a perfuração passou a ser controlada, um géiser voltou à vida.",
+            "O risco dos riscos naturais tectónicos/tectônicos pode ser reduzido de quatro maneiras.",
+            "A previsão é dizer quando e onde um risco natural vai acontecer.",
+            "A proteção é construir de maneira a que as pessoas e os bens sobrevivam.",
+            "O planeamento/planejamento é usar mapas de risco e treinar o que fazer.",
+            "A vigilância é estar atento aos sinais de aviso.",
+            "Os vulcões podem ser previstos com vigilância; os sismos/terremotos ainda não."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "u fiican beeridda dalagga",
+            "kulayl ka yimid Dhulka gudihiisa",
+            "meel ay mantle aad u kulul ay plate hoostiisa ka kacdo, taasoo foolkaano samaysa meel boundary ka fog",
+            "il biyo oo biyo kulul iyo uumi hawada kor ugu tuurta",
+            "khariidad muujinaysa meelaha khatartu ugu badan tahay inay saameyso",
+            "dadka laga saaro halis khatarta ka hor"
+          ],
+          "passage": [
+            "Malaayiin dad ayaa ku nool foolkaanaha agtooda.",
+            "Dambaska foolkaanaha wuxuu ciidda ka dhigaa barwaaqo, markaa beeridda way fiican tahay.",
+            "Kulaylka dhulka hoostiisa wuxuu bixiyaa tamar geothermal jaban.",
+            "Dhagaxa foolkaanaha wuxuu samaysaa alaab dhisme adag.",
+            "Foolkaanuhu waxay keenaan dalxiisayaal iyo shaqo.",
+            "Rotorua, ee New Zealand, biyo kulul oo dhulka hoostiisa ka yimid waxay quudiyaan geysers iyo balliyo kulul.",
+            "Dadku waxay qodeen godad aad u badan, geysers-kuna waxay bilaabeen inay joogsadaan.",
+            "Markii qodista la xakameeyay, geyser ayaa dib u soo noolaaday.",
+            "Khatarta tectonic hazards waxaa afar siyaabood lagu yareyn karaa.",
+            "Saadaalinta macnaheedu waa inaad sheegto goorta iyo meesha khatartu ka dhacayso.",
+            "Ilaalintu macnaheedu waa in si loo dhiso oo dadka iyo hantidu badbaadaan.",
+            "Qorsheyntu macnaheedu waa isticmaalka hazard maps iyo tababbarka waxa la sameeyo.",
+            "La socodku macnaheedu waa raadraaca calaamadaha digniinta.",
+            "Foolkaanaha waxaa lagu saadaalin karaa la socodka; dhulgariirrada weli lama saadaalin karo."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "добрий для вирощування врожаю (fertile)",
+            "тепло з глибин Землі (geothermal)",
+            "місце, де дуже гаряча мантія піднімається під плитою, утворюючи вулкани далеко від межі (hot spot)",
+            "джерело, яке вистрілює гарячу воду і пару в повітря (geyser)",
+            "карта, яка показує, на які райони небезпека найімовірніше подіє (hazard map)",
+            "виведення людей із небезпеки до того, як вона вдарить (evacuation)"
+          ],
+          "passage": [
+            "Мільйони людей живуть біля вулканів.",
+            "Вулканічний попіл робить ґрунт родючим, тому землеробство добре.",
+            "Тепло з-під землі дає дешеву геотермальну енергію.",
+            "Вулканічна порода дає міцні будівельні матеріали.",
+            "Вулкани приносять туристів і робочі місця.",
+            "У Роторуа (Rotorua) в Новій Зеландії гаряча вода з-під землі живить гейзери й гарячі озерця.",
+            "Люди пробурили надто багато свердловин, і гейзери почали зникати.",
+            "Коли буріння взяли під контроль, один гейзер повернувся до життя.",
+            "Ризик від тектонічних небезпек можна зменшити чотирма способами.",
+            "Прогноз означає сказати, коли і де небезпека станеться.",
+            "Захист означає будувати так, щоб люди й майно вціліли.",
+            "Планування означає використовувати карти небезпек і відпрацьовувати, що робити.",
+            "Спостереження означає пильнувати за ознаками попередження.",
+            "Вулкани можна передбачити спостереженням; землетруси досі не можна."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "فصلیں اگانے کے لیے اچھی (fertile)",
+            "زمین کے اندر سے آنے والی حرارت (geothermal)",
+            "وہ جگہ جہاں بہت گرم mantle کسی plate کے نیچے اوپر اٹھتا ہے، اور boundary سے دور آتش فشاں بناتا ہے (hot spot)",
+            "وہ چشمہ جو گرم پانی اور بھاپ ہوا میں اچھالتا ہے (geyser)",
+            "وہ نقشہ جو دکھاتا ہے کہ کون سے علاقے کسی hazard سے سب سے زیادہ متاثر ہو سکتے ہیں (hazard map)",
+            "hazard آنے سے پہلے لوگوں کو خطرے سے باہر لے جانا (evacuation)"
+          ],
+          "passage": [
+            "لاکھوں لوگ آتش فشانوں کے قریب رہتے ہیں۔",
+            "آتش فشاں کی راکھ مٹی کو زرخیز بناتی ہے، اس لیے کھیتی اچھی ہوتی ہے۔",
+            "زمین کے نیچے سے آنے والی حرارت سستی geothermal توانائی دیتی ہے۔",
+            "آتش فشانی چٹان سے مضبوط تعمیراتی مواد بنتا ہے۔",
+            "آتش فشاں سیر کرنے والوں اور روزگار کو لاتے ہیں۔",
+            "نیوزی لینڈ کے Rotorua میں زمین کے نیچے سے آنے والا گرم پانی geysers اور گرم تالابوں کو بھرتا ہے۔",
+            "لوگوں نے بہت زیادہ کنویں کھود لیے اور geysers رکنے لگے۔",
+            "جب کھدائی پر قابو پایا گیا تو ایک geyser دوبارہ زندہ ہو گیا۔",
+            "tectonic hazards کے خطرے کو چار طریقوں سے کم کیا جا سکتا ہے۔",
+            "prediction کا مطلب یہ بتانا ہے کہ کوئی hazard کب اور کہاں آئے گا۔",
+            "protection کا مطلب ایسی تعمیر ہے جس سے لوگ اور املاک بچ جائیں۔",
+            "planning کا مطلب hazard maps استعمال کرنا اور مشق کرنا ہے کہ کیا کرنا ہے۔",
+            "monitoring کا مطلب خطرے کی نشانیوں پر نظر رکھنا ہے۔",
+            "آتش فشانوں کی پیشین گوئی monitoring سے ہو سکتی ہے؛ زلزلوں کی اب بھی نہیں ہو سکتی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Living in the shadow of volcanoes",

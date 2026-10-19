@@ -100,8 +100,168 @@ window.ASTRA_UNITS["hist-british-empire-india"] = {
           "After the Emperor Aurangzeb died in 1707, the Mughal Empire broke apart.",
           "In 1757 the Company won the Battle of Plassey in Bengal.",
           "From then on, the Company was a ruler, not just a business."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "مجموعة من البلدان والمستعمرات يسيطر عليها بلد واحد قويّ (Empire)",
+            "بلد هو جزء من إمبراطورية ويسيطر عليه بلد آخر (colony)",
+            "أن يُسمح لشركة واحدة وحدها بالتجارة في مكان ما (monopoly)",
+            "موادّ وأشياء نافعة عند البلد، كالقطن والشاي (resources)",
+            "وثيقة من الملك تعطي شركةً حقوقًا خاصّة (Royal Charter)",
+            "أمير هندي كان يحكم منطقة بعد انهيار الإمبراطورية المغولية (Nawab)"
+          ],
+          "passage": [
+            "الإمبراطورية مجموعة من البلدان يحكمها بلد واحد قويّ.",
+            "وفي سنوات 1600 بدأت إنجلترا تبني إمبراطورية.",
+            "وكانت تريد الموارد والتجارة والقوّة.",
+            "ولم ترسل الحكومة سفنها هي.",
+            "بل تركت شركات خاصّة تستكشف وتتاجر عنها.",
+            "وأُنشئت شركة الهند الشرقية (East India Company) في 1600.",
+            "وأعطتها الملكة إليزابيث الأولى امتيازًا ملكيًّا.",
+            "وجعلها الامتياز الشركة الإنجليزية الوحيدة المسموح لها بالتجارة مع الهند.",
+            "وكانت الهند تحكمها الإمبراطورية المغولية الغنيّة القويّة.",
+            "وكان المغول يتركون الشركة تتاجر ما دامت تدفع الضرائب.",
+            "وبعد موت الإمبراطور أورنكزيب في 1707 تفكّكت الإمبراطورية المغولية.",
+            "وفي 1757 ربحت الشركة معركة بلاسي (Plassey) في البنغال.",
+            "ومن ذلك الحين صارت الشركة حاكمًا، لا عملًا تجاريًّا فقط."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "grupa krajów i kolonii kontrolowana przez jeden potężny kraj (Empire)",
+            "kraj, który jest częścią imperium i jest kontrolowany przez inny kraj (colony)",
+            "sytuacja, w której tylko jedna firma ma prawo prowadzić gdzieś interesy (monopoly)",
+            "przydatne materiały i rzeczy, które ma kraj, na przykład bawełna i herbata (resources)",
+            "dokument od monarchy, który daje firmie szczególne prawa (Royal Charter)",
+            "indyjski książę, który rządził regionem po rozpadzie imperium Mogołów (Nawab)"
+          ],
+          "passage": [
+            "Imperium to grupa krajów rządzona przez jeden potężny kraj.",
+            "W XVII wieku (the 1600s) Anglia zaczęła budować imperium.",
+            "Chciała zasobów, handlu i władzy.",
+            "Rząd nie wysyłał własnych statków.",
+            "Zamiast tego pozwolił prywatnym firmom odkrywać i handlować w jego imieniu.",
+            "East India Company powstała w 1600 roku.",
+            "Królowa Elizabeth I (Elżbieta I) dała jej Royal Charter, czyli przywilej królewski.",
+            "Ten przywilej uczynił ją jedyną angielską firmą, która mogła handlować z Indiami.",
+            "Indiami rządziło bogate i potężne imperium Mogołów.",
+            "Mogołowie pozwalali firmie handlować, dopóki płaciła podatki.",
+            "Po śmierci cesarza Aurangzeba w 1707 roku imperium Mogołów rozpadło się.",
+            "W 1757 roku firma wygrała bitwę pod Plassey w Bengalu.",
+            "Od tej pory firma była władcą, a nie tylko przedsiębiorstwem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um conjunto de países e colónias/colônias controlados por um país poderoso (Empire, Império)",
+            "um país que faz parte de um império e é controlado por outro país (colony, colónia/colônia)",
+            "quando só uma empresa é autorizada a fazer negócio num lugar (monopoly, monopólio)",
+            "materiais e bens úteis que um país tem, como o algodão e o chá (resources, recursos)",
+            "um documento do monarca que dá direitos especiais a uma companhia (Royal Charter, carta régia)",
+            "um príncipe indiano que governava uma região depois de o Império Mogol se desfazer (Nawab, nababo)"
+          ],
+          "passage": [
+            "Um império é um conjunto de países governados por um país poderoso.",
+            "Nos anos 1600, a Inglaterra começou a construir um império.",
+            "Queria recursos, comércio e poder.",
+            "O governo não enviava os seus próprios navios.",
+            "Em vez disso, deixava que companhias privadas explorassem e comerciassem por ele.",
+            "A East India Company foi criada em 1600.",
+            "A rainha Elizabeth I (Isabel I) deu-lhe uma carta régia.",
+            "A carta fez dela a única companhia inglesa autorizada a comerciar com a Índia.",
+            "A Índia era governada pelo rico e poderoso Império Mogol.",
+            "Os mogóis deixavam a Companhia comerciar desde que ela pagasse impostos.",
+            "Depois de o imperador Aurangzeb morrer, em 1707, o Império Mogol desfez-se.",
+            "Em 1757 a Companhia venceu a Batalha de Plassey, em Bengala.",
+            "A partir de então, a Companhia era um governante, e não só um negócio."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "koox dalal iyo gumaysiyo ah oo hal dal awood weyn leh xukumo",
+            "dal qayb ka ah boqortooyo oo dal kale xukumo",
+            "marka hal shirkad oo keliya loo ogolaado inay meel ganacsi ka sameyso",
+            "alaab iyo waxyaalo waxtar leh oo dal leeyahay, sida cudbiga iyo shaaha",
+            "warqad boqorka ka timid oo shirkad siisa xuquuq gaar ah",
+            "amiir Hindi ah oo gobol xukumay kadib markii Boqortooyadii Mughal burburtay"
+          ],
+          "passage": [
+            "Boqortooyo waa koox dalal ah oo hal dal awood weyn leh xukumo.",
+            "1600-meeyadii, England waxay bilaabatay inay boqortooyo dhisto.",
+            "Waxay rabtay kheyraad, ganacsi iyo awood.",
+            "Dowladdu maraakiibteeda ma dirin.",
+            "Taa beddelkeeda waxay u ogolaatay shirkado gaar loo leeyahay inay u sahamiyaan oo u ganacsadaan.",
+            "East India Company waxaa la aasaasay 1600-kii.",
+            "Boqorad Elizabeth I waxay siisay Royal Charter.",
+            "Charter-ku waxay ka dhigtay shirkadda Ingiriisi ee keliya oo loo ogol yahay inay Hindiya la ganacsato.",
+            "Hindiya waxaa xukumayay Boqortooyadii Mughal ee hodanka iyo awoodda weyn.",
+            "Mughals-ku waxay shirkadda u ogolaadeen inay ganacsato inta ay canshuur bixinayso.",
+            "Kadib markii Imbaraadoor Aurangzeb dhintay 1707-dii, Boqortooyadii Mughal way kala daatay.",
+            "1757-dii Shirkaddu waxay ku guulaysatay Dagaalkii Plassey ee Bengal.",
+            "Markaas ka dib, Shirkaddu waxay noqotay taliye, ee ma ahayn oo keliya ganacsi."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "група країн і колоній, яку контролює одна могутня країна (Empire)",
+            "країна, яка є частиною імперії і яку контролює інша країна (colony)",
+            "коли лише одній компанії дозволено вести справи в якомусь місці (monopoly)",
+            "корисні матеріали і речі, які має країна, як-от бавовна і чай (resources)",
+            "документ від монарха, що дає компанії особливі права (Royal Charter)",
+            "індійський князь, який правив регіоном після розпаду Могульської імперії (Nawab)"
+          ],
+          "passage": [
+            "Імперія — це група країн, якими править одна могутня країна.",
+            "У 1600-х роках Англія почала будувати імперію.",
+            "Вона хотіла ресурсів, торгівлі й влади.",
+            "Уряд не посилав власних кораблів.",
+            "Замість цього він дозволяв приватним компаніям досліджувати й торгувати замість нього.",
+            "Східноіндійську компанію (East India Company) заснували у 1600 році.",
+            "Королева Єлизавета I дала їй королівську грамоту (Royal Charter).",
+            "Грамота зробила її єдиною англійською компанією, якій дозволено торгувати з Індією.",
+            "Індією правила багата й могутня Могульська імперія.",
+            "Могули дозволяли Компанії торгувати, поки вона платила податки.",
+            "Після того як імператор Аурангзеб помер у 1707 році, Могульська імперія розпалася.",
+            "У 1757 році Компанія здобула перемогу в битві при Плессі (Plassey) у Бенгалії.",
+            "З того часу Компанія була правителем, а не просто справою."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ملکوں اور کالونیوں کا وہ مجموعہ جس پر ایک طاقتور ملک کا قابو ہو (Empire)",
+            "وہ ملک جو کسی سلطنت کا حصہ ہو اور جس پر دوسرا ملک قابو رکھے (colony)",
+            "جب کسی جگہ کاروبار کی اجازت صرف ایک ہی کمپنی کو ہو (monopoly)",
+            "وہ کارآمد مواد اور چیزیں جو کسی ملک کے پاس ہوں، جیسے روئی اور چائے (resources)",
+            "بادشاہ یا ملکہ کی طرف سے دی گئی وہ دستاویز جو کسی کمپنی کو خاص حق دیتی ہے (Royal Charter)",
+            "ہندوستانی نواب، جو مغلیہ سلطنت کے بکھرنے کے بعد کسی علاقے پر حکومت کرتا تھا (Nawab)"
+          ],
+          "passage": [
+            "Empire ملکوں کا وہ مجموعہ ہے جس پر ایک طاقتور ملک حکومت کرتا ہے۔",
+            "1600 کی دہائی میں انگلینڈ نے سلطنت بنانا شروع کی۔",
+            "اسے وسائل، تجارت اور طاقت چاہیے تھی۔",
+            "حکومت نے اپنے جہاز نہیں بھیجے۔",
+            "اس کے بجائے اس نے نجی کمپنیوں کو اپنی طرف سے سیر و دریافت اور تجارت کرنے دی۔",
+            "East India Company 1600 میں قائم ہوئی۔",
+            "ملکہ الزبتھ اوّل نے اسے Royal Charter دیا۔",
+            "اس Charter نے اسے واحد انگریز کمپنی بنا دیا جسے ہندوستان سے تجارت کی اجازت تھی۔",
+            "ہندوستان پر امیر اور طاقتور مغلیہ سلطنت کی حکومت تھی۔",
+            "مغلوں نے کمپنی کو تجارت کی اجازت دی، اس شرط پر کہ وہ ٹیکس دیتی رہے۔",
+            "1707 میں شہنشاہ اورنگزیب کی موت کے بعد مغلیہ سلطنت بکھر گئی۔",
+            "1757 میں کمپنی نے بنگال میں پلاسی کی جنگ (Battle of Plassey) جیت لی۔",
+            "اس کے بعد سے کمپنی صرف کاروبار نہیں بلکہ حاکم بن گئی۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "What is an empire, and why did Britain want one?",
@@ -309,8 +469,162 @@ window.ASTRA_UNITS["hist-british-empire-india"] = {
           "Historians think between 7 and 10 million people died.",
           "Many historians argue that the Company's taxes made it worse.",
           "In the 1830s the Company set up British-style schools for wealthy Indian children."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "المال الذي يبقى للعمل التجاري بعد دفع تكاليفه (profit)",
+            "موادّ طبيعية، كالقطن، تُصنع منها السلع (raw materials)",
+            "أن يفقد البلد صناعاته فيعود الناس إلى الزراعة (de-industrialisation)",
+            "عندما لا يكفي الطعام فيموت كثير من الناس جوعًا (famine)",
+            "رأي مؤرّخ في ما حدث ولماذا حدث (interpretation)",
+            "تغيّر في كيف يعيش الناس ويتعلّمون ويُعامَلون (social change)"
+          ],
+          "passage": [
+            "بعد 1757 حكمت الشركة البنغال، وهي من أغنى مناطق الهند.",
+            "وقبل ذلك كان الأباطرة المغول يُلزمون الشركة بالقواعد وبدفع الضرائب.",
+            "وصار الآن لا أحد يستطيع أن يوقف الشركة.",
+            "فأخذت الموادّ الخامّ كالقطن من الهند إلى بريطانيا.",
+            "وحوّلتها المصانع البريطانية قماشًا.",
+            "ثم باعت الشركة ذلك القماش للناس في الهند.",
+            "وفُرضت على صنّاع القماش الهنود ضرائب ثقيلة حتى صار قماشهم غاليًا جدًّا.",
+            "فخسر كثير منهم عملهم وعاد إلى الزراعة.",
+            "وفي 1770 أصابت البنغالَ مجاعة فظيعة.",
+            "ويرى المؤرّخون أنّ ما بين 7 و10 ملايين شخص قد مات.",
+            "وكثير من المؤرّخين يرى أنّ ضرائب الشركة زادتها سوءًا.",
+            "وفي سنوات 1830 أنشأت الشركة مدارس على الطريقة البريطانية لأبناء الأغنياء الهنود."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "pieniądze, które zostają firmie po pokryciu kosztów (profit)",
+            "materiały naturalne, na przykład bawełna, z których robi się wyroby (raw materials)",
+            "kiedy kraj traci swój przemysł i ludzie wracają do rolnictwa (de-industrialisation)",
+            "kiedy nie ma dość jedzenia i wielu ludzi umiera z głodu (famine)",
+            "pogląd historyka na to, co się stało i dlaczego (interpretation)",
+            "zmiana w tym, jak ludzie żyją, uczą się i są traktowani (social change)"
+          ],
+          "passage": [
+            "Po 1757 roku firma rządziła Bengalem, jednym z najbogatszych regionów Indii.",
+            "Wcześniej cesarze Mogołów kazali firmie przestrzegać zasad i płacić podatki.",
+            "Teraz nikt nie mógł jej zatrzymać.",
+            "Zabierała z Indii do Wielkiej Brytanii surowce, takie jak bawełna.",
+            "Brytyjskie fabryki przerabiały je na tkaniny.",
+            "Potem firma sprzedawała te tkaniny z powrotem ludziom w Indiach.",
+            "Indyjskich tkaczy obłożono tak wysokimi podatkami, że ich tkaniny stały się za drogie.",
+            "Wielu straciło pracę i wróciło do rolnictwa.",
+            "W 1770 roku Bengal uderzył straszny głód.",
+            "Historycy uważają, że umarło od 7 do 10 milionów ludzi.",
+            "Wielu historyków twierdzi, że podatki firmy to pogorszyły.",
+            "W latach trzydziestych XIX wieku (the 1830s) firma otwierała szkoły na wzór brytyjski dla dzieci z bogatych rodzin indyjskich."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o dinheiro que um negócio guarda depois de pagar os seus custos (profit, lucro)",
+            "materiais naturais, como o algodão, que são transformados em produtos (raw materials, matérias-primas)",
+            "quando um país perde as suas indústrias e as pessoas voltam para a agricultura (de-industrialisation, desindustrialização)",
+            "quando não há comida suficiente e muitas pessoas morrem de fome (famine, fome)",
+            "a visão de um historiador sobre o que aconteceu e porquê (interpretation, interpretação)",
+            "mudanças na maneira como as pessoas vivem, aprendem e são tratadas (social change, mudança social)"
+          ],
+          "passage": [
+            "Depois de 1757 a Companhia governava Bengala, uma das regiões mais ricas da Índia.",
+            "Antes, os imperadores mogóis tinham obrigado a Companhia a seguir regras e a pagar impostos.",
+            "Agora ninguém conseguia travar a Companhia.",
+            "Levava matérias-primas, como o algodão, da Índia para a Grã-Bretanha.",
+            "As fábricas britânicas transformavam-nas em tecido.",
+            "Depois a Companhia vendia esse tecido de volta às pessoas da Índia.",
+            "Os tecelões indianos foram taxados tão pesadamente que o tecido deles ficou demasiado caro.",
+            "Muitos perderam o seu trabalho e voltaram para a agricultura.",
+            "Em 1770 uma fome terrível atingiu Bengala.",
+            "Os historiadores pensam que morreram entre 7 e 10 milhões de pessoas.",
+            "Muitos historiadores defendem que os impostos da Companhia a tornaram pior.",
+            "Nos anos 1830 a Companhia criou escolas de estilo britânico para as crianças indianas ricas."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "lacagta ganacsi hadhsato kadib markay kharashkeeda bixiso",
+            "walxo dabiici ah, sida cudbiga, oo badeeco laga sameeyo",
+            "marka dal warshadihiisa lumiyo oo dadku beeraha ku noqdaan",
+            "marka cunto ku filan la waayo, markaa dad badan gaajo u dhinto",
+            "aragtida taariikhyahan ee waxa dhacay iyo sababta",
+            "isbeddel ku dhaca sida dadku u noolyihiin, u bartaan oo loola dhaqmo"
+          ],
+          "passage": [
+            "1757-dii ka dib Shirkaddu waxay xukuntay Bengal, oo ah mid ka mid ah gobollada Hindiya ugu hodansan.",
+            "Hore, imbaraadoorradii Mughal waxay Shirkadda ku qasbeen inay xeerar raacdo oo canshuur bixiso.",
+            "Hadda cidna Shirkadda ma joojin karin.",
+            "Waxay alaab ceeriin sida cudbiga Hindiya ka qaadday ilaa Biritayn.",
+            "Warshadaha Ingiriiska waxay maro ka dhigeen.",
+            "Shirkaddu kadibna maradaas waxay dib u iibisay dadka Hindiya.",
+            "Sameeyayaasha maro ee Hindiya canshuur culus ayaa la saaray oo maradoodu way aad u qaalisantay.",
+            "Badi waxay shaqadooda lumiyeen oo beeraha ku noqdeen.",
+            "1770-kii macaluul xun ayaa Bengal ku dhufatay.",
+            "Taariikhyahannadu waxay u maleeyaan in dad u dhexeeya 7 iyo 10 milyan ay dhinteen.",
+            "Taariikhyahanno badan waxay ku doodaan in canshuuraha Shirkadda ay sii xumeeyeen.",
+            "1830-meeyadii Shirkaddu waxay iskuullo hab-Ingiriisi ah u samaysay carruurta Hindi ee hodanka."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "гроші, які залишаються в бізнесу після оплати його витрат (profit)",
+            "природні матеріали, як-от бавовна, з яких виготовляють вироби (raw materials)",
+            "коли країна втрачає свою промисловість і люди повертаються до землеробства (de-industrialisation)",
+            "коли їжі не досить і багато людей голодує (famine)",
+            "погляд історика на те, що сталося і чому (interpretation)",
+            "зміна в тому, як люди живуть, навчаються і як до них ставляться (social change)"
+          ],
+          "passage": [
+            "Після 1757 року Компанія правила Бенгалією, одним із найбагатших регіонів Індії.",
+            "Раніше могульські імператори змушували Компанію дотримуватися правил і платити податки.",
+            "Тепер Компанію ніхто не міг зупинити.",
+            "Вона вивозила сировину, як-от бавовну, з Індії до Британії.",
+            "Британські фабрики перетворювали її на тканину.",
+            "Потім Компанія продавала цю тканину назад людям в Індії.",
+            "Індійських тканярів обкладали такими важкими податками, що їхня тканина ставала надто дорогою.",
+            "Багато хто втратив роботу і повернувся до землеробства.",
+            "У 1770 році Бенгалію вразив страшний голод.",
+            "Історики вважають, що померло від 7 до 10 мільйонів людей.",
+            "Багато істориків доводять, що податки Компанії зробили його гіршим.",
+            "У 1830-х роках Компанія заснувала школи британського зразка для дітей багатих індійців."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ پیسہ جو کاروبار اپنے اخراجات دینے کے بعد اپنے پاس رکھتا ہے (profit)",
+            "قدرتی مواد، جیسے روئی، جس سے چیزیں بنائی جاتی ہیں (raw materials)",
+            "جب کسی ملک کی صنعتیں ختم ہو جائیں اور لوگ دوبارہ کھیتی کی طرف لوٹ جائیں (de-industrialisation)",
+            "جب خوراک کافی نہ ہو، اور بہت لوگ بھوک سے مر جائیں (famine)",
+            "کسی مؤرخ کی یہ رائے کہ کیا ہوا اور کیوں ہوا (interpretation)",
+            "اس بات میں تبدیلی کہ لوگ کیسے رہتے، سیکھتے اور ان کے ساتھ کیسا سلوک ہوتا ہے (social change)"
+          ],
+          "passage": [
+            "1757 کے بعد کمپنی بنگال پر حکومت کرنے لگی، جو ہندوستان کے سب سے امیر علاقوں میں سے ایک تھا۔",
+            "اس سے پہلے مغل شہنشاہ کمپنی کو قاعدوں کا پابند رکھتے اور ٹیکس وصول کرتے تھے۔",
+            "اب کمپنی کو کوئی روک نہ سکتا تھا۔",
+            "یہ ہندوستان سے روئی جیسا خام مال برطانیہ لے جاتی تھی۔",
+            "برطانوی کارخانے اسے کپڑا بنا دیتے تھے۔",
+            "پھر کمپنی وہی کپڑا ہندوستان کے لوگوں کو واپس بیچتی تھی۔",
+            "ہندوستانی کپڑا بنانے والوں پر اتنا بھاری ٹیکس لگا کہ ان کا کپڑا بہت مہنگا ہو گیا۔",
+            "بہت سے لوگوں کا کام جاتا رہا اور وہ دوبارہ کھیتی کی طرف لوٹ گئے۔",
+            "1770 میں بنگال میں ایک ہولناک قحط پڑا۔",
+            "مؤرخوں کا خیال ہے کہ 70 لاکھ سے ایک کروڑ لوگ مر گئے۔",
+            "بہت سے مؤرخ کہتے ہیں کہ کمپنی کے ٹیکسوں نے اسے مزید بگاڑ دیا۔",
+            "1830 کی دہائی میں کمپنی نے امیر ہندوستانی بچوں کے لیے برطانوی طرز کے سکول بنائے۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "No one to stop them",
@@ -518,8 +832,168 @@ window.ASTRA_UNITS["hist-british-empire-india"] = {
           "By 1858 the rising was over.",
           "The British Government took India away from the Company.",
           "India was now ruled by Queen Victoria: the British Raj had begun."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "جندي هندي كان يقاتل في جيش شركة الهند الشرقية (sepoy)",
+            "طريقة لترتيب الناس في المجتمع الهندي حسب الجماعة التي وُلدوا فيها (caste system)",
+            "أن يرفض الجنود طاعة أوامر قادتهم (mutiny)",
+            "علبة البارود والرصاصة التي تُحشى في البندقية (cartridge)",
+            "أن تُخمد ثورةً بالقوّة (suppress)",
+            "كلمة هندية تعني الحكم؛ والراج البريطاني هو حكم البريطانيين الهند حكمًا مباشرًا (Raj)"
+          ],
+          "passage": [
+            "كان جيش الشركة في معظمه من جنود هنود يُسمّون السيبوي (sepoys).",
+            "وسنوات طويلة قاتل السيبوي في صفّ الشركة بوفاء.",
+            "ومعظمهم جاء من الطوائف العليا في المجتمع الهندي.",
+            "وفي 1857 أُعطي السيبوي بندقية جديدة.",
+            "وقيل إنّ خراطيشها مدهونة بشحم البقر والخنزير.",
+            "فأساء هذا إلى الجنود الهندوس والمسلمين إساءةً بالغة.",
+            "وكانت هناك أسباب أعمق أيضًا.",
+            "فقد كان الهنود مُبعَدين عن الحكم، وحكم الشركة كان قد أفقر كثيرًا من الناس.",
+            "وفي 1857 رفض السيبوي في البنغال طاعة الأوامر، فانتشرت الثورة.",
+            "فاضطرّت الشركة أن تستدعي الجيش البريطاني ليسحقها.",
+            "وبحلول 1858 كانت الثورة قد انتهت.",
+            "فأخذت الحكومة البريطانية الهند من الشركة.",
+            "وصارت الهند تحكمها الملكة فيكتوريا: فقد بدأ الراج البريطاني."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "indyjski żołnierz, który służył w armii East India Company (sepoy)",
+            "sposób porządkowania ludzi w społeczeństwie indyjskim według grupy, w której się urodzili (caste system)",
+            "kiedy żołnierze odmawiają wykonania rozkazów swoich dowódców (mutiny)",
+            "nabój z prochem i pociskiem, wkładany do karabinu (cartridge)",
+            "zdusić powstanie siłą (suppress)",
+            "hinduskie słowo oznaczające rządy; British Raj to bezpośrednie rządy brytyjskie w Indiach (Raj)"
+          ],
+          "passage": [
+            "Armia firmy składała się głównie z indyjskich żołnierzy zwanych sepoyami.",
+            "Przez lata sepoye walczyli wiernie dla firmy.",
+            "Większość pochodziła z wyższych kast społeczeństwa indyjskiego.",
+            "W 1857 roku sepoye dostali nowy karabin.",
+            "Mówiono, że jego naboje są smarowane tłuszczem z krów i świń.",
+            "To głęboko obraziło żołnierzy hinduskich i muzułmańskich.",
+            "Były też głębsze przyczyny.",
+            "Indusów trzymano poza rządem, a rządy firmy zubożyły wielu ludzi.",
+            "W 1857 roku sepoye w Bengalu odmówili wykonania rozkazów i powstanie się rozszerzyło.",
+            "Firma musiała wezwać armię brytyjską, żeby je zdusić.",
+            "Do 1858 roku powstanie było skończone.",
+            "Rząd brytyjski odebrał firmie Indie.",
+            "Indiami rządziła teraz królowa Victoria (Wiktoria): zaczął się British Raj."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "um soldado indiano que combatia no exército da East India Company (sepoy)",
+            "uma maneira de ordenar as pessoas da sociedade indiana pelo grupo em que nasceram (caste system, sistema de castas)",
+            "quando os soldados se recusam a cumprir as ordens dos seus comandantes (mutiny, motim)",
+            "o pacote de pólvora e bala que se carrega numa espingarda (cartridge, cartucho)",
+            "dominar um levantamento pela força (suppress, reprimir)",
+            "a palavra hindi para domínio; o British Raj era o domínio britânico direto da Índia (Raj)"
+          ],
+          "passage": [
+            "O exército da Companhia era feito sobretudo de soldados indianos chamados sepoys.",
+            "Durante anos os sepoys combateram com lealdade pela Companhia.",
+            "Quase todos vinham das castas mais altas da sociedade indiana.",
+            "Em 1857 foi dada aos sepoys uma espingarda nova.",
+            "Dizia-se que os cartuchos dela eram untados com gordura de vacas e de porcos.",
+            "Isto ofendeu profundamente os soldados hindus e muçulmanos.",
+            "Havia também causas mais profundas.",
+            "Os indianos eram mantidos fora do governo, e o domínio da Companhia tinha tornado muita gente mais pobre.",
+            "Em 1857 os sepoys de Bengala recusaram-se a cumprir ordens, e o levantamento espalhou-se.",
+            "A Companhia teve de chamar o exército britânico para o esmagar.",
+            "Em 1858 o levantamento estava acabado.",
+            "O governo britânico tirou a Índia à Companhia.",
+            "A Índia passava a ser governada pela rainha Victoria (Vitória): o British Raj tinha começado."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "askari Hindi ah oo ka dagaallamay ciidanka East India Company",
+            "hab dadka bulshada Hindiya loo kala saaray kooxda lagu dhashay",
+            "marka askartu diido inay amarrada taliyayaashooda raacaan",
+            "xirmada baaruudda iyo xabbadda ee qoriga lagu shubo",
+            "in kacdoon xoog lagu afgembiyo",
+            "erayga Hindi ee xukun; British Raj wuxuu ahaa xukunka toos ee Ingiriiska ee Hindiya"
+          ],
+          "passage": [
+            "Ciidanka Shirkadda inta badan wuxuu ka koobnaa askar Hindi ah oo la yiraahdo sepoys.",
+            "Sanado badan sepoys-ku si daacad ah ayay Shirkadda u dagaallameen.",
+            "Badidood waxay ka yimaaddeen castes-ka sare ee bulshada Hindiya.",
+            "1857-dii sepoys-ka waxaa la siiyay qori cusub.",
+            "Cartridges-kiisa waxaa la sheegay in baruur lo' iyo doofaar lagu subkay.",
+            "Tan waxay askarta Hinduu iyo Muslim si qoto dheer u xanaajisay.",
+            "Sababo ka sii qoto dheerna way jireen.",
+            "Hindida waxaa dowladda looga saaray, xukunkii Shirkaddana wuxuu dad badan ka dhigay kuwo ka sii faqiirsan.",
+            "1857-dii sepoys-ka Bengal waxay diideen inay amarro raacaan, kacdoonkuna wuu faafay.",
+            "Shirkaddu waxay ku qasbanaatay inay Ciidanka Ingiriiska u yeerto si ay u burburiso.",
+            "1858-kii kacdoonku wuu dhammaaday.",
+            "Dowladda Ingiriiska waxay Hindiya ka qaadday Shirkadda.",
+            "Hindiya hadda waxay xukumaysay Boqorad Victoria: British Raj wuu bilaabmay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "індійський вояк, який служив у війську Східноіндійської компанії (sepoy)",
+            "спосіб упорядкування людей в індійському суспільстві за групою, у якій вони народилися (caste system)",
+            "коли вояки відмовляються виконувати накази своїх командирів (mutiny)",
+            "пакунок із порохом і кулею, який заряджають у рушницю (cartridge)",
+            "силою придушити повстання (suppress)",
+            "слово гінді, що означає правління; Британський Радж був прямим британським правлінням в Індії (Raj)"
+          ],
+          "passage": [
+            "Військо Компанії складалося переважно з індійських вояків, яких називали сипаями (sepoys).",
+            "Роками сипаї вірно воювали за Компанію.",
+            "Більшість із них походила з вищих каст індійського суспільства.",
+            "У 1857 році сипаям видали нову рушницю.",
+            "Казали, що її патрони змащені жиром корів і свиней.",
+            "Це глибоко образило вояків-гіндусів і вояків-мусульман.",
+            "Були й глибші причини.",
+            "Індійців не допускали до уряду, а правління Компанії зробило багатьох людей біднішими.",
+            "У 1857 році сипаї в Бенгалії відмовилися виконувати накази, і повстання поширилося.",
+            "Компанія мусила покликати британське військо, щоб його розчавити.",
+            "До 1858 року повстання було закінчене.",
+            "Британський уряд забрав Індію в Компанії.",
+            "Тепер Індією правила королева Вікторія: Британський Радж почався."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "ہندوستانی سپاہی جو East India Company کی فوج میں لڑتا تھا (sepoy)",
+            "ہندوستانی سماج میں لوگوں کو اُس گروہ کے حساب سے درجوں میں رکھنے کا طریقہ جس میں وہ پیدا ہوئے (caste system)",
+            "جب سپاہی اپنے افسروں کے حکم ماننے سے انکار کر دیں (mutiny)",
+            "بارود اور گولی کا وہ پیکٹ جو رائفل میں بھرا جاتا ہے (cartridge)",
+            "کسی بغاوت کو طاقت سے کچل دینا (suppress)",
+            "ہندی لفظ راج، یعنی حکومت؛ برطانوی راج ہندوستان پر انگریزوں کی سیدھی حکومت تھی (Raj)"
+          ],
+          "passage": [
+            "کمپنی کی فوج زیادہ تر ہندوستانی سپاہیوں پر مشتمل تھی، جنھیں sepoys کہا جاتا تھا۔",
+            "برسوں تک یہ سپاہی کمپنی کے لیے وفاداری سے لڑے۔",
+            "ان میں زیادہ تر ہندوستانی سماج کی اونچی ذاتوں سے تھے۔",
+            "1857 میں سپاہیوں کو ایک نئی رائفل دی گئی۔",
+            "کہا گیا کہ اس کے cartridges پر گائے اور سور کی چربی لگی ہوئی ہے۔",
+            "اس سے ہندو اور مسلمان سپاہیوں کے جذبات کو سخت ٹھیس پہنچی۔",
+            "اس کے گہرے اسباب بھی تھے۔",
+            "ہندوستانیوں کو حکومت سے دور رکھا گیا تھا، اور کمپنی کی حکومت نے بہت لوگوں کو غریب کر دیا تھا۔",
+            "1857 میں بنگال کے سپاہیوں نے حکم ماننے سے انکار کر دیا، اور یہ تحریک پھیل گئی۔",
+            "کمپنی کو اسے کچلنے کے لیے برطانوی فوج بلانی پڑی۔",
+            "1858 تک یہ تحریک ختم ہو گئی۔",
+            "برطانوی حکومت نے ہندوستان کمپنی سے لے لیا۔",
+            "اب ہندوستان پر ملکہ وکٹوریہ کی حکومت تھی: برطانوی راج شروع ہو گیا تھا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "The Company's army",
@@ -725,8 +1199,168 @@ window.ASTRA_UNITS["hist-british-empire-india"] = {
           "Indians answered with the Swadeshi movement.",
           "They boycotted British cloth, salt, schools and courts.",
           "In 1911 the British gave in and reunited Bengal."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "الموظّف الذي كان يحكم الهند نيابةً عن التاج البريطاني (Viceroy)",
+            "حاكمة امرأة لإمبراطورية (Empress)",
+            "الجماعة السياسية التي تأسّست في 1885 للعمل من أجل حرّية الهند (Indian National Congress)",
+            "شقّ منطقة أو بلد إلى أجزاء منفصلة (partition)",
+            "رفض شراء شيء أو استخدامه احتجاجًا (boycott)",
+            "الحركة التي قاطعت السلع البريطانية وصنعت سلعًا هندية بدلًا منها (Swadeshi)"
+          ],
+          "passage": [
+            "في 1858 أصدرت الملكة فيكتوريا إعلانًا إلى أهل الهند.",
+            "فوعدت باحترام أديانهم وبأن تترك الهنود يعملون في الحكم.",
+            "وفي 1877 جُعلت إمبراطورةً على الهند.",
+            "وبنى البريطانيون السكك الحديدية والطرق والقنوات في الهند.",
+            "وقالوا إنّ هذا لخير الهند.",
+            "ولكنّ السكك الحديدية كانت تنقل السلع للتجارة وتحمل الجنود في الأساس.",
+            "وكثير من الهنود أراد أن يحكم نفسه.",
+            "وفي 1885 أسّسوا المؤتمر الوطني الهندي.",
+            "ولم يُعبأ البريطانيون بمطالبه.",
+            "فشقّ النائب الملكي اللورد كرزون (Lord Curzon) البنغال شقّين ليُضعف الحركة.",
+            "فأجاب الهنود بحركة سواديشي (Swadeshi).",
+            "فقاطعوا القماش البريطاني والملح والمدارس والمحاكم.",
+            "وفي 1911 تراجع البريطانيون وأعادوا البنغال واحدة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "urzędnik, który rządził Indiami w imieniu brytyjskiej Korony (Viceroy)",
+            "kobieta rządząca imperium (Empress)",
+            "ugrupowanie polityczne utworzone w 1885 roku, żeby walczyć o wolność Indii (Indian National Congress)",
+            "podzielenie regionu albo kraju na osobne części (partition)",
+            "odmowa kupowania albo używania czegoś w ramach protestu (boycott)",
+            "ruch, który bojkotował towary brytyjskie i wytwarzał zamiast nich indyjskie (Swadeshi)"
+          ],
+          "passage": [
+            "W 1858 roku królowa Victoria (Wiktoria) wydała Proklamację do ludu Indii.",
+            "Obiecała szanować ich religie i pozwolić Indusom pracować w rządzie.",
+            "W 1877 roku uczyniono ją cesarzową Indii.",
+            "Brytyjczycy zbudowali w całych Indiach koleje, drogi i kanały.",
+            "Mówili, że to dla dobra Indii.",
+            "Ale koleje przewoziły głównie towary na handel i wojsko.",
+            "Wielu Indusów chciało rządzić się samodzielnie.",
+            "W 1885 roku utworzyli Indian National Congress.",
+            "Brytyjczycy nie zwracali uwagi na jego żądania.",
+            "Wicekról, lord Curzon, podzielił Bengal na dwie części, żeby osłabić ten ruch.",
+            "Indusi odpowiedzieli ruchem Swadeshi.",
+            "Bojkotowali brytyjskie tkaniny, sól, szkoły i sądy.",
+            "W 1911 roku Brytyjczycy ustąpili i połączyli Bengal z powrotem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "o funcionário que governava a Índia em nome da Coroa britânica (Viceroy, vice-rei)",
+            "uma governante de um império (Empress, imperatriz)",
+            "o grupo político formado em 1885 para trabalhar pela liberdade da Índia (Indian National Congress)",
+            "dividir uma região ou um país em partes separadas (partition, partição)",
+            "recusar comprar ou usar algo como forma de protesto (boycott, boicote)",
+            "o movimento que boicotou os produtos britânicos e passou a fazer produtos indianos (Swadeshi)"
+          ],
+          "passage": [
+            "Em 1858 a rainha Victoria fez uma Proclamação ao povo da Índia.",
+            "Prometeu respeitar as religiões deles e deixar os indianos trabalhar no governo.",
+            "Em 1877 foi feita imperatriz da Índia.",
+            "Os britânicos construíram ferrovias/caminhos de ferro, estradas e canais por toda a Índia.",
+            "Diziam que isto era para o bem da Índia.",
+            "Mas as ferrovias serviam sobretudo para levar produtos para o comércio e transportar tropas.",
+            "Muitos indianos queriam governar-se a si mesmos.",
+            "Em 1885 formaram o Indian National Congress.",
+            "Os britânicos não fizeram caso das exigências dele.",
+            "O vice-rei, Lord Curzon, dividiu Bengala em duas para enfraquecer o movimento.",
+            "Os indianos responderam com o movimento Swadeshi.",
+            "Boicotaram o tecido, o sal, as escolas e os tribunais britânicos.",
+            "Em 1911 os britânicos cederam e voltaram a unir Bengala."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "sarkaalka Hindiya u xukumay Boqortooyada Ingiriiska",
+            "taliye dumar ah oo boqortooyo xukumo",
+            "kooxdii siyaasadeed ee la aasaasay 1885-kii si ay xornimada Hindiya u shaqeyso",
+            "kala qaybinta gobol ama dal oo qaybo gooni ah laga dhigo",
+            "diidmada iibsashada ama isticmaalka wax si mudaaharaad ah",
+            "dhaqdhaqaaqii qaadacay badeecada Ingiriiska oo kuwa Hindi ah sameeyay"
+          ],
+          "passage": [
+            "1858-kii Boqorad Victoria waxay ku dhawaaqday hadal loogu talagalay dadka Hindiya.",
+            "Waxay ballanqaaday inay diimahooda ixtiraamto oo Hindida u ogolaato inay dowladda ka shaqeeyaan.",
+            "1877-dii waxaa laga dhigay Imbaraadooraddii Hindiya.",
+            "Ingiriisku wuxuu Hindiya oo dhan ka dhisay jidad tareen, waddooyin iyo kanaallo.",
+            "Waxay sheegeen in tan ay Hindiya u wanaagsan tahay.",
+            "Laakiin jidadka tareenka inta badan waxay alaab ganacsi u qaadeen oo askar u siibeen.",
+            "Hindi badan waxay rabeen inay naftooda xukumaan.",
+            "1885-kii waxay sameeyeen Indian National Congress.",
+            "Ingiriisku dalabyadeeda dan kama gelin.",
+            "Viceroy-ga, Lord Curzon, wuxuu Bengal laba u kala qaybiyay si uu dhaqdhaqaaqa u daciifiyo.",
+            "Hindidu waxay ku jawaabeen dhaqdhaqaaqa Swadeshi.",
+            "Waxay qaadaceen maro, cusbo, iskuullo iyo maxkamado Ingiriis ah.",
+            "1911-kii Ingiriisku wuu raacay oo Bengal wuu dib u midoobay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "посадовець, який правив Індією від імені британської Корони (Viceroy)",
+            "жінка-правителька імперії (Empress)",
+            "політична група, створена у 1885 році, щоб працювати для свободи Індії (Indian National Congress)",
+            "розділення регіону або країни на окремі частини (partition)",
+            "відмова купувати або використовувати щось як протест (boycott)",
+            "рух, який бойкотував британські товари і натомість виготовляв індійські (Swadeshi)"
+          ],
+          "passage": [
+            "У 1858 році королева Вікторія зробила Прокламацію до людей Індії.",
+            "Вона обіцяла шанувати їхні релігії і дозволити індійцям працювати в уряді.",
+            "У 1877 році її зробили імператрицею Індії.",
+            "Британці побудували залізниці, дороги й канали по всій Індії.",
+            "Вони казали, що це для добра Індії.",
+            "Але залізниці переважно перевозили товари для торгівлі й везли військо.",
+            "Багато індійців хотіли правити собою самі.",
+            "У 1885 році вони створили Індійський національний конгрес.",
+            "Британці не зважали на його вимоги.",
+            "Віцекороль, лорд Керзон, розділив Бенгалію на дві частини, щоб ослабити цей рух.",
+            "Індійці відповіли рухом свадеші (Swadeshi).",
+            "Вони бойкотували британську тканину, сіль, школи й суди.",
+            "У 1911 році британці поступилися і знову об’єднали Бенгалію."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "وہ عہدے دار جو برطانوی تاج کی طرف سے ہندوستان پر حکومت کرتا تھا (Viceroy)",
+            "کسی سلطنت کی عورت حاکم (Empress)",
+            "وہ سیاسی جماعت جو 1885 میں ہندوستان کی آزادی کے لیے بنی (Indian National Congress)",
+            "کسی علاقے یا ملک کو الگ الگ حصوں میں بانٹ دینا (partition)",
+            "احتجاج کے طور پر کوئی چیز خریدنے یا استعمال کرنے سے انکار کرنا (boycott)",
+            "وہ تحریک جس میں برطانوی مال کا boycott کیا گیا اور اس کی جگہ ہندوستانی مال بنایا گیا (Swadeshi)"
+          ],
+          "passage": [
+            "1858 میں ملکہ وکٹوریہ نے ہندوستان کے لوگوں کے نام ایک اعلان (Proclamation) جاری کیا۔",
+            "اس نے وعدہ کیا کہ ان کے مذہبوں کا احترام ہوگا اور ہندوستانیوں کو حکومت میں کام کرنے دیا جائے گا۔",
+            "1877 میں اسے ہندوستان کی Empress بنا دیا گیا۔",
+            "انگریزوں نے سارے ہندوستان میں ریلوے، سڑکیں اور نہریں بنائیں۔",
+            "وہ کہتے تھے کہ یہ ہندوستان کی بھلائی کے لیے ہے۔",
+            "مگر ریلوے زیادہ تر تجارت کا مال اور فوجی دستے لے جاتی تھیں۔",
+            "بہت سے ہندوستانی خود اپنی حکومت چاہتے تھے۔",
+            "1885 میں انھوں نے Indian National Congress بنائی۔",
+            "انگریزوں نے اس کے مطالبوں پر کوئی توجہ نہ دی۔",
+            "وائسرائے لارڈ کرزن (Lord Curzon) نے اس تحریک کو کمزور کرنے کے لیے بنگال کو دو حصوں میں بانٹ دیا۔",
+            "ہندوستانیوں نے سودیشی (Swadeshi) تحریک سے جواب دیا۔",
+            "انھوں نے برطانوی کپڑے، نمک، سکولوں اور عدالتوں کا boycott کیا۔",
+            "1911 میں انگریزوں نے ہار مان لی اور بنگال کو دوبارہ ایک کر دیا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "A fresh start?",
@@ -935,8 +1569,168 @@ window.ASTRA_UNITS["hist-british-empire-india"] = {
           "By 1946 Britain was too weak and too poor to hold on.",
           "In 1947 India became independent, but it was partitioned.",
           "Terrible violence between religious groups followed."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "قتل كثير من الناس العُزّل (massacre)",
+            "اسم غاندي للاحتجاج بلا عنف، ومعناه قريب من قوّة الحقّ (satyagraha)",
+            "مسيرة غاندي الاحتجاجية في 1930 إلى البحر ليصنع الملح خلافًا للقانون البريطاني (Salt March)",
+            "الجماعة التي أرادت بلدًا خاصًّا بمسلمي الهند (Muslim League)",
+            "مطلب غاندي في 1942 بأن يترك البريطانيون الهند في الحال (Quit India)",
+            "شقّ بلد إلى أجزاء منفصلة (partition)"
+          ],
+          "passage": [
+            "قاتل الجنود الهنود في صفّ بريطانيا في الحرب العالمية الأولى.",
+            "ووعدت بريطانيا بإصلاحات في المقابل، ولكنّ القليل تغيّر.",
+            "وفي 1919 في أمريتسار (Amritsar) أطلق الجنود البريطانيون النار على حشد محصور.",
+            "فقُتل كثير من الناس.",
+            "وهذه المقتلة حوّلت كثيرًا من الهنود ضدّ الحكم البريطاني تحويلًا نهائيًّا.",
+            "وفي سنوات 1920 قاد موهنداس غاندي (Mohandas Gandhi) حركة الاستقلال.",
+            "وكان يؤمن بالاحتجاج بلا عنف.",
+            "وفي 1930 سار إلى البحر ليصنع الملح، خارقًا القانون البريطاني.",
+            "فاعتُقل نحو 60,000 شخص.",
+            "وفي أثناء الحرب العالمية الثانية قال غاندي للبريطانيين أن يتركوا الهند.",
+            "وبحلول 1946 كانت بريطانيا أضعف وأفقر من أن تبقى.",
+            "وفي 1947 استقلّت الهند، ولكنها قُسِّمت.",
+            "فتبع ذلك عنف فظيع بين الجماعات الدينية."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "zabicie wielu bezbronnych ludzi (massacre)",
+            "nazwa, którą Gandhi nadał protestowi bez przemocy, w przybliżeniu siła prawdy (satyagraha)",
+            "marsz protestacyjny Gandhiego nad morze w 1930 roku, żeby wytwarzać sól wbrew prawu brytyjskiemu (Salt March)",
+            "ugrupowanie, które chciało własnego kraju dla muzułmanów Indii (Muslim League)",
+            "żądanie Gandhiego z 1942 roku, żeby Brytyjczycy natychmiast opuścili Indie (Quit India)",
+            "podzielenie kraju na osobne części (partition)"
+          ],
+          "passage": [
+            "Indyjscy żołnierze walczyli za Wielką Brytanię w pierwszej wojnie światowej.",
+            "Wielka Brytania obiecała w zamian reformy, ale zmieniło się niewiele.",
+            "W 1919 roku w Amritsarze brytyjscy żołnierze strzelali do uwięzionego tłumu.",
+            "Wielu ludzi zostało zabitych.",
+            "Ta masakra na dobre zwróciła wielu Indusów przeciwko rządom brytyjskim.",
+            "W latach dwudziestych XX wieku (the 1920s) ruchem niepodległościowym kierował Mohandas Gandhi.",
+            "Wierzył w protest bez przemocy.",
+            "W 1930 roku poszedł nad morze, żeby wytwarzać sól, łamiąc prawo brytyjskie.",
+            "Aresztowano około 60,000 ludzi.",
+            "W czasie drugiej wojny światowej Gandhi powiedział Brytyjczykom, żeby opuścili Indie.",
+            "Do 1946 roku Wielka Brytania była za słaba i za biedna, żeby się utrzymać.",
+            "W 1947 roku Indie uzyskały niepodległość, ale zostały podzielone.",
+            "Nastąpiła straszna przemoc między grupami religijnymi."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "a morte de muitas pessoas indefesas (massacre)",
+            "o nome que Gandhi deu ao protesto sem violência, mais ou menos força da verdade (satyagraha)",
+            "a marcha de protesto de Gandhi até ao mar, em 1930, para fazer sal contra a lei britânica (Salt March, Marcha do Sal)",
+            "o grupo que queria um país próprio para os muçulmanos da Índia (Muslim League, Liga Muçulmana)",
+            "a exigência de Gandhi, em 1942, de que os britânicos saíssem logo da Índia (Quit India)",
+            "dividir um país em partes separadas (partition, partição)"
+          ],
+          "passage": [
+            "Soldados indianos combateram pela Grã-Bretanha na Primeira Guerra Mundial.",
+            "A Grã-Bretanha prometeu reformas em troca, mas pouco mudou.",
+            "Em 1919, em Amritsar, soldados britânicos dispararam sobre uma multidão que estava encurralada.",
+            "Muitas pessoas foram mortas.",
+            "O massacre virou muitos indianos contra o domínio britânico de forma definitiva.",
+            "Nos anos 1920, Mohandas Gandhi liderou o movimento pela independência.",
+            "Ele acreditava no protesto sem violência.",
+            "Em 1930 marchou até ao mar para fazer sal, infringindo a lei britânica.",
+            "Cerca de 60 000 pessoas foram presas.",
+            "Durante a Segunda Guerra Mundial, Gandhi disse aos britânicos para saírem da Índia.",
+            "Em 1946 a Grã-Bretanha estava demasiado fraca e demasiado pobre para se aguentar.",
+            "Em 1947 a Índia tornou-se independente, mas foi dividida.",
+            "Seguiu-se uma violência terrível entre grupos religiosos."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "dilka dad badan oo aan difaac lahayn",
+            "magacii Gandhi ee mudaaharaadka aan rabshad lahayn, oo qiyaas ahaan xoogga runta",
+            "mudaaharaadkii socod ee Gandhi 1930-kii ee badda loo tegay si cusbo loo sameeyo sharciga Ingiriiska ka hor",
+            "kooxdii rabtay dal u gaar ah Muslimiinta Hindiya",
+            "dalabkii Gandhi 1942-kii ee Ingiriisku isla markiiba Hindiya ka baxo",
+            "kala qaybinta dal oo qaybo gooni ah laga dhigo"
+          ],
+          "passage": [
+            "Askar Hindi ah waxay Biritayn u dagaallameen Dagaalkii Koowaad ee Adduunka.",
+            "Biritayn waxay beddelkeeda ballanqaaday isbeddello, laakiin wax yar ayaa beddelmay.",
+            "1919-kii, Amritsar, askar Ingiriis ah waxay rasaas ku fureen dad badan oo meel ku xannibnaa.",
+            "Dad badan waa la dilay.",
+            "Xasuuqii wuxuu Hindi badan si joogto ah uga soo horjeediyay xukunka Ingiriiska.",
+            "1920-meeyadii Mohandas Gandhi wuxuu hoggaamiyay dhaqdhaqaaqa xornimada.",
+            "Wuxuu rumaystay mudaaharaad aan rabshad lahayn.",
+            "1930-kii wuxuu badda u socday si uu cusbo u sameeyo, isagoo sharciga Ingiriiska jebiyay.",
+            "Qiyaastii 60,000 oo qof ayaa la xiray.",
+            "Intii Dagaalkii Labaad ee Adduunka socday, Gandhi wuxuu Ingiriiska u sheegay inuu Hindiya ka baxo.",
+            "1946-kii Biritayn way aad u tabar yaraatay oo faqiirsanaatay inay sii haysato.",
+            "1947-kii Hindiya waxay xornimo qaadatay, laakiin waa la kala qaybiyay.",
+            "Rabshado xun oo u dhexeeya kooxaha diineed ayaa ka dhashay."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "убивство багатьох беззахисних людей (massacre)",
+            "назва, яку Ґанді дав ненасильницькому протесту, приблизно «сила правди» (satyagraha)",
+            "протестний похід Ґанді до моря у 1930 році, щоб виробляти сіль проти британського закону (Salt March)",
+            "група, яка хотіла власної країни для мусульман Індії (Muslim League)",
+            "вимога Ґанді 1942 року, щоб британці негайно покинули Індію (Quit India)",
+            "розділення країни на окремі частини (partition)"
+          ],
+          "passage": [
+            "Індійські вояки воювали за Британію в Першій світовій війні.",
+            "Британія обіцяла за це реформи, але змінилося мало.",
+            "У 1919 році в Амрітсарі британські вояки відкрили вогонь по затиснутому натовпу.",
+            "Багато людей було вбито.",
+            "Ця різанина назавжди налаштувала багатьох індійців проти британського правління.",
+            "У 1920-х роках Мохандас Ґанді очолив рух за незалежність.",
+            "Він вірив у протест без насильства.",
+            "У 1930 році він пройшов походом до моря, щоб виробляти сіль, порушуючи британський закон.",
+            "Близько 60,000 людей було арештовано.",
+            "Під час Другої світової війни Ґанді сказав британцям покинути Індію.",
+            "До 1946 року Британія була надто слабка і надто бідна, щоб утриматися.",
+            "У 1947 році Індія стала незалежною, але її розділили.",
+            "За цим пішло страшне насильство між релігійними групами."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "بہت سے بے بس لوگوں کا قتل (massacre)",
+            "گاندھی کا بغیر تشدد احتجاج کا نام، جس کے لگ بھگ معنی ہیں سچ کی طاقت (satyagraha)",
+            "گاندھی کا 1930 کا احتجاجی مارچ، جس میں وہ برطانوی قانون توڑ کر نمک بنانے سمندر تک گئے (Salt March)",
+            "وہ جماعت جو ہندوستان کے مسلمانوں کے لیے الگ ملک چاہتی تھی (Muslim League)",
+            "گاندھی کا 1942 کا مطالبہ کہ انگریز ہندوستان فوراً چھوڑ دیں (Quit India)",
+            "کسی ملک کو الگ الگ حصوں میں بانٹ دینا (partition)"
+          ],
+          "passage": [
+            "پہلی جنگِ عظیم میں ہندوستانی سپاہی برطانیہ کے لیے لڑے۔",
+            "برطانیہ نے بدلے میں اصلاحات کا وعدہ کیا، مگر بہت کم بدلا۔",
+            "1919 میں امرتسر میں برطانوی سپاہیوں نے ایک گھرے ہوئے ہجوم پر گولی چلا دی۔",
+            "بہت لوگ مارے گئے۔",
+            "اس قتلِ عام نے بہت سے ہندوستانیوں کو ہمیشہ کے لیے برطانوی حکومت کے خلاف کر دیا۔",
+            "1920 کی دہائی میں موہن داس گاندھی (Mohandas Gandhi) نے آزادی کی تحریک کی قیادت کی۔",
+            "وہ بغیر تشدد احتجاج پر یقین رکھتے تھے۔",
+            "1930 میں وہ برطانوی قانون توڑتے ہوئے نمک بنانے کے لیے سمندر تک پیدل گئے۔",
+            "تقریباً 60,000 لوگ گرفتار کیے گئے۔",
+            "دوسری جنگِ عظیم کے دوران گاندھی نے انگریزوں سے کہا کہ ہندوستان چھوڑ دیں۔",
+            "1946 تک برطانیہ اتنا کمزور اور اتنا غریب ہو چکا تھا کہ قابو نہ رکھ سکا۔",
+            "1947 میں ہندوستان آزاد ہوا، مگر اس کی تقسیم ہو گئی۔",
+            "اس کے بعد مذہبی گروہوں کے درمیان ہولناک تشدد ہوا۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Why Britain held on, and Amritsar, 1919",
@@ -1143,8 +1937,162 @@ window.ASTRA_UNITS["hist-british-empire-india"] = {
           "You answer quick questions, then put events in order.",
           "Then you give evidence for three statements.",
           "Last you write an essay with two sides and a conclusion."
-        ]
-      },
+        ],
+      l1: {
+        "ar": {
+          "checked": false,
+          "words": [
+            "أن تبقى الأشياء كما هي بدلًا من أن تتغيّر (continuity)",
+            "الترتيب الذي حدثت فيه الأحداث (chronology)",
+            "الوقائع والأمثلة التي تستخدمها لتُثبت نقطةً (evidence)",
+            "حكمك العامّ، وأسبابه (judgement)",
+            "الجزء الأخير من المقال، وفيه تزن الوجهين (conclusion)"
+          ],
+          "passage": [
+            "تقييمك يسألك سؤالًا واحدًا.",
+            "كيف غيّر الحكم البريطاني الهند؟",
+            "وعندك معرفة خمسة دروس لتجيب به.",
+            "والتغيّر يعني أنّ شيئًا صار مختلفًا.",
+            "والاستمرار يعني أنّ شيئًا بقي كما كان.",
+            "والمؤرّخون يصنّفون التغيّر ثلاثة أنواع.",
+            "فالتغيّر السياسي عن السلطة والحكم.",
+            "والتغيّر الاقتصادي عن المال والتجارة والعمل.",
+            "والتغيّر الاجتماعي عن الناس والدين وكيف يعيشون.",
+            "وللورقة أربعة أجزاء.",
+            "فتجيب أسئلةً سريعة، ثم ترتّب الأحداث.",
+            "ثم تعطي دليلًا على ثلاث جُمل.",
+            "وأخيرًا تكتب مقالًا فيه وجهان وخاتمة."
+          ],
+          "dir": "rtl"
+        },
+        "pl": {
+          "checked": false,
+          "words": [
+            "kiedy rzeczy pozostają takie same, zamiast się zmieniać (continuity)",
+            "kolejność, w jakiej wydarzenia się działy (chronology)",
+            "fakty i przykłady, których używasz, żeby czegoś dowieść (evidence)",
+            "twoja ogólna decyzja, wraz z powodami (judgement)",
+            "ostatnia część eseju, w której rozważasz obie strony (conclusion)"
+          ],
+          "passage": [
+            "Twoje zadanie stawia jedno pytanie.",
+            "Jak rządy brytyjskie zmieniły Indie?",
+            "Masz wiedzę z pięciu lekcji, żeby na nie odpowiedzieć.",
+            "Zmiana znaczy, że coś stało się inne.",
+            "Ciągłość znaczy, że coś pozostało takie samo.",
+            "Historycy dzielą zmiany na trzy rodzaje.",
+            "Zmiana polityczna dotyczy władzy i rządu.",
+            "Zmiana gospodarcza dotyczy pieniędzy, handlu i pracy.",
+            "Zmiana społeczna dotyczy ludzi, religii i tego, jak żyją.",
+            "Arkusz ma cztery części.",
+            "Odpowiadasz na krótkie pytania, a potem układasz wydarzenia w kolejności.",
+            "Potem podajesz dowody na trzy twierdzenia.",
+            "Na końcu piszesz esej z dwiema stronami i wnioskiem."
+          ]
+        },
+        "pt": {
+          "checked": false,
+          "words": [
+            "quando as coisas ficam iguais em vez de mudarem (continuity, continuidade)",
+            "a ordem em que os acontecimentos aconteceram (chronology, cronologia)",
+            "os factos/fatos e os exemplos que usas para provar uma ideia (evidence, provas)",
+            "a tua decisão final, com as razões dela (judgement, juízo)",
+            "a última parte de um ensaio, onde pesas os dois lados (conclusion, conclusão)"
+          ],
+          "passage": [
+            "A tua avaliação faz uma pergunta.",
+            "Como é que o domínio britânico mudou a Índia?",
+            "Tens cinco aulas de conhecimento para a responder.",
+            "Mudança quer dizer que algo ficou diferente.",
+            "Continuidade quer dizer que algo ficou igual.",
+            "Os historiadores separam a mudança em três tipos.",
+            "A mudança política tem a ver com o poder e o governo.",
+            "A mudança económica/econômica tem a ver com o dinheiro, o comércio e o trabalho.",
+            "A mudança social tem a ver com as pessoas, a religião e a maneira como vivem.",
+            "O teste tem quatro partes.",
+            "Respondes a perguntas rápidas e depois pões os acontecimentos em ordem.",
+            "Depois dás provas para três afirmações.",
+            "Por fim escreves um ensaio com dois lados e uma conclusão."
+          ]
+        },
+        "so": {
+          "checked": false,
+          "words": [
+            "marka waxyaalo sidii ay ahaayeen u sii ahaadaan halkii ay isbeddelaan",
+            "kala horreynta dhacdooyinka",
+            "xaqiiqooyinka iyo tusaalooyinka aad u isticmaasho caddeynta qodob",
+            "go'aankaaga guud, iyo sababaha",
+            "qaybta ugu dambeysa curiska, halkaasoo aad labada dhinac miisaanto"
+          ],
+          "passage": [
+            "Qiimeyntaada waxay hal su'aal weydiinaysaa.",
+            "Sidee xukunkii Ingiriisku Hindiya u beddelay?",
+            "Waxaad haysataa shan cashar oo aqoon ah si aad uga jawaabto.",
+            "Change macnaheedu waa in wax noqday mid kale.",
+            "Continuity macnaheedu waa in wax sidii ahaaday.",
+            "Taariikhyahannadu isbeddelka waxay saddex nooc u kala saaraan.",
+            "Isbeddelka siyaasadeed wuxuu ku saabsan yahay awoodda iyo dowladda.",
+            "Isbeddelka dhaqaale wuxuu ku saabsan yahay lacagta, ganacsiga iyo shaqada.",
+            "Isbeddelka bulsho wuxuu ku saabsan yahay dadka, diinta iyo sida ay u noolyihiin.",
+            "Imtixaanku wuxuu leeyahay afar qaybood.",
+            "Waxaad ka jawaabaysaa su'aalo degdeg ah, kadibna dhacdooyinka waxaad kala saaraysaa.",
+            "Kadibna waxaad caddayn u bixinaysaa saddex hadal.",
+            "Ugu dambeyntii waxaad qoraysaa curis leh laba dhinac iyo gunaanad."
+          ]
+        },
+        "uk": {
+          "checked": false,
+          "words": [
+            "коли речі залишаються такими самими, а не змінюються (continuity)",
+            "порядок, у якому відбувалися події (chronology)",
+            "факти і приклади, якими ви доводите думку (evidence)",
+            "ваше загальне рішення з доводами на його користь (judgement)",
+            "остання частина твору, де ви зважуєте обидві сторони (conclusion)"
+          ],
+          "passage": [
+            "Ваша контрольна робота ставить одне запитання.",
+            "Як британське правління змінило Індію?",
+            "Ви маєте знання з п’яти уроків, щоб на нього відповісти.",
+            "Зміна означає, що щось стало іншим.",
+            "Неперервність означає, що щось залишилося таким самим.",
+            "Історики розкладають зміни на три види.",
+            "Політична зміна — про владу й уряд.",
+            "Економічна зміна — про гроші, торгівлю і роботу.",
+            "Соціальна зміна — про людей, релігію і те, як вони живуть.",
+            "Робота має чотири частини.",
+            "Ви відповідаєте на короткі запитання, потім ставите події в порядку.",
+            "Потім ви даєте свідчення до трьох тверджень.",
+            "Останнє — ви пишете твір з двома сторонами і висновком."
+          ]
+        },
+        "ur": {
+          "checked": false,
+          "words": [
+            "جب چیزیں بدلنے کے بجائے ویسی ہی رہیں (continuity)",
+            "وہ ترتیب جس میں واقعات پیش آئے (chronology)",
+            "وہ حقائق اور مثالیں جو آپ کسی بات کو ثابت کرنے کے لیے دیتے ہیں (evidence)",
+            "آپ کا مجموعی فیصلہ، اور اس کی وجوہات (judgement)",
+            "مضمون کا آخری حصہ، جہاں آپ دونوں طرف کی باتیں تولتے ہیں (conclusion)"
+          ],
+          "passage": [
+            "آپ کے امتحان میں ایک سوال پوچھا جاتا ہے۔",
+            "برطانوی حکومت نے ہندوستان کو کیسے بدلا؟",
+            "اس کا جواب دینے کے لیے آپ کے پاس پانچ سبقوں کی معلومات ہیں۔",
+            "change کا مطلب ہے کہ کوئی چیز مختلف ہو گئی۔",
+            "continuity کا مطلب ہے کہ کوئی چیز ویسی ہی رہی۔",
+            "مؤرخ تبدیلی کو تین قسموں میں بانٹتے ہیں۔",
+            "سیاسی تبدیلی طاقت اور حکومت کے بارے میں ہے۔",
+            "معاشی تبدیلی پیسے، تجارت اور کام کے بارے میں ہے۔",
+            "سماجی تبدیلی لوگوں، مذہب اور ان کے رہنے سہنے کے بارے میں ہے۔",
+            "پرچے کے چار حصے ہیں۔",
+            "آپ مختصر سوالوں کے جواب دیتے ہیں، پھر واقعات کو ترتیب میں رکھتے ہیں۔",
+            "پھر آپ تین بیانات کے لیے شہادت دیتے ہیں۔",
+            "آخر میں آپ دو طرفہ مضمون اور ایک نتیجہ لکھتے ہیں۔"
+          ],
+          "dir": "rtl"
+        }
+      }
+    },
       sections: [
         {
           heading: "Change and continuity: the question behind the whole unit",

@@ -1,2 +1,5 @@
 LINKEDIN.md
 _shots/
+
+# test fixture built by engine/build.py --with-sample; never published
+units/sample/
