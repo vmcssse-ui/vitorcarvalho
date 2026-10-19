@@ -311,7 +311,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           heading: "Humayun: a throne lost and won back",
           paragraphs: [
             "Humayun, Babur's son, became emperor in 1530 at 22 years old. He was inexperienced as a politician and a soldier, and he preferred writing poetry to the battlefield. He faced constant challenges to his rule and could not stamp his control on the Empire.",
-            "In 1540 he was forced into exile: he had to leave the Empire and look for allies who would help him return. It took him fifteen years. In 1555 he marched his forces back into northern India and retook the throne.",
+            "In 1540 he was forced into exile: he had to flee the Empire and search for allies who would help him return. It took him fifteen years. In 1555 he marched his forces back into northern India and retook the throne.",
             "Back in power, Humayun began to set up the administration that had been missing under his father, including a system for collecting tax. Then, in 1556, he died suddenly after falling down a flight of stone stairs. His legacy was to set the stage for his son Akbar."
           ],
           worked: {
@@ -548,7 +548,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
         {
           heading: "Miniature paintings and the halo",
           paragraphs: [
-            "Mughal paintings are known as miniatures because they were small enough to fit into a book. Like the buildings, they blend styles: the bold, vivid colours Indian painters loved, the fine delicate lines Persian painters preferred, and a European influence brought to India by missionaries.",
+            "Mughal paintings are called miniatures, because they were painted small, often small enough to sit on the page of a book. Like the buildings, they blend styles: the bold, vivid colours Indian painters loved, the fine delicate lines Persian painters preferred, and a European influence brought to India by missionaries.",
             "Paintings in history are full of symbols. A halo around an emperor's head is a symbol that he was religious and close to God. Fine clothes, jewels and elephants were symbols of wealth and power. When you look at a portrait of an emperor, ask what the painter was told to make you see and think.",
             "This creates a problem for historians, which your lesson's plenary asks about. A portrait shows how the emperor wanted to be remembered, not necessarily how he was. Jahangir's portraits show a calm, godly ruler; your own knowledge tells you he struggled with alcohol and drugs. The painting is evidence about his image, not proof about his life."
           ],
@@ -558,7 +558,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           heading: "Music, books, languages and games",
           paragraphs: [
             "Many emperors enjoyed music, and Akbar was a musician himself who liked singing Hindu songs. He kept 36 experienced musicians at his court, and it was there that Hindu and Muslim music mingled and became one. The Empire is remembered for merging these two styles into the music of India today. Music, in other words, helped bring different peoples together.",
-            "Akbar had his court historian write the Akbarnama, the Book of Akbar, in three volumes: the first on his birth and the reigns of Babur and Humayun, the second on his own reign, and the third on the Empire and the many cultures of India. It is a valuable source for historians today. Poetry thrived, and many Greek, Arabic, Turkish and Sanskrit books were translated into Persian so that more people could read them.",
+            "Akbar had his court historian write the Akbarnama, the Book of Akbar, in three volumes: one on his birth and on the reigns of Babur and Humayun, one on his own reign, and one on the Empire and the many cultures of India. It is a valuable source for historians today. Poetry thrived, and many Greek, Arabic, Turkish and Sanskrit books were translated into Persian so that more people could read them.",
             "The Empire had many languages, including Persian, Arabic and Hindavi, and a new one, Urdu, was born there and is still spoken today. Mughals played chess and Pachisi, the ancestor of Ludo, and watched jugglers, wrestling and even elephant fights. Elephants, like velvet and silk clothing, were a sign of wealth and power."
           ],
           tip: "If a question asks about long-term impact, Urdu and Indian music are your strongest examples: both are still alive today."
@@ -763,7 +763,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           heading: "Rulers, government and religion",
           paragraphs: [
             "An empire needs more than an army. The Mughals were known for good government. Akbar set up a system for collecting tax and excellent communication across his lands, so the Empire became rich and the emperor's orders reached every province. He was helped by the Navratnas, the nine jewels: a group of nine talented advisers who helped him rule.",
-            "Religion was a success too, at least under Akbar. He welcomed all faiths and promoted Hindus to positions of power in the government. This meant the views of the whole population were taken into account when decisions were made, not just the views of the Muslim rulers, and it brought a long period of peace and harmony.",
+            "Religion was a success too, at least under Akbar. He welcomed all faiths and promoted Hindus to positions of power in the government. This meant decisions were made with the whole population in view, and not only with the Muslim rulers at the top, and it brought a long period of peace and harmony.",
             "Aurangzeb shows the other side. He is remembered very positively by some, as a strong and devout ruler who made the Empire its largest, and very negatively by others, for his intolerance. When you use the factor of rulers, say which ruler you mean."
           ],
           tip: "Akbar is your best example for government AND religion. Name him, name the Navratnas, name the tax system."
@@ -875,7 +875,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
               "SC3 Explain: I show how my example proves the Empire was great, using because.",
               "SC4 Link: I end by linking back to the question and summarising why the Empire was great."
             ],
-            model: "One reason the Mughal Empire is remembered as a great Empire is because of its culture. For example, Shah Jahan paid for the Taj Mahal in Agra, a tomb that blends Persian, Turkish and Indian styles, and Akbar's court produced the Akbarnama and a new style of music that mixed Hindu and Muslim traditions. This shows that the Mughal Empire was great because its wealth and its openness to many cultures produced buildings, books and music that people still admire, visit and listen to today. An empire that only conquered would be forgotten once its armies were gone; the Mughals left things that last. Therefore, the Mughal Empire is remembered as a great Empire because its culture gave it a legacy that outlived the emperors themselves."
+            model: "One reason the Mughal Empire is remembered as a great Empire is because the culture it produced has lasted. For example, Shah Jahan paid for the Taj Mahal in Agra, a tomb that blends Persian, Turkish and Indian styles, and Akbar's court produced the Akbarnama and a new style of music that mixed Hindu and Muslim traditions. This shows that the Mughal Empire was great because its wealth and its openness to many cultures produced buildings, books and music that people still admire, visit and listen to today. An empire that only conquered would be forgotten once its armies were gone; the Mughals left things that last. Therefore, the Mughal Empire is remembered as a great Empire because its culture gave it a legacy that outlived the emperors themselves."
           },
           levels: {
             support: {
@@ -945,7 +945,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
           heading: "Factor one: religious intolerance",
           paragraphs: [
             "Akbar had welcomed all religions. Aurangzeb abandoned that policy. He tried to make Islam the religion of the whole Empire, and other religions, especially Hinduism, were persecuted. The Hindu festival of Diwali was banned.",
-            "Aurangzeb favoured Muslims in the laws he passed. Muslims were given tax breaks or paid no tax at all, while non-Muslims had to pay. His policy of temple destruction saw over 80 non-Muslim temples destroyed, and large mosques built in their place.",
+            "Aurangzeb favoured Muslims in the laws he passed. Under those laws Muslims were given tax breaks, or paid nothing at all, while non-Muslims still had to pay. His policy of temple destruction saw over 80 non-Muslim temples destroyed, and large mosques built in their place.",
             "The effect was to divide Mughal society along religious lines. Akbar had used tolerance to bring people together; Aurangzeb's intolerance pushed them apart, and the divisions helped the Empire split after his death."
           ],
           tip: "For intolerance, you have three concrete examples: Diwali banned, over 80 temples destroyed, non-Muslims taxed. Use the numbers and names."
@@ -953,7 +953,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
         {
           heading: "Factor two: poor leadership",
           paragraphs: [
-            "Under Aurangzeb, the peasants of India had to pay 50 per cent of their income, half of everything they earned, to the Emperor. The peasants in the countryside were very unhappy with their government, and many revolted.",
+            "Under Aurangzeb, the peasants of India had to pay 50 per cent of their income, half of everything they earned, to the Emperor. Peasants across the countryside grew bitterly unhappy with the government that taxed them, and many of them revolted.",
             "Aurangzeb focused on capturing new lands instead of developing the land he already had. It cost the Empire a great deal to conquer and then run new territory that brought no reward. The clearest example is the Deccan, in southern India, where he spent 26 years fighting. The campaign cost over 100,000 Mughal lives and huge amounts of gold.",
             "Culture suffered too. Aurangzeb banned music at his court, where Akbar had used music to bring the Empire's many cultures together. Few paintings survive from his reign. The things that had made the Mughal court great were allowed to fade."
           ],
@@ -1191,7 +1191,7 @@ window.ASTRA_UNITS["hist-mughal-india"] = {
             { answer: 1657, says: "1657 is the year your lesson gives for the start of Aurangzeb's reign, when the war of succession began. He died fifty years later, in 1707.", check: "1707 - 50" },
             { answer: 1858, says: "1858 is when the Mughal Empire was finally replaced by the British. Aurangzeb's death, and the start of the decline, came much earlier, in 1707.", check: "1858" }
           ] },
-        { kind: "mcq", q: "By 1757, who had taken financial and political control in India?", options: ["The British East India Company", "The Lodi dynasty", "The Navratnas", "The Portuguese navy"], answer: 0, why: "Your lesson says that by 1757 the British East India Company had taken financial and political control over India, fifty years after Aurangzeb's death.",
+        { kind: "mcq", q: "By 1757, who had taken financial and political control in India?", options: ["The British East India Company", "The Lodi dynasty", "The Navratnas", "The Portuguese navy"], answer: 0, why: "Your lesson says that by 1757 the British East India Company controlled both the money and the government of India, fifty years after Aurangzeb's death.",
           feedback: [
             "",
             "The Lodi dynasty was defeated by Babur in 1526 and never returned. The power that took control by 1757 was the British East India Company.",

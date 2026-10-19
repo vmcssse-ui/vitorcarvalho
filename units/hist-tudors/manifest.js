@@ -137,7 +137,7 @@ window.ASTRA_UNITS["hist-tudors"] = {
           heading: "What did Luther believe?",
           paragraphs: [
             "Martin Luther was a German monk. In October 1517 he wrote the 95 Theses, a list of complaints against the Church. His biggest complaint was about indulgences: payments to the Church that were supposed to reduce the punishment for a person's sins. Luther said nobody could buy forgiveness.",
-            "Luther believed that Christianity should be about what was written in the Bible. If something was not in the Bible, it had no place in Christianity. This was a direct challenge to the Pope, because many of the Pope's powers were not set out in the Bible. Luther also said that faith was personal: each person could read the Bible and understand it for themselves, so the Church did not need to tell them what to think.",
+            "For Luther, Christianity rested on scripture and nothing else. If a practice could not be found in the Bible, he held that it had no business in the Church. This was a direct challenge to the Pope, because many of the Pope's powers were not set out in the Bible. Luther also said that faith was personal: each person could read the Bible and understand it for themselves, so the Church did not need to tell them what to think.",
             "To make this possible, Luther wanted the Bible printed in languages ordinary people spoke. Until then it was printed only in Latin. Luther translated it into German; your lesson dates his German Bible to 1525. When he was called to a hearing he refused to take back his words, and while hiding in a friend's castle he kept writing and translating."
           ],
           tip: "Three Luther ideas to remember: the Bible comes first; faith is personal; no paying for forgiveness."
@@ -324,7 +324,7 @@ window.ASTRA_UNITS["hist-tudors"] = {
         {
           heading: "Three problems: marriage, money and power",
           paragraphs: [
-            "Your lesson's worksheet sorts Henry's reasons into three problems, each with the law or action that solved it. Marriage: the Pope would not annul Henry's marriage. In January 1533 Henry married Anne Boleyn anyway, and the Act in Restraint of Appeals, 1533, took the power to decide religious matters in England away from the Pope, so Henry's own bishops could end the marriage to Catherine.",
+            "Your lesson's worksheet sorts Henry's reasons into three problems, each with the law or action that solved it. Marriage: the Pope would not annul Henry's marriage. In January 1533 Henry married Anne Boleyn anyway, and the Act in Restraint of Appeals, 1533, meant that religious cases in England were no longer the Pope's to judge, so Henry's own bishops could end the marriage to Catherine.",
             "Money: the Church was enormously rich. Your lesson says it owned about 25 per cent of the land in England, and Protestants criticised its wealth. Henry began closing the monasteries from 1536, taking their land and treasure for the Crown; this is the Dissolution of the Monasteries. In 1538 he destroyed the shrine of St Thomas Becket at Canterbury and took its gold and jewels.",
             "Power: in 1534 the Act of Supremacy made Henry Supreme Head of the Church of England, so the Pope had no authority in England at all. The Treasons Act of the same year made it treason, punishable by death, to deny the king's new title. Some historians argue that power, not love or religion, was Henry's real reason for the split."
           ],
@@ -703,7 +703,7 @@ window.ASTRA_UNITS["hist-tudors"] = {
         {
           heading: "A troubled early life and a race for the crown",
           paragraphs: [
-            "Mary was the daughter of Henry VIII and his first wife, Catherine of Aragon. When Henry ended that marriage, Mary lost her title of Princess and was separated from her mother. She stayed a committed Catholic all her life, and she pleaded with her brother Edward not to make his Protestant changes. Her father had disowned her when he split from Rome.",
+            "Henry VIII was Mary's father, and her mother was his first wife, Catherine of Aragon. When Henry ended that marriage, Mary lost her title of Princess and was separated from her mother. She stayed a committed Catholic all her life, and she pleaded with her brother Edward not to make his Protestant changes. Her father had disowned her when he split from Rome.",
             "In 1553 Edward lay dying, aged 15, with no children. He and his advisers feared Mary would reverse his Protestant reforms, so he named his cousin Lady Jane Grey, a committed Protestant, as the next queen. The Duke of Northumberland backed the plan for his own reasons: Jane was married to his son, so his family would become the most powerful in England.",
             "In July 1553 Jane was taken to Syon House and told she was queen. Nobody had warned her or prepared her, and she broke down in tears. Within days her support melted away. Mary gathered her own supporters, rode into London almost unopposed, and was declared Queen Mary I."
           ],
@@ -1103,7 +1103,7 @@ window.ASTRA_UNITS["hist-tudors"] = {
           paragraphs: [
             "Henry VIII (code H in your bell work): the Act of Supremacy of 1534 made him Supreme Head of the Church of England; he began the Dissolution of the Monasteries from 1536; he destroyed Becket's shrine; the Pope excommunicated him in 1538. Yet services stayed Catholic and Henry died a Catholic. Edward VI (E): the first Protestant king; plain churches with paintings and decorations destroyed; a new prayer book in English.",
             "Mary I (M): heresy laws; Latin prayer books and decorated churches brought back; about 300 Protestants burned at the stake; marriage to Philip II of Spain. Elizabeth I (EL): the Middle Way; the Act of Supremacy of 1559 making her Supreme Governor; the Act of Uniformity; the Common Prayer Book in English.",
-            "Your review sheet lists nine changes for a Diamond of 9: Act of Supremacy, Dissolution of the Monasteries, English Prayer Book, Burning Protestants, Middle Way, Act of Uniformity, Excommunication, Heresy Laws, Supreme Governor. Before you rank them, make sure you can say which monarch each belongs to."
+            "Your review sheet lists nine changes for a Diamond of 9: Act of Supremacy, Excommunication, Dissolution of the Monasteries, English Prayer Book, Heresy Laws, Burning Protestants, Act of Uniformity, Supreme Governor, Middle Way. Before you rank them, make sure you can say which monarch each belongs to."
           ],
           tip: "Bingo words to recognise: Excommunication (Henry), English (Edward's prayer book), Burnt at the Stake (Mary), Supreme Governor and the Middle Way (Elizabeth), Lady Jane Grey (1553), Jane Seymour (Edward's mother)."
         },

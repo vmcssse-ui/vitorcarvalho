@@ -314,7 +314,7 @@ window.ASTRA_UNITS["geog-gis"] = {
             "Your deck's stretch question asks which company provides GIS software in the UK and what the software is called. The company is Esri, and the software is ArcGIS. The version you use at school, through a web browser, is ArcGIS Online. When you log in to it, you are one of the people, your laptop is the hardware, ArcGIS Online is the software, and the layers you add are the data."
           ],
           worked: {
-            q: "Describe how to use a GIS to display a map on a computer, using the four components of a GIS. (2 marks)",
+            q: "A visitor asks what has to happen before a map can appear on a screen. Describe the part each of the four components plays. (2 marks)",
             steps: [
               "Name all four components somewhere in your answer: hardware, software, data and people.",
               "Put them in the order they are used: a person opens the software on the computer, then adds data.",
@@ -900,7 +900,7 @@ window.ASTRA_UNITS["geog-gis"] = {
         {
           heading: "The progress check: what it asks",
           paragraphs: [
-            "The half-term progress check on GIS is a short written test worth 10 marks. Your deck shows the six questions it asks, and every one of them is covered in this unit. It asks what a GIS is; how to use a GIS to display a map on a computer using the four components; how we make sure our location or data shows up in the right place; what the information or data in a GIS map is called; what a heat map is, with an example; and two uses of a GIS.",
+            "The half-term progress check on GIS is a short written test worth 10 marks. Your deck shows the six questions it asks, and every one of them is covered in this unit. It asks what a GIS is; how the four components work together to put a map on a screen; how a GIS keeps each piece of data in its true place; what the information in a GIS map is called; what a heat map is, with an example; and two uses of a GIS.",
             "Prepare one clear answer for each. A GIS is a computer system that stores data about places and shows it on a map. The four components are hardware, software, data and people: a person opens the software on the computer and adds data, which the software draws. Data appears in the right place because its latitude and longitude are recorded. The data in a GIS map is held as layers. A heat map uses colour to show where there is more or less of something, such as crime. Two uses: the police mapping crime, and geographers mapping earthquakes.",
             "The pattern of marks helps you plan. The one-mark questions want a definition or a word. The two-mark questions want two points: a description plus an example, or two reasons, or two uses. Use the key words from the glossary, because they are what the marker is looking for."
           ],
@@ -970,7 +970,7 @@ window.ASTRA_UNITS["geog-gis"] = {
           title: "The progress check, in writing",
           task: {
             kind: "written",
-            q: "Describe how to use a GIS to display a map on a computer, using the four components of a GIS. Then explain how we make sure our data shows up in the right place on the map. (4 marks)",
+            q: "A visitor asks what has to happen before a map can appear on a screen. Describe the part each of the four components plays, then explain how a GIS makes sure every piece of data lands in the right place. (4 marks)",
             marks: 4,
             criteria: [
               "Names all four components: hardware, software, data and people",

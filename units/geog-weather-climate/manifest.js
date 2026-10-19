@@ -1145,7 +1145,7 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
         {
           heading: "The last Ice Age",
           paragraphs: [
-            "Climate is the usual weather over many years, but over thousands of years even the climate changes. About 20 000 years ago the Earth was in the grip of an Ice Age. The climate was far colder than today, and ice covered much of the continent of Europe, including most of the United Kingdom. Where you are sitting now may have been under hundreds of metres of ice, with only the south of England left as a cold, treeless land where few plants could grow and animals adapted to the cold roamed.",
+            "Climate is the usual weather over many years, but over thousands of years even the climate changes. About 20 000 years ago the Earth was in the grip of an Ice Age. The climate was far colder than today, and a sheet of ice lay across northern Europe, reaching down over nearly all of Britain. Where you are sitting now may have been under hundreds of metres of ice, with only the south of England left as a cold, treeless land where few plants could grow and animals adapted to the cold roamed.",
             "The ice is still with us, but there is far less of it. Today ice covers about 10 per cent of the Earth's land surface, in the form of glaciers, ice caps and ice sheets. A glacier is a large mass of ice, often shaped like a river, that flows very slowly downhill under the force of gravity. Glaciers grow and shrink with the seasons: they thicken when winter snow piles up and thin when summer melts it.",
             "An Ice Age changes the sea as well as the land. The water locked up in the ice sheets had to come from somewhere, and it came from the oceans, so sea level was much lower than it is now. As the ice melted at the end of the Ice Age, that water returned to the sea and sea level rose. When you link the timeline of the Ice Age to sea level, remember: more ice means lower seas, less ice means higher seas."
           ],
@@ -1228,7 +1228,7 @@ window.ASTRA_UNITS["geog-weather-climate"] = {
                 "Two of these are human and two are natural. Sort them first.",
                 "Fossil fuels are burned, so look for the explanation about burning.",
                 "Deforestation is about trees, so look for the one that mentions trees.",
-                "Of the two natural causes, one is about a volcano and one is about the Earth moving around the sun."
+                "Of the two natural causes in this list, one is about a volcano and one is about the Earth moving around the sun."
               ],
               example: {
                 q: "Match: agriculture, solar output. Choices: the sun giving out slightly more or less energy; cattle and rice fields giving off methane.",

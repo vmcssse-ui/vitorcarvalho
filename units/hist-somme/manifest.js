@@ -510,7 +510,7 @@ window.ASTRA_UNITS["hist-somme"] = {
           heading: "How the Western Front was created",
           paragraphs: [
             "Germany went to war with a plan. The Schlieffen Plan was designed to defeat France quickly by attacking through Belgium, so that Germany could then turn round and deal with Russia. The whole plan depended on France collapsing in about six weeks. It did not happen.",
-            "By December 1914 it had become clear that neither side could break through the other's defences. Both armies dug long lines of trenches, which ran all the way from the Belgian coast in the north to the Swiss border in the south. This area became known as the Western Front, and it stretched for more than 400 miles.",
+            "By December 1914 it had become clear that neither side could break through the other's defences. Both armies dug long lines of trenches. The line began on the coast of Belgium, ran south through France and finished at the Swiss border. This area became known as the Western Front, and it stretched for more than 400 miles.",
             "The Western Front mattered because of what a breakthrough would mean. If either alliance could push through the line, it would be into open country and could take control of the other side's territory. That is why so much was spent on so little ground, and why some of the most destructive fighting of the war happened here."
           ],
           tip: "Learn the shape of it: the Schlieffen Plan fails, so neither side can advance, so both sides dig. The trenches are the result of a stalemate, not the cause of one."
@@ -518,7 +518,7 @@ window.ASTRA_UNITS["hist-somme"] = {
         {
           heading: "What is a trench, and why dig one?",
           paragraphs: [
-            "A trench is an area dug into the ground which is deeper than it is wide. In the First World War, trenches were dug so that soldiers had protection against the enemy in the field. A man standing in a deep trench could not be hit by rifle fire from across no-man's-land, and he had some protection from shells.",
+            "A trench is an area dug into the ground which is deeper than it is wide. Soldiers on the Western Front dug them for protection from an enemy they could rarely see. A man standing in a deep trench could not be hit by rifle fire from across no-man's-land, and he had some protection from shells.",
             "Trenches zig-zagged rather than running in a straight line. There are two good reasons for that. A straight trench lets a shell blast travel along its whole length, and it also lets an enemy who gets into one end fire down the rest of it. A zig-zag keeps both the blast and the bullets to one short section.",
             "Underground dugouts gave more protection still, and were often used as medical posts or shelters for officers. Even so, a trench was never safe. It was protection from direct fire, not from the war."
           ],

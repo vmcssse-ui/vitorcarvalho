@@ -112,7 +112,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           heading: "Why the United States went to war over slavery",
           paragraphs: [
             "You studied the Transatlantic Slave Trade in Year 8. You know that Britain abolished slavery across its Empire in 1833, and began using its navy to stop slave ships at sea. The United States did not follow. Slavery carried on there for another thirty years.",
-            "The country split over it. The states in the South refused to end slavery, and argued that their whole economies depended on the tobacco and cotton trade. The states in the North argued that the South had to abolish it, because it was inhumane and against the will of God. Neither side would move.",
+            "The country split over it. Southern states refused to end slavery, and argued that the tobacco and cotton plantations were the whole basis of their wealth. Northern states argued that slavery was inhumane and against the will of God, and that the South had to abolish it. Neither side would move.",
             "In 1860 Abraham Lincoln was elected President. He had campaigned to stop slavery spreading into new states, and the South read that as the first step towards abolishing it everywhere. In 1861 the United States Civil War began. A civil war is a war fought between people of the same country. Eleven Southern states left the United States and formed a new country, the Confederacy; the states that stayed were called the Union, because they were fighting to put the country back together."
           ],
           worked: {
@@ -140,7 +140,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
         {
           heading: "Free in law, not free in life",
           paragraphs: [
-            "Although slavery had been abolished, many white Americans did not treat African Americans equally. The abolition of slavery did not mean that Black people were completely free. They were free to leave a plantation, but not free to vote, to use the same school, or to expect the police and the courts to protect them.",
+            "Abolition changed the law, not the way most white Americans behaved. Ending slavery did not make Black Americans free in any full sense. They were free to leave a plantation, but not free to vote, to use the same school, or to expect the police and the courts to protect them.",
             "The sharpest proof of that was lynching: a mob killing a person with no trial, usually by hanging. On a hot August night in 1930, a crowd of 15,000 people came into the small town of Marion in Indiana to watch three Black teenagers be killed by a mob for a crime they were only supposed to have committed. The mob pushed into the police station and dragged them out, and the authorities did not stop it. Your lesson asks you to notice where a newspaper chose to print that story, and what that tells you.",
             "Your lesson also studies the killing of Emmett Till, a Black teenager murdered in the South in the 1950s, and asks what his story shows about how white Americans saw African Americans. The question to carry into the next chapter is the one your teacher puts on the board: had emancipation worked?"
           ],
@@ -248,7 +248,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
               "They were following a ruling of the Supreme Court that they could not change"
             ],
             answer: 0,
-            why: "The deck gives the South's own argument: their entire economies depended on the tobacco and cotton trade, so they refused to end the practice.",
+            why: "The deck gives the South's own argument: the tobacco and cotton trade, they said, was the whole basis of their wealth, so they refused to end the practice.",
             feedback: [
               "",
               "The South was the farming half of the country: tobacco and cotton plantations were its wealth. That is exactly why it fought to keep slavery, rather than needing to buy from the North.",
@@ -537,7 +537,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           paragraphs: [
             "Rosa Parks lived in Alabama, a Southern state whose laws promoted segregation. In Montgomery, the front seats on the buses were reserved for white passengers. Parks was not a bystander who happened to be tired: she had been active in the Civil Rights movement since 1943, when she became the secretary of her local NAACP branch.",
             "On 1 December 1955 she refused to give up her seat, and she was arrested. The Civil Rights movement in Montgomery answered on 5 December 1955 by starting a bus boycott: Black residents refused to ride the buses at all until segregation on them ended. Because Black passengers paid a large share of the bus companies' income, the boycott bit hard, and the companies came close to bankruptcy. It held for more than a year, until 20 December 1956, with people walking, sharing cars and organising lifts the whole time.",
-            "Two things came out of it besides desegregated buses. Rosa Parks became known as the mother of the Civil Rights movement and a role model for African Americans. And a young local minister, Martin Luther King, became a national leader during the campaign. The boycott is also usually counted as the start of non-violent direct action: Black Americans doing something themselves, peacefully, to secure their civil rights."
+            "Two things came out of it besides desegregated buses. Rosa Parks is often called the mother of the Civil Rights movement, and she became a role model for African Americans. And a young local minister, Martin Luther King, became a national leader during the campaign. The boycott is also usually counted as the start of non-violent direct action: Black Americans doing something themselves, peacefully, to secure their civil rights."
           ],
           worked: {
             q: "How significant was the Montgomery Bus Boycott? Write the opening of a PEE paragraph.",
@@ -564,7 +564,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           heading: "The Little Rock Nine",
           paragraphs: [
             "The Little Rock Nine were nine students trying to go to high school in Arkansas, another Southern state. Segregation had existed in Southern schools for many years under separate but equal, and in practice Black schools received very poor levels of education. The 1954 Supreme Court ruling changed the law, but changing the law is not the same as opening the door.",
-            "In 1957 the Little Rock Board of Education and the local NAACP decided to integrate white and Black pupils at last. It was not a straightforward task. The local government and local people did not welcome the students, and in the end the President had to send in the Army so that nine teenagers could get into their lessons.",
+            "In 1957 the local NAACP and the Little Rock Board of Education agreed at last to integrate the city's white high school, teaching white and Black pupils together. It was not a straightforward task. The local government and local people did not welcome the students, and in the end the President had to send in the Army so that nine teenagers could get into their lessons.",
             "That is why the Little Rock Nine matter twice over. What they achieved was the first integration of a Southern high school. What they represented was proof that Black Americans would use the new law, and that the federal government could be made to enforce it against a state that refused."
           ],
           tip: "When you compare Rosa Parks with the Little Rock Nine, compare like with like: what each achieved, who each forced to act, and how far the win reached."
@@ -770,7 +770,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
         {
           heading: "The March on Washington, 1963, and the Civil Rights Act, 1964",
           paragraphs: [
-            "On 28 August 1963, King led 250,000 people on the March on Washington for Jobs and Freedom. Washington is the capital of the United States: it is where Congress sits and where the President lives, so a march there is aimed at the people who can change federal law. He made his most famous speech at that march. It too is in copyright and is not quoted here, but its argument is well known: that the promises of equality written into America's founding documents had not been kept for Black Americans, and that the country should keep them, judging people by their character rather than their race.",
+            "On 28 August 1963, King led a crowd of 250,000 to the March on Washington for Jobs and Freedom. The United States has its capital at Washington: Congress sits there and the President lives there, so a march in that city is aimed at the people who can change federal law. He made his most famous speech at that march. It too is in copyright and is not quoted here, but its argument is well known: that the promises of equality written into America's founding documents had not been kept for Black Americans, and that the country should keep them, judging people by their character rather than their race.",
             "Your lesson asks why King chose Washington rather than the Deep South, where the segregation and the racial violence were. The answer is in the chapter above: he had already proved his case locally, and local wins could not reach every state. Only Congress could.",
             "In 1964 Congress passed the Civil Rights Act into law. The Act gave Black Americans equal status with white Americans under the law, and made discrimination, including segregation, illegal. It was one of the biggest achievements of the whole campaign, and King's speech is credited with pushing Congress into passing it. But the fight was not over, because Jim Crow rules in the South still kept many Black citizens from voting, and that is where chapter five begins."
           ],
@@ -978,7 +978,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
         {
           heading: "The Voting Rights Act, and what the President told Congress",
           paragraphs: [
-            "A week after Bloody Sunday, President Johnson introduced the Voting Rights Act to Congress and gave a speech demanding that Congress pass the law. Congress passed the Voting Rights Act in 1965.",
+            "A week after Bloody Sunday, President Johnson put the Voting Rights Act before Congress and spoke in person to press for its passing. Congress passed the Voting Rights Act in 1965.",
             "Johnson's speech of 15 March 1965 is in copyright, so it is not quoted here; his argument, in other words, was this. What had happened at Selma, he told Congress, was part of a much larger movement reaching into every part of the country. It was the effort of Black Americans to secure for themselves everything American life promised, and their cause had to be the whole nation's cause, because it was not only Black Americans but all Americans who had to get past a long history of prejudice and injustice that still held the country back. He finished by borrowing the movement's own anthem of determination.",
             "Your lesson asks you to notice who he was speaking to and what he was doing. By presenting voting rights as everyone's problem rather than a Black problem, the President was making it harder for members of Congress to treat it as somebody else's business. That a president was making the movement's argument for it, in those words, is itself a measure of how much the march at Selma had achieved."
           ],
@@ -1173,7 +1173,7 @@ window.ASTRA_UNITS["hist-civil-rights"] = {
           heading: "Ideas that changed, and what held him back",
           paragraphs: [
             "Malcolm X did not hold one fixed position all his life, and the change is examinable. By 1964 he had left the Nation of Islam and made a pilgrimage to Mecca, and he came back believing that white and Black people could work together to end racism and that he was arguing for human rights for every group in society. In a famous speech of 1964 he urged Black Americans to use their votes to change the American political system rather than to turn to violence, while insisting that white racism was so deeply rooted that Black people still needed the right to defend themselves. That was a major change of position, and he kept saying that King and the other groups had not done enough.",
-            "His limitations are set out plainly in your lesson. Other Civil Rights groups labelled him an extremist and a radical. His support for violence put some people off him altogether. His claim that Islam was the true religion of all Black people did not win him support, because many Black Americans were Christians. And after President Kennedy was shot in 1963, his remark that America's own violence had come back on it upset many people, Black and white.",
+            "His limitations are set out plainly in your lesson. Other Civil Rights groups labelled him an extremist and a radical. His support for violence put some people off him altogether. His claim that Islam was the one true faith for every Black person did not persuade people, because most Black Americans were Christians. And after President Kennedy was shot in 1963, his remark that America's own violence had come back on it upset many people, Black and white.",
             "So the record really is mixed, and that is what makes him a good subject for an interpretation question. He grew an organisation from a few hundred to tens of thousands and reached people King could not reach. He also alienated potential allies, including the ones with the power to pass laws."
           ],
           worked: {

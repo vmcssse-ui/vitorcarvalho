@@ -62,7 +62,7 @@ window.ASTRA_UNITS["geog-glaciers"] = {
     { term: "plucking", means: "A glacier tearing blocks of rock away from the ground as it moves.", chapter: "ice-at-work" },
     { term: "abrasion", means: "Rocks frozen into the base of a glacier scraping the ground underneath like sandpaper.", chapter: "ice-at-work" },
     { term: "deposition", means: "A glacier dropping the rock it has been carrying, usually when the ice melts.", chapter: "ice-at-work" },
-    { term: "corrie", means: "A rounded, armchair-shaped hollow with a steep back wall, on the side of a mountain, carved by a glacier.", chapter: "erosion-landforms" },
+    { term: "corrie", means: "An armchair-shaped hollow carved high into a mountainside by a glacier, with a steep back wall and a flatter floor.", chapter: "erosion-landforms" },
     { term: "arête", means: "A narrow, knife-edged ridge left between two corries that have formed back to back.", chapter: "erosion-landforms" },
     { term: "pyramidal peak", means: "A pointed mountain top left where three or more corries have cut back into the same mountain.", chapter: "erosion-landforms" },
     { term: "tarn", means: "A lake in the bottom of a corrie, filling the hollow after the ice has melted.", chapter: "erosion-landforms" },
@@ -758,7 +758,7 @@ window.ASTRA_UNITS["geog-glaciers"] = {
         }
       ],
       gate: [
-        { kind: "mcq", q: "What is a corrie?", options: ["An armchair-shaped hollow with a steep back wall on the side of a mountain", "A knife-edged ridge between two hollows", "A pointed peak where three hollows meet", "A lake on the floor of a U-shaped valley"], answer: 0, why: "A corrie is a rounded, armchair-shaped hollow with a steep back wall, carved into a mountainside by a glacier.",
+        { kind: "mcq", q: "What is a corrie?", options: ["An armchair-shaped hollow with a steep back wall, carved high on a mountainside", "A knife-edged ridge between two hollows", "A pointed peak where three hollows meet", "A lake on the floor of a U-shaped valley"], answer: 0, why: "A corrie is a rounded, armchair-shaped hollow with a steep back wall, carved into a mountainside by a glacier.",
           feedback: [
             "",
             "A knife-edged ridge between two hollows is an arête. The hollow itself, shaped like an armchair with a steep back wall, is the corrie.",

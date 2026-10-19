@@ -475,7 +475,7 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
         {
           heading: "Best friends: Henry and Becket",
           paragraphs: [
-            "It is 1154, and Henry II has become King of England. He is the great-grandson of William the Conqueror through William's granddaughter Matilda, and the first Plantagenet king. He is popular, but he has a very short temper: when he is angry, his eyes go bloodshot and he flies into a rage.",
+            "It is 1154, and Henry II has become King of England. He is William the Conqueror's great-grandson — the line runs through Matilda, the Conqueror's granddaughter — and he is the first Plantagenet king. He is popular, but he has a very short temper: when he is angry, his eyes go bloodshot and he flies into a rage.",
             "One of Henry's best friends is Thomas Becket. They hunt together and feast together, and both love expensive food and wine. Henry trusts Thomas so much that he makes him Chancellor, the person in charge of the country when the king is away. Then Henry goes further and makes his friend Archbishop of Canterbury, the head of the Church in England. He expects an Archbishop who will do what the king wants.",
             "That is not what he gets. Becket becomes very religious and starts to put the Church before the king. Henry believes the Church courts are too soft on priests who break the law, and he wants to punish them himself. Becket refuses to let him. In 1164 Becket agrees to change the rules of the Church courts, then changes his mind. Henry is furious, and Becket runs away to France. He stays there for six years."
           ],
@@ -642,8 +642,8 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
         {
           heading: "Three suspects",
           paragraphs: [
-            "Your lesson gave you nine causes of the murder and asked you to sort them into three columns: King Henry was to blame, Thomas Becket was to blame, the knights were to blame. Here they are, grouped the way your lesson's answer slide grouped them.",
-            "Henry: he was well known for a terrible temper. In 1170 he asked the Archbishop of York to crown the next king, which should have been Becket's job. And he shouted the words about the troublesome priest in front of the knights. Becket: when he returned from France in 1170 he broke his promises to Henry by excommunicating other bishops and the Archbishop of York. He refused to let the king punish priests who broke the law, and in 1164 he changed his mind about the Church court rules and fled to France. In the cathedral, he refused to leave when the knights threatened him. The knights: they set off for Canterbury straight away without asking Henry whether he wanted Becket killed. Henry sent a messenger after them, but it was too late. And they chose to kill Becket in a brutal way instead of forcing him to leave the country.",
+            "Your lesson gave you nine causes of the murder and asked you to sort them into three columns, one for each person who might be blamed: King Henry, Thomas Becket, or the knights. Here they are, grouped the way your lesson's answer slide grouped them.",
+            "Henry: he was well known for a terrible temper. In 1170 he had the Archbishop of York crown the next king — a job that belonged to Becket. And he shouted the words about the troublesome priest in front of the knights. Becket: when he returned from France in 1170 he broke his promises to Henry by excommunicating other bishops and the Archbishop of York. He refused to let the king punish priests who broke the law, and in 1164 he changed his mind about the Church court rules and fled to France. In the cathedral, he refused to leave when the knights threatened him. The knights: they set off for Canterbury straight away without asking Henry whether he wanted Becket killed. Henry sent a messenger after them, but it was too late. And they chose to kill Becket, and to kill him brutally, rather than simply drive him out of the country.",
             "Notice the warning your lesson gave: some causes fit more than one column. Henry's shout belongs to Henry, but the knights' decision to act on it belongs to them. You have to decide who is most to blame, and that means weighing the causes, not just counting them."
           ],
           tip: "Nine causes, three columns. Before you judge, make sure you can place every cause and say why it sits where it does."
@@ -656,7 +656,7 @@ window.ASTRA_UNITS["hist-plantagenets"] = {
             "You may disagree with one or two of these, and that is allowed, as long as you can argue it. Becket's return and the excommunications happened in 1170, the same year as the murder, yet the slide calls them long-term. A historian might say they were the last step in a quarrel that had lasted six years, and so belong with the long-term causes. Another might say they were the spark. State your reason either way."
           ],
           worked: {
-            q: "Is this a short-term or a long-term cause? In 1170, while Becket was in France, Henry asked the Archbishop of York to crown the next king.",
+            q: "Is this a short-term or a long-term cause? In 1170, with Becket still in France, Henry had his son crowned by the Archbishop of York.",
             steps: [
               "Ask when it happened in relation to the murder. It happened while Becket was still in France, before his return and before the final quarrel.",
               "Ask whether it is part of a build-up or a final spark. It added to a quarrel that had been running since 1164, so it is part of the build-up.",

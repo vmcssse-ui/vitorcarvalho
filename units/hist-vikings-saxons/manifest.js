@@ -531,7 +531,7 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           heading: "Gods, Valhalla and the Thing",
           paragraphs: [
             "Your lesson names twelve gods in the Viking religion, each responsible for different things. Odin was the king of the gods. Thor was the god of thunder and fertility, usually shown with his hammer, Mjolnir. Loki was the god of mischief and chaos, often represented by a snake. Heimdall was the god of light and protection, who kept watch for invaders of Asgard, the home of the gods.",
-            "It was extremely important to Vikings that they reached Valhalla, their version of heaven, where they would live with Odin. This belief helps explain why Viking warriors were willing to take such risks: a brave death was a way in.",
+            "Reaching Valhalla mattered enormously. Vikings believed it was a kind of heaven: a great hall where the bravest of the dead lived alongside the god Odin. Hold that belief, and the risks a Viking warrior took start to make sense, because a brave death was the way in.",
             "The Thing was the Viking version of a modern parliament. At the Thing, Vikings decided what the laws should be and discussed politics. Families could settle arguments there through debate, although sometimes the argument ended in a fight. The Thing lasted several days and had a festival atmosphere, with people drinking and setting up stalls to sell what they had made."
           ],
           tip: "Odin rules, Thor thunders with his hammer, Loki causes mischief, Heimdall keeps watch. Four gods, four jobs."
@@ -558,8 +558,8 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
           heading: "What a bead can tell us",
           paragraphs: [
             "At Repton, in Derbyshire, archaeologists have found a Viking camp built around a monastery, with a mass grave holding 264 bodies dated to the 870s, silver Arab coins dated to between 872 and 874, gaming pieces, axe heads, ship's nails and a Thor pendant. Among the finds was a carnelian bead: a small, shiny red stone bead that Vikings sometimes wore as jewellery.",
-            "The interesting part is that carnelian did not come from Scandinavia at all. This bead came from Gujarat, in India. It had travelled thousands of miles, passing through many traders in the Islamic world, the Byzantine Empire and eastern Europe before it reached a Viking in England. The same kind of bead has been found at a Viking fort at Vypovzyv, in Ukraine. At Birka in Sweden a woman was buried with carnelian beads and a ring with Arabic writing. At Gotland a hoard held 14,295 coins, most of them Islamic.",
-            "This shows that the Vikings were not just fierce warriors who raided other countries. They were also skilled traders who used long routes along the rivers of Russia and towards Constantinople. They swapped furs, amber and even enslaved people for luxury items such as beads, silk and silver coins. By finding out where a bead came from and where it ended up, archaeologists can map Viking journeys as far as Asia, the Middle East and North Africa."
+            "The interesting part is that carnelian did not come from Scandinavia at all. This bead came from Gujarat, in India. It had crossed thousands of miles to get here. Trader after trader had handled it, first in the Islamic world, then the Byzantine Empire, then eastern Europe, until at last it ended up with a Viking in England. The same kind of bead has been found at a Viking fort at Vypovzyv, in Ukraine. At Birka in Sweden a woman was buried with carnelian beads and a ring with Arabic writing. At Gotland a hoard held 14,295 coins, most of them Islamic.",
+            "This shows that the Vikings were not just fierce warriors who raided other countries. They were also skilled traders who used long routes along the rivers of Russia and towards Constantinople. They swapped furs, amber and even enslaved people for luxury items such as beads, silk and silver coins. Work out where a bead was made, work out where it was finally buried, and you have two fixed points on a trade route. That is how archaeologists have traced Viking journeys as far as Asia, the Middle East and North Africa."
           ],
           tip: "One small object, three big inferences: the Vikings traded, they travelled far, and they met people from many cultures."
         }
@@ -631,7 +631,7 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
               "They had no interest in jewellery or wealth"
             ],
             answer: 0,
-            why: "The bead travelled through many traders in the Islamic world, the Byzantine Empire and eastern Europe before it reached the Vikings. It shows they were traders connected to a wide world, not only raiders.",
+            why: "The bead changed hands over and over again, in the Islamic world, the Byzantine Empire and eastern Europe, long before any Viking owned it. It shows they were traders connected to a wide world, not only raiders.",
             feedback: [
               "",
               "The bead travelled through the hands of many traders; it does not mean a Viking sailed to India. Archaeologists infer trade along long routes, not a raid on India.",
@@ -734,7 +734,7 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
         {
           heading: "Why would anyone attack this island?",
           paragraphs: [
-            "Lindisfarne is a small island off the north-east coast of England. It is also called Holy Island, because it had a very important Christian monastery. Monks lived there, prayed, and made books about their religion. You can only reach the island when the tide is low, so it felt like a peaceful and safe place.",
+            "Lindisfarne is a small island off the north-east coast of England. Its other name is Holy Island, and it earned that name: the monastery standing on it was one of the most important Christian places in the country. The monks who lived there spent their days praying and copying out holy books by hand. The island can be walked to only at low tide, which is part of why it felt so safe.",
             "In the year 793, Viking warriors from Scandinavia sailed across the sea in their longships and attacked Lindisfarne. The monks did not fight back. The Vikings wanted the treasure and valuables of the monastery, and they took them. It was one of the first Viking raids on England, and historians often call it the beginning of the Viking Age.",
             "Why a monastery? Think like a raider. A monastery held gold and silver for its church, it was full of men who had given up fighting, and it stood by the sea where a longship could land and leave quickly. To a Viking it was rich, undefended and easy to reach."
           ],
@@ -957,8 +957,8 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
         {
           heading: "The Danelaw and the mixing of cultures",
           paragraphs: [
-            "A big part of Britain became known as the Danelaw, where Viking rules and ways of life were followed. That was different from the rest of England, which still had Anglo-Saxon kings. In 878, after his victory at Edington, Alfred agreed the boundaries of the Danelaw with Guthrum.",
-            "Over time, the Vikings and the local people started living together more peacefully. They shared language, clothes, farming ideas and even names. Some English words we use today come from the Viking language, such as sky, egg and window. Place names ending in -by and -thorpe, such as Grimsby, Derby and Scunthorpe, are Viking names that are still used.",
+            "A large stretch of Britain came to be called the Danelaw. Inside it, Viking law and Viking custom decided how people lived. Outside it, the old kingdoms carried on under Anglo-Saxon kings. In 878, after his victory at Edington, Alfred agreed the boundaries of the Danelaw with Guthrum.",
+            "As the years passed, the newcomers and the people already living there settled into a quieter life side by side. Words, clothing, ways of farming and even personal names passed between them. Some English words we use today come from the Viking language, such as sky, egg and window. Place names ending in -by and -thorpe, such as Grimsby, Derby and Scunthorpe, are Viking names that are still used.",
             "Your lesson asked you to judge how significant the Viking invasion was, on a line from not significant to very significant. A good judgement weighs lasting changes, such as language, place names and the Danelaw, against the fact that in the end England was united under Anglo-Saxon kings. Then it considers the other side of its own argument."
           ],
           tip: "Significant means important with lasting effects. Language and place names still used today are strong evidence of significance."
@@ -966,7 +966,7 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
         {
           heading: "Alfred: the king who should never have been king",
           paragraphs: [
-            "Alfred was a sickly child. He had three older brothers who were all supposed to become king before him, so he should never really have been king at all. As a boy he visited shrines and churches, and even met the Pope in Rome. This mattered, because religion was part of everybody's life and the Pope was seen as the link between God and the people on Earth. Alfred outlived all three brothers and became King of Wessex.",
+            "Alfred was a sickly child. He had three older brothers who were all supposed to become king before him, so he should never really have been king at all. As a boy he visited shrines and churches, and even met the Pope in Rome. That mattered. Religion ran through everybody's life, and people looked to the Pope as the one who stood between God and themselves. In the end Alfred outlived all three of his brothers and became King of Wessex.",
             "Alfred believed that reading and writing were extremely important. He translated many books from Latin, which few people could read, into English, so that more people could understand them. This started a new age of education and literacy in Britain, and some people say it is the reason he was called Great.",
             "Then Guthrum, a Viking warlord, invaded Wessex. Alfred fled and hid in Somerset, an area the Vikings did not know. While in hiding he put together a Saxon army more capable of fighting the Vikings. When it was big enough he marched to meet Guthrum at Edington, in 878, and after a day of fighting Alfred won. He forced Guthrum back, trapped the Vikings and starved them of food until they surrendered. Guthrum agreed to Alfred's treaty: he became a Christian, went back to the Danelaw and promised never to invade Alfred's kingdom again."
           ],
@@ -975,7 +975,7 @@ window.ASTRA_UNITS["hist-vikings-saxons"] = {
         {
           heading: "Alfred's policies, and the title Great",
           paragraphs: [
-            "After defeating the Vikings, Alfred introduced policies to make sure Wessex was better prepared if they came again. Burhs were towns surrounded by high walls and guard towers, to protect the people living there. Alfred used the burhs to collect tax and store the money, so that more burhs could be built. He also decided that half of the army should always be active, so that it was ready at all times. This was one of the first professional armies in Britain.",
+            "After defeating the Vikings, Alfred introduced policies to make sure Wessex was better prepared if they came again. A burh was a town ringed with high walls and watchtowers, so that the people inside could be defended. Alfred used the burhs to collect tax and store the money, so that more burhs could be built. He also decided that half of the army should always be active, so that it was ready at all times. This was one of the first professional armies in Britain.",
             "Your lesson asked you to judge how well Alfred dealt with the Vikings. Did he beat them? Yes, at Edington. Did he ever run and hide? Yes, in Somerset. Did he learn from his mistakes and prepare better for the future? Yes: burhs, tax and a standing army. Weigh all three before you place your arrow.",
             "Does Alfred deserve to be remembered as Great? Your lesson wants a view with two reasons, and then the opposite view. Translating books, beating Guthrum and building the burhs are reasons for yes. Fleeing from his kingdom, and the fact that the Danelaw remained in Viking hands, are reasons a critic might give."
           ],

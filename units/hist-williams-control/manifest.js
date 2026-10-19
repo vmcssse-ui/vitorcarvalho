@@ -318,7 +318,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
         {
           heading: "The morning after Hastings",
           paragraphs: [
-            "On 14 October 1066 the English army led by King Harold fought William's Norman army from sunrise to nearly sunset. William, Duke of Normandy, defeated and killed Harold. Harold's brothers Gyrth and Leofwine, two important Anglo-Saxon earls, were killed as well. In one day the Godwinson family, the most powerful in England, had lost three of its leaders.",
+            "On 14 October 1066 King Harold's English army and the Norman army of William, Duke of Normandy, fought each other from first light until almost dark. By the end of it Harold was dead and William had won. Harold's brothers Gyrth and Leofwine, two important Anglo-Saxon earls, were killed as well. In one day the Godwinson family, the most powerful in England, had lost three of its leaders.",
             "William expected England to submit to him and offer him the crown. It did not happen. The surviving Anglo-Saxon earls did not come to William and accept him as their new king. He had won a battle, but he had not won the country.",
             "This is the point your topic picks up from. Winning at Hastings gave William a chance; the next ten weeks decided whether he could use it."
           ],
@@ -517,7 +517,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           "In January 1069 Robert marched into Durham, ignoring warnings.",
           "An army of angry northerners was waiting, and Robert and his men were killed.",
           "Later in 1069 the North rose again, helped by the Danes.",
-          "William did not have enough soldiers to control the North all the time.",
+          "There were never enough Norman soldiers to hold the North down all the time.",
           "So in the winter of 1069 to 1070 he used terror.",
           "His men burned crops, herds, tools and food across the North.",
           "This is called the Harrying of the North.",
@@ -529,7 +529,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           heading: "The first rebellions, 1067–68",
           paragraphs: [
             "After securing London and Dover, William controlled the South. He now had to turn to the rebellious English earls of the North and to anyone else who refused to accept him. The first rebellion William faced was led by Eadric the Wild, from 1067 to 1068. In 1068 the family of Harold Godwinson rebelled in Exeter.",
-            "William used all of his military strength to destroy both revolts and end any opposition to his rule. Both were put down. But notice the pattern: each time William's army moved on, somebody else rose up behind it. A country cannot be held by one army marching from place to place.",
+            "William threw his whole army at both risings and crushed them, determined that no one should be left standing against him. Both were put down. But notice the pattern: each time William's army moved on, somebody else rose up behind it. A country cannot be held by one army marching from place to place.",
             "The deck's Bayeux Tapestry bell work shows Norman soldiers setting fire to an English house. Burning was how a medieval army punished an area, and William had already used it around London. In 1069 he would use it on a far greater scale."
           ],
           tip: "Learn the rebellions as a list with dates: Eadric the Wild 1067–68; Exeter 1068; Northumbria 1069. Three rebellions in three years."
@@ -546,7 +546,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
         {
           heading: "The Harrying of the North, 1069–70",
           paragraphs: [
-            "William did not have enough soldiers to control the North all the time. So in the winter of 1069 to 1070 he chose terror. His army laid waste the whole region north of the River Humber: crops and herds, tools and food of every kind were burned. Villages were destroyed. The aim was that the land could no longer give shelter or food to his enemies, so that rebellion became impossible. This is the Harrying of the North.",
+            "There were never enough Norman soldiers to hold the North down month after month. So in the winter of 1069 to 1070 he chose terror. His army laid waste the whole region north of the River Humber: crops and herds, tools and food of every kind were burned. Villages were destroyed. The aim was that the land could no longer give shelter or food to his enemies, so that rebellion became impossible. This is the Harrying of the North.",
             "The result was famine. With the harvest burned and the animals killed, people starved through the winter. A writer of the time believed that more than one hundred thousand people died of hunger, the innocent along with the guilty. The next chapter looks closely at what that writer and a Norman writer said about it.",
             "Why did William think this was necessary? The North had rebelled repeatedly and had joined with the Danes. He could not station an army there for ever. Destroying the food made another rising impossible for years. Whether that made it right is a different question, and one you will be asked to judge."
           ],
@@ -753,7 +753,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
         {
           heading: "What Orderic Vitalis said",
           paragraphs: [
-            "Orderic describes the destruction itself. The king, he says, stopped at nothing to punish his enemies. He “ordered that crops and herds, tools and food of every kind should be burned to ashes”, and in this way the whole region north of the River Humber was laid waste.",
+            "Orderic describes the destruction itself. The king, he says, stopped at nothing to punish his enemies. He “ordered that crops and herds, tools and food of every kind should be burned to ashes”, and he says that everything north of the River Humber was left in ruins.",
             "Then he turns to the people. He writes of a “cruel hunger which afflicted the innocent and the guilty alike”, and says that more than one hundred thousand people died of it, in his belief. His last words are a judgement: he cannot commend, meaning praise, this act.",
             "Orderic does not say the rebels were innocent, and he does not deny that William had enemies in the North. His point is about proportion: the punishment fell on everyone, guilty or not, and the suffering was too great to approve of. That is a different interpretation from Poitiers, built from the same event."
           ],
@@ -950,7 +950,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
         {
           heading: "Why change who owned the land?",
           paragraphs: [
-            "William had three reasons. First, he did not trust the Saxon earls who ruled the land; they would have to be removed. Second, he needed to reward the men who had helped him win at Hastings and had been loyal since. They had risked their lives, and he would not have been king without them. Third, he knew he could not be everywhere at once and needed a system he could trust to rule all England for him.",
+            "William had three reasons. First, he did not trust the Saxon earls who ruled the land; they would have to be removed. Second, he needed to reward the men who had helped him win at Hastings and had been loyal since. They had risked their lives, and he would not have been king without them. Third, one man cannot be in every corner of a kingdom at the same time, so he needed a system of rule he could rely on while he was elsewhere.",
             "So William decided to change, drastically, the way land was shared out across England. The result was the Feudal System. The name comes from the Latin word feudum, which your lesson explains as giving land in return for services. Land was the reward, and loyalty and service were the price.",
             "Think back to your starter: how does a headteacher keep control of a school? Not alone. Heads of year, teachers and form tutors each take charge of a part, and each answers to the person above. William's system worked the same way, with land instead of a salary."
           ],
@@ -1159,7 +1159,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           paragraphs: [
             "Once William was crowned, he set about enforcing his control over the whole country. But he was hugely outnumbered. Only around 8,000 to 10,000 Normans settled in England with him, while the population of England in 1066 was around 1.5 to 2 million. Chapter 1 told you that Anglo-Saxon England had almost no castles. The Normans changed that.",
             "Wherever William's army went, it built castles, and barons were put in charge of them to make sure the Normans controlled key roads, ports, rivers and towns. Castles were normally built in areas that had rebelled or resisted. If a town rose up, the Normans built a castle to watch over it. The castle was a symbol of Norman strength and a visual reminder that rebellion was futile, meaning pointless.",
-            "Castles worked both ways. They enforced William's rule on the people, and they protected the Norman soldiers from the unhappy English around them. Your lesson puts it in one line: castles meant that 10,000 Norman soldiers could control 500,000 Anglo-Saxon people."
+            "Castles worked both ways. They enforced William's rule on the people, and they protected the Norman soldiers from the unhappy English around them. Your lesson reduces it to two figures and one idea: 10,000 Norman soldiers, 500,000 Anglo-Saxon people, and castles to hold the difference."
           ],
           tip: "Two jobs for every castle: control the English outside, protect the Normans inside. Say both in any explanation."
         },
@@ -1176,7 +1176,7 @@ window.ASTRA_UNITS["hist-williams-control"] = {
           heading: "Wood first, then stone",
           paragraphs: [
             "At the start of William's reign, castles were built of wood. Wood was in good supply from England's forests, so a wooden castle could be built very quickly and easily, which mattered when a town had just rebelled. The disadvantage was obvious: a wooden castle would burn if set on fire.",
-            "As time went on, the wooden castles were replaced by stronger stone castles, some of which still stand today. Stone took longer and cost more, but it did not burn and it lasted for centuries.",
+            "Later the timber castles gave way to stone ones, far stronger, and a number of those are standing to this day. Stone took longer and cost more, but it did not burn and it lasted for centuries.",
             "The scale was enormous. In the 21 years of William's reign, from 1066 to 1087, the Normans built over 500 castles. That works out at roughly one castle every two weeks, for twenty-one years, without a break."
           ],
           worked: {

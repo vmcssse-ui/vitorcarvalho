@@ -726,7 +726,7 @@ window.ASTRA_UNITS["hist-whitechapel"] = {
         {
           heading: "Where the police came from",
           paragraphs: [
-            "Before 1829 London did not have a police force. When there was serious disorder, the army was used to restore order. But by 1829 London's population had grown so much that too many crimes were being committed for soldiers and local watchmen to cope with. In that year the politician Sir Robert Peel set up the Metropolitan Police Force, to reduce the role of the army and to reduce crime. The new officers were soon nicknamed Peelers and Bobbies, both after Peel.",
+            "Before 1829 London did not have a police force. When there was serious disorder, the army was used to restore order. But by 1829 London's population had grown so much that too many crimes were being committed for soldiers and local watchmen to cope with. In that year the politician Sir Robert Peel set up the Metropolitan Police Force, both to cut crime and to take the job of keeping order away from the army. The new officers were soon nicknamed Peelers and Bobbies, both after Peel.",
             "By 1888 the force was 59 years old, and Whitechapel was covered by its H Division. Officers patrolled on foot, walking a fixed route called a beat, again and again, through the night. This is the kind of policing you saw in Mitre Square in chapter 3.",
             "The early force had serious problems, and your lesson lists them. Officers had no formal training. They were paid about one pound a week. They were not trusted by local communities, and people regularly attacked them. Your lesson also says that many officers drank on duty. And there were simply not enough of them for a city of London's size."
           ],

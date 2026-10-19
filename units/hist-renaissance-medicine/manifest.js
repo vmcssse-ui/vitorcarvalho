@@ -440,9 +440,9 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
             ]
           },
           contexts: [
-            { label: "A country healer", q: "A healer in a village asks each patient about their diet, studies a sample of their urine and gives every one of them a different remedy for each separate symptom. Whose approach to diagnosis is this closest to?", why: "Working from the individual patient's diet, urine and separate symptoms is the older, medieval approach rather than Sydenham's." },
+            { label: "A surgeon in a port", q: "A surgeon in a busy port writes down the symptoms of every sailor who comes to him with the same swollen gums and the same aching legs, judges that all of them have one illness, and gives them all the same treatment. Whose approach to diagnosis is this closest to?", why: "Writing down the symptoms, judging that the cases are one disease and treating that disease rather than each complaint on its own is Sydenham's method." },
             { label: "A physician with a notebook", q: "A physician keeps a notebook in which he records the symptoms of every patient he sees, then looks back through it to find the cases that match the patient in front of him. Whose approach to diagnosis is this closest to?", why: "Recording and comparing cases so that an illness can be grouped with others like it is Sydenham's method." },
-            { label: "A physician and the calendar", q: "A physician asks for the patient's date of birth, works out the position of the planets at that date and chooses the treatment from what he finds. Whose approach to diagnosis is this closest to?", why: "Choosing treatment from the position of the planets is astrology, an older idea that continued in this period rather than Sydenham's method." }
+            { label: "A physician a century later", q: "A physician working a hundred years after Sydenham sees four children from one street with the same rash and the same high fever, names the illness they share, and treats that illness in all four rather than the rash and the fever one at a time. Whose approach to diagnosis is this closest to?", why: "Grouping patients whose symptoms match, naming the disease and treating the disease as a whole is Sydenham's method, in whichever century the physician works." }
           ],
           levels: {
             support: {
@@ -1176,7 +1176,7 @@ window.ASTRA_UNITS["hist-renaissance-medicine"] = {
           heading: "The plague never really left",
           paragraphs: [
             "The Black Death of 1348 is in your last unit; this is its sequel. The disease did not go away afterwards. For the next three hundred years there were local and regional outbreaks, year after year, without ever again becoming a national disaster on that scale. London was hit hard in 1603 and again in 1625. Then, between June and November 1665, came the second great outbreak in English history, known as the Great Plague.",
-            "The figures your lesson gives are these. At the peak of the outbreak, 7,000 people a week were dying. In London over 100,000 people died, which was about a fifth of the city's population. For comparison, conservative estimates for 1348 and 1349 put the deaths at about one third of the population of the whole country.",
+            "The figures your lesson gives are these. At the peak of the outbreak, 7,000 people a week were dying. Across the city, over 100,000 people died in all, which was about a fifth of London's population. For comparison, conservative estimates for 1348 and 1349 put the deaths at about one third of the population of the whole country.",
             "Historians today say that this was bubonic plague, caused by bacteria that travelled in fleas living on black rats, and the rats came in on ships. Nobody in 1665 knew any of that, and it is worth saying out loud: the people you are about to study were not stupid. They were working with the explanations they had."
           ],
           tip: "Give the 1665 figures as the city of London's, not the country's. Mixing up a London figure with a national one is an easy mark to lose."
