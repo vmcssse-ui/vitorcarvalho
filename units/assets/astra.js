@@ -43,6 +43,22 @@
     return e;
   });
   A.q = (k) => new URLSearchParams(location.search).get(k);
+  /* A settled permutation of 0..n-1 from a string key: the same order every time, for every pupil and
+     every device, and the same when a question returns on spaced review — so a class can still talk about
+     "the third one" — but not the order the author happened to write. Used for multiple-choice options,
+     where authors overwhelmingly put the right answer first. */
+  A.settledOrder = (n, key) => {
+    let s = 2166136261 >>> 0; const k = String(key || "");
+    for (let i = 0; i < k.length; i++) { s ^= k.charCodeAt(i); s = Math.imul(s, 16777619) >>> 0; }
+    const rnd = () => { s ^= s << 13; s >>>= 0; s ^= s >>> 17; s ^= s << 5; s >>>= 0; return s / 4294967296; };
+    const a = Array.from({ length: n }, (_, i) => i);
+    for (let pass = 0; pass < 8; pass++) {
+      for (let i = n - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+      if (n < 2 || a.some((v, i) => v !== i)) break;            /* never hand back the author's own order */
+    }
+    if (n > 1 && a.every((v, i) => v === i)) a.push(a.shift());  /* and if eight passes still landed there, step it */
+    return a;
+  };
   A.shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
   A.fmt = (n) => { if (typeof n !== "number") return String(n); const v = +n.toPrecision(10); return (v < 0 ? "−" : "") + String(Math.abs(v)); };
   A.parseNum = (s) => {
@@ -324,9 +340,13 @@
     o = o || {}; const qid = uid("q"); const node = h("div", { class: "ctl" }); let locked = false; let api;
     if (it.kind === "mcq") {
       let sel = -1; node.append(h("p", { class: "iq", id: qid }, it.q));
-      const bs = it.options.map((t, i) => h("button", { type: "button", class: "chip", "aria-pressed": "false", onclick: () => { if (locked) return; sel = i; bs.forEach((b, j) => b.setAttribute("aria-pressed", j === i ? "true" : "false")); if (o.onChange) o.onChange(); } }, t));
+      /* Shown in a settled order, not the author's. `sel` stays the MANIFEST index, so answer, feedback,
+         misconceptions, marking and anything stored elsewhere are untouched by the reordering. */
+      const ord = A.settledOrder(it.options.length, String(it.q) + "|" + it.options.join("|"));
+      const pos = []; ord.forEach((orig, d) => { pos[orig] = d; });
+      const bs = ord.map((orig, d) => h("button", { type: "button", class: "chip", "aria-pressed": "false", onclick: () => { if (locked) return; sel = orig; bs.forEach((b, j) => b.setAttribute("aria-pressed", j === d ? "true" : "false")); if (o.onChange) o.onChange(); } }, it.options[orig]));
       node.append(h("div", { class: "chips", role: "group", "aria-labelledby": qid }, bs));
-      api = { value: () => sel, answered: () => sel >= 0, correct: () => sel === it.answer, marks() { bs[it.answer].classList.add("right"); if (sel >= 0 && sel !== it.answer) bs[sel].classList.add("wrong"); }, lock() { locked = true; bs.forEach((b) => b.setAttribute("aria-disabled", "true")); }, focus: () => bs[0].focus(), clear() { bs.forEach((b) => b.classList.remove("right", "wrong")); } };
+      api = { value: () => sel, answered: () => sel >= 0, correct: () => sel === it.answer, marks() { bs[pos[it.answer]].classList.add("right"); if (sel >= 0 && sel !== it.answer) bs[pos[sel]].classList.add("wrong"); }, lock() { locked = true; bs.forEach((b) => b.setAttribute("aria-disabled", "true")); }, focus: () => bs[0].focus(), clear() { bs.forEach((b) => b.classList.remove("right", "wrong")); } };
     } else if (it.kind === "numeric") {
       node.append(h("p", { class: "iq", id: qid }, it.q));
       const inp = h("input", { class: "inp", type: "text", inputmode: "decimal", autocomplete: "off", spellcheck: "false", "aria-labelledby": qid, placeholder: "your answer" });
